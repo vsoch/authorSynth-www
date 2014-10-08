@@ -155,7 +155,7 @@ $(function() {
               <!-- COLLABORATIONS -->
               <div class="tab-pane" id="collab">
                 <br><br>
-                <p>Below is a list of neuroscientists, ordered by similarity of published regional activation.  The position of the point from left to right represents this similarity score - with scores toward the left corresponding to more overlap in published regional activation, and scores to the right corresponding to less overlap in published activation points.  The size of the point reflects an "enrichment score" - the percentage of neuroscientists up to that point that the author in question has actually worked with (as determined by being on one or more papers together in the NeuroSynth database).  A red point indicates an actual coauthor, and at these points the collaboration score jumps.  You can click on the circles to view the collaborator page.</p><br><h2 style="padding-left:150px;">Most Similar</h2>
+                <p>Below is a list of neuroscientists, ordered by similarity of published regional activation.  The position of the point from left to right represents this similarity score - with scores toward the left corresponding to more overlap in published regional activation, and scores to the right corresponding to less overlap in published activation points.  The size of the point reflects an "enrichment score" - the percentage of neuroscientists up to that point that the author in question has actually worked with (as determined by being on one or more papers together in the NeuroSynth database).  A red point indicates an actual coauthor, and at these points the collaboration score jumps.  You can click on the circles to view the collaborator page.</p><br><strong><p style="padding-left:150px;">Most Similar</strong></p>
                 <match></match>
                 <style type="text/css">
                   .axis path,.axis line {fill: none;stroke:#b6b6b6;shape-rendering: crispEdges;}
@@ -213,7 +213,7 @@ $(function() {
                     xAxis.tickFormat(formatYears);
 
                 var msvg = d3.select("match").append("svg")
-                   .attr("width", width + margin.left + margin.right)
+                   .attr("width", 500 + margin.left + margin.right)
                    .attr("height", height + margin.top + margin.bottom)
                    .style("margin-left", margin.left + "px")
                    .append("g")
@@ -265,7 +265,6 @@ $(function() {
                              if (d["ACTUAL_COLLABORATOR"] == "0"){ return "orange"}
                              else { return "red"}
                          })
-
 
 
                     for (var j = 0; j < 100; j++) {
