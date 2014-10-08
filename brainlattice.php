@@ -148,7 +148,7 @@ $(function() {
         }
         // if we have a uid
          if($uid) {
-            $uid = explode(",", $uid);  
+            $uid = explode(",", $uid);
             foreach ($uid as $u) {
                echo "<a href=\"author.php?uid=" . $u . "\"><img src=\"img/brainlatticethumb/" . $u . ".png\" width=100px/></a>\n";
             }
