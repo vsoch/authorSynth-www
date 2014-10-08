@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	1	1	auditory|speech	#FEE188	0.287108379774776
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	2	1		#FEE188	0.236651666401797
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	3	1	da|integration	#FD913D	0.537230778325256
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	4	1		#FD913D	0.538527811635523
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	5	1	physical|psychophysical|tactile	#FDAD4A	0.462905330010736
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	6	1		#FD913D	0.501419597533086
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	7	1	somatosensory|stimulation	#FDAD4A	0.419869481474777
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	8	1	painful|pain	#FEE188	0.269614908643502
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	9	1		#FECB68	0.388838729712174
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	10	1	ratings	#FD913D	0.572099185842806
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	11	1	affective|affect	#FC622F	0.653961356663811
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	12	1	emotions	#FD913D	0.507518390574462
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	13	1	expression|expressions|facial	#FEE188	0.251905214419514
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	14	1		#FD913D	0.536652861185479
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	15	1		#FD913D	0.572335723796761
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	16	1	emotion|motion|neutral	#FD913D	0.558037732772055
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	17	1	rating	#FC622F	0.644147258074875
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	18	1	negative|positive	#FC622F	0.684578964342935
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	19	1		#F03623	0.799196075081175
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	20	1	ear|order	#F03623	0.772468960072061
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	21	1	motor	#FD913D	0.573260518789207
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	22	1	visual	#FC622F	0.651250262734723
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	23	1	age|image|response	#F03623	0.70527420906714
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	1	2	sound|sounds	#FFFFCC	0.0509576254166777
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	2	2		#FFF1A9	0.196948918359245
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	3	2	audiovisual|bimodal|crossmodal	#FFFFCC	0.0641468087968077
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	4	2		#FD913D	0.558890286930508
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	5	2		#FD913D	0.586224496518409
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	6	2		#FD913D	0.548594716130586
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	7	2	sensation	#FEE188	0.261158217772542
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	8	2	heat|noxious	#FFF1A9	0.197659992060248
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	9	2		#FDAD4A	0.409118426375039
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	10	2		#FC622F	0.611582626242818
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	11	2		#FC622F	0.643993731523432
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	12	2	valence	#FD913D	0.569879209947534
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	13	2	person|social	#F03623	0.767372702956545
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	14	2		#FD913D	0.560687450406973
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	15	2	face|faces	#FDAD4A	0.441258491094003
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	16	2		#FC622F	0.669231513251959
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	17	2		#F03623	0.738776981308811
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	18	2		#D7141E	0.825855657164742
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	19	2		#D7141E	0.846052168908241
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	20	2		#D7141E	0.804230976791378
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	21	2	images|spatial	#F03623	0.739669683388953
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	22	2	control	#F03623	0.73903212750719
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	23	2	time	#F03623	0.738174488579231
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	1	3	acoustic|listening|musical|music|pitch	#FFFFCC	0
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	2	3	noise|tones	#FFFFCC	0.084784057473661
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	3	3		#FECB68	0.36000036153717
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	4	3		#FD913D	0.533557201724778
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	5	3	frequency	#FC622F	0.636548550556164
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	6	3		#FC622F	0.63939463802586
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	7	3		#FECB68	0.346320953982051
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	8	3	temperature	#FFF1A9	0.19370400134112
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	9	3		#FDAD4A	0.40388578223012
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	10	3	pleasant|unpleasant	#FDAD4A	0.411934611132191
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	11	3	anxiety	#FDAD4A	0.494145683450682
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	12	3		#FC622F	0.688927160599231
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	13	3		#F03623	0.736171708500181
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	14	3		#FC622F	0.685811057321522
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	15	3		#F03623	0.706622313100528
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	16	3	picture	#F03623	0.784734552018673
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	17	3		#F03623	0.79487038401685
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	18	3	value	#D7141E	0.873985520248153
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	19	3	cue	#D7141E	0.868323149224076
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	20	3	error|target	#D7141E	0.890729018748481
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	21	3	attention	#F03623	0.785152104077654
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	22	3		#D7141E	0.80784711359747
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	23	3	number	#D7141E	0.802222163231552
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	1	4	voice	#FFFFCC	0.0115901829582871
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	2	4		#FFF1A9	0.173181790193182
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	3	4	hearing	#FEE188	0.23575402738435
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	4	4		#FDAD4A	0.456461122885795
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	5	4	overt	#FD913D	0.54108810765998
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	6	4		#FD913D	0.509713901144465
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	7	4		#FDAD4A	0.410836681640082
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	8	4	nociceptive|nonpainful|painrelated	#FFF1A9	0.173709963624212
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	9	4	unpleasantness	#FECB68	0.330858068156299
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	10	4	skin|subjective	#FD913D	0.582597432874283
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	11	4	depression	#FC622F	0.642028402408401
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	12	4	experience	#FC622F	0.631733704825465
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	13	4	female	#FC622F	0.660084935858991
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	14	4	male	#F03623	0.776014237092062
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	15	4	pictures	#FC622F	0.67331638973938
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	16	4		#F03623	0.790904843996448
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	17	4	perception	#FC622F	0.60736691600977
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	18	4		#B10026	0.932326583115341
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	19	4		#B10026	0.937925506861435
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	20	4		#B10026	0.906871120685919
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	21	4	correct	#D7141E	0.885749487464467
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	22	4	work	#D7141E	0.831456285219899
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	23	4	memory	#F03623	0.787889602949661
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	1	5	prosodic|prosody	#FFFFCC	0.0882412574884643
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	2	5	phonetic	#FFFFCC	0.0792221057454494
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	3	5	syllable|syllables	#FECB68	0.356921022818951
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	4	5		#FECB68	0.392072405096872
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	5	5	lip|production	#FEE188	0.218524324125597
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	6	5	somatotopic	#FFF1A9	0.136029707689055
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	7	5		#FD913D	0.527493064708298
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	8	5		#FDAD4A	0.495964642956009
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	9	5	empathy	#FD913D	0.532698447496654
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	10	5		#F03623	0.710641815498799
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	11	5	disorder	#FC622F	0.661565767710187
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	12	5		#F03623	0.795637193983784
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	13	5		#D7141E	0.821249097793709
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	14	5		#D7141E	0.818831244806878
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	15	5		#D7141E	0.810557439341768
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	16	5		#D7141E	0.801783301487377
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	17	5		#D7141E	0.860171499628416
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	18	5	mental	#B10026	1
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	19	5	go	#D7141E	0.880991363139552
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	20	5	object	#F03623	0.712509948833177
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	21	5		#D7141E	0.87346694112729
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	22	5		#D7141E	0.808517598126886
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	23	5	word|words	#FC622F	0.610735770952053
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	1	6		#FDAD4A	0.490645072625626
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	2	6		#FD913D	0.515541805767187
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	3	6		#FD913D	0.568119059337852
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	4	6	vocal	#FFF1A9	0.119254645311891
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	5	6	articulatory	#FFFFCC	0.0940923687658023
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	6	6		#FD913D	0.502880801375644
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	7	6	oddball	#FD913D	0.538151758095665
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	8	6	perceived	#FDAD4A	0.473313300437254
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	9	6	errorrelated	#FDAD4A	0.449178069189586
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	10	6	approach	#FC622F	0.640624672111136
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	11	6	schizophrenia	#FC622F	0.663357378084407
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	12	6	acquisition	#F03623	0.708495828675572
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	13	6		#F03623	0.755515522030801
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	14	6		#FC622F	0.608464286945785
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	15	6		#FC622F	0.620798382127571
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	16	6		#FC622F	0.66470713047887
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	17	6		#F03623	0.778924584033647
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	18	6		#D7141E	0.827506043932669
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	19	6		#D7141E	0.8581808183533
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	20	6	objects	#D7141E	0.843702867516245
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	21	6		#D7141E	0.855598044565312
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	22	6		#F03623	0.754815808322116
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	23	6	language|semantic	#FC622F	0.640363478225946
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	1	7	dopamine|dopaminergic	#FECB68	0.33936244927679
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	2	7		#FD913D	0.525175365858221
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	3	7		#F03623	0.776198330850469
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	4	7		#D7141E	0.80623597365954
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	5	7		#D7141E	0.842300543270804
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	6	7		#D7141E	0.827988059779631
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	7	7		#D7141E	0.807070260456596
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	8	7		#F03623	0.777947671944335
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	9	7		#F03623	0.781818237373824
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	10	7		#D7141E	0.870110708211044
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	11	7		#D7141E	0.875230015809933
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	12	7		#D7141E	0.832733988677985
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	13	7	linguistic|spoken	#FDAD4A	0.460190984155291
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	14	7		#FD913D	0.548259252764769
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	15	7	comprehension|sentence|sentences|syntactic	#FDAD4A	0.456071510893974
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	16	7		#FD913D	0.585212744530707
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	17	7		#FC622F	0.692004332768353
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	18	7	phonological|reading|read	#FC622F	0.617952820079983
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	19	7		#F03623	0.800251667480562
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	20	7	perceptual|recognition	#F03623	0.797453917635173
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	21	7		#D7141E	0.875724156672994
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	22	7		#F03623	0.791318213205757
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	23	7	verb	#F03623	0.763834867335271
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	1	8	outcome|reward	#FD913D	0.538325257113712
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	2	8	anticipation	#FDAD4A	0.445553841225352
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	3	8	outcomes	#FD913D	0.566021495404381
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	4	8	choice|choices	#FC622F	0.675395975316134
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	5	8	decisions|probability	#D7141E	0.839634473225243
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	6	8	reversal	#F03623	0.748674339331362
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	7	8	classification|incorrect	#FC622F	0.623189438672146
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	8	8		#D7141E	0.859820223782959
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	9	8	agerelated|fluency|probes	#F03623	0.774827872902037
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	10	8	engaged	#D7141E	0.800828876728997
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	11	8	explicit|knowledge	#F03623	0.727547867703931
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	12	8		#F03623	0.753401458118453
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	13	8		#FC622F	0.604035588817248
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	14	8		#FD913D	0.543609021132228
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	15	8		#FD913D	0.532989535573215
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	16	8		#FD913D	0.564663621767082
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	17	8	lexical	#FD913D	0.549487231621126
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	18	8		#F03623	0.714592308985631
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	19	8		#F03623	0.784099935670942
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	20	8		#D7141E	0.860106342720381
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	21	8	encoding	#F03623	0.771433961295099
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	22	8	retrieval	#D7141E	0.878115631969002
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	23	8	verbal	#D7141E	0.836477135868528
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	1	9	incentive|monetary|money|rewards	#FEE188	0.242205796637899
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	2	9	loss	#FDAD4A	0.495130122422192
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	3	9		#F03623	0.722802870846711
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	4	9		#D7141E	0.812156135049309
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	5	9	decisionmaking	#FC622F	0.662176722469894
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	6	9		#B10026	0.913004353380469
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	7	9		#B10026	0.904121148474061
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	8	9		#D7141E	0.896945224786296
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	9	9		#B10026	0.925706259601909
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	10	9		#D7141E	0.860858303631373
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	11	9		#F03623	0.767474006631931
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	12	9		#FC622F	0.700386436844204
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	13	9	noun	#FDAD4A	0.436062824965413
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	14	9	meaning	#FDAD4A	0.48206950888709
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	15	9	english	#FDAD4A	0.492544755847307
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	16	9	pseudoword|pseudowords	#FECB68	0.39749278434086
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	17	9		#FC622F	0.628768118632329
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	18	9		#F03623	0.759480295468397
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	19	9	familiar|judgment	#F03623	0.783547940475867
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	20	9	pair|pairs	#F03623	0.784308719868333
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	21	9		#B10026	0.933010035411105
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	22	9		#B10026	0.945164206589532
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	23	9	letter|working	#D7141E	0.881947164979458
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	1	10	losses|reinforcement|win	#FECB68	0.34353481425733
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	2	10	gain	#FECB68	0.308886949002726
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	3	10	expectation	#FC622F	0.653934783514954
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	4	10	risk	#FD913D	0.594653067876636
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	5	10	fact	#FC622F	0.631230115943487
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	6	10	associative	#D7141E	0.815003248919544
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	7	10	familiarity|judgments|old	#FC622F	0.680771654113733
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	8	10	contextual|text	#D7141E	0.806181300727881
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	9	10	recall|retrieved	#F03623	0.726195280394113
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	10	10	conceptual|semantically	#FC622F	0.677073929783704
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	11	10	grammatical|speakers	#FDAD4A	0.45766306680476
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	12	10	nouns	#FDAD4A	0.435432123387073
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	13	10	japanese	#FDAD4A	0.447827780475573
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	14	10	languages	#FDAD4A	0.458684416445571
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	15	10	written	#FECB68	0.39006971339147
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	16	10	chinese|phonology	#FDAD4A	0.475075324251259
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	17	10	orthographic	#FD913D	0.568359381089792
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	18	10		#D7141E	0.818046336269635
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	19	10		#D7141E	0.868233143076505
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	20	10	association|decision	#B10026	0.951894072979048
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	21	10	selection	#D7141E	0.893004601737741
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	22	10	letters	#F03623	0.781759720802738
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	23	10	demand|load	#B10026	0.977643848282461
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	1	11	conditioned|conditioning	#FFF1A9	0.162564863540411
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	2	11		#FD913D	0.570223479661066
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	3	11	drug|placebo	#FD913D	0.598078954792225
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	4	11		#D7141E	0.806963779296693
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	5	11	associations	#F03623	0.704028052611373
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	6	11		#F03623	0.790125863607458
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	7	11	episodic|recollection	#FC622F	0.629403523578485
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	8	11		#F03623	0.756922049905749
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	9	11		#F03623	0.795528522393916
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	10	11	concepts	#FECB68	0.343048532434621
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	11	11		#FC622F	0.674619643408759
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	12	11		#FC622F	0.673710100686491
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	13	11	german	#FD913D	0.522178149728549
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	14	11	readers	#FDAD4A	0.430912749470265
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	15	11	character|name|naming	#FDAD4A	0.489702103574543
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	16	11		#FC622F	0.683901711815654
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	17	11	novel	#D7141E	0.80474798015541
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	18	11		#D7141E	0.839341027370209
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	19	11	child|children	#FC622F	0.694559311200887
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	20	11	adults	#B10026	0.915070350770124
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	21	11	ability|feedback|learning	#B10026	0.902237891743808
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	22	11	cues|delay	#B10026	0.902354073764921
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	23	11	attentional|difficulty|targets	#B10026	0.960809485513473
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	1	12	aversive|shock	#FDAD4A	0.444850014112653
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	2	12	reactivity	#FECB68	0.359130235387939
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	3	12	males|sex|women	#FD913D	0.50478060770924
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	4	12	animal	#FD913D	0.503945855384194
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	5	12	animals	#FDAD4A	0.439651151671342
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	6	12		#FC622F	0.628667074667002
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	7	12	remember|subsequent	#FECB68	0.319325043282682
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	8	12	autobiographical|memories	#FECB68	0.356806409494235
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	9	12		#F03623	0.737090350525606
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	10	12	violation|violations	#FECB68	0.373878650937984
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	11	12	aphasia	#FD913D	0.555266461113458
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	12	12	nonwords	#FD913D	0.59103285579683
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	13	12	dyslexia	#FDAD4A	0.499108734220139
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	14	12		#FC622F	0.665923743731531
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	15	12	priming	#FDAD4A	0.402136236647909
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	16	12		#F03623	0.78507300566938
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	17	12	category|repetition	#F03623	0.779248410804985
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	18	12		#D7141E	0.868682369402437
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	19	12	developmental|development	#F03623	0.715925038617568
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	20	12		#D7141E	0.893660772635591
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	21	12	space	#D7141E	0.879287376105116
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	22	12		#B10026	0.943199989067527
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	23	12	color	#D7141E	0.842819548938238
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	1	13	threat	#FEE188	0.268503271401256
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	2	13	regulation	#FDAD4A	0.428521503227049
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	3	13		#FD913D	0.556140917000482
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	4	13	masked	#FECB68	0.342606568599868
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	5	13	scene|scenes	#FEE188	0.293441442391298
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	6	13		#FD913D	0.53465391871323
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	7	13	confidence|remembered	#FEE188	0.222727929196661
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	8	13		#FC622F	0.655990090766774
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	9	13		#F03623	0.77350896702285
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	10	13	ambiguity|ambiguous	#FEE188	0.288077318173961
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	11	13		#F03623	0.729334823595245
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	12	13		#F03623	0.755627081199643
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	13	13	writing	#FDAD4A	0.434578624645775
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	14	13		#F03623	0.736210356613228
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	15	13	categorization|congruency|prime	#FD913D	0.537507042416388
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	16	13		#D7141E	0.844634618686012
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	17	13	mask	#F03623	0.762749367359927
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	18	13		#B10026	0.920436295313486
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	19	13		#D7141E	0.883970308550547
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	20	13		#D7141E	0.842556991947587
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	21	13	conflict|congruent|incongruent	#FC622F	0.680505563814726
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	22	13	errors	#D7141E	0.817454038704253
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	23	13	maintenance|probe|wm	#D7141E	0.838824194868688
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	1	14	angry|fearful|happy	#FFFFCC	0.0588918706167109
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	2	14		#FEE188	0.276072320636121
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	3	14	awareness|conscious|ptsd	#FECB68	0.368816347704668
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	4	14		#FD913D	0.555091529359499
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	5	14	houses|photographs	#FFFFCC	0.0590560505334532
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	6	14		#FD913D	0.587999795814603
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	7	14	hits	#FECB68	0.386322685947259
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	8	14	famous	#FECB68	0.393943723007551
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	9	14	names	#FD913D	0.594841727719081
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	10	14	family	#FD913D	0.557583345984236
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	11	14	competition|mouth	#FD913D	0.50151868894622
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	12	14	abilities	#FD913D	0.597989296335695
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	13	14	implicit|unfamiliar	#FDAD4A	0.437008252024965
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	14	14		#FC622F	0.695805354350377
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	15	14	tom	#F03623	0.773072811871768
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	16	14		#D7141E	0.875480667291061
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	17	14		#B10026	0.947928583878019
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	18	14	stop	#F03623	0.740867704475783
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	19	14	inhibition|inhibitory|nogo	#D7141E	0.814085402978472
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	20	14	monitoring|stroop	#FD913D	0.540332732405283
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	21	14	interference	#F03623	0.706234161054769
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	22	14		#D7141E	0.844257804731938
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	23	14	demands|executive	#B10026	0.915686807901135
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	1	15	anger	#FFF1A9	0.105429341961209
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	2	15	stress	#FFF1A9	0.131684028319511
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	3	15	feelings	#FEE188	0.290953718119356
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	4	15	salient	#FDAD4A	0.460169401273553
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	5	15	novelty	#FEE188	0.218883161868817
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	6	15	movie	#FD913D	0.578696135821572
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	7	15		#B10026	0.915672347800328
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	8	15		#B10026	0.984063398579443
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	9	15	longterm	#FC622F	0.6969513927746
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	10	15		#B10026	0.914871004916561
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	11	15	reasoning|relational	#F03623	0.718881761617032
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	12	15		#F03623	0.78689606860382
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	13	15	presentations	#FEE188	0.296940643693189
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	14	15		#FC622F	0.686497010056552
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	15	15	identity	#FDAD4A	0.498832919723514
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	16	15		#D7141E	0.880297769511536
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	17	15	strategies|strategy	#D7141E	0.893325015925814
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	18	15	card|cards	#F03623	0.732299014843151
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	19	15	gonogo	#FC622F	0.66708208049463
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	20	15		#D7141E	0.823327565409323
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	21	15	switching|switch	#F03623	0.711937314253487
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	22	15		#D7141E	0.812919280172133
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	23	15	2back|rule	#F03623	0.742112959694661
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	1	16	emotionally|mood|personality|sadness	#FFF1A9	0.193360117506361
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	2	16	disgust|sexual	#FEE188	0.227156360860213
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	3	16	olfactory	#FFF1A9	0.137685323640745
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	4	16	physiological	#FC622F	0.632123749715447
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	5	16	depressed|depressive|habituation	#FECB68	0.330190772408482
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	6	16	schizophrenic	#FC622F	0.697988935193122
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	7	16	colors|contexts	#F03623	0.792164886767364
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	8	16	aging|encoded	#FC622F	0.600525601859067
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	9	16	goal	#FD913D	0.515785707043036
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	10	16		#B10026	0.905236677015306
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	11	16	autism|autistic|nonverbal	#FD913D	0.542493297908682
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	12	16		#F03623	0.795194862188475
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	13	16	bottomup|repetitions	#FD913D	0.50632752868997
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	14	16	adaptation	#FDAD4A	0.431150977167122
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	15	16	irrelevant	#F03623	0.736122614548614
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	16	16	distractor|distractors	#FD913D	0.564246082533391
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	17	16		#B10026	0.934274464079337
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	18	16	subtraction	#FD913D	0.579333664325307
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	19	16	1back|nback	#F03623	0.703516137464212
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	20	16	manipulation|rules	#D7141E	0.812943869223575
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	21	16		#D7141E	0.8682254819868
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	22	16		#D7141E	0.834321181176106
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	23	16	digit	#F03623	0.766423678947954
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	1	17	avoidance	#FFF1A9	0.12399658633589
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	2	17		#FECB68	0.361652787355462
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	3	17	eating|food	#FEE188	0.252964106008187
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	4	17	taste	#FECB68	0.397299305119435
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	5	17	bipolar	#FD913D	0.518741072262177
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	6	17	illness|uncertainty	#FD913D	0.53559559155772
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	7	17	females|probabilistic	#FDAD4A	0.419762227519182
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	8	17	rejection	#FECB68	0.372270946128901
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	9	17	colour|paired	#FC622F	0.649835096891361
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	10	17		#B10026	0.966150685973031
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	11	17		#B10026	0.937453937238514
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	12	17		#D7141E	0.866136486474897
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	13	17	taskirrelevant	#FDAD4A	0.405726828932727
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	14	17		#F03623	0.709166450691737
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	15	17	suppression	#FD913D	0.50562210491509
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	16	17		#D7141E	0.848848618587816
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	17	17	shifting|shortterm	#F03623	0.74130581788808
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	18	17	digits	#FC622F	0.632383471698048
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	19	17	search	#D7141E	0.804728555266918
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	20	17	counting|taskrelated	#F03623	0.759673478638354
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	21	17	topdown	#FC622F	0.66428379387319
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	22	17	visuospatial	#F03623	0.734130098791006
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	23	17	arithmetic|calculation|solving	#F03623	0.72763970135666
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	1	18	addiction|craving|drugs	#FFF1A9	0.172352012876428
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	2	18	allele|genotype|polymorphism	#FFF1A9	0.17186806123481
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	3	18	motivation	#FFF1A9	0.167545660373208
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	4	18	heart	#FDAD4A	0.476969276655192
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	5	18	sleep	#FD913D	0.576808673021925
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	6	18	expectancy	#FC622F	0.676896137519325
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	7	18	phasic|salience	#FD913D	0.517286921496172
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	8	18	adolescence|adolescents	#FDAD4A	0.404790014017461
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	9	18	intelligence|tracking	#FC622F	0.633812317506072
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	10	18		#B10026	0.938544894571304
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	11	18	serial	#FD913D	0.550468151486948
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	12	18		#D7141E	0.816234512150692
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	13	18	spatially|taskrelevant	#FD913D	0.52126072460248
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	14	18		#F03623	0.723376738155575
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	15	18	attended|attend|unattended	#FDAD4A	0.449017536811345
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	16	18	rotation|shapes	#FC622F	0.670971295198844
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	17	18	rehearsal	#F03623	0.793957961316956
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	18	18	learned	#F03623	0.740912240871749
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	19	18		#B10026	0.976182174551713
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	20	18	cued|preparatory	#D7141E	0.823468889686378
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	21	18		#B10026	0.928398257989841
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	22	18		#D7141E	0.876682679052479
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	23	18	numbers|numerical	#F03623	0.733440648179872
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	1	19	future	#FDAD4A	0.461447434536304
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	2	19	negatively	#FECB68	0.319919867831007
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	3	19	distress|epilepsy|selfreported	#FFF1A9	0.152355064081066
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	4	19	anticipatory|cocaine|probabilities|smoking	#FECB68	0.380019071177965
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	5	19	alcohol|amount|impulsivity	#FDAD4A	0.46500760106487
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	6	19	game|success	#D7141E	0.839521495971504
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	7	19	adhd|childhood|engagement	#FD913D	0.52628227400992
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	8	19		#D7141E	0.876766432784725
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	9	19		#B10026	0.915738474218736
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	10	19		#D7141E	0.892073642450517
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	11	19		#D7141E	0.873984007434372
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	12	19	endogenous	#FC622F	0.663564573175971
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	13	19	cueing|invalid|orienting	#FC622F	0.626677658273445
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	14	19		#F03623	0.774536873043108
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	15	19	multisensory	#FD913D	0.575749334018273
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	16	19		#F03623	0.792704020446091
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	17	19	shifts	#D7141E	0.882034273844205
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	18	19	covert	#F03623	0.772424049649412
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	19	19		#B10026	0.961054609683235
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	20	19	preparation	#F03623	0.745866322978403
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	21	19	discrimination|training	#F03623	0.736709830245887
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	22	19	sequences	#F03623	0.753853792732692
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	23	19		#D7141E	0.868901845952509
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	1	20	personal|self|selfreferential|trait|traits	#FDAD4A	0.466706697367664
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	2	20	empathic|theory	#FEE188	0.282248202134518
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	3	20	attribution|intentional	#FECB68	0.381000939983977
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	4	20	elderly|oscillations	#FEE188	0.24843395818331
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	5	20	antipsychotic|virtual	#FECB68	0.376204654502916
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	6	20		#B10026	0.935251890966587
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	7	20	experiences	#FECB68	0.396029880133697
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	8	20	categorical|pressure	#FD913D	0.506308398332911
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	9	20	play|skills	#FECB68	0.335127064324318
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	10	20	automatic|trained	#FD913D	0.57470969061406
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	11	20		#D7141E	0.828851873288505
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	12	20	practice	#F03623	0.749976370199846
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	13	20	visuomotor	#FC622F	0.655602890672026
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	14	20		#D7141E	0.831404620836987
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	15	20	tool	#FD913D	0.553562744853039
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	16	20	vision	#FD913D	0.565932165229757
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	17	20	visually	#F03623	0.700404010062757
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	18	20	saccade|saccades|saccadic	#F03623	0.708029003218792
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	19	20	locations	#D7141E	0.880195977415264
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	20	20	imagery|planning	#B10026	0.913654971554469
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	21	20		#D7141E	0.866146800734443
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	22	20	rest	#F03623	0.703846260658619
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	23	20	sequence	#D7141E	0.82591868659754
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	1	21	scenarios	#FEE188	0.274254369851073
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	2	21	intention|intentions	#FD913D	0.54150049251905
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	3	21	causality|perspective	#FC622F	0.700092449849633
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	4	21	past	#FEE188	0.272221665879437
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	5	21		#D7141E	0.858979037168388
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	6	21	episode	#FEE188	0.251772141834689
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	7	21	improvement	#FECB68	0.304477838927944
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	8	21	masking|retention	#FD913D	0.545054047398389
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	9	21		#D7141E	0.862180127413836
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	10	21	dominant	#FC622F	0.618073566095233
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	11	21		#FC622F	0.690158591211556
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	12	21	sequential	#FC622F	0.627721885277418
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	13	21	fingers	#FDAD4A	0.466599020333711
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	14	21		#FC622F	0.649919015719698
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	15	21	gesture|gestures	#FD913D	0.515621491290335
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	16	21		#F03623	0.703090387669194
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	17	21	hands	#F03623	0.705471939763207
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	18	21		#D7141E	0.862929020085954
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	19	21		#D7141E	0.883271013598458
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	20	21	eye|position	#F03623	0.792008069219763
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	21	21	execution	#F03623	0.722195822568676
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	22	21	finger|sensorimotor	#FD913D	0.567056324555037
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	23	21		#FC622F	0.645157791659837
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	1	22	moral|stories|story	#FEE188	0.27587568078097
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	2	22	mentalizing|persons	#FDAD4A	0.496240566430641
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	3	22	default|restingstate	#FDAD4A	0.448929502820719
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	4	22	thinking|thought|thoughts	#FC622F	0.693756071542678
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	5	22	spontaneous	#FD913D	0.501011791535541
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	6	22	concentration|sensations	#FECB68	0.378481493287908
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	7	22	hierarchical|preference	#FEE188	0.273528802616435
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	8	22	effort|oral|simulation	#FC622F	0.608572053124785
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	9	22	interhemispheric|plasticity	#FECB68	0.394364504644347
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	10	22	imagined|imagine	#FC622F	0.645923787062817
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	11	22	tapping	#FDAD4A	0.474103633207974
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	12	22	foot|muscle|muscles|voluntary	#FEE188	0.215605227714647
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	13	22	limb	#FFF1A9	0.186517508707174
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	14	22	eyes|velocity	#FEE188	0.290826798777783
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	15	22	biological|gaze|videos	#FFF1A9	0.14409163849903
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	16	22	body	#FD913D	0.523302991215665
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	17	22	grasping|orientation|reaching	#FD913D	0.547396518853041
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	18	22		#D7141E	0.829926847189193
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	19	22	mirror|shape	#F03623	0.742427188160969
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	20	22	actions	#F03623	0.76000217492715
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	21	22	action	#D7141E	0.845945300282685
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	22	22		#FC622F	0.651398937862272
+5d33eef8-3f62-3820-b1ef-40f0bc9ec3cc	Pagnoni G	23	22	hand|movements|sensory	#FDAD4A	0.449976440682511

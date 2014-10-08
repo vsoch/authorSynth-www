@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	1	1	auditory|speech	#FFFFCC	0.0791311049907327
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	2	1		#FFF1A9	0.114434401363261
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	3	1	da|integration	#FFF1A9	0.182906919167557
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	4	1		#FFF1A9	0.179505177741203
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	5	1	physical|psychophysical|tactile	#FFF1A9	0.156000143068779
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	6	1		#FEE188	0.261481589547829
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	7	1	somatosensory|stimulation	#FEE188	0.23354963423987
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	8	1	painful|pain	#FDAD4A	0.40576711027219
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	9	1		#FDAD4A	0.438667560254651
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	10	1	ratings	#FD913D	0.510865945371478
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	11	1	affective|affect	#FECB68	0.391113738486335
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	12	1	emotions	#FECB68	0.340213700976993
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	13	1	expression|expressions|facial	#FECB68	0.320799008042578
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	14	1		#FDAD4A	0.428547865524639
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	15	1		#FDAD4A	0.42258243176475
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	16	1	emotion|motion|neutral	#FECB68	0.350955765509819
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	17	1	rating	#FD913D	0.530003232889934
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	18	1	negative|positive	#FD913D	0.564195662588708
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	19	1		#FECB68	0.36251325776368
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	20	1	ear|order	#FEE188	0.212331591928853
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	21	1	motor	#FFFFCC	0.0408899182241117
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	22	1	visual	#FFF1A9	0.1037995590761
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	23	1	age|image|response	#FFF1A9	0.187013066995441
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	1	2	sound|sounds	#FFF1A9	0.125286075640942
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	2	2		#FFF1A9	0.117083383682525
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	3	2	audiovisual|bimodal|crossmodal	#FEE188	0.213224649479871
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	4	2		#FFF1A9	0.169259826945758
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	5	2		#FFF1A9	0.179069945819314
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	6	2		#FEE188	0.24157264261357
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	7	2	sensation	#FDAD4A	0.405456531163486
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	8	2	heat|noxious	#FECB68	0.359104746217915
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	9	2		#FDAD4A	0.437682307165567
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	10	2		#FDAD4A	0.457028672030257
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	11	2		#FDAD4A	0.459000970580891
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	12	2	valence	#FD913D	0.528487025555146
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	13	2	person|social	#FD913D	0.512610006718242
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	14	2		#FDAD4A	0.426487985905972
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	15	2	face|faces	#FDAD4A	0.430204533408658
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	16	2		#FDAD4A	0.440637688187228
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	17	2		#FDAD4A	0.480735108390526
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	18	2		#FDAD4A	0.442872205064007
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	19	2		#FECB68	0.358798593133998
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	20	2		#FFF1A9	0.191951965235066
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	21	2	images|spatial	#FFF1A9	0.119735170141599
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	22	2	control	#FFF1A9	0.148756364152874
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	23	2	time	#FFF1A9	0.178410462399109
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	1	3	acoustic|listening|musical|music|pitch	#FFF1A9	0.123327636945357
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	2	3	noise|tones	#FFF1A9	0.134746598636842
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	3	3		#FFF1A9	0.154392154242517
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	4	3		#FFF1A9	0.151554240234322
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	5	3	frequency	#FFF1A9	0.123016833784861
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	6	3		#FEE188	0.244110121762321
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	7	3		#FECB68	0.394541392262769
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	8	3	temperature	#FECB68	0.39334823976445
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	9	3		#FDAD4A	0.406549176908837
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	10	3	pleasant|unpleasant	#FEE188	0.291533838962901
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	11	3	anxiety	#FDAD4A	0.431325518473004
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	12	3		#FDAD4A	0.450169515184367
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	13	3		#FDAD4A	0.442776859292107
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	14	3		#FDAD4A	0.416761868602283
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	15	3		#FDAD4A	0.421815658769301
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	16	3	picture	#FDAD4A	0.440458892792579
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	17	3		#FDAD4A	0.454460385935428
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	18	3	value	#FDAD4A	0.468633697482173
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	19	3	cue	#FEE188	0.242674254806219
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	20	3	error|target	#FFF1A9	0.182175399648637
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	21	3	attention	#FFF1A9	0.104538909101084
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	22	3		#FFF1A9	0.177186510729449
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	23	3	number	#FEE188	0.21507573144444
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	1	4	voice	#FFF1A9	0.106234840381264
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	2	4		#FFF1A9	0.118305079897294
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	3	4	hearing	#FFF1A9	0.167557355785708
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	4	4		#FFF1A9	0.134426774608544
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	5	4	overt	#FFF1A9	0.111302213055329
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	6	4		#FFF1A9	0.188717362809933
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	7	4		#FECB68	0.370166578969698
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	8	4	nociceptive|nonpainful|painrelated	#FECB68	0.365382681393558
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	9	4	unpleasantness	#FECB68	0.351826051949518
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	10	4	skin|subjective	#FD913D	0.562599299978783
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	11	4	depression	#FDAD4A	0.41928978621329
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	12	4	experience	#FDAD4A	0.437081941192274
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	13	4	female	#FECB68	0.348526895792552
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	14	4	male	#FDAD4A	0.408186719734854
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	15	4	pictures	#FECB68	0.365662616862294
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	16	4		#FECB68	0.390190347657021
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	17	4	perception	#FEE188	0.297308932075077
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	18	4		#FEE188	0.298418148421161
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	19	4		#FEE188	0.25300924113568
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	20	4		#FEE188	0.217961210212783
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	21	4	correct	#FECB68	0.300898717031006
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	22	4	work	#FFF1A9	0.114743450113232
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	23	4	memory	#FFF1A9	0.188375841270327
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	1	5	prosodic|prosody	#FFFFCC	0.0978252059855639
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	2	5	phonetic	#FFF1A9	0.127903667760565
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	3	5	syllable|syllables	#FFFFCC	0.0848354232214337
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	4	5		#FFF1A9	0.154312091201625
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	5	5	lip|production	#FFF1A9	0.150055879843869
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	6	5	somatotopic	#FEE188	0.242269244919256
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	7	5		#FECB68	0.304757533598145
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	8	5		#FECB68	0.300583179243925
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	9	5	empathy	#FECB68	0.309664651783571
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	10	5		#FECB68	0.350512490364669
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	11	5	disorder	#FEE188	0.295017734739571
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	12	5		#FECB68	0.373577941687934
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	13	5		#FECB68	0.380977139592042
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	14	5		#FECB68	0.361367937586982
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	15	5		#FECB68	0.369269838828479
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	16	5		#FECB68	0.338183895728868
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	17	5		#FECB68	0.312145322335767
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	18	5	mental	#FEE188	0.235088324320292
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	19	5	go	#FFF1A9	0.198000878690982
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	20	5	object	#FEE188	0.214442207141451
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	21	5		#FEE188	0.206755404082379
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	22	5		#FEE188	0.210787926704658
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	23	5	word|words	#FFF1A9	0.142062443059012
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	1	6		#FD913D	0.515638090261787
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	2	6		#FDAD4A	0.452102741818496
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	3	6		#FDAD4A	0.443937806961305
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	4	6	vocal	#FFF1A9	0.145442173184175
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	5	6	articulatory	#FFF1A9	0.129686273374919
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	6	6		#FEE188	0.263992915984964
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	7	6	oddball	#FEE188	0.285048728724237
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	8	6	perceived	#FEE188	0.213469229604516
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	9	6	errorrelated	#FEE188	0.233185744999054
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	10	6	approach	#FEE188	0.28567023035794
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	11	6	schizophrenia	#FECB68	0.313107461196892
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	12	6	acquisition	#FEE188	0.233998466389957
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	13	6		#FEE188	0.299551556115331
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	14	6		#FEE188	0.261164255835
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	15	6		#FEE188	0.280559084000214
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	16	6		#FEE188	0.2825560316894
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	17	6		#FEE188	0.265088539628739
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	18	6		#FEE188	0.249836204986056
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	19	6		#FEE188	0.254148333297669
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	20	6	objects	#FECB68	0.304140771358044
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	21	6		#FEE188	0.224210913765544
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	22	6		#FEE188	0.20411806898544
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	23	6	language|semantic	#FEE188	0.223630848075512
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	1	7	dopamine|dopaminergic	#FD913D	0.512233855898568
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	2	7		#D7141E	0.836394607447081
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	3	7		#F03623	0.77546830315987
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	4	7		#FC622F	0.604872482077927
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	5	7		#FD913D	0.540899441130062
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	6	7		#FDAD4A	0.453451775729385
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	7	7		#FDAD4A	0.418417106299381
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	8	7		#FECB68	0.360501521374036
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	9	7		#FEE188	0.25284420877662
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	10	7		#FEE188	0.227300704666857
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	11	7		#FEE188	0.241256515022703
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	12	7		#FEE188	0.227756994881643
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	13	7	linguistic|spoken	#FFF1A9	0.163067446945845
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	14	7		#FEE188	0.230735000007753
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	15	7	comprehension|sentence|sentences|syntactic	#FEE188	0.2519669783542
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	16	7		#FEE188	0.243675120853958
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	17	7		#FEE188	0.245658781738253
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	18	7	phonological|reading|read	#FEE188	0.212577084218157
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	19	7		#FEE188	0.269398350890571
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	20	7	perceptual|recognition	#FECB68	0.306725413510805
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	21	7		#FEE188	0.258794876737568
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	22	7		#FEE188	0.210556924583918
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	23	7	verb	#FFF1A9	0.131769570263572
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	1	8	outcome|reward	#B10026	0.914568600474816
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	2	8	anticipation	#D7141E	0.821075574925231
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	3	8	outcomes	#D7141E	0.879267443922643
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	4	8	choice|choices	#F03623	0.741924239010984
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	5	8	decisions|probability	#FDAD4A	0.416810032105691
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	6	8	reversal	#FECB68	0.362675493560896
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	7	8	classification|incorrect	#FD913D	0.575792030501002
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	8	8		#FECB68	0.394730453032407
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	9	8	agerelated|fluency|probes	#FFF1A9	0.105450454823969
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	10	8	engaged	#FFF1A9	0.156986564121699
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	11	8	explicit|knowledge	#FEE188	0.199545773762527
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	12	8		#FFF1A9	0.181618622309796
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	13	8		#FEE188	0.222646431153123
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	14	8		#FEE188	0.244063723758225
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	15	8		#FEE188	0.254859391998272
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	16	8		#FEE188	0.247496696216869
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	17	8	lexical	#FEE188	0.212452198032993
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	18	8		#FEE188	0.269934959582751
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	19	8		#FEE188	0.285411869455025
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	20	8		#FECB68	0.327413651114884
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	21	8	encoding	#FECB68	0.370624411918362
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	22	8	retrieval	#FEE188	0.28121384297928
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	23	8	verbal	#FFF1A9	0.110566899590495
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	1	9	incentive|monetary|money|rewards	#B10026	1
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	2	9	loss	#B10026	0.97067192914982
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	3	9		#D7141E	0.847157346772151
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	4	9		#F03623	0.71641876512553
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	5	9	decisionmaking	#FD913D	0.548068405054106
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	6	9		#FD913D	0.50939748606342
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	7	9		#FDAD4A	0.464300919828895
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	8	9		#FECB68	0.388015759693042
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	9	9		#FEE188	0.298458960381363
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	10	9		#FEE188	0.215402183816199
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	11	9		#FEE188	0.23018210908178
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	12	9		#FEE188	0.206387826164158
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	13	9	noun	#FFF1A9	0.132636817192228
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	14	9	meaning	#FEE188	0.29144720397117
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	15	9	english	#FEE188	0.283638199429688
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	16	9	pseudoword|pseudowords	#FFF1A9	0.130330618673206
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	17	9		#FEE188	0.259512430628413
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	18	9		#FEE188	0.293028338569058
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	19	9	familiar|judgment	#FECB68	0.354217037956724
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	20	9	pair|pairs	#FECB68	0.321517797399617
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	21	9		#FECB68	0.30048128880992
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	22	9		#FEE188	0.214537321441555
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	23	9	letter|working	#FFF1A9	0.136478229825024
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	1	10	losses|reinforcement|win	#D7141E	0.82879399505986
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	2	10	gain	#D7141E	0.872940430479523
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	3	10	expectation	#FD913D	0.572093321694598
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	4	10	risk	#FC622F	0.622691635041138
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	5	10	fact	#FD913D	0.557818705242677
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	6	10	associative	#FECB68	0.300123369597669
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	7	10	familiarity|judgments|old	#FDAD4A	0.417036492955196
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	8	10	contextual|text	#FEE188	0.216801217374072
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	9	10	recall|retrieved	#FEE188	0.249894861962869
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	10	10	conceptual|semantically	#FECB68	0.340660286410982
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	11	10	grammatical|speakers	#FECB68	0.332204948150544
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	12	10	nouns	#FFF1A9	0.133261371888545
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	13	10	japanese	#FFF1A9	0.137510916620506
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	14	10	languages	#FEE188	0.29161788190211
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	15	10	written	#FECB68	0.366741030114307
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	16	10	chinese|phonology	#FECB68	0.341200444490697
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	17	10	orthographic	#FFF1A9	0.175545200536114
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	18	10		#FECB68	0.30347987581047
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	19	10		#FECB68	0.327849013047869
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	20	10	association|decision	#FDAD4A	0.44329623210244
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	21	10	selection	#FEE188	0.234309175914932
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	22	10	letters	#FFF1A9	0.188305480453641
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	23	10	demand|load	#FFF1A9	0.162065169206142
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	1	11	conditioned|conditioning	#FC622F	0.604964331817184
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	2	11		#FC622F	0.694005236360017
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	3	11	drug|placebo	#FDAD4A	0.497386363098866
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	4	11		#FD913D	0.508893076957381
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	5	11	associations	#FECB68	0.386286626025716
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	6	11		#FDAD4A	0.433260939369528
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	7	11	episodic|recollection	#FDAD4A	0.461181862369489
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	8	11		#FECB68	0.396042577277921
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	9	11		#FECB68	0.352594081095702
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	10	11	concepts	#FEE188	0.220431665507795
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	11	11		#FEE188	0.293447248485312
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	12	11		#FEE188	0.269245366699414
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	13	11	german	#FDAD4A	0.441551664765548
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	14	11	readers	#FEE188	0.259241289627894
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	15	11	character|name|naming	#FECB68	0.312335733833526
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	16	11		#FECB68	0.325485235405806
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	17	11	novel	#FECB68	0.354515036444259
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	18	11		#FECB68	0.30073670462498
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	19	11	child|children	#FEE188	0.260649368384822
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	20	11	adults	#FECB68	0.301937267523608
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	21	11	ability|feedback|learning	#FDAD4A	0.400583898817812
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	22	11	cues|delay	#FECB68	0.361573552152265
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	23	11	attentional|difficulty|targets	#FFF1A9	0.193737936676771
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	1	12	aversive|shock	#FDAD4A	0.470445226122886
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	2	12	reactivity	#FDAD4A	0.407699956144349
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	3	12	males|sex|women	#FECB68	0.300169025345873
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	4	12	animal	#FECB68	0.356001162344327
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	5	12	animals	#FEE188	0.207800047760508
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	6	12		#FDAD4A	0.425765804619657
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	7	12	remember|subsequent	#FECB68	0.374355093770104
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	8	12	autobiographical|memories	#FD913D	0.512229672554195
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	9	12		#FECB68	0.346779511283366
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	10	12	violation|violations	#FEE188	0.260778097527577
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	11	12	aphasia	#FEE188	0.286381700809882
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	12	12	nonwords	#FEE188	0.208586606200608
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	13	12	dyslexia	#FEE188	0.227821139051144
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	14	12		#FECB68	0.338776292068241
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	15	12	priming	#FECB68	0.32279564834034
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	16	12		#FECB68	0.358473879826206
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	17	12	category|repetition	#FECB68	0.311273829589788
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	18	12		#FECB68	0.316350449850659
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	19	12	developmental|development	#FEE188	0.274445567338733
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	20	12		#FEE188	0.28773020982537
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	21	12	space	#FEE188	0.203318590442506
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	22	12		#FEE188	0.257462954039823
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	23	12	color	#FEE188	0.298709302477441
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	1	13	threat	#FECB68	0.327450737397318
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	2	13	regulation	#FDAD4A	0.412529833448152
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	3	13		#FDAD4A	0.457562505963024
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	4	13	masked	#FEE188	0.28536137460543
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	5	13	scene|scenes	#FEE188	0.206127635679178
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	6	13		#FDAD4A	0.460697661625666
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	7	13	confidence|remembered	#FECB68	0.398558185815165
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	8	13		#FDAD4A	0.46325641771554
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	9	13		#FECB68	0.336446763772715
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	10	13	ambiguity|ambiguous	#FFF1A9	0.183628159579452
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	11	13		#FEE188	0.288462551313601
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	12	13		#FECB68	0.327246275820587
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	13	13	writing	#FDAD4A	0.462618322668292
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	14	13		#FECB68	0.35490508053866
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	15	13	categorization|congruency|prime	#FECB68	0.331015548144314
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	16	13		#FECB68	0.350527520947521
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	17	13	mask	#FECB68	0.304330835780373
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	18	13		#FECB68	0.311122016379611
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	19	13		#FEE188	0.256804529028857
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	20	13		#FEE188	0.233273172603944
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	21	13	conflict|congruent|incongruent	#FFF1A9	0.178187439863224
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	22	13	errors	#FFF1A9	0.186019329967817
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	23	13	maintenance|probe|wm	#FFF1A9	0.197466391379135
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	1	14	angry|fearful|happy	#FEE188	0.260099613718799
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	2	14		#FECB68	0.336576095119418
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	3	14	awareness|conscious|ptsd	#FECB68	0.327763905005023
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	4	14		#FECB68	0.364280565811982
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	5	14	houses|photographs	#FDAD4A	0.407534915266259
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	6	14		#FDAD4A	0.425862286559231
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	7	14	hits	#FD913D	0.544625812140115
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	8	14	famous	#FECB68	0.306164521493241
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	9	14	names	#FFF1A9	0.147881134747698
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	10	14	family	#FEE188	0.218752792279155
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	11	14	competition|mouth	#FEE188	0.263003364391899
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	12	14	abilities	#FEE188	0.24142311589022
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	13	14	implicit|unfamiliar	#FEE188	0.292620633290417
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	14	14		#FECB68	0.354010244384339
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	15	14	tom	#FEE188	0.29657954258902
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	16	14		#FEE188	0.272447630504864
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	17	14		#FEE188	0.231337396047526
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	18	14	stop	#FEE188	0.244412940944162
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	19	14	inhibition|inhibitory|nogo	#FEE188	0.246858964604892
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	20	14	monitoring|stroop	#FFF1A9	0.196283758108314
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	21	14	interference	#FFF1A9	0.155631485529408
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	22	14		#FFF1A9	0.19702317993765
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	23	14	demands|executive	#FEE188	0.222130811770224
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	1	15	anger	#FDAD4A	0.448631320999309
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	2	15	stress	#FD913D	0.511150125304667
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	3	15	feelings	#FEE188	0.279744382497046
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	4	15	salient	#FECB68	0.363301201182229
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	5	15	novelty	#FECB68	0.325466217758373
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	6	15	movie	#FFF1A9	0.163188960815424
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	7	15		#FDAD4A	0.431407232353668
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	8	15		#FDAD4A	0.400080625350794
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	9	15	longterm	#FFF1A9	0.140688858906727
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	10	15		#FEE188	0.208074130341559
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	11	15	reasoning|relational	#FFF1A9	0.137050143684069
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	12	15		#FEE188	0.285699470363389
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	13	15	presentations	#FEE188	0.199875528694843
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	14	15		#FECB68	0.307456272506884
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	15	15	identity	#FEE188	0.273127892079567
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	16	15		#FEE188	0.2220127556518
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	17	15	strategies|strategy	#FFF1A9	0.159819740316359
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	18	15	card|cards	#FEE188	0.260031471219242
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	19	15	gonogo	#FFF1A9	0.191818397530219
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	20	15		#FFF1A9	0.194919845428859
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	21	15	switching|switch	#FFF1A9	0.181495671300534
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	22	15		#FFF1A9	0.165029360878959
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	23	15	2back|rule	#FFF1A9	0.130655696237195
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	1	16	emotionally|mood|personality|sadness	#FEE188	0.26028225755517
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	2	16	disgust|sexual	#FECB68	0.342130607149914
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	3	16	olfactory	#FECB68	0.343569529138207
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	4	16	physiological	#FDAD4A	0.477015504342687
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	5	16	depressed|depressive|habituation	#FECB68	0.316335661404693
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	6	16	schizophrenic	#FDAD4A	0.424630957788173
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	7	16	colors|contexts	#FEE188	0.244222331577433
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	8	16	aging|encoded	#FFF1A9	0.139265753602601
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	9	16	goal	#FEE188	0.220768328192354
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	10	16		#FEE188	0.214743045349413
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	11	16	autism|autistic|nonverbal	#FFF1A9	0.149631321517406
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	12	16		#FEE188	0.244394357586326
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	13	16	bottomup|repetitions	#FEE188	0.282490356558066
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	14	16	adaptation	#FFF1A9	0.191755131765186
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	15	16	irrelevant	#FEE188	0.211352262872403
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	16	16	distractor|distractors	#FFF1A9	0.148849475420171
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	17	16		#FFF1A9	0.17129134573221
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	18	16	subtraction	#FFF1A9	0.134708247284011
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	19	16	1back|nback	#FFFFCC	0.096799133410854
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	20	16	manipulation|rules	#FEE188	0.237562749504245
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	21	16		#FFF1A9	0.179159597389302
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	22	16		#FFF1A9	0.151498641937112
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	23	16	digit	#FFF1A9	0.112773259457536
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	1	17	avoidance	#FDAD4A	0.496446132481333
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	2	17		#FD913D	0.5587120133642
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	3	17	eating|food	#FDAD4A	0.475998817809259
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	4	17	taste	#FDAD4A	0.430267064666094
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	5	17	bipolar	#FDAD4A	0.479306030231981
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	6	17	illness|uncertainty	#FFF1A9	0.118125302684939
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	7	17	females|probabilistic	#FFF1A9	0.195343023665776
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	8	17	rejection	#FECB68	0.39632190851029
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	9	17	colour|paired	#FC622F	0.602729397640038
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	10	17		#FEE188	0.292600195197774
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	11	17		#FECB68	0.317430989000764
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	12	17		#FECB68	0.307358650541961
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	13	17	taskirrelevant	#FEE188	0.243828531808617
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	14	17		#FEE188	0.219552550445674
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	15	17	suppression	#FFF1A9	0.146471519012551
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	16	17		#FFF1A9	0.177030882495878
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	17	17	shifting|shortterm	#FFF1A9	0.119683996237131
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	18	17	digits	#FFF1A9	0.135736424602634
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	19	17	search	#FEE188	0.212141490834558
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	20	17	counting|taskrelated	#FFF1A9	0.144750818613985
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	21	17	topdown	#FFF1A9	0.154068238327588
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	22	17	visuospatial	#FFF1A9	0.169305991826731
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	23	17	arithmetic|calculation|solving	#FFF1A9	0.129197635916818
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	1	18	addiction|craving|drugs	#F03623	0.713291686790349
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	2	18	allele|genotype|polymorphism	#FECB68	0.390932245476439
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	3	18	motivation	#FDAD4A	0.442139379950167
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	4	18	heart	#FC622F	0.673114425715732
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	5	18	sleep	#FDAD4A	0.420725410535638
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	6	18	expectancy	#FEE188	0.228458742358838
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	7	18	phasic|salience	#FFF1A9	0.167765306894835
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	8	18	adolescence|adolescents	#FEE188	0.254142832700406
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	9	18	intelligence|tracking	#FFF1A9	0.19011096764296
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	10	18		#FECB68	0.338755302829011
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	11	18	serial	#FECB68	0.340728813344814
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	12	18		#FECB68	0.340348751524969
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	13	18	spatially|taskrelevant	#FEE188	0.203400184512985
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	14	18		#FEE188	0.205374465572229
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	15	18	attended|attend|unattended	#FFF1A9	0.160170437235885
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	16	18	rotation|shapes	#FEE188	0.247386225205207
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	17	18	rehearsal	#FFF1A9	0.111501828981703
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	18	18	learned	#FEE188	0.240905210218458
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	19	18		#FFF1A9	0.188156256386136
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	20	18	cued|preparatory	#FFF1A9	0.164598791413704
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	21	18		#FFF1A9	0.190551610122728
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	22	18		#FFF1A9	0.160389974891624
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	23	18	numbers|numerical	#FFFFCC	0.0941078597679767
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	1	19	future	#FEE188	0.284073864374092
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	2	19	negatively	#FECB68	0.311421919419393
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	3	19	distress|epilepsy|selfreported	#FD913D	0.557534984548476
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	4	19	anticipatory|cocaine|probabilities|smoking	#FDAD4A	0.421296111792043
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	5	19	alcohol|amount|impulsivity	#F03623	0.789425833329346
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	6	19	game|success	#FDAD4A	0.466923035870692
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	7	19	adhd|childhood|engagement	#FDAD4A	0.429121091910022
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	8	19		#FEE188	0.28746183800253
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	9	19		#FEE188	0.250433869270475
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	10	19		#FECB68	0.308786330793604
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	11	19		#FECB68	0.354566589013377
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	12	19	endogenous	#FDAD4A	0.465836291683252
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	13	19	cueing|invalid|orienting	#FFF1A9	0.179390616801081
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	14	19		#FFF1A9	0.18385350720395
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	15	19	multisensory	#FFF1A9	0.120743906743813
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	16	19		#FFF1A9	0.159645827841743
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	17	19	shifts	#FFF1A9	0.149590471273322
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	18	19	covert	#FFF1A9	0.12185531679164
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	19	19		#FFF1A9	0.171597914869471
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	20	19	preparation	#FFF1A9	0.101547463283044
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	21	19	discrimination|training	#FEE188	0.231662288309148
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	22	19	sequences	#FFF1A9	0.114315817676567
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	23	19		#FFF1A9	0.166257089622766
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	1	20	personal|self|selfreferential|trait|traits	#FDAD4A	0.435623623254491
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	2	20	empathic|theory	#FEE188	0.288552722605304
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	3	20	attribution|intentional	#FECB68	0.308883649385945
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	4	20	elderly|oscillations	#FEE188	0.207255651920087
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	5	20	antipsychotic|virtual	#FC622F	0.660974379680081
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	6	20		#FD913D	0.568142038542944
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	7	20	experiences	#FEE188	0.202521411129976
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	8	20	categorical|pressure	#FFF1A9	0.109464130329813
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	9	20	play|skills	#FFF1A9	0.0998692805219524
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	10	20	automatic|trained	#FFF1A9	0.165281177650273
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	11	20		#FEE188	0.242251188618131
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	12	20	practice	#FFF1A9	0.153041392960995
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	13	20	visuomotor	#FFF1A9	0.156313485838256
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	14	20		#FFF1A9	0.162067026859775
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	15	20	tool	#FFF1A9	0.122612118337722
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	16	20	vision	#FFF1A9	0.152896046040757
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	17	20	visually	#FFF1A9	0.148169968224383
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	18	20	saccade|saccades|saccadic	#FFF1A9	0.101738312936586
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	19	20	locations	#FFF1A9	0.150574183142395
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	20	20	imagery|planning	#FEE188	0.23670336017075
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	21	20		#FFF1A9	0.168752843403716
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	22	20	rest	#FFF1A9	0.159553309316579
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	23	20	sequence	#FFF1A9	0.132759129820143
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	1	21	scenarios	#FECB68	0.382313989248134
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	2	21	intention|intentions	#FDAD4A	0.492243601218719
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	3	21	causality|perspective	#FECB68	0.36657941145242
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	4	21	past	#FECB68	0.303024613472346
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	5	21		#FD913D	0.557292186920278
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	6	21	episode	#FEE188	0.206807741651633
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	7	21	improvement	#FFF1A9	0.144688419789846
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	8	21	masking|retention	#FECB68	0.301852426737009
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	9	21		#FFF1A9	0.193484168714409
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	10	21	dominant	#FECB68	0.319358115971649
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	11	21		#FFF1A9	0.195183128844686
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	12	21	sequential	#FEE188	0.221848783055998
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	13	21	fingers	#FFF1A9	0.130399338714949
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	14	21		#FFF1A9	0.15975023116492
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	15	21	gesture|gestures	#FFF1A9	0.100102692477547
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	16	21		#FFF1A9	0.157452600271435
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	17	21	hands	#FFF1A9	0.105016222405261
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	18	21		#FFF1A9	0.164255103413695
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	19	21		#FFF1A9	0.169273446086199
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	20	21	eye|position	#FFF1A9	0.150383792032413
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	21	21	execution	#FFF1A9	0.140786100838031
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	22	21	finger|sensorimotor	#FFF1A9	0.112983928712204
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	23	21		#FFFFCC	0.0760218022786078
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	1	22	moral|stories|story	#FECB68	0.381949715376498
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	2	22	mentalizing|persons	#FECB68	0.345224962122467
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	3	22	default|restingstate	#FD913D	0.592280996076124
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	4	22	thinking|thought|thoughts	#FD913D	0.58310718735889
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	5	22	spontaneous	#FD913D	0.524145687818634
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	6	22	concentration|sensations	#FECB68	0.317251085013503
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	7	22	hierarchical|preference	#FEE188	0.240364805784806
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	8	22	effort|oral|simulation	#FFF1A9	0.114011736591817
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	9	22	interhemispheric|plasticity	#FFF1A9	0.175464211576544
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	10	22	imagined|imagine	#FFF1A9	0.14230326329602
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	11	22	tapping	#FFF1A9	0.127336720717838
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	12	22	foot|muscle|muscles|voluntary	#FFF1A9	0.187683625962768
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	13	22	limb	#FFF1A9	0.165933405879822
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	14	22	eyes|velocity	#FFF1A9	0.144680305700962
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	15	22	biological|gaze|videos	#FFF1A9	0.160570842162543
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	16	22	body	#FEE188	0.243133674015363
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	17	22	grasping|orientation|reaching	#FFF1A9	0.167272862162983
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	18	22		#FFF1A9	0.176604227838154
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	19	22	mirror|shape	#FEE188	0.280055229704648
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	20	22	actions	#FFF1A9	0.186190535388794
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	21	22	action	#FFFFCC	0.092672590629244
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	22	22		#FFFFCC	0.0580584856801126
+d85f1c6b-fe50-30b1-adf1-a82cc1bc1e12	Keuthen NJ	23	22	hand|movements|sensory	#FFFFCC	0

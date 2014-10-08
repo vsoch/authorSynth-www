@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	1	1	auditory|speech	#FD913D	0.542755399363526
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	2	1		#FDAD4A	0.445986816154651
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	3	1	da|integration	#FD913D	0.520904182846308
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	4	1		#FD913D	0.512226069956767
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	5	1	physical|psychophysical|tactile	#FECB68	0.335521910723632
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	6	1		#FDAD4A	0.42671168320716
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	7	1	somatosensory|stimulation	#FECB68	0.385251515613477
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	8	1	painful|pain	#FECB68	0.306806049695086
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	9	1		#FECB68	0.365862948420603
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	10	1	ratings	#FDAD4A	0.452302774069614
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	11	1	affective|affect	#FD913D	0.520320378834841
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	12	1	emotions	#FDAD4A	0.462765542459164
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	13	1	expression|expressions|facial	#FEE188	0.21677270990917
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	14	1		#FDAD4A	0.438645976999937
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	15	1		#FDAD4A	0.483282001550679
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	16	1	emotion|motion|neutral	#FDAD4A	0.478634380652093
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	17	1	rating	#FD913D	0.522035781836531
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	18	1	negative|positive	#FD913D	0.596483831381655
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	19	1		#FC622F	0.694093582807027
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	20	1	ear|order	#F03623	0.743661775408102
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	21	1	motor	#FD913D	0.583091073031915
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	22	1	visual	#FD913D	0.592337720327328
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	23	1	age|image|response	#FC622F	0.690583911116047
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	1	2	sound|sounds	#FECB68	0.305361648304658
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	2	2		#FDAD4A	0.408896571828723
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	3	2	audiovisual|bimodal|crossmodal	#FEE188	0.209081848404415
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	4	2		#FD913D	0.535642058250292
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	5	2		#FD913D	0.525398656788914
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	6	2		#FDAD4A	0.471635803797919
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	7	2	sensation	#FEE188	0.265380301806174
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	8	2	heat|noxious	#FEE188	0.257546112442761
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	9	2		#FECB68	0.370828030005798
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	10	2		#FDAD4A	0.454153768445652
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	11	2		#FDAD4A	0.478914152303118
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	12	2	valence	#FECB68	0.383745057380368
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	13	2	person|social	#FC622F	0.636826605269113
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	14	2		#FDAD4A	0.458025483578378
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	15	2	face|faces	#FDAD4A	0.404354123699588
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	16	2		#FD913D	0.558097095882266
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	17	2		#FC622F	0.610521009049482
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	18	2		#FC622F	0.676221414578819
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	19	2		#F03623	0.713418008288505
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	20	2		#FC622F	0.699027147706615
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	21	2	images|spatial	#FC622F	0.657847704943666
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	22	2	control	#F03623	0.743467801646997
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	23	2	time	#F03623	0.704367328506315
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	1	3	acoustic|listening|musical|music|pitch	#FEE188	0.264406206834672
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	2	3	noise|tones	#FEE188	0.275608730911716
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	3	3		#FD913D	0.534430430697746
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	4	3		#FC622F	0.65110573188067
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	5	3	frequency	#FC622F	0.653516044323443
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	6	3		#FC622F	0.678903218032852
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	7	3		#FDAD4A	0.402369491136585
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	8	3	temperature	#FEE188	0.2850002928955
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	9	3		#FECB68	0.37717311928856
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	10	3	pleasant|unpleasant	#FEE188	0.258996146204714
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	11	3	anxiety	#FECB68	0.333171510991514
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	12	3		#FD913D	0.542073750838481
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	13	3		#FC622F	0.606964371599815
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	14	3		#FD913D	0.564965366193131
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	15	3		#FD913D	0.583434447519525
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	16	3	picture	#FC622F	0.629213673074424
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	17	3		#FC622F	0.661300566923072
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	18	3	value	#FC622F	0.686685021810155
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	19	3	cue	#FC622F	0.671586729936079
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	20	3	error|target	#F03623	0.722488640983173
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	21	3	attention	#FC622F	0.664973857547645
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	22	3		#F03623	0.772833228271239
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	23	3	number	#F03623	0.749526323714981
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	1	4	voice	#FEE188	0.275563121095531
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	2	4		#FDAD4A	0.408059961703064
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	3	4	hearing	#FDAD4A	0.488321663361563
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	4	4		#FC622F	0.675945414697811
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	5	4	overt	#F03623	0.735155532592227
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	6	4		#FC622F	0.690160000835117
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	7	4		#FD913D	0.507875530131076
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	8	4	nociceptive|nonpainful|painrelated	#FEE188	0.287808031494915
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	9	4	unpleasantness	#FECB68	0.357209441127484
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	10	4	skin|subjective	#FECB68	0.397514486357433
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	11	4	depression	#FDAD4A	0.468537630551669
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	12	4	experience	#FD913D	0.588757839385008
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	13	4	female	#FD913D	0.552806898143411
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	14	4	male	#FC622F	0.640840856926969
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	15	4	pictures	#FD913D	0.595184245058134
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	16	4		#FC622F	0.696680638707964
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	17	4	perception	#FD913D	0.569636210980198
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	18	4		#F03623	0.78084914850227
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	19	4		#F03623	0.784269281121212
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	20	4		#F03623	0.775783455035436
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	21	4	correct	#D7141E	0.842898652660017
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	22	4	work	#D7141E	0.831282948568105
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	23	4	memory	#D7141E	0.837004018251104
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	1	5	prosodic|prosody	#FEE188	0.286821304416314
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	2	5	phonetic	#FDAD4A	0.417726369628453
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	3	5	syllable|syllables	#FD913D	0.592841290439107
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	4	5		#FC622F	0.656626928492359
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	5	5	lip|production	#FDAD4A	0.458105886051358
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	6	5	somatotopic	#FDAD4A	0.443733109000345
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	7	5		#FD913D	0.59716772417518
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	8	5		#FD913D	0.549366715510272
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	9	5	empathy	#FD913D	0.591395234756053
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	10	5		#F03623	0.707391093821813
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	11	5	disorder	#FD913D	0.586671019624458
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	12	5		#F03623	0.766893309826834
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	13	5		#D7141E	0.845768997974277
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	14	5		#D7141E	0.884888427207789
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	15	5		#D7141E	0.87737725226283
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	16	5		#D7141E	0.875597772418174
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	17	5		#B10026	0.909147050954219
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	18	5	mental	#D7141E	0.857263405623441
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	19	5	go	#D7141E	0.819328700499607
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	20	5	object	#FC622F	0.648960617461487
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	21	5		#D7141E	0.88752530824213
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	22	5		#B10026	0.950092857396153
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	23	5	word|words	#B10026	0.904307919681231
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	1	6		#FDAD4A	0.478268129784058
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	2	6		#FD913D	0.537438218225237
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	3	6		#FC622F	0.651331897493072
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	4	6	vocal	#FDAD4A	0.452136468264096
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	5	6	articulatory	#FDAD4A	0.475183833215658
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	6	6		#F03623	0.710609264530002
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	7	6	oddball	#FC622F	0.655827200833449
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	8	6	perceived	#FDAD4A	0.42144106553332
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	9	6	errorrelated	#FD913D	0.521408558192261
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	10	6	approach	#FC622F	0.606367933004195
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	11	6	schizophrenia	#F03623	0.746270129225429
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	12	6	acquisition	#F03623	0.793193062875848
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	13	6		#B10026	0.924877234572553
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	14	6		#B10026	0.954705693715631
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	15	6		#B10026	0.970282576399557
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	16	6		#B10026	0.985416723268839
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	17	6		#B10026	0.974921591797343
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	18	6		#B10026	0.927515477104199
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	19	6		#B10026	0.912488805037877
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	20	6	objects	#F03623	0.726081825765173
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	21	6		#B10026	0.924427025221658
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	22	6		#B10026	0.975383258900757
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	23	6	language|semantic	#B10026	0.978961827497795
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	1	7	dopamine|dopaminergic	#FEE188	0.211003033938248
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	2	7		#FECB68	0.310610687098775
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	3	7		#FC622F	0.614483358239739
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	4	7		#F03623	0.733275739160034
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	5	7		#F03623	0.797985365402011
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	6	7		#D7141E	0.887188597771807
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	7	7		#D7141E	0.855055925723066
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	8	7		#D7141E	0.846065115539442
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	9	7		#D7141E	0.811704219287431
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	10	7		#B10026	0.954157070448208
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	11	7		#B10026	0.949686628589946
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	12	7		#B10026	0.956877841158647
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	13	7	linguistic|spoken	#F03623	0.72153034460368
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	14	7		#B10026	0.949753774802871
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	15	7	comprehension|sentence|sentences|syntactic	#B10026	0.92932682108529
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	16	7		#B10026	0.985560868398873
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	17	7		#B10026	0.976248301552991
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	18	7	phonological|reading|read	#B10026	0.916641123743313
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	19	7		#B10026	0.929543369035158
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	20	7	perceptual|recognition	#D7141E	0.814291428701612
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	21	7		#B10026	0.950129168291667
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	22	7		#B10026	0.983361311942143
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	23	7	verb	#B10026	0.937620338258678
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	1	8	outcome|reward	#FEE188	0.25144805340032
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	2	8	anticipation	#FEE188	0.221627817613259
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	3	8	outcomes	#FECB68	0.315052323776315
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	4	8	choice|choices	#FD913D	0.513495721068278
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	5	8	decisions|probability	#FC622F	0.689717644406966
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	6	8	reversal	#F03623	0.736866180505236
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	7	8	classification|incorrect	#F03623	0.745985883177796
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	8	8		#B10026	0.910233789409806
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	9	8	agerelated|fluency|probes	#D7141E	0.887682135747858
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	10	8	engaged	#D7141E	0.870949775023052
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	11	8	explicit|knowledge	#B10026	0.917688974102699
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	12	8		#B10026	0.976704549397706
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	13	8		#B10026	0.979608111922381
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	14	8		#B10026	0.985730814828581
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	15	8		#B10026	1
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	16	8		#B10026	0.998414535628287
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	17	8	lexical	#D7141E	0.900356917556845
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	18	8		#B10026	0.970374704947155
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	19	8		#B10026	0.96351433444134
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	20	8		#B10026	0.963412518161959
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	21	8	encoding	#D7141E	0.84351185392039
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	22	8	retrieval	#B10026	0.953819427671976
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	23	8	verbal	#D7141E	0.891844167353343
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	1	9	incentive|monetary|money|rewards	#FFF1A9	0.106916909280098
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	2	9	loss	#FEE188	0.227805715925116
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	3	9		#FDAD4A	0.471118523735218
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	4	9		#FD913D	0.592848109372488
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	5	9	decisionmaking	#FC622F	0.632441832243172
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	6	9		#D7141E	0.875006787472085
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	7	9		#D7141E	0.899199947775594
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	8	9		#B10026	0.923308123338597
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	9	9		#B10026	0.974166192658465
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	10	9		#B10026	0.995690213676819
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	11	9		#B10026	0.984878103759721
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	12	9		#B10026	0.991015489220341
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	13	9	noun	#B10026	0.924444048006758
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	14	9	meaning	#B10026	0.964515353175411
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	15	9	english	#B10026	0.970256804338213
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	16	9	pseudoword|pseudowords	#D7141E	0.828839757614861
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	17	9		#B10026	0.971524443060902
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	18	9		#B10026	0.979720959649261
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	19	9	familiar|judgment	#B10026	0.993620833081709
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	20	9	pair|pairs	#B10026	0.921593916252018
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	21	9		#B10026	0.945015240343337
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	22	9		#B10026	0.928426913263537
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	23	9	letter|working	#D7141E	0.887807634256592
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	1	10	losses|reinforcement|win	#FFF1A9	0.197768627466678
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	2	10	gain	#FFFFCC	0.098110921981335
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	3	10	expectation	#FEE188	0.297380079659308
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	4	10	risk	#FDAD4A	0.479549294306879
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	5	10	fact	#FD913D	0.587104338874582
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	6	10	associative	#FC622F	0.605497274234452
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	7	10	familiarity|judgments|old	#B10026	0.949512230486203
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	8	10	contextual|text	#F03623	0.704485427427381
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	9	10	recall|retrieved	#F03623	0.783540857086179
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	10	10	conceptual|semantically	#D7141E	0.834473363636178
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	11	10	grammatical|speakers	#D7141E	0.843330700199107
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	12	10	nouns	#D7141E	0.824275132516823
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	13	10	japanese	#B10026	0.979330288145091
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	14	10	languages	#B10026	0.921610652369113
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	15	10	written	#F03623	0.767307843530632
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	16	10	chinese|phonology	#D7141E	0.849641822896621
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	17	10	orthographic	#D7141E	0.863191194593883
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	18	10		#B10026	0.958226508883555
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	19	10		#B10026	0.956985852166952
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	20	10	association|decision	#B10026	0.907423384000387
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	21	10	selection	#D7141E	0.889823301595378
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	22	10	letters	#D7141E	0.822207755779854
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	23	10	demand|load	#D7141E	0.853814224347787
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	1	11	conditioned|conditioning	#FFFFCC	0
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	2	11		#FEE188	0.250421440554469
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	3	11	drug|placebo	#FECB68	0.393593798119999
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	4	11		#FD913D	0.50667518107929
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	5	11	associations	#FDAD4A	0.492972900989607
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	6	11		#F03623	0.719947982175861
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	7	11	episodic|recollection	#F03623	0.705698454264806
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	8	11		#F03623	0.753660403186969
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	9	11		#B10026	0.965115837284792
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	10	11	concepts	#FC622F	0.696071184879119
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	11	11		#B10026	0.965118194717255
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	12	11		#B10026	0.990256692670662
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	13	11	german	#F03623	0.766576666796922
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	14	11	readers	#B10026	0.904607484501365
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	15	11	character|name|naming	#D7141E	0.830511843270472
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	16	11		#D7141E	0.900075652704878
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	17	11	novel	#D7141E	0.898306872100545
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	18	11		#D7141E	0.884702442403729
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	19	11	child|children	#F03623	0.793631641867025
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	20	11	adults	#D7141E	0.870249557694999
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	21	11	ability|feedback|learning	#F03623	0.763295123805037
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	22	11	cues|delay	#FC622F	0.67856247879801
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	23	11	attentional|difficulty|targets	#F03623	0.701196865749011
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	1	12	aversive|shock	#FFF1A9	0.156827454303952
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	2	12	reactivity	#FFF1A9	0.193943011308566
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	3	12	males|sex|women	#FECB68	0.334447843571889
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	4	12	animal	#FEE188	0.266228246591361
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	5	12	animals	#FEE188	0.227454278971007
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	6	12		#FD913D	0.531763527495342
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	7	12	remember|subsequent	#FDAD4A	0.415857468975487
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	8	12	autobiographical|memories	#FECB68	0.343613467777161
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	9	12		#B10026	0.924499436058136
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	10	12	violation|violations	#FD913D	0.596849080241651
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	11	12	aphasia	#D7141E	0.857028420322739
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	12	12	nonwords	#F03623	0.775391910472361
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	13	12	dyslexia	#D7141E	0.831676409810945
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	14	12		#B10026	0.930478523485855
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	15	12	priming	#F03623	0.709742142760216
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	16	12		#D7141E	0.862831765173986
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	17	12	category|repetition	#F03623	0.796845576940547
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	18	12		#D7141E	0.86426772139203
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	19	12	developmental|development	#F03623	0.766886834548891
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	20	12		#D7141E	0.851594455653794
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	21	12	space	#FC622F	0.679674711910975
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	22	12		#D7141E	0.835428150590095
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	23	12	color	#F03623	0.785276542856761
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	1	13	threat	#FFFFCC	0.0808204800067617
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	2	13	regulation	#FECB68	0.366521911459393
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	3	13		#FECB68	0.331358905752149
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	4	13	masked	#FECB68	0.312871871641333
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	5	13	scene|scenes	#FFF1A9	0.178480961687687
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	6	13		#FDAD4A	0.461241444298401
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	7	13	confidence|remembered	#FECB68	0.300795340242346
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	8	13		#FC622F	0.659567687853355
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	9	13		#B10026	0.936026811827564
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	10	13	ambiguity|ambiguous	#FD913D	0.556551693203877
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	11	13		#B10026	0.935347063728587
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	12	13		#D7141E	0.894130197233437
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	13	13	writing	#FC622F	0.601120428976007
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	14	13		#D7141E	0.845788842343534
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	15	13	categorization|congruency|prime	#FC622F	0.646212369557571
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	16	13		#D7141E	0.842322260645305
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	17	13	mask	#FC622F	0.657880439636878
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	18	13		#D7141E	0.859443920339613
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	19	13		#D7141E	0.839841550177758
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	20	13		#D7141E	0.84649413575152
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	21	13	conflict|congruent|incongruent	#F03623	0.762816303846797
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	22	13	errors	#D7141E	0.805660697118535
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	23	13	maintenance|probe|wm	#F03623	0.798582924894411
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	1	14	angry|fearful|happy	#FFFFCC	0.0589739910655929
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	2	14		#FFF1A9	0.199329619331337
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	3	14	awareness|conscious|ptsd	#FEE188	0.274802874372778
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	4	14		#FECB68	0.394412050209437
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	5	14	houses|photographs	#FFFFCC	0.0761804510172397
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	6	14		#FDAD4A	0.430477459725237
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	7	14	hits	#FDAD4A	0.440589831788361
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	8	14	famous	#FDAD4A	0.446794295006406
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	9	14	names	#FD913D	0.599148443841015
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	10	14	family	#FC622F	0.696533352285977
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	11	14	competition|mouth	#FC622F	0.662023610100847
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	12	14	abilities	#FD913D	0.597815511175106
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	13	14	implicit|unfamiliar	#FD913D	0.561946313320482
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	14	14		#F03623	0.730688178735674
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	15	14	tom	#D7141E	0.84171659902594
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	16	14		#F03623	0.758018131620904
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	17	14		#F03623	0.771618200215252
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	18	14	stop	#FC622F	0.69913146636984
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	19	14	inhibition|inhibitory|nogo	#FC622F	0.674233294026537
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	20	14	monitoring|stroop	#F03623	0.78476832140977
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	21	14	interference	#D7141E	0.810631028551157
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	22	14		#D7141E	0.851576217823015
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	23	14	demands|executive	#D7141E	0.873521587988662
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	1	15	anger	#FFFFCC	0.0586193903554005
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	2	15	stress	#FFF1A9	0.107522595819162
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	3	15	feelings	#FECB68	0.359729446363059
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	4	15	salient	#FECB68	0.315523647323887
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	5	15	novelty	#FEE188	0.223872626658214
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	6	15	movie	#FEE188	0.20123623219224
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	7	15		#FC622F	0.639466953615514
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	8	15		#F03623	0.797594303214973
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	9	15	longterm	#FD913D	0.593770309320905
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	10	15		#D7141E	0.900042890193183
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	11	15	reasoning|relational	#F03623	0.752419270658454
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	12	15		#D7141E	0.82416611516341
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	13	15	presentations	#FECB68	0.370152263221581
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	14	15		#FC622F	0.673967412986718
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	15	15	identity	#FDAD4A	0.417197368199976
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	16	15		#F03623	0.73497328933005
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	17	15	strategies|strategy	#FD913D	0.594840564112329
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	18	15	card|cards	#FC622F	0.633386979411042
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	19	15	gonogo	#FC622F	0.646170364991802
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	20	15		#D7141E	0.822151396141906
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	21	15	switching|switch	#F03623	0.726395591534943
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	22	15		#D7141E	0.815966795472688
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	23	15	2back|rule	#F03623	0.734821429264176
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	1	16	emotionally|mood|personality|sadness	#FFF1A9	0.127987016325989
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	2	16	disgust|sexual	#FFFFCC	0.0568539057229361
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	3	16	olfactory	#FFFFCC	0.019753286177007
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	4	16	physiological	#FECB68	0.346922220564359
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	5	16	depressed|depressive|habituation	#FFF1A9	0.185046764212385
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	6	16	schizophrenic	#FD913D	0.500809434415232
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	7	16	colors|contexts	#FDAD4A	0.413407229064086
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	8	16	aging|encoded	#FD913D	0.594645243775757
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	9	16	goal	#FC622F	0.629576285135067
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	10	16		#D7141E	0.827727501674131
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	11	16	autism|autistic|nonverbal	#FC622F	0.64664753371304
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	12	16		#F03623	0.781552429044033
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	13	16	bottomup|repetitions	#FD913D	0.548985540810111
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	14	16	adaptation	#FDAD4A	0.417803553728912
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	15	16	irrelevant	#FC622F	0.685189969530837
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	16	16	distractor|distractors	#FD913D	0.518403757939648
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	17	16		#F03623	0.752110684719282
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	18	16	subtraction	#FD913D	0.519503661019786
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	19	16	1back|nback	#FD913D	0.58022399342414
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	20	16	manipulation|rules	#F03623	0.748056186521091
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	21	16		#F03623	0.772778563177482
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	22	16		#F03623	0.721421960375339
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	23	16	digit	#F03623	0.725885653089695
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	1	17	avoidance	#FFFFCC	0.0541680703333409
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	2	17		#FEE188	0.223355239849812
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	3	17	eating|food	#FFF1A9	0.117751198169888
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	4	17	taste	#FFF1A9	0.128386717845191
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	5	17	bipolar	#FEE188	0.214105320605308
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	6	17	illness|uncertainty	#FECB68	0.360212164099363
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	7	17	females|probabilistic	#FECB68	0.313924275444756
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	8	17	rejection	#FDAD4A	0.402240794872763
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	9	17	colour|paired	#FDAD4A	0.406345124570531
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	10	17		#D7141E	0.801639285047585
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	11	17		#F03623	0.77749760204866
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	12	17		#F03623	0.752076205293822
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	13	17	taskirrelevant	#FECB68	0.392489186758483
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	14	17		#FD913D	0.551347445803958
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	15	17	suppression	#FD913D	0.516541230583906
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	16	17		#FC622F	0.624134806793206
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	17	17	shifting|shortterm	#FD913D	0.566717533779216
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	18	17	digits	#FC622F	0.692146395395733
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	19	17	search	#FC622F	0.629959804418201
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	20	17	counting|taskrelated	#F03623	0.731537772949192
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	21	17	topdown	#FC622F	0.611228960660651
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	22	17	visuospatial	#FD913D	0.573292887110151
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	23	17	arithmetic|calculation|solving	#FD913D	0.56770148705403
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	1	18	addiction|craving|drugs	#FFF1A9	0.176742031429706
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	2	18	allele|genotype|polymorphism	#FFF1A9	0.142768156125738
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	3	18	motivation	#FEE188	0.200731106236111
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	4	18	heart	#FECB68	0.338525152890558
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	5	18	sleep	#FECB68	0.320309518343558
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	6	18	expectancy	#FD913D	0.552362172665223
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	7	18	phasic|salience	#FEE188	0.282955882121154
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	8	18	adolescence|adolescents	#FDAD4A	0.418513871691878
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	9	18	intelligence|tracking	#FDAD4A	0.430258186767059
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	10	18		#F03623	0.73052739367496
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	11	18	serial	#FDAD4A	0.484250181321483
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	12	18		#FC622F	0.660510552200732
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	13	18	spatially|taskrelevant	#FD913D	0.552218976885435
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	14	18		#FD913D	0.522297928270589
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	15	18	attended|attend|unattended	#FECB68	0.330151606244026
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	16	18	rotation|shapes	#FDAD4A	0.427482975118715
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	17	18	rehearsal	#F03623	0.731635935055457
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	18	18	learned	#FD913D	0.571997495473209
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	19	18		#F03623	0.750762347699641
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	20	18	cued|preparatory	#FC622F	0.601036213130462
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	21	18		#F03623	0.748458979259958
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	22	18		#F03623	0.715461859394671
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	23	18	numbers|numerical	#FD913D	0.537521134347434
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	1	19	future	#FECB68	0.381122021162606
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	2	19	negatively	#FC622F	0.634111895060237
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	3	19	distress|epilepsy|selfreported	#FFF1A9	0.193095405116842
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	4	19	anticipatory|cocaine|probabilities|smoking	#FEE188	0.257484503802038
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	5	19	alcohol|amount|impulsivity	#FDAD4A	0.46051342931639
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	6	19	game|success	#FD913D	0.592999149530371
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	7	19	adhd|childhood|engagement	#FDAD4A	0.467939469165476
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	8	19		#F03623	0.720867765575842
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	9	19		#F03623	0.738199049787071
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	10	19		#F03623	0.734143374270004
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	11	19		#FC622F	0.697674868105351
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	12	19	endogenous	#FDAD4A	0.475740549431017
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	13	19	cueing|invalid|orienting	#FDAD4A	0.458850571516237
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	14	19		#FD913D	0.558719061600503
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	15	19	multisensory	#FECB68	0.348299244506063
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	16	19		#FD913D	0.549940933858052
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	17	19	shifts	#FD913D	0.563046092347174
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	18	19	covert	#FC622F	0.66332611253329
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	19	19		#FC622F	0.656153612316605
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	20	19	preparation	#FC622F	0.647438518724897
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	21	19	discrimination|training	#FC622F	0.651371115961825
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	22	19	sequences	#FC622F	0.693028589087846
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	23	19		#F03623	0.741303070955446
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	1	20	personal|self|selfreferential|trait|traits	#FDAD4A	0.487999646568104
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	2	20	empathic|theory	#FD913D	0.569223062219082
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	3	20	attribution|intentional	#FECB68	0.320232867987927
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	4	20	elderly|oscillations	#FECB68	0.387486326655416
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	5	20	antipsychotic|virtual	#FDAD4A	0.487949837865007
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	6	20		#F03623	0.782732015407675
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	7	20	experiences	#FD913D	0.568720350227509
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	8	20	categorical|pressure	#FD913D	0.554198528002715
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	9	20	play|skills	#FD913D	0.562850860316635
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	10	20	automatic|trained	#FC622F	0.641712513982568
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	11	20		#F03623	0.704197135956436
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	12	20	practice	#FC622F	0.673373898880946
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	13	20	visuomotor	#FDAD4A	0.457165776048336
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	14	20		#FD913D	0.587647637341012
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	15	20	tool	#FDAD4A	0.493744826572774
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	16	20	vision	#FEE188	0.287931272121428
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	17	20	visually	#FD913D	0.562664555843678
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	18	20	saccade|saccades|saccadic	#FECB68	0.321613270892058
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	19	20	locations	#FD913D	0.516593922442531
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	20	20	imagery|planning	#FC622F	0.636498681819856
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	21	20		#FC622F	0.676541717914335
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	22	20	rest	#F03623	0.719185436631698
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	23	20	sequence	#FC622F	0.69652958357398
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	1	21	scenarios	#FD913D	0.537124279963842
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	2	21	intention|intentions	#FD913D	0.585881838412048
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	3	21	causality|perspective	#FECB68	0.377205875027533
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	4	21	past	#FECB68	0.320119169128332
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	5	21		#F03623	0.701148613324331
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	6	21	episode	#FEE188	0.289237881847937
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	7	21	improvement	#FD913D	0.524711931204266
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	8	21	masking|retention	#FDAD4A	0.430324328926523
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	9	21		#F03623	0.757180106887524
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	10	21	dominant	#FDAD4A	0.488959599173258
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	11	21		#FD913D	0.58815459655322
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	12	21	sequential	#FD913D	0.541327281407521
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	13	21	fingers	#FECB68	0.352237659011683
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	14	21		#FDAD4A	0.475845662099091
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	15	21	gesture|gestures	#FDAD4A	0.479578046942313
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	16	21		#FDAD4A	0.448693587835041
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	17	21	hands	#FECB68	0.354572583905899
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	18	21		#FD913D	0.517488769380023
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	19	21		#FD913D	0.556826700053154
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	20	21	eye|position	#FDAD4A	0.445022004027323
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	21	21	execution	#FD913D	0.561206570282131
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	22	21	finger|sensorimotor	#FDAD4A	0.471274181481796
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	23	21		#FD913D	0.562339043473798
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	1	22	moral|stories|story	#FDAD4A	0.47629257660509
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	2	22	mentalizing|persons	#FDAD4A	0.483773705139488
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	3	22	default|restingstate	#FECB68	0.370415672673482
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	4	22	thinking|thought|thoughts	#FDAD4A	0.437583909867883
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	5	22	spontaneous	#FECB68	0.319383966706528
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	6	22	concentration|sensations	#FECB68	0.310645818390891
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	7	22	hierarchical|preference	#FDAD4A	0.420592682087299
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	8	22	effort|oral|simulation	#FD913D	0.566318467683612
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	9	22	interhemispheric|plasticity	#FDAD4A	0.480322121085929
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	10	22	imagined|imagine	#FDAD4A	0.495149418148479
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	11	22	tapping	#FECB68	0.383260429706042
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	12	22	foot|muscle|muscles|voluntary	#FECB68	0.384923027697364
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	13	22	limb	#FEE188	0.224634051893912
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	14	22	eyes|velocity	#FFF1A9	0.173164023054311
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	15	22	biological|gaze|videos	#FFFFCC	0.085617843299899
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	16	22	body	#FECB68	0.348674130641859
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	17	22	grasping|orientation|reaching	#FEE188	0.268602960627798
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	18	22		#FD913D	0.50765730143828
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	19	22	mirror|shape	#FD913D	0.560261244095538
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	20	22	actions	#FC622F	0.611592031688257
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	21	22	action	#F03623	0.707620563413739
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	22	22		#FD913D	0.530445731236375
+706b7e7d-e2f6-3101-bf2a-2f6f57eda1cd	Miyamoto T	23	22	hand|movements|sensory	#FDAD4A	0.409750739307069

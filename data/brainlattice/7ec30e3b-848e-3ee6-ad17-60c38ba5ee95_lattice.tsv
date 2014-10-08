@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	1	1	auditory|speech	#FD913D	0.5531566106624
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	2	1		#FDAD4A	0.457989162116516
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	3	1	da|integration	#FC622F	0.626511284262366
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	4	1		#FD913D	0.586807879341566
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	5	1	physical|psychophysical|tactile	#FECB68	0.360101951788049
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	6	1		#FD913D	0.563266478458858
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	7	1	somatosensory|stimulation	#FD913D	0.563606922669601
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	8	1	painful|pain	#FD913D	0.514901214302014
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	9	1		#FD913D	0.584600303637183
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	10	1	ratings	#FD913D	0.591831614382073
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	11	1	affective|affect	#FC622F	0.631710925732648
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	12	1	emotions	#FC622F	0.63409922849632
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	13	1	expression|expressions|facial	#FD913D	0.581757320541604
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	14	1		#FC622F	0.632938976251944
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	15	1		#FD913D	0.5850298369672
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	16	1	emotion|motion|neutral	#FDAD4A	0.470442279512954
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	17	1	rating	#FD913D	0.538508523302378
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	18	1	negative|positive	#FD913D	0.55386534921192
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	19	1		#FC622F	0.605236472000886
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	20	1	ear|order	#FD913D	0.571866233714852
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	21	1	motor	#FD913D	0.543174632754123
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	22	1	visual	#FDAD4A	0.406283770009966
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	23	1	age|image|response	#FD913D	0.509616335036754
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	1	2	sound|sounds	#FEE188	0.297688904496867
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	2	2		#FDAD4A	0.416115807406489
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	3	2	audiovisual|bimodal|crossmodal	#FEE188	0.263072488811585
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	4	2		#FC622F	0.611743580947445
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	5	2		#FC622F	0.612699453496909
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	6	2		#FC622F	0.604769573630568
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	7	2	sensation	#FDAD4A	0.434357597911178
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	8	2	heat|noxious	#FDAD4A	0.471376572919813
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	9	2		#FC622F	0.603156295636248
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	10	2		#FC622F	0.680180449192647
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	11	2		#FC622F	0.682156133497281
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	12	2	valence	#FD913D	0.597246745007088
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	13	2	person|social	#FD913D	0.560469498933947
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	14	2		#FC622F	0.659613874791884
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	15	2	face|faces	#FDAD4A	0.496906629012898
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	16	2		#FC622F	0.605868431352218
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	17	2		#FC622F	0.619433711089483
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	18	2		#FC622F	0.623561546861141
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	19	2		#FC622F	0.621298377850214
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	20	2		#FD913D	0.555076083777426
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	21	2	images|spatial	#FDAD4A	0.466974026634119
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	22	2	control	#FD913D	0.52282723524508
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	23	2	time	#FD913D	0.508063415493786
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	1	3	acoustic|listening|musical|music|pitch	#FEE188	0.237644558755004
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	2	3	noise|tones	#FEE188	0.285312107922018
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	3	3		#FC622F	0.610477390457957
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	4	3		#F03623	0.732564890914966
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	5	3	frequency	#F03623	0.734795544149287
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	6	3		#D7141E	0.827026576163014
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	7	3		#FD913D	0.564036354382686
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	8	3	temperature	#FDAD4A	0.45830124018286
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	9	3		#FD913D	0.598540912735479
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	10	3	pleasant|unpleasant	#FC622F	0.617445195282215
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	11	3	anxiety	#FDAD4A	0.478265741658908
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	12	3		#F03623	0.729593616985145
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	13	3		#D7141E	0.80090379684719
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	14	3		#F03623	0.752676618193304
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	15	3		#F03623	0.740577395897594
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	16	3	picture	#FC622F	0.689603402233917
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	17	3		#FC622F	0.689053383912982
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	18	3	value	#FC622F	0.679447802870517
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	19	3	cue	#FD913D	0.525784140655679
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	20	3	error|target	#FD913D	0.569412090758798
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	21	3	attention	#FECB68	0.386723851331941
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	22	3		#FD913D	0.537894915431495
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	23	3	number	#FD913D	0.549313352463532
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	1	4	voice	#FEE188	0.285540226272937
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	2	4		#FDAD4A	0.424596606390718
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	3	4	hearing	#FECB68	0.392250471596588
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	4	4		#F03623	0.778533243310786
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	5	4	overt	#F03623	0.745238718455624
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	6	4		#D7141E	0.838331821805497
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	7	4		#FC622F	0.660005757410305
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	8	4	nociceptive|nonpainful|painrelated	#FECB68	0.356557874565186
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	9	4	unpleasantness	#FDAD4A	0.459261325389704
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	10	4	skin|subjective	#FC622F	0.668534523078252
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	11	4	depression	#F03623	0.730831750495362
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	12	4	experience	#F03623	0.729545251311571
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	13	4	female	#F03623	0.711353670038451
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	14	4	male	#D7141E	0.860579072756701
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	15	4	pictures	#F03623	0.765641886942803
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	16	4		#F03623	0.784998257366648
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	17	4	perception	#FD913D	0.5826962382953
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	18	4		#FC622F	0.658993371777537
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	19	4		#FC622F	0.611255580921552
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	20	4		#FD913D	0.570268002701376
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	21	4	correct	#FD913D	0.584901363773628
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	22	4	work	#FD913D	0.574034560346456
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	23	4	memory	#FD913D	0.510522445214984
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	1	5	prosodic|prosody	#FECB68	0.37487731923981
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	2	5	phonetic	#FECB68	0.331594034447759
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	3	5	syllable|syllables	#FC622F	0.690974356258277
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	4	5		#F03623	0.767743438414449
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	5	5	lip|production	#FC622F	0.676533116929743
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	6	5	somatotopic	#FC622F	0.653077360382696
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	7	5		#F03623	0.76953412619538
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	8	5		#FC622F	0.672473596021493
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	9	5	empathy	#F03623	0.723331660733846
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	10	5		#D7141E	0.867599309959832
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	11	5	disorder	#D7141E	0.862844239818519
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	12	5		#B10026	0.912123415843766
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	13	5		#B10026	0.975147078965931
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	14	5		#B10026	1
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	15	5		#B10026	0.976328328251283
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	16	5		#B10026	0.913895861670847
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	17	5		#D7141E	0.847635686626236
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	18	5	mental	#FC622F	0.607534824225058
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	19	5	go	#FC622F	0.625607012190534
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	20	5	object	#FDAD4A	0.417972759753784
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	21	5		#FC622F	0.673631670850212
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	22	5		#F03623	0.702179448218369
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	23	5	word|words	#FC622F	0.672859531948953
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	1	6		#FC622F	0.614054928189178
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	2	6		#FC622F	0.669024560321882
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	3	6		#F03623	0.745253226214516
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	4	6	vocal	#FD913D	0.522739190074845
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	5	6	articulatory	#FD913D	0.598080378362347
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	6	6		#D7141E	0.861989407554285
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	7	6	oddball	#FD913D	0.591506161782638
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	8	6	perceived	#FD913D	0.560055831926564
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	9	6	errorrelated	#FC622F	0.641116898531602
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	10	6	approach	#F03623	0.767439948557071
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	11	6	schizophrenia	#D7141E	0.824132418212645
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	12	6	acquisition	#D7141E	0.832830602157841
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	13	6		#B10026	0.972100355191076
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	14	6		#B10026	0.902456550097368
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	15	6		#B10026	0.910235359587188
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	16	6		#B10026	0.916686381972577
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	17	6		#D7141E	0.889423996161538
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	18	6		#D7141E	0.800861596399178
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	19	6		#F03623	0.789200155888851
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	20	6	objects	#FC622F	0.605902250223521
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	21	6		#F03623	0.759466411051866
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	22	6		#F03623	0.78130774508586
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	23	6	language|semantic	#F03623	0.772197206591716
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	1	7	dopamine|dopaminergic	#FD913D	0.507251266907614
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	2	7		#FDAD4A	0.474184858627834
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	3	7		#FC622F	0.66243215678669
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	4	7		#F03623	0.774733232318303
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	5	7		#D7141E	0.813220774495365
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	6	7		#D7141E	0.841318968574802
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	7	7		#D7141E	0.813965068456383
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	8	7		#F03623	0.783363580667065
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	9	7		#D7141E	0.874964605296758
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	10	7		#B10026	0.922037423605489
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	11	7		#B10026	0.921345837616516
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	12	7		#B10026	0.920866341745281
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	13	7	linguistic|spoken	#F03623	0.710862608967552
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	14	7		#D7141E	0.861745650652308
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	15	7	comprehension|sentence|sentences|syntactic	#D7141E	0.80886676487204
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	16	7		#D7141E	0.873348814806077
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	17	7		#D7141E	0.881487952347617
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	18	7	phonological|reading|read	#D7141E	0.854516199020378
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	19	7		#D7141E	0.834610820113372
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	20	7	perceptual|recognition	#F03623	0.742300754736555
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	21	7		#D7141E	0.808987444246493
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	22	7		#D7141E	0.809623795021048
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	23	7	verb	#D7141E	0.804234248615169
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	1	8	outcome|reward	#FDAD4A	0.41546508639587
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	2	8	anticipation	#FECB68	0.369758105452473
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	3	8	outcomes	#FECB68	0.324153758366029
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	4	8	choice|choices	#FDAD4A	0.447995056580246
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	5	8	decisions|probability	#FC622F	0.699895122989745
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	6	8	reversal	#FC622F	0.635754645103778
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	7	8	classification|incorrect	#FDAD4A	0.459456523064281
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	8	8		#F03623	0.758884592603056
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	9	8	agerelated|fluency|probes	#D7141E	0.866434932399926
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	10	8	engaged	#FC622F	0.64420874252687
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	11	8	explicit|knowledge	#D7141E	0.833783662218148
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	12	8		#D7141E	0.886339609188017
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	13	8		#B10026	0.900969359934512
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	14	8		#D7141E	0.875861859776731
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	15	8		#D7141E	0.874634786195499
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	16	8		#D7141E	0.88060570089564
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	17	8	lexical	#F03623	0.797718599532352
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	18	8		#D7141E	0.858104532782497
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	19	8		#D7141E	0.85860090930836
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	20	8		#D7141E	0.832599958563033
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	21	8	encoding	#FC622F	0.699329416869218
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	22	8	retrieval	#FC622F	0.666998749216503
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	23	8	verbal	#F03623	0.771798845170412
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	1	9	incentive|monetary|money|rewards	#FFF1A9	0.110734583912387
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	2	9	loss	#FECB68	0.390311499325315
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	3	9		#FD913D	0.527991191433479
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	4	9		#FC622F	0.606566803850716
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	5	9	decisionmaking	#FDAD4A	0.492201182188986
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	6	9		#FC622F	0.693716243504552
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	7	9		#FC622F	0.672684401021628
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	8	9		#F03623	0.709906132208364
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	9	9		#D7141E	0.807267247870981
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	10	9		#D7141E	0.839658050857419
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	11	9		#D7141E	0.855650524434152
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	12	9		#D7141E	0.880228887979958
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	13	9	noun	#D7141E	0.829269190706442
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	14	9	meaning	#D7141E	0.822747480208889
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	15	9	english	#F03623	0.772201604993736
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	16	9	pseudoword|pseudowords	#F03623	0.782850420571175
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	17	9		#D7141E	0.87177193496539
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	18	9		#D7141E	0.878518602800655
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	19	9	familiar|judgment	#F03623	0.744285973320659
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	20	9	pair|pairs	#D7141E	0.80606980169399
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	21	9		#D7141E	0.846137890549539
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	22	9		#F03623	0.784257227933244
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	23	9	letter|working	#FC622F	0.692770669930706
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	1	10	losses|reinforcement|win	#FEE188	0.289331688194982
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	2	10	gain	#FFF1A9	0.147124087273657
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	3	10	expectation	#FD913D	0.50627069795528
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	4	10	risk	#FD913D	0.548495859292017
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	5	10	fact	#FC622F	0.600548790810269
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	6	10	associative	#FD913D	0.569643623548824
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	7	10	familiarity|judgments|old	#FD913D	0.540287104224498
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	8	10	contextual|text	#FC622F	0.668818810827305
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	9	10	recall|retrieved	#FD913D	0.507607800131676
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	10	10	conceptual|semantically	#FC622F	0.64036119363601
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	11	10	grammatical|speakers	#F03623	0.768541845316306
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	12	10	nouns	#F03623	0.794026227655795
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	13	10	japanese	#D7141E	0.816688627828209
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	14	10	languages	#F03623	0.718113830289421
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	15	10	written	#D7141E	0.818077889046987
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	16	10	chinese|phonology	#FC622F	0.674559798747174
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	17	10	orthographic	#F03623	0.798790918295618
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	18	10		#B10026	0.912926346406944
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	19	10		#B10026	0.90745816631684
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	20	10	association|decision	#D7141E	0.879194181147984
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	21	10	selection	#F03623	0.737229687821807
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	22	10	letters	#FC622F	0.647706837158776
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	23	10	demand|load	#FC622F	0.662044229012617
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	1	11	conditioned|conditioning	#FECB68	0.367841204638113
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	2	11		#FD913D	0.536948598452919
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	3	11	drug|placebo	#FD913D	0.54896493526204
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	4	11		#FC622F	0.694981055812986
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	5	11	associations	#FECB68	0.334067273915753
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	6	11		#FD913D	0.571205800246543
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	7	11	episodic|recollection	#FECB68	0.382871661989976
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	8	11		#FD913D	0.580164260004627
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	9	11		#D7141E	0.839437050781799
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	10	11	concepts	#FD913D	0.560347628019628
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	11	11		#B10026	0.921381158424496
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	12	11		#B10026	0.944093782626829
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	13	11	german	#F03623	0.773419247201227
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	14	11	readers	#F03623	0.730587186577085
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	15	11	character|name|naming	#FC622F	0.693551833175116
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	16	11		#D7141E	0.804991194079266
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	17	11	novel	#F03623	0.799616527523611
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	18	11		#D7141E	0.894603494315873
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	19	11	child|children	#D7141E	0.897826443375276
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	20	11	adults	#D7141E	0.896852449628995
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	21	11	ability|feedback|learning	#D7141E	0.841564198910146
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	22	11	cues|delay	#FD913D	0.580047238192581
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	23	11	attentional|difficulty|targets	#FDAD4A	0.491004461166077
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	1	12	aversive|shock	#FDAD4A	0.443357193110336
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	2	12	reactivity	#FDAD4A	0.45429949572529
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	3	12	males|sex|women	#FC622F	0.604508467268799
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	4	12	animal	#FC622F	0.638964515297508
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	5	12	animals	#FDAD4A	0.469370850444963
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	6	12		#FDAD4A	0.469217292449014
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	7	12	remember|subsequent	#FDAD4A	0.40823062127362
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	8	12	autobiographical|memories	#FEE188	0.220781805862188
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	9	12		#D7141E	0.847884944329005
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	10	12	violation|violations	#FDAD4A	0.4284366575766
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	11	12	aphasia	#D7141E	0.865377440579829
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	12	12	nonwords	#D7141E	0.817022024919698
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	13	12	dyslexia	#F03623	0.736351957972315
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	14	12		#D7141E	0.850088340595571
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	15	12	priming	#FC622F	0.658292804030591
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	16	12		#F03623	0.789757213153927
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	17	12	category|repetition	#FC622F	0.684600577040242
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	18	12		#D7141E	0.879458221063275
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	19	12	developmental|development	#D7141E	0.825640059949382
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	20	12		#D7141E	0.864474025529286
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	21	12	space	#FC622F	0.633609414045815
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	22	12		#FC622F	0.696952257617121
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	23	12	color	#FC622F	0.626810619790483
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	1	13	threat	#FDAD4A	0.443890813060557
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	2	13	regulation	#FDAD4A	0.499190035478714
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	3	13		#FC622F	0.682226630042416
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	4	13	masked	#FDAD4A	0.466971692742681
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	5	13	scene|scenes	#FFF1A9	0.128319714383727
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	6	13		#FDAD4A	0.47448638919438
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	7	13	confidence|remembered	#FEE188	0.258951104487975
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	8	13		#FC622F	0.636484606299148
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	9	13		#D7141E	0.881104695387965
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	10	13	ambiguity|ambiguous	#FDAD4A	0.425221460395193
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	11	13		#B10026	0.904058249999241
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	12	13		#D7141E	0.888115746363329
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	13	13	writing	#FC622F	0.644453189053708
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	14	13		#D7141E	0.809946319630286
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	15	13	categorization|congruency|prime	#FC622F	0.641556737430698
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	16	13		#F03623	0.772216990112715
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	17	13	mask	#FC622F	0.677294367031749
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	18	13		#D7141E	0.836955997520219
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	19	13		#D7141E	0.817893657502945
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	20	13		#F03623	0.775627106529321
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	21	13	conflict|congruent|incongruent	#FC622F	0.631988407238444
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	22	13	errors	#FC622F	0.684832726774904
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	23	13	maintenance|probe|wm	#FC622F	0.647317611862199
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	1	14	angry|fearful|happy	#FDAD4A	0.460488669476902
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	2	14		#FD913D	0.566167728273677
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	3	14	awareness|conscious|ptsd	#FD913D	0.563858402319741
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	4	14		#FC622F	0.603749262487945
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	5	14	houses|photographs	#FFFFCC	0.0955176136103765
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	6	14		#FD913D	0.51056152604672
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	7	14	hits	#FDAD4A	0.440711973407262
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	8	14	famous	#FECB68	0.348317299861399
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	9	14	names	#FC622F	0.670999484345455
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	10	14	family	#F03623	0.70651709987844
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	11	14	competition|mouth	#FD913D	0.535042269798838
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	12	14	abilities	#FD913D	0.557599761016776
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	13	14	implicit|unfamiliar	#FD913D	0.537816566795997
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	14	14		#F03623	0.731886314831153
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	15	14	tom	#FD913D	0.50407075004168
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	16	14		#FC622F	0.699036395126809
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	17	14		#FC622F	0.676876336443218
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	18	14	stop	#FD913D	0.58080623248404
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	19	14	inhibition|inhibitory|nogo	#FC622F	0.61328072155504
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	20	14	monitoring|stroop	#FC622F	0.625693241185904
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	21	14	interference	#FC622F	0.607287100565348
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	22	14		#FC622F	0.690661215857043
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	23	14	demands|executive	#FC622F	0.675700705439154
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	1	15	anger	#FECB68	0.388575293105665
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	2	15	stress	#FEE188	0.287796401723435
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	3	15	feelings	#FD913D	0.513616955856104
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	4	15	salient	#FC622F	0.685361352800918
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	5	15	novelty	#FECB68	0.311022186117961
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	6	15	movie	#FEE188	0.260230376912753
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	7	15		#FC622F	0.698427264446592
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	8	15		#F03623	0.793011893039969
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	9	15	longterm	#FDAD4A	0.418765356888368
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	10	15		#F03623	0.779282954384256
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	11	15	reasoning|relational	#FDAD4A	0.49660158998501
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	12	15		#F03623	0.726338475539069
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	13	15	presentations	#FECB68	0.312480339592836
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	14	15		#FC622F	0.658367997124059
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	15	15	identity	#FDAD4A	0.497206532381569
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	16	15		#FC622F	0.62698428668724
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	17	15	strategies|strategy	#FDAD4A	0.454438470118967
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	18	15	card|cards	#FD913D	0.551978669880016
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	19	15	gonogo	#FC622F	0.678250509263027
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	20	15		#FC622F	0.682191961780437
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	21	15	switching|switch	#FD913D	0.50534322126096
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	22	15		#FC622F	0.634091266278655
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	23	15	2back|rule	#FD913D	0.592299657106652
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	1	16	emotionally|mood|personality|sadness	#FECB68	0.30238190865359
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	2	16	disgust|sexual	#FEE188	0.232336783979604
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	3	16	olfactory	#FFF1A9	0.186208924031226
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	4	16	physiological	#FD913D	0.50591186588409
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	5	16	depressed|depressive|habituation	#FC622F	0.640580326409075
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	6	16	schizophrenic	#FD913D	0.575242267090527
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	7	16	colors|contexts	#FDAD4A	0.491370796950426
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	8	16	aging|encoded	#FC622F	0.627590864040382
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	9	16	goal	#FECB68	0.337895178848759
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	10	16		#FC622F	0.660690667256472
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	11	16	autism|autistic|nonverbal	#FD913D	0.557945498439971
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	12	16		#FC622F	0.647742455463503
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	13	16	bottomup|repetitions	#FECB68	0.394786799292067
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	14	16	adaptation	#FDAD4A	0.410898574398744
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	15	16	irrelevant	#FD913D	0.534975839248721
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	16	16	distractor|distractors	#FEE188	0.287160515597708
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	17	16		#FD913D	0.582723775270861
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	18	16	subtraction	#FDAD4A	0.416480880267537
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	19	16	1back|nback	#FC622F	0.628789968609546
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	20	16	manipulation|rules	#FD913D	0.564518747011034
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	21	16		#FD913D	0.577436052973147
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	22	16		#FDAD4A	0.497521314134328
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	23	16	digit	#FD913D	0.512223710322444
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	1	17	avoidance	#FEE188	0.231838643595487
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	2	17		#FDAD4A	0.40411713261307
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	3	17	eating|food	#FEE188	0.21688724863049
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	4	17	taste	#FDAD4A	0.447545409392116
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	5	17	bipolar	#FD913D	0.588872677336806
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	6	17	illness|uncertainty	#FD913D	0.544666282044452
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	7	17	females|probabilistic	#FD913D	0.559358318360582
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	8	17	rejection	#FECB68	0.334916321929052
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	9	17	colour|paired	#FECB68	0.384305254464098
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	10	17		#FC622F	0.662556408985046
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	11	17		#FC622F	0.649217515332735
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	12	17		#FC622F	0.631718989997503
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	13	17	taskirrelevant	#FECB68	0.367809578950039
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	14	17		#FDAD4A	0.456489350725668
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	15	17	suppression	#FECB68	0.306049179080614
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	16	17		#FDAD4A	0.480853132364206
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	17	17	shifting|shortterm	#FECB68	0.342891042298423
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	18	17	digits	#FDAD4A	0.434979069209289
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	19	17	search	#FDAD4A	0.454244943494717
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	20	17	counting|taskrelated	#FC622F	0.658081916578331
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	21	17	topdown	#FDAD4A	0.469689414192684
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	22	17	visuospatial	#FEE188	0.242710894054051
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	23	17	arithmetic|calculation|solving	#FEE188	0.296806151817048
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	1	18	addiction|craving|drugs	#FEE188	0.249686566963404
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	2	18	allele|genotype|polymorphism	#FEE188	0.263439476842657
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	3	18	motivation	#FECB68	0.303446319773327
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	4	18	heart	#FDAD4A	0.417096955720172
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	5	18	sleep	#FDAD4A	0.489176914460515
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	6	18	expectancy	#FD913D	0.526936186291897
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	7	18	phasic|salience	#FC622F	0.616609784902594
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	8	18	adolescence|adolescents	#FD913D	0.502052950287076
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	9	18	intelligence|tracking	#FDAD4A	0.459204728064874
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	10	18		#FC622F	0.646820223117122
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	11	18	serial	#FDAD4A	0.438528493260714
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	12	18		#FD913D	0.548547514606663
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	13	18	spatially|taskrelevant	#FECB68	0.354990051054802
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	14	18		#FDAD4A	0.421579538607975
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	15	18	attended|attend|unattended	#FEE188	0.296124556613957
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	16	18	rotation|shapes	#FFF1A9	0.183724367527567
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	17	18	rehearsal	#FD913D	0.510066339503864
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	18	18	learned	#FECB68	0.398193549350637
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	19	18		#FD913D	0.508657879616606
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	20	18	cued|preparatory	#FECB68	0.366911231236851
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	21	18		#FD913D	0.540117337658943
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	22	18		#FD913D	0.500945501494026
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	23	18	numbers|numerical	#FECB68	0.340032755359887
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	1	19	future	#FEE188	0.243107558799542
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	2	19	negatively	#FDAD4A	0.400434483511966
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	3	19	distress|epilepsy|selfreported	#FEE188	0.25083151822493
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	4	19	anticipatory|cocaine|probabilities|smoking	#FECB68	0.383104456316796
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	5	19	alcohol|amount|impulsivity	#FECB68	0.390201301556812
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	6	19	game|success	#FC622F	0.605734544984737
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	7	19	adhd|childhood|engagement	#F03623	0.788897858529655
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	8	19		#F03623	0.796551288749948
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	9	19		#F03623	0.707207519581725
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	10	19		#FD913D	0.59340004015544
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	11	19		#FD913D	0.566470493032264
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	12	19	endogenous	#FDAD4A	0.406965177699212
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	13	19	cueing|invalid|orienting	#FEE188	0.264689227800212
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	14	19		#FDAD4A	0.439831513681574
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	15	19	multisensory	#FECB68	0.363766563680811
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	16	19		#FDAD4A	0.427348031656203
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	17	19	shifts	#FECB68	0.392990230676341
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	18	19	covert	#FDAD4A	0.444708240764245
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	19	19		#FDAD4A	0.434766158013941
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	20	19	preparation	#FECB68	0.3156933060805
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	21	19	discrimination|training	#FD913D	0.516703081883788
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	22	19	sequences	#FD913D	0.533822298122823
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	23	19		#F03623	0.70210799480293
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	1	20	personal|self|selfreferential|trait|traits	#FEE188	0.244805061457641
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	2	20	empathic|theory	#FDAD4A	0.485419537261113
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	3	20	attribution|intentional	#FFF1A9	0.14006116335139
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	4	20	elderly|oscillations	#FDAD4A	0.470587206442935
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	5	20	antipsychotic|virtual	#FFF1A9	0.141389183546503
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	6	20		#F03623	0.79964416333093
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	7	20	experiences	#FDAD4A	0.495808569577804
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	8	20	categorical|pressure	#FD913D	0.511311016041504
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	9	20	play|skills	#FEE188	0.274045760224009
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	10	20	automatic|trained	#FDAD4A	0.43525838684401
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	11	20		#FD913D	0.545579836249784
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	12	20	practice	#FDAD4A	0.401440505728348
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	13	20	visuomotor	#FEE188	0.209286491804248
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	14	20		#FDAD4A	0.490580378437077
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	15	20	tool	#FECB68	0.337465153869407
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	16	20	vision	#FFFFCC	0
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	17	20	visually	#FEE188	0.269682558243365
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	18	20	saccade|saccades|saccadic	#FFF1A9	0.147110660803137
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	19	20	locations	#FECB68	0.39762717206982
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	20	20	imagery|planning	#FECB68	0.379651246787472
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	21	20		#FD913D	0.546676861136022
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	22	20	rest	#FC622F	0.640580661636712
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	23	20	sequence	#FC622F	0.635935770653509
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	1	21	scenarios	#FEE188	0.272953728445835
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	2	21	intention|intentions	#FFF1A9	0.131976145877913
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	3	21	causality|perspective	#FFFFCC	0.0895824902788993
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	4	21	past	#FEE188	0.237914779524711
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	5	21		#F03623	0.707111875566211
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	6	21	episode	#FECB68	0.308115350921711
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	7	21	improvement	#FEE188	0.249090186491638
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	8	21	masking|retention	#FDAD4A	0.45521014820407
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	9	21		#FD913D	0.580011198065985
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	10	21	dominant	#FEE188	0.250393246696291
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	11	21		#FD913D	0.540875692013831
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	12	21	sequential	#FDAD4A	0.443253189902842
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	13	21	fingers	#FECB68	0.36771319796118
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	14	21		#FECB68	0.35777046656493
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	15	21	gesture|gestures	#FEE188	0.272660814940034
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	16	21		#FECB68	0.320441255609602
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	17	21	hands	#FFF1A9	0.1709689686195
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	18	21		#FECB68	0.367238438692905
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	19	21		#FECB68	0.387431062311485
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	20	21	eye|position	#FEE188	0.25386272504527
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	21	21	execution	#FDAD4A	0.431969371474516
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	22	21	finger|sensorimotor	#FD913D	0.573902046991546
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	23	21		#FD913D	0.582833406346395
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	1	22	moral|stories|story	#FFFFCC	0.0819993730059149
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	2	22	mentalizing|persons	#FFF1A9	0.160476046432687
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	3	22	default|restingstate	#FFF1A9	0.111252027377804
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	4	22	thinking|thought|thoughts	#FECB68	0.370206794007777
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	5	22	spontaneous	#FEE188	0.247587464820213
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	6	22	concentration|sensations	#FD913D	0.573689542709507
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	7	22	hierarchical|preference	#FEE188	0.299044365898356
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	8	22	effort|oral|simulation	#FC622F	0.602565242925597
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	9	22	interhemispheric|plasticity	#FDAD4A	0.420711698475131
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	10	22	imagined|imagine	#FEE188	0.205025301937394
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	11	22	tapping	#FDAD4A	0.494387820716621
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	12	22	foot|muscle|muscles|voluntary	#FD913D	0.510973840040855
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	13	22	limb	#FEE188	0.295301057646734
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	14	22	eyes|velocity	#FFF1A9	0.12223941849672
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	15	22	biological|gaze|videos	#FFFFCC	0.00212930160444927
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	16	22	body	#FDAD4A	0.454330150527838
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	17	22	grasping|orientation|reaching	#FFF1A9	0.111389889926234
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	18	22		#FECB68	0.363449508384905
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	19	22	mirror|shape	#FECB68	0.344140610071331
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	20	22	actions	#FDAD4A	0.458311178229621
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	21	22	action	#FD913D	0.558791798425637
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	22	22		#FD913D	0.514472610003235
+7ec30e3b-848e-3ee6-ad17-60c38ba5ee95	Biederman J	23	22	hand|movements|sensory	#FDAD4A	0.440301797222695

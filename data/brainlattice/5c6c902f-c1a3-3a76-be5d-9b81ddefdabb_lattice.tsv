@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	1	1	auditory|speech	#FECB68	0.367897320800229
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	2	1		#FEE188	0.291792479147778
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	3	1	da|integration	#FEE188	0.291871333215863
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	4	1		#FECB68	0.35234200378889
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	5	1	physical|psychophysical|tactile	#FECB68	0.325989178380384
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	6	1		#FDAD4A	0.455969334904841
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	7	1	somatosensory|stimulation	#FD913D	0.560410108530477
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	8	1	painful|pain	#FECB68	0.345495580478184
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	9	1		#FECB68	0.367094510130661
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	10	1	ratings	#FEE188	0.253111749047597
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	11	1	affective|affect	#FEE188	0.273295711858624
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	12	1	emotions	#FFF1A9	0.13159599808401
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	13	1	expression|expressions|facial	#FFF1A9	0.139144427235993
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	14	1		#FFF1A9	0.159180732980272
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	15	1		#FFF1A9	0.169653225217737
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	16	1	emotion|motion|neutral	#FFF1A9	0.179421700021831
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	17	1	rating	#FEE188	0.254469821561184
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	18	1	negative|positive	#FECB68	0.328976650351153
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	19	1		#FDAD4A	0.416711582548975
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	20	1	ear|order	#FECB68	0.393050706544153
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	21	1	motor	#FC622F	0.629944521116279
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	22	1	visual	#FECB68	0.350108754399418
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	23	1	age|image|response	#FECB68	0.36468958860473
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	1	2	sound|sounds	#FEE188	0.209153097127636
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	2	2		#FEE188	0.274324972036416
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	3	2	audiovisual|bimodal|crossmodal	#FFF1A9	0.109460533900275
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	4	2		#FECB68	0.376938721389502
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	5	2		#FDAD4A	0.465569666515858
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	6	2		#FDAD4A	0.479649736959573
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	7	2	sensation	#FECB68	0.375920908501774
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	8	2	heat|noxious	#FECB68	0.357702477694348
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	9	2		#FECB68	0.345142413814572
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	10	2		#FEE188	0.243682963924942
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	11	2		#FEE188	0.221500135953099
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	12	2	valence	#FFF1A9	0.168050974978981
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	13	2	person|social	#FFF1A9	0.143542698381404
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	14	2		#FFF1A9	0.161617612437428
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	15	2	face|faces	#FFF1A9	0.144191465152238
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	16	2		#FEE188	0.219420993730798
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	17	2		#FEE188	0.285321506658565
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	18	2		#FECB68	0.37131554477273
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	19	2		#FDAD4A	0.431328642502149
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	20	2		#FDAD4A	0.465885570802571
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	21	2	images|spatial	#FDAD4A	0.400142884852646
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	22	2	control	#FDAD4A	0.43282338522575
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	23	2	time	#FDAD4A	0.400300456200549
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	1	3	acoustic|listening|musical|music|pitch	#FEE188	0.221111285990942
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	2	3	noise|tones	#FEE188	0.280894367863054
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	3	3		#FDAD4A	0.431558137690527
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	4	3		#FD913D	0.569235471058953
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	5	3	frequency	#FD913D	0.587645421640443
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	6	3		#FC622F	0.658585213719515
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	7	3		#FDAD4A	0.419481308346153
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	8	3	temperature	#FEE188	0.2548323289623
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	9	3		#FECB68	0.328709391607919
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	10	3	pleasant|unpleasant	#FFF1A9	0.199394668201
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	11	3	anxiety	#FFF1A9	0.155992768680862
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	12	3		#FEE188	0.228369845082336
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	13	3		#FEE188	0.236843820981701
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	14	3		#FFF1A9	0.193128522087349
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	15	3		#FFF1A9	0.193132840405349
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	16	3	picture	#FFF1A9	0.185293355495873
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	17	3		#FECB68	0.30196722674237
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	18	3	value	#FDAD4A	0.479394758231201
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	19	3	cue	#FDAD4A	0.455989002414998
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	20	3	error|target	#FDAD4A	0.48696504001969
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	21	3	attention	#FECB68	0.399535447469317
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	22	3		#FECB68	0.374270008759294
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	23	3	number	#FECB68	0.350342810920454
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	1	4	voice	#FEE188	0.22510319178596
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	2	4		#FECB68	0.322906430098859
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	3	4	hearing	#FEE188	0.231133962738953
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	4	4		#FC622F	0.66377804652533
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	5	4	overt	#F03623	0.739447114032987
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	6	4		#F03623	0.722878696438138
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	7	4		#FDAD4A	0.498463018841354
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	8	4	nociceptive|nonpainful|painrelated	#FEE188	0.258196923659135
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	9	4	unpleasantness	#FECB68	0.372411144397131
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	10	4	skin|subjective	#FEE188	0.264905812976794
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	11	4	depression	#FEE188	0.221269709868032
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	12	4	experience	#FECB68	0.311780832778101
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	13	4	female	#FEE188	0.205677234532273
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	14	4	male	#FEE188	0.228165190772325
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	15	4	pictures	#FFF1A9	0.164305431818003
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	16	4		#FEE188	0.252673337838613
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	17	4	perception	#FEE188	0.294175146523493
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	18	4		#FECB68	0.386391616124342
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	19	4		#FDAD4A	0.406685600242862
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	20	4		#FECB68	0.397531122783376
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	21	4	correct	#FECB68	0.361571976806003
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	22	4	work	#FECB68	0.394091976033783
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	23	4	memory	#FEE188	0.298594648994165
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	1	5	prosodic|prosody	#FFFFCC	0.0772862142424705
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	2	5	phonetic	#FECB68	0.375087310088536
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	3	5	syllable|syllables	#FC622F	0.603792234339109
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	4	5		#FC622F	0.676234078747694
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	5	5	lip|production	#FC622F	0.607014813480418
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	6	5	somatotopic	#FC622F	0.668902371328375
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	7	5		#FD913D	0.585041518019368
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	8	5		#FDAD4A	0.460130561091295
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	9	5	empathy	#FDAD4A	0.44825519791683
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	10	5		#FECB68	0.399416230818586
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	11	5	disorder	#FEE188	0.255298548807093
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	12	5		#FECB68	0.333622061680411
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	13	5		#FECB68	0.305544560882939
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	14	5		#FEE188	0.254026687821021
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	15	5		#FEE188	0.228176589543308
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	16	5		#FEE188	0.266924476409564
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	17	5		#FEE188	0.297035597303374
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	18	5	mental	#FECB68	0.331298403043759
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	19	5	go	#FECB68	0.384801602476749
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	20	5	object	#FEE188	0.229788717583592
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	21	5		#FECB68	0.347086515019497
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	22	5		#FECB68	0.301421124410251
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	23	5	word|words	#FEE188	0.211871403042849
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	1	6		#FECB68	0.321998636523948
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	2	6		#FECB68	0.37627658711104
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	3	6		#FD913D	0.521358496258666
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	4	6	vocal	#F03623	0.71622930096899
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	5	6	articulatory	#FD913D	0.504996668523907
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	6	6		#FC622F	0.691076046450455
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	7	6	oddball	#FC622F	0.608349735072274
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	8	6	perceived	#FEE188	0.250945289445454
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	9	6	errorrelated	#FD913D	0.551486278535399
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	10	6	approach	#FD913D	0.554328874040624
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	11	6	schizophrenia	#FEE188	0.260060184003853
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	12	6	acquisition	#FD913D	0.531391868610333
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	13	6		#FEE188	0.292441951908463
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	14	6		#FEE188	0.223055122848383
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	15	6		#FEE188	0.216130030191616
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	16	6		#FEE188	0.236925606914868
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	17	6		#FEE188	0.280435445190818
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	18	6		#FECB68	0.300503689314511
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	19	6		#FECB68	0.31829432576194
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	20	6	objects	#FEE188	0.236413205516568
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	21	6		#FECB68	0.313334275027543
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	22	6		#FEE188	0.273005770185043
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	23	6	language|semantic	#FEE188	0.222691118215928
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	1	7	dopamine|dopaminergic	#FECB68	0.321188093187952
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	2	7		#FEE188	0.294191122410244
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	3	7		#FDAD4A	0.431836293718899
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	4	7		#FD913D	0.531313271692478
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	5	7		#FD913D	0.540496609604842
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	6	7		#FD913D	0.541669988153268
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	7	7		#FD913D	0.520426917933699
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	8	7		#FDAD4A	0.444660225187544
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	9	7		#FDAD4A	0.47786260822558
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	10	7		#FECB68	0.360934955554817
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	11	7		#FECB68	0.351855893593717
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	12	7		#FEE188	0.294711774614525
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	13	7	linguistic|spoken	#FFF1A9	0.174141061619275
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	14	7		#FEE188	0.217669021467097
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	15	7	comprehension|sentence|sentences|syntactic	#FFF1A9	0.174876914048597
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	16	7		#FEE188	0.221720471360127
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	17	7		#FEE188	0.261657290199923
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	18	7	phonological|reading|read	#FEE188	0.270744535640199
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	19	7		#FEE188	0.299331093495219
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	20	7	perceptual|recognition	#FEE188	0.269593805374701
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	21	7		#FECB68	0.315038394632449
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	22	7		#FEE188	0.294081951484224
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	23	7	verb	#FECB68	0.33146969106903
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	1	8	outcome|reward	#FFF1A9	0.194002808064345
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	2	8	anticipation	#FEE188	0.266524725759094
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	3	8	outcomes	#FFF1A9	0.194145191612358
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	4	8	choice|choices	#FECB68	0.358575954280213
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	5	8	decisions|probability	#FECB68	0.36294498625321
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	6	8	reversal	#FECB68	0.361734460729371
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	7	8	classification|incorrect	#FECB68	0.340290491747866
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	8	8		#FECB68	0.363087738217173
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	9	8	agerelated|fluency|probes	#FECB68	0.370831907104006
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	10	8	engaged	#FEE188	0.250192919649768
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	11	8	explicit|knowledge	#FEE188	0.233193453548998
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	12	8		#FEE188	0.244427266515565
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	13	8		#FFF1A9	0.198272234529196
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	14	8		#FFF1A9	0.193754268756121
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	15	8		#FEE188	0.200379162001035
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	16	8		#FEE188	0.223336147088913
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	17	8	lexical	#FEE188	0.237867245375326
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	18	8		#FEE188	0.267217032633053
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	19	8		#FEE188	0.290059287778659
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	20	8		#FEE188	0.298614126054843
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	21	8	encoding	#FEE188	0.288268006060929
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	22	8	retrieval	#FEE188	0.253678235941971
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	23	8	verbal	#FECB68	0.356372229087757
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	1	9	incentive|monetary|money|rewards	#FEE188	0.227516909785601
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	2	9	loss	#FFF1A9	0.199362512370299
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	3	9		#FEE188	0.293276475841817
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	4	9		#FECB68	0.347519667511619
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	5	9	decisionmaking	#FECB68	0.320972970152397
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	6	9		#FECB68	0.334048482559349
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	7	9		#FEE188	0.293505679741069
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	8	9		#FECB68	0.305913986465924
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	9	9		#FEE188	0.279504931495375
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	10	9		#FEE188	0.272852286713219
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	11	9		#FEE188	0.227802318666715
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	12	9		#FEE188	0.215497753498428
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	13	9	noun	#FFF1A9	0.127140769787059
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	14	9	meaning	#FFF1A9	0.13536043544239
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	15	9	english	#FEE188	0.208024541188626
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	16	9	pseudoword|pseudowords	#FEE188	0.206169630834232
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	17	9		#FEE188	0.243445589680641
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	18	9		#FEE188	0.266439779809726
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	19	9	familiar|judgment	#FEE188	0.23157757101966
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	20	9	pair|pairs	#FECB68	0.309664681675237
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	21	9		#FDAD4A	0.400191959151504
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	22	9		#FECB68	0.396302615257016
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	23	9	letter|working	#FECB68	0.384033782829384
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	1	10	losses|reinforcement|win	#FFF1A9	0.161420348796638
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	2	10	gain	#FEE188	0.2423952398066
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	3	10	expectation	#FECB68	0.332081304084877
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	4	10	risk	#FFF1A9	0.126812797414902
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	5	10	fact	#FEE188	0.26184349330094
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	6	10	associative	#FEE188	0.218612732002042
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	7	10	familiarity|judgments|old	#FEE188	0.220356178936496
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	8	10	contextual|text	#FFFFCC	0.095073872396988
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	9	10	recall|retrieved	#FFF1A9	0.171502392498235
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	10	10	conceptual|semantically	#FEE188	0.205527765816166
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	11	10	grammatical|speakers	#FFF1A9	0.150740298672953
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	12	10	nouns	#FFF1A9	0.181584768815679
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	13	10	japanese	#FFF1A9	0.140245031570975
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	14	10	languages	#FEE188	0.250242603986143
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	15	10	written	#FFF1A9	0.176066959049833
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	16	10	chinese|phonology	#FFF1A9	0.19674719982352
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	17	10	orthographic	#FEE188	0.199955383438338
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	18	10		#FEE188	0.272844696854828
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	19	10		#FECB68	0.317325769835487
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	20	10	association|decision	#FECB68	0.377646529677425
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	21	10	selection	#FD913D	0.520686914854042
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	22	10	letters	#FDAD4A	0.467771112876735
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	23	10	demand|load	#FECB68	0.376429162795577
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	1	11	conditioned|conditioning	#FFF1A9	0.153656885698374
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	2	11		#FEE188	0.207191510056926
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	3	11	drug|placebo	#FEE188	0.243522175822745
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	4	11		#FEE188	0.247073215849031
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	5	11	associations	#FDAD4A	0.453922158424825
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	6	11		#FEE188	0.215872245190381
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	7	11	episodic|recollection	#FFF1A9	0.134528512835041
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	8	11		#FFF1A9	0.167052279405343
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	9	11		#FFF1A9	0.164566846012119
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	10	11	concepts	#FFFFCC	0.097511064529747
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	11	11		#FFF1A9	0.178280275898486
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	12	11		#FEE188	0.227525611538676
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	13	11	german	#FEE188	0.289563131409732
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	14	11	readers	#FECB68	0.328098322202849
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	15	11	character|name|naming	#FEE188	0.259053040073962
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	16	11		#FEE188	0.260625606824379
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	17	11	novel	#FEE188	0.287486688686223
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	18	11		#FECB68	0.304404913282305
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	19	11	child|children	#FEE188	0.237656886046034
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	20	11	adults	#FECB68	0.394917677780744
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	21	11	ability|feedback|learning	#FD913D	0.510922029937815
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	22	11	cues|delay	#FDAD4A	0.483280044512578
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	23	11	attentional|difficulty|targets	#FDAD4A	0.422557921220457
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	1	12	aversive|shock	#FEE188	0.207839229026668
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	2	12	reactivity	#FFF1A9	0.100102431843044
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	3	12	males|sex|women	#FFFFCC	0.0934623789203003
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	4	12	animal	#FFF1A9	0.104738224208607
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	5	12	animals	#FFFFCC	0.0391843960577268
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	6	12		#FFF1A9	0.146818818334793
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	7	12	remember|subsequent	#FFF1A9	0.116728035279606
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	8	12	autobiographical|memories	#FFFFCC	0.0518232470681327
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	9	12		#FFF1A9	0.135123256739792
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	10	12	violation|violations	#FFFFCC	0.0690900774715711
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	11	12	aphasia	#FFF1A9	0.151195309181228
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	12	12	nonwords	#FEE188	0.202975674344787
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	13	12	dyslexia	#FEE188	0.256597117672404
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	14	12		#FEE188	0.290721934418485
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	15	12	priming	#FEE188	0.218759089619404
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	16	12		#FEE188	0.277480631098456
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	17	12	category|repetition	#FEE188	0.279250266712053
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	18	12		#FECB68	0.308013780692854
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	19	12	developmental|development	#FECB68	0.320739207467973
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	20	12		#FDAD4A	0.406057125691934
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	21	12	space	#FDAD4A	0.479361824437251
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	22	12		#FDAD4A	0.470189718286011
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	23	12	color	#FECB68	0.392868492252796
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	1	13	threat	#FFF1A9	0.121088856947954
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	2	13	regulation	#FFFFCC	0.0399270699294872
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	3	13		#FFF1A9	0.134976692044428
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	4	13	masked	#FFFFCC	0.0952250423733357
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	5	13	scene|scenes	#FFFFCC	0.0422956189667041
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	6	13		#FFFFCC	0.0829764314712751
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	7	13	confidence|remembered	#FFFFCC	0.0807135298258654
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	8	13		#FFF1A9	0.116432628051963
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	9	13		#FFF1A9	0.147419558420995
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	10	13	ambiguity|ambiguous	#FFFFCC	0
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	11	13		#FFF1A9	0.187445887734031
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	12	13		#FECB68	0.339772130085529
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	13	13	writing	#FECB68	0.34716278421261
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	14	13		#FECB68	0.336405423853913
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	15	13	categorization|congruency|prime	#FEE188	0.202672971620968
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	16	13		#FEE188	0.292126626543088
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	17	13	mask	#FEE188	0.232247472283798
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	18	13		#FDAD4A	0.404187576216686
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	19	13		#FDAD4A	0.482394676036894
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	20	13		#FDAD4A	0.49050332451823
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	21	13	conflict|congruent|incongruent	#FDAD4A	0.4204678349965
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	22	13	errors	#FDAD4A	0.494272423860973
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	23	13	maintenance|probe|wm	#FDAD4A	0.449314312754593
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	1	14	angry|fearful|happy	#FFFFCC	0.00877009487575575
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	2	14		#FFFFCC	0.074510848484066
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	3	14	awareness|conscious|ptsd	#FFF1A9	0.109713296703945
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	4	14		#FFF1A9	0.115945171668998
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	5	14	houses|photographs	#FFFFCC	0.0192033161001453
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	6	14		#FFFFCC	0.0778965759302377
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	7	14	hits	#FFFFCC	0.0470167874192295
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	8	14	famous	#FFFFCC	0.0727685266986458
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	9	14	names	#FFFFCC	0.0732696893454453
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	10	14	family	#FFF1A9	0.192339077812623
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	11	14	competition|mouth	#FEE188	0.289372878733329
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	12	14	abilities	#FD913D	0.563188161449431
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	13	14	implicit|unfamiliar	#FEE188	0.209024296513676
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	14	14		#FECB68	0.308923638287141
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	15	14	tom	#FEE188	0.209971004533807
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	16	14		#FECB68	0.317997858611899
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	17	14		#FECB68	0.360452141149209
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	18	14	stop	#FD913D	0.564066043974513
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	19	14	inhibition|inhibitory|nogo	#FD913D	0.57781677869571
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	20	14	monitoring|stroop	#FDAD4A	0.441528436372401
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	21	14	interference	#FDAD4A	0.492064986193374
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	22	14		#FDAD4A	0.440807198782865
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	23	14	demands|executive	#FECB68	0.344819521014104
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	1	15	anger	#FFFFCC	0.0165111710200498
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	2	15	stress	#FFFFCC	0.0985469163339713
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	3	15	feelings	#FEE188	0.259861203514179
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	4	15	salient	#FFF1A9	0.11213042621898
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	5	15	novelty	#FFFFCC	0.0593302188305473
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	6	15	movie	#FFFFCC	0.0654273591834025
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	7	15		#FFFFCC	0.082412557303655
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	8	15		#FFF1A9	0.168712767283394
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	9	15	longterm	#FEE188	0.240106359328807
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	10	15		#FEE188	0.291709125280413
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	11	15	reasoning|relational	#FFF1A9	0.170805648094332
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	12	15		#FECB68	0.304183074083069
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	13	15	presentations	#FFF1A9	0.179629957910582
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	14	15		#FECB68	0.302114319352894
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	15	15	identity	#FEE188	0.21007402011269
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	16	15		#FECB68	0.375904909633538
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	17	15	strategies|strategy	#FEE188	0.224467004886185
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	18	15	card|cards	#FECB68	0.318568692955647
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	19	15	gonogo	#FDAD4A	0.488691779794523
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	20	15		#FD913D	0.529553863618533
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	21	15	switching|switch	#FDAD4A	0.436079964922411
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	22	15		#FDAD4A	0.425272137502915
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	23	15	2back|rule	#FEE188	0.28535189342304
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	1	16	emotionally|mood|personality|sadness	#FFFFCC	0.0495660772678813
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	2	16	disgust|sexual	#FFF1A9	0.103880572187659
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	3	16	olfactory	#FFFFCC	0.0274963142255702
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	4	16	physiological	#FEE188	0.221961898138257
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	5	16	depressed|depressive|habituation	#FFFFCC	0.00225651192295186
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	6	16	schizophrenic	#FFFFCC	0.0895857264780355
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	7	16	colors|contexts	#FFFFCC	0.00422101436297792
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	8	16	aging|encoded	#FECB68	0.299849499426939
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	9	16	goal	#FEE188	0.225476918264542
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	10	16		#FECB68	0.316455105019745
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	11	16	autism|autistic|nonverbal	#FEE188	0.262498949052228
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	12	16		#FEE188	0.266047140954417
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	13	16	bottomup|repetitions	#FFF1A9	0.193674996278559
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	14	16	adaptation	#FEE188	0.245306433314321
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	15	16	irrelevant	#FECB68	0.36859071122231
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	16	16	distractor|distractors	#FD913D	0.512627672948571
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	17	16		#FDAD4A	0.399893777760133
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	18	16	subtraction	#FEE188	0.217501275522369
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	19	16	1back|nback	#FEE188	0.222740794111039
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	20	16	manipulation|rules	#FECB68	0.32853600768453
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	21	16		#FDAD4A	0.400514957098614
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	22	16		#FECB68	0.325351083368201
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	23	16	digit	#FEE188	0.293485520550153
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	1	17	avoidance	#FFFFCC	0.0474002609193736
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	2	17		#FFF1A9	0.104769025248907
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	3	17	eating|food	#FFFFCC	0.000806079440900683
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	4	17	taste	#FFFFCC	0.0650947586656771
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	5	17	bipolar	#FFFFCC	0.0248920227591823
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	6	17	illness|uncertainty	#FFFFCC	0.0799111109844758
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	7	17	females|probabilistic	#FFFFCC	0.0599600753324455
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	8	17	rejection	#FFFFCC	0.0323122003859222
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	9	17	colour|paired	#FEE188	0.285230236762825
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	10	17		#FECB68	0.353313368736792
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	11	17		#FECB68	0.364901790076529
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	12	17		#FECB68	0.332506067248269
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	13	17	taskirrelevant	#FEE188	0.260662619742766
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	14	17		#FEE188	0.269774510923183
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	15	17	suppression	#FECB68	0.325246095019026
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	16	17		#FECB68	0.358538692535546
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	17	17	shifting|shortterm	#FECB68	0.326098354538828
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	18	17	digits	#FECB68	0.32082966933419
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	19	17	search	#FDAD4A	0.416177403711384
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	20	17	counting|taskrelated	#FDAD4A	0.463493946856747
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	21	17	topdown	#FEE188	0.293676078818903
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	22	17	visuospatial	#FEE188	0.252246025245185
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	23	17	arithmetic|calculation|solving	#FEE188	0.206659111463714
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	1	18	addiction|craving|drugs	#FFF1A9	0.151747359154856
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	2	18	allele|genotype|polymorphism	#FFFFCC	0.0316915087065312
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	3	18	motivation	#FEE188	0.226940807499485
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	4	18	heart	#FECB68	0.312051765310404
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	5	18	sleep	#FFF1A9	0.161806254943223
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	6	18	expectancy	#FEE188	0.246341007133075
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	7	18	phasic|salience	#FEE188	0.280258873663174
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	8	18	adolescence|adolescents	#FFF1A9	0.173296946546435
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	9	18	intelligence|tracking	#FEE188	0.256397216726941
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	10	18		#FDAD4A	0.465332395874004
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	11	18	serial	#FEE188	0.296349040568673
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	12	18		#FDAD4A	0.454951406362389
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	13	18	spatially|taskrelevant	#FDAD4A	0.459137642307862
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	14	18		#FECB68	0.305813391145296
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	15	18	attended|attend|unattended	#FFF1A9	0.135985511497277
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	16	18	rotation|shapes	#FEE188	0.22474655839366
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	17	18	rehearsal	#FDAD4A	0.417876849352658
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	18	18	learned	#FDAD4A	0.437844642676834
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	19	18		#FC622F	0.622896090946274
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	20	18	cued|preparatory	#FD913D	0.542792401693739
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	21	18		#FD913D	0.571155015007966
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	22	18		#FDAD4A	0.406148785201166
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	23	18	numbers|numerical	#FEE188	0.246014034566326
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	1	19	future	#FFF1A9	0.188338823554538
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	2	19	negatively	#FECB68	0.319250364221184
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	3	19	distress|epilepsy|selfreported	#FFF1A9	0.160548356184079
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	4	19	anticipatory|cocaine|probabilities|smoking	#FDAD4A	0.469804017268025
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	5	19	alcohol|amount|impulsivity	#FEE188	0.208840381732538
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	6	19	game|success	#FFF1A9	0.146235558478782
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	7	19	adhd|childhood|engagement	#FECB68	0.359875126311874
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	8	19		#FDAD4A	0.445623355815956
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	9	19		#FD913D	0.567165003984069
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	10	19		#FD913D	0.599203349111308
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	11	19		#FD913D	0.562101650040409
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	12	19	endogenous	#FECB68	0.353833068099891
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	13	19	cueing|invalid|orienting	#FDAD4A	0.409864109270186
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	14	19		#FECB68	0.345557906113832
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	15	19	multisensory	#FFF1A9	0.157475911189793
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	16	19		#FECB68	0.322272217040463
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	17	19	shifts	#FDAD4A	0.497984593420909
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	18	19	covert	#FD913D	0.515702715235975
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	19	19		#FC622F	0.629243990716627
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	20	19	preparation	#F03623	0.734947399639735
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	21	19	discrimination|training	#FD913D	0.572472826384816
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	22	19	sequences	#FC622F	0.631628164920738
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	23	19		#FC622F	0.686206936272132
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	1	20	personal|self|selfreferential|trait|traits	#FFF1A9	0.125560388689785
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	2	20	empathic|theory	#FEE188	0.274526927195079
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	3	20	attribution|intentional	#FFFFCC	0.0130312683427909
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	4	20	elderly|oscillations	#FFFFCC	0.097589939418459
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	5	20	antipsychotic|virtual	#FFF1A9	0.110235621896077
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	6	20		#FECB68	0.350706982706607
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	7	20	experiences	#FFF1A9	0.178446030778911
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	8	20	categorical|pressure	#FECB68	0.311541197603775
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	9	20	play|skills	#F03623	0.784418644650989
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	10	20	automatic|trained	#FD913D	0.548909684421203
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	11	20		#B10026	0.914267844777917
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	12	20	practice	#B10026	0.977220257416733
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	13	20	visuomotor	#F03623	0.765149615789819
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	14	20		#FD913D	0.526973874746944
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	15	20	tool	#FEE188	0.238317256586325
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	16	20	vision	#FEE188	0.204987472548563
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	17	20	visually	#FD913D	0.581713436672794
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	18	20	saccade|saccades|saccadic	#FD913D	0.584989118696387
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	19	20	locations	#FDAD4A	0.407690150669784
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	20	20	imagery|planning	#FC622F	0.650615623209089
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	21	20		#F03623	0.734529119335948
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	22	20	rest	#F03623	0.764850732442665
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	23	20	sequence	#FC622F	0.640776623566242
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	1	21	scenarios	#FFFFCC	0.026286086193602
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	2	21	intention|intentions	#FFFFCC	0.0767023366605847
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	3	21	causality|perspective	#FFFFCC	0.0695910267532454
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	4	21	past	#FFFFCC	0.035017962353184
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	5	21		#FECB68	0.314699594452062
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	6	21	episode	#FEE188	0.230564050529171
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	7	21	improvement	#FD913D	0.563699661632916
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	8	21	masking|retention	#FECB68	0.32258995208428
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	9	21		#D7141E	0.823985012273304
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	10	21	dominant	#FC622F	0.640864319517459
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	11	21		#B10026	1
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	12	21	sequential	#B10026	0.947286976828738
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	13	21	fingers	#D7141E	0.802864280234303
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	14	21		#FDAD4A	0.454762353258953
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	15	21	gesture|gestures	#FEE188	0.254288001455266
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	16	21		#FECB68	0.362321109137306
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	17	21	hands	#FECB68	0.326337270084287
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	18	21		#FDAD4A	0.492787167591406
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	19	21		#FD913D	0.525321798547105
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	20	21	eye|position	#FD913D	0.566696483223629
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	21	21	execution	#D7141E	0.819115064831618
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	22	21	finger|sensorimotor	#F03623	0.746840744501107
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	23	21		#F03623	0.716416996157203
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	1	22	moral|stories|story	#FFFFCC	0.0427872595598066
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	2	22	mentalizing|persons	#FFF1A9	0.135638959839524
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	3	22	default|restingstate	#FFFFCC	0.0515234353341449
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	4	22	thinking|thought|thoughts	#FFF1A9	0.154970467341256
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	5	22	spontaneous	#FEE188	0.289491434990801
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	6	22	concentration|sensations	#FECB68	0.379998223029299
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	7	22	hierarchical|preference	#FFF1A9	0.157120754476361
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	8	22	effort|oral|simulation	#F03623	0.736334039086197
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	9	22	interhemispheric|plasticity	#FDAD4A	0.466211494526283
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	10	22	imagined|imagine	#D7141E	0.802538029207187
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	11	22	tapping	#D7141E	0.889816833182399
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	12	22	foot|muscle|muscles|voluntary	#D7141E	0.893852029778328
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	13	22	limb	#FC622F	0.638220439026215
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	14	22	eyes|velocity	#FC622F	0.621720304413771
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	15	22	biological|gaze|videos	#FFF1A9	0.126947464377867
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	16	22	body	#FDAD4A	0.452913426927758
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	17	22	grasping|orientation|reaching	#FEE188	0.270207902498557
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	18	22		#FDAD4A	0.454971446733865
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	19	22	mirror|shape	#FECB68	0.370927012879016
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	20	22	actions	#FDAD4A	0.460543408878225
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	21	22	action	#FD913D	0.553369809028329
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	22	22		#F03623	0.706646137131346
+5c6c902f-c1a3-3a76-be5d-9b81ddefdabb	Fehlings MG	23	22	hand|movements|sensory	#FC622F	0.670516769164845

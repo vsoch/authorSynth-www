@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+<div id='cssmenu'>
+      <ul>
+        <li><a href='network.html'><span>Network</span></a></li>
+       <li class='active'><a href='lattice.html'><span>Brain Lattice</span></a></li>
+       <li><a href='authors.html'><span>Authors</span></a></li>
+       <li class='last'><a href='about.html'><span>About</span></a></li>
+       <li class="right"><form id ="searchForm" action="author.php" method="get">
+       <input id="searchField" name="uid">
+       <input type="submit">
+       </form></li>
+      </ul>
+</div>
+
+    <head>
+        <meta charset="utf-8">
+        <meta name="description" content="Interative Network of Brain Activation Publications.">
+        <meta name="author" content="Vanessa Sochat">
+        <meta name="viewport" content="width=device-width,initial-scale=1">
+        
+        <title>AuthorSynth Brain Lattice</title>
+        <script type="text/javascript" src="js/d3.v3.js"></script>
+        <script type="text/javascript" src="js/tipsy.js"></script>
+        <script type="text/javascript" src="js/jquery-1.11.0.js"></script>
+
+        <!-- Bootstrap for Styling -->
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap-theme.min.css">
+        <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+        <script src="js/modernizr.custom.js"></script>
+        <script src="js/canvasXpress.min.js"></script>
+        <link rel="stylesheet" href="css/reset.css">
+        <link rel="stylesheet" href="css/bootstrap.min.css">
+        <link rel="stylesheet" href="css/style.css">
+
+        <!-- Jquery -->
+       <link rel="stylesheet" href="//code.jquery.com/ui/1.11.1/themes/smoothness/jquery-ui.css">
+       <script src="//code.jquery.com/jquery-1.10.2.js"></script>
+       <script src="//code.jquery.com/ui/1.11.1/jquery-ui.js"></script>
+
+        <!-- Custom Styling -->
+        <style type="text/css">
+
+            text {
+                font-family: sans-serif;
+                font-size: 10px;
+                fill: black;
+            }
+
+            h1 {
+                color: #666;
+
+            }
+            h6 {
+                color: #fff;
+            }
+            .boxes {
+                text-align: center;
+                color: #fff;
+                margin-top:30px;
+                font-weight: bold;
+                padding-top:5px;
+                padding-bottom:5px;
+            }
+
+            .container {
+                margin-left: 80px;
+            }
+
+            .d3-tip {
+              line-height: 1;
+              font-weight: bold;
+              padding: 12px;
+              background: rgba(0, 0, 0, 0.8);
+              color: #fff;
+              border-radius: 2px;
+            }
+
+            /* Creates a small triangle extender for the tooltip */
+            .d3-tip:after {
+              box-sizing: border-box;
+              display: inline;
+              font-size: 10px;
+              width: 100%;
+              line-height: 1;
+              color: rgba(0, 0, 0, 0.8);
+              content: "\25BC";
+              position: absolute;
+              text-align: center;
+            }
+
+            /* Style northward tooltips differently */
+            .d3-tip.n:after {
+              margin: -1px 0 0 0;
+              top: 100%;
+              left: 0;
+            }
+        </style>
+    </head>
+
+    <body>
+
+<script type="text/javascript">
+
+$(function() {
+    // Read in the authors.json file
+    var json = (function () {
+        var json = null;
+        $.ajax({
+            'async': false,
+            'global': false,
+            'url': "data/authors.json",
+            'dataType': "json",
+            'success': function (data) {
+                json = data;
+            }
+        });
+        return json;
+    })(); 
+
+    $( "#searchField" ).autocomplete({
+      source: json,
+      select: function(event, ui) {
+        console.log(ui); 
+        $("#searchField").val(ui.item.label);
+        }
+    });
+  });
+
+</script>
+
+
+  <div class="container">
+
+        <div class="row">
+            <h1 style="padding-top:50px; padding-bottom:20px;">Neuroscience Author Brain Lattice</h1>
+
+              <p>The grid below is a mapping of brain maps for 525 behavioral concepts from the <a href="http://www.neurosynth.org" target="_blank">NeuroSynth</a> database to a 2D grid, where distance on the grid represents similarity of maps.  You will notice clustering for different high level concepts (auditory in the top left, emotional salience in the top middle, vision in the top right), and if you mouse over a node, that there can be more than one concept mapped to it.  The cool thing about this map is that we can match any brain image to every node, and produce a coloring that represents the similarity of the map to the node.  This, if you click on a node, you will be taken to a list of PIs in the neuroscience literature with the top matching scores to that node.</p>
+
+              <!-- BRAIN LATTICE -->
+              <div class="tab-pane active" id="brain"></div>
+              </div>
+                <script type="text/javascript">
+
+
+                // Set height and width
+                h = 1200;
+                w = 1200;
+
+                // Create canvas
+                svg = d3.select(".tab-pane")
+                    .append("svg")
+                    .attr("height",h)
+                    .attr("width",w)
+           
+                // This is a function for tooltips
+                var tip = d3.tip()
+                    .attr('class', 'd3-tip')
+                    .offset([-10, 0])
+                    .html(function(d) {
+
+                        // Parse each of our terms
+                        var terms = d.TERMS.split("|");
+                        terms = terms.join("<br>")
+
+                        if (terms.length == 0) {
+                        return "<span style='color:tomato'>No Matched Terms</span>"
+                        } else { 
+                        return "<span style='color:yellow'>" + terms + "</span>";
+                        }
+                    })
+
+                // Call tooltips function
+                svg.call(tip);
+
+
+                // Read in tsv file to "data"
+                d3.tsv("data/brainLattice506MatchedAuthorsColors.tsv", function(error,data) {
+                    data.forEach(function(d) {
+                        //console.log(d);
+                    })
+                    // Return any errors
+                    if(error){
+                        return console.log(error);
+                    }
+
+                    // Create a square for each data element
+                    var rects = svg.selectAll("rect")
+                        .data(data)
+                        .enter() 
+                        .append("svg:rect");
+                    
+                    // Now let's add the rect attributes
+                    var rectAttributes = rects
+                        .attr("y",function(d,i){ return 50*d.Y })
+                        .attr("x",function(d,i){ return 50*d.X })
+                        .attr("width", 50)
+                        .attr("height",50)
+                        .attr("fill",function(d,i){ return d.COLOR})
+                        .attr("transform","translate(60,40)")
+                        .on('mouseout.tip', tip.hide)
+                        .on('mouseover.tip', tip.show)
+                        .on('mouseover.color', function(d) {
+                            d3.select(this).style("fill", "red");
+                        })
+                        .on('mouseout.color', function(d) {
+                            d3.select(this).style("fill", function(d){ return d.COLOR });
+                        })
+                        .on('mouseover.size', function(d) {
+                            d3.select(this).attr("r", 15);
+                        })
+                        .on('mouseout.size', function(d) {
+                            d3.select(this).attr("r", 10);
+                        });
+
+                      // Add the text to the svg container
+                      var text = svg.selectAll("text")
+                          .data(data)
+                          .enter()
+                          .append("text");
+ 
+                       // Now define text attributes
+                      var textAttributes = text
+                          .attr("x", function(d) { return 50*d.X + 65; })
+                           .attr("y", function(d) { return 50*d.Y + 70; })
+                           // here is how to debug position
+                           //.text( function (d) { return "( " + d.X + ", " + d.Y +" )"; })
+                           .attr("font-family", "sans-serif")
+                           .attr("font-size", "1px")
+                           .attr("fill", "red")
+                           //Here is the link to similar authors!
+                           .append("svg:a")
+                           .attr("xlink:href", function(d){return "brainlattice.php?uid=" + d.UIDS;})
+
+                           .text(function(d) {
+                            var terms = d.TERMS.split("|");
+                            //just render the first
+                            return terms[0]; });
+
+                        //.transition()
+                        //.attr("x",10)
+
+                    }); // End of file
+                   
+                </script>
+            </div><!-- End row -->
+
+        </div><!-- End container -->
+    </body>
+</html>

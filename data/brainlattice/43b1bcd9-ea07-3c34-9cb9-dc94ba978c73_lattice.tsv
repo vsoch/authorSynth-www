@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	1	1	auditory|speech	#FECB68	0.318327610932127
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	2	1		#FEE188	0.296507443643304
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	3	1	da|integration	#FD913D	0.513695962171223
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	4	1		#FDAD4A	0.458064285162367
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	5	1	physical|psychophysical|tactile	#FECB68	0.362607781251404
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	6	1		#FECB68	0.34459645240078
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	7	1	somatosensory|stimulation	#FECB68	0.322831473114986
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	8	1	painful|pain	#FFF1A9	0.180648975206063
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	9	1		#FEE188	0.207628949938136
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	10	1	ratings	#FEE188	0.279930630078932
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	11	1	affective|affect	#FEE188	0.230399568256333
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	12	1	emotions	#FECB68	0.339799910153539
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	13	1	expression|expressions|facial	#FECB68	0.339479814121731
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	14	1		#FDAD4A	0.435243166622912
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	15	1		#FDAD4A	0.456626630435225
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	16	1	emotion|motion|neutral	#FDAD4A	0.419992108460189
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	17	1	rating	#FECB68	0.366946596484252
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	18	1	negative|positive	#FDAD4A	0.422987288910521
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	19	1		#FD913D	0.558435696059509
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	20	1	ear|order	#FD913D	0.577286871524097
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	21	1	motor	#FD913D	0.51501330747722
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	22	1	visual	#FC622F	0.690694067791872
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	23	1	age|image|response	#FD913D	0.59414050633883
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	1	2	sound|sounds	#FFF1A9	0.174886316080234
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	2	2		#FEE188	0.266998027049681
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	3	2	audiovisual|bimodal|crossmodal	#FECB68	0.389744533903573
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	4	2		#FDAD4A	0.46854599865336
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	5	2		#FDAD4A	0.443671462666124
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	6	2		#FECB68	0.371816157732803
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	7	2	sensation	#FFF1A9	0.131740979615313
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	8	2	heat|noxious	#FFF1A9	0.157652473426359
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	9	2		#FEE188	0.204362239967568
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	10	2		#FEE188	0.270020154851548
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	11	2		#FEE188	0.297604323280102
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	12	2	valence	#FEE188	0.289324178347549
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	13	2	person|social	#FECB68	0.383326485303202
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	14	2		#FDAD4A	0.448573876911195
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	15	2	face|faces	#FD913D	0.520790035427684
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	16	2		#FDAD4A	0.498748776451219
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	17	2		#FD913D	0.503902726596436
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	18	2		#FD913D	0.55168264710473
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	19	2		#FD913D	0.595212369040544
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	20	2		#FC622F	0.628715556326645
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	21	2	images|spatial	#FC622F	0.651322098680882
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	22	2	control	#FC622F	0.616955502487536
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	23	2	time	#FC622F	0.606956357526105
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	1	3	acoustic|listening|musical|music|pitch	#FFF1A9	0.107710459353029
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	2	3	noise|tones	#FEE188	0.207158344504939
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	3	3		#FECB68	0.365495510364665
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	4	3		#FDAD4A	0.455733631427025
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	5	3	frequency	#FDAD4A	0.459159864144565
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	6	3		#FDAD4A	0.418099826637473
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	7	3		#FEE188	0.202599799401153
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	8	3	temperature	#FFF1A9	0.127464740116484
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	9	3		#FFF1A9	0.195363192129488
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	10	3	pleasant|unpleasant	#FEE188	0.233426653120721
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	11	3	anxiety	#FEE188	0.20469229057675
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	12	3		#FECB68	0.368476723424484
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	13	3		#FDAD4A	0.45013393214953
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	14	3		#FDAD4A	0.485896050236995
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	15	3		#FD913D	0.52964582724752
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	16	3	picture	#FD913D	0.598335786101251
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	17	3		#FD913D	0.592250302961618
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	18	3	value	#FC622F	0.614572988344003
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	19	3	cue	#FD913D	0.593738594114429
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	20	3	error|target	#FC622F	0.627399228824594
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	21	3	attention	#FC622F	0.683639543640023
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	22	3		#FC622F	0.660728158035198
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	23	3	number	#FC622F	0.623363267038363
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	1	4	voice	#FFF1A9	0.13576225373014
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	2	4		#FEE188	0.218186949454285
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	3	4	hearing	#FECB68	0.377046919462859
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	4	4		#FECB68	0.37332547848083
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	5	4	overt	#FDAD4A	0.418055242486941
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	6	4		#FECB68	0.369215018611888
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	7	4		#FEE188	0.237948337394834
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	8	4	nociceptive|nonpainful|painrelated	#FFF1A9	0.099305406809314
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	9	4	unpleasantness	#FEE188	0.2326936650944
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	10	4	skin|subjective	#FFF1A9	0.19107204297943
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	11	4	depression	#FECB68	0.328186957542919
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	12	4	experience	#FECB68	0.386467926792411
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	13	4	female	#FDAD4A	0.409469300452541
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	14	4	male	#FDAD4A	0.450699579900472
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	15	4	pictures	#FD913D	0.599721220746349
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	16	4		#FC622F	0.636447451087902
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	17	4	perception	#FC622F	0.606236540530988
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	18	4		#FC622F	0.699519823882744
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	19	4		#FC622F	0.698502248508484
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	20	4		#FC622F	0.692326408404907
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	21	4	correct	#FC622F	0.622312970952749
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	22	4	work	#FC622F	0.659049374546166
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	23	4	memory	#FC622F	0.647318767845738
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	1	5	prosodic|prosody	#FFFFCC	0.0976844868865084
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	2	5	phonetic	#FFF1A9	0.180301872276603
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	3	5	syllable|syllables	#FECB68	0.323390251074767
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	4	5		#FECB68	0.326705650979139
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	5	5	lip|production	#FEE188	0.298255212570719
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	6	5	somatotopic	#FEE188	0.212004953241413
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	7	5		#FEE188	0.28968179032214
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	8	5		#FEE188	0.289706049295517
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	9	5	empathy	#FECB68	0.336195694822744
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	10	5		#FECB68	0.398354112365642
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	11	5	disorder	#FECB68	0.317833338056798
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	12	5		#FDAD4A	0.441417965825165
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	13	5		#FDAD4A	0.478011880741786
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	14	5		#FD913D	0.538025863361007
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	15	5		#FD913D	0.564663354606817
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	16	5		#FC622F	0.634398488090471
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	17	5		#FC622F	0.67078892756299
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	18	5	mental	#FC622F	0.694578987158841
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	19	5	go	#FC622F	0.665616539133344
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	20	5	object	#F03623	0.754859013884974
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	21	5		#FC622F	0.681596216335784
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	22	5		#FC622F	0.642077919249541
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	23	5	word|words	#FD913D	0.559235326117835
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	1	6		#FEE188	0.270388762122889
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	2	6		#FECB68	0.306383319787366
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	3	6		#FECB68	0.361333698106033
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	4	6	vocal	#FFF1A9	0.128511004778938
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	5	6	articulatory	#FFF1A9	0.111127854677304
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	6	6		#FECB68	0.336791043439719
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	7	6	oddball	#FECB68	0.345139135415057
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	8	6	perceived	#FECB68	0.372621751441601
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	9	6	errorrelated	#FFF1A9	0.19399831863141
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	10	6	approach	#FECB68	0.323055772467641
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	11	6	schizophrenia	#FECB68	0.388965674427017
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	12	6	acquisition	#FDAD4A	0.413016386603534
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	13	6		#FD913D	0.507107263917281
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	14	6		#FDAD4A	0.436364863626716
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	15	6		#FDAD4A	0.449535551413725
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	16	6		#FDAD4A	0.491720829609762
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	17	6		#FC622F	0.641061778836428
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	18	6		#FC622F	0.697395206637082
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	19	6		#F03623	0.709421197166683
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	20	6	objects	#F03623	0.774826762475314
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	21	6		#FC622F	0.683685533757235
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	22	6		#FC622F	0.605907263254217
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	23	6	language|semantic	#FD913D	0.550533664493497
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	1	7	dopamine|dopaminergic	#FFF1A9	0.179032555440098
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	2	7		#FEE188	0.211396411007817
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	3	7		#FECB68	0.365696067958647
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	4	7		#FDAD4A	0.426378366740847
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	5	7		#FDAD4A	0.465452785997244
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	6	7		#FDAD4A	0.466760376419499
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	7	7		#FDAD4A	0.436000660125709
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	8	7		#FDAD4A	0.428388112099814
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	9	7		#FDAD4A	0.424668508226556
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	10	7		#FD913D	0.57072408921324
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	11	7		#FD913D	0.57936457553435
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	12	7		#FD913D	0.597226521147201
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	13	7	linguistic|spoken	#FDAD4A	0.475157834362693
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	14	7		#FDAD4A	0.408218931261561
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	15	7	comprehension|sentence|sentences|syntactic	#FECB68	0.341315243044833
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	16	7		#FDAD4A	0.450909772476693
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	17	7		#FD913D	0.588948298764904
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	18	7	phonological|reading|read	#FD913D	0.591065034620242
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	19	7		#FC622F	0.688736719417149
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	20	7	perceptual|recognition	#FC622F	0.687727679005492
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	21	7		#FC622F	0.679913395931974
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	22	7		#FC622F	0.607551803296289
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	23	7	verb	#FD913D	0.566425699921106
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	1	8	outcome|reward	#FFF1A9	0.180755734325953
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	2	8	anticipation	#FFF1A9	0.155456000167906
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	3	8	outcomes	#FEE188	0.204708886617172
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	4	8	choice|choices	#FECB68	0.397519666861419
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	5	8	decisions|probability	#FDAD4A	0.485689531001197
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	6	8	reversal	#FDAD4A	0.437467957478555
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	7	8	classification|incorrect	#FECB68	0.362393004686068
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	8	8		#FDAD4A	0.461159732272332
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	9	8	agerelated|fluency|probes	#FECB68	0.364511764469915
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	10	8	engaged	#F03623	0.735599452347772
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	11	8	explicit|knowledge	#FD913D	0.51965999222623
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	12	8		#FD913D	0.578203401170203
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	13	8		#FDAD4A	0.483008008723369
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	14	8		#FDAD4A	0.437533912565402
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	15	8		#FDAD4A	0.439443535984019
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	16	8		#FDAD4A	0.454556484969996
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	17	8	lexical	#FDAD4A	0.479682093906914
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	18	8		#FC622F	0.625440671139439
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	19	8		#FC622F	0.664536010734121
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	20	8		#FC622F	0.681594647317658
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	21	8	encoding	#FC622F	0.617191515406578
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	22	8	retrieval	#FD913D	0.528091688935424
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	23	8	verbal	#FC622F	0.604589077813626
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	1	9	incentive|monetary|money|rewards	#FFFFCC	0.0893096135128123
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	2	9	loss	#FFF1A9	0.127199380045511
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	3	9		#FECB68	0.303823507228789
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	4	9		#FECB68	0.394305580304375
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	5	9	decisionmaking	#FECB68	0.339551178857108
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	6	9		#FDAD4A	0.492380355133077
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	7	9		#FDAD4A	0.492290264861391
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	8	9		#FDAD4A	0.488939589329829
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	9	9		#FD913D	0.518546977105023
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	10	9		#FD913D	0.590962665820633
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	11	9		#FD913D	0.586918458450112
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	12	9		#FD913D	0.549588995178364
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	13	9	noun	#FECB68	0.320804960846259
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	14	9	meaning	#FD913D	0.505598712756402
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	15	9	english	#FDAD4A	0.467190082601518
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	16	9	pseudoword|pseudowords	#FECB68	0.392805510746512
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	17	9		#FD913D	0.570396219768201
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	18	9		#FC622F	0.63423059403237
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	19	9	familiar|judgment	#FC622F	0.661304604073469
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	20	9	pair|pairs	#FD913D	0.57875422200901
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	21	9		#FC622F	0.665578718002231
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	22	9		#FC622F	0.697449421587448
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	23	9	letter|working	#F03623	0.731043584916438
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	1	10	losses|reinforcement|win	#FFFFCC	0.069227375151704
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	2	10	gain	#FFF1A9	0.131138578999364
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	3	10	expectation	#FFF1A9	0.173659607675296
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	4	10	risk	#FECB68	0.307355776414838
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	5	10	fact	#FECB68	0.349779798598332
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	6	10	associative	#FECB68	0.385640546421226
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	7	10	familiarity|judgments|old	#FDAD4A	0.497583826519455
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	8	10	contextual|text	#FDAD4A	0.44747747496551
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	9	10	recall|retrieved	#FDAD4A	0.488755670806392
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	10	10	conceptual|semantically	#FDAD4A	0.476701853239169
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	11	10	grammatical|speakers	#FDAD4A	0.469090498896863
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	12	10	nouns	#FECB68	0.322278347414871
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	13	10	japanese	#FDAD4A	0.443202796554272
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	14	10	languages	#FD913D	0.500575578992724
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	15	10	written	#FD913D	0.519172808547033
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	16	10	chinese|phonology	#FC622F	0.610122875356139
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	17	10	orthographic	#FC622F	0.607214855045541
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	18	10		#FC622F	0.65271549066868
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	19	10		#FC622F	0.641660790420055
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	20	10	association|decision	#FD913D	0.573572276919358
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	21	10	selection	#FD913D	0.541856769320107
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	22	10	letters	#F03623	0.703636724782512
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	23	10	demand|load	#F03623	0.714457689265175
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	1	11	conditioned|conditioning	#FFFFCC	0
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	2	11		#FEE188	0.203407657645911
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	3	11	drug|placebo	#FECB68	0.381060313665723
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	4	11		#FDAD4A	0.443918311190408
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	5	11	associations	#FECB68	0.324434119159294
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	6	11		#FDAD4A	0.492568354211361
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	7	11	episodic|recollection	#FECB68	0.304241297844278
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	8	11		#FD913D	0.505934703930421
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	9	11		#FD913D	0.590475656131831
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	10	11	concepts	#FDAD4A	0.464407940563146
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	11	11		#FD913D	0.570950977321448
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	12	11		#FD913D	0.529374309772132
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	13	11	german	#FECB68	0.392401051673305
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	14	11	readers	#FECB68	0.36646827323428
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	15	11	character|name|naming	#FD913D	0.521620280857736
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	16	11		#FC622F	0.664965289986917
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	17	11	novel	#F03623	0.702902673753658
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	18	11		#FC622F	0.657865661904299
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	19	11	child|children	#FD913D	0.579926324357673
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	20	11	adults	#FC622F	0.630644403123015
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	21	11	ability|feedback|learning	#FD913D	0.543309240697523
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	22	11	cues|delay	#FC622F	0.63531748212252
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	23	11	attentional|difficulty|targets	#FC622F	0.697967844119791
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	1	12	aversive|shock	#FFFFCC	0.0337426402974288
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	2	12	reactivity	#FFF1A9	0.191911560434098
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	3	12	males|sex|women	#FECB68	0.375438097537784
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	4	12	animal	#FEE188	0.286188324594553
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	5	12	animals	#FEE188	0.282390174260337
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	6	12		#FDAD4A	0.492603498810073
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	7	12	remember|subsequent	#FDAD4A	0.469772060796582
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	8	12	autobiographical|memories	#FEE188	0.252222477252323
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	9	12		#FD913D	0.551365205922203
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	10	12	violation|violations	#FECB68	0.359338415507544
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	11	12	aphasia	#FD913D	0.553626902600583
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	12	12	nonwords	#FDAD4A	0.496225147720159
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	13	12	dyslexia	#FDAD4A	0.41951371386983
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	14	12		#FC622F	0.611994368080065
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	15	12	priming	#FC622F	0.689046115429951
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	16	12		#F03623	0.711681145342787
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	17	12	category|repetition	#FC622F	0.697694250724022
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	18	12		#FC622F	0.671762060024908
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	19	12	developmental|development	#FD913D	0.510072800849642
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	20	12		#FC622F	0.646825347070178
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	21	12	space	#FC622F	0.672773244014533
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	22	12		#FC622F	0.679543094960779
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	23	12	color	#FC622F	0.688513437041876
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	1	13	threat	#FFFFCC	0.0841680765129775
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	2	13	regulation	#FFF1A9	0.148028569348268
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	3	13		#FEE188	0.298389673785026
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	4	13	masked	#FECB68	0.372712758257158
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	5	13	scene|scenes	#FDAD4A	0.432858960471315
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	6	13		#FD913D	0.529205172034018
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	7	13	confidence|remembered	#FECB68	0.300286334540014
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	8	13		#FD913D	0.522223600701448
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	9	13		#FD913D	0.545090311418453
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	10	13	ambiguity|ambiguous	#FDAD4A	0.402025969570568
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	11	13		#FC622F	0.618725528668417
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	12	13		#FC622F	0.661780731388603
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	13	13	writing	#FD913D	0.530919054404031
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	14	13		#FC622F	0.685500449321295
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	15	13	categorization|congruency|prime	#FC622F	0.630799458459281
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	16	13		#F03623	0.725386066244597
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	17	13	mask	#FC622F	0.667199955746506
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	18	13		#FC622F	0.664663719771261
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	19	13		#FD913D	0.595843662825805
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	20	13		#FC622F	0.617214785164523
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	21	13	conflict|congruent|incongruent	#FD913D	0.558030456887185
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	22	13	errors	#FD913D	0.581305766982279
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	23	13	maintenance|probe|wm	#FD913D	0.573450250732943
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	1	14	angry|fearful|happy	#FFF1A9	0.113446009086806
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	2	14		#FFF1A9	0.161875078040648
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	3	14	awareness|conscious|ptsd	#FEE188	0.216540632188166
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	4	14		#FDAD4A	0.428500112101872
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	5	14	houses|photographs	#FECB68	0.32741080238325
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	6	14		#FD913D	0.569495477764127
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	7	14	hits	#FD913D	0.529640126251154
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	8	14	famous	#FEE188	0.295344812790772
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	9	14	names	#FEE188	0.222519083459428
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	10	14	family	#FECB68	0.399236816536059
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	11	14	competition|mouth	#FD913D	0.551464490643071
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	12	14	abilities	#FC622F	0.627045345059298
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	13	14	implicit|unfamiliar	#FD913D	0.537072325146283
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	14	14		#FC622F	0.680885917036765
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	15	14	tom	#FD913D	0.600055757644867
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	16	14		#F03623	0.718775543090508
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	17	14		#F03623	0.711304928706859
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	18	14	stop	#FD913D	0.514575505177763
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	19	14	inhibition|inhibitory|nogo	#FDAD4A	0.429630329239061
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	20	14	monitoring|stroop	#FDAD4A	0.464708317573895
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	21	14	interference	#FC622F	0.642658582260081
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	22	14		#FC622F	0.653132862408351
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	23	14	demands|executive	#FC622F	0.675154014279016
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	1	15	anger	#FFFFCC	0.0388399752217651
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	2	15	stress	#FFF1A9	0.131328886703536
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	3	15	feelings	#FEE188	0.201982745162006
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	4	15	salient	#FEE188	0.275596894654475
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	5	15	novelty	#FEE188	0.291916851286502
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	6	15	movie	#FDAD4A	0.456437112771326
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	7	15		#FC622F	0.637993663963236
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	8	15		#FC622F	0.615401240498895
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	9	15	longterm	#FECB68	0.348100393398521
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	10	15		#FD913D	0.591337682109353
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	11	15	reasoning|relational	#FD913D	0.564744271401111
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	12	15		#F03623	0.720183830984693
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	13	15	presentations	#FDAD4A	0.448136841844708
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	14	15		#F03623	0.717081244498431
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	15	15	identity	#FD913D	0.534033487350116
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	16	15		#F03623	0.710868494891212
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	17	15	strategies|strategy	#FC622F	0.648569512032896
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	18	15	card|cards	#FDAD4A	0.463229868412261
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	19	15	gonogo	#FDAD4A	0.420698038319303
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	20	15		#FC622F	0.602021501785818
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	21	15	switching|switch	#FC622F	0.643672239066622
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	22	15		#FC622F	0.676873755816703
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	23	15	2back|rule	#FC622F	0.643886976412191
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	1	16	emotionally|mood|personality|sadness	#FFF1A9	0.160545803407276
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	2	16	disgust|sexual	#FEE188	0.252242077159363
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	3	16	olfactory	#FFFFCC	0.0813455692065229
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	4	16	physiological	#FECB68	0.328944436971835
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	5	16	depressed|depressive|habituation	#FEE188	0.22373284531117
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	6	16	schizophrenic	#FECB68	0.309660421302349
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	7	16	colors|contexts	#FD913D	0.596601335812704
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	8	16	aging|encoded	#FDAD4A	0.45818284010337
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	9	16	goal	#FDAD4A	0.449906253951357
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	10	16		#FC622F	0.600331271267609
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	11	16	autism|autistic|nonverbal	#FDAD4A	0.497767731043684
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	12	16		#F03623	0.720134139434268
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	13	16	bottomup|repetitions	#D7141E	0.826187758381541
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	14	16	adaptation	#FC622F	0.634627270814904
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	15	16	irrelevant	#FC622F	0.639606836032214
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	16	16	distractor|distractors	#FC622F	0.624909666609579
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	17	16		#F03623	0.739696505104352
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	18	16	subtraction	#FC622F	0.601946705601176
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	19	16	1back|nback	#FDAD4A	0.498168167958936
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	20	16	manipulation|rules	#F03623	0.783669451781754
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	21	16		#F03623	0.769742921912586
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	22	16		#F03623	0.773119077808615
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	23	16	digit	#F03623	0.709700422888616
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	1	17	avoidance	#FFFFCC	0.0941302588481214
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	2	17		#FEE188	0.269373271321515
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	3	17	eating|food	#FEE188	0.256416511978704
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	4	17	taste	#FFF1A9	0.178775575178822
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	5	17	bipolar	#FEE188	0.218256263183957
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	6	17	illness|uncertainty	#FEE188	0.287758589391595
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	7	17	females|probabilistic	#FECB68	0.383977158671901
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	8	17	rejection	#FECB68	0.38406263692185
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	9	17	colour|paired	#FC622F	0.60769779495073
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	10	17		#FC622F	0.660562105544514
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	11	17		#FC622F	0.666591807799282
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	12	17		#F03623	0.724029490062122
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	13	17	taskirrelevant	#FD913D	0.566005728784857
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	14	17		#F03623	0.791650970743971
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	15	17	suppression	#FC622F	0.660967837373849
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	16	17		#D7141E	0.812892946675272
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	17	17	shifting|shortterm	#F03623	0.749930619485425
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	18	17	digits	#FC622F	0.634032362756772
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	19	17	search	#FD913D	0.521127166959407
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	20	17	counting|taskrelated	#FD913D	0.584844522201761
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	21	17	topdown	#F03623	0.759100610998528
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	22	17	visuospatial	#D7141E	0.89974591828599
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	23	17	arithmetic|calculation|solving	#F03623	0.709109711682866
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	1	18	addiction|craving|drugs	#FEE188	0.267718678480292
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	2	18	allele|genotype|polymorphism	#FFF1A9	0.184057156153283
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	3	18	motivation	#FFFFCC	0.0131628423290243
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	4	18	heart	#FDAD4A	0.416615034817246
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	5	18	sleep	#FECB68	0.338241987259501
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	6	18	expectancy	#FDAD4A	0.407678008828471
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	7	18	phasic|salience	#FEE188	0.231568230013882
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	8	18	adolescence|adolescents	#FECB68	0.37924173241705
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	9	18	intelligence|tracking	#FD913D	0.592876857118346
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	10	18		#F03623	0.711928307327076
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	11	18	serial	#FD913D	0.564250617048554
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	12	18		#FC622F	0.686466931877964
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	13	18	spatially|taskrelevant	#FC622F	0.652340324856348
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	14	18		#F03623	0.765827739549481
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	15	18	attended|attend|unattended	#FC622F	0.657663983522733
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	16	18	rotation|shapes	#F03623	0.770916783240586
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	17	18	rehearsal	#FC622F	0.63537394830211
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	18	18	learned	#FDAD4A	0.407444893642928
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	19	18		#FC622F	0.653471283385188
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	20	18	cued|preparatory	#FC622F	0.668905600977129
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	21	18		#F03623	0.775322583552572
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	22	18		#D7141E	0.820175910225685
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	23	18	numbers|numerical	#F03623	0.711657314223153
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	1	19	future	#FEE188	0.292576745144067
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	2	19	negatively	#FECB68	0.324151410713658
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	3	19	distress|epilepsy|selfreported	#FEE188	0.254629717594028
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	4	19	anticipatory|cocaine|probabilities|smoking	#FEE188	0.217179030059442
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	5	19	alcohol|amount|impulsivity	#FECB68	0.385045170832527
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	6	19	game|success	#FECB68	0.322394226421689
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	7	19	adhd|childhood|engagement	#FEE188	0.276841251298586
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	8	19		#FD913D	0.506168819549108
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	9	19		#FC622F	0.622291565890708
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	10	19		#FC622F	0.677587885446713
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	11	19		#FC622F	0.672668466872134
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	12	19	endogenous	#FDAD4A	0.429629169304934
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	13	19	cueing|invalid|orienting	#FDAD4A	0.496708207260911
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	14	19		#F03623	0.783526854805316
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	15	19	multisensory	#FC622F	0.637999699927213
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	16	19		#F03623	0.780839844716805
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	17	19	shifts	#FC622F	0.68220985704938
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	18	19	covert	#FD913D	0.540281327771533
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	19	19		#FC622F	0.650404992302299
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	20	19	preparation	#FD913D	0.532349858557672
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	21	19	discrimination|training	#F03623	0.737709979132223
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	22	19	sequences	#FC622F	0.689907848527887
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	23	19		#F03623	0.702475141241124
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	1	20	personal|self|selfreferential|trait|traits	#FEE188	0.296112179508354
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	2	20	empathic|theory	#FECB68	0.339068632408729
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	3	20	attribution|intentional	#FFF1A9	0.162849231119144
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	4	20	elderly|oscillations	#FFFFCC	0.0606235048242326
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	5	20	antipsychotic|virtual	#FECB68	0.332980419005237
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	6	20		#FDAD4A	0.459913300134167
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	7	20	experiences	#FFF1A9	0.184273146994261
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	8	20	categorical|pressure	#FECB68	0.349137327507455
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	9	20	play|skills	#FEE188	0.221664696799543
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	10	20	automatic|trained	#FD913D	0.511817168139214
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	11	20		#FC622F	0.608770445363095
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	12	20	practice	#FD913D	0.527275653279577
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	13	20	visuomotor	#FD913D	0.522904941181202
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	14	20		#F03623	0.72649624989369
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	15	20	tool	#FC622F	0.653645165858023
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	16	20	vision	#FD913D	0.594087515291716
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	17	20	visually	#FC622F	0.646604881367311
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	18	20	saccade|saccades|saccadic	#FD913D	0.530435494931393
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	19	20	locations	#FD913D	0.559526708156735
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	20	20	imagery|planning	#FC622F	0.606175977852092
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	21	20		#FC622F	0.69221094974487
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	22	20	rest	#FD913D	0.557545986673958
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	23	20	sequence	#FC622F	0.639568460446474
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	1	21	scenarios	#FFF1A9	0.13974663322108
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	2	21	intention|intentions	#FECB68	0.35600771252266
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	3	21	causality|perspective	#FEE188	0.210270043934811
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	4	21	past	#FFF1A9	0.175031786140946
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	5	21		#FDAD4A	0.432421077895391
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	6	21	episode	#FEE188	0.201731432255375
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	7	21	improvement	#FD913D	0.558600823607486
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	8	21	masking|retention	#FD913D	0.558222433021906
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	9	21		#FDAD4A	0.489556544405358
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	10	21	dominant	#FD913D	0.535789494575106
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	11	21		#FDAD4A	0.485710878785317
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	12	21	sequential	#FD913D	0.509600568745019
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	13	21	fingers	#FECB68	0.395585596485602
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	14	21		#FC622F	0.631332181763423
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	15	21	gesture|gestures	#FD913D	0.527507994186791
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	16	21		#FC622F	0.635461555917754
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	17	21	hands	#FD913D	0.556685085999678
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	18	21		#F03623	0.712705897770131
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	19	21		#F03623	0.741954626527624
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	20	21	eye|position	#FC622F	0.664883860782383
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	21	21	execution	#FC622F	0.626064683596255
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	22	21	finger|sensorimotor	#FDAD4A	0.494202743525539
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	23	21		#FD913D	0.550040352062624
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	1	22	moral|stories|story	#FFFFCC	0.0943043819879227
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	2	22	mentalizing|persons	#FEE188	0.236319748113815
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	3	22	default|restingstate	#FEE188	0.210853433264
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	4	22	thinking|thought|thoughts	#FDAD4A	0.473146095801743
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	5	22	spontaneous	#FEE188	0.261537871312852
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	6	22	concentration|sensations	#FEE188	0.226830294870816
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	7	22	hierarchical|preference	#FDAD4A	0.443696903345118
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	8	22	effort|oral|simulation	#FDAD4A	0.416339748830259
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	9	22	interhemispheric|plasticity	#FEE188	0.290115077763863
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	10	22	imagined|imagine	#FEE188	0.265698082134436
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	11	22	tapping	#FDAD4A	0.402394215720779
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	12	22	foot|muscle|muscles|voluntary	#FFF1A9	0.180101885564485
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	13	22	limb	#FECB68	0.316046169303005
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	14	22	eyes|velocity	#FECB68	0.394005223700903
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	15	22	biological|gaze|videos	#FECB68	0.362009950566692
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	16	22	body	#FD913D	0.55922630954301
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	17	22	grasping|orientation|reaching	#FD913D	0.509115660868652
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	18	22		#F03623	0.723207859474787
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	19	22	mirror|shape	#B10026	1
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	20	22	actions	#FC622F	0.662595132465738
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	21	22	action	#FC622F	0.680008744522456
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	22	22		#FD913D	0.565840736958992
+43b1bcd9-ea07-3c34-9cb9-dc94ba978c73	Gulliford K	23	22	hand|movements|sensory	#FDAD4A	0.455859444135648

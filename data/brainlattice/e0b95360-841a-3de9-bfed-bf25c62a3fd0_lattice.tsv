@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	1	1	auditory|speech	#B10026	0.98137519728872
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	2	1		#B10026	0.908650432701451
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	3	1	da|integration	#D7141E	0.846816488643947
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	4	1		#D7141E	0.892760015211296
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	5	1	physical|psychophysical|tactile	#FC622F	0.643258404372166
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	6	1		#F03623	0.760609288649915
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	7	1	somatosensory|stimulation	#F03623	0.764557039616398
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	8	1	painful|pain	#FC622F	0.608921339770811
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	9	1		#FC622F	0.609557084383804
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	10	1	ratings	#FECB68	0.398426975583139
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	11	1	affective|affect	#FECB68	0.317112957514911
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	12	1	emotions	#FECB68	0.394517042547915
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	13	1	expression|expressions|facial	#FECB68	0.355567031831876
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	14	1		#FDAD4A	0.423904321552235
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	15	1		#FDAD4A	0.443709793747359
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	16	1	emotion|motion|neutral	#FDAD4A	0.440169543538643
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	17	1	rating	#FDAD4A	0.465825115808612
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	18	1	negative|positive	#FDAD4A	0.483145529788021
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	19	1		#FC622F	0.668605300668279
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	20	1	ear|order	#F03623	0.767257557652976
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	21	1	motor	#F03623	0.73658397316018
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	22	1	visual	#FC622F	0.644910905969479
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	23	1	age|image|response	#F03623	0.746720180057372
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	1	2	sound|sounds	#F03623	0.800129825068788
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	2	2		#D7141E	0.883571936854107
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	3	2	audiovisual|bimodal|crossmodal	#FC622F	0.659498582666598
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	4	2		#D7141E	0.896723365226318
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	5	2		#D7141E	0.83295141689848
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	6	2		#F03623	0.791567389308202
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	7	2	sensation	#FD913D	0.579196449349575
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	8	2	heat|noxious	#FD913D	0.546616624972808
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	9	2		#FD913D	0.584163211563687
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	10	2		#FDAD4A	0.459269452535493
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	11	2		#FDAD4A	0.428678904402665
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	12	2	valence	#FEE188	0.294969696425765
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	13	2	person|social	#FDAD4A	0.464768664235728
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	14	2		#FDAD4A	0.442304626862621
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	15	2	face|faces	#FECB68	0.380734516385027
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	16	2		#FD913D	0.504567103857532
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	17	2		#FD913D	0.549885414934771
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	18	2		#FC622F	0.628943731439685
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	19	2		#F03623	0.702579658908158
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	20	2		#F03623	0.734396366694376
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	21	2	images|spatial	#F03623	0.7052443241982
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	22	2	control	#F03623	0.723177596806766
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	23	2	time	#F03623	0.732141438779741
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	1	3	acoustic|listening|musical|music|pitch	#F03623	0.715531247584462
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	2	3	noise|tones	#D7141E	0.809662536160541
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	3	3		#B10026	0.922855110503339
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	4	3		#B10026	0.92961564810461
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	5	3	frequency	#D7141E	0.835336237267043
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	6	3		#B10026	0.914387389421627
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	7	3		#FC622F	0.63169343938825
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	8	3	temperature	#FECB68	0.361403900922607
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	9	3		#FD913D	0.558743810954913
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	10	3	pleasant|unpleasant	#FDAD4A	0.416488346453264
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	11	3	anxiety	#FECB68	0.329001619677204
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	12	3		#FD913D	0.52543117243073
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	13	3		#FD913D	0.586402345287601
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	14	3		#FD913D	0.516680425608048
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	15	3		#FD913D	0.538692532519525
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	16	3	picture	#FD913D	0.505902456087972
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	17	3		#FC622F	0.658644105912398
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	18	3	value	#D7141E	0.813143063324032
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	19	3	cue	#FC622F	0.689555554368552
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	20	3	error|target	#F03623	0.710339768548968
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	21	3	attention	#FC622F	0.698898549378415
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	22	3		#F03623	0.738742090887246
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	23	3	number	#F03623	0.752721507001753
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	1	4	voice	#F03623	0.737505915990077
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	2	4		#D7141E	0.834708419472031
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	3	4	hearing	#D7141E	0.852221477031118
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	4	4		#B10026	0.951253373001073
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	5	4	overt	#D7141E	0.828976568065601
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	6	4		#B10026	0.968568122049371
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	7	4		#F03623	0.716632819870797
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	8	4	nociceptive|nonpainful|painrelated	#FDAD4A	0.466718917684715
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	9	4	unpleasantness	#FDAD4A	0.466885684672618
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	10	4	skin|subjective	#FDAD4A	0.441188030492011
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	11	4	depression	#FD913D	0.536885513919302
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	12	4	experience	#FC622F	0.62665229076245
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	13	4	female	#FD913D	0.550449245091818
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	14	4	male	#FC622F	0.656097613188728
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	15	4	pictures	#FDAD4A	0.493274188075713
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	16	4		#F03623	0.709785278279619
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	17	4	perception	#D7141E	0.817190697607583
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	18	4		#F03623	0.779199710156011
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	19	4		#F03623	0.745509354863399
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	20	4		#F03623	0.727746490814726
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	21	4	correct	#F03623	0.710423068428209
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	22	4	work	#F03623	0.765002417383915
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	23	4	memory	#FC622F	0.686543314478896
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	1	5	prosodic|prosody	#F03623	0.743831362481306
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	2	5	phonetic	#D7141E	0.824478773157602
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	3	5	syllable|syllables	#F03623	0.751766343311201
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	4	5		#B10026	0.951472689300519
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	5	5	lip|production	#D7141E	0.849738687284876
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	6	5	somatotopic	#D7141E	0.89357929429755
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	7	5		#F03623	0.797671044422804
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	8	5		#FC622F	0.643444946357437
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	9	5	empathy	#FC622F	0.625337930145308
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	10	5		#FC622F	0.6877969206416
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	11	5	disorder	#FD913D	0.567240846973745
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	12	5		#F03623	0.739106898889214
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	13	5		#D7141E	0.839537040275607
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	14	5		#D7141E	0.828511666874618
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	15	5		#D7141E	0.834251303334615
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	16	5		#D7141E	0.885322032378825
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	17	5		#D7141E	0.900764713371419
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	18	5	mental	#F03623	0.715835158313955
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	19	5	go	#F03623	0.726062785869669
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	20	5	object	#FD913D	0.52743988394653
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	21	5		#F03623	0.771518785027623
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	22	5		#D7141E	0.801998954542066
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	23	5	word|words	#F03623	0.749755328840198
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	1	6		#D7141E	0.832602566082101
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	2	6		#D7141E	0.886874099287539
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	3	6		#B10026	0.979716220854153
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	4	6	vocal	#D7141E	0.84940081362654
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	5	6	articulatory	#D7141E	0.866705741504816
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	6	6		#B10026	1
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	7	6	oddball	#D7141E	0.847791181043073
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	8	6	perceived	#FD913D	0.580976758478537
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	9	6	errorrelated	#FDAD4A	0.499700294488269
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	10	6	approach	#FD913D	0.576612727535342
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	11	6	schizophrenia	#FC622F	0.639440754411282
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	12	6	acquisition	#D7141E	0.829753074996856
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	13	6		#B10026	0.918748137549599
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	14	6		#B10026	0.925974231178599
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	15	6		#B10026	0.928793087511374
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	16	6		#B10026	0.938109974897831
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	17	6		#D7141E	0.848078208733659
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	18	6		#F03623	0.783351214719654
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	19	6		#F03623	0.766783407193382
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	20	6	objects	#FD913D	0.561290976329356
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	21	6		#F03623	0.768570696014599
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	22	6		#D7141E	0.818305109032905
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	23	6	language|semantic	#D7141E	0.824345344063853
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	1	7	dopamine|dopaminergic	#FECB68	0.361331818594954
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	2	7		#FDAD4A	0.451840279264194
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	3	7		#FC622F	0.650442847147498
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	4	7		#D7141E	0.804721776599979
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	5	7		#F03623	0.796239868846159
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	6	7		#D7141E	0.860606149497342
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	7	7		#F03623	0.766007796350589
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	8	7		#FC622F	0.679325698235833
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	9	7		#FC622F	0.680659902462414
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	10	7		#FC622F	0.663931742695573
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	11	7		#FC622F	0.683517205553554
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	12	7		#F03623	0.739863950582128
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	13	7	linguistic|spoken	#F03623	0.778729639006724
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	14	7		#B10026	0.909849694977
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	15	7	comprehension|sentence|sentences|syntactic	#B10026	0.902353608144919
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	16	7		#D7141E	0.889484111291519
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	17	7		#D7141E	0.817531164962103
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	18	7	phonological|reading|read	#F03623	0.774882938404739
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	19	7		#F03623	0.752712156648549
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	20	7	perceptual|recognition	#FC622F	0.643594167938017
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	21	7		#F03623	0.768969973477485
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	22	7		#D7141E	0.827208434161168
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	23	7	verb	#D7141E	0.838760361221374
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	1	8	outcome|reward	#FECB68	0.35944012175941
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	2	8	anticipation	#FECB68	0.379235471242303
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	3	8	outcomes	#FECB68	0.314964732311197
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	4	8	choice|choices	#FDAD4A	0.40611135632624
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	5	8	decisions|probability	#F03623	0.789279048399328
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	6	8	reversal	#FD913D	0.54460260259445
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	7	8	classification|incorrect	#FD913D	0.537843204037672
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	8	8		#FC622F	0.651478453312407
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	9	8	agerelated|fluency|probes	#FC622F	0.639313603615142
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	10	8	engaged	#FDAD4A	0.411032682755104
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	11	8	explicit|knowledge	#FD913D	0.588703100844944
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	12	8		#F03623	0.721693824880207
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	13	8		#D7141E	0.853921672625734
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	14	8		#D7141E	0.891132856073539
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	15	8		#D7141E	0.871124754826699
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	16	8		#D7141E	0.857066974736147
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	17	8	lexical	#F03623	0.711777106487773
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	18	8		#F03623	0.744588640548367
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	19	8		#F03623	0.745430868295583
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	20	8		#F03623	0.719062277613304
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	21	8	encoding	#FC622F	0.637064623533643
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	22	8	retrieval	#FC622F	0.662274636885241
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	23	8	verbal	#D7141E	0.817484244613695
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	1	9	incentive|monetary|money|rewards	#FEE188	0.211575886029475
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	2	9	loss	#FDAD4A	0.404200394084629
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	3	9		#FDAD4A	0.477512120586934
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	4	9		#FD913D	0.563399963414733
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	5	9	decisionmaking	#FDAD4A	0.436843217682009
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	6	9		#FC622F	0.628154044270089
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	7	9		#FD913D	0.580196315182574
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	8	9		#FC622F	0.611034985345156
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	9	9		#FC622F	0.633979501427446
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	10	9		#FC622F	0.603737221165542
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	11	9		#FC622F	0.646448452405885
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	12	9		#FC622F	0.694201339055893
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	13	9	noun	#D7141E	0.827657507338174
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	14	9	meaning	#F03623	0.781348041065713
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	15	9	english	#FC622F	0.68617957984373
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	16	9	pseudoword|pseudowords	#F03623	0.714729956350901
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	17	9		#F03623	0.769164183076396
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	18	9		#F03623	0.7450833940064
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	19	9	familiar|judgment	#FC622F	0.623486061349411
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	20	9	pair|pairs	#FC622F	0.663939151454518
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	21	9		#F03623	0.787825565593125
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	22	9		#F03623	0.788506684759724
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	23	9	letter|working	#F03623	0.728778892665086
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	1	10	losses|reinforcement|win	#FEE188	0.213478347457084
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	2	10	gain	#FECB68	0.374562774112908
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	3	10	expectation	#FD913D	0.573185329739076
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	4	10	risk	#FD913D	0.525584838756222
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	5	10	fact	#FDAD4A	0.42920876209459
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	6	10	associative	#FD913D	0.545175122968415
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	7	10	familiarity|judgments|old	#FECB68	0.370296566070246
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	8	10	contextual|text	#FECB68	0.337508664533314
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	9	10	recall|retrieved	#FD913D	0.519696479825463
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	10	10	conceptual|semantically	#FDAD4A	0.497965564155918
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	11	10	grammatical|speakers	#F03623	0.713617843994087
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	12	10	nouns	#F03623	0.740601847170287
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	13	10	japanese	#FD913D	0.588925371901462
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	14	10	languages	#FC622F	0.612471799095649
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	15	10	written	#FD913D	0.546118796891802
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	16	10	chinese|phonology	#FD913D	0.580946944055315
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	17	10	orthographic	#FC622F	0.651334182460226
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	18	10		#F03623	0.766886192536324
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	19	10		#F03623	0.779910613692928
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	20	10	association|decision	#FC622F	0.678622949010213
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	21	10	selection	#F03623	0.701464075491377
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	22	10	letters	#FC622F	0.643980549092347
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	23	10	demand|load	#F03623	0.722615120357734
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	1	11	conditioned|conditioning	#FECB68	0.327056164098534
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	2	11		#FDAD4A	0.493691224339941
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	3	11	drug|placebo	#FD913D	0.568561202419404
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	4	11		#FC622F	0.61133159820606
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	5	11	associations	#FDAD4A	0.457901015455835
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	6	11		#FECB68	0.399350886117109
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	7	11	episodic|recollection	#FFF1A9	0.193487662950929
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	8	11		#FECB68	0.384076800717848
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	9	11		#F03623	0.766766485756279
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	10	11	concepts	#FDAD4A	0.499432687596404
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	11	11		#D7141E	0.845124289418179
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	12	11		#F03623	0.763443114214589
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	13	11	german	#B10026	0.938405285298616
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	14	11	readers	#FC622F	0.610064059245944
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	15	11	character|name|naming	#FD913D	0.592469104415355
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	16	11		#FC622F	0.643675708091257
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	17	11	novel	#FC622F	0.656887209159147
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	18	11		#F03623	0.729275164555649
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	19	11	child|children	#D7141E	0.837948278768062
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	20	11	adults	#F03623	0.79189170616718
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	21	11	ability|feedback|learning	#F03623	0.738380726311452
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	22	11	cues|delay	#FC622F	0.635347891605623
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	23	11	attentional|difficulty|targets	#FC622F	0.657652962081682
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	1	12	aversive|shock	#FECB68	0.383202194358406
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	2	12	reactivity	#FECB68	0.304672445868434
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	3	12	males|sex|women	#FDAD4A	0.399951078728022
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	4	12	animal	#FD913D	0.599768454226186
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	5	12	animals	#FDAD4A	0.462567717908357
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	6	12		#FECB68	0.313003437165579
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	7	12	remember|subsequent	#FFF1A9	0.149565801336597
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	8	12	autobiographical|memories	#FFFFCC	0.0241933097693151
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	9	12		#F03623	0.796669371899808
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	10	12	violation|violations	#FC622F	0.616328155846263
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	11	12	aphasia	#B10026	0.968469472292629
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	12	12	nonwords	#FC622F	0.660264635535807
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	13	12	dyslexia	#FDAD4A	0.40971521584864
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	14	12		#FC622F	0.668881940333867
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	15	12	priming	#FDAD4A	0.489937360162059
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	16	12		#FD913D	0.599522399815437
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	17	12	category|repetition	#FD913D	0.54136692074054
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	18	12		#FC622F	0.698905175232095
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	19	12	developmental|development	#FC622F	0.629604146255651
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	20	12		#F03623	0.756704579575854
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	21	12	space	#FC622F	0.70000149978756
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	22	12		#FC622F	0.682883222820911
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	23	12	color	#FD913D	0.540612395157104
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	1	13	threat	#FEE188	0.245979582512106
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	2	13	regulation	#FEE188	0.235770513670095
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	3	13		#FDAD4A	0.434986702047031
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	4	13	masked	#FEE188	0.210919361913099
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	5	13	scene|scenes	#FEE188	0.214537145582409
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	6	13		#FEE188	0.27311086045086
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	7	13	confidence|remembered	#FFFFCC	0.0682090275411176
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	8	13		#FECB68	0.361688450277484
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	9	13		#D7141E	0.803644231714521
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	10	13	ambiguity|ambiguous	#FD913D	0.517839618429528
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	11	13		#D7141E	0.900270950054991
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	12	13		#FC622F	0.670519942359929
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	13	13	writing	#FECB68	0.390751954849572
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	14	13		#FD913D	0.59568361266607
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	15	13	categorization|congruency|prime	#FD913D	0.558798847606286
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	16	13		#FC622F	0.603873799869742
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	17	13	mask	#FDAD4A	0.452237618945255
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	18	13		#FC622F	0.686272545850668
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	19	13		#F03623	0.733389026909239
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	20	13		#FC622F	0.664757453857965
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	21	13	conflict|congruent|incongruent	#FDAD4A	0.492027949405373
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	22	13	errors	#FD913D	0.557796974605229
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	23	13	maintenance|probe|wm	#FC622F	0.636033657582975
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	1	14	angry|fearful|happy	#FFF1A9	0.154174567539129
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	2	14		#FEE188	0.236983701402777
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	3	14	awareness|conscious|ptsd	#FEE188	0.25465470741729
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	4	14		#FDAD4A	0.433948918335831
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	5	14	houses|photographs	#FFFFCC	0.0701411010312047
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	6	14		#FECB68	0.325120022386596
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	7	14	hits	#FFF1A9	0.154796374259257
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	8	14	famous	#FEE188	0.284514729474186
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	9	14	names	#FD913D	0.502482177622896
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	10	14	family	#FD913D	0.558796927952512
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	11	14	competition|mouth	#FC622F	0.669336979615341
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	12	14	abilities	#FD913D	0.572320007354528
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	13	14	implicit|unfamiliar	#FECB68	0.364931908142023
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	14	14		#FD913D	0.56503485968667
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	15	14	tom	#FD913D	0.537846928666367
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	16	14		#FD913D	0.591068801048328
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	17	14		#FD913D	0.592882318176618
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	18	14	stop	#FC622F	0.674279009349656
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	19	14	inhibition|inhibitory|nogo	#FC622F	0.609319104473891
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	20	14	monitoring|stroop	#FDAD4A	0.427311492028099
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	21	14	interference	#FDAD4A	0.428775285705934
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	22	14		#FC622F	0.611525101668447
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	23	14	demands|executive	#FC622F	0.639461682906242
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	1	15	anger	#FFFFCC	0.0320575787853636
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	2	15	stress	#FFF1A9	0.122450067534274
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	3	15	feelings	#FDAD4A	0.457342575307997
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	4	15	salient	#FDAD4A	0.404826091310268
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	5	15	novelty	#FECB68	0.367118348701534
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	6	15	movie	#FFF1A9	0.136009858559254
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	7	15		#FECB68	0.399447856829676
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	8	15		#FD913D	0.500463375811388
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	9	15	longterm	#FEE188	0.258349386333291
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	10	15		#FC622F	0.602223886967458
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	11	15	reasoning|relational	#FECB68	0.336177802549345
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	12	15		#FD913D	0.568317698417058
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	13	15	presentations	#FECB68	0.352929386050436
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	14	15		#FD913D	0.543484197953054
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	15	15	identity	#FDAD4A	0.450924490525929
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	16	15		#FD913D	0.581723079108403
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	17	15	strategies|strategy	#FD913D	0.556138741766348
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	18	15	card|cards	#FDAD4A	0.441784822227485
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	19	15	gonogo	#FC622F	0.662830626898045
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	20	15		#FC622F	0.641510844996896
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	21	15	switching|switch	#FDAD4A	0.479456116843869
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	22	15		#FD913D	0.571016659956219
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	23	15	2back|rule	#FC622F	0.618628559704447
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	1	16	emotionally|mood|personality|sadness	#FFF1A9	0.150883347700043
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	2	16	disgust|sexual	#FEE188	0.280190998642666
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	3	16	olfactory	#FEE188	0.219043994823736
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	4	16	physiological	#FDAD4A	0.449939188068858
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	5	16	depressed|depressive|habituation	#FDAD4A	0.483642714153354
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	6	16	schizophrenic	#FECB68	0.320051763531029
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	7	16	colors|contexts	#FDAD4A	0.43044045596062
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	8	16	aging|encoded	#FECB68	0.370862533765409
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	9	16	goal	#FDAD4A	0.427868304989548
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	10	16		#FD913D	0.516004868846653
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	11	16	autism|autistic|nonverbal	#FDAD4A	0.433920983578844
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	12	16		#FD913D	0.522777613172837
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	13	16	bottomup|repetitions	#FDAD4A	0.455278783952727
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	14	16	adaptation	#FD913D	0.512733712823936
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	15	16	irrelevant	#FDAD4A	0.460388836137475
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	16	16	distractor|distractors	#FFF1A9	0.193040941303734
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	17	16		#FC622F	0.635196436276503
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	18	16	subtraction	#FD913D	0.561544178865408
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	19	16	1back|nback	#D7141E	0.820507927083261
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	20	16	manipulation|rules	#FD913D	0.509046017167785
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	21	16		#FC622F	0.635661940679893
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	22	16		#FC622F	0.617162157582521
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	23	16	digit	#FC622F	0.618364368932103
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	1	17	avoidance	#FFFFCC	0.0721022591387413
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	2	17		#FEE188	0.25067723697352
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	3	17	eating|food	#FFF1A9	0.108662307907452
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	4	17	taste	#FDAD4A	0.402568115878339
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	5	17	bipolar	#FECB68	0.347616487181034
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	6	17	illness|uncertainty	#FD913D	0.514518807457434
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	7	17	females|probabilistic	#FECB68	0.392857246474068
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	8	17	rejection	#FFF1A9	0.137043643555425
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	9	17	colour|paired	#FEE188	0.294357096286893
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	10	17		#FD913D	0.550660417365944
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	11	17		#FD913D	0.59186619515135
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	12	17		#FD913D	0.550852257770504
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	13	17	taskirrelevant	#FEE188	0.259708593871667
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	14	17		#FDAD4A	0.463128875004541
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	15	17	suppression	#FECB68	0.319087055730635
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	16	17		#FD913D	0.575128696708873
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	17	17	shifting|shortterm	#FC622F	0.671255311899946
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	18	17	digits	#FC622F	0.621232430224163
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	19	17	search	#FD913D	0.544659676835382
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	20	17	counting|taskrelated	#F03623	0.777763730283964
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	21	17	topdown	#FD913D	0.564469259046618
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	22	17	visuospatial	#FD913D	0.553352018092585
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	23	17	arithmetic|calculation|solving	#FD913D	0.511764645292306
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	1	18	addiction|craving|drugs	#FFF1A9	0.111269131682744
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	2	18	allele|genotype|polymorphism	#FFF1A9	0.114387493173144
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	3	18	motivation	#FEE188	0.236170365163235
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	4	18	heart	#FECB68	0.327583706112617
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	5	18	sleep	#FDAD4A	0.421334954035679
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	6	18	expectancy	#F03623	0.743228804402632
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	7	18	phasic|salience	#FECB68	0.317254424028957
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	8	18	adolescence|adolescents	#FECB68	0.309960522467915
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	9	18	intelligence|tracking	#FD913D	0.512659759268795
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	10	18		#FC622F	0.623136379666305
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	11	18	serial	#FECB68	0.344572306090286
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	12	18		#FD913D	0.590102590831317
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	13	18	spatially|taskrelevant	#FECB68	0.36453857321049
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	14	18		#FD913D	0.506595343907504
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	15	18	attended|attend|unattended	#FECB68	0.328378801823411
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	16	18	rotation|shapes	#FEE188	0.288129603476073
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	17	18	rehearsal	#FC622F	0.698559802280683
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	18	18	learned	#FC622F	0.606612760098561
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	19	18		#F03623	0.750039948629184
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	20	18	cued|preparatory	#FC622F	0.648883054914039
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	21	18		#F03623	0.778083715542734
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	22	18		#F03623	0.703499813271128
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	23	18	numbers|numerical	#FC622F	0.613190507041991
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	1	19	future	#FFFFCC	0.0970337853080174
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	2	19	negatively	#FECB68	0.315377970631262
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	3	19	distress|epilepsy|selfreported	#FECB68	0.36436357720642
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	4	19	anticipatory|cocaine|probabilities|smoking	#FECB68	0.372444010680779
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	5	19	alcohol|amount|impulsivity	#FD913D	0.542072225379556
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	6	19	game|success	#FECB68	0.375284321713503
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	7	19	adhd|childhood|engagement	#FDAD4A	0.486313930410638
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	8	19		#FC622F	0.673456926128743
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	9	19		#FC622F	0.673951252057238
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	10	19		#FC622F	0.634049651608186
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	11	19		#FC622F	0.632470141889014
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	12	19	endogenous	#FC622F	0.650735092143043
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	13	19	cueing|invalid|orienting	#FC622F	0.626331455870417
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	14	19		#FD913D	0.570270787856457
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	15	19	multisensory	#FC622F	0.643978888131521
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	16	19		#FD913D	0.579521250613363
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	17	19	shifts	#FC622F	0.685278443963043
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	18	19	covert	#FC622F	0.601166228338253
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	19	19		#F03623	0.708605144709616
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	20	19	preparation	#FC622F	0.612803795876298
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	21	19	discrimination|training	#FC622F	0.690739247303088
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	22	19	sequences	#F03623	0.763091620014674
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	23	19		#D7141E	0.868304737106829
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	1	20	personal|self|selfreferential|trait|traits	#FFF1A9	0.197810747171937
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	2	20	empathic|theory	#FDAD4A	0.422685724779775
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	3	20	attribution|intentional	#FFFFCC	0.0887453352041956
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	4	20	elderly|oscillations	#FECB68	0.327326505402223
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	5	20	antipsychotic|virtual	#FEE188	0.292098442927013
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	6	20		#FC622F	0.682795164392509
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	7	20	experiences	#FDAD4A	0.485957297721483
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	8	20	categorical|pressure	#FC622F	0.616000855672523
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	9	20	play|skills	#FD913D	0.586929932815407
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	10	20	automatic|trained	#FD913D	0.508401444934692
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	11	20		#FD913D	0.576938858649777
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	12	20	practice	#FDAD4A	0.437523828108885
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	13	20	visuomotor	#FDAD4A	0.46900720764623
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	14	20		#FC622F	0.675399910419475
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	15	20	tool	#FDAD4A	0.425706139059709
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	16	20	vision	#FEE188	0.25486286240613
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	17	20	visually	#FD913D	0.554668946315839
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	18	20	saccade|saccades|saccadic	#FDAD4A	0.454051414312669
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	19	20	locations	#FC622F	0.642791708567583
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	20	20	imagery|planning	#FC622F	0.616632341316604
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	21	20		#F03623	0.758225659311926
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	22	20	rest	#D7141E	0.828564872128719
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	23	20	sequence	#D7141E	0.844071489114178
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	1	21	scenarios	#FECB68	0.385950350438026
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	2	21	intention|intentions	#FEE188	0.258973702952106
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	3	21	causality|perspective	#FFF1A9	0.109804035708734
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	4	21	past	#FFFFCC	0
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	5	21		#FD913D	0.539536968353222
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	6	21	episode	#FEE188	0.246542691138181
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	7	21	improvement	#FD913D	0.57133648098215
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	8	21	masking|retention	#FDAD4A	0.483437060485292
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	9	21		#FC622F	0.603465231124567
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	10	21	dominant	#FEE188	0.291624413496348
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	11	21		#FD913D	0.521133358568525
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	12	21	sequential	#FDAD4A	0.468119243975601
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	13	21	fingers	#FECB68	0.372080593842993
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	14	21		#FC622F	0.61928372409499
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	15	21	gesture|gestures	#FDAD4A	0.468804884549666
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	16	21		#FD913D	0.564666105217095
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	17	21	hands	#FEE188	0.267174797950998
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	18	21		#FD913D	0.57366013467252
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	19	21		#FC622F	0.611166071971604
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	20	21	eye|position	#FD913D	0.550276175598351
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	21	21	execution	#FD913D	0.567299921268655
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	22	21	finger|sensorimotor	#FC622F	0.621930449866888
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	23	21		#F03623	0.735126931753452
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	1	22	moral|stories|story	#FDAD4A	0.447332606420314
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	2	22	mentalizing|persons	#FECB68	0.341149949948536
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	3	22	default|restingstate	#FFF1A9	0.100004590582175
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	4	22	thinking|thought|thoughts	#FEE188	0.20426951416078
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	5	22	spontaneous	#FECB68	0.319169978461575
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	6	22	concentration|sensations	#FDAD4A	0.424818851281215
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	7	22	hierarchical|preference	#FDAD4A	0.453990108151935
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	8	22	effort|oral|simulation	#FDAD4A	0.415205418886523
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	9	22	interhemispheric|plasticity	#FDAD4A	0.459967163534089
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	10	22	imagined|imagine	#FEE188	0.262283918084608
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	11	22	tapping	#FD913D	0.545419793597265
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	12	22	foot|muscle|muscles|voluntary	#FDAD4A	0.418445096663491
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	13	22	limb	#FECB68	0.367775888381139
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	14	22	eyes|velocity	#FEE188	0.255345489694364
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	15	22	biological|gaze|videos	#FD913D	0.526260678093347
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	16	22	body	#FD913D	0.584848544507736
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	17	22	grasping|orientation|reaching	#FECB68	0.342648111965508
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	18	22		#FD913D	0.54641252898733
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	19	22	mirror|shape	#FDAD4A	0.46910730528781
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	20	22	actions	#FD913D	0.544841101150715
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	21	22	action	#F03623	0.785177270760513
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	22	22		#FC622F	0.687204335919422
+e0b95360-841a-3de9-bfed-bf25c62a3fd0	Akahane-Yamada R	23	22	hand|movements|sensory	#FC622F	0.632150437751477

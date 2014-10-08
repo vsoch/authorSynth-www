@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	1	1	auditory|speech	#FDAD4A	0.407367281106048
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	2	1		#FDAD4A	0.405333746327647
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	3	1	da|integration	#FECB68	0.363005423121493
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	4	1		#FECB68	0.394046746282172
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	5	1	physical|psychophysical|tactile	#FECB68	0.328887346048888
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	6	1		#FDAD4A	0.466632721659749
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	7	1	somatosensory|stimulation	#FDAD4A	0.420405481963884
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	8	1	painful|pain	#FD913D	0.528206928323936
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	9	1		#FC622F	0.619529598788125
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	10	1	ratings	#F03623	0.777581590491225
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	11	1	affective|affect	#FD913D	0.595765627044842
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	12	1	emotions	#FD913D	0.536934257968321
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	13	1	expression|expressions|facial	#FECB68	0.30239614161632
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	14	1		#FDAD4A	0.44090429699083
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	15	1		#FDAD4A	0.468045010807821
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	16	1	emotion|motion|neutral	#FDAD4A	0.483432352884491
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	17	1	rating	#FC622F	0.672458180669585
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	18	1	negative|positive	#FC622F	0.634692344272671
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	19	1		#FDAD4A	0.494504140762339
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	20	1	ear|order	#FECB68	0.384097073410432
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	21	1	motor	#FEE188	0.218032510580271
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	22	1	visual	#FFF1A9	0.139931285697195
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	23	1	age|image|response	#FECB68	0.330123885866106
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	1	2	sound|sounds	#FDAD4A	0.414162203997319
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	2	2		#FDAD4A	0.408521647515135
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	3	2	audiovisual|bimodal|crossmodal	#FEE188	0.208454148332204
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	4	2		#FECB68	0.396898618105759
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	5	2		#FDAD4A	0.430029323304326
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	6	2		#FDAD4A	0.475477791361155
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	7	2	sensation	#FD913D	0.531235429679523
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	8	2	heat|noxious	#FDAD4A	0.488268020862127
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	9	2		#FC622F	0.622024686909411
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	10	2		#F03623	0.707946126130153
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	11	2		#FC622F	0.694088295254198
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	12	2	valence	#FC622F	0.617319932090314
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	13	2	person|social	#FD913D	0.556242032280481
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	14	2		#FDAD4A	0.444157635632303
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	15	2	face|faces	#FEE188	0.264042992840683
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	16	2		#FD913D	0.502318827737044
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	17	2		#FD913D	0.574175688483134
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	18	2		#FD913D	0.558892503968263
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	19	2		#FDAD4A	0.483267343250107
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	20	2		#FECB68	0.338052321681236
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	21	2	images|spatial	#FEE188	0.279935662704825
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	22	2	control	#FEE188	0.274928311573006
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	23	2	time	#FECB68	0.31671059054362
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	1	3	acoustic|listening|musical|music|pitch	#FDAD4A	0.412369872213359
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	2	3	noise|tones	#FDAD4A	0.415339537370177
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	3	3		#FDAD4A	0.403554493653226
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	4	3		#FDAD4A	0.400758486478751
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	5	3	frequency	#FDAD4A	0.440205822515953
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	6	3		#FD913D	0.510063576902529
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	7	3		#FD913D	0.528994011637607
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	8	3	temperature	#FDAD4A	0.402957066518166
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	9	3		#FD913D	0.583479223064475
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	10	3	pleasant|unpleasant	#FD913D	0.563527673406478
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	11	3	anxiety	#FC622F	0.623643738685854
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	12	3		#FC622F	0.663487517949315
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	13	3		#FC622F	0.602159054523597
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	14	3		#FD913D	0.508022933182107
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	15	3		#FDAD4A	0.477949426941278
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	16	3	picture	#FDAD4A	0.415040340486503
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	17	3		#FD913D	0.514315825529405
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	18	3	value	#FD913D	0.563445279891575
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	19	3	cue	#FDAD4A	0.413160185189617
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	20	3	error|target	#FECB68	0.32593574504135
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	21	3	attention	#FFF1A9	0.192435676111321
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	22	3		#FEE188	0.275337099354138
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	23	3	number	#FECB68	0.309860342347333
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	1	4	voice	#FDAD4A	0.432088498001435
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	2	4		#FDAD4A	0.434144116492269
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	3	4	hearing	#FECB68	0.353287606090145
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	4	4		#FECB68	0.3927302610589
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	5	4	overt	#FECB68	0.348993307815611
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	6	4		#FDAD4A	0.43875114742745
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	7	4		#FD913D	0.529827400721795
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	8	4	nociceptive|nonpainful|painrelated	#FDAD4A	0.489766829142957
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	9	4	unpleasantness	#FD913D	0.522300425511769
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	10	4	skin|subjective	#FC622F	0.66893648538546
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	11	4	depression	#F03623	0.7392397045111
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	12	4	experience	#F03623	0.71635765873327
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	13	4	female	#FD913D	0.568492286007251
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	14	4	male	#FD913D	0.569101592053428
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	15	4	pictures	#FECB68	0.380792198866669
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	16	4		#FDAD4A	0.431691145095656
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	17	4	perception	#FECB68	0.319262541126322
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	18	4		#FECB68	0.37583010807118
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	19	4		#FECB68	0.343239529837113
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	20	4		#FECB68	0.302863326334645
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	21	4	correct	#FECB68	0.336397265722348
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	22	4	work	#FEE188	0.253158207173462
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	23	4	memory	#FEE188	0.264170153968229
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	1	5	prosodic|prosody	#FDAD4A	0.462794101637706
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	2	5	phonetic	#FECB68	0.365685515866862
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	3	5	syllable|syllables	#FECB68	0.324714316299234
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	4	5		#FECB68	0.391217648510248
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	5	5	lip|production	#FEE188	0.264349100085256
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	6	5	somatotopic	#FECB68	0.375470671736241
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	7	5		#FD913D	0.539093238812011
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	8	5		#FD913D	0.52524528144244
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	9	5	empathy	#FD913D	0.565452642059184
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	10	5		#FC622F	0.637224144060165
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	11	5	disorder	#FC622F	0.620953548737747
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	12	5		#FC622F	0.663531643335949
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	13	5		#FC622F	0.637015970478995
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	14	5		#FD913D	0.53817992199453
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	15	5		#FD913D	0.509234285357009
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	16	5		#FDAD4A	0.436043820667816
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	17	5		#FECB68	0.389412160339706
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	18	5	mental	#FECB68	0.303706688363475
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	19	5	go	#FEE188	0.287094039674335
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	20	5	object	#FFF1A9	0.100622203028621
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	21	5		#FEE188	0.290237623038701
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	22	5		#FECB68	0.300770078120261
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	23	5	word|words	#FEE188	0.258712760515695
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	1	6		#D7141E	0.8557667993086
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	2	6		#F03623	0.789973140073219
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	3	6		#F03623	0.70587797434309
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	4	6	vocal	#FECB68	0.325311131245978
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	5	6	articulatory	#FECB68	0.327807375687358
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	6	6		#FDAD4A	0.474411461411751
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	7	6	oddball	#FECB68	0.305349089790515
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	8	6	perceived	#FDAD4A	0.447396504247213
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	9	6	errorrelated	#FDAD4A	0.463143819540079
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	10	6	approach	#FC622F	0.606002057753439
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	11	6	schizophrenia	#FD913D	0.524361703541921
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	12	6	acquisition	#FD913D	0.52978717826055
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	13	6		#FD913D	0.556321029847362
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	14	6		#FDAD4A	0.444892708052722
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	15	6		#FDAD4A	0.430148090530178
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	16	6		#FDAD4A	0.418324121488044
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	17	6		#FECB68	0.327662366731182
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	18	6		#FEE188	0.275237475431482
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	19	6		#FEE188	0.277575937330261
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	20	6	objects	#FFF1A9	0.161357089542655
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	21	6		#FEE188	0.283869467069004
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	22	6		#FECB68	0.301832504856736
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	23	6	language|semantic	#FEE188	0.294417751537898
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	1	7	dopamine|dopaminergic	#F03623	0.718325131437823
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	2	7		#B10026	0.977556849350242
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	3	7		#D7141E	0.889757267069013
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	4	7		#F03623	0.76296576195048
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	5	7		#FC622F	0.675116127820145
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	6	7		#FD913D	0.589019629672723
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	7	7		#FD913D	0.55971686906621
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	8	7		#FD913D	0.518285364137771
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	9	7		#FD913D	0.531885734365959
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	10	7		#FDAD4A	0.434245747930453
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	11	7		#FDAD4A	0.45145487289426
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	12	7		#FDAD4A	0.437430824812871
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	13	7	linguistic|spoken	#FECB68	0.38729868138221
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	14	7		#FDAD4A	0.407564329235789
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	15	7	comprehension|sentence|sentences|syntactic	#FECB68	0.384819352855206
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	16	7		#FECB68	0.367340294515215
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	17	7		#FECB68	0.303862457313649
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	18	7	phonological|reading|read	#FEE188	0.258161873695616
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	19	7		#FEE188	0.275872541058304
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	20	7	perceptual|recognition	#FEE188	0.261683218725505
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	21	7		#FECB68	0.306120987424341
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	22	7		#FECB68	0.323319122412589
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	23	7	verb	#FECB68	0.32734505874539
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	1	8	outcome|reward	#B10026	0.998790469608967
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	2	8	anticipation	#B10026	0.946777774229491
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	3	8	outcomes	#B10026	1
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	4	8	choice|choices	#FC622F	0.648236828041715
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	5	8	decisions|probability	#FC622F	0.655001365951891
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	6	8	reversal	#FD913D	0.524310471051021
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	7	8	classification|incorrect	#FDAD4A	0.486298359593219
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	8	8		#FDAD4A	0.491442419755052
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	9	8	agerelated|fluency|probes	#FECB68	0.375417356049948
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	10	8	engaged	#FFF1A9	0.17283107691151
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	11	8	explicit|knowledge	#FECB68	0.318815004538699
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	12	8		#FECB68	0.353996758767302
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	13	8		#FECB68	0.369255765230342
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	14	8		#FECB68	0.354050109108387
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	15	8		#FECB68	0.330674497035817
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	16	8		#FECB68	0.335875708206821
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	17	8	lexical	#FEE188	0.276610507016296
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	18	8		#FEE188	0.281789961054272
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	19	8		#FEE188	0.293212921871324
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	20	8		#FECB68	0.311559576339859
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	21	8	encoding	#FEE188	0.294342200222225
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	22	8	retrieval	#FECB68	0.329702788843603
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	23	8	verbal	#FECB68	0.333960612241976
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	1	9	incentive|monetary|money|rewards	#B10026	0.946963767844154
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	2	9	loss	#B10026	0.978040137812777
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	3	9		#B10026	0.90396448454996
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	4	9		#D7141E	0.808699548669092
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	5	9	decisionmaking	#FC622F	0.604543088852223
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	6	9		#FD913D	0.562466932684905
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	7	9		#FDAD4A	0.492539627818458
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	8	9		#FDAD4A	0.453876410459851
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	9	9		#FDAD4A	0.408798403759867
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	10	9		#FECB68	0.324059582322615
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	11	9		#FECB68	0.308918254704588
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	12	9		#FECB68	0.320379897555146
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	13	9	noun	#FECB68	0.31053193125807
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	14	9	meaning	#FEE188	0.218715482220549
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	15	9	english	#FFF1A9	0.19193461959215
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	16	9	pseudoword|pseudowords	#FEE188	0.229704341718851
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	17	9		#FEE188	0.281600468284115
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	18	9		#FECB68	0.319634687276238
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	19	9	familiar|judgment	#FEE188	0.297768329637282
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	20	9	pair|pairs	#FECB68	0.369086202093028
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	21	9		#FECB68	0.389449324308416
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	22	9		#FECB68	0.330412317170446
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	23	9	letter|working	#FEE188	0.236929198863607
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	1	10	losses|reinforcement|win	#D7141E	0.890921068111135
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	2	10	gain	#D7141E	0.885841698861866
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	3	10	expectation	#F03623	0.73894907581252
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	4	10	risk	#F03623	0.757718171806302
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	5	10	fact	#FC622F	0.696969105584168
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	6	10	associative	#FECB68	0.327113539383687
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	7	10	familiarity|judgments|old	#FECB68	0.372062022719244
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	8	10	contextual|text	#FECB68	0.362412294547977
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	9	10	recall|retrieved	#FECB68	0.350904844676796
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	10	10	conceptual|semantically	#FEE188	0.291188824860826
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	11	10	grammatical|speakers	#FECB68	0.30706923009944
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	12	10	nouns	#FEE188	0.245996422906327
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	13	10	japanese	#FECB68	0.322447873867187
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	14	10	languages	#FFF1A9	0.199393586517798
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	15	10	written	#FEE188	0.201346226668218
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	16	10	chinese|phonology	#FFF1A9	0.12846435932751
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	17	10	orthographic	#FFF1A9	0.177996384935813
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	18	10		#FECB68	0.358363203360999
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	19	10		#FDAD4A	0.410669695086669
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	20	10	association|decision	#FD913D	0.523301759197172
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	21	10	selection	#FECB68	0.353350897572121
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	22	10	letters	#FEE188	0.222056443363826
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	23	10	demand|load	#FEE188	0.266814969570861
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	1	11	conditioned|conditioning	#F03623	0.714545549188658
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	2	11		#D7141E	0.847656926200456
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	3	11	drug|placebo	#FD913D	0.568336326890705
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	4	11		#FC622F	0.649146775742537
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	5	11	associations	#FECB68	0.393270218379587
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	6	11		#FECB68	0.360483171206876
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	7	11	episodic|recollection	#FECB68	0.329484189546151
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	8	11		#FECB68	0.312792846950333
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	9	11		#FDAD4A	0.423848761151649
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	10	11	concepts	#FFF1A9	0.191892021443598
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	11	11		#FECB68	0.374884906633713
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	12	11		#FECB68	0.333528977679825
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	13	11	german	#FDAD4A	0.406928473948788
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	14	11	readers	#FFF1A9	0.182067221365956
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	15	11	character|name|naming	#FFF1A9	0.17851841497311
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	16	11		#FEE188	0.230624117910287
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	17	11	novel	#FEE188	0.279206463525055
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	18	11		#FECB68	0.357155762523057
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	19	11	child|children	#FECB68	0.367344767315753
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	20	11	adults	#FDAD4A	0.458695820778955
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	21	11	ability|feedback|learning	#FC622F	0.602909305066092
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	22	11	cues|delay	#FDAD4A	0.415378390727098
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	23	11	attentional|difficulty|targets	#FEE188	0.248563353317769
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	1	12	aversive|shock	#FD913D	0.579847738603578
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	2	12	reactivity	#FC622F	0.612810892049522
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	3	12	males|sex|women	#FD913D	0.557744178095838
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	4	12	animal	#FD913D	0.533121479203527
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	5	12	animals	#FECB68	0.335890552966937
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	6	12		#FEE188	0.277795502994235
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	7	12	remember|subsequent	#FFF1A9	0.12486599462799
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	8	12	autobiographical|memories	#FEE188	0.282961454114452
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	9	12		#FDAD4A	0.440013245151933
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	10	12	violation|violations	#FECB68	0.394157806012087
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	11	12	aphasia	#FDAD4A	0.474051767352262
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	12	12	nonwords	#FEE188	0.207071290553931
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	13	12	dyslexia	#FEE188	0.226263606134566
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	14	12		#FEE188	0.253146266413362
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	15	12	priming	#FFF1A9	0.149068496989796
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	16	12		#FEE188	0.277080108296459
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	17	12	category|repetition	#FEE188	0.265627760987499
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	18	12		#FECB68	0.371131551259018
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	19	12	developmental|development	#FECB68	0.320013043384759
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	20	12		#FDAD4A	0.415260606312991
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	21	12	space	#FECB68	0.39869056041433
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	22	12		#FECB68	0.324495456725522
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	23	12	color	#FEE188	0.219382258012637
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	1	13	threat	#FECB68	0.33018722743379
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	2	13	regulation	#FD913D	0.519173897259218
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	3	13		#FD913D	0.574055016820224
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	4	13	masked	#FEE188	0.252198371298326
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	5	13	scene|scenes	#FFF1A9	0.101535548113345
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	6	13		#FEE188	0.253441042053878
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	7	13	confidence|remembered	#FFFFCC	0.0838002484388179
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	8	13		#FEE188	0.276551845141204
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	9	13		#FDAD4A	0.440819602014055
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	10	13	ambiguity|ambiguous	#FFF1A9	0.166503532017252
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	11	13		#FDAD4A	0.404588420937662
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	12	13		#FEE188	0.282963309482519
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	13	13	writing	#FFF1A9	0.170769293854905
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	14	13		#FEE188	0.269627195098492
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	15	13	categorization|congruency|prime	#FFF1A9	0.181361186948932
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	16	13		#FECB68	0.300451729545315
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	17	13	mask	#FECB68	0.312876624494737
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	18	13		#FECB68	0.376738642833277
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	19	13		#FECB68	0.392342008115732
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	20	13		#FECB68	0.344482600801687
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	21	13	conflict|congruent|incongruent	#FEE188	0.233949117469081
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	22	13	errors	#FECB68	0.357933679217889
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	23	13	maintenance|probe|wm	#FEE188	0.23628722470317
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	1	14	angry|fearful|happy	#FEE188	0.211314202386391
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	2	14		#FECB68	0.366284311308609
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	3	14	awareness|conscious|ptsd	#FD913D	0.547186647923833
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	4	14		#FDAD4A	0.425913509867087
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	5	14	houses|photographs	#FFF1A9	0.147964195019916
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	6	14		#FEE188	0.290644006587409
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	7	14	hits	#FEE188	0.259556692111958
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	8	14	famous	#FEE188	0.214002634886485
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	9	14	names	#FEE188	0.216902904879157
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	10	14	family	#FEE188	0.264053472299232
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	11	14	competition|mouth	#FFF1A9	0.18714618764591
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	12	14	abilities	#FEE188	0.265224595086133
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	13	14	implicit|unfamiliar	#FEE188	0.21900258260991
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	14	14		#FEE188	0.256644479177351
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	15	14	tom	#FECB68	0.324234069678151
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	16	14		#FEE188	0.288367263391497
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	17	14		#FECB68	0.311435830326745
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	18	14	stop	#FECB68	0.35243434886026
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	19	14	inhibition|inhibitory|nogo	#FECB68	0.353883414477503
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	20	14	monitoring|stroop	#FEE188	0.275701422879402
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	21	14	interference	#FFF1A9	0.180493511772237
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	22	14		#FEE188	0.263517055433641
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	23	14	demands|executive	#FEE188	0.233794789071949
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	1	15	anger	#FEE188	0.234806588553198
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	2	15	stress	#FECB68	0.345829926775928
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	3	15	feelings	#FDAD4A	0.474016886519854
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	4	15	salient	#FDAD4A	0.429140361738856
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	5	15	novelty	#FEE188	0.266659924419474
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	6	15	movie	#FFF1A9	0.183863753117752
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	7	15		#FDAD4A	0.441709139348482
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	8	15		#FDAD4A	0.432232694224674
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	9	15	longterm	#FEE188	0.214426309081931
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	10	15		#FEE188	0.276268428895594
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	11	15	reasoning|relational	#FFF1A9	0.182142630805934
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	12	15		#FEE188	0.250024533554213
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	13	15	presentations	#FFF1A9	0.171238535614623
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	14	15		#FEE188	0.23888414863893
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	15	15	identity	#FFF1A9	0.171414193661023
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	16	15		#FEE188	0.268211791793257
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	17	15	strategies|strategy	#FEE188	0.262142646450654
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	18	15	card|cards	#FEE188	0.285887661200071
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	19	15	gonogo	#FECB68	0.316191882215908
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	20	15		#FEE188	0.298258429721838
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	21	15	switching|switch	#FFF1A9	0.19492499167624
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	22	15		#FEE188	0.24038718606914
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	23	15	2back|rule	#FFF1A9	0.187894896997355
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	1	16	emotionally|mood|personality|sadness	#FECB68	0.379285198732545
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	2	16	disgust|sexual	#FC622F	0.615508674677448
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	3	16	olfactory	#FC622F	0.604558730946745
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	4	16	physiological	#FD913D	0.521467372889407
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	5	16	depressed|depressive|habituation	#FD913D	0.586760688074898
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	6	16	schizophrenic	#FD913D	0.577315766526813
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	7	16	colors|contexts	#FECB68	0.323875630104158
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	8	16	aging|encoded	#FECB68	0.30784087462742
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	9	16	goal	#FEE188	0.199753514717479
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	10	16		#FEE188	0.25348025644808
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	11	16	autism|autistic|nonverbal	#FFF1A9	0.111373035955157
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	12	16		#FEE188	0.2345780661034
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	13	16	bottomup|repetitions	#FFF1A9	0.159527535018668
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	14	16	adaptation	#FFF1A9	0.140906235468936
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	15	16	irrelevant	#FEE188	0.20895826682187
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	16	16	distractor|distractors	#FFF1A9	0.162216964728459
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	17	16		#FEE188	0.260538468662138
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	18	16	subtraction	#FEE188	0.228867807051386
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	19	16	1back|nback	#FEE188	0.244326063636058
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	20	16	manipulation|rules	#FEE188	0.207642096810709
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	21	16		#FEE188	0.221965039451042
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	22	16		#FFF1A9	0.18573317887282
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	23	16	digit	#FFF1A9	0.15066814929733
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	1	17	avoidance	#FD913D	0.529687023938361
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	2	17		#F03623	0.710573219644385
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	3	17	eating|food	#F03623	0.776719367081628
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	4	17	taste	#D7141E	0.822433174024507
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	5	17	bipolar	#FC622F	0.624615432946931
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	6	17	illness|uncertainty	#FDAD4A	0.404565698615124
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	7	17	females|probabilistic	#FDAD4A	0.450445323036272
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	8	17	rejection	#FDAD4A	0.490470023079427
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	9	17	colour|paired	#FFF1A9	0.194095240308906
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	10	17		#FECB68	0.307893390004638
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	11	17		#FEE188	0.292283295296426
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	12	17		#FEE188	0.271406745417265
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	13	17	taskirrelevant	#FFF1A9	0.150302497079611
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	14	17		#FFF1A9	0.157458655015401
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	15	17	suppression	#FFF1A9	0.119816903980218
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	16	17		#FFF1A9	0.171081861791382
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	17	17	shifting|shortterm	#FFF1A9	0.126735711706267
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	18	17	digits	#FEE188	0.223326149959009
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	19	17	search	#FEE188	0.260758770215537
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	20	17	counting|taskrelated	#FEE188	0.239154215728459
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	21	17	topdown	#FFF1A9	0.169648299832489
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	22	17	visuospatial	#FFFFCC	0.071317133595001
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	23	17	arithmetic|calculation|solving	#FFF1A9	0.129834856624093
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	1	18	addiction|craving|drugs	#FC622F	0.62206015433317
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	2	18	allele|genotype|polymorphism	#FDAD4A	0.450260745972443
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	3	18	motivation	#FC622F	0.653944939934627
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	4	18	heart	#FD913D	0.552757873765778
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	5	18	sleep	#FD913D	0.59558785185615
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	6	18	expectancy	#FDAD4A	0.426673722190661
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	7	18	phasic|salience	#FDAD4A	0.40417681577937
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	8	18	adolescence|adolescents	#FDAD4A	0.465947876314646
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	9	18	intelligence|tracking	#FEE188	0.22969498783642
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	10	18		#FECB68	0.343710794235384
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	11	18	serial	#FECB68	0.299758516372517
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	12	18		#FEE188	0.28415021658288
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	13	18	spatially|taskrelevant	#FFF1A9	0.152964043281161
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	14	18		#FFF1A9	0.15843152902624
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	15	18	attended|attend|unattended	#FFFFCC	0.0550113228417712
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	16	18	rotation|shapes	#FFFFCC	0.0619718008863048
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	17	18	rehearsal	#FFF1A9	0.196944503291957
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	18	18	learned	#FEE188	0.267762749263347
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	19	18		#FEE188	0.245745385972624
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	20	18	cued|preparatory	#FFF1A9	0.19503566760321
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	21	18		#FEE188	0.23235894717353
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	22	18		#FEE188	0.202373930835633
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	23	18	numbers|numerical	#FFF1A9	0.176820428382605
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	1	19	future	#FD913D	0.588261192804224
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	2	19	negatively	#FC622F	0.602322366357793
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	3	19	distress|epilepsy|selfreported	#FDAD4A	0.481473646762066
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	4	19	anticipatory|cocaine|probabilities|smoking	#FC622F	0.694661650974128
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	5	19	alcohol|amount|impulsivity	#FD913D	0.571251810585908
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	6	19	game|success	#FC622F	0.61138780020077
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	7	19	adhd|childhood|engagement	#FC622F	0.647406361404643
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	8	19		#FD913D	0.59629827804396
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	9	19		#FDAD4A	0.405055481394951
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	10	19		#FECB68	0.322923354049265
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	11	19		#FEE188	0.296486767334549
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	12	19	endogenous	#FEE188	0.272126580058861
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	13	19	cueing|invalid|orienting	#FFF1A9	0.183136260469068
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	14	19		#FFF1A9	0.160093830559509
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	15	19	multisensory	#FFF1A9	0.150520815096826
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	16	19		#FFF1A9	0.154991688359678
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	17	19	shifts	#FFF1A9	0.169807934848139
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	18	19	covert	#FEE188	0.201887349139926
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	19	19		#FEE188	0.20848326709281
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	20	19	preparation	#FFF1A9	0.171566269021831
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	21	19	discrimination|training	#FEE188	0.254256117583045
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	22	19	sequences	#FFF1A9	0.193642567814116
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	23	19		#FEE188	0.276781573823957
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	1	20	personal|self|selfreferential|trait|traits	#FD913D	0.586454104719407
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	2	20	empathic|theory	#FEE188	0.263364234807227
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	3	20	attribution|intentional	#FEE188	0.21757143466167
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	4	20	elderly|oscillations	#FECB68	0.326747857135942
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	5	20	antipsychotic|virtual	#FECB68	0.335396859212066
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	6	20		#F03623	0.758726626882614
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	7	20	experiences	#F03623	0.712254676003644
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	8	20	categorical|pressure	#FECB68	0.317334492296118
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	9	20	play|skills	#FEE188	0.257575828684589
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	10	20	automatic|trained	#FEE188	0.235912803610536
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	11	20		#FEE188	0.204070512792247
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	12	20	practice	#FFFFCC	0.0966978178716617
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	13	20	visuomotor	#FFFFCC	0.0395103900091615
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	14	20		#FFF1A9	0.17584090191127
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	15	20	tool	#FFF1A9	0.115733630498149
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	16	20	vision	#FFFFCC	0.0437298204607342
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	17	20	visually	#FFF1A9	0.159486315440703
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	18	20	saccade|saccades|saccadic	#FFFFCC	0.0793825679256277
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	19	20	locations	#FEE188	0.209577800327183
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	20	20	imagery|planning	#FFF1A9	0.166000957689837
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	21	20		#FEE188	0.224751218278492
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	22	20	rest	#FEE188	0.21540184830536
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	23	20	sequence	#FECB68	0.329309587072194
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	1	21	scenarios	#FECB68	0.314772712157474
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	2	21	intention|intentions	#FECB68	0.349804544684827
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	3	21	causality|perspective	#FEE188	0.207266732194062
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	4	21	past	#FEE188	0.266304783888027
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	5	21		#FC622F	0.608486104913267
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	6	21	episode	#FEE188	0.239244836010847
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	7	21	improvement	#FECB68	0.309841461452502
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	8	21	masking|retention	#FEE188	0.275339887538509
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	9	21		#FECB68	0.330489294556127
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	10	21	dominant	#FFF1A9	0.135084088003493
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	11	21		#FFF1A9	0.185577385122878
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	12	21	sequential	#FFF1A9	0.127625039350192
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	13	21	fingers	#FFF1A9	0.108202376686332
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	14	21		#FFF1A9	0.123482879808303
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	15	21	gesture|gestures	#FFFFCC	0.0585894254096226
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	16	21		#FFF1A9	0.124855701054335
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	17	21	hands	#FFFFCC	0
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	18	21		#FFF1A9	0.137789398916832
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	19	21		#FFF1A9	0.135061993604645
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	20	21	eye|position	#FFF1A9	0.12917291664676
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	21	21	execution	#FFF1A9	0.128197564858038
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	22	21	finger|sensorimotor	#FFF1A9	0.176454724585051
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	23	21		#FEE188	0.210345490823543
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	1	22	moral|stories|story	#FECB68	0.358146796477164
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	2	22	mentalizing|persons	#FFF1A9	0.158733408711372
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	3	22	default|restingstate	#FECB68	0.322787682061076
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	4	22	thinking|thought|thoughts	#FECB68	0.316044158853083
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	5	22	spontaneous	#FECB68	0.364716100498232
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	6	22	concentration|sensations	#FD913D	0.52419923919114
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	7	22	hierarchical|preference	#FDAD4A	0.472762377012809
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	8	22	effort|oral|simulation	#FECB68	0.300709749105173
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	9	22	interhemispheric|plasticity	#FEE188	0.282678058880508
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	10	22	imagined|imagine	#FFF1A9	0.10874704916867
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	11	22	tapping	#FFF1A9	0.1507843638428
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	12	22	foot|muscle|muscles|voluntary	#FEE188	0.256289532711798
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	13	22	limb	#FFF1A9	0.10915794968109
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	14	22	eyes|velocity	#FFFFCC	0.0145961848336462
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	15	22	biological|gaze|videos	#FFFFCC	0.0424435874026421
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	16	22	body	#FEE188	0.248914501636076
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	17	22	grasping|orientation|reaching	#FFFFCC	0.0798527799852421
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	18	22		#FFF1A9	0.129067546745638
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	19	22	mirror|shape	#FFFFCC	0.0367122552192337
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	20	22	actions	#FFF1A9	0.102961388804697
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	21	22	action	#FFF1A9	0.169769365519539
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	22	22		#FFF1A9	0.17918432640833
+4bbfba4a-2ce8-3ceb-ae8d-8bc700c02c1d	Murai T	23	22	hand|movements|sensory	#FFF1A9	0.161887137003007

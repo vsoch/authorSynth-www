@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	1	1	auditory|speech	#FC622F	0.693755769140843
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	2	1		#FC622F	0.66224883882175
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	3	1	da|integration	#FD913D	0.540403065103712
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	4	1		#F03623	0.763084240319105
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	5	1	physical|psychophysical|tactile	#FC622F	0.697440930215104
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	6	1		#D7141E	0.820509377897954
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	7	1	somatosensory|stimulation	#D7141E	0.829846273762962
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	8	1	painful|pain	#FC622F	0.635574980841107
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	9	1		#FC622F	0.663575437414562
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	10	1	ratings	#FDAD4A	0.428765054081593
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	11	1	affective|affect	#FEE188	0.244103156412902
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	12	1	emotions	#FEE188	0.26573130400177
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	13	1	expression|expressions|facial	#FFF1A9	0.133435454256268
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	14	1		#FFF1A9	0.195372217962531
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	15	1		#FEE188	0.208789188035828
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	16	1	emotion|motion|neutral	#FEE188	0.211668241787291
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	17	1	rating	#FECB68	0.337316073523748
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	18	1	negative|positive	#FEE188	0.254672528507011
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	19	1		#FECB68	0.348127838804212
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	20	1	ear|order	#FECB68	0.323943863705831
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	21	1	motor	#FD913D	0.535045914851368
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	22	1	visual	#FEE188	0.226223186313227
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	23	1	age|image|response	#FEE188	0.281123473833522
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	1	2	sound|sounds	#FC622F	0.628299699320113
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	2	2		#FC622F	0.660667072406799
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	3	2	audiovisual|bimodal|crossmodal	#FDAD4A	0.422991087969278
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	4	2		#F03623	0.754845686126692
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	5	2		#D7141E	0.82498772655558
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	6	2		#D7141E	0.835676511597176
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	7	2	sensation	#FC622F	0.683322065902526
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	8	2	heat|noxious	#FC622F	0.625093223057214
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	9	2		#FC622F	0.637124424542426
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	10	2		#FDAD4A	0.437541070865543
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	11	2		#FECB68	0.364947270841404
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	12	2	valence	#FEE188	0.217720591070148
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	13	2	person|social	#FFF1A9	0.17072734751033
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	14	2		#FEE188	0.210045053515974
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	15	2	face|faces	#FFF1A9	0.133141651486535
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	16	2		#FEE188	0.26875172711963
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	17	2		#FECB68	0.301311004068317
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	18	2		#FECB68	0.338956313689977
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	19	2		#FECB68	0.36233544477971
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	20	2		#FECB68	0.372587628664423
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	21	2	images|spatial	#FEE188	0.297949674839654
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	22	2	control	#FEE188	0.26869917589478
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	23	2	time	#FEE188	0.293427199375046
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	1	3	acoustic|listening|musical|music|pitch	#FC622F	0.641183747235752
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	2	3	noise|tones	#FD913D	0.557550291445673
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	3	3		#F03623	0.720097105424424
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	4	3		#F03623	0.774258589592573
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	5	3	frequency	#F03623	0.766353835514348
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	6	3		#D7141E	0.90035141045495
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	7	3		#F03623	0.739598607616325
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	8	3	temperature	#FD913D	0.516187663818356
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	9	3		#FC622F	0.640210289610811
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	10	3	pleasant|unpleasant	#FDAD4A	0.44395729649245
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	11	3	anxiety	#FEE188	0.224334667538871
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	12	3		#FECB68	0.326145214240582
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	13	3		#FECB68	0.350121470996207
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	14	3		#FEE188	0.288114987767996
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	15	3		#FEE188	0.292427218296179
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	16	3	picture	#FEE188	0.24180895842709
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	17	3		#FECB68	0.365463033466757
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	18	3	value	#FDAD4A	0.437637271230809
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	19	3	cue	#FECB68	0.30812060596056
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	20	3	error|target	#FECB68	0.328913867465336
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	21	3	attention	#FEE188	0.261031878412987
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	22	3		#FEE188	0.247503034201535
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	23	3	number	#FEE188	0.229036317403399
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	1	4	voice	#FDAD4A	0.48535383348421
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	2	4		#FC622F	0.610292281581737
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	3	4	hearing	#FD913D	0.549711033429908
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	4	4		#D7141E	0.814861854793503
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	5	4	overt	#F03623	0.764090183844422
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	6	4		#B10026	0.930805524971249
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	7	4		#D7141E	0.802020920032036
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	8	4	nociceptive|nonpainful|painrelated	#FD913D	0.57694653887483
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	9	4	unpleasantness	#FD913D	0.567000926495108
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	10	4	skin|subjective	#FDAD4A	0.454549635813152
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	11	4	depression	#FECB68	0.330086091411658
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	12	4	experience	#FECB68	0.363900139953731
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	13	4	female	#FECB68	0.371216656329093
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	14	4	male	#FDAD4A	0.40774376775046
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	15	4	pictures	#FEE188	0.247691748273049
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	16	4		#FECB68	0.387660408073351
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	17	4	perception	#FD913D	0.525054627850676
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	18	4		#FECB68	0.376823454635646
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	19	4		#FECB68	0.326018544469442
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	20	4		#FEE188	0.291908050780621
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	21	4	correct	#FEE188	0.225506350859907
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	22	4	work	#FEE188	0.226693659430821
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	23	4	memory	#FFF1A9	0.136432229451122
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	1	5	prosodic|prosody	#FECB68	0.375592461508569
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	2	5	phonetic	#FDAD4A	0.48706150741571
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	3	5	syllable|syllables	#FD913D	0.542675813958676
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	4	5		#D7141E	0.812721777892453
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	5	5	lip|production	#D7141E	0.820887022459579
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	6	5	somatotopic	#B10026	1
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	7	5		#F03623	0.799971957059903
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	8	5		#FD913D	0.590905193812623
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	9	5	empathy	#FD913D	0.508969513136561
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	10	5		#FDAD4A	0.403206451450523
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	11	5	disorder	#FEE188	0.234601430954768
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	12	5		#FECB68	0.39818908652754
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	13	5		#FDAD4A	0.45418689644925
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	14	5		#FDAD4A	0.40666373865417
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	15	5		#FDAD4A	0.40597946547176
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	16	5		#FDAD4A	0.437203537005127
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	17	5		#FDAD4A	0.427669410726013
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	18	5	mental	#FEE188	0.258241711691312
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	19	5	go	#FEE188	0.284980655604464
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	20	5	object	#FFF1A9	0.157883971129571
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	21	5		#FEE188	0.257801862698997
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	22	5		#FEE188	0.223672642903076
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	23	5	word|words	#FFF1A9	0.167518785011705
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	1	6		#FD913D	0.502231191062478
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	2	6		#FD913D	0.528824409494106
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	3	6		#F03623	0.711832905492718
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	4	6	vocal	#F03623	0.769645874436331
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	5	6	articulatory	#F03623	0.752064338506336
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	6	6		#D7141E	0.8825247816775
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	7	6	oddball	#FD913D	0.534147296371614
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	8	6	perceived	#FDAD4A	0.407004351571082
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	9	6	errorrelated	#FEE188	0.247376296534567
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	10	6	approach	#FEE188	0.280978376228727
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	11	6	schizophrenia	#FEE188	0.237237517334088
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	12	6	acquisition	#FDAD4A	0.487986745748756
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	13	6		#FDAD4A	0.4387759269373
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	14	6		#FECB68	0.358670994108869
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	15	6		#FECB68	0.353887610142696
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	16	6		#FECB68	0.364394415381634
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	17	6		#FECB68	0.348977979092191
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	18	6		#FECB68	0.321173166415921
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	19	6		#FECB68	0.322011062719108
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	20	6	objects	#FEE188	0.282339605818501
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	21	6		#FEE188	0.278160597095084
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	22	6		#FEE188	0.242643948008632
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	23	6	language|semantic	#FEE188	0.226581405090627
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	1	7	dopamine|dopaminergic	#FFF1A9	0.173928083707023
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	2	7		#FEE188	0.24738424694413
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	3	7		#FDAD4A	0.443136076881866
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	4	7		#FD913D	0.56604698526874
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	5	7		#FD913D	0.55324737402072
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	6	7		#FD913D	0.578059206915968
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	7	7		#FD913D	0.504056682998992
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	8	7		#FECB68	0.365741583371711
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	9	7		#FECB68	0.36336940996143
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	10	7		#FECB68	0.313135372638276
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	11	7		#FECB68	0.321197938851147
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	12	7		#FECB68	0.348834763459324
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	13	7	linguistic|spoken	#FECB68	0.351209097392505
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	14	7		#FECB68	0.33482697120823
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	15	7	comprehension|sentence|sentences|syntactic	#FEE188	0.279969953975178
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	16	7		#FECB68	0.303804816644621
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	17	7		#FECB68	0.311298604327686
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	18	7	phonological|reading|read	#FECB68	0.299896885402074
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	19	7		#FECB68	0.31899731979724
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	20	7	perceptual|recognition	#FEE188	0.284315678941042
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	21	7		#FEE188	0.292747278009954
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	22	7		#FEE188	0.262434710926352
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	23	7	verb	#FEE188	0.2543172883295
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	1	8	outcome|reward	#FEE188	0.213824485790548
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	2	8	anticipation	#FFF1A9	0.184774752395659
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	3	8	outcomes	#FFF1A9	0.196717882556427
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	4	8	choice|choices	#FEE188	0.220577727181024
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	5	8	decisions|probability	#FEE188	0.296622085097371
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	6	8	reversal	#FEE188	0.266056579469783
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	7	8	classification|incorrect	#FEE188	0.256090236560522
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	8	8		#FECB68	0.315248407035841
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	9	8	agerelated|fluency|probes	#FECB68	0.303646641826542
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	10	8	engaged	#FEE188	0.215848585526774
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	11	8	explicit|knowledge	#FEE188	0.215104934602294
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	12	8		#FECB68	0.314662131340836
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	13	8		#FECB68	0.31785096550354
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	14	8		#FECB68	0.304603752974419
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	15	8		#FEE188	0.295928699412232
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	16	8		#FECB68	0.300824793414027
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	17	8	lexical	#FEE188	0.237428892057978
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	18	8		#FEE188	0.281668864588295
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	19	8		#FECB68	0.302411798072809
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	20	8		#FEE188	0.291637997837304
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	21	8	encoding	#FEE188	0.241996026974979
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	22	8	retrieval	#FFF1A9	0.18735038106181
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	23	8	verbal	#FEE188	0.286008451922814
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	1	9	incentive|monetary|money|rewards	#FFFFCC	0.0861756987089128
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	2	9	loss	#FFF1A9	0.159813551593922
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	3	9		#FEE188	0.25311142416399
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	4	9		#FEE188	0.29635404489571
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	5	9	decisionmaking	#FEE188	0.218247510674176
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	6	9		#FECB68	0.302070166621186
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	7	9		#FEE188	0.271515343915114
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	8	9		#FEE188	0.277794876206424
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	9	9		#FEE188	0.274664134892878
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	10	9		#FEE188	0.254531025240251
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	11	9		#FEE188	0.268811864669193
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	12	9		#FEE188	0.287836784051437
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	13	9	noun	#FEE188	0.222787913745095
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	14	9	meaning	#FEE188	0.208702393030266
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	15	9	english	#FEE188	0.243942887784622
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	16	9	pseudoword|pseudowords	#FECB68	0.327352297903934
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	17	9		#FEE188	0.261566822118425
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	18	9		#FEE188	0.261408619618527
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	19	9	familiar|judgment	#FEE188	0.217403848930299
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	20	9	pair|pairs	#FEE188	0.270513454355332
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	21	9		#FECB68	0.325329892118412
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	22	9		#FECB68	0.310570575779991
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	23	9	letter|working	#FEE188	0.242865712449662
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	1	10	losses|reinforcement|win	#FFFFCC	0.0911254673326646
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	2	10	gain	#FFF1A9	0.100034942930624
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	3	10	expectation	#FEE188	0.281880040543613
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	4	10	risk	#FFF1A9	0.168176242746833
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	5	10	fact	#FECB68	0.369181741380477
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	6	10	associative	#FEE188	0.222100527492754
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	7	10	familiarity|judgments|old	#FFF1A9	0.161359981203999
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	8	10	contextual|text	#FFF1A9	0.15344525989015
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	9	10	recall|retrieved	#FFF1A9	0.178872954266609
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	10	10	conceptual|semantically	#FFF1A9	0.145361802158531
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	11	10	grammatical|speakers	#FECB68	0.314043133709537
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	12	10	nouns	#FFF1A9	0.192476891471339
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	13	10	japanese	#FECB68	0.305363475432844
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	14	10	languages	#FEE188	0.210026895885758
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	15	10	written	#FEE188	0.200704653533127
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	16	10	chinese|phonology	#FFF1A9	0.113342014060641
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	17	10	orthographic	#FFF1A9	0.185273560805047
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	18	10		#FEE188	0.250514323933697
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	19	10		#FEE188	0.27661983364631
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	20	10	association|decision	#FEE188	0.269350734520893
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	21	10	selection	#FECB68	0.306294057504977
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	22	10	letters	#FEE188	0.269928235642743
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	23	10	demand|load	#FEE188	0.273546672221561
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	1	11	conditioned|conditioning	#FFF1A9	0.148016511894494
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	2	11		#FEE188	0.240167152173126
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	3	11	drug|placebo	#FEE188	0.278035649859819
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	4	11		#FECB68	0.319730169157873
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	5	11	associations	#FECB68	0.317734317723845
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	6	11		#FEE188	0.22240062977578
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	7	11	episodic|recollection	#FFF1A9	0.122128583411295
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	8	11		#FFF1A9	0.183769824786204
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	9	11		#FECB68	0.307183991399459
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	10	11	concepts	#FFFFCC	0.0701775218133223
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	11	11		#FECB68	0.34310292306196
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	12	11		#FECB68	0.355621588568625
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	13	11	german	#FECB68	0.39185010928073
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	14	11	readers	#FEE188	0.23612675358899
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	15	11	character|name|naming	#FEE188	0.204604085533172
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	16	11		#FEE188	0.253794744381742
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	17	11	novel	#FEE188	0.262058215099854
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	18	11		#FEE188	0.245158134441107
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	19	11	child|children	#FFF1A9	0.189287983150721
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	20	11	adults	#FECB68	0.305257968194034
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	21	11	ability|feedback|learning	#FD913D	0.502633928288139
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	22	11	cues|delay	#FECB68	0.331166055514513
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	23	11	attentional|difficulty|targets	#FEE188	0.289308449687153
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	1	12	aversive|shock	#FFF1A9	0.187638053098034
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	2	12	reactivity	#FFF1A9	0.162478315847779
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	3	12	males|sex|women	#FEE188	0.226116218428052
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	4	12	animal	#FFF1A9	0.199220191999603
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	5	12	animals	#FFF1A9	0.125271015093862
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	6	12		#FFF1A9	0.1561982958153
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	7	12	remember|subsequent	#FFFFCC	0.0227003282405311
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	8	12	autobiographical|memories	#FFFFCC	0.0412701673822738
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	9	12		#FECB68	0.337711551338167
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	10	12	violation|violations	#FEE188	0.252913275325122
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	11	12	aphasia	#FDAD4A	0.408863330547165
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	12	12	nonwords	#FECB68	0.332466494407759
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	13	12	dyslexia	#FEE188	0.287468171444182
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	14	12		#FECB68	0.316219806225708
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	15	12	priming	#FEE188	0.232891538191781
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	16	12		#FEE188	0.281410296772094
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	17	12	category|repetition	#FEE188	0.279074666214321
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	18	12		#FEE188	0.248035068408754
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	19	12	developmental|development	#FFF1A9	0.150731118833566
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	20	12		#FECB68	0.314168664502798
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	21	12	space	#FDAD4A	0.414017716440782
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	22	12		#FECB68	0.315851534303605
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	23	12	color	#FEE188	0.25587508635535
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	1	13	threat	#FFF1A9	0.125316590701896
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	2	13	regulation	#FFF1A9	0.128371128122094
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	3	13		#FEE188	0.230275053116729
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	4	13	masked	#FFF1A9	0.133652270163395
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	5	13	scene|scenes	#FFFFCC	0.0536497180660836
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	6	13		#FFF1A9	0.119181848824388
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	7	13	confidence|remembered	#FFFFCC	0.0113945465507716
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	8	13		#FFF1A9	0.186575581395651
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	9	13		#FECB68	0.385763985272057
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	10	13	ambiguity|ambiguous	#FFF1A9	0.131337835221651
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	11	13		#FDAD4A	0.437282590856896
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	12	13		#FDAD4A	0.413573015137941
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	13	13	writing	#FEE188	0.249539110696574
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	14	13		#FECB68	0.358408926115791
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	15	13	categorization|congruency|prime	#FEE188	0.269393798672896
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	16	13		#FEE188	0.292818820986756
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	17	13	mask	#FFF1A9	0.197383045304708
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	18	13		#FEE188	0.268998517981188
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	19	13		#FEE188	0.273262900856898
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	20	13		#FEE188	0.282092575530578
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	21	13	conflict|congruent|incongruent	#FEE188	0.257430898871412
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	22	13	errors	#FEE188	0.248469789674189
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	23	13	maintenance|probe|wm	#FEE188	0.230395107644208
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	1	14	angry|fearful|happy	#FFFFCC	0.0926613333948254
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	2	14		#FFF1A9	0.139302701788028
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	3	14	awareness|conscious|ptsd	#FFF1A9	0.1602500785054
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	4	14		#FEE188	0.203023154372416
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	5	14	houses|photographs	#FFFFCC	0
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	6	14		#FFF1A9	0.171912593838
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	7	14	hits	#FFF1A9	0.10954942267138
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	8	14	famous	#FFFFCC	0.0636143634556213
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	9	14	names	#FFF1A9	0.158126745853014
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	10	14	family	#FDAD4A	0.422573746496358
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	11	14	competition|mouth	#FDAD4A	0.402786352092379
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	12	14	abilities	#FECB68	0.303843316745322
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	13	14	implicit|unfamiliar	#FECB68	0.318410395411269
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	14	14		#FECB68	0.363386999014813
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	15	14	tom	#FEE188	0.239361095447099
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	16	14		#FEE188	0.258640207498661
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	17	14		#FEE188	0.230649214903217
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	18	14	stop	#FEE188	0.202083930809764
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	19	14	inhibition|inhibitory|nogo	#FEE188	0.275757864771218
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	20	14	monitoring|stroop	#FFF1A9	0.180319323328038
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	21	14	interference	#FFF1A9	0.169445383687624
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	22	14		#FEE188	0.25633368780755
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	23	14	demands|executive	#FEE188	0.229339026599127
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	1	15	anger	#FFFFCC	0.0623846286740634
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	2	15	stress	#FFF1A9	0.127052719801087
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	3	15	feelings	#FEE188	0.216059575129921
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	4	15	salient	#FFF1A9	0.169371756275571
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	5	15	novelty	#FFF1A9	0.191646194088207
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	6	15	movie	#FEE188	0.247185914100768
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	7	15		#FEE188	0.289561250718754
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	8	15		#FECB68	0.337625656598385
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	9	15	longterm	#FEE188	0.223349726252233
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	10	15		#FECB68	0.368400123875744
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	11	15	reasoning|relational	#FEE188	0.231196333916726
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	12	15		#FECB68	0.371272344424801
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	13	15	presentations	#FECB68	0.368270936041869
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	14	15		#FECB68	0.346910018033117
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	15	15	identity	#FEE188	0.216728972781553
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	16	15		#FEE188	0.24615823429136
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	17	15	strategies|strategy	#FFFFCC	0.0742306597426965
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	18	15	card|cards	#FFF1A9	0.137537654057122
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	19	15	gonogo	#FEE188	0.266074787823494
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	20	15		#FEE188	0.263408190578871
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	21	15	switching|switch	#FFF1A9	0.196664773614766
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	22	15		#FEE188	0.234715038504471
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	23	15	2back|rule	#FEE188	0.250168029334939
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	1	16	emotionally|mood|personality|sadness	#FFFFCC	0.0874527751564848
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	2	16	disgust|sexual	#FEE188	0.271687710797821
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	3	16	olfactory	#FECB68	0.357908976738269
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	4	16	physiological	#FEE188	0.282981856951353
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	5	16	depressed|depressive|habituation	#FEE188	0.264942509373469
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	6	16	schizophrenic	#FEE188	0.270510066308629
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	7	16	colors|contexts	#FEE188	0.253221194401882
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	8	16	aging|encoded	#FFF1A9	0.146762863305928
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	9	16	goal	#FFF1A9	0.161323492112802
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	10	16		#FECB68	0.306083510179369
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	11	16	autism|autistic|nonverbal	#FFF1A9	0.165418877430239
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	12	16		#FECB68	0.341911363662313
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	13	16	bottomup|repetitions	#FEE188	0.202653562235525
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	14	16	adaptation	#FECB68	0.308641882278656
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	15	16	irrelevant	#FEE188	0.226675404088103
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	16	16	distractor|distractors	#FFF1A9	0.139748478881469
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	17	16		#FEE188	0.259853968720067
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	18	16	subtraction	#FFF1A9	0.131941412824801
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	19	16	1back|nback	#FEE188	0.28199689563617
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	20	16	manipulation|rules	#FEE188	0.229940607931983
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	21	16		#FEE188	0.246318785748415
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	22	16		#FEE188	0.219333467792824
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	23	16	digit	#FFF1A9	0.157692477217468
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	1	17	avoidance	#FFF1A9	0.196801293385759
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	2	17		#FEE188	0.281811557075367
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	3	17	eating|food	#FFF1A9	0.175753299521944
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	4	17	taste	#FECB68	0.352727577087997
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	5	17	bipolar	#FFF1A9	0.188435720722771
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	6	17	illness|uncertainty	#FFF1A9	0.146249473997326
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	7	17	females|probabilistic	#FFF1A9	0.136419355246419
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	8	17	rejection	#FFFFCC	0.0592348059195487
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	9	17	colour|paired	#FEE188	0.238000645908828
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	10	17		#FECB68	0.326590195088072
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	11	17		#FECB68	0.322444811631105
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	12	17		#FECB68	0.300327192700083
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	13	17	taskirrelevant	#FEE188	0.208485061292096
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	14	17		#FEE188	0.277688502619115
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	15	17	suppression	#FFF1A9	0.186945510269152
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	16	17		#FECB68	0.321826239904746
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	17	17	shifting|shortterm	#FEE188	0.298354177762406
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	18	17	digits	#FFF1A9	0.174166379696883
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	19	17	search	#FEE188	0.291348427551323
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	20	17	counting|taskrelated	#FECB68	0.31245522084267
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	21	17	topdown	#FEE188	0.202940303156635
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	22	17	visuospatial	#FFF1A9	0.13309712321835
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	23	17	arithmetic|calculation|solving	#FFF1A9	0.182724260279077
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	1	18	addiction|craving|drugs	#FEE188	0.215945641563999
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	2	18	allele|genotype|polymorphism	#FFF1A9	0.164272808151721
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	3	18	motivation	#FEE188	0.2504110541941
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	4	18	heart	#FECB68	0.384637373110313
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	5	18	sleep	#FEE188	0.253603871206998
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	6	18	expectancy	#FECB68	0.32164566476084
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	7	18	phasic|salience	#FFFFCC	0.0780892577992275
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	8	18	adolescence|adolescents	#FFF1A9	0.135470771107044
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	9	18	intelligence|tracking	#FECB68	0.374029216143444
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	10	18		#FDAD4A	0.441833584182798
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	11	18	serial	#FFF1A9	0.168646993050288
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	12	18		#FECB68	0.366464775927121
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	13	18	spatially|taskrelevant	#FEE188	0.23396819057483
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	14	18		#FECB68	0.309297948872459
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	15	18	attended|attend|unattended	#FFF1A9	0.173927043372559
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	16	18	rotation|shapes	#FFF1A9	0.159428353408099
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	17	18	rehearsal	#FDAD4A	0.425387433749604
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	18	18	learned	#FDAD4A	0.418601551869503
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	19	18		#FDAD4A	0.470268603637253
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	20	18	cued|preparatory	#FECB68	0.320840863416098
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	21	18		#FDAD4A	0.454198829402588
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	22	18		#FECB68	0.354381436709023
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	23	18	numbers|numerical	#FFF1A9	0.11549437901618
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	1	19	future	#FFF1A9	0.118954120834663
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	2	19	negatively	#FECB68	0.325685138951492
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	3	19	distress|epilepsy|selfreported	#FEE188	0.231750372288775
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	4	19	anticipatory|cocaine|probabilities|smoking	#FEE188	0.207450976861263
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	5	19	alcohol|amount|impulsivity	#FEE188	0.201668196427556
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	6	19	game|success	#FFF1A9	0.140916723702841
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	7	19	adhd|childhood|engagement	#FFF1A9	0.135203862581908
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	8	19		#FECB68	0.384695347362471
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	9	19		#FD913D	0.504576203086212
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	10	19		#FDAD4A	0.483189131561525
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	11	19		#FDAD4A	0.447919221332939
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	12	19	endogenous	#FEE188	0.233021841940237
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	13	19	cueing|invalid|orienting	#FEE188	0.283036513479433
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	14	19		#FECB68	0.357913999308317
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	15	19	multisensory	#FECB68	0.352018545990764
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	16	19		#FECB68	0.378895263437819
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	17	19	shifts	#FD913D	0.504210566565304
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	18	19	covert	#FD913D	0.521295597581792
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	19	19		#FD913D	0.504836377356633
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	20	19	preparation	#FECB68	0.398666344618171
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	21	19	discrimination|training	#FD913D	0.555091999150073
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	22	19	sequences	#FC622F	0.656804245334755
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	23	19		#F03623	0.707613818734838
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	1	20	personal|self|selfreferential|trait|traits	#FFF1A9	0.140351620203366
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	2	20	empathic|theory	#FFF1A9	0.179980750824552
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	3	20	attribution|intentional	#FFFFCC	0.0395431393097707
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	4	20	elderly|oscillations	#FFF1A9	0.101314518162875
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	5	20	antipsychotic|virtual	#FFFFCC	0.0613679042655862
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	6	20		#FECB68	0.360525499157776
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	7	20	experiences	#FEE188	0.248812375427283
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	8	20	categorical|pressure	#FEE188	0.265539668804557
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	9	20	play|skills	#FEE188	0.261374920370498
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	10	20	automatic|trained	#FD913D	0.513013363618826
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	11	20		#FC622F	0.607908212416198
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	12	20	practice	#FDAD4A	0.437290578450503
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	13	20	visuomotor	#FECB68	0.309245045304203
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	14	20		#FD913D	0.558508093254047
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	15	20	tool	#FECB68	0.344599627465731
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	16	20	vision	#FFF1A9	0.185299808192963
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	17	20	visually	#FDAD4A	0.404206885171098
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	18	20	saccade|saccades|saccadic	#FECB68	0.39629790101291
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	19	20	locations	#FDAD4A	0.40491899937615
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	20	20	imagery|planning	#FDAD4A	0.433682430197662
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	21	20		#FC622F	0.651024986533397
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	22	20	rest	#FC622F	0.688093467970221
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	23	20	sequence	#FC622F	0.678381814952624
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	1	21	scenarios	#FFFFCC	0.0262193850720712
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	2	21	intention|intentions	#FFF1A9	0.134975543804012
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	3	21	causality|perspective	#FFF1A9	0.130664853677062
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	4	21	past	#FFFFCC	0.0159844858595549
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	5	21		#FDAD4A	0.455357882926495
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	6	21	episode	#FFF1A9	0.175478896947119
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	7	21	improvement	#FEE188	0.271223783052713
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	8	21	masking|retention	#FECB68	0.301057102002606
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	9	21		#FD913D	0.591304694331865
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	10	21	dominant	#FDAD4A	0.414566773241866
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	11	21		#F03623	0.77243351386493
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	12	21	sequential	#FDAD4A	0.455885856786157
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	13	21	fingers	#FD913D	0.534617944687385
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	14	21		#FD913D	0.544377327711802
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	15	21	gesture|gestures	#FECB68	0.301250507070634
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	16	21		#FDAD4A	0.482757595269454
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	17	21	hands	#FECB68	0.309087477672538
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	18	21		#FDAD4A	0.48441471639848
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	19	21		#FDAD4A	0.49378966826252
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	20	21	eye|position	#FDAD4A	0.440549998139844
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	21	21	execution	#FC622F	0.652707942145948
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	22	21	finger|sensorimotor	#F03623	0.744943729613812
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	23	21		#F03623	0.740102001340071
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	1	22	moral|stories|story	#FFF1A9	0.105443425712
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	2	22	mentalizing|persons	#FFFFCC	0.061851640290885
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	3	22	default|restingstate	#FFFFCC	0.0141858609742961
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	4	22	thinking|thought|thoughts	#FFF1A9	0.120936843955077
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	5	22	spontaneous	#FEE188	0.298773061620376
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	6	22	concentration|sensations	#FC622F	0.619594831808241
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	7	22	hierarchical|preference	#FDAD4A	0.45463413976557
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	8	22	effort|oral|simulation	#FDAD4A	0.42350873217262
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	9	22	interhemispheric|plasticity	#FEE188	0.28864059693099
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	10	22	imagined|imagine	#FD913D	0.501194359499967
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	11	22	tapping	#F03623	0.729094172232352
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	12	22	foot|muscle|muscles|voluntary	#B10026	0.99212915710525
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	13	22	limb	#D7141E	0.896212407232738
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	14	22	eyes|velocity	#FDAD4A	0.462376385064384
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	15	22	biological|gaze|videos	#FECB68	0.328339845198248
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	16	22	body	#FC622F	0.654701474847528
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	17	22	grasping|orientation|reaching	#FEE188	0.295540321552225
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	18	22		#FDAD4A	0.469113719295064
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	19	22	mirror|shape	#FECB68	0.302726727132777
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	20	22	actions	#FD913D	0.510883011382958
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	21	22	action	#FD913D	0.539294374176781
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	22	22		#F03623	0.707312113979485
+de17be6e-cc5d-3831-903c-ce296e0d6a7d	Phillips M	23	22	hand|movements|sensory	#FC622F	0.693860477440667

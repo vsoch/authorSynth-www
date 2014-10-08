@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	1	1	auditory|speech	#FECB68	0.339396918907143
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	2	1		#FECB68	0.393123258373865
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	3	1	da|integration	#FECB68	0.380825706131119
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	4	1		#FD913D	0.526681309361684
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	5	1	physical|psychophysical|tactile	#FD913D	0.535618373400947
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	6	1		#F03623	0.770456687323899
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	7	1	somatosensory|stimulation	#F03623	0.75457672387844
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	8	1	painful|pain	#D7141E	0.843720500402637
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	9	1		#B10026	0.924779939285144
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	10	1	ratings	#F03623	0.741012375178158
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	11	1	affective|affect	#FD913D	0.552691648757528
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	12	1	emotions	#FDAD4A	0.467246592142945
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	13	1	expression|expressions|facial	#FECB68	0.3293593050778
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	14	1		#FDAD4A	0.439475510339201
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	15	1		#FDAD4A	0.467432421749019
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	16	1	emotion|motion|neutral	#FD913D	0.518726231811955
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	17	1	rating	#FC622F	0.671743637442826
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	18	1	negative|positive	#FD913D	0.536229245088368
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	19	1		#FDAD4A	0.464233247374531
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	20	1	ear|order	#FECB68	0.383215530347644
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	21	1	motor	#FECB68	0.352486935721155
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	22	1	visual	#FEE188	0.267538224376128
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	23	1	age|image|response	#FECB68	0.371848625076416
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	1	2	sound|sounds	#FDAD4A	0.422399413568378
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	2	2		#FECB68	0.382400944069868
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	3	2	audiovisual|bimodal|crossmodal	#FECB68	0.334522279962604
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	4	2		#FD913D	0.519212097895087
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	5	2		#FC622F	0.601082123887021
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	6	2		#F03623	0.752922500362925
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	7	2	sensation	#B10026	1
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	8	2	heat|noxious	#B10026	0.901039444239831
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	9	2		#B10026	0.926760923558861
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	10	2		#F03623	0.779503474729338
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	11	2		#FC622F	0.696385258073806
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	12	2	valence	#FD913D	0.548435330718925
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	13	2	person|social	#FDAD4A	0.440563767647871
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	14	2		#FDAD4A	0.444694713028907
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	15	2	face|faces	#FEE188	0.273416497237659
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	16	2		#FD913D	0.520311617767368
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	17	2		#FD913D	0.54938438054925
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	18	2		#FD913D	0.518146733337325
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	19	2		#FDAD4A	0.446873003976112
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	20	2		#FECB68	0.376222907750762
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	21	2	images|spatial	#FECB68	0.354620765477243
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	22	2	control	#FECB68	0.324431263982506
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	23	2	time	#FECB68	0.364848475038742
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	1	3	acoustic|listening|musical|music|pitch	#FEE188	0.296992932756438
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	2	3	noise|tones	#FECB68	0.353651044006526
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	3	3		#FDAD4A	0.412769666950141
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	4	3		#FDAD4A	0.438087647712835
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	5	3	frequency	#FDAD4A	0.496765464195289
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	6	3		#FC622F	0.679142130395977
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	7	3		#B10026	0.908016733437077
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	8	3	temperature	#D7141E	0.858264560795183
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	9	3		#B10026	0.92424480972976
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	10	3	pleasant|unpleasant	#F03623	0.793669587867049
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	11	3	anxiety	#FC622F	0.69221277400268
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	12	3		#FD913D	0.599029975083768
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	13	3		#FD913D	0.518849525088515
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	14	3		#FD913D	0.503977523799797
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	15	3		#FDAD4A	0.492311985451585
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	16	3	picture	#FDAD4A	0.435707233845703
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	17	3		#FD913D	0.522770415487829
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	18	3	value	#FDAD4A	0.482648095047039
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	19	3	cue	#FECB68	0.344403940277251
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	20	3	error|target	#FECB68	0.316358557191152
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	21	3	attention	#FEE188	0.277787765467659
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	22	3		#FEE188	0.278965736771309
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	23	3	number	#FEE188	0.29617351271384
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	1	4	voice	#FECB68	0.301987717775415
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	2	4		#FECB68	0.335478269938065
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	3	4	hearing	#FEE188	0.249674494945096
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	4	4		#FECB68	0.372263480037714
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	5	4	overt	#FECB68	0.305987983474152
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	6	4		#FDAD4A	0.48199581424688
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	7	4		#D7141E	0.814371979437728
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	8	4	nociceptive|nonpainful|painrelated	#F03623	0.772709453507423
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	9	4	unpleasantness	#F03623	0.784616781490309
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	10	4	skin|subjective	#F03623	0.737645138941082
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	11	4	depression	#FC622F	0.674766294079127
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	12	4	experience	#FDAD4A	0.466990735770787
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	13	4	female	#FD913D	0.531179139636797
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	14	4	male	#FD913D	0.5311260433263
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	15	4	pictures	#FDAD4A	0.431936505225176
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	16	4		#FDAD4A	0.485046539850111
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	17	4	perception	#FDAD4A	0.498781850176018
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	18	4		#FECB68	0.383129259769144
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	19	4		#FECB68	0.335802576063937
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	20	4		#FECB68	0.299954000305044
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	21	4	correct	#FEE188	0.232068959213889
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	22	4	work	#FEE188	0.216657002725709
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	23	4	memory	#FFF1A9	0.183382966515166
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	1	5	prosodic|prosody	#FECB68	0.343131509989451
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	2	5	phonetic	#FEE188	0.22183999769705
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	3	5	syllable|syllables	#FEE188	0.253667997271958
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	4	5		#FECB68	0.33676129888328
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	5	5	lip|production	#FECB68	0.34351293009425
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	6	5	somatotopic	#FDAD4A	0.444780342257356
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	7	5		#FC622F	0.692652724052205
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	8	5		#FC622F	0.645989586200235
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	9	5	empathy	#FD913D	0.589320918000215
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	10	5		#FD913D	0.534985963142913
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	11	5	disorder	#FC622F	0.661139130745438
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	12	5		#FDAD4A	0.494455732344147
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	13	5		#FDAD4A	0.482648548785955
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	14	5		#FDAD4A	0.435427459257282
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	15	5		#FDAD4A	0.429228494933901
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	16	5		#FDAD4A	0.415998703231348
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	17	5		#FECB68	0.363636184227102
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	18	5	mental	#FEE188	0.290370894697957
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	19	5	go	#FEE188	0.272705878056774
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	20	5	object	#FFF1A9	0.140736559495318
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	21	5		#FEE188	0.236509528355669
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	22	5		#FEE188	0.209090523823899
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	23	5	word|words	#FEE188	0.20512375117481
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	1	6		#FD913D	0.502372483353346
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	2	6		#FDAD4A	0.487438377361075
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	3	6		#FDAD4A	0.486549661002516
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	4	6	vocal	#FECB68	0.348199579441085
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	5	6	articulatory	#FFF1A9	0.123226591402419
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	6	6		#FDAD4A	0.443789516692409
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	7	6	oddball	#FECB68	0.358325853296244
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	8	6	perceived	#FD913D	0.513305651060651
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	9	6	errorrelated	#FECB68	0.358670134229771
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	10	6	approach	#FDAD4A	0.418175565916426
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	11	6	schizophrenia	#FECB68	0.31490244501389
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	12	6	acquisition	#FDAD4A	0.404426576054177
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	13	6		#FECB68	0.376280302615196
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	14	6		#FEE188	0.233641958395395
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	15	6		#FEE188	0.232857254470695
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	16	6		#FEE188	0.238443618003321
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	17	6		#FEE188	0.233490275812077
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	18	6		#FEE188	0.222694600933488
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	19	6		#FEE188	0.240907853275801
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	20	6	objects	#FFF1A9	0.192952374694231
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	21	6		#FEE188	0.227269165802887
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	22	6		#FFF1A9	0.189597140998043
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	23	6	language|semantic	#FFF1A9	0.178830352302609
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	1	7	dopamine|dopaminergic	#FECB68	0.394363076939245
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	2	7		#FD913D	0.540253070720925
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	3	7		#FD913D	0.590182077764517
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	4	7		#FD913D	0.573104492524274
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	5	7		#FD913D	0.542447921667531
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	6	7		#FDAD4A	0.452593847472459
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	7	7		#FDAD4A	0.44240556452186
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	8	7		#FECB68	0.380375557839409
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	9	7		#FDAD4A	0.407423607651277
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	10	7		#FEE188	0.290378647911741
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	11	7		#FECB68	0.301289722290238
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	12	7		#FEE188	0.283057377629771
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	13	7	linguistic|spoken	#FEE188	0.212404165515353
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	14	7		#FFF1A9	0.184008990431945
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	15	7	comprehension|sentence|sentences|syntactic	#FFF1A9	0.145699996058162
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	16	7		#FFF1A9	0.157585622637155
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	17	7		#FFF1A9	0.175334764328709
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	18	7	phonological|reading|read	#FFF1A9	0.143316177857356
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	19	7		#FEE188	0.214056624791755
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	20	7	perceptual|recognition	#FEE188	0.259486557079562
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	21	7		#FEE188	0.229372650291412
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	22	7		#FFF1A9	0.190692381046168
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	23	7	verb	#FFF1A9	0.167189476764437
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	1	8	outcome|reward	#FD913D	0.562530382594717
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	2	8	anticipation	#FD913D	0.540660371835363
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	3	8	outcomes	#FDAD4A	0.47371459061253
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	4	8	choice|choices	#FDAD4A	0.476630919080633
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	5	8	decisions|probability	#FC622F	0.611883204921606
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	6	8	reversal	#FEE188	0.247006212066739
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	7	8	classification|incorrect	#FEE188	0.281579404909705
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	8	8		#FECB68	0.322911882793059
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	9	8	agerelated|fluency|probes	#FEE188	0.239053841472406
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	10	8	engaged	#FFF1A9	0.163922807793904
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	11	8	explicit|knowledge	#FFF1A9	0.131497000045085
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	12	8		#FEE188	0.204139613017997
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	13	8		#FFF1A9	0.197846447238861
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	14	8		#FFF1A9	0.16154183776458
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	15	8		#FFF1A9	0.13931860731604
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	16	8		#FFF1A9	0.13994161060569
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	17	8	lexical	#FFF1A9	0.135851192359556
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	18	8		#FFF1A9	0.174073621552442
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	19	8		#FEE188	0.214812175470413
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	20	8		#FEE188	0.243658544303208
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	21	8	encoding	#FFF1A9	0.188224876953488
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	22	8	retrieval	#FFF1A9	0.162032600465625
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	23	8	verbal	#FFF1A9	0.157126768542417
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	1	9	incentive|monetary|money|rewards	#FDAD4A	0.452015523358
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	2	9	loss	#FD913D	0.582254460013883
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	3	9		#FD913D	0.581214673274682
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	4	9		#FD913D	0.586629845574
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	5	9	decisionmaking	#FD913D	0.522471101892723
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	6	9		#FECB68	0.338959292734823
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	7	9		#FEE188	0.250355082567878
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	8	9		#FEE188	0.237885453794234
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	9	9		#FEE188	0.221875842156775
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	10	9		#FFF1A9	0.192764385712622
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	11	9		#FFF1A9	0.183250146942961
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	12	9		#FFF1A9	0.171184324599242
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	13	9	noun	#FFF1A9	0.118914457966459
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	14	9	meaning	#FFF1A9	0.142745822581521
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	15	9	english	#FFF1A9	0.108773165474999
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	16	9	pseudoword|pseudowords	#FFF1A9	0.113149907900833
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	17	9		#FFF1A9	0.155941407895324
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	18	9		#FEE188	0.224225475617598
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	19	9	familiar|judgment	#FFF1A9	0.186687820866338
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	20	9	pair|pairs	#FECB68	0.303027887693892
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	21	9		#FECB68	0.303137156155262
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	22	9		#FEE188	0.225361472163186
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	23	9	letter|working	#FFF1A9	0.177100285039941
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	1	10	losses|reinforcement|win	#FDAD4A	0.402169448023093
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	2	10	gain	#FECB68	0.384123844717178
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	3	10	expectation	#FD913D	0.584297099251887
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	4	10	risk	#FD913D	0.515324400928357
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	5	10	fact	#FDAD4A	0.422458022659084
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	6	10	associative	#FEE188	0.216514541424206
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	7	10	familiarity|judgments|old	#FFFFCC	0.0881978727282703
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	8	10	contextual|text	#FFF1A9	0.120863331611559
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	9	10	recall|retrieved	#FFF1A9	0.186793648436768
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	10	10	conceptual|semantically	#FFF1A9	0.124956802439168
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	11	10	grammatical|speakers	#FEE188	0.225586810867727
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	12	10	nouns	#FFF1A9	0.106179253554998
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	13	10	japanese	#FFFFCC	0.0989319507298423
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	14	10	languages	#FFFFCC	0.0892480575895777
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	15	10	written	#FFF1A9	0.108169522939673
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	16	10	chinese|phonology	#FFFFCC	0.0405520625321287
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	17	10	orthographic	#FFF1A9	0.11182934040764
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	18	10		#FECB68	0.306284819171667
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	19	10		#FECB68	0.354982502045993
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	20	10	association|decision	#FECB68	0.359218485704326
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	21	10	selection	#FEE188	0.266405144816048
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	22	10	letters	#FFF1A9	0.194073680253386
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	23	10	demand|load	#FFF1A9	0.193067360137227
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	1	11	conditioned|conditioning	#FDAD4A	0.413399207159509
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	2	11		#FD913D	0.563196333143055
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	3	11	drug|placebo	#FDAD4A	0.498676229506392
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	4	11		#FD913D	0.502629557112397
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	5	11	associations	#FEE188	0.212965197071304
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	6	11		#FFF1A9	0.148490211104692
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	7	11	episodic|recollection	#FFFFCC	0.0571185322390184
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	8	11		#FFF1A9	0.111151659291986
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	9	11		#FEE188	0.224221192232087
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	10	11	concepts	#FFFFCC	0.0820129843878555
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	11	11		#FEE188	0.222802320689732
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	12	11		#FEE188	0.203546236463723
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	13	11	german	#FEE188	0.21382700846363
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	14	11	readers	#FFF1A9	0.192975437869938
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	15	11	character|name|naming	#FFFFCC	0.0125791054272337
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	16	11		#FFF1A9	0.147592403808286
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	17	11	novel	#FEE188	0.214665611335666
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	18	11		#FECB68	0.346709155686872
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	19	11	child|children	#FDAD4A	0.414205034441794
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	20	11	adults	#FDAD4A	0.440281370293277
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	21	11	ability|feedback|learning	#FDAD4A	0.462382267650673
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	22	11	cues|delay	#FECB68	0.309471356727866
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	23	11	attentional|difficulty|targets	#FEE188	0.239003821138802
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	1	12	aversive|shock	#FD913D	0.509719015307962
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	2	12	reactivity	#FC622F	0.624261434541832
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	3	12	males|sex|women	#FECB68	0.375423500526946
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	4	12	animal	#FD913D	0.50072376442307
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	5	12	animals	#FECB68	0.367913013509233
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	6	12		#FFF1A9	0.139115611849081
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	7	12	remember|subsequent	#FFFFCC	0
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	8	12	autobiographical|memories	#FFF1A9	0.125107281115939
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	9	12		#FEE188	0.28248805706053
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	10	12	violation|violations	#FECB68	0.381356297791357
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	11	12	aphasia	#FEE188	0.259474628061286
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	12	12	nonwords	#FFF1A9	0.121761159574912
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	13	12	dyslexia	#FEE188	0.272250562069493
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	14	12		#FFF1A9	0.177961700516291
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	15	12	priming	#FFF1A9	0.129334191188177
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	16	12		#FEE188	0.202953373052592
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	17	12	category|repetition	#FEE188	0.217201345839996
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	18	12		#FECB68	0.360441288004351
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	19	12	developmental|development	#FDAD4A	0.406266610089708
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	20	12		#FDAD4A	0.413429842121647
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	21	12	space	#FDAD4A	0.473019711581743
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	22	12		#FEE188	0.268501265462059
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	23	12	color	#FEE188	0.271001708985574
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	1	13	threat	#FEE188	0.21056995862032
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	2	13	regulation	#FD913D	0.518481590526527
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	3	13		#FDAD4A	0.467877015287104
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	4	13	masked	#FEE188	0.264543002585032
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	5	13	scene|scenes	#FFF1A9	0.173516378543387
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	6	13		#FFF1A9	0.135902010298532
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	7	13	confidence|remembered	#FFFFCC	0.0216268223455097
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	8	13		#FFF1A9	0.125595260729566
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	9	13		#FEE188	0.295211970701469
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	10	13	ambiguity|ambiguous	#FFF1A9	0.163452902307453
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	11	13		#FEE188	0.299449430425643
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	12	13		#FEE188	0.23998781411506
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	13	13	writing	#FFFFCC	0.0198437934248348
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	14	13		#FEE188	0.244628475039948
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	15	13	categorization|congruency|prime	#FFF1A9	0.155251610794584
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	16	13		#FEE188	0.248968407577495
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	17	13	mask	#FEE188	0.27657094360554
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	18	13		#FECB68	0.373292786552278
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	19	13		#FDAD4A	0.431788040256851
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	20	13		#FECB68	0.359146661673811
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	21	13	conflict|congruent|incongruent	#FFF1A9	0.190447429377679
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	22	13	errors	#FECB68	0.332859214709317
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	23	13	maintenance|probe|wm	#FFF1A9	0.119728959218478
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	1	14	angry|fearful|happy	#FFF1A9	0.188949557906323
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	2	14		#FECB68	0.326845757446037
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	3	14	awareness|conscious|ptsd	#FECB68	0.330376976480152
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	4	14		#FECB68	0.335762497932123
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	5	14	houses|photographs	#FFFFCC	0.0449889284715574
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	6	14		#FEE188	0.229656675442075
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	7	14	hits	#FFFFCC	0.0859874303538805
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	8	14	famous	#FFFFCC	0.0511363504056743
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	9	14	names	#FFF1A9	0.124292004049889
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	10	14	family	#FEE188	0.289487354574554
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	11	14	competition|mouth	#FEE188	0.273685229356868
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	12	14	abilities	#FECB68	0.382817832862354
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	13	14	implicit|unfamiliar	#FEE188	0.275174878069453
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	14	14		#FEE188	0.249059843369741
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	15	14	tom	#FEE188	0.279352946344454
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	16	14		#FEE188	0.279986347752493
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	17	14		#FECB68	0.302513507554301
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	18	14	stop	#FECB68	0.327419341294146
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	19	14	inhibition|inhibitory|nogo	#FDAD4A	0.413282500283061
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	20	14	monitoring|stroop	#FEE188	0.215030461131383
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	21	14	interference	#FFF1A9	0.163711257641643
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	22	14		#FFF1A9	0.199044007601138
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	23	14	demands|executive	#FFF1A9	0.129033199390295
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	1	15	anger	#FEE188	0.284801657902627
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	2	15	stress	#FDAD4A	0.463283387806833
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	3	15	feelings	#FDAD4A	0.40135469557099
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	4	15	salient	#FECB68	0.309256289753712
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	5	15	novelty	#FEE188	0.248218548715542
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	6	15	movie	#FEE188	0.25408371086554
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	7	15		#FEE188	0.277603203363856
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	8	15		#FEE188	0.239084246278651
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	9	15	longterm	#FFFFCC	0.0363532343749984
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	10	15		#FEE188	0.210496006654711
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	11	15	reasoning|relational	#FFFFCC	0.0899708593101778
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	12	15		#FEE188	0.233726339456057
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	13	15	presentations	#FFF1A9	0.158208061468051
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	14	15		#FEE188	0.232258617272966
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	15	15	identity	#FEE188	0.202410080964848
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	16	15		#FEE188	0.261115687514159
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	17	15	strategies|strategy	#FEE188	0.295187695263718
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	18	15	card|cards	#FEE188	0.269954516571039
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	19	15	gonogo	#FECB68	0.336864957749219
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	20	15		#FEE188	0.27389049009288
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	21	15	switching|switch	#FFF1A9	0.135520994965673
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	22	15		#FFF1A9	0.188592943692889
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	23	15	2back|rule	#FFF1A9	0.122188429841801
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	1	16	emotionally|mood|personality|sadness	#FECB68	0.318165852344173
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	2	16	disgust|sexual	#FDAD4A	0.464014615555151
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	3	16	olfactory	#FD913D	0.502193010562645
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	4	16	physiological	#FC622F	0.626082645098612
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	5	16	depressed|depressive|habituation	#FECB68	0.376739182252882
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	6	16	schizophrenic	#FECB68	0.37424702338432
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	7	16	colors|contexts	#FEE188	0.21006453199114
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	8	16	aging|encoded	#FFFFCC	0.0503984917069033
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	9	16	goal	#FFFFCC	0.00293208708671388
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	10	16		#FFF1A9	0.15516693193966
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	11	16	autism|autistic|nonverbal	#FFF1A9	0.146176122602067
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	12	16		#FEE188	0.217674425006932
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	13	16	bottomup|repetitions	#FFFFCC	0.0683166249980212
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	14	16	adaptation	#FEE188	0.228874142749834
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	15	16	irrelevant	#FFF1A9	0.122841817106897
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	16	16	distractor|distractors	#FFF1A9	0.135437348442495
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	17	16		#FEE188	0.250507687836647
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	18	16	subtraction	#FFF1A9	0.126320057152507
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	19	16	1back|nback	#FFF1A9	0.13829753298875
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	20	16	manipulation|rules	#FFF1A9	0.162401052590108
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	21	16		#FFF1A9	0.19560846686125
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	22	16		#FFF1A9	0.141673058851531
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	23	16	digit	#FFFFCC	0.0813687434188408
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	1	17	avoidance	#FDAD4A	0.458205144723936
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	2	17		#FDAD4A	0.416617046485579
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	3	17	eating|food	#FC622F	0.632590052877435
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	4	17	taste	#F03623	0.7637643325258
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	5	17	bipolar	#FECB68	0.375663148226081
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	6	17	illness|uncertainty	#FDAD4A	0.474733463474021
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	7	17	females|probabilistic	#FECB68	0.377113447946962
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	8	17	rejection	#FFF1A9	0.105458457791402
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	9	17	colour|paired	#FFF1A9	0.183366354443526
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	10	17		#FEE188	0.22681155103884
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	11	17		#FEE188	0.214043594868227
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	12	17		#FFF1A9	0.192789588893371
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	13	17	taskirrelevant	#FFF1A9	0.175975839095734
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	14	17		#FFF1A9	0.181893671461147
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	15	17	suppression	#FECB68	0.300130179458659
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	16	17		#FEE188	0.208600921740117
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	17	17	shifting|shortterm	#FFF1A9	0.166115105541742
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	18	17	digits	#FFF1A9	0.127882599759954
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	19	17	search	#FEE188	0.204626291690166
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	20	17	counting|taskrelated	#FEE188	0.20852120373873
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	21	17	topdown	#FEE188	0.209066585870709
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	22	17	visuospatial	#FFFFCC	0.0555593117663508
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	23	17	arithmetic|calculation|solving	#FFF1A9	0.101097501407324
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	1	18	addiction|craving|drugs	#FEE188	0.229148004185691
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	2	18	allele|genotype|polymorphism	#FFF1A9	0.193926456178636
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	3	18	motivation	#FDAD4A	0.458840680894885
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	4	18	heart	#F03623	0.700783765361782
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	5	18	sleep	#FC622F	0.684680234390236
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	6	18	expectancy	#FDAD4A	0.424467074135057
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	7	18	phasic|salience	#FDAD4A	0.407468381743684
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	8	18	adolescence|adolescents	#FDAD4A	0.408545165722538
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	9	18	intelligence|tracking	#FECB68	0.378652134474312
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	10	18		#FECB68	0.307696576758039
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	11	18	serial	#FEE188	0.267253754890287
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	12	18		#FEE188	0.212603054153573
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	13	18	spatially|taskrelevant	#FEE188	0.227139015931533
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	14	18		#FFF1A9	0.193146014626272
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	15	18	attended|attend|unattended	#FFFFCC	0.0880162082327506
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	16	18	rotation|shapes	#FFF1A9	0.124145716907587
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	17	18	rehearsal	#FEE188	0.266862224511551
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	18	18	learned	#FEE188	0.249492571493444
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	19	18		#FEE188	0.227016097609445
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	20	18	cued|preparatory	#FEE188	0.218243759156865
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	21	18		#FEE188	0.240229363051822
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	22	18		#FFF1A9	0.192235010836098
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	23	18	numbers|numerical	#FFF1A9	0.130190006485294
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	1	19	future	#FDAD4A	0.454600629866518
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	2	19	negatively	#FEE188	0.246077554440213
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	3	19	distress|epilepsy|selfreported	#FECB68	0.3041139815456
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	4	19	anticipatory|cocaine|probabilities|smoking	#FC622F	0.663131219464847
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	5	19	alcohol|amount|impulsivity	#FFF1A9	0.148239105031334
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	6	19	game|success	#FFFFCC	0.0660535537314704
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	7	19	adhd|childhood|engagement	#FECB68	0.319162984722442
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	8	19		#FDAD4A	0.467489729651832
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	9	19		#FDAD4A	0.428025085745627
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	10	19		#FEE188	0.298728502073875
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	11	19		#FEE188	0.230970489290245
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	12	19	endogenous	#FFFFCC	0.0736580855809484
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	13	19	cueing|invalid|orienting	#FFFFCC	0.0598025664640334
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	14	19		#FFF1A9	0.196207688384528
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	15	19	multisensory	#FFF1A9	0.189093292877772
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	16	19		#FFF1A9	0.198776223170056
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	17	19	shifts	#FEE188	0.209808869697842
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	18	19	covert	#FFF1A9	0.145777294621184
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	19	19		#FEE188	0.224807942281562
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	20	19	preparation	#FEE188	0.205835408267316
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	21	19	discrimination|training	#FEE188	0.255988077064203
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	22	19	sequences	#FECB68	0.321185421389483
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	23	19		#FECB68	0.352001551274205
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	1	20	personal|self|selfreferential|trait|traits	#FECB68	0.373499895698476
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	2	20	empathic|theory	#FEE188	0.271699133146836
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	3	20	attribution|intentional	#FFF1A9	0.105125207886715
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	4	20	elderly|oscillations	#FEE188	0.284693831003643
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	5	20	antipsychotic|virtual	#FECB68	0.30585571575614
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	6	20		#FECB68	0.399334439209106
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	7	20	experiences	#FEE188	0.211679855046225
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	8	20	categorical|pressure	#FDAD4A	0.412579834622672
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	9	20	play|skills	#FEE188	0.252342957081501
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	10	20	automatic|trained	#FFF1A9	0.172370776728975
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	11	20		#FEE188	0.210215657554115
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	12	20	practice	#FFF1A9	0.105089650540823
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	13	20	visuomotor	#FFF1A9	0.16130253180912
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	14	20		#FEE188	0.279482451785814
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	15	20	tool	#FFF1A9	0.143426910144988
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	16	20	vision	#FFF1A9	0.167590550313021
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	17	20	visually	#FFF1A9	0.153413200531567
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	18	20	saccade|saccades|saccadic	#FEE188	0.202859338410439
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	19	20	locations	#FFF1A9	0.13831722589467
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	20	20	imagery|planning	#FFF1A9	0.15933886394373
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	21	20		#FECB68	0.314749264672595
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	22	20	rest	#FECB68	0.342730170384227
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	23	20	sequence	#FECB68	0.336130313290418
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	1	21	scenarios	#FEE188	0.201556917008815
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	2	21	intention|intentions	#FEE188	0.245480652364278
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	3	21	causality|perspective	#FFF1A9	0.148299161118185
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	4	21	past	#FFF1A9	0.117931080253673
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	5	21		#FC622F	0.618611369909323
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	6	21	episode	#FFF1A9	0.160099646065344
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	7	21	improvement	#FFF1A9	0.102268139852861
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	8	21	masking|retention	#FFF1A9	0.164333152050512
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	9	21		#FECB68	0.34047754038002
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	10	21	dominant	#FEE188	0.27318488617106
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	11	21		#FEE188	0.247652131048561
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	12	21	sequential	#FFF1A9	0.142990918561842
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	13	21	fingers	#FFF1A9	0.126300683227459
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	14	21		#FECB68	0.352887835094593
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	15	21	gesture|gestures	#FEE188	0.282444927161476
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	16	21		#FECB68	0.325966285222959
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	17	21	hands	#FFF1A9	0.179280448078154
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	18	21		#FEE188	0.254053886403962
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	19	21		#FEE188	0.242195198400214
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	20	21	eye|position	#FEE188	0.276625584673935
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	21	21	execution	#FEE188	0.215082333907447
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	22	21	finger|sensorimotor	#FEE188	0.236896262418988
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	23	21		#FECB68	0.363151126983706
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	1	22	moral|stories|story	#FFFFCC	0.0791953078543062
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	2	22	mentalizing|persons	#FFF1A9	0.173774640493694
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	3	22	default|restingstate	#FFF1A9	0.185449729243074
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	4	22	thinking|thought|thoughts	#FECB68	0.304922173703109
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	5	22	spontaneous	#FECB68	0.373151605622118
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	6	22	concentration|sensations	#D7141E	0.88617549507
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	7	22	hierarchical|preference	#FEE188	0.2715648428937
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	8	22	effort|oral|simulation	#FECB68	0.376125954047174
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	9	22	interhemispheric|plasticity	#FFF1A9	0.145222837367
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	10	22	imagined|imagine	#FEE188	0.210542456194289
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	11	22	tapping	#FEE188	0.231103280162847
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	12	22	foot|muscle|muscles|voluntary	#FECB68	0.382800070278701
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	13	22	limb	#FFF1A9	0.120724895337855
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	14	22	eyes|velocity	#FEE188	0.294195734962381
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	15	22	biological|gaze|videos	#FECB68	0.375574579532495
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	16	22	body	#FD913D	0.521632734757051
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	17	22	grasping|orientation|reaching	#FFF1A9	0.160685659639173
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	18	22		#FEE188	0.26524667346961
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	19	22	mirror|shape	#FFF1A9	0.134646667384734
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	20	22	actions	#FEE188	0.232698272425458
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	21	22	action	#FEE188	0.277720817644274
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	22	22		#FECB68	0.347428424751689
+4be6ddcc-ef60-3cdd-b857-c7a8f8893c62	Honda H	23	22	hand|movements|sensory	#FECB68	0.379020830429613

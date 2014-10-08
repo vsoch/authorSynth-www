@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	1	1	auditory|speech	#FDAD4A	0.410715642646739
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	2	1		#FECB68	0.394858624161028
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	3	1	da|integration	#F03623	0.734146936055493
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	4	1		#FC622F	0.645599637796153
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	5	1	physical|psychophysical|tactile	#FD913D	0.506664614045152
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	6	1		#FD913D	0.590895186146648
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	7	1	somatosensory|stimulation	#FDAD4A	0.498893325115488
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	8	1	painful|pain	#FDAD4A	0.473135362433875
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	9	1		#FD913D	0.54822479879663
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	10	1	ratings	#FC622F	0.615113429808063
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	11	1	affective|affect	#FC622F	0.643264519845245
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	12	1	emotions	#FD913D	0.575376882687265
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	13	1	expression|expressions|facial	#FDAD4A	0.478396983230733
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	14	1		#FC622F	0.687696050648284
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	15	1		#F03623	0.727642271951847
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	16	1	emotion|motion|neutral	#FC622F	0.670945386956701
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	17	1	rating	#FC622F	0.683808431058263
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	18	1	negative|positive	#F03623	0.735559820676149
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	19	1		#D7141E	0.837690508520044
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	20	1	ear|order	#D7141E	0.802916462682702
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	21	1	motor	#FC622F	0.655495398912044
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	22	1	visual	#D7141E	0.806329538836636
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	23	1	age|image|response	#F03623	0.790854810833785
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	1	2	sound|sounds	#FEE188	0.246372667323583
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	2	2		#FECB68	0.353114126400494
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	3	2	audiovisual|bimodal|crossmodal	#FDAD4A	0.418719740360822
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	4	2		#FC622F	0.662584113509542
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	5	2		#FC622F	0.66863132941926
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	6	2		#FC622F	0.627132997662748
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	7	2	sensation	#FDAD4A	0.456018746445018
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	8	2	heat|noxious	#FECB68	0.39825438747647
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	9	2		#FD913D	0.560876975242597
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	10	2		#FC622F	0.654205081609709
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	11	2		#FC622F	0.657462243409149
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	12	2	valence	#FC622F	0.61473422223992
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	13	2	person|social	#FD913D	0.570161427068946
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	14	2		#F03623	0.706963866775735
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	15	2	face|faces	#F03623	0.72652964120492
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	16	2		#F03623	0.787372505227591
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	17	2		#D7141E	0.806178036347872
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	18	2		#D7141E	0.853614292889373
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	19	2		#D7141E	0.869789091262291
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	20	2		#D7141E	0.845519904517736
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	21	2	images|spatial	#D7141E	0.816319845894321
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	22	2	control	#D7141E	0.810345024077089
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	23	2	time	#D7141E	0.804496222455254
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	1	3	acoustic|listening|musical|music|pitch	#FFF1A9	0.11319467096138
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	2	3	noise|tones	#FEE188	0.249874722370687
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	3	3		#FD913D	0.50826342552737
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	4	3		#FC622F	0.651346279157327
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	5	3	frequency	#FC622F	0.694398397066916
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	6	3		#F03623	0.721566652765361
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	7	3		#FD913D	0.534261461186562
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	8	3	temperature	#FDAD4A	0.413672573704888
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	9	3		#FD913D	0.567500059487103
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	10	3	pleasant|unpleasant	#FDAD4A	0.492372043014218
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	11	3	anxiety	#FDAD4A	0.497948181911704
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	12	3		#FC622F	0.695525115025934
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	13	3		#F03623	0.783982580096493
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	14	3		#F03623	0.783948839943805
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	15	3		#D7141E	0.819003015564611
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	16	3	picture	#D7141E	0.849855467589953
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	17	3		#D7141E	0.878853193179812
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	18	3	value	#D7141E	0.872349391880317
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	19	3	cue	#D7141E	0.84461356399349
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	20	3	error|target	#D7141E	0.873858383978399
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	21	3	attention	#D7141E	0.860720302755614
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	22	3		#D7141E	0.872644730929826
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	23	3	number	#D7141E	0.851451757017894
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	1	4	voice	#FFF1A9	0.135746831822402
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	2	4		#FECB68	0.303104668133072
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	3	4	hearing	#FDAD4A	0.426935712811661
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	4	4		#FD913D	0.562696478416471
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	5	4	overt	#FC622F	0.607662779312697
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	6	4		#FC622F	0.615733642998315
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	7	4		#FD913D	0.584915954332561
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	8	4	nociceptive|nonpainful|painrelated	#FDAD4A	0.422032801046592
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	9	4	unpleasantness	#FDAD4A	0.484443260058644
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	10	4	skin|subjective	#FD913D	0.598456975927999
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	11	4	depression	#FC622F	0.609241676210869
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	12	4	experience	#FC622F	0.700193863618823
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	13	4	female	#F03623	0.733966714165937
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	14	4	male	#D7141E	0.803105026530887
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	15	4	pictures	#D7141E	0.822799051690169
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	16	4		#D7141E	0.893650225252506
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	17	4	perception	#F03623	0.763803088941525
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	18	4		#B10026	0.93409639445723
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	19	4		#B10026	0.934014799350421
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	20	4		#B10026	0.920368820092575
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	21	4	correct	#D7141E	0.891076044705189
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	22	4	work	#D7141E	0.888919932103818
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	23	4	memory	#D7141E	0.855388097433361
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	1	5	prosodic|prosody	#FFF1A9	0.185298462637522
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	2	5	phonetic	#FEE188	0.292558712334197
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	3	5	syllable|syllables	#FDAD4A	0.451606914539503
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	4	5		#FD913D	0.507909321042906
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	5	5	lip|production	#FECB68	0.334322482395088
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	6	5	somatotopic	#FEE188	0.283400351340125
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	7	5		#FC622F	0.688044910266247
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	8	5		#FC622F	0.68992267418552
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	9	5	empathy	#F03623	0.716928410718728
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	10	5		#F03623	0.770717814204339
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	11	5	disorder	#FC622F	0.6265622738571
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	12	5		#F03623	0.78471711135324
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	13	5		#F03623	0.793660332729768
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	14	5		#D7141E	0.801492280848132
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	15	5		#D7141E	0.818747692831434
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	16	5		#D7141E	0.850259476135681
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	17	5		#D7141E	0.867216309431627
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	18	5	mental	#D7141E	0.886622118205982
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	19	5	go	#B10026	0.924581021134879
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	20	5	object	#D7141E	0.824461669913338
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	21	5		#B10026	0.912985052503708
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	22	5		#D7141E	0.848910025310042
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	23	5	word|words	#F03623	0.743935977804782
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	1	6		#FD913D	0.564714678744869
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	2	6		#FD913D	0.5982420149834
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	3	6		#FC622F	0.62799945175459
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	4	6	vocal	#FEE188	0.276677849491552
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	5	6	articulatory	#FECB68	0.299677432991718
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	6	6		#FC622F	0.602352904155276
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	7	6	oddball	#FC622F	0.605561819015584
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	8	6	perceived	#FC622F	0.680546259040625
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	9	6	errorrelated	#FC622F	0.632585316498361
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	10	6	approach	#FC622F	0.69912710589352
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	11	6	schizophrenia	#FC622F	0.684224402611877
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	12	6	acquisition	#FC622F	0.661924106537129
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	13	6		#F03623	0.72343721504072
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	14	6		#FD913D	0.549300360910797
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	15	6		#FD913D	0.573172092234289
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	16	6		#FC622F	0.630018235845784
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	17	6		#D7141E	0.841461463455596
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	18	6		#B10026	0.905526882077087
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	19	6		#B10026	0.939934942477249
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	20	6	objects	#B10026	0.930567984199621
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	21	6		#B10026	0.9205158923913
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	22	6		#F03623	0.795746224916154
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	23	6	language|semantic	#FC622F	0.683392672024466
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	1	7	dopamine|dopaminergic	#FDAD4A	0.474892662993149
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	2	7		#FD913D	0.528670963990364
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	3	7		#F03623	0.72941667120219
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	4	7		#F03623	0.787375941736588
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	5	7		#D7141E	0.825010783202387
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	6	7		#D7141E	0.866908368398714
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	7	7		#D7141E	0.885470235145356
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	8	7		#D7141E	0.874753223378543
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	9	7		#D7141E	0.872452402614066
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	10	7		#D7141E	0.885465138207799
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	11	7		#D7141E	0.854203246927398
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	12	7		#D7141E	0.819148303109686
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	13	7	linguistic|spoken	#FD913D	0.546530783166694
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	14	7		#FDAD4A	0.491795204369326
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	15	7	comprehension|sentence|sentences|syntactic	#FECB68	0.366175257994349
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	16	7		#FD913D	0.567242521705438
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	17	7		#F03623	0.780404802840245
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	18	7	phonological|reading|read	#F03623	0.778688660528035
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	19	7		#B10026	0.922503376052833
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	20	7	perceptual|recognition	#B10026	0.948950110850455
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	21	7		#B10026	0.946176969072335
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	22	7		#D7141E	0.82753650238133
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	23	7	verb	#F03623	0.762975022269505
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	1	8	outcome|reward	#FD913D	0.503783564358988
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	2	8	anticipation	#FDAD4A	0.448999223479451
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	3	8	outcomes	#FD913D	0.521349372267862
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	4	8	choice|choices	#FC622F	0.639976587755247
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	5	8	decisions|probability	#F03623	0.783374883299623
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	6	8	reversal	#F03623	0.778530735488725
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	7	8	classification|incorrect	#F03623	0.710801679032116
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	8	8		#D7141E	0.895580493219851
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	9	8	agerelated|fluency|probes	#F03623	0.764095809340138
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	10	8	engaged	#D7141E	0.833449978712309
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	11	8	explicit|knowledge	#F03623	0.721646890616096
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	12	8		#F03623	0.754093764932557
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	13	8		#FC622F	0.611729715494934
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	14	8		#FD913D	0.544257331572713
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	15	8		#FD913D	0.555067155636504
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	16	8		#FC622F	0.602476975747933
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	17	8	lexical	#FC622F	0.69129507785537
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	18	8		#D7141E	0.863872134956528
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	19	8		#B10026	0.919929400937883
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	20	8		#B10026	0.977571462786307
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	21	8	encoding	#B10026	0.95234880888866
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	22	8	retrieval	#D7141E	0.838491505392016
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	23	8	verbal	#D7141E	0.834292614011528
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	1	9	incentive|monetary|money|rewards	#FEE188	0.223022484285524
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	2	9	loss	#FDAD4A	0.435028774493592
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	3	9		#FC622F	0.676959016016029
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	4	9		#F03623	0.781952447249595
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	5	9	decisionmaking	#F03623	0.718909649906882
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	6	9		#B10026	0.938829363474647
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	7	9		#B10026	0.945679119588799
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	8	9		#B10026	0.929394311685409
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	9	9		#B10026	0.916112623891373
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	10	9		#D7141E	0.838628623488005
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	11	9		#F03623	0.75734431304745
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	12	9		#F03623	0.708772464976558
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	13	9	noun	#FDAD4A	0.449568491889788
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	14	9	meaning	#FD913D	0.591480218673841
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	15	9	english	#FC622F	0.687042306432303
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	16	9	pseudoword|pseudowords	#FD913D	0.557064043501902
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	17	9		#F03623	0.789102284528066
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	18	9		#B10026	0.907661865143781
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	19	9	familiar|judgment	#B10026	0.920056102513325
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	20	9	pair|pairs	#D7141E	0.889784817100072
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	21	9		#B10026	0.986327963833026
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	22	9		#B10026	0.969099612566084
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	23	9	letter|working	#B10026	0.943428798493184
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	1	10	losses|reinforcement|win	#FECB68	0.379378710364801
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	2	10	gain	#FEE188	0.298210551782051
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	3	10	expectation	#FD913D	0.54135943677744
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	4	10	risk	#FC622F	0.695883963552167
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	5	10	fact	#F03623	0.716892280618416
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	6	10	associative	#D7141E	0.818166787633689
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	7	10	familiarity|judgments|old	#D7141E	0.864644925342212
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	8	10	contextual|text	#D7141E	0.847886185676095
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	9	10	recall|retrieved	#F03623	0.742644592163839
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	10	10	conceptual|semantically	#FD913D	0.589259478685047
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	11	10	grammatical|speakers	#FD913D	0.535590016704887
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	12	10	nouns	#FDAD4A	0.482171982124095
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	13	10	japanese	#FC622F	0.630555192680456
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	14	10	languages	#FC622F	0.642776428595039
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	15	10	written	#F03623	0.7478989328787
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	16	10	chinese|phonology	#F03623	0.745587945138579
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	17	10	orthographic	#D7141E	0.865849674972956
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	18	10		#B10026	0.953587689115033
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	19	10		#B10026	0.962807363654637
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	20	10	association|decision	#B10026	0.927302518211322
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	21	10	selection	#D7141E	0.859607329182662
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	22	10	letters	#B10026	0.903288274618622
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	23	10	demand|load	#B10026	0.92706187465601
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	1	11	conditioned|conditioning	#FECB68	0.348172379933136
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	2	11		#FC622F	0.62087280828902
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	3	11	drug|placebo	#F03623	0.712807680468767
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	4	11		#D7141E	0.882225004990892
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	5	11	associations	#F03623	0.766589258017265
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	6	11		#D7141E	0.889973584017167
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	7	11	episodic|recollection	#FC622F	0.681877972245596
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	8	11		#D7141E	0.848725811483693
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	9	11		#F03623	0.774884907008155
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	10	11	concepts	#FECB68	0.314334402499165
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	11	11		#FC622F	0.626551718295306
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	12	11		#FC622F	0.657754093105462
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	13	11	german	#FDAD4A	0.476897587529416
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	14	11	readers	#FC622F	0.678478330692428
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	15	11	character|name|naming	#F03623	0.799061703402381
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	16	11		#B10026	0.913372738901435
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	17	11	novel	#B10026	0.951744948209693
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	18	11		#B10026	0.968716343224452
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	19	11	child|children	#D7141E	0.817653045735861
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	20	11	adults	#B10026	0.957387703023294
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	21	11	ability|feedback|learning	#D7141E	0.828518664428256
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	22	11	cues|delay	#D7141E	0.848480298327563
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	23	11	attentional|difficulty|targets	#B10026	0.906885185030824
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	1	12	aversive|shock	#FD913D	0.528349720844213
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	2	12	reactivity	#FDAD4A	0.469699811075326
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	3	12	males|sex|women	#FC622F	0.697239649461728
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	4	12	animal	#FC622F	0.643524755744841
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	5	12	animals	#FDAD4A	0.458611398901488
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	6	12		#F03623	0.774266619435554
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	7	12	remember|subsequent	#FD913D	0.58381771992493
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	8	12	autobiographical|memories	#FEE188	0.274317756973658
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	9	12		#FC622F	0.698709097041197
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	10	12	violation|violations	#FECB68	0.325696418008688
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	11	12	aphasia	#FD913D	0.53737436534336
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	12	12	nonwords	#FDAD4A	0.454217051437228
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	13	12	dyslexia	#FC622F	0.67506690221101
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	14	12		#D7141E	0.891822921417345
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	15	12	priming	#D7141E	0.800740726939592
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	16	12		#B10026	0.952884414759247
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	17	12	category|repetition	#B10026	0.928268399023199
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	18	12		#B10026	0.965187428272107
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	19	12	developmental|development	#D7141E	0.839385852881135
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	20	12		#B10026	0.955260353543629
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	21	12	space	#D7141E	0.826935065455455
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	22	12		#B10026	0.947046232360218
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	23	12	color	#B10026	0.93060095462816
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	1	13	threat	#FDAD4A	0.405369674572785
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	2	13	regulation	#FDAD4A	0.470822081592654
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	3	13		#FC622F	0.68742306204571
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	4	13	masked	#FD913D	0.504491146388343
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	5	13	scene|scenes	#FD913D	0.513400676203492
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	6	13		#F03623	0.705139522786306
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	7	13	confidence|remembered	#FDAD4A	0.451485844395661
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	8	13		#F03623	0.740380694650615
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	9	13		#F03623	0.728730547073963
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	10	13	ambiguity|ambiguous	#FDAD4A	0.41608434950538
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	11	13		#FC622F	0.67914289831238
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	12	13		#D7141E	0.838357441854567
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	13	13	writing	#FC622F	0.681302897776557
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	14	13		#B10026	0.944638649558634
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	15	13	categorization|congruency|prime	#F03623	0.753814122315547
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	16	13		#B10026	0.967719634644372
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	17	13	mask	#D7141E	0.802473042717981
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	18	13		#B10026	0.985669081233721
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	19	13		#B10026	0.944530006638278
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	20	13		#B10026	0.939806262932748
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	21	13	conflict|congruent|incongruent	#D7141E	0.83269402137936
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	22	13	errors	#D7141E	0.872232891843454
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	23	13	maintenance|probe|wm	#D7141E	0.852130713683707
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	1	14	angry|fearful|happy	#FECB68	0.397042312968031
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	2	14		#FDAD4A	0.48731722775219
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	3	14	awareness|conscious|ptsd	#FDAD4A	0.455465330884133
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	4	14		#F03623	0.703153156385193
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	5	14	houses|photographs	#FECB68	0.357133198553407
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	6	14		#F03623	0.736623196157643
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	7	14	hits	#FD913D	0.554378624009242
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	8	14	famous	#FDAD4A	0.401415572705623
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	9	14	names	#FD913D	0.525692420230094
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	10	14	family	#FD913D	0.565499176112946
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	11	14	competition|mouth	#FC622F	0.684803659385924
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	12	14	abilities	#FC622F	0.640110897761793
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	13	14	implicit|unfamiliar	#F03623	0.781270064525399
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	14	14		#B10026	0.930375419713388
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	15	14	tom	#F03623	0.753293123106856
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	16	14		#B10026	0.979941590613152
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	17	14		#B10026	0.984887875627305
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	18	14	stop	#F03623	0.787862236133877
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	19	14	inhibition|inhibitory|nogo	#F03623	0.782773349324574
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	20	14	monitoring|stroop	#F03623	0.770461565143751
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	21	14	interference	#D7141E	0.87051137852111
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	22	14		#B10026	0.926871001691452
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	23	14	demands|executive	#B10026	0.905808503419831
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	1	15	anger	#FEE188	0.297551992053474
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	2	15	stress	#FECB68	0.35912383636737
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	3	15	feelings	#FDAD4A	0.445551915008126
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	4	15	salient	#FD913D	0.580836226590122
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	5	15	novelty	#FDAD4A	0.421496093806596
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	6	15	movie	#FD913D	0.527681007578843
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	7	15		#D7141E	0.831600679658702
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	8	15		#D7141E	0.862745631541587
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	9	15	longterm	#FD913D	0.588476556536958
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	10	15		#D7141E	0.842265973856
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	11	15	reasoning|relational	#F03623	0.733308918586191
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	12	15		#B10026	0.929358116620674
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	13	15	presentations	#FD913D	0.5498883178942
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	14	15		#B10026	0.941696206142651
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	15	15	identity	#F03623	0.781324778493813
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	16	15		#B10026	1
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	17	15	strategies|strategy	#D7141E	0.859329720568541
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	18	15	card|cards	#F03623	0.73269835615585
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	19	15	gonogo	#D7141E	0.830098121077961
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	20	15		#D7141E	0.894005619924395
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	21	15	switching|switch	#D7141E	0.808914689990029
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	22	15		#B10026	0.91032344766472
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	23	15	2back|rule	#D7141E	0.854268412494469
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	1	16	emotionally|mood|personality|sadness	#FEE188	0.273307151336585
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	2	16	disgust|sexual	#FECB68	0.356739129125906
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	3	16	olfactory	#FECB68	0.334275755876529
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	4	16	physiological	#FD913D	0.572421416090423
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	5	16	depressed|depressive|habituation	#FECB68	0.371112612846968
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	6	16	schizophrenic	#FD913D	0.510148105164148
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	7	16	colors|contexts	#FC622F	0.621650902890827
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	8	16	aging|encoded	#FC622F	0.606161953252112
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	9	16	goal	#FD913D	0.537387271289971
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	10	16		#D7141E	0.81692710030481
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	11	16	autism|autistic|nonverbal	#FC622F	0.636458103580058
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	12	16		#B10026	0.906123509430454
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	13	16	bottomup|repetitions	#F03623	0.706017931293433
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	14	16	adaptation	#F03623	0.757872934315561
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	15	16	irrelevant	#B10026	0.913719199981157
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	16	16	distractor|distractors	#F03623	0.733803386347866
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	17	16		#B10026	0.966288681147169
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	18	16	subtraction	#D7141E	0.815914382762875
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	19	16	1back|nback	#F03623	0.731530105500075
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	20	16	manipulation|rules	#D7141E	0.835796383998616
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	21	16		#B10026	0.939531351495601
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	22	16		#B10026	0.912812662509822
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	23	16	digit	#D7141E	0.873498395811507
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	1	17	avoidance	#FEE188	0.296479322720454
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	2	17		#FD913D	0.551880304278297
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	3	17	eating|food	#FECB68	0.395536263415305
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	4	17	taste	#FDAD4A	0.486713582504646
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	5	17	bipolar	#FDAD4A	0.430563757663426
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	6	17	illness|uncertainty	#FD913D	0.502349614985454
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	7	17	females|probabilistic	#FD913D	0.576749738941439
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	8	17	rejection	#FDAD4A	0.495644453005334
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	9	17	colour|paired	#FC622F	0.670987955548469
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	10	17		#D7141E	0.851911809822755
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	11	17		#D7141E	0.838374559368897
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	12	17		#D7141E	0.845620649771105
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	13	17	taskirrelevant	#FC622F	0.668420192840985
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	14	17		#D7141E	0.877399563322013
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	15	17	suppression	#F03623	0.768913507755579
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	16	17		#B10026	0.918008905569811
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	17	17	shifting|shortterm	#F03623	0.725297831040499
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	18	17	digits	#F03623	0.734435274723946
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	19	17	search	#F03623	0.798234682043876
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	20	17	counting|taskrelated	#F03623	0.716109423705206
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	21	17	topdown	#B10026	0.966317472545754
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	22	17	visuospatial	#F03623	0.767029684592563
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	23	17	arithmetic|calculation|solving	#F03623	0.771130434282326
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	1	18	addiction|craving|drugs	#FDAD4A	0.475519615332748
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	2	18	allele|genotype|polymorphism	#FDAD4A	0.409439131333628
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	3	18	motivation	#FECB68	0.345097449432104
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	4	18	heart	#FD913D	0.582707128192152
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	5	18	sleep	#FC622F	0.676975863908837
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	6	18	expectancy	#FC622F	0.685676793970209
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	7	18	phasic|salience	#FC622F	0.622952358935992
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	8	18	adolescence|adolescents	#FD913D	0.560701147203633
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	9	18	intelligence|tracking	#F03623	0.740256170427247
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	10	18		#D7141E	0.863249555751545
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	11	18	serial	#FD913D	0.542871094618413
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	12	18		#F03623	0.771704798498419
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	13	18	spatially|taskrelevant	#FD913D	0.597111948489108
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	14	18		#D7141E	0.832498061536756
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	15	18	attended|attend|unattended	#FC622F	0.680609816081311
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	16	18	rotation|shapes	#FC622F	0.677999879480607
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	17	18	rehearsal	#FC622F	0.681922998773157
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	18	18	learned	#FD913D	0.516079303212841
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	19	18		#D7141E	0.81095999017782
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	20	18	cued|preparatory	#F03623	0.75590319972617
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	21	18		#D7141E	0.879562077847929
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	22	18		#B10026	0.902757841040121
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	23	18	numbers|numerical	#F03623	0.775009587399726
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	1	19	future	#FD913D	0.566517955339645
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	2	19	negatively	#FECB68	0.393184783064703
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	3	19	distress|epilepsy|selfreported	#FECB68	0.325298172611091
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	4	19	anticipatory|cocaine|probabilities|smoking	#FD913D	0.501560366126929
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	5	19	alcohol|amount|impulsivity	#FD913D	0.561092990290799
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	6	19	game|success	#FC622F	0.65108429487381
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	7	19	adhd|childhood|engagement	#FC622F	0.647962707984597
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	8	19		#B10026	0.91176569437263
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	9	19		#B10026	0.929173699850634
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	10	19		#D7141E	0.845049577611089
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	11	19		#F03623	0.784523540242617
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	12	19	endogenous	#FDAD4A	0.498360326295844
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	13	19	cueing|invalid|orienting	#FD913D	0.529465272471062
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	14	19		#D7141E	0.849371722023273
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	15	19	multisensory	#F03623	0.722241563624576
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	16	19		#D7141E	0.870143634423965
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	17	19	shifts	#F03623	0.751598160708495
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	18	19	covert	#FC622F	0.657610435289063
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	19	19		#F03623	0.75807828453803
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	20	19	preparation	#FC622F	0.667596730799583
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	21	19	discrimination|training	#F03623	0.782072997996065
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	22	19	sequences	#FD913D	0.597213749538391
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	23	19		#F03623	0.789349388503898
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	1	20	personal|self|selfreferential|trait|traits	#FECB68	0.342954751710626
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	2	20	empathic|theory	#FDAD4A	0.438000841573979
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	3	20	attribution|intentional	#FFFFCC	0.0976687703856595
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	4	20	elderly|oscillations	#FECB68	0.34802773056357
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	5	20	antipsychotic|virtual	#FECB68	0.357725775495681
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	6	20		#D7141E	0.86967626058518
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	7	20	experiences	#FD913D	0.54478884427119
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	8	20	categorical|pressure	#FD913D	0.57024714781617
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	9	20	play|skills	#FD913D	0.536327117574313
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	10	20	automatic|trained	#FD913D	0.599096046989363
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	11	20		#FC622F	0.672070699256712
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	12	20	practice	#FD913D	0.570423661630448
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	13	20	visuomotor	#FD913D	0.530220615316396
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	14	20		#F03623	0.793966495259312
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	15	20	tool	#FC622F	0.66206504704166
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	16	20	vision	#FD913D	0.567328776770352
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	17	20	visually	#F03623	0.767059341111425
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	18	20	saccade|saccades|saccadic	#FD913D	0.534609033331037
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	19	20	locations	#FC622F	0.676893241543994
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	20	20	imagery|planning	#FC622F	0.680198196625492
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	21	20		#F03623	0.762077963762773
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	22	20	rest	#FC622F	0.632290656049859
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	23	20	sequence	#F03623	0.724101444126225
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	1	21	scenarios	#FFFFCC	0.0840986514606462
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	2	21	intention|intentions	#FECB68	0.302859148069384
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	3	21	causality|perspective	#FECB68	0.37970931328213
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	4	21	past	#FEE188	0.272094114862735
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	5	21		#F03623	0.761824966667912
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	6	21	episode	#FECB68	0.311501548892766
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	7	21	improvement	#FDAD4A	0.455878255981387
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	8	21	masking|retention	#FC622F	0.600307414676716
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	9	21		#F03623	0.737729335335751
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	10	21	dominant	#FD913D	0.56261037677615
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	11	21		#FD913D	0.521638888904244
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	12	21	sequential	#FDAD4A	0.450259517531466
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	13	21	fingers	#FEE188	0.239782624497517
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	14	21		#FC622F	0.640171823552376
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	15	21	gesture|gestures	#FDAD4A	0.448462196119228
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	16	21		#FC622F	0.658203992092858
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	17	21	hands	#FD913D	0.531806676150621
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	18	21		#F03623	0.720929824072213
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	19	21		#F03623	0.735683040807903
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	20	21	eye|position	#FC622F	0.688465671924548
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	21	21	execution	#FC622F	0.602179264184348
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	22	21	finger|sensorimotor	#FDAD4A	0.487398821455596
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	23	21		#FC622F	0.614864726677955
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	1	22	moral|stories|story	#FFFFCC	0
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	2	22	mentalizing|persons	#FEE188	0.245009488693944
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	3	22	default|restingstate	#FEE188	0.213531791964537
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	4	22	thinking|thought|thoughts	#FD913D	0.54433256608559
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	5	22	spontaneous	#FDAD4A	0.492401481944035
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	6	22	concentration|sensations	#FDAD4A	0.471732623275545
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	7	22	hierarchical|preference	#FD913D	0.523901773110265
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	8	22	effort|oral|simulation	#FECB68	0.357028133267153
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	9	22	interhemispheric|plasticity	#FDAD4A	0.428373113274388
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	10	22	imagined|imagine	#FDAD4A	0.42593381310967
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	11	22	tapping	#FDAD4A	0.422890250572502
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	12	22	foot|muscle|muscles|voluntary	#FEE188	0.238516933633743
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	13	22	limb	#FEE188	0.243636396250103
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	14	22	eyes|velocity	#FECB68	0.337343946760574
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	15	22	biological|gaze|videos	#FECB68	0.308959567030082
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	16	22	body	#FD913D	0.512147885454128
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	17	22	grasping|orientation|reaching	#FDAD4A	0.490846122215611
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	18	22		#F03623	0.705372454631732
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	19	22	mirror|shape	#D7141E	0.808129094197056
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	20	22	actions	#FC622F	0.636882571295887
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	21	22	action	#F03623	0.769858037035874
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	22	22		#FC622F	0.623687053615791
+5d74fb13-6dc2-3e3d-afce-4ba1b9fb4c0f	Goldstein RZ	23	22	hand|movements|sensory	#FD913D	0.512432132598592

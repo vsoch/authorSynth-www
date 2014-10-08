@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	1	1	auditory|speech	#FEE188	0.287033332491086
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	2	1		#FEE188	0.270852012053551
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	3	1	da|integration	#FECB68	0.382264466426988
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	4	1		#FDAD4A	0.499195120933224
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	5	1	physical|psychophysical|tactile	#FD913D	0.528512126345088
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	6	1		#FC622F	0.617672816960649
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	7	1	somatosensory|stimulation	#FD913D	0.526464908997786
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	8	1	painful|pain	#FC622F	0.667226007092618
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	9	1		#F03623	0.701960773765024
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	10	1	ratings	#FC622F	0.661147161731962
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	11	1	affective|affect	#F03623	0.710675210303234
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	12	1	emotions	#FC622F	0.68043138655587
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	13	1	expression|expressions|facial	#FDAD4A	0.402704807455329
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	14	1		#FD913D	0.53797622964728
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	15	1		#FD913D	0.536408429278507
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	16	1	emotion|motion|neutral	#FD913D	0.500205550911569
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	17	1	rating	#FD913D	0.563683623823892
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	18	1	negative|positive	#FDAD4A	0.476393105558457
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	19	1		#FDAD4A	0.493407763643937
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	20	1	ear|order	#FDAD4A	0.481522216499301
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	21	1	motor	#FECB68	0.372906120446916
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	22	1	visual	#FECB68	0.344044090955189
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	23	1	age|image|response	#FDAD4A	0.410309307505796
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	1	2	sound|sounds	#FFF1A9	0.195986724947794
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	2	2		#FEE188	0.268549923728862
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	3	2	audiovisual|bimodal|crossmodal	#FFF1A9	0.10919184397419
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	4	2		#FDAD4A	0.484816733379953
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	5	2		#FD913D	0.53038585025146
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	6	2		#FC622F	0.609825742111196
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	7	2	sensation	#FD913D	0.5553575054748
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	8	2	heat|noxious	#FD913D	0.575059315973641
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	9	2		#F03623	0.712385076618286
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	10	2		#F03623	0.760040293334439
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	11	2		#F03623	0.735988076762334
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	12	2	valence	#FD913D	0.592827966527181
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	13	2	person|social	#FD913D	0.534596341719489
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	14	2		#FD913D	0.553439224526208
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	15	2	face|faces	#FDAD4A	0.444922332047876
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	16	2		#FD913D	0.555183948472392
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	17	2		#FD913D	0.560826369687321
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	18	2		#FD913D	0.558763277094291
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	19	2		#FD913D	0.518932107691784
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	20	2		#FDAD4A	0.452225755294663
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	21	2	images|spatial	#FECB68	0.373608314374161
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	22	2	control	#FDAD4A	0.435055139717003
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	23	2	time	#FDAD4A	0.438265368037651
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	1	3	acoustic|listening|musical|music|pitch	#FEE188	0.259127789288398
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	2	3	noise|tones	#FEE188	0.223344819167663
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	3	3		#FECB68	0.346593158712962
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	4	3		#FDAD4A	0.418170523959895
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	5	3	frequency	#FDAD4A	0.450277717321995
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	6	3		#FC622F	0.631973391453901
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	7	3		#FC622F	0.608076467892213
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	8	3	temperature	#FDAD4A	0.444999299131958
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	9	3		#F03623	0.703983812832722
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	10	3	pleasant|unpleasant	#D7141E	0.829944816989649
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	11	3	anxiety	#FD913D	0.552855299851998
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	12	3		#FC622F	0.678122508981043
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	13	3		#FC622F	0.691673522804855
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	14	3		#FC622F	0.632762605972909
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	15	3		#FC622F	0.615924275722073
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	16	3	picture	#FD913D	0.563178459420191
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	17	3		#FD913D	0.576828513390955
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	18	3	value	#FC622F	0.637889047211088
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	19	3	cue	#FDAD4A	0.488801578477955
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	20	3	error|target	#FDAD4A	0.496304999956661
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	21	3	attention	#FECB68	0.377444199700802
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	22	3		#FDAD4A	0.44234372439693
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	23	3	number	#FDAD4A	0.458922256069691
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	1	4	voice	#FECB68	0.373365738751441
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	2	4		#FECB68	0.331818297846709
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	3	4	hearing	#FFF1A9	0.158317224576186
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	4	4		#FDAD4A	0.40036295179386
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	5	4	overt	#FD913D	0.503248353262113
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	6	4		#FD913D	0.522131528385429
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	7	4		#FC622F	0.630990048596609
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	8	4	nociceptive|nonpainful|painrelated	#FD913D	0.53689537258233
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	9	4	unpleasantness	#FC622F	0.600695723513457
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	10	4	skin|subjective	#F03623	0.730923571137534
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	11	4	depression	#FC622F	0.650769981748272
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	12	4	experience	#F03623	0.70652175220963
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	13	4	female	#FC622F	0.610286567010583
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	14	4	male	#F03623	0.707059463174097
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	15	4	pictures	#FC622F	0.607483326560268
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	16	4		#FD913D	0.597925505344388
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	17	4	perception	#FDAD4A	0.428970324461587
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	18	4		#FD913D	0.55841891460082
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	19	4		#FD913D	0.543935096858953
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	20	4		#FD913D	0.508453012722439
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	21	4	correct	#FD913D	0.506483454260926
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	22	4	work	#FDAD4A	0.455641071031233
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	23	4	memory	#FDAD4A	0.413318108696374
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	1	5	prosodic|prosody	#FECB68	0.356997042297213
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	2	5	phonetic	#FFF1A9	0.132028674456437
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	3	5	syllable|syllables	#FECB68	0.357982131591073
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	4	5		#FECB68	0.390928807493903
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	5	5	lip|production	#FFF1A9	0.161223199044462
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	6	5	somatotopic	#FDAD4A	0.473571157216796
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	7	5		#D7141E	0.805319883501191
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	8	5		#D7141E	0.83872405688153
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	9	5	empathy	#D7141E	0.849788166803931
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	10	5		#D7141E	0.828335272016097
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	11	5	disorder	#F03623	0.7241690066912
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	12	5		#F03623	0.739629346474117
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	13	5		#F03623	0.716263601072143
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	14	5		#FC622F	0.681165962903408
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	15	5		#FC622F	0.664175111445684
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	16	5		#FC622F	0.60369469267585
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	17	5		#FD913D	0.565992226243524
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	18	5	mental	#FD913D	0.517381857476718
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	19	5	go	#FD913D	0.579603624119822
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	20	5	object	#FDAD4A	0.418551837188181
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	21	5		#FD913D	0.516535781010076
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	22	5		#FDAD4A	0.469282437117348
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	23	5	word|words	#FECB68	0.398825544838636
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	1	6		#FD913D	0.588619648603287
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	2	6		#FD913D	0.57976770562652
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	3	6		#FDAD4A	0.492583282560986
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	4	6	vocal	#FECB68	0.359487687722877
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	5	6	articulatory	#FECB68	0.35345501848155
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	6	6		#FD913D	0.560990106384724
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	7	6	oddball	#FD913D	0.523462284595072
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	8	6	perceived	#F03623	0.786651784115573
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	9	6	errorrelated	#B10026	1
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	10	6	approach	#D7141E	0.817120548682582
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	11	6	schizophrenia	#F03623	0.72397656493116
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	12	6	acquisition	#FD913D	0.547525873967904
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	13	6		#FD913D	0.593902235073261
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	14	6		#FDAD4A	0.494629698453624
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	15	6		#FD913D	0.511562354706504
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	16	6		#FD913D	0.524034114041148
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	17	6		#FD913D	0.532872863473884
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	18	6		#FD913D	0.524041062740796
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	19	6		#FD913D	0.545921804431552
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	20	6	objects	#FDAD4A	0.494894937676458
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	21	6		#FD913D	0.536620531421804
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	22	6		#FDAD4A	0.475865283750701
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	23	6	language|semantic	#FDAD4A	0.409753703939549
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	1	7	dopamine|dopaminergic	#FD913D	0.519214762669348
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	2	7		#FD913D	0.577714869466762
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	3	7		#FC622F	0.660554562999985
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	4	7		#FC622F	0.669605013917379
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	5	7		#F03623	0.718924562177333
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	6	7		#F03623	0.763497028293275
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	7	7		#D7141E	0.873423851128509
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	8	7		#D7141E	0.875980378659467
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	9	7		#B10026	0.917314967680585
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	10	7		#F03623	0.731245428378494
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	11	7		#FC622F	0.668652345390478
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	12	7		#FD913D	0.586697513205289
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	13	7	linguistic|spoken	#FECB68	0.30068181378997
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	14	7		#FDAD4A	0.450843334659546
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	15	7	comprehension|sentence|sentences|syntactic	#FDAD4A	0.439536526619756
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	16	7		#FDAD4A	0.462938283637154
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	17	7		#FDAD4A	0.493074496016982
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	18	7	phonological|reading|read	#FDAD4A	0.472127461622312
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	19	7		#FD913D	0.532025678212033
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	20	7	perceptual|recognition	#FD913D	0.537674337106836
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	21	7		#FD913D	0.550725330789199
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	22	7		#FD913D	0.500272101681901
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	23	7	verb	#FD913D	0.500591584348524
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	1	8	outcome|reward	#FD913D	0.557676512795507
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	2	8	anticipation	#FD913D	0.550198751002265
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	3	8	outcomes	#FD913D	0.579017425507651
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	4	8	choice|choices	#FD913D	0.532461898249459
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	5	8	decisions|probability	#F03623	0.731468908812373
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	6	8	reversal	#B10026	0.960539320988373
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	7	8	classification|incorrect	#FC622F	0.620231076704977
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	8	8		#F03623	0.735229620400777
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	9	8	agerelated|fluency|probes	#FC622F	0.689515373603913
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	10	8	engaged	#FDAD4A	0.41416701852946
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	11	8	explicit|knowledge	#FD913D	0.58192737828046
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	12	8		#FD913D	0.526826074240087
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	13	8		#FDAD4A	0.469714513119445
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	14	8		#FDAD4A	0.436583600946017
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	15	8		#FDAD4A	0.422957137648292
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	16	8		#FDAD4A	0.44335321055168
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	17	8	lexical	#FDAD4A	0.399850371795943
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	18	8		#FDAD4A	0.478450308815675
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	19	8		#FD913D	0.520151600386625
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	20	8		#FD913D	0.546793396905575
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	21	8	encoding	#FD913D	0.530869027312566
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	22	8	retrieval	#FD913D	0.524502274566596
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	23	8	verbal	#FD913D	0.515032337303015
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	1	9	incentive|monetary|money|rewards	#FEE188	0.27737210632367
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	2	9	loss	#FD913D	0.546869124821824
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	3	9		#FC622F	0.663222676618814
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	4	9		#F03623	0.712285584427659
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	5	9	decisionmaking	#FC622F	0.689478757226343
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	6	9		#F03623	0.709033696844034
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	7	9		#FC622F	0.66689664768043
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	8	9		#FC622F	0.651242868760769
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	9	9		#FC622F	0.641492550008369
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	10	9		#FD913D	0.569688816908632
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	11	9		#FDAD4A	0.49493615221685
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	12	9		#FDAD4A	0.499064544112897
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	13	9	noun	#FD913D	0.564977630372517
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	14	9	meaning	#FECB68	0.348365514406411
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	15	9	english	#FECB68	0.359144077614044
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	16	9	pseudoword|pseudowords	#FDAD4A	0.439830512575647
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	17	9		#FDAD4A	0.446011551087107
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	18	9		#FD913D	0.508768307667417
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	19	9	familiar|judgment	#FDAD4A	0.462126174052207
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	20	9	pair|pairs	#FD913D	0.547919759625345
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	21	9		#FD913D	0.57609835855599
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	22	9		#FD913D	0.533986955737036
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	23	9	letter|working	#FDAD4A	0.498656386889646
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	1	10	losses|reinforcement|win	#FC622F	0.681294472916873
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	2	10	gain	#FECB68	0.364065943532917
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	3	10	expectation	#FECB68	0.381132669089707
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	4	10	risk	#D7141E	0.840662839413157
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	5	10	fact	#F03623	0.790348041353474
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	6	10	associative	#FDAD4A	0.437032791558239
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	7	10	familiarity|judgments|old	#FDAD4A	0.410664946191045
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	8	10	contextual|text	#FDAD4A	0.492004384192646
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	9	10	recall|retrieved	#FDAD4A	0.476432847567696
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	10	10	conceptual|semantically	#FDAD4A	0.426497627151697
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	11	10	grammatical|speakers	#FEE188	0.272566478821291
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	12	10	nouns	#FD913D	0.540268250061591
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	13	10	japanese	#FDAD4A	0.406232679423094
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	14	10	languages	#FECB68	0.318590754678431
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	15	10	written	#FEE188	0.278896605341736
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	16	10	chinese|phonology	#FEE188	0.251854564461378
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	17	10	orthographic	#FECB68	0.321611448695318
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	18	10		#FD913D	0.591333803455773
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	19	10		#FC622F	0.622615214047922
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	20	10	association|decision	#FC622F	0.606644710516619
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	21	10	selection	#FDAD4A	0.471502265952126
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	22	10	letters	#FDAD4A	0.454344233894817
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	23	10	demand|load	#FDAD4A	0.426555646235566
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	1	11	conditioned|conditioning	#FDAD4A	0.466196679050777
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	2	11		#FC622F	0.654729762411005
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	3	11	drug|placebo	#FD913D	0.580049084384947
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	4	11		#FC622F	0.696705056627372
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	5	11	associations	#FECB68	0.374316892477648
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	6	11		#FDAD4A	0.447502131232927
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	7	11	episodic|recollection	#FECB68	0.386079110489068
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	8	11		#FDAD4A	0.41556754158009
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	9	11		#FD913D	0.502944845815295
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	10	11	concepts	#FECB68	0.318747759426304
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	11	11		#FDAD4A	0.437420969501842
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	12	11		#FDAD4A	0.466627316071448
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	13	11	german	#FDAD4A	0.46980776534254
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	14	11	readers	#FDAD4A	0.455000628487863
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	15	11	character|name|naming	#FDAD4A	0.407103973081638
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	16	11		#FDAD4A	0.468289475279349
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	17	11	novel	#FD913D	0.521237001504845
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	18	11		#FC622F	0.655381695909469
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	19	11	child|children	#FC622F	0.662997749538431
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	20	11	adults	#FC622F	0.676815191091985
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	21	11	ability|feedback|learning	#FC622F	0.659104042037309
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	22	11	cues|delay	#FDAD4A	0.460449906941871
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	23	11	attentional|difficulty|targets	#FECB68	0.373276071931998
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	1	12	aversive|shock	#FC622F	0.684380575173871
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	2	12	reactivity	#FDAD4A	0.447898515469463
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	3	12	males|sex|women	#FC622F	0.64424774989469
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	4	12	animal	#FD913D	0.532751423362287
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	5	12	animals	#FECB68	0.327847296495584
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	6	12		#FECB68	0.36583492045168
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	7	12	remember|subsequent	#FFF1A9	0.191738305699761
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	8	12	autobiographical|memories	#FFF1A9	0.127003481786669
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	9	12		#FD913D	0.51447743469751
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	10	12	violation|violations	#FD913D	0.518197928964762
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	11	12	aphasia	#FDAD4A	0.404518054875
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	12	12	nonwords	#FEE188	0.283932231551773
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	13	12	dyslexia	#FC622F	0.608012374057303
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	14	12		#FD913D	0.530161418064475
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	15	12	priming	#FDAD4A	0.484564394955981
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	16	12		#FD913D	0.558306564865964
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	17	12	category|repetition	#FD913D	0.569593855051104
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	18	12		#FC622F	0.675941727468838
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	19	12	developmental|development	#FC622F	0.676708361289912
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	20	12		#FC622F	0.683722788973902
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	21	12	space	#FDAD4A	0.438740443941418
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	22	12		#FD913D	0.50716828480484
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	23	12	color	#FECB68	0.325002373443741
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	1	13	threat	#FDAD4A	0.45129468606447
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	2	13	regulation	#D7141E	0.883897487916375
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	3	13		#F03623	0.727105888604852
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	4	13	masked	#FD913D	0.502185836371728
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	5	13	scene|scenes	#FECB68	0.359714524111834
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	6	13		#FECB68	0.332707558059166
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	7	13	confidence|remembered	#FFFFCC	0.0055456488043435
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	8	13		#FECB68	0.385418330662474
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	9	13		#FC622F	0.604884744500196
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	10	13	ambiguity|ambiguous	#FEE188	0.29909647620806
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	11	13		#FDAD4A	0.489347331976272
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	12	13		#FDAD4A	0.457722879572533
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	13	13	writing	#FFF1A9	0.173952975719834
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	14	13		#FD913D	0.564692046009935
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	15	13	categorization|congruency|prime	#FD913D	0.573475912109154
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	16	13		#FC622F	0.623030848467431
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	17	13	mask	#FD913D	0.551802108947679
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	18	13		#F03623	0.768652850384197
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	19	13		#D7141E	0.811062705411477
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	20	13		#F03623	0.708807232805366
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	21	13	conflict|congruent|incongruent	#FD913D	0.571373676262177
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	22	13	errors	#FC622F	0.65862638506094
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	23	13	maintenance|probe|wm	#FDAD4A	0.422460656816637
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	1	14	angry|fearful|happy	#FECB68	0.39949911932045
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	2	14		#FD913D	0.589218351965235
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	3	14	awareness|conscious|ptsd	#F03623	0.79803469508957
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	4	14		#FC622F	0.699303594393621
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	5	14	houses|photographs	#FDAD4A	0.420199678987221
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	6	14		#FDAD4A	0.4281230873606
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	7	14	hits	#FFF1A9	0.165327598316943
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	8	14	famous	#FEE188	0.248610501825878
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	9	14	names	#F03623	0.779655105370594
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	10	14	family	#F03623	0.749659713531288
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	11	14	competition|mouth	#FEE188	0.268211981729243
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	12	14	abilities	#FDAD4A	0.456253274654208
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	13	14	implicit|unfamiliar	#FDAD4A	0.435324285968785
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	14	14		#FD913D	0.549827056481464
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	15	14	tom	#FDAD4A	0.437134810155051
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	16	14		#FC622F	0.691999803116667
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	17	14		#F03623	0.73381528644803
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	18	14	stop	#B10026	0.918552058107396
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	19	14	inhibition|inhibitory|nogo	#B10026	0.905528271608228
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	20	14	monitoring|stroop	#FDAD4A	0.483118345252068
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	21	14	interference	#FDAD4A	0.421891226648548
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	22	14		#FD913D	0.523116702291724
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	23	14	demands|executive	#FDAD4A	0.48437861826658
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	1	15	anger	#FECB68	0.337300908679977
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	2	15	stress	#FECB68	0.380778628006642
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	3	15	feelings	#FD913D	0.597391813835808
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	4	15	salient	#D7141E	0.860036378069726
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	5	15	novelty	#FEE188	0.275860673503872
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	6	15	movie	#FDAD4A	0.417462566999475
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	7	15		#FDAD4A	0.475676275540018
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	8	15		#FD913D	0.509259221926565
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	9	15	longterm	#FFF1A9	0.188885731727639
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	10	15		#FD913D	0.553898742643395
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	11	15	reasoning|relational	#FDAD4A	0.411041318462798
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	12	15		#FDAD4A	0.487827040331873
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	13	15	presentations	#FD913D	0.587956946123876
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	14	15		#FDAD4A	0.495524403773388
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	15	15	identity	#FD913D	0.509082692985675
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	16	15		#FC622F	0.687484971386329
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	17	15	strategies|strategy	#D7141E	0.851362318494371
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	18	15	card|cards	#FC622F	0.601463712879321
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	19	15	gonogo	#FC622F	0.696049141547516
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	20	15		#FC622F	0.67154147916637
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	21	15	switching|switch	#FECB68	0.332845841177362
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	22	15		#FDAD4A	0.475101240571657
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	23	15	2back|rule	#FDAD4A	0.472412270855141
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	1	16	emotionally|mood|personality|sadness	#FFF1A9	0.165257771607539
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	2	16	disgust|sexual	#FECB68	0.333342357407221
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	3	16	olfactory	#D7141E	0.834956964705961
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	4	16	physiological	#F03623	0.7406462216121
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	5	16	depressed|depressive|habituation	#FD913D	0.599866864491433
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	6	16	schizophrenic	#FD913D	0.505017271547342
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	7	16	colors|contexts	#FEE188	0.253328923530994
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	8	16	aging|encoded	#FDAD4A	0.477135817883612
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	9	16	goal	#FFF1A9	0.103221765817503
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	10	16		#FDAD4A	0.447330084456079
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	11	16	autism|autistic|nonverbal	#FECB68	0.361762008215043
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	12	16		#FDAD4A	0.490891426031905
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	13	16	bottomup|repetitions	#FEE188	0.298079798128055
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	14	16	adaptation	#FECB68	0.299641420291576
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	15	16	irrelevant	#FECB68	0.399166450723427
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	16	16	distractor|distractors	#FD913D	0.57301371148241
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	17	16		#FD913D	0.599695568289543
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	18	16	subtraction	#FD913D	0.576913291343278
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	19	16	1back|nback	#FD913D	0.55333278624854
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	20	16	manipulation|rules	#FDAD4A	0.474036682378346
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	21	16		#FDAD4A	0.46032532743804
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	22	16		#FECB68	0.377525285877184
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	23	16	digit	#FECB68	0.359671430876888
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	1	17	avoidance	#FEE188	0.296953296797491
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	2	17		#FECB68	0.374269234960544
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	3	17	eating|food	#FD913D	0.563684035617734
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	4	17	taste	#D7141E	0.805614059207389
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	5	17	bipolar	#FDAD4A	0.456073238329627
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	6	17	illness|uncertainty	#F03623	0.752101768656113
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	7	17	females|probabilistic	#FC622F	0.64401038634341
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	8	17	rejection	#FC622F	0.600368617732038
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	9	17	colour|paired	#FC622F	0.646360282209943
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	10	17		#FDAD4A	0.481358901808859
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	11	17		#FD913D	0.501098725471875
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	12	17		#FDAD4A	0.404933524083788
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	13	17	taskirrelevant	#FEE188	0.216702208094968
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	14	17		#FEE188	0.250248524420234
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	15	17	suppression	#FFF1A9	0.19288570406104
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	16	17		#FEE188	0.287101201507201
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	17	17	shifting|shortterm	#FFFFCC	0.093550700714294
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	18	17	digits	#FECB68	0.30129199504911
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	19	17	search	#FDAD4A	0.462243117393299
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	20	17	counting|taskrelated	#FD913D	0.522145707061533
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	21	17	topdown	#FDAD4A	0.483568510579117
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	22	17	visuospatial	#FFF1A9	0.127687619611451
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	23	17	arithmetic|calculation|solving	#FEE188	0.232063223434458
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	1	18	addiction|craving|drugs	#FEE188	0.218931216941247
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	2	18	allele|genotype|polymorphism	#FEE188	0.242871737169366
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	3	18	motivation	#FECB68	0.328169278911983
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	4	18	heart	#FDAD4A	0.422556119071545
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	5	18	sleep	#FECB68	0.396982578407881
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	6	18	expectancy	#FC622F	0.660440590948662
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	7	18	phasic|salience	#B10026	0.935229289144296
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	8	18	adolescence|adolescents	#F03623	0.778455321195238
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	9	18	intelligence|tracking	#F03623	0.776260469434321
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	10	18		#FD913D	0.563441209564902
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	11	18	serial	#FEE188	0.222348313011617
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	12	18		#FECB68	0.343533813310191
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	13	18	spatially|taskrelevant	#FFFFCC	0.0696860618050656
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	14	18		#FFF1A9	0.196812274337092
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	15	18	attended|attend|unattended	#FFFFCC	0.0351974200964825
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	16	18	rotation|shapes	#FEE188	0.227098386193115
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	17	18	rehearsal	#FECB68	0.318207777723463
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	18	18	learned	#FECB68	0.321174393593861
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	19	18		#FDAD4A	0.401164828390926
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	20	18	cued|preparatory	#FDAD4A	0.421392433454427
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	21	18		#FDAD4A	0.416632009002666
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	22	18		#FECB68	0.376735273564441
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	23	18	numbers|numerical	#FECB68	0.360741184181195
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	1	19	future	#FECB68	0.342295607627129
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	2	19	negatively	#FFF1A9	0.170701445167754
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	3	19	distress|epilepsy|selfreported	#FEE188	0.285017776159393
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	4	19	anticipatory|cocaine|probabilities|smoking	#FEE188	0.270765228830116
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	5	19	alcohol|amount|impulsivity	#FDAD4A	0.48687436349262
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	6	19	game|success	#FC622F	0.696998587750262
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	7	19	adhd|childhood|engagement	#F03623	0.786106925862654
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	8	19		#B10026	0.946681637698039
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	9	19		#D7141E	0.829331863871308
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	10	19		#FD913D	0.536785203090678
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	11	19		#FDAD4A	0.456125103301611
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	12	19	endogenous	#FECB68	0.324635892899261
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	13	19	cueing|invalid|orienting	#FEE188	0.254685238375096
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	14	19		#FEE188	0.222520919614357
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	15	19	multisensory	#FEE188	0.215826969205617
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	16	19		#FEE188	0.249859681659699
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	17	19	shifts	#FEE188	0.253817165817025
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	18	19	covert	#FECB68	0.362410715913889
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	19	19		#FECB68	0.324448519276331
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	20	19	preparation	#FEE188	0.287630024656589
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	21	19	discrimination|training	#FDAD4A	0.46218895814348
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	22	19	sequences	#FEE188	0.254854729884661
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	23	19		#FECB68	0.395405297886974
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	1	20	personal|self|selfreferential|trait|traits	#FDAD4A	0.41408259839235
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	2	20	empathic|theory	#FFFFCC	0.0910455258971067
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	3	20	attribution|intentional	#FFF1A9	0.107221235574777
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	4	20	elderly|oscillations	#FD913D	0.558761613060092
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	5	20	antipsychotic|virtual	#FECB68	0.331957689648748
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	6	20		#D7141E	0.846848770745048
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	7	20	experiences	#D7141E	0.824542430304383
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	8	20	categorical|pressure	#F03623	0.757468360609437
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	9	20	play|skills	#FD913D	0.509893404428863
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	10	20	automatic|trained	#FECB68	0.336750953548331
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	11	20		#FECB68	0.360657724563352
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	12	20	practice	#FFF1A9	0.188242502359179
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	13	20	visuomotor	#FFFFCC	0
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	14	20		#FEE188	0.274362277654642
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	15	20	tool	#FECB68	0.365913896943871
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	16	20	vision	#FFFFCC	0.0172723911124932
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	17	20	visually	#FEE188	0.205603685825108
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	18	20	saccade|saccades|saccadic	#FFFFCC	0.0776797879285717
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	19	20	locations	#FEE188	0.256534839794221
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	20	20	imagery|planning	#FEE188	0.260560172731289
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	21	20		#FECB68	0.383779412023835
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	22	20	rest	#FECB68	0.360432265711069
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	23	20	sequence	#FEE188	0.298437666888613
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	1	21	scenarios	#FEE188	0.223320607496579
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	2	21	intention|intentions	#FEE188	0.297427625747695
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	3	21	causality|perspective	#FFF1A9	0.1580905011091
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	4	21	past	#FDAD4A	0.428421470436675
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	5	21		#FC622F	0.626676702313513
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	6	21	episode	#FECB68	0.348980511999596
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	7	21	improvement	#FDAD4A	0.406213422064181
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	8	21	masking|retention	#FFF1A9	0.131716172367707
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	9	21		#FDAD4A	0.414712621296833
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	10	21	dominant	#FFF1A9	0.181092661678706
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	11	21		#FECB68	0.312566246815932
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	12	21	sequential	#FEE188	0.262491935339889
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	13	21	fingers	#FFFFCC	0.0506348297697573
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	14	21		#FEE188	0.285130568751393
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	15	21	gesture|gestures	#FEE188	0.236465437246074
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	16	21		#FEE188	0.287044763910174
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	17	21	hands	#FFFFCC	0.0924600628650419
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	18	21		#FEE188	0.263595927694838
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	19	21		#FECB68	0.300162378762373
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	20	21	eye|position	#FFF1A9	0.175033863295009
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	21	21	execution	#FECB68	0.367022286413832
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	22	21	finger|sensorimotor	#FEE188	0.262312330016611
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	23	21		#FECB68	0.321785320075894
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	1	22	moral|stories|story	#FFF1A9	0.10958735827305
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	2	22	mentalizing|persons	#FEE188	0.246016984895127
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	3	22	default|restingstate	#FECB68	0.342968614589088
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	4	22	thinking|thought|thoughts	#FEE188	0.264387957864185
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	5	22	spontaneous	#FECB68	0.320337651293238
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	6	22	concentration|sensations	#FDAD4A	0.461350182122333
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	7	22	hierarchical|preference	#FEE188	0.278344657198442
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	8	22	effort|oral|simulation	#FFF1A9	0.142300587583587
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	9	22	interhemispheric|plasticity	#FFF1A9	0.164449832201698
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	10	22	imagined|imagine	#FEE188	0.211422016549378
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	11	22	tapping	#FEE188	0.278650941632302
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	12	22	foot|muscle|muscles|voluntary	#FECB68	0.363096025813409
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	13	22	limb	#FEE188	0.274710544508415
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	14	22	eyes|velocity	#FFFFCC	0.0288242115681724
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	15	22	biological|gaze|videos	#FFF1A9	0.173332473057109
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	16	22	body	#FECB68	0.392133491842119
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	17	22	grasping|orientation|reaching	#FFF1A9	0.180547965095667
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	18	22		#FEE188	0.28056365223656
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	19	22	mirror|shape	#FEE188	0.298194106042108
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	20	22	actions	#FDAD4A	0.479302441250641
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	21	22	action	#FDAD4A	0.452696273625223
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	22	22		#FECB68	0.32186698894793
+dbc3cde7-b48a-3bdf-93fc-11d9b891d55f	Rogers GL	23	22	hand|movements|sensory	#FEE188	0.268462164425596

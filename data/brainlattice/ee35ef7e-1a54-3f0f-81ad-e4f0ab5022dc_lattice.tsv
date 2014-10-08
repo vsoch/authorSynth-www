@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	1	1	auditory|speech	#FDAD4A	0.491949816689178
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	2	1		#FDAD4A	0.428595921011555
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	3	1	da|integration	#FC622F	0.68051302543786
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	4	1		#FC622F	0.684638783876465
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	5	1	physical|psychophysical|tactile	#FD913D	0.572059572258002
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	6	1		#FD913D	0.536634502788003
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	7	1	somatosensory|stimulation	#FDAD4A	0.462331517808296
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	8	1	painful|pain	#FEE188	0.270505747611174
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	9	1		#FECB68	0.322439749538654
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	10	1	ratings	#FDAD4A	0.413542654629707
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	11	1	affective|affect	#FDAD4A	0.402528620945598
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	12	1	emotions	#FECB68	0.385909001895869
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	13	1	expression|expressions|facial	#FECB68	0.375035285177877
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	14	1		#FD913D	0.533771038259938
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	15	1		#FD913D	0.566872813062187
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	16	1	emotion|motion|neutral	#FD913D	0.526602414438339
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	17	1	rating	#FDAD4A	0.47199826381768
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	18	1	negative|positive	#FD913D	0.533841355038353
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	19	1		#F03623	0.753034053167974
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	20	1	ear|order	#F03623	0.790489179167318
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	21	1	motor	#F03623	0.742239857621375
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	22	1	visual	#D7141E	0.834410603317885
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	23	1	age|image|response	#F03623	0.782818071822959
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	1	2	sound|sounds	#FEE188	0.24786422224772
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	2	2		#FECB68	0.379013662728055
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	3	2	audiovisual|bimodal|crossmodal	#FDAD4A	0.41847874607841
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	4	2		#F03623	0.702267032284959
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	5	2		#FC622F	0.688870540707782
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	6	2		#FD913D	0.582501834264478
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	7	2	sensation	#FEE188	0.206183936471223
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	8	2	heat|noxious	#FEE188	0.230100962949952
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	9	2		#FECB68	0.328968002339343
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	10	2		#FDAD4A	0.403605742364169
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	11	2		#FDAD4A	0.424233466338253
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	12	2	valence	#FECB68	0.348922944649676
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	13	2	person|social	#FDAD4A	0.485715825699102
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	14	2		#FD913D	0.557988371525007
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	15	2	face|faces	#FC622F	0.604530881160226
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	16	2		#FC622F	0.638566149273084
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	17	2		#FC622F	0.646355357233838
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	18	2		#F03623	0.736098150045507
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	19	2		#D7141E	0.806073978122249
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	20	2		#D7141E	0.856976776578335
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	21	2	images|spatial	#D7141E	0.839497345563885
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	22	2	control	#D7141E	0.825258466579682
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	23	2	time	#F03623	0.792886704679176
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	1	3	acoustic|listening|musical|music|pitch	#FFF1A9	0.143677120132112
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	2	3	noise|tones	#FEE188	0.240183219301507
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	3	3		#FD913D	0.561644130403665
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	4	3		#F03623	0.720115739269509
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	5	3	frequency	#F03623	0.723745531477271
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	6	3		#F03623	0.708396178430623
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	7	3		#FECB68	0.339822475403705
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	8	3	temperature	#FFF1A9	0.196486905843901
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	9	3		#FECB68	0.324455813609494
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	10	3	pleasant|unpleasant	#FECB68	0.302762299275258
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	11	3	anxiety	#FEE188	0.244561472995824
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	12	3		#FDAD4A	0.498548772934496
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	13	3		#FC622F	0.630586437427231
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	14	3		#FC622F	0.635654543021487
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	15	3		#FC622F	0.689055999295729
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	16	3	picture	#F03623	0.746108502237685
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	17	3		#F03623	0.771190346339848
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	18	3	value	#F03623	0.787547975908785
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	19	3	cue	#D7141E	0.847481523548443
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	20	3	error|target	#B10026	0.904590798071849
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	21	3	attention	#B10026	0.901929258272046
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	22	3		#D7141E	0.878400885397517
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	23	3	number	#D7141E	0.848934359240674
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	1	4	voice	#FEE188	0.218580447030331
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	2	4		#FECB68	0.339566722726905
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	3	4	hearing	#FDAD4A	0.444759517055944
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	4	4		#FC622F	0.657239609372218
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	5	4	overt	#F03623	0.745801418126901
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	6	4		#FC622F	0.684879596875621
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	7	4		#FDAD4A	0.433570202557593
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	8	4	nociceptive|nonpainful|painrelated	#FFF1A9	0.193732387352241
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	9	4	unpleasantness	#FEE188	0.270766379695452
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	10	4	skin|subjective	#FDAD4A	0.433040786123152
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	11	4	depression	#FDAD4A	0.410834931334144
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	12	4	experience	#FD913D	0.521454357250751
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	13	4	female	#FD913D	0.586294496415266
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	14	4	male	#F03623	0.703183751041655
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	15	4	pictures	#F03623	0.715721866565728
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	16	4		#D7141E	0.850439894723991
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	17	4	perception	#D7141E	0.829047947526903
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	18	4		#B10026	0.95795624959629
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	19	4		#B10026	0.951015680592792
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	20	4		#B10026	0.944110001149421
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	21	4	correct	#D7141E	0.880378796155328
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	22	4	work	#D7141E	0.894045296612051
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	23	4	memory	#D7141E	0.828941660847736
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	1	5	prosodic|prosody	#FEE188	0.238399915140239
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	2	5	phonetic	#FECB68	0.300501226208069
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	3	5	syllable|syllables	#FD913D	0.533169654220632
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	4	5		#FC622F	0.613546004846465
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	5	5	lip|production	#FDAD4A	0.458216178940775
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	6	5	somatotopic	#FDAD4A	0.400167346602444
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	7	5		#FD913D	0.584781340667913
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	8	5		#FD913D	0.528444319453842
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	9	5	empathy	#FD913D	0.556531190142516
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	10	5		#FC622F	0.647674012395755
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	11	5	disorder	#FDAD4A	0.487838551304762
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	12	5		#FC622F	0.682071999532088
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	13	5		#F03623	0.759342996074467
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	14	5		#D7141E	0.817474996757185
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	15	5		#D7141E	0.852359613169802
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	16	5		#B10026	0.918844921182797
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	17	5		#B10026	0.972962867061113
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	18	5	mental	#B10026	0.951555506097692
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	19	5	go	#B10026	0.936331144530809
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	20	5	object	#D7141E	0.891542754960996
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	21	5		#B10026	0.954983062683403
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	22	5		#B10026	0.903694345631779
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	23	5	word|words	#D7141E	0.800792145887683
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	1	6		#FDAD4A	0.428974854849814
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	2	6		#FDAD4A	0.484562142683689
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	3	6		#FD913D	0.578961835180126
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	4	6	vocal	#FECB68	0.373698490211114
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	5	6	articulatory	#FDAD4A	0.414119622160523
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	6	6		#FC622F	0.661619590970198
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	7	6	oddball	#FD913D	0.591239911833574
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	8	6	perceived	#FD913D	0.555902653029321
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	9	6	errorrelated	#FD913D	0.555387359081569
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	10	6	approach	#FD913D	0.584236481101478
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	11	6	schizophrenia	#FC622F	0.654076547887116
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	12	6	acquisition	#FC622F	0.614903806334508
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	13	6		#F03623	0.779652682153269
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	14	6		#F03623	0.731761846629488
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	15	6		#F03623	0.767878034755372
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	16	6		#D7141E	0.816719089536756
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	17	6		#B10026	0.936597319583257
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	18	6		#B10026	0.970834430978296
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	19	6		#B10026	0.979050196995289
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	20	6	objects	#B10026	0.969914349501376
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	21	6		#B10026	0.961787773859754
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	22	6		#D7141E	0.891916607349991
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	23	6	language|semantic	#D7141E	0.809844680479508
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	1	7	dopamine|dopaminergic	#FEE188	0.234556965720718
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	2	7		#FEE188	0.270363182976817
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	3	7		#FD913D	0.529204892691846
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	4	7		#FC622F	0.65727038000533
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	5	7		#F03623	0.724088082272984
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	6	7		#D7141E	0.82081391895147
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	7	7		#D7141E	0.819483095273032
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	8	7		#F03623	0.780190987173905
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	9	7		#F03623	0.761157903874767
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	10	7		#D7141E	0.827232928317755
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	11	7		#D7141E	0.814960585704646
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	12	7		#D7141E	0.819464062456128
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	13	7	linguistic|spoken	#FC622F	0.63686253198811
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	14	7		#FC622F	0.698070764221331
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	15	7	comprehension|sentence|sentences|syntactic	#FC622F	0.636142269163778
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	16	7		#F03623	0.771001624878399
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	17	7		#D7141E	0.886453131165529
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	18	7	phonological|reading|read	#D7141E	0.846106554488746
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	19	7		#B10026	0.953674837818516
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	20	7	perceptual|recognition	#B10026	0.924834978503244
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	21	7		#B10026	0.963341252755737
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	22	7		#B10026	0.90337758519283
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	23	7	verb	#D7141E	0.892035353431551
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	1	8	outcome|reward	#FEE188	0.212600596128768
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	2	8	anticipation	#FFF1A9	0.190881907050502
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	3	8	outcomes	#FEE188	0.221550212366077
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	4	8	choice|choices	#FDAD4A	0.435725457657178
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	5	8	decisions|probability	#FC622F	0.664178795415587
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	6	8	reversal	#F03623	0.715415525967168
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	7	8	classification|incorrect	#FC622F	0.654994684465229
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	8	8		#F03623	0.794933297410398
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	9	8	agerelated|fluency|probes	#FC622F	0.695251158631084
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	10	8	engaged	#F03623	0.7824576373291
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	11	8	explicit|knowledge	#F03623	0.739320748269495
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	12	8		#D7141E	0.824168718103715
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	13	8		#F03623	0.760998466828927
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	14	8		#F03623	0.725306611302424
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	15	8		#F03623	0.726312489232086
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	16	8		#F03623	0.765265105410706
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	17	8	lexical	#F03623	0.793159682159168
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	18	8		#D7141E	0.889369402532034
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	19	8		#B10026	0.924396534589195
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	20	8		#B10026	0.939294470037679
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	21	8	encoding	#D7141E	0.844449852804961
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	22	8	retrieval	#D7141E	0.824819864454886
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	23	8	verbal	#B10026	0.905325292600419
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	1	9	incentive|monetary|money|rewards	#FFFFCC	0.0396567773653314
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	2	9	loss	#FFF1A9	0.179069175160086
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	3	9		#FECB68	0.397037641622314
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	4	9		#FD913D	0.526182515088851
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	5	9	decisionmaking	#FD913D	0.53946046726629
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	6	9		#F03623	0.77815541938063
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	7	9		#F03623	0.770343063733129
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	8	9		#F03623	0.774565841143744
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	9	9		#F03623	0.794854223078209
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	10	9		#D7141E	0.835080431779008
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	11	9		#D7141E	0.839489335868798
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	12	9		#D7141E	0.82624972060707
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	13	9	noun	#F03623	0.725505936579412
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	14	9	meaning	#FC622F	0.682916662196406
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	15	9	english	#F03623	0.704727743471927
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	16	9	pseudoword|pseudowords	#FC622F	0.696611264643065
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	17	9		#D7141E	0.834458366512526
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	18	9		#D7141E	0.895158723232477
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	19	9	familiar|judgment	#D7141E	0.865731655539783
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	20	9	pair|pairs	#D7141E	0.832283159232906
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	21	9		#B10026	0.964444223730657
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	22	9		#B10026	0.985993633046966
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	23	9	letter|working	#B10026	0.977482232579261
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	1	10	losses|reinforcement|win	#FFF1A9	0.123835922279502
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	2	10	gain	#FFF1A9	0.106652475752536
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	3	10	expectation	#FECB68	0.318172014335511
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	4	10	risk	#FECB68	0.383019977292503
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	5	10	fact	#FD913D	0.550550633586412
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	6	10	associative	#FC622F	0.657623816753516
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	7	10	familiarity|judgments|old	#FC622F	0.700336601744571
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	8	10	contextual|text	#FDAD4A	0.482482025916481
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	9	10	recall|retrieved	#FD913D	0.580663505514007
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	10	10	conceptual|semantically	#FC622F	0.667124974735739
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	11	10	grammatical|speakers	#F03623	0.736454371926091
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	12	10	nouns	#F03623	0.792614880445956
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	13	10	japanese	#FC622F	0.645855207158424
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	14	10	languages	#FC622F	0.676526339412102
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	15	10	written	#FC622F	0.657915252173695
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	16	10	chinese|phonology	#FC622F	0.687469633229999
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	17	10	orthographic	#F03623	0.775308141155683
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	18	10		#D7141E	0.897093215275452
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	19	10		#B10026	0.903333334128937
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	20	10	association|decision	#D7141E	0.823662423600349
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	21	10	selection	#B10026	0.916867261092899
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	22	10	letters	#B10026	0.98213231675983
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	23	10	demand|load	#B10026	0.925909992491287
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	1	11	conditioned|conditioning	#FFFFCC	0.0155793847932606
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	2	11		#FEE188	0.256620035223186
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	3	11	drug|placebo	#FECB68	0.384122877491941
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	4	11		#FD913D	0.589292328502135
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	5	11	associations	#FC622F	0.621576775448987
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	6	11		#FC622F	0.676205341988404
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	7	11	episodic|recollection	#FDAD4A	0.442691130517982
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	8	11		#FC622F	0.650962445524751
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	9	11		#F03623	0.797270479178217
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	10	11	concepts	#FDAD4A	0.49031895730624
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	11	11		#D7141E	0.829293185901169
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	12	11		#D7141E	0.842448448993393
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	13	11	german	#FC622F	0.656684027070365
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	14	11	readers	#F03623	0.775472686518125
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	15	11	character|name|naming	#F03623	0.792176489472128
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	16	11		#D7141E	0.84255095001599
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	17	11	novel	#D7141E	0.855915904516637
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	18	11		#D7141E	0.884837190020395
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	19	11	child|children	#D7141E	0.818218230642848
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	20	11	adults	#B10026	0.9101580454694
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	21	11	ability|feedback|learning	#D7141E	0.826267756844754
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	22	11	cues|delay	#B10026	0.90634922432766
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	23	11	attentional|difficulty|targets	#B10026	0.981173214401022
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	1	12	aversive|shock	#FFF1A9	0.129104427378966
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	2	12	reactivity	#FFF1A9	0.149069597445395
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	3	12	males|sex|women	#FDAD4A	0.449968342789523
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	4	12	animal	#FDAD4A	0.426572849667083
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	5	12	animals	#FECB68	0.379209116455208
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	6	12		#FC622F	0.602118866379887
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	7	12	remember|subsequent	#FDAD4A	0.489402229097043
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	8	12	autobiographical|memories	#FFF1A9	0.121670096169385
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	9	12		#F03623	0.780256936207251
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	10	12	violation|violations	#FDAD4A	0.449507709261079
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	11	12	aphasia	#F03623	0.752284345367443
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	12	12	nonwords	#FC622F	0.670139127677625
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	13	12	dyslexia	#F03623	0.726118046681074
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	14	12		#B10026	0.907359960628255
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	15	12	priming	#F03623	0.738675220240168
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	16	12		#B10026	0.904005663143383
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	17	12	category|repetition	#D7141E	0.848122470168133
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	18	12		#B10026	0.901455696939556
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	19	12	developmental|development	#F03623	0.774399809009578
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	20	12		#B10026	0.925010483966202
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	21	12	space	#B10026	0.904748371885414
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	22	12		#B10026	0.970028195702461
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	23	12	color	#B10026	0.954373254991531
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	1	13	threat	#FFF1A9	0.170873562260429
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	2	13	regulation	#FEE188	0.22128537664574
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	3	13		#FDAD4A	0.413931774591014
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	4	13	masked	#FD913D	0.535657556349059
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	5	13	scene|scenes	#FECB68	0.369584599463934
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	6	13		#FD913D	0.574045333859624
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	7	13	confidence|remembered	#FECB68	0.386193900032621
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	8	13		#FC622F	0.633090620938898
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	9	13		#F03623	0.777817415824069
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	10	13	ambiguity|ambiguous	#FDAD4A	0.441657819184864
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	11	13		#D7141E	0.835656056744294
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	12	13		#D7141E	0.884252524923331
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	13	13	writing	#FD913D	0.589526240159135
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	14	13		#B10026	0.924732101040863
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	15	13	categorization|congruency|prime	#F03623	0.759522864389636
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	16	13		#B10026	0.927205270521002
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	17	13	mask	#D7141E	0.829351315797072
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	18	13		#B10026	0.913231769955312
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	19	13		#D7141E	0.877735093736372
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	20	13		#D7141E	0.889983419980291
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	21	13	conflict|congruent|incongruent	#F03623	0.795511897101972
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	22	13	errors	#D7141E	0.833152160907755
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	23	13	maintenance|probe|wm	#D7141E	0.877513926161982
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	1	14	angry|fearful|happy	#FFF1A9	0.171547844410682
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	2	14		#FEE188	0.250598551644937
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	3	14	awareness|conscious|ptsd	#FEE188	0.254312511899401
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	4	14		#FD913D	0.524029608356651
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	5	14	houses|photographs	#FECB68	0.380002990132015
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	6	14		#FC622F	0.611570066997967
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	7	14	hits	#FDAD4A	0.469888537519361
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	8	14	famous	#FECB68	0.370933151296235
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	9	14	names	#FDAD4A	0.422792035893608
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	10	14	family	#FD913D	0.555719459737581
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	11	14	competition|mouth	#F03623	0.766378365780867
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	12	14	abilities	#F03623	0.706752097134182
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	13	14	implicit|unfamiliar	#F03623	0.707226819495978
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	14	14		#B10026	0.916353336111668
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	15	14	tom	#D7141E	0.840907498377072
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	16	14		#B10026	0.959656305193303
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	17	14		#B10026	0.937355529048535
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	18	14	stop	#F03623	0.759565501018808
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	19	14	inhibition|inhibitory|nogo	#FC622F	0.698067679890273
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	20	14	monitoring|stroop	#F03623	0.727820674996344
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	21	14	interference	#D7141E	0.807981924688569
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	22	14		#B10026	0.903609547551785
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	23	14	demands|executive	#D7141E	0.877417473706486
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	1	15	anger	#FFF1A9	0.140441966580348
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	2	15	stress	#FFFFCC	0.0930453342799666
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	3	15	feelings	#FEE188	0.286287079441277
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	4	15	salient	#FECB68	0.377239710179903
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	5	15	novelty	#FEE188	0.254037753362024
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	6	15	movie	#FDAD4A	0.487398607265563
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	7	15		#F03623	0.727801145020359
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	8	15		#D7141E	0.804900020622477
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	9	15	longterm	#FC622F	0.692546346003841
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	10	15		#D7141E	0.855952878003007
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	11	15	reasoning|relational	#FC622F	0.638113934860643
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	12	15		#D7141E	0.893400126593319
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	13	15	presentations	#FC622F	0.647853388786418
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	14	15		#B10026	0.903516522455752
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	15	15	identity	#F03623	0.766893047782968
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	16	15		#B10026	0.954511027949932
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	17	15	strategies|strategy	#F03623	0.749282275366656
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	18	15	card|cards	#FC622F	0.628537639546237
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	19	15	gonogo	#F03623	0.733736516079473
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	20	15		#D7141E	0.850111703363236
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	21	15	switching|switch	#F03623	0.792476228716654
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	22	15		#D7141E	0.879454524552755
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	23	15	2back|rule	#D7141E	0.847308568265232
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	1	16	emotionally|mood|personality|sadness	#FFF1A9	0.109831941275606
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	2	16	disgust|sexual	#FEE188	0.220100917336873
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	3	16	olfactory	#FFF1A9	0.111714276608395
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	4	16	physiological	#FEE188	0.259846376704323
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	5	16	depressed|depressive|habituation	#FFF1A9	0.197863055450966
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	6	16	schizophrenic	#FDAD4A	0.498623882316237
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	7	16	colors|contexts	#FDAD4A	0.439450726780084
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	8	16	aging|encoded	#FD913D	0.510010600234089
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	9	16	goal	#FC622F	0.611564886266358
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	10	16		#D7141E	0.851863996009056
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	11	16	autism|autistic|nonverbal	#FD913D	0.594971251036705
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	12	16		#B10026	0.904605904746695
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	13	16	bottomup|repetitions	#FC622F	0.685377713890858
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	14	16	adaptation	#F03623	0.725127516069282
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	15	16	irrelevant	#D7141E	0.898025166373436
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	16	16	distractor|distractors	#FC622F	0.696917265350334
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	17	16		#B10026	0.941419374759321
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	18	16	subtraction	#F03623	0.736602586387058
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	19	16	1back|nback	#F03623	0.75207254379031
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	20	16	manipulation|rules	#D7141E	0.816632154692945
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	21	16		#B10026	0.918873523644273
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	22	16		#D7141E	0.892190556892917
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	23	16	digit	#D7141E	0.827966154850581
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	1	17	avoidance	#FFFFCC	0
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	2	17		#FEE188	0.204875131057399
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	3	17	eating|food	#FFFFCC	0.0977496299008148
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	4	17	taste	#FFF1A9	0.187426461163643
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	5	17	bipolar	#FEE188	0.24376399912489
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	6	17	illness|uncertainty	#FDAD4A	0.404594650142983
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	7	17	females|probabilistic	#FDAD4A	0.445016523694677
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	8	17	rejection	#FECB68	0.318749969297185
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	9	17	colour|paired	#FC622F	0.62881781882862
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	10	17		#D7141E	0.884261076800806
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	11	17		#D7141E	0.8809982080447
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	12	17		#D7141E	0.900612576853124
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	13	17	taskirrelevant	#FC622F	0.696789290797422
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	14	17		#B10026	0.915880165939409
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	15	17	suppression	#D7141E	0.803597302405301
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	16	17		#B10026	0.972632514311249
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	17	17	shifting|shortterm	#D7141E	0.829835186867824
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	18	17	digits	#F03623	0.767210838992271
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	19	17	search	#D7141E	0.803224181532929
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	20	17	counting|taskrelated	#F03623	0.790540290259625
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	21	17	topdown	#D7141E	0.882448555000098
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	22	17	visuospatial	#D7141E	0.838933063476613
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	23	17	arithmetic|calculation|solving	#F03623	0.714127081295978
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	1	18	addiction|craving|drugs	#FFFFCC	0.0667943457059317
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	2	18	allele|genotype|polymorphism	#FFF1A9	0.0994160432471196
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	3	18	motivation	#FFF1A9	0.176712844479256
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	4	18	heart	#FECB68	0.312434790562629
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	5	18	sleep	#FEE188	0.284375861696273
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	6	18	expectancy	#FDAD4A	0.487190309103172
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	7	18	phasic|salience	#FECB68	0.329314787332082
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	8	18	adolescence|adolescents	#FECB68	0.372623208965618
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	9	18	intelligence|tracking	#FC622F	0.626797272232492
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	10	18		#D7141E	0.896270179149685
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	11	18	serial	#FC622F	0.604767681947776
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	12	18		#B10026	0.905149406545475
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	13	18	spatially|taskrelevant	#D7141E	0.808078306595016
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	14	18		#B10026	0.918765111223832
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	15	18	attended|attend|unattended	#F03623	0.705558318478559
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	16	18	rotation|shapes	#F03623	0.787890502806738
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	17	18	rehearsal	#D7141E	0.834719552902306
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	18	18	learned	#FC622F	0.61539870912772
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	19	18		#B10026	0.926081166333029
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	20	18	cued|preparatory	#D7141E	0.815790181596561
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	21	18		#B10026	0.953953828461359
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	22	18		#B10026	0.930399740409877
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	23	18	numbers|numerical	#D7141E	0.81110547134895
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	1	19	future	#FFF1A9	0.134176348733659
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	2	19	negatively	#FECB68	0.374065690757106
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	3	19	distress|epilepsy|selfreported	#FFF1A9	0.11510244119052
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	4	19	anticipatory|cocaine|probabilities|smoking	#FEE188	0.24088035870147
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	5	19	alcohol|amount|impulsivity	#FECB68	0.37926480616766
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	6	19	game|success	#FECB68	0.383684803918355
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	7	19	adhd|childhood|engagement	#FD913D	0.536826196587793
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	8	19		#F03623	0.745057780246966
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	9	19		#D7141E	0.818572974637648
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	10	19		#D7141E	0.862439267952721
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	11	19		#D7141E	0.859209321099711
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	12	19	endogenous	#FC622F	0.651242624486313
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	13	19	cueing|invalid|orienting	#F03623	0.728263265817793
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	14	19		#B10026	0.933974345280084
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	15	19	multisensory	#F03623	0.716938021977252
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	16	19		#B10026	0.931630100950543
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	17	19	shifts	#B10026	0.919878363357079
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	18	19	covert	#D7141E	0.828599148217027
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	19	19		#B10026	0.918267022902599
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	20	19	preparation	#D7141E	0.801710124590804
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	21	19	discrimination|training	#D7141E	0.892643488574883
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	22	19	sequences	#F03623	0.773530648560002
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	23	19		#D7141E	0.900647591729471
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	1	20	personal|self|selfreferential|trait|traits	#FFF1A9	0.163451505384449
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	2	20	empathic|theory	#FDAD4A	0.419796671021961
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	3	20	attribution|intentional	#FFF1A9	0.157571667715695
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	4	20	elderly|oscillations	#FEE188	0.281385311379948
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	5	20	antipsychotic|virtual	#FDAD4A	0.464672177625772
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	6	20		#F03623	0.709613055121705
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	7	20	experiences	#FDAD4A	0.447382065295355
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	8	20	categorical|pressure	#FD913D	0.521680433978105
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	9	20	play|skills	#FD913D	0.546958135740774
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	10	20	automatic|trained	#FC622F	0.654180552204273
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	11	20		#F03623	0.763473463148916
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	12	20	practice	#FC622F	0.665805606752198
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	13	20	visuomotor	#FC622F	0.63424717764715
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	14	20		#B10026	0.921765597022626
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	15	20	tool	#F03623	0.70998178254292
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	16	20	vision	#FC622F	0.665183744041019
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	17	20	visually	#D7141E	0.857322927739554
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	18	20	saccade|saccades|saccadic	#FC622F	0.6879639890887
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	19	20	locations	#B10026	0.922976108668007
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	20	20	imagery|planning	#F03623	0.800492703468766
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	21	20		#B10026	0.902913433241631
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	22	20	rest	#F03623	0.782155295172935
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	23	20	sequence	#D7141E	0.842533186720568
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	1	21	scenarios	#FFF1A9	0.164930761117183
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	2	21	intention|intentions	#FDAD4A	0.406886287993003
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	3	21	causality|perspective	#FECB68	0.348511949988348
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	4	21	past	#FFF1A9	0.134686386448967
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	5	21		#FD913D	0.59706696628121
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	6	21	episode	#FEE188	0.285702206639774
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	7	21	improvement	#FDAD4A	0.428568532343931
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	8	21	masking|retention	#FD913D	0.5815685782098
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	9	21		#F03623	0.737220992353402
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	10	21	dominant	#FD913D	0.588225991699427
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	11	21		#FC622F	0.601614443682884
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	12	21	sequential	#FD913D	0.590303079555185
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	13	21	fingers	#FECB68	0.393030368197846
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	14	21		#D7141E	0.840088781105768
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	15	21	gesture|gestures	#F03623	0.712453068664766
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	16	21		#D7141E	0.883023829894163
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	17	21	hands	#FC622F	0.682971906442023
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	18	21		#B10026	0.945988625826232
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	19	21		#B10026	0.974971466897462
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	20	21	eye|position	#D7141E	0.866281441821722
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	21	21	execution	#F03623	0.754230545170793
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	22	21	finger|sensorimotor	#FC622F	0.605379849205692
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	23	21		#F03623	0.740009301217532
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	1	22	moral|stories|story	#FFF1A9	0.167321429271807
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	2	22	mentalizing|persons	#FECB68	0.310893287066742
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	3	22	default|restingstate	#FFFFCC	0.0602390496781975
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	4	22	thinking|thought|thoughts	#FECB68	0.330493426930022
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	5	22	spontaneous	#FEE188	0.294090613162912
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	6	22	concentration|sensations	#FEE188	0.23866271738297
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	7	22	hierarchical|preference	#FECB68	0.350083565046494
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	8	22	effort|oral|simulation	#FD913D	0.543809873912793
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	9	22	interhemispheric|plasticity	#FECB68	0.390103806655044
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	10	22	imagined|imagine	#FDAD4A	0.481494039698991
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	11	22	tapping	#FDAD4A	0.432891697230735
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	12	22	foot|muscle|muscles|voluntary	#FEE188	0.247160155985728
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	13	22	limb	#FECB68	0.302953606902745
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	14	22	eyes|velocity	#FD913D	0.501926375213149
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	15	22	biological|gaze|videos	#FD913D	0.566503163959963
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	16	22	body	#F03623	0.775940242156873
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	17	22	grasping|orientation|reaching	#F03623	0.743542379049253
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	18	22		#B10026	0.939281235680156
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	19	22	mirror|shape	#B10026	0.9583734134861
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	20	22	actions	#B10026	0.95197285097994
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	21	22	action	#B10026	1
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	22	22		#F03623	0.758335961900787
+ee35ef7e-1a54-3f0f-81ad-e4f0ab5022dc	Salmelin R	23	22	hand|movements|sensory	#FC622F	0.624803370897123

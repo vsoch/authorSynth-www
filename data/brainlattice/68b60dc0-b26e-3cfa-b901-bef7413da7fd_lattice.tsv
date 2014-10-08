@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	1	1	auditory|speech	#FDAD4A	0.414286912034137
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	2	1		#FECB68	0.330263546757294
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	3	1	da|integration	#FD913D	0.558433255152663
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	4	1		#FD913D	0.562203990087837
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	5	1	physical|psychophysical|tactile	#FDAD4A	0.445469675577032
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	6	1		#F03623	0.715664118155999
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	7	1	somatosensory|stimulation	#F03623	0.753575879293329
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	8	1	painful|pain	#F03623	0.71161966865847
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	9	1		#F03623	0.795294347415494
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	10	1	ratings	#F03623	0.759847043893726
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	11	1	affective|affect	#F03623	0.721828015113392
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	12	1	emotions	#FC622F	0.635787576389451
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	13	1	expression|expressions|facial	#FD913D	0.523718430126427
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	14	1		#FC622F	0.696382706314048
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	15	1		#F03623	0.75168481136416
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	16	1	emotion|motion|neutral	#F03623	0.731231558907774
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	17	1	rating	#F03623	0.754635595283905
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	18	1	negative|positive	#F03623	0.747263194009832
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	19	1		#D7141E	0.872684930528151
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	20	1	ear|order	#D7141E	0.818201845165749
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	21	1	motor	#F03623	0.796822480890579
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	22	1	visual	#F03623	0.77284415795735
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	23	1	age|image|response	#D7141E	0.82579710268331
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	1	2	sound|sounds	#FFF1A9	0.152836374461008
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	2	2		#FEE188	0.281264420830955
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	3	2	audiovisual|bimodal|crossmodal	#FFF1A9	0.179927654122176
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	4	2		#FD913D	0.577549806036164
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	5	2		#FC622F	0.641293521494997
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	6	2		#F03623	0.73454958216943
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	7	2	sensation	#F03623	0.70862674051648
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	8	2	heat|noxious	#FC622F	0.678773336202526
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	9	2		#F03623	0.783747323117527
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	10	2		#D7141E	0.80736598312223
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	11	2		#F03623	0.777921673265686
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	12	2	valence	#FD913D	0.59648846137183
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	13	2	person|social	#FD913D	0.520563093631176
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	14	2		#F03623	0.716075878949145
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	15	2	face|faces	#FC622F	0.66580446806328
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	16	2		#D7141E	0.809545384557072
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	17	2		#D7141E	0.837375880425766
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	18	2		#D7141E	0.882606841742822
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	19	2		#D7141E	0.896762141148741
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	20	2		#D7141E	0.885250069928681
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	21	2	images|spatial	#D7141E	0.855852081780382
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	22	2	control	#D7141E	0.842726903246967
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	23	2	time	#D7141E	0.835192045541707
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	1	3	acoustic|listening|musical|music|pitch	#FFFFCC	0.0746450021469211
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	2	3	noise|tones	#FFF1A9	0.162376540096545
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	3	3		#FDAD4A	0.459189245708476
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	4	3		#FC622F	0.640259313588871
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	5	3	frequency	#FC622F	0.696839186633087
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	6	3		#D7141E	0.868194177087643
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	7	3		#F03623	0.74046939303638
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	8	3	temperature	#FD913D	0.531709373777281
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	9	3		#F03623	0.75604892155807
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	10	3	pleasant|unpleasant	#FC622F	0.657659543416958
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	11	3	anxiety	#F03623	0.719783123702858
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	12	3		#D7141E	0.822973880279619
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	13	3		#D7141E	0.850196429082419
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	14	3		#D7141E	0.815968843473575
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	15	3		#D7141E	0.832866226966883
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	16	3	picture	#D7141E	0.816151257595414
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	17	3		#D7141E	0.88771765341108
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	18	3	value	#D7141E	0.890425567153303
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	19	3	cue	#D7141E	0.868364662289841
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	20	3	error|target	#B10026	0.921886515627894
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	21	3	attention	#D7141E	0.819912576737834
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	22	3		#D7141E	0.836786259944514
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	23	3	number	#D7141E	0.833483520362074
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	1	4	voice	#FFF1A9	0.105187379659914
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	2	4		#FEE188	0.252417400963727
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	3	4	hearing	#FECB68	0.319332773777434
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	4	4		#FC622F	0.633984358828089
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	5	4	overt	#F03623	0.719837109267221
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	6	4		#F03623	0.765965335603544
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	7	4		#F03623	0.78136533321616
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	8	4	nociceptive|nonpainful|painrelated	#FD913D	0.579633537157309
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	9	4	unpleasantness	#FC622F	0.612206278170102
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	10	4	skin|subjective	#F03623	0.731071187236343
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	11	4	depression	#F03623	0.772145655031634
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	12	4	experience	#D7141E	0.839951013794091
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	13	4	female	#D7141E	0.806958461516179
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	14	4	male	#D7141E	0.874656292650059
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	15	4	pictures	#F03623	0.788876972444817
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	16	4		#D7141E	0.877723576710068
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	17	4	perception	#F03623	0.776240332055251
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	18	4		#B10026	0.908894595868806
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	19	4		#B10026	0.901065570570465
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	20	4		#D7141E	0.882473764590035
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	21	4	correct	#D7141E	0.813969286708773
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	22	4	work	#D7141E	0.827985798740478
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	23	4	memory	#F03623	0.73956440621205
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	1	5	prosodic|prosody	#FFF1A9	0.143825173664238
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	2	5	phonetic	#FEE188	0.200618328261015
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	3	5	syllable|syllables	#FDAD4A	0.478625971780756
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	4	5		#FC622F	0.602270636865014
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	5	5	lip|production	#FD913D	0.512230571289481
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	6	5	somatotopic	#FD913D	0.502092487389909
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	7	5		#B10026	0.910757384684682
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	8	5		#D7141E	0.880147290642456
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	9	5	empathy	#B10026	0.906939712621687
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	10	5		#B10026	0.942929922793097
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	11	5	disorder	#F03623	0.786871652055845
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	12	5		#B10026	0.908025735503972
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	13	5		#D7141E	0.870879208527831
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	14	5		#D7141E	0.815499827195256
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	15	5		#D7141E	0.80664006737499
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	16	5		#D7141E	0.824870025879498
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	17	5		#D7141E	0.819285762866302
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	18	5	mental	#D7141E	0.807000062905394
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	19	5	go	#D7141E	0.860726286869347
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	20	5	object	#FC622F	0.698890060611773
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	21	5		#D7141E	0.839401951783237
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	22	5		#F03623	0.757320241546505
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	23	5	word|words	#FC622F	0.658141046724499
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	1	6		#FD913D	0.571603739661197
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	2	6		#FD913D	0.594966102964169
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	3	6		#FC622F	0.655351351155996
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	4	6	vocal	#FDAD4A	0.487795843796745
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	5	6	articulatory	#FECB68	0.319545789124167
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	6	6		#F03623	0.743682159505839
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	7	6	oddball	#FC622F	0.676565892684614
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	8	6	perceived	#F03623	0.750392449008346
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	9	6	errorrelated	#B10026	0.900897555640997
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	10	6	approach	#D7141E	0.875673646699874
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	11	6	schizophrenia	#F03623	0.795367446626346
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	12	6	acquisition	#F03623	0.791883163339057
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	13	6		#F03623	0.712941712837391
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	14	6		#FDAD4A	0.498871034212869
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	15	6		#FD913D	0.525419681510098
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	16	6		#FD913D	0.583881796570999
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	17	6		#F03623	0.769506291066799
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	18	6		#D7141E	0.820023306157229
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	19	6		#D7141E	0.845084550685803
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	20	6	objects	#F03623	0.767895184659048
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	21	6		#D7141E	0.811594102616061
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	22	6		#F03623	0.700686465275114
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	23	6	language|semantic	#FD913D	0.585578862196783
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	1	7	dopamine|dopaminergic	#FD913D	0.581967767382694
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	2	7		#FC622F	0.601221584309982
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	3	7		#F03623	0.753257512669323
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	4	7		#D7141E	0.808159777349761
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	5	7		#D7141E	0.832162210885361
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	6	7		#D7141E	0.870094724233415
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	7	7		#B10026	0.924858069527122
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	8	7		#D7141E	0.881409018712566
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	9	7		#B10026	0.937161976391448
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	10	7		#F03623	0.790687305473316
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	11	7		#F03623	0.759240469313243
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	12	7		#FC622F	0.687392358675227
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	13	7	linguistic|spoken	#FECB68	0.365268719169025
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	14	7		#FDAD4A	0.423587801257477
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	15	7	comprehension|sentence|sentences|syntactic	#FECB68	0.32812821991753
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	16	7		#FD913D	0.500368973968397
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	17	7		#FC622F	0.69615610682634
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	18	7	phonological|reading|read	#F03623	0.722307110129304
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	19	7		#D7141E	0.812902887964002
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	20	7	perceptual|recognition	#F03623	0.776463398922389
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	21	7		#D7141E	0.818627445832953
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	22	7		#F03623	0.728557532962906
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	23	7	verb	#FC622F	0.694850085622536
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	1	8	outcome|reward	#FD913D	0.554311691086859
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	2	8	anticipation	#FD913D	0.546664175143337
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	3	8	outcomes	#FD913D	0.542338864549513
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	4	8	choice|choices	#FD913D	0.569931366256356
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	5	8	decisions|probability	#F03623	0.789881385078174
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	6	8	reversal	#F03623	0.747989897056006
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	7	8	classification|incorrect	#FC622F	0.602968873986111
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	8	8		#F03623	0.757300004514911
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	9	8	agerelated|fluency|probes	#FC622F	0.658088261999069
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	10	8	engaged	#FDAD4A	0.447542873051501
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	11	8	explicit|knowledge	#FD913D	0.556250910416728
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	12	8		#FD913D	0.531266211402343
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	13	8		#FDAD4A	0.460989546487
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	14	8		#FDAD4A	0.427768636042493
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	15	8		#FDAD4A	0.45458699392485
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	16	8		#FD913D	0.514212317377188
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	17	8	lexical	#FC622F	0.607817496544827
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	18	8		#F03623	0.743660341311044
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	19	8		#F03623	0.789760780473699
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	20	8		#D7141E	0.810096151060324
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	21	8	encoding	#F03623	0.775656800928679
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	22	8	retrieval	#FC622F	0.639826491757155
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	23	8	verbal	#F03623	0.766478052250983
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	1	9	incentive|monetary|money|rewards	#FECB68	0.306656160035698
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	2	9	loss	#FD913D	0.516418278404395
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	3	9		#FC622F	0.675953789604562
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	4	9		#F03623	0.754522380406475
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	5	9	decisionmaking	#FC622F	0.616574533509539
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	6	9		#F03623	0.776113799449365
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	7	9		#F03623	0.730002840514424
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	8	9		#F03623	0.701502776422038
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	9	9		#FC622F	0.638030437225984
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	10	9		#FD913D	0.556083098228944
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	11	9		#FDAD4A	0.478182084162856
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	12	9		#FDAD4A	0.463470392331638
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	13	9	noun	#FEE188	0.278604796087385
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	14	9	meaning	#FDAD4A	0.406335319957109
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	15	9	english	#FDAD4A	0.497628001070941
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	16	9	pseudoword|pseudowords	#FD913D	0.562520269967473
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	17	9		#FC622F	0.663943572825244
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	18	9		#F03623	0.76312876139394
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	19	9	familiar|judgment	#F03623	0.726345775740752
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	20	9	pair|pairs	#F03623	0.703273767914668
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	21	9		#D7141E	0.87783106811562
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	22	9		#D7141E	0.875515186377133
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	23	9	letter|working	#D7141E	0.876011553819589
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	1	10	losses|reinforcement|win	#FECB68	0.364527266744522
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	2	10	gain	#FECB68	0.363741993297969
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	3	10	expectation	#FC622F	0.657892382794912
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	4	10	risk	#FD913D	0.598628350049447
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	5	10	fact	#FC622F	0.609724257562105
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	6	10	associative	#FC622F	0.632045823358203
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	7	10	familiarity|judgments|old	#FD913D	0.534824261109566
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	8	10	contextual|text	#FD913D	0.549730765668226
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	9	10	recall|retrieved	#FECB68	0.350419645770979
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	10	10	conceptual|semantically	#FECB68	0.329642088504352
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	11	10	grammatical|speakers	#FECB68	0.316996537703333
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	12	10	nouns	#FEE188	0.260180405298624
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	13	10	japanese	#FECB68	0.399137469835763
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	14	10	languages	#FDAD4A	0.432326863797674
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	15	10	written	#FD913D	0.513600158710452
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	16	10	chinese|phonology	#FD913D	0.575214206109252
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	17	10	orthographic	#FC622F	0.648864309470733
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	18	10		#D7141E	0.803079649697
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	19	10		#D7141E	0.827480015978596
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	20	10	association|decision	#D7141E	0.825691291975427
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	21	10	selection	#D7141E	0.829205736073873
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	22	10	letters	#D7141E	0.810100008576527
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	23	10	demand|load	#F03623	0.753230020213209
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	1	11	conditioned|conditioning	#FECB68	0.379480338344933
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	2	11		#FC622F	0.697390524226822
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	3	11	drug|placebo	#F03623	0.7618882561872
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	4	11		#D7141E	0.843257654918871
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	5	11	associations	#FC622F	0.679777332908532
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	6	11		#FC622F	0.600499343336308
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	7	11	episodic|recollection	#FEE188	0.289200435300697
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	8	11		#FD913D	0.533173108478267
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	9	11		#FD913D	0.592513830017678
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	10	11	concepts	#FFF1A9	0.178876059733993
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	11	11		#FDAD4A	0.493871065555204
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	12	11		#FD913D	0.506835621473911
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	13	11	german	#FD913D	0.516663943782682
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	14	11	readers	#FC622F	0.683137816174537
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	15	11	character|name|naming	#FC622F	0.645978726584856
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	16	11		#F03623	0.744462050494213
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	17	11	novel	#F03623	0.79914141245412
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	18	11		#D7141E	0.828988640210891
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	19	11	child|children	#F03623	0.735344602128676
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	20	11	adults	#D7141E	0.89839127971102
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	21	11	ability|feedback|learning	#B10026	1
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	22	11	cues|delay	#D7141E	0.825555817170325
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	23	11	attentional|difficulty|targets	#D7141E	0.824344845247864
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	1	12	aversive|shock	#FC622F	0.614529305778983
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	2	12	reactivity	#FC622F	0.621249969604798
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	3	12	males|sex|women	#FC622F	0.615561914777247
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	4	12	animal	#FC622F	0.669799768486461
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	5	12	animals	#FECB68	0.38191993031099
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	6	12		#FD913D	0.527552730036287
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	7	12	remember|subsequent	#FECB68	0.316729033671743
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	8	12	autobiographical|memories	#FFFFCC	0
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	9	12		#FD913D	0.580562915494336
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	10	12	violation|violations	#FEE188	0.265035227599135
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	11	12	aphasia	#FD913D	0.519913394710958
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	12	12	nonwords	#FDAD4A	0.466278421215086
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	13	12	dyslexia	#FD913D	0.543034027515174
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	14	12		#F03623	0.747989087526399
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	15	12	priming	#FC622F	0.665716833565457
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	16	12		#F03623	0.799793525973886
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	17	12	category|repetition	#F03623	0.74224988742674
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	18	12		#D7141E	0.843782083415222
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	19	12	developmental|development	#F03623	0.723693244785681
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	20	12		#B10026	0.901451794912005
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	21	12	space	#D7141E	0.890220352197536
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	22	12		#D7141E	0.85991826703942
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	23	12	color	#F03623	0.742394060452716
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	1	13	threat	#FDAD4A	0.423227092710258
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	2	13	regulation	#FD913D	0.519167779204212
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	3	13		#FC622F	0.662318942450568
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	4	13	masked	#FD913D	0.549175409766712
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	5	13	scene|scenes	#FECB68	0.332361864614446
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	6	13		#FDAD4A	0.491194482697596
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	7	13	confidence|remembered	#FECB68	0.321755748906387
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	8	13		#FD913D	0.510897933365532
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	9	13		#FC622F	0.6310415176837
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	10	13	ambiguity|ambiguous	#FECB68	0.346187990582524
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	11	13		#FC622F	0.628650867181607
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	12	13		#F03623	0.752417571328105
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	13	13	writing	#FD913D	0.597870846981957
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	14	13		#D7141E	0.814776212341953
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	15	13	categorization|congruency|prime	#FC622F	0.62339977963682
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	16	13		#D7141E	0.836199142790738
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	17	13	mask	#F03623	0.736070876681311
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	18	13		#B10026	0.921580586218487
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	19	13		#B10026	0.939108504881009
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	20	13		#D7141E	0.899039718790109
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	21	13	conflict|congruent|incongruent	#F03623	0.769464166884934
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	22	13	errors	#D7141E	0.847561428168738
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	23	13	maintenance|probe|wm	#F03623	0.708295640192827
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	1	14	angry|fearful|happy	#FEE188	0.245916526801911
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	2	14		#FECB68	0.393426497243568
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	3	14	awareness|conscious|ptsd	#FDAD4A	0.458490547556097
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	4	14		#FC622F	0.655354560009847
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	5	14	houses|photographs	#FECB68	0.331431730904228
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	6	14		#FD913D	0.574877663969367
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	7	14	hits	#FECB68	0.352859980444587
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	8	14	famous	#FECB68	0.32217414811734
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	9	14	names	#FECB68	0.33710825237827
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	10	14	family	#FD913D	0.504121847927666
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	11	14	competition|mouth	#FDAD4A	0.473840487926653
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	12	14	abilities	#F03623	0.749832857367719
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	13	14	implicit|unfamiliar	#FC622F	0.646248742083348
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	14	14		#D7141E	0.816174431352779
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	15	14	tom	#FD913D	0.591862418180705
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	16	14		#D7141E	0.86105621462503
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	17	14		#D7141E	0.885291438207839
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	18	14	stop	#D7141E	0.850187116005297
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	19	14	inhibition|inhibitory|nogo	#B10026	0.912106281449453
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	20	14	monitoring|stroop	#FC622F	0.672321931992983
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	21	14	interference	#F03623	0.715820066282348
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	22	14		#F03623	0.795909358766013
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	23	14	demands|executive	#F03623	0.72188755216548
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	1	15	anger	#FFF1A9	0.1676845980868
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	2	15	stress	#FEE188	0.213171936946371
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	3	15	feelings	#FD913D	0.502408658264199
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	4	15	salient	#FD913D	0.523259195594086
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	5	15	novelty	#FECB68	0.39918558757133
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	6	15	movie	#FECB68	0.317156283288729
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	7	15		#FC622F	0.637197333835643
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	8	15		#F03623	0.707963644816661
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	9	15	longterm	#FDAD4A	0.488225246887357
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	10	15		#FC622F	0.683714625545302
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	11	15	reasoning|relational	#FDAD4A	0.409609290912745
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	12	15		#F03623	0.760167523077093
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	13	15	presentations	#FD913D	0.559182220202403
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	14	15		#F03623	0.791244877602018
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	15	15	identity	#FC622F	0.632103920918859
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	16	15		#D7141E	0.87901296529002
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	17	15	strategies|strategy	#FC622F	0.677755156717997
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	18	15	card|cards	#FC622F	0.659964436014551
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	19	15	gonogo	#B10026	0.938576038628033
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	20	15		#D7141E	0.862340795589198
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	21	15	switching|switch	#FC622F	0.674871924553343
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	22	15		#F03623	0.772781030913488
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	23	15	2back|rule	#FC622F	0.6661741757913
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	1	16	emotionally|mood|personality|sadness	#FEE188	0.204282354964138
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	2	16	disgust|sexual	#FDAD4A	0.444319084210602
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	3	16	olfactory	#FDAD4A	0.480243762383494
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	4	16	physiological	#FC622F	0.616789763119788
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	5	16	depressed|depressive|habituation	#FECB68	0.329022917414415
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	6	16	schizophrenic	#FDAD4A	0.474719599422601
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	7	16	colors|contexts	#FDAD4A	0.4484227050803
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	8	16	aging|encoded	#FDAD4A	0.401925628183763
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	9	16	goal	#FECB68	0.386815214304786
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	10	16		#FC622F	0.669203486634504
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	11	16	autism|autistic|nonverbal	#FD913D	0.576271136820282
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	12	16		#F03623	0.734216425108799
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	13	16	bottomup|repetitions	#FD913D	0.524906539318327
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	14	16	adaptation	#FD913D	0.59984973813266
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	15	16	irrelevant	#F03623	0.739065072340045
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	16	16	distractor|distractors	#F03623	0.789408590827099
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	17	16		#D7141E	0.860266816686282
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	18	16	subtraction	#FC622F	0.653203231549027
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	19	16	1back|nback	#FD913D	0.520396074680763
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	20	16	manipulation|rules	#FC622F	0.635919864775078
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	21	16		#F03623	0.778110399856373
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	22	16		#FC622F	0.689678509966753
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	23	16	digit	#FD913D	0.598506873702335
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	1	17	avoidance	#FECB68	0.33774853886354
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	2	17		#FDAD4A	0.484107394102453
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	3	17	eating|food	#FECB68	0.399745852843696
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	4	17	taste	#FD913D	0.588762470052397
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	5	17	bipolar	#FEE188	0.29922736371177
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	6	17	illness|uncertainty	#FD913D	0.596353311581637
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	7	17	females|probabilistic	#FDAD4A	0.414506231629445
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	8	17	rejection	#FEE188	0.235209125345293
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	9	17	colour|paired	#FD913D	0.59805669739442
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	10	17		#F03623	0.721866627216159
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	11	17		#F03623	0.715284543529634
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	12	17		#F03623	0.715781172892615
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	13	17	taskirrelevant	#FD913D	0.598042899466766
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	14	17		#F03623	0.747795568299164
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	15	17	suppression	#FC622F	0.657708403870535
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	16	17		#D7141E	0.833024625344707
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	17	17	shifting|shortterm	#FC622F	0.627831674168783
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	18	17	digits	#FD913D	0.584085918309933
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	19	17	search	#F03623	0.714848787422159
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	20	17	counting|taskrelated	#F03623	0.726678984718271
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	21	17	topdown	#FC622F	0.673635878484878
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	22	17	visuospatial	#FC622F	0.615837752816639
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	23	17	arithmetic|calculation|solving	#FDAD4A	0.47601860030823
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	1	18	addiction|craving|drugs	#FECB68	0.330122103534912
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	2	18	allele|genotype|polymorphism	#FEE188	0.233873997310448
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	3	18	motivation	#FECB68	0.360732328615523
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	4	18	heart	#FD913D	0.527708838201955
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	5	18	sleep	#FD913D	0.591830002225915
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	6	18	expectancy	#FD913D	0.578689346244786
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	7	18	phasic|salience	#FD913D	0.550106628620738
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	8	18	adolescence|adolescents	#FDAD4A	0.476994697223774
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	9	18	intelligence|tracking	#FD913D	0.52835831801564
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	10	18		#F03623	0.759416132155994
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	11	18	serial	#FDAD4A	0.485341642780109
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	12	18		#F03623	0.735127967826806
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	13	18	spatially|taskrelevant	#FD913D	0.576875792137719
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	14	18		#F03623	0.747391748486206
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	15	18	attended|attend|unattended	#FD913D	0.529511633546735
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	16	18	rotation|shapes	#FC622F	0.655650827760759
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	17	18	rehearsal	#FD913D	0.56628795002723
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	18	18	learned	#FC622F	0.60369391068463
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	19	18		#D7141E	0.82162402932235
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	20	18	cued|preparatory	#F03623	0.797482455726991
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	21	18		#D7141E	0.827919300410099
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	22	18		#F03623	0.734856697916339
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	23	18	numbers|numerical	#FD913D	0.597881509972426
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	1	19	future	#FDAD4A	0.479605290837692
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	2	19	negatively	#FDAD4A	0.41774243755791
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	3	19	distress|epilepsy|selfreported	#FEE188	0.240715957275274
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	4	19	anticipatory|cocaine|probabilities|smoking	#FD913D	0.557969110445662
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	5	19	alcohol|amount|impulsivity	#FD913D	0.503850781178077
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	6	19	game|success	#FECB68	0.388251068348485
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	7	19	adhd|childhood|engagement	#D7141E	0.846506496946417
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	8	19		#B10026	0.908641852917913
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	9	19		#D7141E	0.868025197242905
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	10	19		#F03623	0.770739218506134
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	11	19		#F03623	0.719389869536102
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	12	19	endogenous	#FD913D	0.540477986371365
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	13	19	cueing|invalid|orienting	#FD913D	0.559739595681386
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	14	19		#F03623	0.735345974178478
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	15	19	multisensory	#FD913D	0.526721204394416
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	16	19		#F03623	0.732729158688817
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	17	19	shifts	#F03623	0.711614280933009
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	18	19	covert	#F03623	0.704242757157874
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	19	19		#F03623	0.774785466576049
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	20	19	preparation	#F03623	0.756428343450584
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	21	19	discrimination|training	#D7141E	0.800883031748204
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	22	19	sequences	#FC622F	0.652529974818883
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	23	19		#D7141E	0.836788548922631
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	1	20	personal|self|selfreferential|trait|traits	#FEE188	0.298720848412938
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	2	20	empathic|theory	#FDAD4A	0.440424102123309
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	3	20	attribution|intentional	#FFFFCC	0.0837316881361378
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	4	20	elderly|oscillations	#FECB68	0.337274588905283
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	5	20	antipsychotic|virtual	#FECB68	0.313242764544015
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	6	20		#B10026	0.938405418789457
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	7	20	experiences	#FC622F	0.647553186967669
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	8	20	categorical|pressure	#FD913D	0.594955381451405
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	9	20	play|skills	#FC622F	0.654192081372284
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	10	20	automatic|trained	#FDAD4A	0.458902439511672
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	11	20		#F03623	0.774545896960763
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	12	20	practice	#FD913D	0.579525268570007
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	13	20	visuomotor	#FD913D	0.549103655042583
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	14	20		#FC622F	0.699661816491706
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	15	20	tool	#FDAD4A	0.441401326166582
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	16	20	vision	#FEE188	0.29635232183661
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	17	20	visually	#FC622F	0.651084451615411
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	18	20	saccade|saccades|saccadic	#FD913D	0.519046247517948
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	19	20	locations	#FC622F	0.646243357140476
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	20	20	imagery|planning	#FC622F	0.641106701470673
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	21	20		#D7141E	0.819443462572721
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	22	20	rest	#F03623	0.727114801842141
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	23	20	sequence	#D7141E	0.83735268275044
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	1	21	scenarios	#FFFFCC	0.0317881922886675
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	2	21	intention|intentions	#FECB68	0.30694583923986
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	3	21	causality|perspective	#FFFFCC	0.0462129532573235
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	4	21	past	#FFFFCC	0.0822782737916817
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	5	21		#F03623	0.785767794533633
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	6	21	episode	#FDAD4A	0.401797261143852
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	7	21	improvement	#F03623	0.712645496727247
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	8	21	masking|retention	#FDAD4A	0.458506911839451
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	9	21		#F03623	0.764340059602051
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	10	21	dominant	#FD913D	0.574207404474582
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	11	21		#FC622F	0.689611825721292
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	12	21	sequential	#F03623	0.71634160299108
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	13	21	fingers	#FDAD4A	0.400331235937199
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	14	21		#FDAD4A	0.499984637011116
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	15	21	gesture|gestures	#FEE188	0.227835564965136
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	16	21		#FDAD4A	0.47572756068061
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	17	21	hands	#FECB68	0.315382660591726
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	18	21		#FC622F	0.605490386236823
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	19	21		#FC622F	0.65076176620249
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	20	21	eye|position	#FC622F	0.624679994201848
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	21	21	execution	#FC622F	0.696180926308825
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	22	21	finger|sensorimotor	#FD913D	0.581027229894403
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	23	21		#F03623	0.71731652896674
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	1	22	moral|stories|story	#FFFFCC	0.0103778256830556
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	2	22	mentalizing|persons	#FEE188	0.223923444073166
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	3	22	default|restingstate	#FFFFCC	0.0959053268479538
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	4	22	thinking|thought|thoughts	#FEE188	0.230130515132229
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	5	22	spontaneous	#FD913D	0.52793464606238
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	6	22	concentration|sensations	#F03623	0.750014842648251
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	7	22	hierarchical|preference	#FECB68	0.325243276230051
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	8	22	effort|oral|simulation	#FD913D	0.553076645038675
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	9	22	interhemispheric|plasticity	#FDAD4A	0.419473229322507
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	10	22	imagined|imagine	#FDAD4A	0.430802012016495
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	11	22	tapping	#FD913D	0.529116233948898
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	12	22	foot|muscle|muscles|voluntary	#FD913D	0.532682699485896
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	13	22	limb	#FEE188	0.256388509162782
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	14	22	eyes|velocity	#FEE188	0.283716104507472
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	15	22	biological|gaze|videos	#FFF1A9	0.179377330805749
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	16	22	body	#FC622F	0.602221792654781
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	17	22	grasping|orientation|reaching	#FECB68	0.305232036724564
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	18	22		#FD913D	0.573932610880687
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	19	22	mirror|shape	#FC622F	0.648151043577892
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	20	22	actions	#FD913D	0.518782155631088
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	21	22	action	#F03623	0.73626414395264
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	22	22		#F03623	0.709461754052035
+68b60dc0-b26e-3cfa-b901-bef7413da7fd	Newcorn JH	23	22	hand|movements|sensory	#FC622F	0.631985733163379

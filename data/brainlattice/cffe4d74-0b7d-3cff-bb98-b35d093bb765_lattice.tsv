@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	1	1	auditory|speech	#FFFFCC	0.0643482925565383
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	2	1		#FFFFCC	0.0679403309576824
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	3	1	da|integration	#FFF1A9	0.146229486557671
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	4	1		#FFF1A9	0.101354670513216
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	5	1	physical|psychophysical|tactile	#FFFFCC	0.0828915417289531
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	6	1		#FFF1A9	0.152572280909389
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	7	1	somatosensory|stimulation	#FFF1A9	0.142367163348491
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	8	1	painful|pain	#FEE188	0.20961465257078
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	9	1		#FEE188	0.252015225677583
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	10	1	ratings	#FECB68	0.35098688515457
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	11	1	affective|affect	#FEE188	0.280314733469812
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	12	1	emotions	#FEE188	0.227483580621092
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	13	1	expression|expressions|facial	#FFF1A9	0.124561120212418
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	14	1		#FEE188	0.211979536955439
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	15	1		#FEE188	0.234310659180698
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	16	1	emotion|motion|neutral	#FEE188	0.236756562783986
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	17	1	rating	#FECB68	0.341522931641664
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	18	1	negative|positive	#FECB68	0.353353403324099
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	19	1		#FEE188	0.286287899419685
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	20	1	ear|order	#FEE188	0.235363233937013
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	21	1	motor	#FFF1A9	0.141940872763679
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	22	1	visual	#FFFFCC	0.0988707763875718
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	23	1	age|image|response	#FEE188	0.201879455313837
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	1	2	sound|sounds	#FFFFCC	0.0520010652549409
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	2	2		#FFFFCC	0.0661590932778478
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	3	2	audiovisual|bimodal|crossmodal	#FFFFCC	0.0261874697980278
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	4	2		#FFF1A9	0.102397950201614
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	5	2		#FFF1A9	0.110424669806818
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	6	2		#FFF1A9	0.150988909118482
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	7	2	sensation	#FEE188	0.207960467031825
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	8	2	heat|noxious	#FFF1A9	0.196179604563384
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	9	2		#FEE188	0.255876595905931
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	10	2		#FECB68	0.317733424823097
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	11	2		#FECB68	0.316204559798521
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	12	2	valence	#FECB68	0.303815992114909
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	13	2	person|social	#FEE188	0.268921120057653
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	14	2		#FEE188	0.213613299029246
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	15	2	face|faces	#FFF1A9	0.16612361072198
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	16	2		#FEE188	0.257459431749577
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	17	2		#FECB68	0.30193077308703
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	18	2		#FECB68	0.31132115703774
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	19	2		#FEE188	0.28300783894081
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	20	2		#FEE188	0.205348280946785
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	21	2	images|spatial	#FFF1A9	0.16352189886183
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	22	2	control	#FFF1A9	0.17700699296309
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	23	2	time	#FFF1A9	0.196791646954659
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	1	3	acoustic|listening|musical|music|pitch	#FFFFCC	0.0467826589327523
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	2	3	noise|tones	#FFFFCC	0.073613027805673
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	3	3		#FFFFCC	0.0828795633660612
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	4	3		#FFFFCC	0.0959623053152412
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	5	3	frequency	#FFF1A9	0.116416628749446
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	6	3		#FFF1A9	0.161587542806225
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	7	3		#FFF1A9	0.184893742498993
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	8	3	temperature	#FFF1A9	0.139801776380983
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	9	3		#FEE188	0.230263026949846
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	10	3	pleasant|unpleasant	#FEE188	0.264844753529787
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	11	3	anxiety	#FEE188	0.268030323254215
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	12	3		#FEE188	0.281670148220776
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	13	3		#FEE188	0.266492910595119
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	14	3		#FEE188	0.242289545961884
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	15	3		#FEE188	0.232728164476299
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	16	3	picture	#FEE188	0.212649207840372
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	17	3		#FEE188	0.267938453773866
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	18	3	value	#FECB68	0.323914440516219
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	19	3	cue	#FEE188	0.281504429594363
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	20	3	error|target	#FEE188	0.203253924178515
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	21	3	attention	#FFF1A9	0.114537020490487
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	22	3		#FFF1A9	0.159059423583359
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	23	3	number	#FFF1A9	0.177115724452368
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	1	4	voice	#FFFFCC	0.0498671489166741
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	2	4		#FFFFCC	0.0707866957961253
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	3	4	hearing	#FFFFCC	0.0441285131088663
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	4	4		#FFFFCC	0.0909616396544572
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	5	4	overt	#FFFFCC	0.0884047849403717
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	6	4		#FFF1A9	0.117871629603897
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	7	4		#FFF1A9	0.166537140127788
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	8	4	nociceptive|nonpainful|painrelated	#FFF1A9	0.149193234621232
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	9	4	unpleasantness	#FFF1A9	0.16935729999938
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	10	4	skin|subjective	#FECB68	0.352349388346941
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	11	4	depression	#FECB68	0.31319174674138
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	12	4	experience	#FEE188	0.249332040008316
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	13	4	female	#FEE188	0.25792894483786
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	14	4	male	#FEE188	0.265554729510241
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	15	4	pictures	#FFF1A9	0.184116187451704
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	16	4		#FEE188	0.203247635510665
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	17	4	perception	#FFF1A9	0.143051133580377
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	18	4		#FEE188	0.200235951070564
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	19	4		#FFF1A9	0.195261694463965
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	20	4		#FFF1A9	0.177731131219428
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	21	4	correct	#FFF1A9	0.190824628116247
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	22	4	work	#FFF1A9	0.128641245649425
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	23	4	memory	#FFF1A9	0.139907509750986
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	1	5	prosodic|prosody	#FFFFCC	0.0811968902120137
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	2	5	phonetic	#FFFFCC	0.0539099867205459
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	3	5	syllable|syllables	#FFFFCC	0.0760847296816536
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	4	5		#FFF1A9	0.104979326825053
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	5	5	lip|production	#FFFFCC	0.068360564307868
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	6	5	somatotopic	#FFFFCC	0.0734514882645588
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	7	5		#FFF1A9	0.1766149966006
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	8	5		#FFF1A9	0.185127516725223
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	9	5	empathy	#FEE188	0.212184037780048
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	10	5		#FEE188	0.270141225840469
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	11	5	disorder	#FEE188	0.255597844403759
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	12	5		#FEE188	0.265764632927321
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	13	5		#FEE188	0.240625201150024
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	14	5		#FEE188	0.201859151634044
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	15	5		#FFF1A9	0.189595019742029
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	16	5		#FFF1A9	0.1598746787215
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	17	5		#FFF1A9	0.136436295485822
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	18	5	mental	#FFF1A9	0.115916098364019
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	19	5	go	#FFF1A9	0.16731727902568
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	20	5	object	#FFFFCC	0.0628463654541501
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	21	5		#FFF1A9	0.143259249498049
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	22	5		#FFF1A9	0.128014981718356
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	23	5	word|words	#FFFFCC	0.0847738240702108
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	1	6		#FD913D	0.58095036253268
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	2	6		#FD913D	0.505683147168493
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	3	6		#FECB68	0.394399377256762
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	4	6	vocal	#FFFFCC	0.0903149659365249
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	5	6	articulatory	#FFFFCC	0.0793776330382367
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	6	6		#FFF1A9	0.180730520791926
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	7	6	oddball	#FFF1A9	0.115450257964047
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	8	6	perceived	#FEE188	0.221784049486517
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	9	6	errorrelated	#FFF1A9	0.162527250289503
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	10	6	approach	#FECB68	0.304268994280888
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	11	6	schizophrenia	#FEE188	0.216247092747205
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	12	6	acquisition	#FEE188	0.22874664225907
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	13	6		#FFF1A9	0.171773623674738
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	14	6		#FFF1A9	0.102406839171779
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	15	6		#FFF1A9	0.103050126439637
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	16	6		#FFF1A9	0.105344380578396
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	17	6		#FFFFCC	0.097040487003014
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	18	6		#FFFFCC	0.0969201382910643
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	19	6		#FFF1A9	0.112640548920312
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	20	6	objects	#FFFFCC	0.0709709131469723
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	21	6		#FFF1A9	0.122435961414984
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	22	6		#FFF1A9	0.105103972094391
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	23	6	language|semantic	#FFFFCC	0.0856837575177715
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	1	7	dopamine|dopaminergic	#F03623	0.780501212042631
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	2	7		#B10026	0.913509740137643
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	3	7		#F03623	0.70584236586491
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	4	7		#FD913D	0.535234029288136
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	5	7		#FDAD4A	0.454936001042476
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	6	7		#FECB68	0.353618406614416
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	7	7		#FECB68	0.311224212022074
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	8	7		#FEE188	0.283946906284936
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	9	7		#FEE188	0.23598647183259
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	10	7		#FFF1A9	0.17684142584084
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	11	7		#FFF1A9	0.182577050492046
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	12	7		#FFF1A9	0.146284973816415
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	13	7	linguistic|spoken	#FFFFCC	0.0553970956913712
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	14	7		#FFFFCC	0.0789036555743243
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	15	7	comprehension|sentence|sentences|syntactic	#FFFFCC	0.0623844107657164
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	16	7		#FFFFCC	0.0753581148027233
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	17	7		#FFFFCC	0.0807279205334333
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	18	7	phonological|reading|read	#FFFFCC	0.0692746583588163
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	19	7		#FFF1A9	0.107130417271394
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	20	7	perceptual|recognition	#FFF1A9	0.127886244416417
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	21	7		#FFF1A9	0.131440051870541
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	22	7		#FFF1A9	0.116820838062891
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	23	7	verb	#FFF1A9	0.108536553073572
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	1	8	outcome|reward	#D7141E	0.888754419730677
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	2	8	anticipation	#B10026	0.945128042908582
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	3	8	outcomes	#D7141E	0.852033643848783
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	4	8	choice|choices	#FD913D	0.594945489559641
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	5	8	decisions|probability	#FDAD4A	0.439805508709225
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	6	8	reversal	#FECB68	0.365506782229141
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	7	8	classification|incorrect	#FDAD4A	0.402873598035557
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	8	8		#FECB68	0.309075333919664
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	9	8	agerelated|fluency|probes	#FFF1A9	0.142917822596004
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	10	8	engaged	#FFFFCC	0.0720835518505455
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	11	8	explicit|knowledge	#FFFFCC	0.0958105138539206
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	12	8		#FFFFCC	0.0948980409761987
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	13	8		#FFFFCC	0.0797457969479478
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	14	8		#FFFFCC	0.0686427886660559
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	15	8		#FFFFCC	0.0653026775831869
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	16	8		#FFFFCC	0.0724867432087372
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	17	8	lexical	#FFFFCC	0.0793100378333478
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	18	8		#FFFFCC	0.0979676680202402
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	19	8		#FFF1A9	0.114734431591917
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	20	8		#FFF1A9	0.143193518265597
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	21	8	encoding	#FFF1A9	0.16399320995822
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	22	8	retrieval	#FFF1A9	0.166165276210266
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	23	8	verbal	#FFF1A9	0.110277436966915
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	1	9	incentive|monetary|money|rewards	#B10026	1
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	2	9	loss	#B10026	0.941157353047986
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	3	9		#F03623	0.772526713625421
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	4	9		#FC622F	0.634150995148687
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	5	9	decisionmaking	#FDAD4A	0.412137190282135
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	6	9		#FECB68	0.380621123556111
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	7	9		#FECB68	0.318254753145103
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	8	9		#FEE188	0.276090273890269
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	9	9		#FFF1A9	0.189237244568851
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	10	9		#FFF1A9	0.118480450659087
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	11	9		#FFFFCC	0.0914477198319917
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	12	9		#FFFFCC	0.0868844827164283
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	13	9	noun	#FFFFCC	0.0604875116482069
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	14	9	meaning	#FFFFCC	0.0540485363991981
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	15	9	english	#FFFFCC	0.0547040191205451
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	16	9	pseudoword|pseudowords	#FFFFCC	0.0606891433878332
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	17	9		#FFFFCC	0.0864016542948725
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	18	9		#FFF1A9	0.126953209581978
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	19	9	familiar|judgment	#FFF1A9	0.136467179679792
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	20	9	pair|pairs	#FFF1A9	0.185714512076339
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	21	9		#FFF1A9	0.19417777493224
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	22	9		#FFF1A9	0.149235103844396
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	23	9	letter|working	#FFFFCC	0.0869485497054718
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	1	10	losses|reinforcement|win	#D7141E	0.895946203829468
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	2	10	gain	#B10026	0.908442051500828
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	3	10	expectation	#FD913D	0.593197824833949
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	4	10	risk	#FDAD4A	0.44541423612387
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	5	10	fact	#FECB68	0.324704763375611
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	6	10	associative	#FEE188	0.266804211466607
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	7	10	familiarity|judgments|old	#FFF1A9	0.160331761722267
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	8	10	contextual|text	#FFF1A9	0.145627696252474
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	9	10	recall|retrieved	#FFF1A9	0.15809579433974
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	10	10	conceptual|semantically	#FFFFCC	0.0722212923641714
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	11	10	grammatical|speakers	#FFFFCC	0.0939693722375214
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	12	10	nouns	#FFFFCC	0.062181658246374
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	13	10	japanese	#FFFFCC	0.0550408063586181
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	14	10	languages	#FFFFCC	0.0574590453691394
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	15	10	written	#FFFFCC	0.0363097105892759
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	16	10	chinese|phonology	#FFFFCC	0.0464365390686208
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	17	10	orthographic	#FFFFCC	0.079106326563386
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	18	10		#FFF1A9	0.145762657076785
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	19	10		#FFF1A9	0.18171543911758
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	20	10	association|decision	#FECB68	0.338202045348108
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	21	10	selection	#FEE188	0.220470445875094
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	22	10	letters	#FFF1A9	0.0999219239207095
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	23	10	demand|load	#FFF1A9	0.128070873727947
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	1	11	conditioned|conditioning	#FD913D	0.527458311080259
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	2	11		#FC622F	0.669498691268431
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	3	11	drug|placebo	#FDAD4A	0.480468365086962
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	4	11		#FDAD4A	0.424245906928569
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	5	11	associations	#FEE188	0.236645767275652
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	6	11		#FFF1A9	0.191101881071128
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	7	11	episodic|recollection	#FFF1A9	0.157572858926376
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	8	11		#FFF1A9	0.166288927986992
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	9	11		#FFF1A9	0.168753157043542
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	10	11	concepts	#FFFFCC	0.0548699155066103
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	11	11		#FFF1A9	0.106276160605036
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	12	11		#FFFFCC	0.0964956627254599
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	13	11	german	#FFF1A9	0.19198817598737
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	14	11	readers	#FFFFCC	0.0830833551183943
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	15	11	character|name|naming	#FFFFCC	0.0681196924957323
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	16	11		#FFF1A9	0.104172945751311
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	17	11	novel	#FFF1A9	0.13863120860393
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	18	11		#FFF1A9	0.14897351561214
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	19	11	child|children	#FFF1A9	0.120836512859331
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	20	11	adults	#FEE188	0.218165395219534
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	21	11	ability|feedback|learning	#FDAD4A	0.420628447125901
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	22	11	cues|delay	#FECB68	0.346758651703597
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	23	11	attentional|difficulty|targets	#FFF1A9	0.112913870498582
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	1	12	aversive|shock	#FECB68	0.333028383815765
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	2	12	reactivity	#FECB68	0.367429124754537
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	3	12	males|sex|women	#FEE188	0.273258975595654
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	4	12	animal	#FEE188	0.27733718714579
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	5	12	animals	#FFF1A9	0.181850222816287
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	6	12		#FFF1A9	0.14759697093746
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	7	12	remember|subsequent	#FFFFCC	0.0801492185297164
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	8	12	autobiographical|memories	#FFFFCC	0.0963181763159405
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	9	12		#FFF1A9	0.162701378898663
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	10	12	violation|violations	#FFF1A9	0.103255693901447
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	11	12	aphasia	#FFF1A9	0.113181938380481
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	12	12	nonwords	#FFFFCC	0.048801410206149
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	13	12	dyslexia	#FFFFCC	0.064201743987271
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	14	12		#FFFFCC	0.0890217146091612
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	15	12	priming	#FFFFCC	0.0582314554222579
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	16	12		#FFF1A9	0.122579572239815
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	17	12	category|repetition	#FFF1A9	0.126113189085694
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	18	12		#FFF1A9	0.153039149747017
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	19	12	developmental|development	#FFF1A9	0.106129577155292
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	20	12		#FFF1A9	0.187030366443309
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	21	12	space	#FFF1A9	0.167790052569009
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	22	12		#FFF1A9	0.185736609075328
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	23	12	color	#FFF1A9	0.132329961291208
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	1	13	threat	#FFF1A9	0.148060356122408
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	2	13	regulation	#FFF1A9	0.175341598990059
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	3	13		#FEE188	0.28128069684536
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	4	13	masked	#FFF1A9	0.147527136692037
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	5	13	scene|scenes	#FFFFCC	0.0690469309552383
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	6	13		#FFF1A9	0.139532119215444
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	7	13	confidence|remembered	#FFF1A9	0.117559491804642
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	8	13		#FFF1A9	0.150073191333002
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	9	13		#FFF1A9	0.16114323884122
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	10	13	ambiguity|ambiguous	#FFFFCC	0.0838508746587846
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	11	13		#FFF1A9	0.116081944198773
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	12	13		#FFFFCC	0.0912337265605728
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	13	13	writing	#FFFFCC	0.0376647138412913
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	14	13		#FFFFCC	0.0954001532660152
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	15	13	categorization|congruency|prime	#FFFFCC	0.0747813873484068
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	16	13		#FFF1A9	0.136982629937678
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	17	13	mask	#FFF1A9	0.136649351546945
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	18	13		#FFF1A9	0.172579310414265
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	19	13		#FFF1A9	0.172891081275039
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	20	13		#FFF1A9	0.143633817004854
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	21	13	conflict|congruent|incongruent	#FFFFCC	0.0763130696677844
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	22	13	errors	#FFF1A9	0.198859567050818
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	23	13	maintenance|probe|wm	#FFF1A9	0.137291878527488
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	1	14	angry|fearful|happy	#FFFFCC	0.0851504497357231
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	2	14		#FFF1A9	0.147316638368165
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	3	14	awareness|conscious|ptsd	#FFF1A9	0.192159330925374
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	4	14		#FFF1A9	0.194172991912373
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	5	14	houses|photographs	#FFFFCC	0.0730887181345306
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	6	14		#FFF1A9	0.161036663400725
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	7	14	hits	#FFF1A9	0.171451936000977
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	8	14	famous	#FFF1A9	0.117908470756042
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	9	14	names	#FFFFCC	0.0878835486240777
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	10	14	family	#FFFFCC	0.0898689387307277
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	11	14	competition|mouth	#FFFFCC	0.0693480086574486
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	12	14	abilities	#FFF1A9	0.102093796465819
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	13	14	implicit|unfamiliar	#FFFFCC	0.0989694328716839
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	14	14		#FFFFCC	0.0932344900656383
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	15	14	tom	#FFF1A9	0.102152585168216
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	16	14		#FFF1A9	0.126530364510359
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	17	14		#FFF1A9	0.144458100194076
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	18	14	stop	#FEE188	0.200850391372455
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	19	14	inhibition|inhibitory|nogo	#FFF1A9	0.190139049893527
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	20	14	monitoring|stroop	#FFF1A9	0.114968537060774
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	21	14	interference	#FFFFCC	0.0640118797041559
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	22	14		#FFF1A9	0.122617899143192
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	23	14	demands|executive	#FFF1A9	0.116371852525995
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	1	15	anger	#FFFFCC	0.0880001734269186
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	2	15	stress	#FFF1A9	0.177910275700632
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	3	15	feelings	#FFF1A9	0.194761987242997
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	4	15	salient	#FFF1A9	0.163418793420792
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	5	15	novelty	#FFF1A9	0.157788912284377
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	6	15	movie	#FFFFCC	0.0642757850680779
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	7	15		#FEE188	0.223689613807005
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	8	15		#FEE188	0.212445718521401
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	9	15	longterm	#FFF1A9	0.107335087103172
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	10	15		#FFF1A9	0.112083050575558
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	11	15	reasoning|relational	#FFFFCC	0.0699501259840144
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	12	15		#FFFFCC	0.0889496571724528
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	13	15	presentations	#FFFFCC	0.0460975158881083
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	14	15		#FFFFCC	0.0843766060044111
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	15	15	identity	#FFFFCC	0.0697952599096129
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	16	15		#FFF1A9	0.117805290061652
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	17	15	strategies|strategy	#FFF1A9	0.17967017381287
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	18	15	card|cards	#FFF1A9	0.13437660196012
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	19	15	gonogo	#FFF1A9	0.147548148921974
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	20	15		#FFF1A9	0.133832728465091
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	21	15	switching|switch	#FFFFCC	0.0738862557687362
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	22	15		#FFF1A9	0.101642937812759
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	23	15	2back|rule	#FFFFCC	0.0887496444768436
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	1	16	emotionally|mood|personality|sadness	#FFF1A9	0.187220571651428
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	2	16	disgust|sexual	#FECB68	0.340707947971622
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	3	16	olfactory	#FEE188	0.282772731551593
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	4	16	physiological	#FEE188	0.273120073064752
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	5	16	depressed|depressive|habituation	#FFF1A9	0.174022306864715
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	6	16	schizophrenic	#FFF1A9	0.179089980141452
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	7	16	colors|contexts	#FEE188	0.271162866714988
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	8	16	aging|encoded	#FFF1A9	0.115928082826647
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	9	16	goal	#FFF1A9	0.10803623884434
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	10	16		#FFF1A9	0.112430700362225
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	11	16	autism|autistic|nonverbal	#FFFFCC	0.06397778236162
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	12	16		#FFFFCC	0.0828254277530136
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	13	16	bottomup|repetitions	#FFFFCC	0.0421166829469072
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	14	16	adaptation	#FFFFCC	0.0559390376062923
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	15	16	irrelevant	#FFFFCC	0.0556410414333208
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	16	16	distractor|distractors	#FFFFCC	0.0720931358468862
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	17	16		#FFF1A9	0.118285424039351
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	18	16	subtraction	#FFFFCC	0.0665947392597914
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	19	16	1back|nback	#FFFFCC	0.0698051567196068
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	20	16	manipulation|rules	#FFF1A9	0.10517603432739
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	21	16		#FFFFCC	0.0925230421708835
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	22	16		#FFFFCC	0.0726910885189011
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	23	16	digit	#FFFFCC	0.0500757732794026
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	1	17	avoidance	#FDAD4A	0.441348949891801
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	2	17		#FD913D	0.514963986314442
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	3	17	eating|food	#FDAD4A	0.423920476010569
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	4	17	taste	#FEE188	0.285840267625265
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	5	17	bipolar	#FEE188	0.259354049069213
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	6	17	illness|uncertainty	#FEE188	0.202167602684196
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	7	17	females|probabilistic	#FEE188	0.297975227354771
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	8	17	rejection	#FEE188	0.253330835082477
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	9	17	colour|paired	#FFF1A9	0.108660987687095
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	10	17		#FFF1A9	0.155472404449222
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	11	17		#FFF1A9	0.145780442381878
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	12	17		#FFF1A9	0.115959618464771
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	13	17	taskirrelevant	#FFFFCC	0.0370215006061858
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	14	17		#FFFFCC	0.0436375143537828
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	15	17	suppression	#FFFFCC	0.0347444685832277
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	16	17		#FFFFCC	0.0624030074588487
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	17	17	shifting|shortterm	#FFFFCC	0.0661133071587715
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	18	17	digits	#FFFFCC	0.0819730415623307
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	19	17	search	#FFF1A9	0.13553484060967
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	20	17	counting|taskrelated	#FFFFCC	0.09070745012538
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	21	17	topdown	#FFFFCC	0.0584346291101748
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	22	17	visuospatial	#FFFFCC	0.0278676838090619
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	23	17	arithmetic|calculation|solving	#FFFFCC	0.0504291299055412
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	1	18	addiction|craving|drugs	#FD913D	0.572491146636786
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	2	18	allele|genotype|polymorphism	#FECB68	0.384868232976004
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	3	18	motivation	#FDAD4A	0.471323343539766
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	4	18	heart	#FECB68	0.343800145072479
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	5	18	sleep	#FECB68	0.330032379936166
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	6	18	expectancy	#FEE188	0.207644974102154
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	7	18	phasic|salience	#FEE188	0.222362745978139
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	8	18	adolescence|adolescents	#FFF1A9	0.140859747028832
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	9	18	intelligence|tracking	#FFF1A9	0.117754789202488
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	10	18		#FFF1A9	0.168614164440652
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	11	18	serial	#FFF1A9	0.185383510741214
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	12	18		#FFF1A9	0.120697800817109
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	13	18	spatially|taskrelevant	#FFFFCC	0.0594967592536507
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	14	18		#FFFFCC	0.0417661563808637
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	15	18	attended|attend|unattended	#FFFFCC	0.0102792287559983
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	16	18	rotation|shapes	#FFFFCC	0.0129719998215935
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	17	18	rehearsal	#FFFFCC	0.079851118256121
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	18	18	learned	#FEE188	0.235956689883596
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	19	18		#FFF1A9	0.122890558519751
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	20	18	cued|preparatory	#FFFFCC	0.0693348181464554
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	21	18		#FFFFCC	0.0961298091251244
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	22	18		#FFFFCC	0.0767223924630584
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	23	18	numbers|numerical	#FFFFCC	0.0717182282411406
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	1	19	future	#FECB68	0.31603147778108
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	2	19	negatively	#FEE188	0.254438676222607
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	3	19	distress|epilepsy|selfreported	#FECB68	0.360607786067541
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	4	19	anticipatory|cocaine|probabilities|smoking	#FC622F	0.633015279504727
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	5	19	alcohol|amount|impulsivity	#FC622F	0.623375545482423
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	6	19	game|success	#FECB68	0.376645821491935
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	7	19	adhd|childhood|engagement	#FEE188	0.208712924405393
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	8	19		#FEE188	0.238181250314366
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	9	19		#FFF1A9	0.164036954189325
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	10	19		#FFF1A9	0.152028579062395
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	11	19		#FFF1A9	0.143142849963217
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	12	19	endogenous	#FFF1A9	0.151383314261545
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	13	19	cueing|invalid|orienting	#FFFFCC	0.0490016889378188
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	14	19		#FFFFCC	0.0413035343470057
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	15	19	multisensory	#FFFFCC	0.03073715505936
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	16	19		#FFFFCC	0.0430509798486444
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	17	19	shifts	#FFFFCC	0.0761642727340238
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	18	19	covert	#FFFFCC	0.0832499564734246
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	19	19		#FFF1A9	0.101373782416622
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	20	19	preparation	#FFFFCC	0.0525474020719007
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	21	19	discrimination|training	#FFFFCC	0.0761157784394104
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	22	19	sequences	#FFFFCC	0.0978068425268098
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	23	19		#FFF1A9	0.115697604297871
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	1	20	personal|self|selfreferential|trait|traits	#FEE188	0.235282356040746
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	2	20	empathic|theory	#FFF1A9	0.158801644950703
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	3	20	attribution|intentional	#FFFFCC	0.037102505408445
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	4	20	elderly|oscillations	#FFF1A9	0.142630410873753
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	5	20	antipsychotic|virtual	#FEE188	0.243584363855371
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	6	20		#FDAD4A	0.436033511326743
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	7	20	experiences	#FFF1A9	0.17022243692415
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	8	20	categorical|pressure	#FFFFCC	0.0936439988766931
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	9	20	play|skills	#FFFFCC	0.088071579443967
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	10	20	automatic|trained	#FFFFCC	0.0604430610726738
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	11	20		#FFF1A9	0.107799518416311
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	12	20	practice	#FFFFCC	0.0614785941208048
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	13	20	visuomotor	#FFFFCC	0.0337076745572335
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	14	20		#FFFFCC	0.0499119262332797
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	15	20	tool	#FFFFCC	0.0180582566437175
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	16	20	vision	#FFFFCC	0
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	17	20	visually	#FFFFCC	0.047932128955869
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	18	20	saccade|saccades|saccadic	#FFFFCC	0.0499217169549984
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	19	20	locations	#FFFFCC	0.0512457860974794
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	20	20	imagery|planning	#FFF1A9	0.106436031210653
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	21	20		#FFFFCC	0.0988469557384787
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	22	20	rest	#FFF1A9	0.102629231609731
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	23	20	sequence	#FFF1A9	0.146027848235435
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	1	21	scenarios	#FFFFCC	0.0713818900003624
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	2	21	intention|intentions	#FFFFCC	0.0953147382065062
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	3	21	causality|perspective	#FFFFCC	0.0946151449945345
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	4	21	past	#FFF1A9	0.120762569048278
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	5	21		#FECB68	0.308351967705842
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	6	21	episode	#FFF1A9	0.125972239863607
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	7	21	improvement	#FFFFCC	0.0799931158458345
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	8	21	masking|retention	#FFF1A9	0.192787236718759
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	9	21		#FFF1A9	0.109567135567524
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	10	21	dominant	#FFFFCC	0.0648439327216512
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	11	21		#FFFFCC	0.0863154435232914
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	12	21	sequential	#FFF1A9	0.110475382951141
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	13	21	fingers	#FFFFCC	0.0369049352366059
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	14	21		#FFFFCC	0.0366292254004091
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	15	21	gesture|gestures	#FFFFCC	0.0065978582457966
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	16	21		#FFFFCC	0.0411845491662107
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	17	21	hands	#FFFFCC	0.00752331558538
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	18	21		#FFFFCC	0.05147498116326
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	19	21		#FFFFCC	0.0497810913252834
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	20	21	eye|position	#FFFFCC	0.0586489876916817
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	21	21	execution	#FFFFCC	0.0593723703215043
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	22	21	finger|sensorimotor	#FFFFCC	0.0557038227611469
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	23	21		#FFFFCC	0.0888231672925559
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	1	22	moral|stories|story	#FFFFCC	0.0490259627290559
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	2	22	mentalizing|persons	#FFFFCC	0.0765238537295984
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	3	22	default|restingstate	#FEE188	0.211143723389548
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	4	22	thinking|thought|thoughts	#FFF1A9	0.122701411443637
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	5	22	spontaneous	#FEE188	0.210313829364268
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	6	22	concentration|sensations	#FEE188	0.221253547511799
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	7	22	hierarchical|preference	#FFFFCC	0.0958034892357508
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	8	22	effort|oral|simulation	#FFFFCC	0.0727443756040338
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	9	22	interhemispheric|plasticity	#FFFFCC	0.0458477012416679
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	10	22	imagined|imagine	#FFFFCC	0.0607192209886246
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	11	22	tapping	#FFFFCC	0.0498395187997032
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	12	22	foot|muscle|muscles|voluntary	#FFFFCC	0.0707616479959172
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	13	22	limb	#FFFFCC	0.0113457280123613
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	14	22	eyes|velocity	#FFFFCC	0.0192796725128221
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	15	22	biological|gaze|videos	#FFFFCC	0.018678786666045
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	16	22	body	#FFF1A9	0.136795908473612
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	17	22	grasping|orientation|reaching	#FFFFCC	0.0210672125949911
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	18	22		#FFFFCC	0.0508685938288352
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	19	22	mirror|shape	#FFFFCC	0.0175457290872035
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	20	22	actions	#FFFFCC	0.0250865074129441
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	21	22	action	#FFFFCC	0.0905299187707443
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	22	22		#FFFFCC	0.0760298633598786
+cffe4d74-0b7d-3cff-bb98-b35d093bb765	Knutson B	23	22	hand|movements|sensory	#FFFFCC	0.0718028721377541

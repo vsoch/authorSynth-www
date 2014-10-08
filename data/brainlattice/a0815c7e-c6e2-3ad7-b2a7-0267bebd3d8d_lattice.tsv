@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	1	1	auditory|speech	#D7141E	0.840439379896064
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	2	1		#D7141E	0.818481226762441
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	3	1	da|integration	#B10026	0.980739928502563
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	4	1		#B10026	0.93429969403482
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	5	1	physical|psychophysical|tactile	#FDAD4A	0.497203310396996
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	6	1		#FD913D	0.59757134299407
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	7	1	somatosensory|stimulation	#FDAD4A	0.463659969912839
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	8	1	painful|pain	#FECB68	0.306761596215308
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	9	1		#FDAD4A	0.431244691547567
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	10	1	ratings	#FD913D	0.586323487489308
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	11	1	affective|affect	#FD913D	0.533863169661226
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	12	1	emotions	#FD913D	0.571734037003105
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	13	1	expression|expressions|facial	#FD913D	0.568351336747124
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	14	1		#F03623	0.725334063321334
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	15	1		#F03623	0.723618942210255
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	16	1	emotion|motion|neutral	#FC622F	0.660835650025732
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	17	1	rating	#FD913D	0.583748711256792
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	18	1	negative|positive	#FD913D	0.592054342096965
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	19	1		#F03623	0.708910897890338
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	20	1	ear|order	#FC622F	0.684034765629595
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	21	1	motor	#FD913D	0.547616146645661
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	22	1	visual	#FC622F	0.607267951920336
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	23	1	age|image|response	#FC622F	0.640343511314552
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	1	2	sound|sounds	#FC622F	0.641498701398246
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	2	2		#D7141E	0.805431969032636
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	3	2	audiovisual|bimodal|crossmodal	#F03623	0.76751337291803
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	4	2		#B10026	0.96222892024133
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	5	2		#D7141E	0.848992579284777
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	6	2		#FC622F	0.672566161287922
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	7	2	sensation	#FECB68	0.313727281166508
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	8	2	heat|noxious	#FEE188	0.242849389436277
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	9	2		#FDAD4A	0.455701648250311
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	10	2		#FC622F	0.61946472960636
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	11	2		#FC622F	0.64756432466476
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	12	2	valence	#FD913D	0.588551026316802
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	13	2	person|social	#F03623	0.727633030670431
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	14	2		#F03623	0.744654784935869
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	15	2	face|faces	#FC622F	0.639717392878202
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	16	2		#F03623	0.759114824915159
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	17	2		#F03623	0.748830379703524
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	18	2		#F03623	0.739890670968739
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	19	2		#F03623	0.733416619768813
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	20	2		#FC622F	0.685127416902406
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	21	2	images|spatial	#FC622F	0.657225643391558
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	22	2	control	#FD913D	0.576538189279287
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	23	2	time	#FC622F	0.620242325758432
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	1	3	acoustic|listening|musical|music|pitch	#FC622F	0.662882607665375
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	2	3	noise|tones	#F03623	0.708895014013307
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	3	3		#B10026	0.945263106467691
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	4	3		#B10026	0.990085063315979
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	5	3	frequency	#B10026	0.922758517991974
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	6	3		#D7141E	0.872124071059721
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	7	3		#FDAD4A	0.451918305471503
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	8	3	temperature	#FEE188	0.298091224450232
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	9	3		#FDAD4A	0.460762237644811
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	10	3	pleasant|unpleasant	#FDAD4A	0.437725582275127
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	11	3	anxiety	#FDAD4A	0.461573581480051
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	12	3		#F03623	0.704476974656056
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	13	3		#F03623	0.7923081950733
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	14	3		#F03623	0.799014893023824
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	15	3		#D7141E	0.824739514577503
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	16	3	picture	#F03623	0.756661117200421
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	17	3		#D7141E	0.865727799571234
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	18	3	value	#F03623	0.787225127882455
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	19	3	cue	#FC622F	0.623941250307769
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	20	3	error|target	#FC622F	0.64034665393121
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	21	3	attention	#FC622F	0.60069975719035
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	22	3		#FC622F	0.634098481952741
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	23	3	number	#FC622F	0.639321473054864
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	1	4	voice	#F03623	0.71935074963266
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	2	4		#D7141E	0.816478476037423
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	3	4	hearing	#D7141E	0.83303406262966
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	4	4		#D7141E	0.891076127411856
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	5	4	overt	#F03623	0.75059089499524
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	6	4		#D7141E	0.871064946257772
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	7	4		#FD913D	0.566920307549575
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	8	4	nociceptive|nonpainful|painrelated	#FEE188	0.202734747123125
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	9	4	unpleasantness	#FECB68	0.363908778037667
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	10	4	skin|subjective	#FD913D	0.561786971117164
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	11	4	depression	#FC622F	0.60564587311089
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	12	4	experience	#FD913D	0.572363086648397
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	13	4	female	#FC622F	0.689548389044519
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	14	4	male	#D7141E	0.829583601036681
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	15	4	pictures	#F03623	0.792936620994624
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	16	4		#B10026	0.946749876050759
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	17	4	perception	#B10026	0.925730954673268
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	18	4		#D7141E	0.826898061530218
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	19	4		#F03623	0.753014525633521
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	20	4		#F03623	0.70222954831961
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	21	4	correct	#FC622F	0.601254289159664
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	22	4	work	#FD913D	0.554586213115272
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	23	4	memory	#FD913D	0.543651896111643
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	1	5	prosodic|prosody	#FC622F	0.696778539699052
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	2	5	phonetic	#FC622F	0.670986655796123
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	3	5	syllable|syllables	#FC622F	0.657767489575675
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	4	5		#D7141E	0.82670207295542
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	5	5	lip|production	#FC622F	0.685862525487689
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	6	5	somatotopic	#FDAD4A	0.467522954896177
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	7	5		#FC622F	0.68078046102841
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	8	5		#FD913D	0.564767831115029
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	9	5	empathy	#FD913D	0.588459559270114
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	10	5		#F03623	0.704070703481975
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	11	5	disorder	#FD913D	0.561181310026637
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	12	5		#F03623	0.77492306468407
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	13	5		#D7141E	0.884673039294333
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	14	5		#B10026	0.939888840478424
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	15	5		#B10026	0.97219857298394
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	16	5		#B10026	1
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	17	5		#B10026	0.962484461266437
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	18	5	mental	#F03623	0.717052599739234
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	19	5	go	#FC622F	0.697673620233035
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	20	5	object	#FD913D	0.570198297889799
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	21	5		#FC622F	0.687914821372824
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	22	5		#FC622F	0.654733748746581
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	23	5	word|words	#FD913D	0.54760335739271
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	1	6		#B10026	0.92074195197711
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	2	6		#B10026	0.933462641386636
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	3	6		#B10026	0.976101124851974
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	4	6	vocal	#F03623	0.705798391632953
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	5	6	articulatory	#FDAD4A	0.438969573717861
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	6	6		#D7141E	0.819969673579806
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	7	6	oddball	#F03623	0.704288522438425
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	8	6	perceived	#FD913D	0.578255584819313
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	9	6	errorrelated	#FECB68	0.374204910112421
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	10	6	approach	#FD913D	0.515552438266604
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	11	6	schizophrenia	#FC622F	0.611518380900148
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	12	6	acquisition	#FC622F	0.680406401800022
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	13	6		#B10026	0.902831967999621
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	14	6		#F03623	0.790473621656712
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	15	6		#D7141E	0.802791023493187
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	16	6		#D7141E	0.827092540413217
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	17	6		#D7141E	0.805812941023956
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	18	6		#F03623	0.765882929198355
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	19	6		#F03623	0.783478106738505
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	20	6	objects	#F03623	0.735295986066644
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	21	6		#F03623	0.740750019219078
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	22	6		#FC622F	0.665869834397615
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	23	6	language|semantic	#FC622F	0.622748142857945
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	1	7	dopamine|dopaminergic	#FEE188	0.288024104354996
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	2	7		#FDAD4A	0.446502790991561
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	3	7		#FC622F	0.64259954530086
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	4	7		#F03623	0.73522826141725
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	5	7		#F03623	0.719804675926163
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	6	7		#D7141E	0.812712167579609
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	7	7		#F03623	0.7609889092338
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	8	7		#FC622F	0.664637664859418
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	9	7		#FC622F	0.659480140371273
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	10	7		#FC622F	0.656114176124639
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	11	7		#FC622F	0.658197249856273
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	12	7		#F03623	0.735048791921543
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	13	7	linguistic|spoken	#D7141E	0.814684572805972
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	14	7		#F03623	0.710034499699702
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	15	7	comprehension|sentence|sentences|syntactic	#FC622F	0.624235866197514
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	16	7		#FC622F	0.698001289127399
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	17	7		#F03623	0.709235754736662
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	18	7	phonological|reading|read	#FC622F	0.633042219615433
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	19	7		#F03623	0.756748141531901
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	20	7	perceptual|recognition	#D7141E	0.81978748373205
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	21	7		#F03623	0.757983454601994
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	22	7		#FC622F	0.689462745243915
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	23	7	verb	#FC622F	0.643736624147819
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	1	8	outcome|reward	#FECB68	0.347856762916171
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	2	8	anticipation	#FECB68	0.345889087249618
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	3	8	outcomes	#FEE188	0.285109827464984
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	4	8	choice|choices	#FECB68	0.334653765298184
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	5	8	decisions|probability	#FD913D	0.569154914415151
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	6	8	reversal	#FD913D	0.548422159400079
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	7	8	classification|incorrect	#FDAD4A	0.492087447151681
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	8	8		#FC622F	0.625852439888943
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	9	8	agerelated|fluency|probes	#FDAD4A	0.432000716806486
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	10	8	engaged	#FDAD4A	0.423223816892874
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	11	8	explicit|knowledge	#FDAD4A	0.499569480730769
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	12	8		#FC622F	0.619210551962979
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	13	8		#FC622F	0.648639417677944
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	14	8		#FC622F	0.65362381482946
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	15	8		#FC622F	0.629040292803377
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	16	8		#FC622F	0.649292915139858
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	17	8	lexical	#FD913D	0.53778873001733
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	18	8		#FC622F	0.663006460571609
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	19	8		#F03623	0.727902710671995
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	20	8		#F03623	0.753611914940361
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	21	8	encoding	#FC622F	0.696406978428087
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	22	8	retrieval	#FDAD4A	0.492970942091027
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	23	8	verbal	#FC622F	0.67621382201997
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	1	9	incentive|monetary|money|rewards	#FFF1A9	0.171561503708975
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	2	9	loss	#FECB68	0.312459467558868
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	3	9		#FDAD4A	0.43544275265666
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	4	9		#FDAD4A	0.499662050738023
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	5	9	decisionmaking	#FECB68	0.305792621276698
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	6	9		#FC622F	0.63935941244556
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	7	9		#FC622F	0.603013647202587
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	8	9		#FD913D	0.590079569543199
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	9	9		#FD913D	0.57155268814285
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	10	9		#FD913D	0.536807631070415
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	11	9		#FD913D	0.545051527667948
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	12	9		#FD913D	0.530710264110804
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	13	9	noun	#FECB68	0.303845118640932
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	14	9	meaning	#FDAD4A	0.478775057592194
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	15	9	english	#FDAD4A	0.44311763710245
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	16	9	pseudoword|pseudowords	#FECB68	0.383002968632865
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	17	9		#FC622F	0.615818416732449
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	18	9		#FC622F	0.671767091194722
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	19	9	familiar|judgment	#FD913D	0.594723621195
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	20	9	pair|pairs	#FC622F	0.638330682397917
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	21	9		#F03623	0.763185217881253
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	22	9		#F03623	0.707829544519904
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	23	9	letter|working	#FD913D	0.556707671149344
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	1	10	losses|reinforcement|win	#FEE188	0.254465978162221
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	2	10	gain	#FFF1A9	0.1821838157032
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	3	10	expectation	#FDAD4A	0.411443099766335
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	4	10	risk	#FECB68	0.385092787142829
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	5	10	fact	#FDAD4A	0.452960612276858
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	6	10	associative	#FD913D	0.551411650759949
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	7	10	familiarity|judgments|old	#FDAD4A	0.436498396384126
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	8	10	contextual|text	#FECB68	0.31521927767656
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	9	10	recall|retrieved	#FECB68	0.331943134295151
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	10	10	conceptual|semantically	#FDAD4A	0.422357957557122
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	11	10	grammatical|speakers	#FD913D	0.554657466088431
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	12	10	nouns	#FEE188	0.270584192841901
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	13	10	japanese	#FEE188	0.294589977166584
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	14	10	languages	#FECB68	0.313184857111898
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	15	10	written	#FDAD4A	0.494906885990491
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	16	10	chinese|phonology	#FECB68	0.375421902617773
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	17	10	orthographic	#FDAD4A	0.48712402999078
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	18	10		#F03623	0.70937963589331
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	19	10		#F03623	0.749255501101782
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	20	10	association|decision	#FC622F	0.65536118202218
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	21	10	selection	#FD913D	0.567350487621085
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	22	10	letters	#FD913D	0.575478961046245
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	23	10	demand|load	#FD913D	0.583534348068308
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	1	11	conditioned|conditioning	#FFF1A9	0.167530410466442
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	2	11		#FDAD4A	0.449309908615209
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	3	11	drug|placebo	#FDAD4A	0.423513619472902
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	4	11		#F03623	0.700966589146552
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	5	11	associations	#FC622F	0.60428929290389
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	6	11		#FD913D	0.588947269982269
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	7	11	episodic|recollection	#FEE188	0.259752227073159
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	8	11		#FD913D	0.513707526244626
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	9	11		#FC622F	0.650451730160385
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	10	11	concepts	#FEE188	0.268745252304122
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	11	11		#FC622F	0.624816295622062
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	12	11		#FD913D	0.577315081434607
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	13	11	german	#FC622F	0.610480329010337
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	14	11	readers	#FDAD4A	0.459401917515292
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	15	11	character|name|naming	#FDAD4A	0.489087832370595
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	16	11		#FC622F	0.630931955302688
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	17	11	novel	#FC622F	0.694352613235062
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	18	11		#F03623	0.732526155556222
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	19	11	child|children	#FC622F	0.664463538647298
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	20	11	adults	#F03623	0.767270249960094
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	21	11	ability|feedback|learning	#F03623	0.754723215461741
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	22	11	cues|delay	#FC622F	0.651094209397443
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	23	11	attentional|difficulty|targets	#FC622F	0.643458392856814
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	1	12	aversive|shock	#FECB68	0.338195107918164
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	2	12	reactivity	#FECB68	0.309047959383433
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	3	12	males|sex|women	#FDAD4A	0.453372324551267
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	4	12	animal	#FC622F	0.617911862065386
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	5	12	animals	#FD913D	0.576849642453261
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	6	12		#FD913D	0.585228422913491
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	7	12	remember|subsequent	#FECB68	0.30358920342954
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	8	12	autobiographical|memories	#FFF1A9	0.119335590489165
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	9	12		#FC622F	0.68746041011382
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	10	12	violation|violations	#FECB68	0.39649501492381
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	11	12	aphasia	#FC622F	0.611028679756193
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	12	12	nonwords	#FDAD4A	0.402803208325065
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	13	12	dyslexia	#FECB68	0.377010519536104
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	14	12		#FC622F	0.680384705710641
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	15	12	priming	#FDAD4A	0.499327100039539
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	16	12		#F03623	0.747502235219298
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	17	12	category|repetition	#F03623	0.724272901520379
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	18	12		#F03623	0.758294697310541
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	19	12	developmental|development	#FD913D	0.574245281117586
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	20	12		#F03623	0.768737006355342
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	21	12	space	#D7141E	0.813514034384024
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	22	12		#FC622F	0.655575956396118
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	23	12	color	#FD913D	0.554913668528087
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	1	13	threat	#FECB68	0.373854802024672
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	2	13	regulation	#FECB68	0.373047101350124
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	3	13		#FC622F	0.612228474698215
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	4	13	masked	#FDAD4A	0.462295552498072
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	5	13	scene|scenes	#FDAD4A	0.424825714596359
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	6	13		#FD913D	0.572568809288977
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	7	13	confidence|remembered	#FFF1A9	0.18503612628984
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	8	13		#FD913D	0.560628067166014
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	9	13		#F03623	0.72909835504096
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	10	13	ambiguity|ambiguous	#FEE188	0.297424903455737
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	11	13		#F03623	0.72626705016115
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	12	13		#F03623	0.711102700287462
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	13	13	writing	#FDAD4A	0.439694660469278
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	14	13		#F03623	0.765209172832408
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	15	13	categorization|congruency|prime	#FC622F	0.641370655649239
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	16	13		#F03623	0.780511650446078
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	17	13	mask	#FC622F	0.657064976108766
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	18	13		#F03623	0.744045016246579
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	19	13		#FC622F	0.669620176702511
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	20	13		#FC622F	0.658427173883086
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	21	13	conflict|congruent|incongruent	#FD913D	0.554161002954959
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	22	13	errors	#FDAD4A	0.481514534272832
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	23	13	maintenance|probe|wm	#FDAD4A	0.476449814568441
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	1	14	angry|fearful|happy	#FECB68	0.358669174532534
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	2	14		#FDAD4A	0.439801486128366
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	3	14	awareness|conscious|ptsd	#FECB68	0.363299713964703
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	4	14		#F03623	0.737164652032775
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	5	14	houses|photographs	#FECB68	0.362825280714022
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	6	14		#FC622F	0.657995832293473
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	7	14	hits	#FECB68	0.320662746176504
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	8	14	famous	#FDAD4A	0.467509857262229
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	9	14	names	#FEE188	0.244937046436073
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	10	14	family	#FD913D	0.513079419452637
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	11	14	competition|mouth	#FC622F	0.649601709619854
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	12	14	abilities	#FDAD4A	0.497065339771052
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	13	14	implicit|unfamiliar	#FC622F	0.658805398297766
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	14	14		#D7141E	0.817900799573755
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	15	14	tom	#F03623	0.740710574290698
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	16	14		#F03623	0.743040411204315
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	17	14		#FC622F	0.667160960438971
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	18	14	stop	#FDAD4A	0.487348955684938
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	19	14	inhibition|inhibitory|nogo	#FDAD4A	0.442455583226526
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	20	14	monitoring|stroop	#FECB68	0.315538560286265
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	21	14	interference	#FDAD4A	0.441841591113088
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	22	14		#FD913D	0.529840368630957
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	23	14	demands|executive	#FDAD4A	0.438222009466036
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	1	15	anger	#FEE188	0.255892135061762
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	2	15	stress	#FEE188	0.22685377244738
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	3	15	feelings	#FECB68	0.382293205850906
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	4	15	salient	#FD913D	0.513265440948689
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	5	15	novelty	#FDAD4A	0.487278704734234
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	6	15	movie	#FEE188	0.289744598474426
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	7	15		#F03623	0.712079181671468
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	8	15		#F03623	0.726101042046207
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	9	15	longterm	#FECB68	0.308066352882444
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	10	15		#FC622F	0.628221718269047
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	11	15	reasoning|relational	#FEE188	0.288040456773678
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	12	15		#F03623	0.71759073496448
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	13	15	presentations	#FD913D	0.582557729106912
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	14	15		#F03623	0.795979011286163
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	15	15	identity	#FC622F	0.65984894812211
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	16	15		#FC622F	0.682619645176454
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	17	15	strategies|strategy	#FDAD4A	0.402083583140134
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	18	15	card|cards	#FECB68	0.396171299238242
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	19	15	gonogo	#FDAD4A	0.418405831088357
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	20	15		#FD913D	0.506267944169942
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	21	15	switching|switch	#FECB68	0.353936476042288
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	22	15		#FDAD4A	0.470782164411359
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	23	15	2back|rule	#FDAD4A	0.401752756410825
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	1	16	emotionally|mood|personality|sadness	#FDAD4A	0.401243961476043
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	2	16	disgust|sexual	#FEE188	0.280929561799114
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	3	16	olfactory	#FEE188	0.230437397037581
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	4	16	physiological	#FDAD4A	0.414866786845937
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	5	16	depressed|depressive|habituation	#FECB68	0.35546561289175
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	6	16	schizophrenic	#FDAD4A	0.477961309944156
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	7	16	colors|contexts	#FECB68	0.310864082515653
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	8	16	aging|encoded	#FECB68	0.364652986383165
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	9	16	goal	#FFF1A9	0.197707217618649
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	10	16		#FD913D	0.557111979543144
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	11	16	autism|autistic|nonverbal	#FDAD4A	0.406899962205769
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	12	16		#FC622F	0.675651702485195
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	13	16	bottomup|repetitions	#FDAD4A	0.413930234070556
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	14	16	adaptation	#F03623	0.774794811318671
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	15	16	irrelevant	#FD913D	0.540789335284014
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	16	16	distractor|distractors	#FECB68	0.393362157040466
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	17	16		#FD913D	0.594911431356562
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	18	16	subtraction	#FECB68	0.365589724721095
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	19	16	1back|nback	#FECB68	0.354189189156153
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	20	16	manipulation|rules	#FDAD4A	0.483827058882144
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	21	16		#FD913D	0.515793330513794
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	22	16		#FDAD4A	0.447414073312145
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	23	16	digit	#FDAD4A	0.401099989727511
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	1	17	avoidance	#FFF1A9	0.159959022744882
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	2	17		#FDAD4A	0.46581176447251
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	3	17	eating|food	#FFF1A9	0.110496892571226
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	4	17	taste	#FEE188	0.262816018494695
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	5	17	bipolar	#FEE188	0.249696487089449
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	6	17	illness|uncertainty	#FECB68	0.373631827215005
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	7	17	females|probabilistic	#FECB68	0.326067585253384
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	8	17	rejection	#FFF1A9	0.137911298497391
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	9	17	colour|paired	#FD913D	0.539878755302538
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	10	17		#FC622F	0.622047522383947
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	11	17		#FC622F	0.631761968445554
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	12	17		#FC622F	0.62266213367307
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	13	17	taskirrelevant	#FDAD4A	0.472612550583286
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	14	17		#FC622F	0.697857359035922
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	15	17	suppression	#FDAD4A	0.490024542771394
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	16	17		#FC622F	0.694764008479707
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	17	17	shifting|shortterm	#FDAD4A	0.403679316388553
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	18	17	digits	#FECB68	0.341472351794545
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	19	17	search	#FDAD4A	0.470712503863929
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	20	17	counting|taskrelated	#FDAD4A	0.421863777793736
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	21	17	topdown	#FD913D	0.528650158072203
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	22	17	visuospatial	#FECB68	0.319779216872626
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	23	17	arithmetic|calculation|solving	#FEE188	0.269808514808137
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	1	18	addiction|craving|drugs	#FEE188	0.291534529311108
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	2	18	allele|genotype|polymorphism	#FEE188	0.200616493742622
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	3	18	motivation	#FEE188	0.212232822694396
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	4	18	heart	#FD913D	0.510558804439076
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	5	18	sleep	#FECB68	0.365157606092204
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	6	18	expectancy	#FDAD4A	0.427127290238965
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	7	18	phasic|salience	#FEE188	0.255747069432343
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	8	18	adolescence|adolescents	#FEE188	0.243154662365912
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	9	18	intelligence|tracking	#FD913D	0.592545895533496
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	10	18		#F03623	0.728136884678527
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	11	18	serial	#FECB68	0.353742945779538
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	12	18		#FC622F	0.645894493184549
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	13	18	spatially|taskrelevant	#FDAD4A	0.408549276003663
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	14	18		#F03623	0.704693933937306
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	15	18	attended|attend|unattended	#FDAD4A	0.482335305252854
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	16	18	rotation|shapes	#FDAD4A	0.499346205595168
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	17	18	rehearsal	#FDAD4A	0.43105949708353
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	18	18	learned	#FDAD4A	0.4790366441283
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	19	18		#FC622F	0.634788684180091
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	20	18	cued|preparatory	#FDAD4A	0.453712014643377
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	21	18		#FC622F	0.662476844483755
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	22	18		#FD913D	0.575551190656744
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	23	18	numbers|numerical	#FECB68	0.37043676520679
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	1	19	future	#FEE188	0.26642175057901
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	2	19	negatively	#FECB68	0.326628785305771
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	3	19	distress|epilepsy|selfreported	#FECB68	0.358281181828512
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	4	19	anticipatory|cocaine|probabilities|smoking	#FECB68	0.309575145131146
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	5	19	alcohol|amount|impulsivity	#FEE188	0.231566356333843
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	6	19	game|success	#FFF1A9	0.113172025061895
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	7	19	adhd|childhood|engagement	#FEE188	0.294037032140032
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	8	19		#FC622F	0.665629424881789
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	9	19		#F03623	0.72335304420712
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	10	19		#F03623	0.710440181899212
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	11	19		#FC622F	0.67451494646646
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	12	19	endogenous	#FDAD4A	0.484714624284659
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	13	19	cueing|invalid|orienting	#FECB68	0.395200022588024
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	14	19		#F03623	0.728614495944802
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	15	19	multisensory	#F03623	0.749357623406037
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	16	19		#F03623	0.723313299002203
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	17	19	shifts	#FC622F	0.670025241764815
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	18	19	covert	#FC622F	0.622706324683635
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	19	19		#FC622F	0.638382129689407
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	20	19	preparation	#FDAD4A	0.486327341719714
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	21	19	discrimination|training	#F03623	0.724690292788638
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	22	19	sequences	#FD913D	0.596509915275464
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	23	19		#F03623	0.753816270358441
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	1	20	personal|self|selfreferential|trait|traits	#FECB68	0.378664401307825
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	2	20	empathic|theory	#FD913D	0.532050733665932
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	3	20	attribution|intentional	#FFF1A9	0.132106270054297
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	4	20	elderly|oscillations	#FFFFCC	0.0302291824855935
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	5	20	antipsychotic|virtual	#FFF1A9	0.177293281900524
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	6	20		#FC622F	0.623761765876192
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	7	20	experiences	#FEE188	0.268234010051837
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	8	20	categorical|pressure	#FECB68	0.310237682257021
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	9	20	play|skills	#FECB68	0.308032649076466
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	10	20	automatic|trained	#FDAD4A	0.442666547276061
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	11	20		#FC622F	0.612028881509232
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	12	20	practice	#FDAD4A	0.413274210024706
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	13	20	visuomotor	#FDAD4A	0.499951261286427
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	14	20		#F03623	0.778579720379694
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	15	20	tool	#FECB68	0.38272687429018
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	16	20	vision	#FECB68	0.318547180307535
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	17	20	visually	#FD913D	0.506414995005542
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	18	20	saccade|saccades|saccadic	#FDAD4A	0.422413884926612
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	19	20	locations	#FDAD4A	0.48544185001776
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	20	20	imagery|planning	#FDAD4A	0.488973113972375
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	21	20		#FC622F	0.697250581493149
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	22	20	rest	#FC622F	0.683830738153118
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	23	20	sequence	#F03623	0.757694241903346
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	1	21	scenarios	#FEE188	0.26188536112595
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	2	21	intention|intentions	#FDAD4A	0.468182080770823
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	3	21	causality|perspective	#FFF1A9	0.126490661890488
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	4	21	past	#FFFFCC	0.00258520448993934
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	5	21		#FC622F	0.653313379272968
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	6	21	episode	#FEE188	0.244312626511012
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	7	21	improvement	#FECB68	0.319666673666703
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	8	21	masking|retention	#FECB68	0.369467636688649
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	9	21		#FC622F	0.685323199531477
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	10	21	dominant	#FDAD4A	0.489513136391034
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	11	21		#FD913D	0.504416708696226
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	12	21	sequential	#FECB68	0.367840163224936
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	13	21	fingers	#FEE188	0.205304653733154
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	14	21		#F03623	0.734069677338719
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	15	21	gesture|gestures	#FECB68	0.377132419771698
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	16	21		#FC622F	0.650483910100735
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	17	21	hands	#FECB68	0.38064559801827
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	18	21		#FD913D	0.592425431698624
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	19	21		#FC622F	0.620574294768177
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	20	21	eye|position	#FD913D	0.556396501030813
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	21	21	execution	#FD913D	0.540053238120457
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	22	21	finger|sensorimotor	#FDAD4A	0.48926115262075
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	23	21		#FC622F	0.601990135324925
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	1	22	moral|stories|story	#FECB68	0.388216751299914
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	2	22	mentalizing|persons	#FD913D	0.511045225958376
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	3	22	default|restingstate	#FFFFCC	0
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	4	22	thinking|thought|thoughts	#FFF1A9	0.13283692983589
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	5	22	spontaneous	#FECB68	0.359453272834254
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	6	22	concentration|sensations	#FDAD4A	0.451911622695169
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	7	22	hierarchical|preference	#FD913D	0.5008925784042
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	8	22	effort|oral|simulation	#FDAD4A	0.452024921652336
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	9	22	interhemispheric|plasticity	#FECB68	0.363801778471149
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	10	22	imagined|imagine	#FECB68	0.396519296081723
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	11	22	tapping	#FDAD4A	0.43770842243165
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	12	22	foot|muscle|muscles|voluntary	#FFF1A9	0.196913332601166
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	13	22	limb	#FFF1A9	0.18285392041941
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	14	22	eyes|velocity	#FD913D	0.53134003579699
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	15	22	biological|gaze|videos	#FD913D	0.52043211097444
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	16	22	body	#FD913D	0.584159934883032
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	17	22	grasping|orientation|reaching	#FECB68	0.326506922222196
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	18	22		#FD913D	0.578142879035097
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	19	22	mirror|shape	#FD913D	0.588787941990058
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	20	22	actions	#FD913D	0.568915258678302
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	21	22	action	#FC622F	0.640145117109868
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	22	22		#FD913D	0.574274392240444
+a0815c7e-c6e2-3ad7-b2a7-0267bebd3d8d	Bavelier D	23	22	hand|movements|sensory	#FDAD4A	0.457704565487964

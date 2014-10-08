@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	1	1	auditory|speech	#FD913D	0.540265670598278
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	2	1		#FDAD4A	0.495297829270226
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	3	1	da|integration	#FD913D	0.518829475346282
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	4	1		#FD913D	0.53790959443043
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	5	1	physical|psychophysical|tactile	#FECB68	0.377443692930812
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	6	1		#FD913D	0.600070193961096
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	7	1	somatosensory|stimulation	#FC622F	0.653796565207741
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	8	1	painful|pain	#FD913D	0.565824262965704
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	9	1		#FC622F	0.652106861783428
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	10	1	ratings	#F03623	0.747564794705465
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	11	1	affective|affect	#FD913D	0.574753677701808
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	12	1	emotions	#FD913D	0.509491072640058
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	13	1	expression|expressions|facial	#FEE188	0.242179531993896
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	14	1		#FDAD4A	0.472061966298784
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	15	1		#FDAD4A	0.492597986759736
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	16	1	emotion|motion|neutral	#FDAD4A	0.483324944989268
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	17	1	rating	#FC622F	0.661160747616828
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	18	1	negative|positive	#FC622F	0.664154110792758
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	19	1		#FD913D	0.589215336669673
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	20	1	ear|order	#FDAD4A	0.478892063710684
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	21	1	motor	#FDAD4A	0.414714999478986
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	22	1	visual	#FEE188	0.221369417379138
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	23	1	age|image|response	#FDAD4A	0.451538374564489
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	1	2	sound|sounds	#FDAD4A	0.430936781865789
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	2	2		#FDAD4A	0.480851367370715
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	3	2	audiovisual|bimodal|crossmodal	#FFF1A9	0.193214838522184
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	4	2		#FD913D	0.558691263706976
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	5	2		#FC622F	0.605524268543852
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	6	2		#FC622F	0.633297858910987
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	7	2	sensation	#FD913D	0.57146158457641
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	8	2	heat|noxious	#FDAD4A	0.470965412938577
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	9	2		#FC622F	0.63805018548491
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	10	2		#FC622F	0.690540283011422
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	11	2		#FC622F	0.694230219435285
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	12	2	valence	#FD913D	0.596431721259239
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	13	2	person|social	#D7141E	0.854251787051353
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	14	2		#FDAD4A	0.485327428521371
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	15	2	face|faces	#FECB68	0.316004818532594
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	16	2		#FD913D	0.551783210284448
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	17	2		#FC622F	0.622267870585117
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	18	2		#FC622F	0.631450788031533
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	19	2		#FD913D	0.586856501473687
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	20	2		#FDAD4A	0.475188066942408
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	21	2	images|spatial	#FDAD4A	0.406968311149336
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	22	2	control	#FDAD4A	0.404759794500771
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	23	2	time	#FDAD4A	0.44828827550141
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	1	3	acoustic|listening|musical|music|pitch	#FDAD4A	0.426554698166675
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	2	3	noise|tones	#FDAD4A	0.445786664058692
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	3	3		#FD913D	0.59038443275263
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	4	3		#FC622F	0.666083217562281
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	5	3	frequency	#F03623	0.708087411772075
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	6	3		#F03623	0.793237450089277
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	7	3		#FD913D	0.590234517776064
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	8	3	temperature	#FECB68	0.375507325455445
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	9	3		#FD913D	0.582732976644849
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	10	3	pleasant|unpleasant	#FD913D	0.513103409055088
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	11	3	anxiety	#FD913D	0.564464023451677
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	12	3		#FC622F	0.672558000352687
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	13	3		#FC622F	0.660469018360596
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	14	3		#FD913D	0.574413642195733
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	15	3		#FD913D	0.556044428072595
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	16	3	picture	#FD913D	0.511177528064993
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	17	3		#FC622F	0.613386633364437
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	18	3	value	#FC622F	0.653248944921215
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	19	3	cue	#FDAD4A	0.470422789521047
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	20	3	error|target	#FDAD4A	0.468150987742421
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	21	3	attention	#FECB68	0.307422763442737
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	22	3		#FDAD4A	0.421752404582179
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	23	3	number	#FDAD4A	0.440225049944259
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	1	4	voice	#FDAD4A	0.42691370241932
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	2	4		#FD913D	0.51478706398296
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	3	4	hearing	#FECB68	0.356778485737456
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	4	4		#F03623	0.71565754198215
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	5	4	overt	#FC622F	0.659812674105153
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	6	4		#F03623	0.799780336396994
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	7	4		#FC622F	0.665697414077969
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	8	4	nociceptive|nonpainful|painrelated	#FDAD4A	0.413442940715746
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	9	4	unpleasantness	#FDAD4A	0.489774517527017
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	10	4	skin|subjective	#FC622F	0.644130517662951
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	11	4	depression	#FC622F	0.657875313008708
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	12	4	experience	#FD913D	0.592196888659111
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	13	4	female	#FD913D	0.597616190902288
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	14	4	male	#FC622F	0.678047057209329
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	15	4	pictures	#FDAD4A	0.459057720137928
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	16	4		#FD913D	0.571569368013969
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	17	4	perception	#FDAD4A	0.44738723022949
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	18	4		#FD913D	0.558852648491356
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	19	4		#FD913D	0.521633737402978
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	20	4		#FDAD4A	0.463203343103035
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	21	4	correct	#FDAD4A	0.458147912397035
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	22	4	work	#FDAD4A	0.407441689668008
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	23	4	memory	#FDAD4A	0.450340993872601
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	1	5	prosodic|prosody	#FDAD4A	0.455726460601142
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	2	5	phonetic	#FDAD4A	0.477860088284453
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	3	5	syllable|syllables	#FD913D	0.554639511442645
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	4	5		#F03623	0.709610522247253
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	5	5	lip|production	#FC622F	0.673874502856549
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	6	5	somatotopic	#F03623	0.78172279633581
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	7	5		#F03623	0.766762968534978
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	8	5		#FC622F	0.631922143267877
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	9	5	empathy	#FC622F	0.624365973196792
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	10	5		#FC622F	0.675033036177418
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	11	5	disorder	#FD913D	0.533288459460182
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	12	5		#F03623	0.713284262254285
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	13	5		#F03623	0.761402674176909
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	14	5		#F03623	0.722865869083351
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	15	5		#FC622F	0.69965388600383
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	16	5		#FC622F	0.636122985230985
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	17	5		#FC622F	0.629201489174225
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	18	5	mental	#FD913D	0.59824798976807
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	19	5	go	#FDAD4A	0.496053403012339
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	20	5	object	#FEE188	0.253311123903038
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	21	5		#FDAD4A	0.471225263251623
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	22	5		#FDAD4A	0.496936112082408
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	23	5	word|words	#FDAD4A	0.409937491914657
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	1	6		#F03623	0.786673791591267
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	2	6		#F03623	0.784759427590946
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	3	6		#D7141E	0.830273674833519
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	4	6	vocal	#FC622F	0.606799853559708
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	5	6	articulatory	#FDAD4A	0.493183090303843
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	6	6		#D7141E	0.826375272121296
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	7	6	oddball	#FD913D	0.584715223533089
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	8	6	perceived	#FD913D	0.538726194973142
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	9	6	errorrelated	#FD913D	0.542516381381085
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	10	6	approach	#FD913D	0.59868534751582
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	11	6	schizophrenia	#FD913D	0.572668010827583
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	12	6	acquisition	#FC622F	0.692532654760112
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	13	6		#F03623	0.721744086574739
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	14	6		#FC622F	0.671521670296083
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	15	6		#FC622F	0.668494556368205
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	16	6		#FC622F	0.665342943558087
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	17	6		#FD913D	0.566953001307463
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	18	6		#FD913D	0.514884098059602
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	19	6		#FD913D	0.52447750839826
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	20	6	objects	#FECB68	0.393590284954958
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	21	6		#FD913D	0.51250679795944
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	22	6		#FD913D	0.505320279601395
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	23	6	language|semantic	#FDAD4A	0.496191897916506
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	1	7	dopamine|dopaminergic	#FD913D	0.578003908053786
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	2	7		#F03623	0.743091318852378
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	3	7		#D7141E	0.888205373794742
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	4	7		#D7141E	0.892208796404004
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	5	7		#D7141E	0.844746206673523
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	6	7		#D7141E	0.841013928407016
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	7	7		#D7141E	0.812843593547562
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	8	7		#F03623	0.725248350087783
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	9	7		#F03623	0.711074286830152
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	10	7		#F03623	0.714291486128459
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	11	7		#F03623	0.723339978038836
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	12	7		#F03623	0.704042435786279
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	13	7	linguistic|spoken	#FDAD4A	0.474923745369828
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	14	7		#FC622F	0.634596423511467
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	15	7	comprehension|sentence|sentences|syntactic	#FC622F	0.608771411804599
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	16	7		#FC622F	0.603715577089332
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	17	7		#FD913D	0.525953819307019
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	18	7	phonological|reading|read	#FDAD4A	0.435027665371767
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	19	7		#FD913D	0.517070667866046
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	20	7	perceptual|recognition	#FD913D	0.52682831288369
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	21	7		#FD913D	0.545882890277768
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	22	7		#FD913D	0.530287789218997
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	23	7	verb	#FDAD4A	0.493714804189117
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	1	8	outcome|reward	#F03623	0.705127454268119
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	2	8	anticipation	#FC622F	0.671104991079997
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	3	8	outcomes	#F03623	0.792485533510844
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	4	8	choice|choices	#FC622F	0.644728832316207
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	5	8	decisions|probability	#FC622F	0.617427053874313
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	6	8	reversal	#F03623	0.700424079533507
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	7	8	classification|incorrect	#FC622F	0.628461812027797
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	8	8		#F03623	0.719868119836325
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	9	8	agerelated|fluency|probes	#FD913D	0.551752611002812
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	10	8	engaged	#FD913D	0.587567929990633
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	11	8	explicit|knowledge	#FC622F	0.659752982068293
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	12	8		#FC622F	0.650998820481329
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	13	8		#FC622F	0.616768569307741
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	14	8		#FD913D	0.596171608070099
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	15	8		#FD913D	0.577213514654567
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	16	8		#FD913D	0.563358654984913
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	17	8	lexical	#FDAD4A	0.434884072672535
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	18	8		#FD913D	0.518999706183482
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	19	8		#FD913D	0.550009351756972
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	20	8		#FD913D	0.589241397329992
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	21	8	encoding	#FD913D	0.500099312295275
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	22	8	retrieval	#FC622F	0.616429638562451
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	23	8	verbal	#FDAD4A	0.49303157298095
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	1	9	incentive|monetary|money|rewards	#FD913D	0.545764403750874
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	2	9	loss	#F03623	0.708450140871766
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	3	9		#F03623	0.775043829035428
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	4	9		#F03623	0.775458459530782
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	5	9	decisionmaking	#FC622F	0.639593181104942
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	6	9		#F03623	0.730938855150122
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	7	9		#F03623	0.712813835149951
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	8	9		#F03623	0.706378685613939
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	9	9		#F03623	0.710298915531433
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	10	9		#FC622F	0.690097896514003
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	11	9		#FC622F	0.649876110111456
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	12	9		#FC622F	0.622999339709767
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	13	9	noun	#FDAD4A	0.471244458737843
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	14	9	meaning	#FD913D	0.529678356740448
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	15	9	english	#FECB68	0.391375733475816
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	16	9	pseudoword|pseudowords	#FECB68	0.388996678096207
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	17	9		#FDAD4A	0.481525840907195
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	18	9		#FD913D	0.568855346159807
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	19	9	familiar|judgment	#FC622F	0.656991479337805
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	20	9	pair|pairs	#FD913D	0.541225780234973
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	21	9		#FD913D	0.597367105435751
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	22	9		#FD913D	0.535582747293772
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	23	9	letter|working	#FDAD4A	0.411881204613174
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	1	10	losses|reinforcement|win	#FD913D	0.573601087897773
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	2	10	gain	#FD913D	0.587498137580578
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	3	10	expectation	#FC622F	0.67589603754907
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	4	10	risk	#FD913D	0.59466580736193
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	5	10	fact	#FD913D	0.540112894655459
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	6	10	associative	#FDAD4A	0.476244813328196
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	7	10	familiarity|judgments|old	#FC622F	0.687311631516256
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	8	10	contextual|text	#FC622F	0.610577880900708
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	9	10	recall|retrieved	#FD913D	0.562887670921484
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	10	10	conceptual|semantically	#FD913D	0.583641812611714
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	11	10	grammatical|speakers	#FDAD4A	0.466928094187256
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	12	10	nouns	#FDAD4A	0.443209144934529
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	13	10	japanese	#FDAD4A	0.457600719182193
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	14	10	languages	#FECB68	0.326370901626205
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	15	10	written	#FECB68	0.304343856950697
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	16	10	chinese|phonology	#FEE188	0.232189999373987
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	17	10	orthographic	#FECB68	0.348986051702572
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	18	10		#FC622F	0.603410384381031
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	19	10		#FC622F	0.646396024208516
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	20	10	association|decision	#FC622F	0.676578428526292
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	21	10	selection	#FD913D	0.588998730003494
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	22	10	letters	#FECB68	0.386842450921738
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	23	10	demand|load	#FDAD4A	0.485391851050228
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	1	11	conditioned|conditioning	#FECB68	0.373187627957537
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	2	11		#FC622F	0.679861402399025
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	3	11	drug|placebo	#FC622F	0.676614391201317
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	4	11		#F03623	0.720187200792544
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	5	11	associations	#FD913D	0.51957228044501
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	6	11		#FC622F	0.699005606506016
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	7	11	episodic|recollection	#F03623	0.732618855861294
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	8	11		#F03623	0.708355957594105
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	9	11		#F03623	0.794620456460894
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	10	11	concepts	#FC622F	0.622301007851531
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	11	11		#F03623	0.706134865088047
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	12	11		#FC622F	0.641529440089536
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	13	11	german	#FDAD4A	0.498571689225211
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	14	11	readers	#FDAD4A	0.425250049693692
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	15	11	character|name|naming	#FECB68	0.331938592675308
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	16	11		#FDAD4A	0.43570168788947
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	17	11	novel	#FD913D	0.510950834254354
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	18	11		#FD913D	0.55541301396942
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	19	11	child|children	#FD913D	0.505325809135958
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	20	11	adults	#FC622F	0.643185483055017
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	21	11	ability|feedback|learning	#D7141E	0.813100633803968
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	22	11	cues|delay	#FD913D	0.559042730108467
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	23	11	attentional|difficulty|targets	#FDAD4A	0.457845273245283
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	1	12	aversive|shock	#FDAD4A	0.476380171284934
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	2	12	reactivity	#FDAD4A	0.468749682543857
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	3	12	males|sex|women	#FD913D	0.523365538354618
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	4	12	animal	#FD913D	0.51676240928274
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	5	12	animals	#FEE188	0.229106259379057
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	6	12		#FD913D	0.592879076973548
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	7	12	remember|subsequent	#FECB68	0.349855880351465
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	8	12	autobiographical|memories	#D7141E	0.859310195550556
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	9	12		#D7141E	0.806963953562853
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	10	12	violation|violations	#FDAD4A	0.443499840840544
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	11	12	aphasia	#F03623	0.705558124486444
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	12	12	nonwords	#FC622F	0.624687618428347
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	13	12	dyslexia	#FDAD4A	0.412065413068436
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	14	12		#FDAD4A	0.484835599927821
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	15	12	priming	#FECB68	0.328262549500644
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	16	12		#FD913D	0.500320448033617
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	17	12	category|repetition	#FDAD4A	0.474598253500553
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	18	12		#FD913D	0.562812026243535
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	19	12	developmental|development	#FDAD4A	0.44942304138242
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	20	12		#FD913D	0.589347030895589
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	21	12	space	#FD913D	0.561886764604857
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	22	12		#FD913D	0.517828120757454
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	23	12	color	#FECB68	0.360654058557996
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	1	13	threat	#FEE188	0.247378259390182
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	2	13	regulation	#FDAD4A	0.473578216346487
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	3	13		#FD913D	0.523117273748748
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	4	13	masked	#FEE188	0.267472864075055
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	5	13	scene|scenes	#FEE188	0.282183652127273
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	6	13		#FD913D	0.509705091111884
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	7	13	confidence|remembered	#FECB68	0.366509111809352
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	8	13		#FC622F	0.656957807704059
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	9	13		#D7141E	0.822635506857203
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	10	13	ambiguity|ambiguous	#FDAD4A	0.429480900989168
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	11	13		#F03623	0.75771199608764
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	12	13		#FC622F	0.632737500147421
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	13	13	writing	#FECB68	0.346316489735655
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	14	13		#FD913D	0.531143880169132
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	15	13	categorization|congruency|prime	#FECB68	0.37388156758126
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	16	13		#FD913D	0.543201656148947
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	17	13	mask	#FDAD4A	0.434138467423234
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	18	13		#FC622F	0.605290332119648
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	19	13		#FC622F	0.616619410988877
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	20	13		#FD913D	0.539200806902549
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	21	13	conflict|congruent|incongruent	#FECB68	0.327264844905334
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	22	13	errors	#FD913D	0.531192713049686
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	23	13	maintenance|probe|wm	#FDAD4A	0.412999162652578
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	1	14	angry|fearful|happy	#FFF1A9	0.132069198299401
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	2	14		#FEE188	0.296120049548224
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	3	14	awareness|conscious|ptsd	#FDAD4A	0.417940317373516
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	4	14		#FDAD4A	0.495598553360145
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	5	14	houses|photographs	#FFF1A9	0.137043091580219
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	6	14		#FDAD4A	0.425373923190354
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	7	14	hits	#FEE188	0.281287886068115
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	8	14	famous	#FD913D	0.518180217423075
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	9	14	names	#FD913D	0.529174493938792
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	10	14	family	#FD913D	0.560800014231431
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	11	14	competition|mouth	#FDAD4A	0.489696722011034
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	12	14	abilities	#FD913D	0.504862234406857
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	13	14	implicit|unfamiliar	#FECB68	0.392047047584074
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	14	14		#FDAD4A	0.495682446817521
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	15	14	tom	#FC622F	0.645739634826875
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	16	14		#FDAD4A	0.481679952769395
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	17	14		#FD913D	0.505288018455677
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	18	14	stop	#FD913D	0.552783308981629
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	19	14	inhibition|inhibitory|nogo	#FC622F	0.608309739718763
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	20	14	monitoring|stroop	#FECB68	0.37477439435594
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	21	14	interference	#FECB68	0.366078387337069
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	22	14		#FDAD4A	0.433241537435382
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	23	14	demands|executive	#FDAD4A	0.42055843557488
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	1	15	anger	#FFF1A9	0.141362112274471
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	2	15	stress	#FEE188	0.230192406403358
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	3	15	feelings	#FDAD4A	0.442212790727236
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	4	15	salient	#FECB68	0.375505876878206
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	5	15	novelty	#FEE188	0.281640665864905
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	6	15	movie	#FFFFCC	0.0812739355516349
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	7	15		#FD913D	0.526013144218982
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	8	15		#FC622F	0.649590799828205
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	9	15	longterm	#FD913D	0.567933281165274
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	10	15		#FC622F	0.644270719386085
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	11	15	reasoning|relational	#FECB68	0.36256911992247
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	12	15		#FD913D	0.53818558961583
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	13	15	presentations	#FEE188	0.275777746744974
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	14	15		#FDAD4A	0.450891639418625
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	15	15	identity	#FEE188	0.261407062763524
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	16	15		#FDAD4A	0.444430894944868
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	17	15	strategies|strategy	#FECB68	0.374712302645995
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	18	15	card|cards	#FD913D	0.525441112018168
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	19	15	gonogo	#FD913D	0.57350484020647
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	20	15		#FD913D	0.51076579286527
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	21	15	switching|switch	#FECB68	0.312689731462703
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	22	15		#FECB68	0.394084486845296
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	23	15	2back|rule	#FECB68	0.334125778086308
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	1	16	emotionally|mood|personality|sadness	#FEE188	0.278472501932596
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	2	16	disgust|sexual	#FECB68	0.364322370571081
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	3	16	olfactory	#FECB68	0.312229826273367
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	4	16	physiological	#FC622F	0.606764352920939
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	5	16	depressed|depressive|habituation	#FEE188	0.286048445987004
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	6	16	schizophrenic	#FDAD4A	0.449817039722754
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	7	16	colors|contexts	#FEE188	0.228692405089093
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	8	16	aging|encoded	#FECB68	0.395733644780369
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	9	16	goal	#FEE188	0.255780877367242
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	10	16		#FD913D	0.558495899125522
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	11	16	autism|autistic|nonverbal	#FDAD4A	0.452848171879136
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	12	16		#FDAD4A	0.479167000254408
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	13	16	bottomup|repetitions	#FEE188	0.297658603797842
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	14	16	adaptation	#FEE188	0.291290761521316
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	15	16	irrelevant	#FEE188	0.28423508430987
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	16	16	distractor|distractors	#FEE188	0.21131932226209
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	17	16		#FDAD4A	0.460464010342256
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	18	16	subtraction	#FEE188	0.299160881418585
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	19	16	1back|nback	#FECB68	0.304886738752028
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	20	16	manipulation|rules	#FECB68	0.344686968819391
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	21	16		#FECB68	0.397486064398919
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	22	16		#FECB68	0.340670348805244
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	23	16	digit	#FEE188	0.296003326107425
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	1	17	avoidance	#FDAD4A	0.432836117641745
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	2	17		#FC622F	0.63780133172724
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	3	17	eating|food	#FDAD4A	0.406522459178859
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	4	17	taste	#FC622F	0.663087792314828
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	5	17	bipolar	#FDAD4A	0.475023482486491
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	6	17	illness|uncertainty	#FECB68	0.344018495966882
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	7	17	females|probabilistic	#FECB68	0.359033148691352
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	8	17	rejection	#FECB68	0.339082370150444
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	9	17	colour|paired	#FECB68	0.31289445999923
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	10	17		#FD913D	0.565315639084591
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	11	17		#FD913D	0.513732203598646
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	12	17		#FDAD4A	0.459876167455363
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	13	17	taskirrelevant	#FFF1A9	0.173713432692149
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	14	17		#FEE188	0.267244477732056
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	15	17	suppression	#FEE188	0.265216817252717
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	16	17		#FECB68	0.332976351008794
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	17	17	shifting|shortterm	#FECB68	0.335909579018808
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	18	17	digits	#FECB68	0.372952589005062
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	19	17	search	#FDAD4A	0.432318059979181
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	20	17	counting|taskrelated	#FD913D	0.559865964554356
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	21	17	topdown	#FECB68	0.299889578346661
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	22	17	visuospatial	#FFF1A9	0.188088514678835
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	23	17	arithmetic|calculation|solving	#FEE188	0.266322176127417
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	1	18	addiction|craving|drugs	#FD913D	0.549183646606496
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	2	18	allele|genotype|polymorphism	#FD913D	0.588380526403818
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	3	18	motivation	#FDAD4A	0.456358778002776
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	4	18	heart	#FD913D	0.577927966371841
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	5	18	sleep	#FC622F	0.632612427509235
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	6	18	expectancy	#FDAD4A	0.460820098414644
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	7	18	phasic|salience	#FECB68	0.354282908153624
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	8	18	adolescence|adolescents	#FECB68	0.324837806704895
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	9	18	intelligence|tracking	#FDAD4A	0.473045469865227
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	10	18		#FD913D	0.561537085705785
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	11	18	serial	#FECB68	0.335493923557036
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	12	18		#FDAD4A	0.421206992793438
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	13	18	spatially|taskrelevant	#FEE188	0.286365579354851
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	14	18		#FEE188	0.254017736018918
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	15	18	attended|attend|unattended	#FFFFCC	0.0572364939382539
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	16	18	rotation|shapes	#FFF1A9	0.0997021057324221
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	17	18	rehearsal	#FECB68	0.368112955825355
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	18	18	learned	#FDAD4A	0.487147255627669
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	19	18		#FD913D	0.562374907793337
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	20	18	cued|preparatory	#FDAD4A	0.491719522989935
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	21	18		#FD913D	0.54659895716255
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	22	18		#FDAD4A	0.433114644725311
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	23	18	numbers|numerical	#FEE188	0.289439006882719
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	1	19	future	#D7141E	0.806085980698296
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	2	19	negatively	#F03623	0.726642835524195
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	3	19	distress|epilepsy|selfreported	#FD913D	0.566305848835938
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	4	19	anticipatory|cocaine|probabilities|smoking	#F03623	0.742807980511369
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	5	19	alcohol|amount|impulsivity	#FD913D	0.515395143352908
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	6	19	game|success	#FD913D	0.564984634860702
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	7	19	adhd|childhood|engagement	#FD913D	0.592073093335619
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	8	19		#F03623	0.714089478779447
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	9	19		#FC622F	0.650552293865335
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	10	19		#FD913D	0.567856489412108
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	11	19		#FD913D	0.508673581337369
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	12	19	endogenous	#FECB68	0.338326305388471
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	13	19	cueing|invalid|orienting	#FEE188	0.251761420399041
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	14	19		#FEE188	0.297059211560214
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	15	19	multisensory	#FEE188	0.236471221481732
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	16	19		#FEE188	0.281916267748485
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	17	19	shifts	#FECB68	0.392778264611172
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	18	19	covert	#FECB68	0.367669364254899
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	19	19		#FD913D	0.511494908825892
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	20	19	preparation	#FDAD4A	0.474696200689517
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	21	19	discrimination|training	#FDAD4A	0.46350896849509
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	22	19	sequences	#FC622F	0.663252514539726
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	23	19		#F03623	0.755442020970345
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	1	20	personal|self|selfreferential|trait|traits	#B10026	0.907866615378545
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	2	20	empathic|theory	#FC622F	0.65367975591222
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	3	20	attribution|intentional	#FD913D	0.536512176106332
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	4	20	elderly|oscillations	#FDAD4A	0.437225492916373
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	5	20	antipsychotic|virtual	#FD913D	0.508598182035753
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	6	20		#B10026	0.910092017392553
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	7	20	experiences	#FD913D	0.563847039428296
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	8	20	categorical|pressure	#FDAD4A	0.490251389290946
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	9	20	play|skills	#FDAD4A	0.454198646615462
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	10	20	automatic|trained	#FECB68	0.374223748479137
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	11	20		#F03623	0.744060837861219
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	12	20	practice	#FC622F	0.613335427036326
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	13	20	visuomotor	#FDAD4A	0.480568003142831
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	14	20		#FDAD4A	0.481453961092812
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	15	20	tool	#FEE188	0.199999315638214
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	16	20	vision	#FFF1A9	0.128534650983227
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	17	20	visually	#FECB68	0.339475436296056
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	18	20	saccade|saccades|saccadic	#FEE188	0.290141698247274
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	19	20	locations	#FECB68	0.379893211200066
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	20	20	imagery|planning	#FD913D	0.547875147162442
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	21	20		#FC622F	0.651938249524509
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	22	20	rest	#D7141E	0.817754651001282
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	23	20	sequence	#F03623	0.705363820531098
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	1	21	scenarios	#FC622F	0.65740334541848
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	2	21	intention|intentions	#D7141E	0.846935341337019
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	3	21	causality|perspective	#F03623	0.764568463485508
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	4	21	past	#D7141E	0.816185630910337
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	5	21		#B10026	1
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	6	21	episode	#FECB68	0.314625167356157
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	7	21	improvement	#FD913D	0.547019665844565
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	8	21	masking|retention	#FDAD4A	0.454357858820545
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	9	21		#F03623	0.781226369121656
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	10	21	dominant	#FDAD4A	0.477263864478137
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	11	21		#D7141E	0.849377714778749
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	12	21	sequential	#F03623	0.713082057860157
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	13	21	fingers	#FD913D	0.574360429575926
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	14	21		#FECB68	0.373272033342422
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	15	21	gesture|gestures	#FFF1A9	0.180956830431125
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	16	21		#FECB68	0.321263306318167
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	17	21	hands	#FEE188	0.222821124619641
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	18	21		#FDAD4A	0.424158729680945
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	19	21		#FDAD4A	0.434429532173438
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	20	21	eye|position	#FECB68	0.399240968023553
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	21	21	execution	#FC622F	0.684202206122754
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	22	21	finger|sensorimotor	#F03623	0.734166250888579
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	23	21		#FC622F	0.653614601676816
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	1	22	moral|stories|story	#FC622F	0.700214084520222
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	2	22	mentalizing|persons	#F03623	0.764549060577139
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	3	22	default|restingstate	#B10026	0.974561209680117
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	4	22	thinking|thought|thoughts	#F03623	0.770915071087769
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	5	22	spontaneous	#D7141E	0.853429959094108
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	6	22	concentration|sensations	#FC622F	0.616814329993101
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	7	22	hierarchical|preference	#FEE188	0.243390240986668
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	8	22	effort|oral|simulation	#F03623	0.770993844765812
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	9	22	interhemispheric|plasticity	#FDAD4A	0.466894755331943
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	10	22	imagined|imagine	#FC622F	0.668774230360646
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	11	22	tapping	#FC622F	0.698943124628471
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	12	22	foot|muscle|muscles|voluntary	#D7141E	0.857696450186263
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	13	22	limb	#FD913D	0.597173042995237
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	14	22	eyes|velocity	#FEE188	0.284343448088672
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	15	22	biological|gaze|videos	#FFFFCC	0
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	16	22	body	#FECB68	0.399276414968691
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	17	22	grasping|orientation|reaching	#FEE188	0.269231613588737
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	18	22		#FDAD4A	0.421515945762247
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	19	22	mirror|shape	#FEE188	0.263149096412388
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	20	22	actions	#FDAD4A	0.440368732666332
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	21	22	action	#FDAD4A	0.490571355085611
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	22	22		#FD913D	0.58258409790215
+ace97e41-8bcf-3aa5-9e5c-acd8d682893c	Benali H	23	22	hand|movements|sensory	#FDAD4A	0.462710987252736

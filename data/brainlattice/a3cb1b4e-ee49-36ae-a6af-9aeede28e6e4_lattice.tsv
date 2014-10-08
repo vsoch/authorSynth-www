@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	1	1	auditory|speech	#FDAD4A	0.454736030040886
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	2	1		#FDAD4A	0.434804197610177
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	3	1	da|integration	#FDAD4A	0.483129006447218
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	4	1		#F03623	0.785949054245715
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	5	1	physical|psychophysical|tactile	#B10026	0.979222920480428
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	6	1		#B10026	1
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	7	1	somatosensory|stimulation	#D7141E	0.873810233025227
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	8	1	painful|pain	#D7141E	0.825668838305251
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	9	1		#F03623	0.790040754315524
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	10	1	ratings	#FDAD4A	0.469881205224976
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	11	1	affective|affect	#FECB68	0.346112330698479
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	12	1	emotions	#FEE188	0.299412926355684
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	13	1	expression|expressions|facial	#FFF1A9	0.156395571158558
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	14	1		#FEE188	0.26165931318661
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	15	1		#FECB68	0.300784981576549
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	16	1	emotion|motion|neutral	#FECB68	0.325097078550302
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	17	1	rating	#FDAD4A	0.465015700038331
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	18	1	negative|positive	#FDAD4A	0.44983205470948
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	19	1		#FD913D	0.536741133890456
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	20	1	ear|order	#FD913D	0.546315538678543
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	21	1	motor	#FD913D	0.598182548130093
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	22	1	visual	#FDAD4A	0.468796668767044
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	23	1	age|image|response	#FD913D	0.546244238360191
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	1	2	sound|sounds	#FECB68	0.378425714938893
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	2	2		#FDAD4A	0.40451376116638
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	3	2	audiovisual|bimodal|crossmodal	#FEE188	0.287850634107658
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	4	2		#F03623	0.75932985626685
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	5	2		#D7141E	0.892014965158423
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	6	2		#B10026	0.984370546002851
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	7	2	sensation	#F03623	0.731286495838219
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	8	2	heat|noxious	#D7141E	0.899205747526731
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	9	2		#D7141E	0.803999580877203
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	10	2		#FD913D	0.536670820957439
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	11	2		#FDAD4A	0.440736242831442
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	12	2	valence	#FEE188	0.255405876430055
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	13	2	person|social	#FEE188	0.24572139286455
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	14	2		#FEE188	0.273399021527254
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	15	2	face|faces	#FEE188	0.209100295049792
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	16	2		#FECB68	0.376003220562175
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	17	2		#FDAD4A	0.438605368575288
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	18	2		#FD913D	0.516857855901923
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	19	2		#FD913D	0.555311805247
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	20	2		#FD913D	0.573351982236271
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	21	2	images|spatial	#FD913D	0.532095761321275
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	22	2	control	#FD913D	0.567544573879041
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	23	2	time	#FD913D	0.557098822294833
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	1	3	acoustic|listening|musical|music|pitch	#FEE188	0.243652211141362
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	2	3	noise|tones	#FEE188	0.294226528376732
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	3	3		#FDAD4A	0.457068362722196
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	4	3		#FD913D	0.542830968431669
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	5	3	frequency	#FC622F	0.655225860441282
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	6	3		#D7141E	0.811016541817435
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	7	3		#D7141E	0.891882685227234
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	8	3	temperature	#B10026	0.975036906688356
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	9	3		#D7141E	0.813991152254804
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	10	3	pleasant|unpleasant	#FECB68	0.398402526719983
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	11	3	anxiety	#FECB68	0.396318563104435
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	12	3		#FDAD4A	0.441452505525439
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	13	3		#FDAD4A	0.428655397091527
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	14	3		#FECB68	0.349802539934444
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	15	3		#FECB68	0.359771432094915
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	16	3	picture	#FECB68	0.346944158220047
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	17	3		#FDAD4A	0.472462022882393
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	18	3	value	#FD913D	0.587479407792742
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	19	3	cue	#FD913D	0.554421734670734
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	20	3	error|target	#FD913D	0.556206792282904
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	21	3	attention	#FD913D	0.541893715984334
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	22	3		#FD913D	0.543536019490387
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	23	3	number	#FD913D	0.540113733219753
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	1	4	voice	#FEE188	0.230830052383328
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	2	4		#FECB68	0.311884446643992
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	3	4	hearing	#FECB68	0.311029261859652
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	4	4		#FDAD4A	0.458263882076967
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	5	4	overt	#FDAD4A	0.438609785622144
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	6	4		#FD913D	0.577355718464101
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	7	4		#D7141E	0.866997164469855
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	8	4	nociceptive|nonpainful|painrelated	#F03623	0.739977696435506
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	9	4	unpleasantness	#FC622F	0.667822090810022
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	10	4	skin|subjective	#FC622F	0.605507147653145
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	11	4	depression	#FDAD4A	0.490127239657332
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	12	4	experience	#FD913D	0.587272957159938
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	13	4	female	#FDAD4A	0.455202687414989
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	14	4	male	#FDAD4A	0.427461500640197
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	15	4	pictures	#FECB68	0.328733467806461
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	16	4		#FDAD4A	0.448442941845326
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	17	4	perception	#FD913D	0.505555091607575
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	18	4		#FD913D	0.545489661794253
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	19	4		#FD913D	0.543536575671764
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	20	4		#FD913D	0.539272602636673
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	21	4	correct	#FD913D	0.533728736802778
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	22	4	work	#FD913D	0.561460201713925
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	23	4	memory	#FDAD4A	0.491676561428853
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	1	5	prosodic|prosody	#FEE188	0.262132184409037
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	2	5	phonetic	#FEE188	0.267944916853492
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	3	5	syllable|syllables	#FEE188	0.283859368700777
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	4	5		#FECB68	0.395804787864341
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	5	5	lip|production	#FECB68	0.333749330857888
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	6	5	somatotopic	#FDAD4A	0.454299786024117
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	7	5		#F03623	0.738788776464327
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	8	5		#F03623	0.713530441411922
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	9	5	empathy	#FC622F	0.652562198289166
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	10	5		#FC622F	0.620503279030535
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	11	5	disorder	#FDAD4A	0.466576391316263
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	12	5		#FD913D	0.57754073469725
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	13	5		#FD913D	0.52939242633172
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	14	5		#FDAD4A	0.447489326689657
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	15	5		#FDAD4A	0.436714125140914
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	16	5		#FDAD4A	0.471690669934096
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	17	5		#FDAD4A	0.489586292852283
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	18	5	mental	#FDAD4A	0.477677542520357
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	19	5	go	#FDAD4A	0.491064594633748
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	20	5	object	#FECB68	0.388166806927042
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	21	5		#FD913D	0.511750484060034
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	22	5		#FDAD4A	0.477384300091327
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	23	5	word|words	#FDAD4A	0.409701154521651
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	1	6		#FECB68	0.369073475373266
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	2	6		#FECB68	0.39209031895621
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	3	6		#FDAD4A	0.441104127862653
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	4	6	vocal	#FECB68	0.318872118672233
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	5	6	articulatory	#FEE188	0.231322239488885
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	6	6		#FD913D	0.505149782601415
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	7	6	oddball	#FD913D	0.552502237466469
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	8	6	perceived	#FD913D	0.524033738163668
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	9	6	errorrelated	#FDAD4A	0.498024981349094
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	10	6	approach	#FECB68	0.392895481170401
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	11	6	schizophrenia	#FD913D	0.534615833617304
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	12	6	acquisition	#FD913D	0.576996657713746
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	13	6		#FDAD4A	0.49465749470212
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	14	6		#FECB68	0.365671107468182
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	15	6		#FECB68	0.356275117909067
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	16	6		#FECB68	0.376177588580571
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	17	6		#FDAD4A	0.419244886124768
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	18	6		#FDAD4A	0.434617895271329
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	19	6		#FDAD4A	0.452160473069294
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	20	6	objects	#FECB68	0.371025250755547
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	21	6		#FDAD4A	0.472635042798356
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	22	6		#FDAD4A	0.432391853846275
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	23	6	language|semantic	#FECB68	0.362201348672054
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	1	7	dopamine|dopaminergic	#FFF1A9	0.191317488703044
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	2	7		#FEE188	0.27634192699453
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	3	7		#FDAD4A	0.465728991221143
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	4	7		#FD913D	0.522715318104511
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	5	7		#FD913D	0.550903673703195
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	6	7		#FD913D	0.550100696104782
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	7	7		#FD913D	0.57639954082732
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	8	7		#FD913D	0.552192856302451
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	9	7		#FD913D	0.556617825420533
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	10	7		#FD913D	0.521662578052536
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	11	7		#FD913D	0.509021439819148
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	12	7		#FD913D	0.506979164398124
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	13	7	linguistic|spoken	#FECB68	0.367555063300476
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	14	7		#FECB68	0.343616693676981
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	15	7	comprehension|sentence|sentences|syntactic	#FEE188	0.285317479264534
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	16	7		#FECB68	0.328314205646087
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	17	7		#FECB68	0.3767277674656
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	18	7	phonological|reading|read	#FECB68	0.358511016838358
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	19	7		#FDAD4A	0.422803828107836
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	20	7	perceptual|recognition	#FDAD4A	0.415695460334797
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	21	7		#FDAD4A	0.479625403584389
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	22	7		#FDAD4A	0.455257794023207
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	23	7	verb	#FDAD4A	0.478464745294638
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	1	8	outcome|reward	#FEE188	0.256095552795104
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	2	8	anticipation	#FEE188	0.253254387705756
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	3	8	outcomes	#FEE188	0.234365034984424
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	4	8	choice|choices	#FDAD4A	0.419861563255323
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	5	8	decisions|probability	#FDAD4A	0.475514010140893
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	6	8	reversal	#FDAD4A	0.463317503837174
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	7	8	classification|incorrect	#FECB68	0.378832455782912
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	8	8		#FDAD4A	0.471616317997541
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	9	8	agerelated|fluency|probes	#FDAD4A	0.462457016308685
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	10	8	engaged	#FDAD4A	0.403852974048033
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	11	8	explicit|knowledge	#FECB68	0.36183762644275
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	12	8		#FDAD4A	0.418185444282472
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	13	8		#FECB68	0.363622449589991
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	14	8		#FECB68	0.321321764444653
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	15	8		#FECB68	0.304516739465066
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	16	8		#FECB68	0.318137263145567
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	17	8	lexical	#FECB68	0.30780850160747
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	18	8		#FECB68	0.38260441701675
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	19	8		#FDAD4A	0.419923266847346
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	20	8		#FDAD4A	0.452904183523192
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	21	8	encoding	#FDAD4A	0.445128178263244
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	22	8	retrieval	#FDAD4A	0.405288169518531
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	23	8	verbal	#FD913D	0.527579128806232
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	1	9	incentive|monetary|money|rewards	#FFF1A9	0.124964510036257
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	2	9	loss	#FEE188	0.21931126236236
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	3	9		#FECB68	0.393412919881926
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	4	9		#FDAD4A	0.465502094221023
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	5	9	decisionmaking	#FDAD4A	0.459044292032994
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	6	9		#FDAD4A	0.443465287209419
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	7	9		#FDAD4A	0.41067324080729
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	8	9		#FDAD4A	0.411559240716592
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	9	9		#FDAD4A	0.406731044810903
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	10	9		#FDAD4A	0.406508924449018
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	11	9		#FECB68	0.389159703547815
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	12	9		#FECB68	0.374668128447059
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	13	9	noun	#FEE188	0.267656841904888
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	14	9	meaning	#FEE188	0.258381017976711
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	15	9	english	#FEE188	0.281572660812373
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	16	9	pseudoword|pseudowords	#FEE188	0.295048424222158
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	17	9		#FECB68	0.369287801102331
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	18	9		#FDAD4A	0.419726915502412
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	19	9	familiar|judgment	#FECB68	0.388409439906238
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	20	9	pair|pairs	#FDAD4A	0.454141432380211
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	21	9		#FD913D	0.543400340234046
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	22	9		#FD913D	0.558157601636037
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	23	9	letter|working	#FD913D	0.558814064640992
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	1	10	losses|reinforcement|win	#FFF1A9	0.149220372231935
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	2	10	gain	#FFF1A9	0.193011482613918
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	3	10	expectation	#FEE188	0.295942031708802
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	4	10	risk	#FDAD4A	0.437210146218964
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	5	10	fact	#FDAD4A	0.409189818299203
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	6	10	associative	#FEE188	0.240496825702641
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	7	10	familiarity|judgments|old	#FECB68	0.349682600876449
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	8	10	contextual|text	#FEE188	0.258662376614475
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	9	10	recall|retrieved	#FEE188	0.281064307508318
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	10	10	conceptual|semantically	#FEE188	0.210247860442395
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	11	10	grammatical|speakers	#FECB68	0.378335739360963
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	12	10	nouns	#FEE188	0.249031527043349
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	13	10	japanese	#FECB68	0.313342839461901
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	14	10	languages	#FEE188	0.286829099675188
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	15	10	written	#FEE188	0.275601307382447
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	16	10	chinese|phonology	#FECB68	0.32259673986716
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	17	10	orthographic	#FECB68	0.346774516301239
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	18	10		#FDAD4A	0.488508572382187
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	19	10		#FD913D	0.517674808341554
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	20	10	association|decision	#FD913D	0.522684467894247
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	21	10	selection	#FD913D	0.538541243398936
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	22	10	letters	#FDAD4A	0.497978177686497
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	23	10	demand|load	#FD913D	0.551262928368856
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	1	11	conditioned|conditioning	#FFF1A9	0.19617047513883
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	2	11		#FECB68	0.315595622967214
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	3	11	drug|placebo	#FECB68	0.361926856408979
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	4	11		#FECB68	0.37118750324045
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	5	11	associations	#FEE188	0.249199824774412
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	6	11		#FEE188	0.244030053136042
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	7	11	episodic|recollection	#FFF1A9	0.151418286794012
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	8	11		#FEE188	0.22472001041453
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	9	11		#FECB68	0.302592541135546
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	10	11	concepts	#FFF1A9	0.126453662540025
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	11	11		#FECB68	0.323841600429592
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	12	11		#FECB68	0.329089003148032
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	13	11	german	#FEE188	0.268844551733577
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	14	11	readers	#FECB68	0.322660879720999
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	15	11	character|name|naming	#FEE188	0.260128540386953
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	16	11		#FECB68	0.389358624373438
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	17	11	novel	#FDAD4A	0.446232758175952
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	18	11		#FD913D	0.514455349269882
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	19	11	child|children	#FD913D	0.53629402719656
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	20	11	adults	#FD913D	0.570126791530792
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	21	11	ability|feedback|learning	#FD913D	0.572719316111473
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	22	11	cues|delay	#FD913D	0.505893515108767
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	23	11	attentional|difficulty|targets	#FD913D	0.558120914525643
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	1	12	aversive|shock	#FECB68	0.349683532025223
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	2	12	reactivity	#FFF1A9	0.16571832443464
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	3	12	males|sex|women	#FEE188	0.262691338762342
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	4	12	animal	#FEE188	0.200478161785128
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	5	12	animals	#FFFFCC	0.0773769551373617
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	6	12		#FFF1A9	0.15713098545221
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	7	12	remember|subsequent	#FFFFCC	0.0906060647506553
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	8	12	autobiographical|memories	#FFFFCC	0
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	9	12		#FEE188	0.292348691642759
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	10	12	violation|violations	#FEE188	0.267259297893775
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	11	12	aphasia	#FEE188	0.258315434551979
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	12	12	nonwords	#FEE188	0.214880170151377
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	13	12	dyslexia	#FEE188	0.206901236379726
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	14	12		#FECB68	0.374103324965448
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	15	12	priming	#FECB68	0.311580839181276
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	16	12		#FDAD4A	0.423606888094583
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	17	12	category|repetition	#FDAD4A	0.454786356937188
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	18	12		#FD913D	0.520392134594028
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	19	12	developmental|development	#FDAD4A	0.468586486134057
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	20	12		#FD913D	0.59200344642304
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	21	12	space	#FD913D	0.552217944472702
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	22	12		#FD913D	0.587140771426621
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	23	12	color	#FD913D	0.554205119019644
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	1	13	threat	#FFF1A9	0.168211699728695
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	2	13	regulation	#FEE188	0.281235360375036
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	3	13		#FEE188	0.267935936897052
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	4	13	masked	#FFF1A9	0.139061457619574
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	5	13	scene|scenes	#FFFFCC	0.0774241039788969
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	6	13		#FFF1A9	0.122281077466806
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	7	13	confidence|remembered	#FFFFCC	0.0120292036317461
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	8	13		#FFF1A9	0.163208665925306
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	9	13		#FECB68	0.31224816710277
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	10	13	ambiguity|ambiguous	#FEE188	0.21432417294096
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	11	13		#FECB68	0.354238132924246
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	12	13		#FECB68	0.386759067698788
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	13	13	writing	#FEE188	0.299155928500485
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	14	13		#FDAD4A	0.423947229405704
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	15	13	categorization|congruency|prime	#FECB68	0.369662853286046
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	16	13		#FDAD4A	0.461445259748427
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	17	13	mask	#FDAD4A	0.41625330322961
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	18	13		#FD913D	0.552035350374446
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	19	13		#FC622F	0.602006043170331
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	20	13		#FC622F	0.61179895021075
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	21	13	conflict|congruent|incongruent	#FD913D	0.583512069835731
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	22	13	errors	#FD913D	0.580238601815811
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	23	13	maintenance|probe|wm	#FD913D	0.521058160450704
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	1	14	angry|fearful|happy	#FFF1A9	0.1088733192842
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	2	14		#FFF1A9	0.179388696967497
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	3	14	awareness|conscious|ptsd	#FEE188	0.248703684187562
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	4	14		#FEE188	0.271698041432316
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	5	14	houses|photographs	#FFFFCC	0.0451834521822871
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	6	14		#FFF1A9	0.187051018831684
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	7	14	hits	#FFFFCC	0.0798254511900027
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	8	14	famous	#FFFFCC	0.0213715294363744
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	9	14	names	#FFF1A9	0.181174813083408
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	10	14	family	#FEE188	0.274936028928786
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	11	14	competition|mouth	#FECB68	0.38496511652343
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	12	14	abilities	#FDAD4A	0.421896929986315
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	13	14	implicit|unfamiliar	#FECB68	0.317489462973978
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	14	14		#FDAD4A	0.429394900024952
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	15	14	tom	#FECB68	0.382303093981867
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	16	14		#FDAD4A	0.492103331435796
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	17	14		#FD913D	0.543664018282968
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	18	14	stop	#FD913D	0.522807939441204
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	19	14	inhibition|inhibitory|nogo	#FD913D	0.562033867282899
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	20	14	monitoring|stroop	#FD913D	0.592478283675328
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	21	14	interference	#FD913D	0.514365149252359
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	22	14		#FD913D	0.586579417738919
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	23	14	demands|executive	#FDAD4A	0.498740541853427
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	1	15	anger	#FFFFCC	0.0121657169646935
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	2	15	stress	#FFFFCC	0.0912931261338089
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	3	15	feelings	#FEE188	0.271187871785292
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	4	15	salient	#FEE188	0.279112315927659
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	5	15	novelty	#FECB68	0.304015144639986
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	6	15	movie	#FEE188	0.214769839883546
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	7	15		#FEE188	0.290748605598894
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	8	15		#FECB68	0.31300770435933
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	9	15	longterm	#FFF1A9	0.190980246505359
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	10	15		#FDAD4A	0.421016615097239
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	11	15	reasoning|relational	#FDAD4A	0.432236916446821
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	12	15		#FDAD4A	0.477437369612754
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	13	15	presentations	#FECB68	0.336101405059405
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	14	15		#FDAD4A	0.431414609262631
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	15	15	identity	#FECB68	0.311138263499893
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	16	15		#FD913D	0.507124774007396
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	17	15	strategies|strategy	#FDAD4A	0.438202010979543
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	18	15	card|cards	#FDAD4A	0.486696672372809
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	19	15	gonogo	#FD913D	0.554019048411061
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	20	15		#FC622F	0.619676967611431
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	21	15	switching|switch	#FD913D	0.549895870605274
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	22	15		#FD913D	0.585509226565683
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	23	15	2back|rule	#FD913D	0.519189524873938
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	1	16	emotionally|mood|personality|sadness	#FFFFCC	0.0503868364426034
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	2	16	disgust|sexual	#FFFFCC	0.0779482248200276
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	3	16	olfactory	#FFFFCC	0.0938354197701322
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	4	16	physiological	#FECB68	0.335235002076625
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	5	16	depressed|depressive|habituation	#FECB68	0.353333820399256
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	6	16	schizophrenic	#FECB68	0.384943290417835
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	7	16	colors|contexts	#FEE188	0.21396475456653
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	8	16	aging|encoded	#FEE188	0.277837379858488
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	9	16	goal	#FEE188	0.296245318904691
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	10	16		#FDAD4A	0.415627546858219
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	11	16	autism|autistic|nonverbal	#FECB68	0.383338867671235
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	12	16		#FDAD4A	0.46967174707551
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	13	16	bottomup|repetitions	#FECB68	0.363320901636205
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	14	16	adaptation	#FDAD4A	0.407042837301057
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	15	16	irrelevant	#FDAD4A	0.416024989407608
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	16	16	distractor|distractors	#FDAD4A	0.446117942627624
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	17	16		#FD913D	0.545593030600867
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	18	16	subtraction	#FDAD4A	0.470305759757328
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	19	16	1back|nback	#FD913D	0.526345963222256
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	20	16	manipulation|rules	#FD913D	0.541439002678539
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	21	16		#FD913D	0.594474348740774
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	22	16		#FD913D	0.543877538836939
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	23	16	digit	#FDAD4A	0.499399032494903
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	1	17	avoidance	#FFFFCC	0.0571689666360661
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	2	17		#FFF1A9	0.102427415248929
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	3	17	eating|food	#FFFFCC	0.0196499317145236
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	4	17	taste	#FFF1A9	0.156894024727805
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	5	17	bipolar	#FECB68	0.313050909187731
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	6	17	illness|uncertainty	#FDAD4A	0.497704190866885
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	7	17	females|probabilistic	#FD913D	0.532171451426311
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	8	17	rejection	#FFF1A9	0.178059809677935
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	9	17	colour|paired	#FEE188	0.243541707768135
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	10	17		#FDAD4A	0.44899933261631
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	11	17		#FDAD4A	0.448076828636247
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	12	17		#FDAD4A	0.443510611634973
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	13	17	taskirrelevant	#FEE188	0.298164584719984
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	14	17		#FDAD4A	0.401243319997838
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	15	17	suppression	#FDAD4A	0.415516773866966
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	16	17		#FDAD4A	0.460420772596106
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	17	17	shifting|shortterm	#FDAD4A	0.443489087765391
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	18	17	digits	#FDAD4A	0.494832871465185
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	19	17	search	#FD913D	0.519559391199898
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	20	17	counting|taskrelated	#FD913D	0.57363226545661
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	21	17	topdown	#FD913D	0.565196381459975
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	22	17	visuospatial	#FDAD4A	0.443386286574721
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	23	17	arithmetic|calculation|solving	#FECB68	0.391832203476013
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	1	18	addiction|craving|drugs	#FFFFCC	0.0385904762923098
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	2	18	allele|genotype|polymorphism	#FFFFCC	0.0600987076365811
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	3	18	motivation	#FFF1A9	0.147804818072457
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	4	18	heart	#FFF1A9	0.188372253934688
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	5	18	sleep	#FECB68	0.359290708652102
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	6	18	expectancy	#FDAD4A	0.430605824686639
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	7	18	phasic|salience	#FDAD4A	0.479429293202777
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	8	18	adolescence|adolescents	#FECB68	0.358683040316222
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	9	18	intelligence|tracking	#FDAD4A	0.41335022573478
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	10	18		#FD913D	0.511204633829287
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	11	18	serial	#FEE188	0.258168410835315
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	12	18		#FDAD4A	0.417178952975676
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	13	18	spatially|taskrelevant	#FECB68	0.374561546046149
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	14	18		#FECB68	0.393041771773219
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	15	18	attended|attend|unattended	#FEE188	0.275643940124841
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	16	18	rotation|shapes	#FEE188	0.234754357503
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	17	18	rehearsal	#FECB68	0.386020134873554
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	18	18	learned	#FECB68	0.388357785907618
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	19	18		#FD913D	0.531195020049739
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	20	18	cued|preparatory	#FDAD4A	0.497753491222618
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	21	18		#FC622F	0.601000151312387
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	22	18		#FD913D	0.568806880811771
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	23	18	numbers|numerical	#FD913D	0.519254969720579
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	1	19	future	#FFF1A9	0.150366188006754
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	2	19	negatively	#FFF1A9	0.185166141998838
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	3	19	distress|epilepsy|selfreported	#FFF1A9	0.111179260523521
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	4	19	anticipatory|cocaine|probabilities|smoking	#FFF1A9	0.175720841348584
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	5	19	alcohol|amount|impulsivity	#FECB68	0.308758085448993
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	6	19	game|success	#FEE188	0.276660088866707
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	7	19	adhd|childhood|engagement	#FECB68	0.310480157058669
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	8	19		#FD913D	0.582494939107675
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	9	19		#FC622F	0.607684020349163
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	10	19		#FD913D	0.53703039637812
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	11	19		#FDAD4A	0.467240206836176
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	12	19	endogenous	#FECB68	0.312489509574758
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	13	19	cueing|invalid|orienting	#FEE188	0.244493380594598
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	14	19		#FDAD4A	0.411045731963989
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	15	19	multisensory	#FECB68	0.35564651649716
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	16	19		#FDAD4A	0.423286098228226
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	17	19	shifts	#FDAD4A	0.420309498358059
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	18	19	covert	#FECB68	0.382870381842085
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	19	19		#FDAD4A	0.481037457584235
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	20	19	preparation	#FD913D	0.513712732995515
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	21	19	discrimination|training	#FC622F	0.608284053644149
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	22	19	sequences	#FD913D	0.503503774342699
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	23	19		#FC622F	0.682821704854048
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	1	20	personal|self|selfreferential|trait|traits	#FFF1A9	0.143697942399956
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	2	20	empathic|theory	#FECB68	0.328814499068067
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	3	20	attribution|intentional	#FFFFCC	0.0607107995473385
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	4	20	elderly|oscillations	#FFF1A9	0.153363896432707
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	5	20	antipsychotic|virtual	#FEE188	0.232889460092763
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	6	20		#FDAD4A	0.482453265014572
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	7	20	experiences	#FEE188	0.275650401909313
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	8	20	categorical|pressure	#FECB68	0.344486128813085
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	9	20	play|skills	#FDAD4A	0.448869471042984
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	10	20	automatic|trained	#FDAD4A	0.494254988777357
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	11	20		#FD913D	0.506761388297709
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	12	20	practice	#FDAD4A	0.454342433806933
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	13	20	visuomotor	#FECB68	0.341828091064408
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	14	20		#FDAD4A	0.45333233468725
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	15	20	tool	#FEE188	0.298774472703844
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	16	20	vision	#FFF1A9	0.180896398773641
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	17	20	visually	#FDAD4A	0.476610838151116
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	18	20	saccade|saccades|saccadic	#FEE188	0.285339816502422
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	19	20	locations	#FDAD4A	0.43692280076547
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	20	20	imagery|planning	#FDAD4A	0.426210667887445
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	21	20		#FC622F	0.615669331615066
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	22	20	rest	#FC622F	0.637357639249606
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	23	20	sequence	#FC622F	0.63519341520431
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	1	21	scenarios	#FFF1A9	0.104042498887149
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	2	21	intention|intentions	#FFFFCC	0.0981471971580736
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	3	21	causality|perspective	#FFF1A9	0.136954737841661
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	4	21	past	#FFFFCC	0.0854232358159045
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	5	21		#FDAD4A	0.499983940773027
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	6	21	episode	#FEE188	0.269190885611979
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	7	21	improvement	#FECB68	0.328588585272482
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	8	21	masking|retention	#FECB68	0.328261046500559
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	9	21		#FD913D	0.525787565044474
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	10	21	dominant	#FECB68	0.394179997954828
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	11	21		#FD913D	0.511585939976856
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	12	21	sequential	#FECB68	0.362414297709051
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	13	21	fingers	#FDAD4A	0.486115972002212
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	14	21		#FECB68	0.367369028648437
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	15	21	gesture|gestures	#FEE188	0.231483108104589
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	16	21		#FECB68	0.379415845557103
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	17	21	hands	#FECB68	0.303037925950379
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	18	21		#FDAD4A	0.473763074437086
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	19	21		#FDAD4A	0.468572468680928
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	20	21	eye|position	#FDAD4A	0.470862753392303
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	21	21	execution	#FDAD4A	0.489869964364746
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	22	21	finger|sensorimotor	#FD913D	0.565001792507445
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	23	21		#FC622F	0.655259497429209
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	1	22	moral|stories|story	#FFFFCC	0.0392857809195837
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	2	22	mentalizing|persons	#FFFFCC	0.0824843428256204
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	3	22	default|restingstate	#FFFFCC	0.0755608361147412
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	4	22	thinking|thought|thoughts	#FEE188	0.276550289704286
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	5	22	spontaneous	#FECB68	0.361654848614753
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	6	22	concentration|sensations	#FDAD4A	0.451550825013441
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	7	22	hierarchical|preference	#FEE188	0.289397544880428
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	8	22	effort|oral|simulation	#FEE188	0.259381966690879
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	9	22	interhemispheric|plasticity	#FDAD4A	0.414588103669193
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	10	22	imagined|imagine	#FECB68	0.31183749558841
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	11	22	tapping	#FD913D	0.54113806080646
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	12	22	foot|muscle|muscles|voluntary	#FDAD4A	0.498150488199143
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	13	22	limb	#FECB68	0.357709525947725
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	14	22	eyes|velocity	#FECB68	0.303390531758393
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	15	22	biological|gaze|videos	#FFF1A9	0.106293244281205
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	16	22	body	#FDAD4A	0.495667397743444
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	17	22	grasping|orientation|reaching	#FECB68	0.312320079337865
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	18	22		#FDAD4A	0.474298419374481
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	19	22	mirror|shape	#FECB68	0.39424392787918
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	20	22	actions	#FDAD4A	0.421850758116889
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	21	22	action	#FD913D	0.535926138564795
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	22	22		#FC622F	0.632037077955775
+a3cb1b4e-ee49-36ae-a6af-9aeede28e6e4	Otto Handwerker H	23	22	hand|movements|sensory	#FC622F	0.626612400368742

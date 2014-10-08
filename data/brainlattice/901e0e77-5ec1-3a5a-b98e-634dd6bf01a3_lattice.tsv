@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	1	1	auditory|speech	#FFF1A9	0.147818356632186
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	2	1		#FFF1A9	0.116415780214553
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	3	1	da|integration	#FFFFCC	0.0938364775383489
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	4	1		#FEE188	0.297108960978902
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	5	1	physical|psychophysical|tactile	#FDAD4A	0.42458012162202
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	6	1		#FC622F	0.615518217577035
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	7	1	somatosensory|stimulation	#FC622F	0.621912901654094
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	8	1	painful|pain	#F03623	0.726089296129211
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	9	1		#F03623	0.757711027488706
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	10	1	ratings	#FC622F	0.645351352976676
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	11	1	affective|affect	#FDAD4A	0.415004046947613
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	12	1	emotions	#FDAD4A	0.442845566862633
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	13	1	expression|expressions|facial	#FFFFCC	0.0689194645154161
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	14	1		#FEE188	0.238561364794439
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	15	1		#FEE188	0.296686207081006
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	16	1	emotion|motion|neutral	#FECB68	0.373874648358565
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	17	1	rating	#FD913D	0.558410147455136
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	18	1	negative|positive	#FDAD4A	0.421584568486182
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	19	1		#FECB68	0.337730730449779
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	20	1	ear|order	#FEE188	0.258068075497405
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	21	1	motor	#FEE188	0.26768709365357
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	22	1	visual	#FFF1A9	0.150846535131168
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	23	1	age|image|response	#FECB68	0.308316892362729
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	1	2	sound|sounds	#FFFFCC	0.0892454678154282
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	2	2		#FFF1A9	0.11896144447303
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	3	2	audiovisual|bimodal|crossmodal	#FFFFCC	0.0104312097368928
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	4	2		#FEE188	0.272591263682121
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	5	2		#FECB68	0.379268615958578
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	6	2		#FD913D	0.579439874585062
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	7	2	sensation	#FC622F	0.691993767345756
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	8	2	heat|noxious	#D7141E	0.831994215410741
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	9	2		#F03623	0.761484982730579
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	10	2		#FC622F	0.603831856771517
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	11	2		#FD913D	0.542618397094612
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	12	2	valence	#FECB68	0.351234545144306
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	13	2	person|social	#FDAD4A	0.486344144683686
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	14	2		#FEE188	0.235639835481657
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	15	2	face|faces	#FFFFCC	0.0900294812938852
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	16	2		#FECB68	0.343283709803833
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	17	2		#FECB68	0.387587216149329
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	18	2		#FECB68	0.370985178847469
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	19	2		#FECB68	0.315402490581898
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	20	2		#FEE188	0.267456055777401
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	21	2	images|spatial	#FEE188	0.239188564079383
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	22	2	control	#FEE188	0.298119306093295
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	23	2	time	#FEE188	0.290117395814106
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	1	3	acoustic|listening|musical|music|pitch	#FFF1A9	0.103354540273359
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	2	3	noise|tones	#FFFFCC	0.0682351312646163
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	3	3		#FFF1A9	0.146084746122054
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	4	3		#FEE188	0.210997526521394
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	5	3	frequency	#FEE188	0.243872359929823
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	6	3		#FD913D	0.518042759262597
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	7	3		#D7141E	0.820416248614036
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	8	3	temperature	#FC622F	0.693848307179588
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	9	3		#D7141E	0.808269673865334
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	10	3	pleasant|unpleasant	#FC622F	0.600749016073282
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	11	3	anxiety	#FDAD4A	0.434378716020298
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	12	3		#FDAD4A	0.444938831526456
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	13	3		#FECB68	0.368527947412115
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	14	3		#FEE188	0.293775290165763
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	15	3		#FEE188	0.281866406469755
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	16	3	picture	#FEE188	0.274619498465151
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	17	3		#FECB68	0.315148682019401
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	18	3	value	#FEE188	0.259207144449824
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	19	3	cue	#FEE188	0.266750567211965
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	20	3	error|target	#FEE188	0.238041233314123
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	21	3	attention	#FEE188	0.218400416520024
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	22	3		#FEE188	0.249120014941427
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	23	3	number	#FEE188	0.255223807863371
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	1	4	voice	#FFFFCC	0.0555931155905012
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	2	4		#FFFFCC	0.0856023843202515
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	3	4	hearing	#FFFFCC	0.0451368316437391
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	4	4		#FEE188	0.231017501460891
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	5	4	overt	#FECB68	0.313915990896935
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	6	4		#FECB68	0.391719251065182
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	7	4		#D7141E	0.835931766505513
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	8	4	nociceptive|nonpainful|painrelated	#B10026	0.91519906291368
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	9	4	unpleasantness	#B10026	1
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	10	4	skin|subjective	#FD913D	0.549654428235208
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	11	4	depression	#FD913D	0.517988223163559
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	12	4	experience	#FD913D	0.54892454799649
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	13	4	female	#FEE188	0.294871837020247
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	14	4	male	#FEE188	0.280127745971383
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	15	4	pictures	#FEE188	0.247536613769949
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	16	4		#FEE188	0.25587159833763
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	17	4	perception	#FEE188	0.206505140839686
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	18	4		#FEE188	0.235388739326762
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	19	4		#FEE188	0.224002706133144
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	20	4		#FEE188	0.21713351582348
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	21	4	correct	#FEE188	0.244371106135848
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	22	4	work	#FEE188	0.219913983936569
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	23	4	memory	#FEE188	0.2782281313939
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	1	5	prosodic|prosody	#FFFFCC	0.0248177555681008
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	2	5	phonetic	#FFFFCC	0.0448622609158129
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	3	5	syllable|syllables	#FFFFCC	0.0678427838920665
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	4	5		#FEE188	0.232731964315085
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	5	5	lip|production	#FEE188	0.253039004635231
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	6	5	somatotopic	#FDAD4A	0.408207787041667
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	7	5		#F03623	0.712426340831055
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	8	5		#F03623	0.712868851939625
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	9	5	empathy	#FC622F	0.640352930896346
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	10	5		#FDAD4A	0.449792654458468
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	11	5	disorder	#FEE188	0.275156582233373
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	12	5		#FECB68	0.395496595961729
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	13	5		#FECB68	0.330714065546728
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	14	5		#FEE188	0.250574387506437
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	15	5		#FEE188	0.237237694733096
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	16	5		#FEE188	0.2136443033166
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	17	5		#FEE188	0.199770308755482
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	18	5	mental	#FEE188	0.239637713400555
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	19	5	go	#FFF1A9	0.159939918206766
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	20	5	object	#FFFFCC	0.0913525332888837
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	21	5		#FEE188	0.201110415027765
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	22	5		#FEE188	0.209544710065346
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	23	5	word|words	#FEE188	0.232437044541806
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	1	6		#FFF1A9	0.138595824876636
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	2	6		#FFF1A9	0.129178178414355
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	3	6		#FEE188	0.2128723998849
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	4	6	vocal	#FECB68	0.395552780715212
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	5	6	articulatory	#FFF1A9	0.171128426037576
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	6	6		#FECB68	0.355162430122256
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	7	6	oddball	#FD913D	0.588574161746952
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	8	6	perceived	#FFF1A9	0.194201244632367
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	9	6	errorrelated	#FDAD4A	0.407963400706893
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	10	6	approach	#FFF1A9	0.196013974872227
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	11	6	schizophrenia	#FEE188	0.298630417342685
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	12	6	acquisition	#FEE188	0.291166000247154
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	13	6		#FEE188	0.230741764629999
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	14	6		#FFF1A9	0.134965647681493
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	15	6		#FFF1A9	0.139932174970971
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	16	6		#FFF1A9	0.141562773996021
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	17	6		#FFF1A9	0.152329710178009
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	18	6		#FFF1A9	0.152650634519459
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	19	6		#FFF1A9	0.147654821433012
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	20	6	objects	#FFF1A9	0.114750579842389
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	21	6		#FFF1A9	0.167108436619398
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	22	6		#FFF1A9	0.165902191317152
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	23	6	language|semantic	#FFF1A9	0.12999531693429
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	1	7	dopamine|dopaminergic	#FFF1A9	0.11516107677641
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	2	7		#FEE188	0.232945024741185
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	3	7		#FECB68	0.311919631360761
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	4	7		#FECB68	0.306789408298947
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	5	7		#FECB68	0.309898113306728
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	6	7		#FEE188	0.269040873720343
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	7	7		#FEE188	0.294953386912928
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	8	7		#FEE188	0.269339413323228
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	9	7		#FECB68	0.309789205670955
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	10	7		#FEE188	0.291412334186281
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	11	7		#FEE188	0.281065633104024
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	12	7		#FEE188	0.246281830011214
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	13	7	linguistic|spoken	#FFFFCC	0.0534206469122486
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	14	7		#FFF1A9	0.115075321346904
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	15	7	comprehension|sentence|sentences|syntactic	#FFFFCC	0.0951435264182943
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	16	7		#FFF1A9	0.104489980637508
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	17	7		#FFF1A9	0.11764712754958
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	18	7	phonological|reading|read	#FFF1A9	0.112191435197736
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	19	7		#FFF1A9	0.133727732065652
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	20	7	perceptual|recognition	#FFF1A9	0.139533328132803
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	21	7		#FFF1A9	0.167660182174819
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	22	7		#FFF1A9	0.167959692675524
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	23	7	verb	#FFF1A9	0.153988418330724
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	1	8	outcome|reward	#FEE188	0.288057101988701
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	2	8	anticipation	#FEE188	0.254494869142185
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	3	8	outcomes	#FEE188	0.249520541394548
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	4	8	choice|choices	#FEE188	0.234111094636002
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	5	8	decisions|probability	#FEE188	0.218341458745282
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	6	8	reversal	#FEE188	0.214938594240773
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	7	8	classification|incorrect	#FFFFCC	0.0651713894040463
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	8	8		#FFF1A9	0.193656305337894
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	9	8	agerelated|fluency|probes	#FFF1A9	0.149128050357695
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	10	8	engaged	#FFF1A9	0.130059006159544
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	11	8	explicit|knowledge	#FECB68	0.352057532893367
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	12	8		#FFF1A9	0.198756399781358
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	13	8		#FFF1A9	0.158722398265958
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	14	8		#FFF1A9	0.12300500072553
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	15	8		#FFF1A9	0.113485783878183
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	16	8		#FFF1A9	0.100384278072915
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	17	8	lexical	#FFFFCC	0.0758602621719731
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	18	8		#FFF1A9	0.145587081391011
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	19	8		#FFF1A9	0.152220053987588
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	20	8		#FFF1A9	0.173709569078885
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	21	8	encoding	#FFF1A9	0.132181963057323
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	22	8	retrieval	#FECB68	0.310498315878255
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	23	8	verbal	#FFF1A9	0.18919017420881
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	1	9	incentive|monetary|money|rewards	#FEE188	0.213228704578798
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	2	9	loss	#FEE188	0.216798673835334
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	3	9		#FEE188	0.296555307413896
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	4	9		#FEE188	0.272279280348031
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	5	9	decisionmaking	#FEE188	0.263607608706487
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	6	9		#FEE188	0.226736863973342
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	7	9		#FEE188	0.242064069066528
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	8	9		#FEE188	0.240238001804959
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	9	9		#FEE188	0.285955774464281
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	10	9		#FEE188	0.253493856205614
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	11	9		#FEE188	0.205776936546868
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	12	9		#FFF1A9	0.180196598724757
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	13	9	noun	#FFF1A9	0.166417779781995
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	14	9	meaning	#FFF1A9	0.178171284657578
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	15	9	english	#FFF1A9	0.125338097150736
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	16	9	pseudoword|pseudowords	#FFFFCC	0.0394955507803222
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	17	9		#FFF1A9	0.11911897049553
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	18	9		#FFF1A9	0.165840523005244
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	19	9	familiar|judgment	#FEE188	0.24573682173286
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	20	9	pair|pairs	#FFF1A9	0.177312004155765
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	21	9		#FFF1A9	0.189705240705866
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	22	9		#FFF1A9	0.183847731621828
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	23	9	letter|working	#FFF1A9	0.158711250960286
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	1	10	losses|reinforcement|win	#FEE188	0.234363901581927
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	2	10	gain	#FFF1A9	0.183161568812625
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	3	10	expectation	#FFF1A9	0.138597975772749
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	4	10	risk	#FDAD4A	0.425524526620928
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	5	10	fact	#FFFFCC	0.0745372063868677
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	6	10	associative	#FFF1A9	0.197300537837257
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	7	10	familiarity|judgments|old	#FECB68	0.390262266827771
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	8	10	contextual|text	#FEE188	0.252757236886329
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	9	10	recall|retrieved	#FDAD4A	0.415369426132457
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	10	10	conceptual|semantically	#FFF1A9	0.179405113355097
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	11	10	grammatical|speakers	#FFFFCC	0.0524924619009496
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	12	10	nouns	#FFF1A9	0.112403863007243
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	13	10	japanese	#FFFFCC	0.0702455251046717
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	14	10	languages	#FFF1A9	0.106406667692144
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	15	10	written	#FFF1A9	0.12056657326001
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	16	10	chinese|phonology	#FFF1A9	0.145461929035975
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	17	10	orthographic	#FFF1A9	0.101435863712931
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	18	10		#FFF1A9	0.186800231432536
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	19	10		#FFF1A9	0.196259309667862
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	20	10	association|decision	#FEE188	0.24703321644172
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	21	10	selection	#FEE188	0.234544187897963
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	22	10	letters	#FFF1A9	0.154191887326328
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	23	10	demand|load	#FFF1A9	0.143807357213161
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	1	11	conditioned|conditioning	#FECB68	0.328033409774633
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	2	11		#FECB68	0.315774913889162
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	3	11	drug|placebo	#FFF1A9	0.147444257474671
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	4	11		#FFF1A9	0.190594616108564
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	5	11	associations	#FFF1A9	0.106583384313851
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	6	11		#FECB68	0.339369633571028
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	7	11	episodic|recollection	#FC622F	0.61550250956915
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	8	11		#FDAD4A	0.416310519657729
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	9	11		#FECB68	0.341784583051938
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	10	11	concepts	#FECB68	0.350655907049398
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	11	11		#FFF1A9	0.165951442308325
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	12	11		#FFF1A9	0.132094646474426
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	13	11	german	#FFFFCC	0.0986664785081073
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	14	11	readers	#FFFFCC	0.0832084273357937
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	15	11	character|name|naming	#FFF1A9	0.14284353788488
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	16	11		#FFF1A9	0.125363584860198
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	17	11	novel	#FFF1A9	0.14077094720161
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	18	11		#FFF1A9	0.152341114074071
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	19	11	child|children	#FFF1A9	0.158458017876414
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	20	11	adults	#FFF1A9	0.197394079202092
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	21	11	ability|feedback|learning	#FFF1A9	0.154495040723164
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	22	11	cues|delay	#FFF1A9	0.174582771054934
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	23	11	attentional|difficulty|targets	#FEE188	0.247406724071946
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	1	12	aversive|shock	#FD913D	0.564998182517975
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	2	12	reactivity	#FEE188	0.23062368357256
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	3	12	males|sex|women	#FFFFCC	0.0964609702656381
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	4	12	animal	#FEE188	0.210130581956289
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	5	12	animals	#FFFFCC	0.0460141481417038
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	6	12		#FEE188	0.276866187011122
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	7	12	remember|subsequent	#FFF1A9	0.189568928040955
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	8	12	autobiographical|memories	#FD913D	0.584665611169385
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	9	12		#FECB68	0.301916272987653
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	10	12	violation|violations	#FFFFCC	0.0415049681787702
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	11	12	aphasia	#FFF1A9	0.1615282847638
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	12	12	nonwords	#FFF1A9	0.159868128433874
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	13	12	dyslexia	#FFFFCC	0.0693179284809945
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	14	12		#FFF1A9	0.162995799204382
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	15	12	priming	#FFF1A9	0.150501236879584
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	16	12		#FFF1A9	0.184953362593397
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	17	12	category|repetition	#FFFFCC	0.0987490035522907
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	18	12		#FFF1A9	0.181634756218488
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	19	12	developmental|development	#FFF1A9	0.138415652350545
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	20	12		#FEE188	0.233745873088193
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	21	12	space	#FEE188	0.269852961977187
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	22	12		#FEE188	0.246056944210625
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	23	12	color	#FEE188	0.22048761070439
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	1	13	threat	#FEE188	0.25555414467865
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	2	13	regulation	#F03623	0.722380589644026
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	3	13		#FEE188	0.269706022125066
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	4	13	masked	#FFFFCC	0.0445244923028797
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	5	13	scene|scenes	#FFFFCC	0.0463530192042767
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	6	13		#FEE188	0.203314731486136
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	7	13	confidence|remembered	#FECB68	0.39109475262896
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	8	13		#FEE188	0.290921945863444
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	9	13		#FEE188	0.266748891747631
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	10	13	ambiguity|ambiguous	#FFFFCC	0.0824650504869436
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	11	13		#FFF1A9	0.1709072492548
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	12	13		#FFF1A9	0.15265043831409
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	13	13	writing	#FFF1A9	0.101650695235487
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	14	13		#FFF1A9	0.171277066768122
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	15	13	categorization|congruency|prime	#FFFFCC	0.0969052605097848
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	16	13		#FEE188	0.206597196629257
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	17	13	mask	#FEE188	0.272682315464183
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	18	13		#FFF1A9	0.195647928982307
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	19	13		#FEE188	0.204754554862395
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	20	13		#FEE188	0.263645201481407
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	21	13	conflict|congruent|incongruent	#FECB68	0.369584506374467
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	22	13	errors	#FEE188	0.242496661787398
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	23	13	maintenance|probe|wm	#FEE188	0.209169530323151
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	1	14	angry|fearful|happy	#FFFFCC	0.0738545736924423
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	2	14		#FEE188	0.219792227280471
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	3	14	awareness|conscious|ptsd	#FECB68	0.362816857191884
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	4	14		#FEE188	0.20880150695647
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	5	14	houses|photographs	#FFFFCC	0.0763981040867553
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	6	14		#FFF1A9	0.138850964647559
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	7	14	hits	#FFFFCC	0.0569965862214425
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	8	14	famous	#FFF1A9	0.172956916570875
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	9	14	names	#FFF1A9	0.130272212591491
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	10	14	family	#FFFFCC	0.0647561649310545
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	11	14	competition|mouth	#FEE188	0.203190453812088
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	12	14	abilities	#FFF1A9	0.147759334093246
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	13	14	implicit|unfamiliar	#FFFFCC	0.0709620207125866
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	14	14		#FFF1A9	0.165729788360859
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	15	14	tom	#FD913D	0.522952777232796
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	16	14		#FEE188	0.226434522985696
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	17	14		#FEE188	0.226542487810177
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	18	14	stop	#FFF1A9	0.162475271620649
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	19	14	inhibition|inhibitory|nogo	#FEE188	0.206010762853309
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	20	14	monitoring|stroop	#FECB68	0.316405095811728
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	21	14	interference	#FEE188	0.220176147693154
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	22	14		#FEE188	0.259918096671057
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	23	14	demands|executive	#FFF1A9	0.179503805621997
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	1	15	anger	#FFFFCC	0.0524664235276891
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	2	15	stress	#FEE188	0.290370112336499
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	3	15	feelings	#FEE188	0.279638252195464
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	4	15	salient	#FFF1A9	0.194823678096139
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	5	15	novelty	#FFF1A9	0.173129843029625
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	6	15	movie	#FFF1A9	0.104501980960021
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	7	15		#FFF1A9	0.157595267288783
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	8	15		#FFF1A9	0.135036412882445
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	9	15	longterm	#FFFFCC	0.0895491538094831
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	10	15		#FFF1A9	0.122649355043663
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	11	15	reasoning|relational	#FFFFCC	0.0528515561254541
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	12	15		#FFF1A9	0.143740896683367
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	13	15	presentations	#FFFFCC	0.0805215943892545
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	14	15		#FFF1A9	0.155297552029448
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	15	15	identity	#FFF1A9	0.110144022825566
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	16	15		#FFF1A9	0.182659614236567
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	17	15	strategies|strategy	#FFF1A9	0.173711988040362
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	18	15	card|cards	#FFF1A9	0.127190371211044
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	19	15	gonogo	#FEE188	0.25047551551285
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	20	15		#FEE188	0.244783374829333
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	21	15	switching|switch	#FEE188	0.257796681850849
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	22	15		#FEE188	0.244064248430417
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	23	15	2back|rule	#FFF1A9	0.130934234290352
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	1	16	emotionally|mood|personality|sadness	#FFFFCC	0.0681762407719693
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	2	16	disgust|sexual	#FFFFCC	0.0548861853061685
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	3	16	olfactory	#FFFFCC	0.074912921940209
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	4	16	physiological	#FEE188	0.209765935092576
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	5	16	depressed|depressive|habituation	#FFF1A9	0.183088861450534
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	6	16	schizophrenic	#FFF1A9	0.184592805102521
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	7	16	colors|contexts	#FFFFCC	0.0628187769378775
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	8	16	aging|encoded	#FFF1A9	0.16159024377998
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	9	16	goal	#FFFFCC	0.0728822410931684
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	10	16		#FFF1A9	0.116456644960187
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	11	16	autism|autistic|nonverbal	#FFF1A9	0.128793828134983
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	12	16		#FFF1A9	0.134594199484737
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	13	16	bottomup|repetitions	#FFF1A9	0.184216130443349
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	14	16	adaptation	#FFFFCC	0.0937922837377283
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	15	16	irrelevant	#FFF1A9	0.121168712459019
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	16	16	distractor|distractors	#FFFFCC	0.0684176461763549
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	17	16		#FFF1A9	0.155864839496325
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	18	16	subtraction	#FFF1A9	0.122852759324761
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	19	16	1back|nback	#FFF1A9	0.119309031066627
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	20	16	manipulation|rules	#FFF1A9	0.191125931493597
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	21	16		#FEE188	0.207684651345395
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	22	16		#FFF1A9	0.178657106828656
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	23	16	digit	#FEE188	0.26330438913665
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	1	17	avoidance	#FFFFCC	0.0507338591126179
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	2	17		#FFF1A9	0.159985292861234
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	3	17	eating|food	#FFFFCC	0.0585196305566453
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	4	17	taste	#FFF1A9	0.197933531839849
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	5	17	bipolar	#FFF1A9	0.175089566517343
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	6	17	illness|uncertainty	#FECB68	0.354740940900748
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	7	17	females|probabilistic	#FFF1A9	0.179412464534998
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	8	17	rejection	#FECB68	0.362016373863786
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	9	17	colour|paired	#FFFFCC	0.0285277785165938
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	10	17		#FFF1A9	0.155907845110606
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	11	17		#FFF1A9	0.160435280395158
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	12	17		#FFF1A9	0.177000155856433
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	13	17	taskirrelevant	#FFFFCC	0.0763142032624723
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	14	17		#FFF1A9	0.115365820678805
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	15	17	suppression	#FFF1A9	0.124440928019425
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	16	17		#FFFFCC	0.0922981810691726
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	17	17	shifting|shortterm	#FFFFCC	0.0149308252396571
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	18	17	digits	#FDAD4A	0.404122872692236
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	19	17	search	#FFF1A9	0.134115185580603
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	20	17	counting|taskrelated	#FFF1A9	0.117420413845194
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	21	17	topdown	#FFF1A9	0.113336059437522
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	22	17	visuospatial	#FFFFCC	0.0754255391196313
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	23	17	arithmetic|calculation|solving	#FFF1A9	0.136455667399133
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	1	18	addiction|craving|drugs	#FFF1A9	0.14846481081596
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	2	18	allele|genotype|polymorphism	#FEE188	0.285963580199553
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	3	18	motivation	#FFFFCC	0.0888564428124905
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	4	18	heart	#FFF1A9	0.192747503545442
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	5	18	sleep	#FFF1A9	0.17097727693518
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	6	18	expectancy	#FEE188	0.2180533859223
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	7	18	phasic|salience	#FDAD4A	0.44491935849047
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	8	18	adolescence|adolescents	#FDAD4A	0.463772621721701
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	9	18	intelligence|tracking	#FFFFCC	0.0868843986506187
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	10	18		#FEE188	0.234850958771131
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	11	18	serial	#FFFFCC	0.0930327579550777
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	12	18		#FFF1A9	0.171770866441217
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	13	18	spatially|taskrelevant	#FFF1A9	0.105915460787416
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	14	18		#FFFFCC	0.0814532194077404
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	15	18	attended|attend|unattended	#FFFFCC	0.0284740675277337
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	16	18	rotation|shapes	#FFFFCC	0.0686309118175399
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	17	18	rehearsal	#FFFFCC	0.0645221944660512
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	18	18	learned	#FFFFCC	0.0952498417065198
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	19	18		#FEE188	0.220544946617001
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	20	18	cued|preparatory	#FECB68	0.317621086039935
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	21	18		#FFF1A9	0.184545716960965
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	22	18		#FFF1A9	0.149914032154763
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	23	18	numbers|numerical	#FFF1A9	0.129355270614837
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	1	19	future	#FEE188	0.261982156573737
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	2	19	negatively	#FFF1A9	0.183903576265257
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	3	19	distress|epilepsy|selfreported	#FFFFCC	0.0987192354033051
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	4	19	anticipatory|cocaine|probabilities|smoking	#FECB68	0.316847721421698
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	5	19	alcohol|amount|impulsivity	#FEE188	0.276219753266135
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	6	19	game|success	#FECB68	0.350761655441848
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	7	19	adhd|childhood|engagement	#FFF1A9	0.147986541678206
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	8	19		#FDAD4A	0.486167647023956
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	9	19		#FECB68	0.381409323932176
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	10	19		#FEE188	0.227859423656893
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	11	19		#FEE188	0.209483182687208
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	12	19	endogenous	#FEE188	0.23367331253386
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	13	19	cueing|invalid|orienting	#FFFFCC	0.0856685749192395
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	14	19		#FFFFCC	0.0864064072917778
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	15	19	multisensory	#FFFFCC	0.040343178165309
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	16	19		#FFFFCC	0.0751083631709674
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	17	19	shifts	#FFF1A9	0.132225679154948
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	18	19	covert	#FFF1A9	0.194917383834405
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	19	19		#FEE188	0.201164779591846
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	20	19	preparation	#FECB68	0.336482952578659
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	21	19	discrimination|training	#FFF1A9	0.101086323312991
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	22	19	sequences	#FFF1A9	0.103304944690743
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	23	19		#FEE188	0.213850869953741
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	1	20	personal|self|selfreferential|trait|traits	#FC622F	0.673078132055106
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	2	20	empathic|theory	#FD913D	0.551389671230869
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	3	20	attribution|intentional	#FFF1A9	0.191147486874603
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	4	20	elderly|oscillations	#FDAD4A	0.493168138759111
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	5	20	antipsychotic|virtual	#FFF1A9	0.161511710437706
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	6	20		#FECB68	0.390402134521095
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	7	20	experiences	#FDAD4A	0.456523847299903
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	8	20	categorical|pressure	#FDAD4A	0.450916945492018
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	9	20	play|skills	#FFF1A9	0.152108346733396
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	10	20	automatic|trained	#FDAD4A	0.484796101489567
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	11	20		#FEE188	0.200930244905767
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	12	20	practice	#FFFFCC	0.0945424827435695
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	13	20	visuomotor	#FFF1A9	0.138015748443609
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	14	20		#FFF1A9	0.109769709323941
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	15	20	tool	#FFFFCC	0.0637173807587987
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	16	20	vision	#FFFFCC	0.0288461609735539
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	17	20	visually	#FFFFCC	0.0928085452755357
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	18	20	saccade|saccades|saccadic	#FFFFCC	0.0764092451409648
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	19	20	locations	#FFF1A9	0.166266532347677
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	20	20	imagery|planning	#FFF1A9	0.158276258566031
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	21	20		#FEE188	0.216490635186257
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	22	20	rest	#FFF1A9	0.179075816789618
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	23	20	sequence	#FEE188	0.210296658412146
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	1	21	scenarios	#FFF1A9	0.128029030895415
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	2	21	intention|intentions	#FECB68	0.30501177773542
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	3	21	causality|perspective	#FDAD4A	0.442108296647623
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	4	21	past	#FEE188	0.213545730810987
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	5	21		#FDAD4A	0.483306217164395
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	6	21	episode	#FFF1A9	0.192740031563839
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	7	21	improvement	#FEE188	0.256440677157382
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	8	21	masking|retention	#FFF1A9	0.10597744693961
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	9	21		#FEE188	0.246733921843366
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	10	21	dominant	#FFFFCC	0.0709421016193342
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	11	21		#FFF1A9	0.192564292325098
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	12	21	sequential	#FFFFCC	0.0974535615129928
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	13	21	fingers	#FFFFCC	0.0953176402069684
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	14	21		#FFFFCC	0.0722294113641433
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	15	21	gesture|gestures	#FFFFCC	0
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	16	21		#FFFFCC	0.0660722755831152
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	17	21	hands	#FFF1A9	0.112094527616131
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	18	21		#FFFFCC	0.0895218304524786
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	19	21		#FFFFCC	0.0823875187294693
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	20	21	eye|position	#FFFFCC	0.0594611472845472
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	21	21	execution	#FEE188	0.21560032384646
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	22	21	finger|sensorimotor	#FFF1A9	0.179560241469019
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	23	21		#FEE188	0.23592185814854
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	1	22	moral|stories|story	#FFF1A9	0.172221825297077
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	2	22	mentalizing|persons	#FEE188	0.293300147030227
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	3	22	default|restingstate	#FDAD4A	0.482665764879772
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	4	22	thinking|thought|thoughts	#FEE188	0.254786317458176
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	5	22	spontaneous	#FDAD4A	0.412266399394428
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	6	22	concentration|sensations	#FDAD4A	0.406871055773526
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	7	22	hierarchical|preference	#FEE188	0.275476000000166
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	8	22	effort|oral|simulation	#FECB68	0.311476150109663
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	9	22	interhemispheric|plasticity	#FFFFCC	0.0761931191959408
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	10	22	imagined|imagine	#FFF1A9	0.124064862725153
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	11	22	tapping	#FEE188	0.244271335420537
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	12	22	foot|muscle|muscles|voluntary	#FECB68	0.379344396360505
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	13	22	limb	#FFFFCC	0.086404012942128
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	14	22	eyes|velocity	#FFFFCC	0.0251331334955246
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	15	22	biological|gaze|videos	#FFFFCC	0.0245778030659615
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	16	22	body	#FFF1A9	0.10744548618188
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	17	22	grasping|orientation|reaching	#FFFFCC	0.0237401405254857
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	18	22		#FFFFCC	0.0766646386832064
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	19	22	mirror|shape	#FFFFCC	0.0511107885068309
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	20	22	actions	#FFFFCC	0.0526270335681933
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	21	22	action	#FFF1A9	0.152693174488028
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	22	22		#FEE188	0.23349572532258
+901e0e77-5ec1-3a5a-b98e-634dd6bf01a3	Tebartz van Elst L	23	22	hand|movements|sensory	#FEE188	0.261696230937385

@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	1	1	auditory|speech	#FDAD4A	0.442371730642575
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	2	1		#FDAD4A	0.403177352386359
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	3	1	da|integration	#FC622F	0.637342137007054
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	4	1		#FD913D	0.551943176127493
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	5	1	physical|psychophysical|tactile	#FEE188	0.26718967845708
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	6	1		#FECB68	0.397004762572503
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	7	1	somatosensory|stimulation	#FECB68	0.346623541178133
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	8	1	painful|pain	#FEE188	0.257525645905105
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	9	1		#FECB68	0.391201446576695
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	10	1	ratings	#FC622F	0.642375717365194
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	11	1	affective|affect	#FC622F	0.63559828728128
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	12	1	emotions	#FC622F	0.688399046348164
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	13	1	expression|expressions|facial	#FC622F	0.623913519796772
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	14	1		#D7141E	0.803846533507781
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	15	1		#D7141E	0.813782112603146
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	16	1	emotion|motion|neutral	#F03623	0.755847414001253
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	17	1	rating	#FC622F	0.657358359282452
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	18	1	negative|positive	#FD913D	0.567340367777315
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	19	1		#FD913D	0.583200875725996
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	20	1	ear|order	#FD913D	0.503176988469941
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	21	1	motor	#FEE188	0.277477896007246
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	22	1	visual	#FDAD4A	0.443530180668818
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	23	1	age|image|response	#FDAD4A	0.4552017279957
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	1	2	sound|sounds	#FEE188	0.26094401188735
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	2	2		#FECB68	0.373040190999803
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	3	2	audiovisual|bimodal|crossmodal	#FDAD4A	0.476270058022806
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	4	2		#FD913D	0.56260292786408
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	5	2		#FD913D	0.519995962347959
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	6	2		#FDAD4A	0.433266651936925
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	7	2	sensation	#FFF1A9	0.194304136729125
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	8	2	heat|noxious	#FEE188	0.244153342643332
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	9	2		#FDAD4A	0.422338813520613
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	10	2		#FC622F	0.655201334396723
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	11	2		#F03623	0.709203517909038
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	12	2	valence	#FC622F	0.663848991885355
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	13	2	person|social	#F03623	0.785926121562726
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	14	2		#D7141E	0.818612702431184
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	15	2	face|faces	#F03623	0.719110747848184
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	16	2		#D7141E	0.817953386055109
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	17	2		#F03623	0.766231036062122
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	18	2		#FC622F	0.690754826156643
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	19	2		#FC622F	0.602588597792164
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	20	2		#FD913D	0.500713306372155
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	21	2	images|spatial	#FDAD4A	0.473289561219905
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	22	2	control	#FDAD4A	0.416893624110895
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	23	2	time	#FDAD4A	0.454531786469008
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	1	3	acoustic|listening|musical|music|pitch	#FEE188	0.231596331624322
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	2	3	noise|tones	#FEE188	0.244556339652175
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	3	3		#FD913D	0.555547893965241
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	4	3		#FC622F	0.64003278659444
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	5	3	frequency	#FD913D	0.560006610492193
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	6	3		#FC622F	0.631350144208185
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	7	3		#FECB68	0.385960227875583
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	8	3	temperature	#FEE188	0.278876254541634
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	9	3		#FDAD4A	0.427025317456995
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	10	3	pleasant|unpleasant	#FDAD4A	0.433277228222796
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	11	3	anxiety	#FD913D	0.545081385581494
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	12	3		#F03623	0.780280357675251
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	13	3		#D7141E	0.858685753378267
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	14	3		#D7141E	0.868777510623921
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	15	3		#D7141E	0.884148158588115
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	16	3	picture	#D7141E	0.839044195472671
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	17	3		#D7141E	0.823801256766843
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	18	3	value	#FC622F	0.636793865973113
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	19	3	cue	#FD913D	0.566298310354979
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	20	3	error|target	#FDAD4A	0.441293023617499
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	21	3	attention	#FDAD4A	0.417381749030461
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	22	3		#FD913D	0.517360887888586
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	23	3	number	#FD913D	0.515120511439626
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	1	4	voice	#FFF1A9	0.188496474515937
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	2	4		#FECB68	0.376132097287713
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	3	4	hearing	#FDAD4A	0.48143073028345
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	4	4		#FC622F	0.607929637602787
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	5	4	overt	#FD913D	0.592193377207824
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	6	4		#FC622F	0.669300370492529
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	7	4		#FD913D	0.516908861608067
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	8	4	nociceptive|nonpainful|painrelated	#FEE188	0.260065398452238
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	9	4	unpleasantness	#FECB68	0.369775657609065
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	10	4	skin|subjective	#FD913D	0.553145141142233
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	11	4	depression	#FC622F	0.680635569442321
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	12	4	experience	#F03623	0.727602022090084
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	13	4	female	#FC622F	0.661986442725892
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	14	4	male	#D7141E	0.857049900790025
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	15	4	pictures	#D7141E	0.861901518672766
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	16	4		#D7141E	0.898640631125862
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	17	4	perception	#F03623	0.715952557216511
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	18	4		#F03623	0.72014683524545
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	19	4		#FC622F	0.657521125307553
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	20	4		#FD913D	0.599468524092236
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	21	4	correct	#FD913D	0.528727382749779
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	22	4	work	#FDAD4A	0.463576375976583
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	23	4	memory	#FD913D	0.568575597373957
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	1	5	prosodic|prosody	#FECB68	0.343089552359977
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	2	5	phonetic	#FEE188	0.264079514517144
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	3	5	syllable|syllables	#FDAD4A	0.399827388686383
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	4	5		#FD913D	0.58965541993622
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	5	5	lip|production	#FD913D	0.566882219053391
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	6	5	somatotopic	#FDAD4A	0.441612242996186
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	7	5		#FD913D	0.572660465115666
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	8	5		#FDAD4A	0.476945982858191
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	9	5	empathy	#FD913D	0.513098014976397
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	10	5		#FC622F	0.643806955857222
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	11	5	disorder	#FC622F	0.647814078090049
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	12	5		#F03623	0.77227637313673
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	13	5		#D7141E	0.85513417471105
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	14	5		#D7141E	0.894207445507797
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	15	5		#B10026	0.914285950938038
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	16	5		#D7141E	0.881124235469914
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	17	5		#D7141E	0.831138404276524
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	18	5	mental	#FC622F	0.670600406448885
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	19	5	go	#FC622F	0.700215563710459
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	20	5	object	#FD913D	0.545890227882973
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	21	5		#FC622F	0.618782442437729
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	22	5		#FC622F	0.605573301498743
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	23	5	word|words	#FD913D	0.503983284272579
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	1	6		#FD913D	0.526533748807975
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	2	6		#FD913D	0.547399623510731
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	3	6		#FC622F	0.608052053615254
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	4	6	vocal	#FDAD4A	0.461673002618912
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	5	6	articulatory	#FDAD4A	0.410898054174787
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	6	6		#FC622F	0.661919820970298
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	7	6	oddball	#FD913D	0.521940961739392
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	8	6	perceived	#FDAD4A	0.444182609090274
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	9	6	errorrelated	#FECB68	0.303994751503985
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	10	6	approach	#FDAD4A	0.430435719984292
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	11	6	schizophrenia	#FD913D	0.560368963849105
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	12	6	acquisition	#FD913D	0.589838362735129
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	13	6		#F03623	0.77366003372292
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	14	6		#FC622F	0.663785683104724
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	15	6		#FC622F	0.698372006917993
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	16	6		#F03623	0.722797988592756
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	17	6		#F03623	0.739341789975731
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	18	6		#F03623	0.719944710958054
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	19	6		#F03623	0.748221940340783
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	20	6	objects	#F03623	0.746029981181292
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	21	6		#F03623	0.706053616307435
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	22	6		#FC622F	0.609351984432811
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	23	6	language|semantic	#FD913D	0.567918414858357
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	1	7	dopamine|dopaminergic	#FFF1A9	0.123511751749495
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	2	7		#FEE188	0.247232945145435
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	3	7		#FDAD4A	0.46877619166735
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	4	7		#FD913D	0.559235991686216
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	5	7		#FD913D	0.574817553009454
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	6	7		#FC622F	0.647661429098556
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	7	7		#FC622F	0.61950217372697
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	8	7		#FD913D	0.551349534657084
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	9	7		#FD913D	0.575948487624757
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	10	7		#FC622F	0.675664402852499
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	11	7		#F03623	0.704463358915627
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	12	7		#F03623	0.712953811498381
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	13	7	linguistic|spoken	#FD913D	0.51741864373652
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	14	7		#FD913D	0.583839470646425
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	15	7	comprehension|sentence|sentences|syntactic	#FD913D	0.518989636544159
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	16	7		#FC622F	0.623283233800121
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	17	7		#FC622F	0.669186478566323
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	18	7	phonological|reading|read	#FD913D	0.591618454204976
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	19	7		#F03623	0.736469146785559
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	20	7	perceptual|recognition	#D7141E	0.824047233040449
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	21	7		#F03623	0.734767698182483
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	22	7		#FC622F	0.632953150449979
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	23	7	verb	#FD913D	0.528655725714363
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	1	8	outcome|reward	#FEE188	0.214570187479405
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	2	8	anticipation	#FFF1A9	0.159388314029367
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	3	8	outcomes	#FEE188	0.218674030940239
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	4	8	choice|choices	#FEE188	0.249237437821754
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	5	8	decisions|probability	#FDAD4A	0.415841899350594
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	6	8	reversal	#FDAD4A	0.423780257178724
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	7	8	classification|incorrect	#FECB68	0.378238949421708
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	8	8		#FD913D	0.587852237977528
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	9	8	agerelated|fluency|probes	#FDAD4A	0.45234471487467
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	10	8	engaged	#FC622F	0.647362972191712
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	11	8	explicit|knowledge	#FD913D	0.593580470939101
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	12	8		#FC622F	0.643994349206352
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	13	8		#FD913D	0.576102343721926
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	14	8		#FD913D	0.580109564466379
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	15	8		#FD913D	0.589665941123208
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	16	8		#FC622F	0.622540689804243
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	17	8	lexical	#FD913D	0.573144426069418
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	18	8		#FC622F	0.679701684327805
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	19	8		#F03623	0.727652598889185
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	20	8		#F03623	0.782643719957757
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	21	8	encoding	#D7141E	0.810693147442839
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	22	8	retrieval	#FC622F	0.68651830700141
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	23	8	verbal	#FD913D	0.532467769118813
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	1	9	incentive|monetary|money|rewards	#FFFFCC	0
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	2	9	loss	#FEE188	0.237582908492495
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	3	9		#FECB68	0.3417452091476
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	4	9		#FDAD4A	0.402207067650166
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	5	9	decisionmaking	#FECB68	0.314627761625773
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	6	9		#FD913D	0.583641425017978
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	7	9		#FC622F	0.600718641273698
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	8	9		#FC622F	0.627214679587825
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	9	9		#F03623	0.710569575761902
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	10	9		#FC622F	0.69575165911917
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	11	9		#FC622F	0.653558446258613
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	12	9		#FC622F	0.611801666327202
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	13	9	noun	#FDAD4A	0.40269349943802
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	14	9	meaning	#FDAD4A	0.482961401563857
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	15	9	english	#FD913D	0.543477622794925
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	16	9	pseudoword|pseudowords	#FDAD4A	0.485403666132319
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	17	9		#FC622F	0.652333248049987
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	18	9		#F03623	0.704134452383057
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	19	9	familiar|judgment	#F03623	0.723776028452193
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	20	9	pair|pairs	#FC622F	0.619842164282071
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	21	9		#FC622F	0.682969430857427
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	22	9		#FC622F	0.603958540894349
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	23	9	letter|working	#FDAD4A	0.459813893864608
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	1	10	losses|reinforcement|win	#FFF1A9	0.120502736652211
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	2	10	gain	#FFF1A9	0.14749823248785
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	3	10	expectation	#FEE188	0.237213611133731
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	4	10	risk	#FECB68	0.387278780363321
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	5	10	fact	#FDAD4A	0.444544653960461
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	6	10	associative	#FD913D	0.581469682284543
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	7	10	familiarity|judgments|old	#FD913D	0.537727600738931
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	8	10	contextual|text	#FDAD4A	0.412862709906595
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	9	10	recall|retrieved	#F03623	0.73066446959203
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	10	10	conceptual|semantically	#FD913D	0.569461773382354
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	11	10	grammatical|speakers	#FDAD4A	0.469507143125594
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	12	10	nouns	#FDAD4A	0.44193629320924
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	13	10	japanese	#FECB68	0.393452540841159
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	14	10	languages	#FDAD4A	0.46211039688503
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	15	10	written	#FDAD4A	0.479008991347492
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	16	10	chinese|phonology	#FDAD4A	0.497660844030124
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	17	10	orthographic	#FD913D	0.589611264657247
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	18	10		#F03623	0.705527066218897
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	19	10		#F03623	0.708185641834149
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	20	10	association|decision	#FD913D	0.58890249452089
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	21	10	selection	#FD913D	0.503695032140755
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	22	10	letters	#FDAD4A	0.416953776259105
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	23	10	demand|load	#FDAD4A	0.450223586175797
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	1	11	conditioned|conditioning	#FECB68	0.357211513775247
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	2	11		#FDAD4A	0.481560637206416
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	3	11	drug|placebo	#FECB68	0.35059868085104
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	4	11		#F03623	0.704614089914611
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	5	11	associations	#FC622F	0.679387566614412
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	6	11		#B10026	0.904488915283836
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	7	11	episodic|recollection	#F03623	0.744888616553401
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	8	11		#D7141E	0.887107396607123
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	9	11		#D7141E	0.822506267401103
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	10	11	concepts	#FC622F	0.645251839066666
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	11	11		#FC622F	0.665857431981998
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	12	11		#FC622F	0.60541436483056
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	13	11	german	#FDAD4A	0.404361857742949
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	14	11	readers	#FDAD4A	0.483587697016493
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	15	11	character|name|naming	#FC622F	0.681620278098032
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	16	11		#F03623	0.703939157247978
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	17	11	novel	#F03623	0.715261357657734
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	18	11		#FC622F	0.695412706555495
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	19	11	child|children	#FD913D	0.526822147703777
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	20	11	adults	#FC622F	0.652294026852616
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	21	11	ability|feedback|learning	#FD913D	0.522845933098685
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	22	11	cues|delay	#FD913D	0.514538275088102
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	23	11	attentional|difficulty|targets	#FDAD4A	0.494387672027862
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	1	12	aversive|shock	#FDAD4A	0.485069312120667
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	2	12	reactivity	#FDAD4A	0.462830478553952
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	3	12	males|sex|women	#FDAD4A	0.4576426620509
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	4	12	animal	#FC622F	0.691228397213646
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	5	12	animals	#FD913D	0.597708003852632
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	6	12		#B10026	1
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	7	12	remember|subsequent	#D7141E	0.847177977562542
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	8	12	autobiographical|memories	#FC622F	0.62570138107938
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	9	12		#F03623	0.796672974694894
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	10	12	violation|violations	#FEE188	0.286799620948394
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	11	12	aphasia	#FC622F	0.61522772042308
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	12	12	nonwords	#FDAD4A	0.423578154255301
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	13	12	dyslexia	#FDAD4A	0.461114151854997
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	14	12		#FC622F	0.700385991099249
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	15	12	priming	#FC622F	0.639252583340773
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	16	12		#F03623	0.763091552089175
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	17	12	category|repetition	#F03623	0.748322125570114
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	18	12		#F03623	0.703232517880742
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	19	12	developmental|development	#FD913D	0.536922977739694
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	20	12		#FC622F	0.617182656067424
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	21	12	space	#FD913D	0.591893711361994
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	22	12		#FDAD4A	0.489568974907416
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	23	12	color	#FDAD4A	0.420660838019445
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	1	13	threat	#FD913D	0.532809666450771
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	2	13	regulation	#FECB68	0.367556044002691
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	3	13		#FC622F	0.682775535593225
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	4	13	masked	#F03623	0.716749408073527
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	5	13	scene|scenes	#FC622F	0.695520719915723
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	6	13		#B10026	0.971067913518251
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	7	13	confidence|remembered	#FC622F	0.617227479076259
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	8	13		#B10026	0.962223390955116
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	9	13		#F03623	0.798235880048801
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	10	13	ambiguity|ambiguous	#FEE188	0.271377291400805
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	11	13		#FC622F	0.660131899736109
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	12	13		#FC622F	0.646647973924992
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	13	13	writing	#FDAD4A	0.407328982134856
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	14	13		#FC622F	0.697642780847797
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	15	13	categorization|congruency|prime	#FD913D	0.558818616014998
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	16	13		#F03623	0.759133263449959
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	17	13	mask	#FD913D	0.595739060543155
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	18	13		#F03623	0.703905565241636
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	19	13		#FC622F	0.60684877162735
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	20	13		#FD913D	0.544727664114504
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	21	13	conflict|congruent|incongruent	#FECB68	0.362160306521376
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	22	13	errors	#FECB68	0.355278064485249
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	23	13	maintenance|probe|wm	#FECB68	0.332344522612931
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	1	14	angry|fearful|happy	#FECB68	0.344732490172074
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	2	14		#FDAD4A	0.478016979659931
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	3	14	awareness|conscious|ptsd	#FDAD4A	0.447543765578799
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	4	14		#D7141E	0.870656660089376
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	5	14	houses|photographs	#FD913D	0.521828632896964
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	6	14		#B10026	0.924904053131347
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	7	14	hits	#FD913D	0.57854082208094
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	8	14	famous	#FC622F	0.636716168108071
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	9	14	names	#FD913D	0.527133153481969
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	10	14	family	#FDAD4A	0.421805674839754
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	11	14	competition|mouth	#FDAD4A	0.428355675071125
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	12	14	abilities	#FEE188	0.286520416235584
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	13	14	implicit|unfamiliar	#FD913D	0.558999994446738
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	14	14		#FC622F	0.670989626466217
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	15	14	tom	#FC622F	0.665804976755619
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	16	14		#FC622F	0.645180593426988
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	17	14		#FD913D	0.582982444070532
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	18	14	stop	#FDAD4A	0.465651034679252
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	19	14	inhibition|inhibitory|nogo	#FDAD4A	0.485891398900698
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	20	14	monitoring|stroop	#FEE188	0.288854845161295
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	21	14	interference	#FECB68	0.340456274621715
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	22	14		#FDAD4A	0.400722527901616
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	23	14	demands|executive	#FDAD4A	0.426756067376827
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	1	15	anger	#FECB68	0.348873417289508
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	2	15	stress	#FECB68	0.340556939826035
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	3	15	feelings	#FD913D	0.501539343509886
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	4	15	salient	#FD913D	0.574730065217317
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	5	15	novelty	#FD913D	0.5574957380253
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	6	15	movie	#FDAD4A	0.422106579485043
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	7	15		#F03623	0.795722870160585
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	8	15		#F03623	0.763787037933396
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	9	15	longterm	#FECB68	0.387536811239144
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	10	15		#FC622F	0.635736865079216
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	11	15	reasoning|relational	#FECB68	0.395387922222493
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	12	15		#FC622F	0.668159826824377
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	13	15	presentations	#FDAD4A	0.423019527401107
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	14	15		#FC622F	0.661127649647486
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	15	15	identity	#FDAD4A	0.435158916094519
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	16	15		#FD913D	0.569290334045703
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	17	15	strategies|strategy	#FDAD4A	0.41427802812824
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	18	15	card|cards	#FECB68	0.322722427050397
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	19	15	gonogo	#FDAD4A	0.491668966690208
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	20	15		#FDAD4A	0.429331240208813
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	21	15	switching|switch	#FECB68	0.301923129894118
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	22	15		#FECB68	0.347616164939842
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	23	15	2back|rule	#FEE188	0.222359373496318
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	1	16	emotionally|mood|personality|sadness	#FDAD4A	0.401536075142681
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	2	16	disgust|sexual	#FECB68	0.355833539093831
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	3	16	olfactory	#FFF1A9	0.179011528013405
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	4	16	physiological	#FDAD4A	0.450411599870257
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	5	16	depressed|depressive|habituation	#FECB68	0.382708935327348
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	6	16	schizophrenic	#FEE188	0.280028184435824
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	7	16	colors|contexts	#FEE188	0.237342161461656
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	8	16	aging|encoded	#FDAD4A	0.409908953798946
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	9	16	goal	#FEE188	0.286956695203703
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	10	16		#FD913D	0.564212971924355
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	11	16	autism|autistic|nonverbal	#FDAD4A	0.427709959682154
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	12	16		#FC622F	0.648811163200281
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	13	16	bottomup|repetitions	#FD913D	0.528176647236562
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	14	16	adaptation	#FC622F	0.625696149983353
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	15	16	irrelevant	#FD913D	0.501798262046491
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	16	16	distractor|distractors	#FEE188	0.240651766520092
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	17	16		#FDAD4A	0.484046545284135
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	18	16	subtraction	#FFF1A9	0.18586682698497
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	19	16	1back|nback	#FFF1A9	0.161898101782971
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	20	16	manipulation|rules	#FEE188	0.268199172483568
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	21	16		#FECB68	0.384281570851657
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	22	16		#FECB68	0.340586762904227
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	23	16	digit	#FECB68	0.321680993463381
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	1	17	avoidance	#FECB68	0.324149905949118
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	2	17		#FD913D	0.553399141737929
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	3	17	eating|food	#FFF1A9	0.190029793442573
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	4	17	taste	#FFF1A9	0.121121455929518
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	5	17	bipolar	#FECB68	0.340783898999412
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	6	17	illness|uncertainty	#FECB68	0.353674392199095
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	7	17	females|probabilistic	#FEE188	0.275606916386773
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	8	17	rejection	#FECB68	0.339244842398029
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	9	17	colour|paired	#FDAD4A	0.401312515703218
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	10	17		#FD913D	0.549548330108254
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	11	17		#FD913D	0.529568805895455
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	12	17		#FD913D	0.551158214158665
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	13	17	taskirrelevant	#FECB68	0.396695036100011
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	14	17		#FD913D	0.555539165314477
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	15	17	suppression	#FDAD4A	0.485116832521265
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	16	17		#FD913D	0.513950415625328
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	17	17	shifting|shortterm	#FEE188	0.26398494663645
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	18	17	digits	#FECB68	0.365299076813118
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	19	17	search	#FEE188	0.28544892951016
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	20	17	counting|taskrelated	#FECB68	0.305396922196114
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	21	17	topdown	#FECB68	0.390939601675492
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	22	17	visuospatial	#FEE188	0.212127689471788
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	23	17	arithmetic|calculation|solving	#FEE188	0.276570640390506
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	1	18	addiction|craving|drugs	#FDAD4A	0.487933788296776
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	2	18	allele|genotype|polymorphism	#FEE188	0.25729145895608
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	3	18	motivation	#FFFFCC	0.0169821350074152
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	4	18	heart	#FC622F	0.61436152601222
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	5	18	sleep	#FDAD4A	0.432715564204733
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	6	18	expectancy	#FECB68	0.349966258760227
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	7	18	phasic|salience	#FEE188	0.297517574164231
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	8	18	adolescence|adolescents	#FFFFCC	0.0628004570368636
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	9	18	intelligence|tracking	#FECB68	0.359896285796907
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	10	18		#FD913D	0.512076568105434
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	11	18	serial	#FEE188	0.226974863446609
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	12	18		#FDAD4A	0.473489354827937
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	13	18	spatially|taskrelevant	#FECB68	0.338171987455553
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	14	18		#FD913D	0.51817399106898
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	15	18	attended|attend|unattended	#FECB68	0.307177458934548
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	16	18	rotation|shapes	#FECB68	0.367242686059756
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	17	18	rehearsal	#FDAD4A	0.401554444625149
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	18	18	learned	#FEE188	0.226242610901208
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	19	18		#FDAD4A	0.442818618726782
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	20	18	cued|preparatory	#FECB68	0.358924879270181
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	21	18		#FDAD4A	0.44396064237312
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	22	18		#FDAD4A	0.405908397379731
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	23	18	numbers|numerical	#FFF1A9	0.159018413384823
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	1	19	future	#FDAD4A	0.489228809375629
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	2	19	negatively	#FD913D	0.57255329407036
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	3	19	distress|epilepsy|selfreported	#FD913D	0.553530960423017
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	4	19	anticipatory|cocaine|probabilities|smoking	#FFF1A9	0.193672973691313
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	5	19	alcohol|amount|impulsivity	#FEE188	0.262866771674462
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	6	19	game|success	#FECB68	0.37575553045628
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	7	19	adhd|childhood|engagement	#FECB68	0.332183619851397
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	8	19		#FD913D	0.563081837296479
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	9	19		#FD913D	0.508502211345201
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	10	19		#FDAD4A	0.457331576616413
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	11	19		#FDAD4A	0.440445998076975
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	12	19	endogenous	#FEE188	0.274533211155911
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	13	19	cueing|invalid|orienting	#FECB68	0.311332197038716
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	14	19		#FD913D	0.545040652630597
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	15	19	multisensory	#FD913D	0.509248353943095
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	16	19		#FD913D	0.531851834720017
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	17	19	shifts	#FDAD4A	0.439412100721958
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	18	19	covert	#FDAD4A	0.444618559339484
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	19	19		#FDAD4A	0.442213052268478
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	20	19	preparation	#FECB68	0.331005386844939
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	21	19	discrimination|training	#FDAD4A	0.42500295146282
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	22	19	sequences	#FECB68	0.317303844302991
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	23	19		#FD913D	0.535902064284485
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	1	20	personal|self|selfreferential|trait|traits	#FD913D	0.505741112396956
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	2	20	empathic|theory	#FC622F	0.607166342616285
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	3	20	attribution|intentional	#FECB68	0.370791107310585
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	4	20	elderly|oscillations	#FECB68	0.328672944578203
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	5	20	antipsychotic|virtual	#FEE188	0.27393297297095
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	6	20		#F03623	0.718361565897905
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	7	20	experiences	#FECB68	0.388622525920035
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	8	20	categorical|pressure	#FECB68	0.399057057238467
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	9	20	play|skills	#FFF1A9	0.176018316358659
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	10	20	automatic|trained	#FEE188	0.264583810717916
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	11	20		#FDAD4A	0.41574604693624
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	12	20	practice	#FEE188	0.260292075758504
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	13	20	visuomotor	#FECB68	0.372054058142115
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	14	20		#FC622F	0.620423851201046
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	15	20	tool	#FECB68	0.350420757143003
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	16	20	vision	#FEE188	0.239930868567488
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	17	20	visually	#FECB68	0.354497402512235
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	18	20	saccade|saccades|saccadic	#FEE188	0.280474547232475
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	19	20	locations	#FECB68	0.364125827863257
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	20	20	imagery|planning	#FECB68	0.330082801994289
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	21	20		#FDAD4A	0.469610196681361
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	22	20	rest	#FD913D	0.587972843638565
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	23	20	sequence	#FDAD4A	0.476884557073533
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	1	21	scenarios	#FC622F	0.625627827210319
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	2	21	intention|intentions	#FD913D	0.542584819411163
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	3	21	causality|perspective	#FEE188	0.29461592028972
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	4	21	past	#FECB68	0.365368203626631
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	5	21		#F03623	0.736390725908318
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	6	21	episode	#FECB68	0.393610710802183
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	7	21	improvement	#FEE188	0.245691317078763
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	8	21	masking|retention	#FECB68	0.328074827671628
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	9	21		#FDAD4A	0.496320611270171
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	10	21	dominant	#FECB68	0.332396279721191
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	11	21		#FECB68	0.367888391789244
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	12	21	sequential	#FEE188	0.273816389198943
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	13	21	fingers	#FFF1A9	0.19553423605348
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	14	21		#FC622F	0.652369043547625
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	15	21	gesture|gestures	#FECB68	0.397162709924641
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	16	21		#FD913D	0.50976702624022
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	17	21	hands	#FFF1A9	0.101864450229109
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	18	21		#FDAD4A	0.432191491591349
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	19	21		#FDAD4A	0.493266036197511
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	20	21	eye|position	#FDAD4A	0.466993097042158
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	21	21	execution	#FECB68	0.36934680717073
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	22	21	finger|sensorimotor	#FECB68	0.345524421786319
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	23	21		#FECB68	0.389833628767915
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	1	22	moral|stories|story	#FD913D	0.504439092843708
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	2	22	mentalizing|persons	#FD913D	0.595450298398126
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	3	22	default|restingstate	#FD913D	0.531591986360783
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	4	22	thinking|thought|thoughts	#FDAD4A	0.464586992614061
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	5	22	spontaneous	#FD913D	0.574535968652081
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	6	22	concentration|sensations	#FECB68	0.312029676577877
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	7	22	hierarchical|preference	#FEE188	0.22284325157327
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	8	22	effort|oral|simulation	#FDAD4A	0.426572809388142
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	9	22	interhemispheric|plasticity	#FECB68	0.330638033556656
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	10	22	imagined|imagine	#FEE188	0.203999170635047
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	11	22	tapping	#FEE188	0.235563152048007
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	12	22	foot|muscle|muscles|voluntary	#FFF1A9	0.197300342892576
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	13	22	limb	#FFF1A9	0.178093508935282
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	14	22	eyes|velocity	#FECB68	0.384805626126154
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	15	22	biological|gaze|videos	#FD913D	0.573627656681938
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	16	22	body	#FD913D	0.510996821426036
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	17	22	grasping|orientation|reaching	#FFF1A9	0.185169023784224
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	18	22		#FDAD4A	0.4299694150533
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	19	22	mirror|shape	#FD913D	0.531287181015168
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	20	22	actions	#FDAD4A	0.486851015051732
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	21	22	action	#FDAD4A	0.475074676087873
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	22	22		#FECB68	0.359689090128847
+cb6fda6d-7ca7-3ff2-a25c-cf6557def74b	Amaro E Jr	23	22	hand|movements|sensory	#FEE188	0.213049490559224

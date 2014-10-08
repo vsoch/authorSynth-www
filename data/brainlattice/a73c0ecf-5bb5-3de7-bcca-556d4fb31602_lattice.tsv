@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	1	1	auditory|speech	#FDAD4A	0.415382893605143
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	2	1		#FECB68	0.38555450305335
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	3	1	da|integration	#FC622F	0.632918129220464
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	4	1		#FC622F	0.616820551755713
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	5	1	physical|psychophysical|tactile	#FD913D	0.504695155867288
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	6	1		#FDAD4A	0.431404324785632
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	7	1	somatosensory|stimulation	#FECB68	0.341619287793362
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	8	1	painful|pain	#FFF1A9	0.130324291934815
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	9	1		#FFF1A9	0.169369222146394
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	10	1	ratings	#FEE188	0.213115028921229
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	11	1	affective|affect	#FEE188	0.23608328313822
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	12	1	emotions	#FEE188	0.233194753889506
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	13	1	expression|expressions|facial	#FEE188	0.271014433872079
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	14	1		#FDAD4A	0.408666652846858
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	15	1		#FDAD4A	0.445959902143792
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	16	1	emotion|motion|neutral	#FDAD4A	0.400177063605747
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	17	1	rating	#FECB68	0.302535455552799
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	18	1	negative|positive	#FECB68	0.389750323063346
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	19	1		#FC622F	0.629856674500167
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	20	1	ear|order	#FC622F	0.684086586629292
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	21	1	motor	#FC622F	0.635766211173746
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	22	1	visual	#D7141E	0.842140739663234
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	23	1	age|image|response	#FC622F	0.691796896537638
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	1	2	sound|sounds	#FEE188	0.231487099250292
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	2	2		#FECB68	0.342469215189583
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	3	2	audiovisual|bimodal|crossmodal	#FDAD4A	0.434787122697048
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	4	2		#FC622F	0.634162352302355
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	5	2		#FC622F	0.605998890414543
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	6	2		#FDAD4A	0.478954265171978
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	7	2	sensation	#FFF1A9	0.117777686073963
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	8	2	heat|noxious	#FFF1A9	0.124297022950464
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	9	2		#FFF1A9	0.186923909869811
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	10	2		#FEE188	0.239710335333033
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	11	2		#FEE188	0.255633853232594
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	12	2	valence	#FEE188	0.22020581098874
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	13	2	person|social	#FECB68	0.304911801416254
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	14	2		#FDAD4A	0.431914360544349
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	15	2	face|faces	#FD913D	0.56475059497655
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	16	2		#FD913D	0.507662645086316
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	17	2		#FD913D	0.504447387961329
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	18	2		#FC622F	0.601117917723096
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	19	2		#FC622F	0.689107267064176
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	20	2		#F03623	0.76363202106196
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	21	2	images|spatial	#F03623	0.764864330974551
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	22	2	control	#F03623	0.72404542817276
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	23	2	time	#F03623	0.715540731951986
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	1	3	acoustic|listening|musical|music|pitch	#FFF1A9	0.149265226206456
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	2	3	noise|tones	#FEE188	0.209095420484361
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	3	3		#FDAD4A	0.487400057583867
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	4	3		#FC622F	0.638633285450372
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	5	3	frequency	#FC622F	0.655760771907576
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	6	3		#FD913D	0.588289290805787
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	7	3		#FEE188	0.250011357211027
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	8	3	temperature	#FFF1A9	0.197146099856171
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	9	3		#FEE188	0.21800411798223
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	10	3	pleasant|unpleasant	#FFF1A9	0.138672711796881
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	11	3	anxiety	#FFF1A9	0.165872104432882
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	12	3		#FECB68	0.351705250579554
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	13	3		#FDAD4A	0.47742486811713
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	14	3		#FDAD4A	0.492476670878104
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	15	3		#FD913D	0.553362178044903
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	16	3	picture	#FC622F	0.639248395047075
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	17	3		#FC622F	0.639106882724134
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	18	3	value	#FC622F	0.668772918300191
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	19	3	cue	#F03623	0.78396198900699
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	20	3	error|target	#D7141E	0.802422739238082
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	21	3	attention	#D7141E	0.85163567918913
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	22	3		#D7141E	0.809631427311687
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	23	3	number	#F03623	0.791384654844605
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	1	4	voice	#FFF1A9	0.167088818008231
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	2	4		#FEE188	0.280217044763689
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	3	4	hearing	#FDAD4A	0.452907334127429
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	4	4		#FD913D	0.556415951139083
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	5	4	overt	#FC622F	0.676533329945281
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	6	4		#FD913D	0.56266227473682
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	7	4		#FECB68	0.325683712489218
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	8	4	nociceptive|nonpainful|painrelated	#FFF1A9	0.109458966836276
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	9	4	unpleasantness	#FEE188	0.217879879368814
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	10	4	skin|subjective	#FECB68	0.329519007292885
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	11	4	depression	#FEE188	0.283035074873686
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	12	4	experience	#FECB68	0.386446917756419
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	13	4	female	#FDAD4A	0.480225468496758
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	14	4	male	#FD913D	0.543340315915702
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	15	4	pictures	#FC622F	0.601573486751022
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	16	4		#F03623	0.719496863562614
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	17	4	perception	#F03623	0.729950223102653
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	18	4		#D7141E	0.865492932086477
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	19	4		#D7141E	0.869179790858268
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	20	4		#D7141E	0.871110826837568
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	21	4	correct	#F03623	0.776671301293587
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	22	4	work	#D7141E	0.814317719555442
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	23	4	memory	#F03623	0.753166923925536
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	1	5	prosodic|prosody	#FFF1A9	0.141821468123985
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	2	5	phonetic	#FEE188	0.278240716098796
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	3	5	syllable|syllables	#FDAD4A	0.418936045196444
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	4	5		#FD913D	0.502587842356862
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	5	5	lip|production	#FDAD4A	0.413404722454268
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	6	5	somatotopic	#FEE188	0.276787573616761
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	7	5		#FDAD4A	0.411744406807634
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	8	5		#FECB68	0.339973813642499
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	9	5	empathy	#FECB68	0.352366568990034
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	10	5		#FDAD4A	0.466257262337784
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	11	5	disorder	#FECB68	0.370862744110992
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	12	5		#FD913D	0.525831874847807
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	13	5		#FD913D	0.574428121241116
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	14	5		#FC622F	0.628896111903126
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	15	5		#FC622F	0.665101750496416
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	16	5		#F03623	0.761612427260591
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	17	5		#D7141E	0.843403410057764
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	18	5	mental	#D7141E	0.878036169538089
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	19	5	go	#D7141E	0.857444161025331
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	20	5	object	#D7141E	0.882683694175079
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	21	5		#D7141E	0.871043186024621
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	22	5		#D7141E	0.804921299773198
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	23	5	word|words	#F03623	0.742105980847412
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	1	6		#FECB68	0.332024677856453
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	2	6		#FECB68	0.38001260241391
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	3	6		#FDAD4A	0.48301098499883
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	4	6	vocal	#FEE188	0.251180059501377
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	5	6	articulatory	#FEE188	0.272655523869737
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	6	6		#FDAD4A	0.49990136287469
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	7	6	oddball	#FDAD4A	0.439703805978522
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	8	6	perceived	#FECB68	0.369534445862252
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	9	6	errorrelated	#FECB68	0.328122434474968
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	10	6	approach	#FDAD4A	0.421535784166833
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	11	6	schizophrenia	#FD913D	0.516342309803398
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	12	6	acquisition	#FD913D	0.500931554113487
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	13	6		#FC622F	0.601975063578307
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	14	6		#FD913D	0.548529518554713
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	15	6		#FD913D	0.580177370145282
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	16	6		#FC622F	0.64345996145532
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	17	6		#D7141E	0.864063093901967
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	18	6		#B10026	0.934954663457957
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	19	6		#B10026	0.945878497912957
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	20	6	objects	#B10026	0.991715077210977
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	21	6		#D7141E	0.890579223208058
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	22	6		#F03623	0.78490882678163
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	23	6	language|semantic	#F03623	0.706372673910285
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	1	7	dopamine|dopaminergic	#FFF1A9	0.175890153932048
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	2	7		#FEE188	0.207432818152687
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	3	7		#FDAD4A	0.42864568457198
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	4	7		#FD913D	0.528383441100213
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	5	7		#FD913D	0.579764213900705
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	6	7		#FC622F	0.623138530482225
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	7	7		#FC622F	0.609229087944211
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	8	7		#FD913D	0.539132286774264
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	9	7		#FD913D	0.524785370485806
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	10	7		#FC622F	0.644014638447527
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	11	7		#FC622F	0.663662325720037
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	12	7		#FC622F	0.677861809456685
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	13	7	linguistic|spoken	#FD913D	0.548656216283543
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	14	7		#FD913D	0.525723829106657
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	15	7	comprehension|sentence|sentences|syntactic	#FDAD4A	0.435657656311494
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	16	7		#FC622F	0.620728403003599
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	17	7		#D7141E	0.823927057327616
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	18	7	phonological|reading|read	#D7141E	0.846707999255462
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	19	7		#B10026	0.935527832912787
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	20	7	perceptual|recognition	#B10026	0.908980748812934
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	21	7		#D7141E	0.890625711850355
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	22	7		#F03623	0.788223528800081
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	23	7	verb	#F03623	0.743060037472337
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	1	8	outcome|reward	#FFF1A9	0.130379051689611
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	2	8	anticipation	#FFF1A9	0.144566697247005
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	3	8	outcomes	#FEE188	0.206486139324211
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	4	8	choice|choices	#FECB68	0.366488737162049
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	5	8	decisions|probability	#FD913D	0.513978422975116
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	6	8	reversal	#FD913D	0.568241219194464
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	7	8	classification|incorrect	#FDAD4A	0.466084949275708
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	8	8		#FC622F	0.601610618335828
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	9	8	agerelated|fluency|probes	#FD913D	0.520647110971832
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	10	8	engaged	#FC622F	0.665205550681667
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	11	8	explicit|knowledge	#FC622F	0.622018360476141
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	12	8		#FC622F	0.675894854229721
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	13	8		#FC622F	0.60448539684813
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	14	8		#FD913D	0.579585857715862
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	15	8		#FC622F	0.600464531560467
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	16	8		#FC622F	0.649284417253989
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	17	8	lexical	#F03623	0.727584391419
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	18	8		#D7141E	0.86058047240515
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	19	8		#D7141E	0.894938153094178
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	20	8		#D7141E	0.889461523653796
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	21	8	encoding	#D7141E	0.802827057216207
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	22	8	retrieval	#FC622F	0.679791037681381
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	23	8	verbal	#F03623	0.763574466226386
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	1	9	incentive|monetary|money|rewards	#FFFFCC	0.0693353584954135
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	2	9	loss	#FFF1A9	0.145853940746969
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	3	9		#FECB68	0.319598086659177
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	4	9		#FDAD4A	0.418958833977478
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	5	9	decisionmaking	#FDAD4A	0.43104735484225
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	6	9		#FD913D	0.598974157781748
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	7	9		#FC622F	0.602006638835831
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	8	9		#FC622F	0.601514454679626
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	9	9		#FC622F	0.615760953691032
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	10	9		#FC622F	0.663381488723513
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	11	9		#FC622F	0.651397514123913
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	12	9		#FC622F	0.653230259181995
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	13	9	noun	#FD913D	0.515722152555728
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	14	9	meaning	#FD913D	0.590570147334383
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	15	9	english	#FC622F	0.699088617945464
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	16	9	pseudoword|pseudowords	#FC622F	0.623012784122043
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	17	9		#F03623	0.797360192313337
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	18	9		#D7141E	0.842351947848936
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	19	9	familiar|judgment	#D7141E	0.805671081223079
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	20	9	pair|pairs	#F03623	0.738201734242087
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	21	9		#D7141E	0.861920895319968
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	22	9		#D7141E	0.88431602248869
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	23	9	letter|working	#B10026	0.902710299908286
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	1	10	losses|reinforcement|win	#FFFFCC	0.0988646029825473
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	2	10	gain	#FFF1A9	0.142126905753935
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	3	10	expectation	#FEE188	0.227805286629922
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	4	10	risk	#FECB68	0.340307083259927
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	5	10	fact	#FECB68	0.390598474234105
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	6	10	associative	#FD913D	0.533145863353783
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	7	10	familiarity|judgments|old	#FD913D	0.570351533865488
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	8	10	contextual|text	#FDAD4A	0.441069304202211
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	9	10	recall|retrieved	#FD913D	0.516962614930501
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	10	10	conceptual|semantically	#FDAD4A	0.472255916859172
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	11	10	grammatical|speakers	#FD913D	0.50614395733722
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	12	10	nouns	#FD913D	0.5212827316572
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	13	10	japanese	#FC622F	0.633040469426134
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	14	10	languages	#FC622F	0.654320530327288
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	15	10	written	#F03623	0.736904425307433
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	16	10	chinese|phonology	#D7141E	0.80240677815759
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	17	10	orthographic	#D7141E	0.848101587426565
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	18	10		#D7141E	0.832212046433171
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	19	10		#D7141E	0.806435233566053
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	20	10	association|decision	#FC622F	0.698122020246201
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	21	10	selection	#F03623	0.755259614238658
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	22	10	letters	#B10026	0.918902178025537
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	23	10	demand|load	#D7141E	0.850940673250176
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	1	11	conditioned|conditioning	#FFFFCC	0
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	2	11		#FFF1A9	0.191620403285168
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	3	11	drug|placebo	#FEE188	0.269837017615005
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	4	11		#FDAD4A	0.454145072778637
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	5	11	associations	#FD913D	0.505695327757202
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	6	11		#FD913D	0.562181427798954
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	7	11	episodic|recollection	#FECB68	0.349046746915831
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	8	11		#FD913D	0.556606785963154
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	9	11		#FC622F	0.640529586643812
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	10	11	concepts	#FECB68	0.388203444505211
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	11	11		#FC622F	0.624875807989618
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	12	11		#FC622F	0.665606419495548
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	13	11	german	#FD913D	0.515964489170997
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	14	11	readers	#FC622F	0.689893661240509
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	15	11	character|name|naming	#F03623	0.759739658451276
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	16	11		#D7141E	0.83904438387826
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	17	11	novel	#D7141E	0.822722695701619
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	18	11		#D7141E	0.834736950400604
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	19	11	child|children	#F03623	0.744385637128229
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	20	11	adults	#D7141E	0.813622988827905
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	21	11	ability|feedback|learning	#FC622F	0.667281040884262
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	22	11	cues|delay	#D7141E	0.84194989532307
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	23	11	attentional|difficulty|targets	#B10026	0.920369010227593
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	1	12	aversive|shock	#FFFFCC	0.0759894946768446
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	2	12	reactivity	#FFF1A9	0.111114236589748
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	3	12	males|sex|women	#FECB68	0.306316108469026
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	4	12	animal	#FECB68	0.309561339740439
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	5	12	animals	#FECB68	0.383404669189095
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	6	12		#FD913D	0.523617959894541
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	7	12	remember|subsequent	#FDAD4A	0.45126725971369
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	8	12	autobiographical|memories	#FFF1A9	0.114592489240592
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	9	12		#FC622F	0.611395155830748
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	10	12	violation|violations	#FEE188	0.285129216648391
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	11	12	aphasia	#FD913D	0.590667072625691
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	12	12	nonwords	#FD913D	0.584571263912967
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	13	12	dyslexia	#FC622F	0.659268275091114
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	14	12		#D7141E	0.840586281929677
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	15	12	priming	#F03623	0.794514958754515
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	16	12		#D7141E	0.858233879178637
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	17	12	category|repetition	#D7141E	0.80273863680159
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	18	12		#D7141E	0.842197248955717
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	19	12	developmental|development	#F03623	0.770217567735769
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	20	12		#D7141E	0.8308672717553
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	21	12	space	#F03623	0.778770265312225
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	22	12		#D7141E	0.871624193796156
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	23	12	color	#B10026	0.928665303854404
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	1	13	threat	#FFFFCC	0.0891324452979858
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	2	13	regulation	#FFFFCC	0.0843600673116982
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	3	13		#FEE188	0.262856367099401
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	4	13	masked	#FECB68	0.384693359493631
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	5	13	scene|scenes	#FECB68	0.37010327091948
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	6	13		#FD913D	0.523083550513344
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	7	13	confidence|remembered	#FDAD4A	0.406628086493792
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	8	13		#FD913D	0.58760152990299
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	9	13		#FC622F	0.639937683284274
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	10	13	ambiguity|ambiguous	#FECB68	0.39012366045545
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	11	13		#FC622F	0.683584378045817
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	12	13		#D7141E	0.833411079122067
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	13	13	writing	#FC622F	0.69075529361646
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	14	13		#D7141E	0.866339894437719
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	15	13	categorization|congruency|prime	#F03623	0.714914323718964
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	16	13		#D7141E	0.844547534101069
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	17	13	mask	#D7141E	0.805160266913431
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	18	13		#D7141E	0.832561932547363
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	19	13		#F03623	0.780876643481413
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	20	13		#F03623	0.791642655904309
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	21	13	conflict|congruent|incongruent	#F03623	0.716661563051669
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	22	13	errors	#F03623	0.70979347589674
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	23	13	maintenance|probe|wm	#F03623	0.774749663859679
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	1	14	angry|fearful|happy	#FFFFCC	0.0715788426639294
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	2	14		#FFF1A9	0.121396820883617
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	3	14	awareness|conscious|ptsd	#FFF1A9	0.13146869345829
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	4	14		#FECB68	0.385114646359799
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	5	14	houses|photographs	#FEE188	0.257596448759598
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	6	14		#FD913D	0.550112676280285
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	7	14	hits	#FD913D	0.520697459023207
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	8	14	famous	#FECB68	0.327622507306878
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	9	14	names	#FECB68	0.382176736329138
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	10	14	family	#FD913D	0.516441875486778
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	11	14	competition|mouth	#FC622F	0.647871466223351
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	12	14	abilities	#F03623	0.722744466266681
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	13	14	implicit|unfamiliar	#F03623	0.704017989249137
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	14	14		#D7141E	0.857151859883859
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	15	14	tom	#FC622F	0.643253269382424
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	16	14		#D7141E	0.858441979659266
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	17	14		#D7141E	0.837051297171933
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	18	14	stop	#FC622F	0.646408629215216
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	19	14	inhibition|inhibitory|nogo	#FD913D	0.564315826994034
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	20	14	monitoring|stroop	#FD913D	0.595823621628426
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	21	14	interference	#F03623	0.75488585038338
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	22	14		#D7141E	0.810524673075774
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	23	14	demands|executive	#D7141E	0.832110672418738
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	1	15	anger	#FFFFCC	0.0362601272581664
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	2	15	stress	#FFFFCC	0.0557709531525522
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	3	15	feelings	#FFF1A9	0.161134915173926
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	4	15	salient	#FEE188	0.214671025070107
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	5	15	novelty	#FFF1A9	0.188390003627126
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	6	15	movie	#FDAD4A	0.438433121572986
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	7	15		#FC622F	0.644914264827304
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	8	15		#F03623	0.71678920775641
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	9	15	longterm	#FD913D	0.548913984132625
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	10	15		#F03623	0.749580218827821
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	11	15	reasoning|relational	#FD913D	0.587441807245722
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	12	15		#D7141E	0.856337514208874
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	13	15	presentations	#FC622F	0.646761740097304
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	14	15		#D7141E	0.867618188631385
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	15	15	identity	#FC622F	0.66990145932839
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	16	15		#D7141E	0.835746393744139
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	17	15	strategies|strategy	#FC622F	0.657738724588
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	18	15	card|cards	#FD913D	0.525134429659954
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	19	15	gonogo	#FD913D	0.574895849274896
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	20	15		#F03623	0.741523858586002
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	21	15	switching|switch	#F03623	0.788813593168305
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	22	15		#D7141E	0.810107361911925
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	23	15	2back|rule	#F03623	0.732413521726757
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	1	16	emotionally|mood|personality|sadness	#FFFFCC	0.0687257464555514
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	2	16	disgust|sexual	#FFF1A9	0.112204836770208
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	3	16	olfactory	#FFFFCC	0.0157553616798274
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	4	16	physiological	#FFF1A9	0.146410376799302
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	5	16	depressed|depressive|habituation	#FFF1A9	0.102142946450208
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	6	16	schizophrenic	#FECB68	0.351089370750895
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	7	16	colors|contexts	#FDAD4A	0.467095458536685
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	8	16	aging|encoded	#FDAD4A	0.426139385056745
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	9	16	goal	#FC622F	0.641807871130341
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	10	16		#F03623	0.740248925542579
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	11	16	autism|autistic|nonverbal	#FD913D	0.557286032643608
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	12	16		#D7141E	0.828700544709774
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	13	16	bottomup|repetitions	#F03623	0.710456715737234
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	14	16	adaptation	#F03623	0.754021974867693
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	15	16	irrelevant	#D7141E	0.82416660314212
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	16	16	distractor|distractors	#FC622F	0.602889326645659
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	17	16		#D7141E	0.856500006515229
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	18	16	subtraction	#FC622F	0.695808609229914
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	19	16	1back|nback	#FD913D	0.570663892672809
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	20	16	manipulation|rules	#D7141E	0.812419656610989
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	21	16		#D7141E	0.877776850715351
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	22	16		#D7141E	0.881787537110717
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	23	16	digit	#D7141E	0.879054987164297
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	1	17	avoidance	#FFFFCC	0.036744905906285
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	2	17		#FFF1A9	0.155606507760303
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	3	17	eating|food	#FFFFCC	0.0359250083646281
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	4	17	taste	#FFFFCC	0.0485419347898927
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	5	17	bipolar	#FFFFCC	0.0896740494616133
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	6	17	illness|uncertainty	#FECB68	0.332867085910109
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	7	17	females|probabilistic	#FECB68	0.326489944807918
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	8	17	rejection	#FEE188	0.215516549451906
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	9	17	colour|paired	#FC622F	0.646112204103597
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	10	17		#F03623	0.762883034435925
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	11	17		#F03623	0.760865882804139
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	12	17		#F03623	0.796029849877785
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	13	17	taskirrelevant	#FC622F	0.62531683743962
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	14	17		#B10026	0.934475003231452
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	15	17	suppression	#F03623	0.771601168678642
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	16	17		#B10026	0.988781832216014
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	17	17	shifting|shortterm	#D7141E	0.816304392029231
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	18	17	digits	#D7141E	0.873729750870248
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	19	17	search	#F03623	0.740244183248383
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	20	17	counting|taskrelated	#F03623	0.759961467196501
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	21	17	topdown	#D7141E	0.817484821435998
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	22	17	visuospatial	#D7141E	0.847860923475016
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	23	17	arithmetic|calculation|solving	#F03623	0.78934835786147
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	1	18	addiction|craving|drugs	#FFF1A9	0.145942341412455
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	2	18	allele|genotype|polymorphism	#FFFFCC	0.0258703017604894
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	3	18	motivation	#FFF1A9	0.143995505061107
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	4	18	heart	#FEE188	0.247418756386016
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	5	18	sleep	#FEE188	0.24000301550738
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	6	18	expectancy	#FECB68	0.379344539368703
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	7	18	phasic|salience	#FECB68	0.309030399620318
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	8	18	adolescence|adolescents	#FDAD4A	0.452290855121889
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	9	18	intelligence|tracking	#FDAD4A	0.453006806029593
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	10	18		#F03623	0.752596749370476
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	11	18	serial	#FD913D	0.540016994524796
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	12	18		#F03623	0.781008303097251
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	13	18	spatially|taskrelevant	#F03623	0.72030980230079
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	14	18		#B10026	0.936597060375223
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	15	18	attended|attend|unattended	#D7141E	0.837454932223474
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	16	18	rotation|shapes	#B10026	0.912378690911323
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	17	18	rehearsal	#D7141E	0.815981400010148
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	18	18	learned	#FC622F	0.60717513264628
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	19	18		#D7141E	0.887760953181328
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	20	18	cued|preparatory	#D7141E	0.831640222120959
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	21	18		#B10026	0.906878525048183
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	22	18		#B10026	0.924575291482494
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	23	18	numbers|numerical	#D7141E	0.840960200071633
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	1	19	future	#FFF1A9	0.102649728420395
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	2	19	negatively	#FEE188	0.26128686723193
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	3	19	distress|epilepsy|selfreported	#FFFFCC	0.0735644964972721
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	4	19	anticipatory|cocaine|probabilities|smoking	#FFF1A9	0.189135398650257
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	5	19	alcohol|amount|impulsivity	#FECB68	0.397583823079803
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	6	19	game|success	#FEE188	0.276009722915842
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	7	19	adhd|childhood|engagement	#FECB68	0.393607967631621
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	8	19		#FD913D	0.594531036669149
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	9	19		#FC622F	0.693788992902033
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	10	19		#F03623	0.728468930356077
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	11	19		#F03623	0.733457827869235
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	12	19	endogenous	#FD913D	0.575862257375061
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	13	19	cueing|invalid|orienting	#FD913D	0.591156776602679
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	14	19		#B10026	0.965892258115474
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	15	19	multisensory	#D7141E	0.826766456590726
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	16	19		#B10026	1
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	17	19	shifts	#B10026	0.908243652780794
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	18	19	covert	#D7141E	0.813827739713072
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	19	19		#D7141E	0.882269607667618
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	20	19	preparation	#F03623	0.7686187232148
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	21	19	discrimination|training	#D7141E	0.884709130921227
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	22	19	sequences	#FC622F	0.665158750371327
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	23	19		#F03623	0.798943564429391
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	1	20	personal|self|selfreferential|trait|traits	#FFFFCC	0.0789674239879418
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	2	20	empathic|theory	#FEE188	0.290913483780999
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	3	20	attribution|intentional	#FFF1A9	0.181888984042025
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	4	20	elderly|oscillations	#FEE188	0.204783856076136
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	5	20	antipsychotic|virtual	#FECB68	0.331398402419558
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	6	20		#FD913D	0.567967359754622
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	7	20	experiences	#FEE188	0.295617375277929
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	8	20	categorical|pressure	#FD913D	0.512345783045975
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	9	20	play|skills	#FDAD4A	0.485346866410265
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	10	20	automatic|trained	#FD913D	0.542598232877127
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	11	20		#FC622F	0.642273367327213
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	12	20	practice	#FD913D	0.506429463958938
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	13	20	visuomotor	#FC622F	0.632738472572017
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	14	20		#D7141E	0.900796716007209
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	15	20	tool	#F03623	0.779308395645223
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	16	20	vision	#FC622F	0.684603835288637
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	17	20	visually	#D7141E	0.867384544523745
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	18	20	saccade|saccades|saccadic	#F03623	0.704564831916742
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	19	20	locations	#D7141E	0.843470925825264
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	20	20	imagery|planning	#F03623	0.774040278816357
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	21	20		#D7141E	0.825355553933994
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	22	20	rest	#FC622F	0.669927327679755
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	23	20	sequence	#F03623	0.70598417011836
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	1	21	scenarios	#FFF1A9	0.101676079024384
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	2	21	intention|intentions	#FECB68	0.345940405609609
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	3	21	causality|perspective	#FEE188	0.245993451839629
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	4	21	past	#FFF1A9	0.104135638039268
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	5	21		#FDAD4A	0.492637401754227
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	6	21	episode	#FEE188	0.289063367331185
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	7	21	improvement	#FECB68	0.334782913436427
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	8	21	masking|retention	#FD913D	0.599982327473371
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	9	21		#FC622F	0.646936647621998
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	10	21	dominant	#FD913D	0.552139644633919
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	11	21		#FD913D	0.503561155652995
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	12	21	sequential	#FDAD4A	0.484674239871376
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	13	21	fingers	#FECB68	0.371237864980073
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	14	21		#F03623	0.797085310487523
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	15	21	gesture|gestures	#FD913D	0.591987119935492
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	16	21		#D7141E	0.852271968840969
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	17	21	hands	#F03623	0.754902699471023
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	18	21		#B10026	0.913925255158692
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	19	21		#B10026	0.922773183501465
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	20	21	eye|position	#D7141E	0.863349119759742
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	21	21	execution	#FC622F	0.675984545930565
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	22	21	finger|sensorimotor	#FD913D	0.514179145463325
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	23	21		#FC622F	0.638099917066696
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	1	22	moral|stories|story	#FFF1A9	0.129119333206325
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	2	22	mentalizing|persons	#FEE188	0.265371073970502
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	3	22	default|restingstate	#FFFFCC	0.05897801973114
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	4	22	thinking|thought|thoughts	#FDAD4A	0.418970800926533
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	5	22	spontaneous	#FEE188	0.283846048517827
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	6	22	concentration|sensations	#FEE188	0.203354210001117
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	7	22	hierarchical|preference	#FDAD4A	0.445231467877427
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	8	22	effort|oral|simulation	#FECB68	0.344167342348175
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	9	22	interhemispheric|plasticity	#FDAD4A	0.425389531891811
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	10	22	imagined|imagine	#FDAD4A	0.410377938175613
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	11	22	tapping	#FECB68	0.375075029819459
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	12	22	foot|muscle|muscles|voluntary	#FFF1A9	0.180541157259793
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	13	22	limb	#FEE188	0.228538117957059
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	14	22	eyes|velocity	#FD913D	0.582735263895042
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	15	22	biological|gaze|videos	#FD913D	0.515723425779619
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	16	22	body	#FC622F	0.645421221907719
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	17	22	grasping|orientation|reaching	#F03623	0.755826253884305
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	18	22		#B10026	0.9075705760997
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	19	22	mirror|shape	#B10026	0.984886498317703
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	20	22	actions	#D7141E	0.816267329739194
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	21	22	action	#D7141E	0.838271556427141
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	22	22		#FC622F	0.667275509531352
+a73c0ecf-5bb5-3de7-bcca-556d4fb31602	Valdois S	23	22	hand|movements|sensory	#FD913D	0.546703529965225

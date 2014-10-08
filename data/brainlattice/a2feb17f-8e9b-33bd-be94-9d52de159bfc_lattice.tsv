@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	1	1	auditory|speech	#FECB68	0.365745268643817
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	2	1		#FECB68	0.34992801294398
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	3	1	da|integration	#FC622F	0.604571382916416
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	4	1		#FD913D	0.553034987166637
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	5	1	physical|psychophysical|tactile	#FDAD4A	0.420220575499452
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	6	1		#FECB68	0.395594341617077
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	7	1	somatosensory|stimulation	#FEE188	0.265886921584043
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	8	1	painful|pain	#FEE188	0.226615065745357
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	9	1		#FEE188	0.280107492755048
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	10	1	ratings	#FECB68	0.383586926596087
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	11	1	affective|affect	#FDAD4A	0.473790524463902
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	12	1	emotions	#FECB68	0.389611283744505
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	13	1	expression|expressions|facial	#FECB68	0.324114076802583
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	14	1		#FDAD4A	0.444567854668273
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	15	1		#FDAD4A	0.461078931378233
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	16	1	emotion|motion|neutral	#FDAD4A	0.434744396468746
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	17	1	rating	#FDAD4A	0.453106965539593
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	18	1	negative|positive	#FD913D	0.553437261399018
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	19	1		#FC622F	0.656058991334146
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	20	1	ear|order	#F03623	0.706614426189648
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	21	1	motor	#FDAD4A	0.475392452919674
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	22	1	visual	#FD913D	0.565861261765298
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	23	1	age|image|response	#FC622F	0.61765396674934
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	1	2	sound|sounds	#FEE188	0.22291232820993
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	2	2		#FECB68	0.320965899639645
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	3	2	audiovisual|bimodal|crossmodal	#FECB68	0.308929791819183
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	4	2		#FD913D	0.561651065062571
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	5	2		#FD913D	0.516399013106118
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	6	2		#FDAD4A	0.428766040391551
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	7	2	sensation	#FFF1A9	0.152691373554637
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	8	2	heat|noxious	#FEE188	0.208005864838478
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	9	2		#FECB68	0.309398085751906
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	10	2		#FDAD4A	0.442154850518706
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	11	2		#FDAD4A	0.457736510359161
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	12	2	valence	#FDAD4A	0.420990579707883
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	13	2	person|social	#FDAD4A	0.403431875168847
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	14	2		#FDAD4A	0.461971011602926
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	15	2	face|faces	#FDAD4A	0.411661966226336
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	16	2		#FD913D	0.517624297568158
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	17	2		#FD913D	0.562064748641707
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	18	2		#FC622F	0.64881183439168
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	19	2		#FC622F	0.691057731951283
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	20	2		#FC622F	0.673786647757302
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	21	2	images|spatial	#FC622F	0.617979137248281
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	22	2	control	#FC622F	0.672731640135237
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	23	2	time	#FC622F	0.638741682288143
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	1	3	acoustic|listening|musical|music|pitch	#FFF1A9	0.140988291253348
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	2	3	noise|tones	#FEE188	0.238530327877207
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	3	3		#FDAD4A	0.462256181065625
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	4	3		#FD913D	0.542255229352593
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	5	3	frequency	#FD913D	0.520432707978728
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	6	3		#FD913D	0.514663627064007
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	7	3		#FEE188	0.29085559735408
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	8	3	temperature	#FEE188	0.254480256651607
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	9	3		#FECB68	0.334642091223139
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	10	3	pleasant|unpleasant	#FDAD4A	0.404858117803498
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	11	3	anxiety	#FECB68	0.352688095843881
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	12	3		#FD913D	0.513711903518881
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	13	3		#FD913D	0.559870230976886
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	14	3		#FD913D	0.529187166429786
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	15	3		#FD913D	0.545729780652386
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	16	3	picture	#FD913D	0.57075069068085
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	17	3		#FC622F	0.622343139020347
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	18	3	value	#FC622F	0.672219804330698
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	19	3	cue	#F03623	0.735445068910311
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	20	3	error|target	#F03623	0.759097410831241
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	21	3	attention	#FC622F	0.693799272843393
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	22	3		#F03623	0.730113177475991
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	23	3	number	#F03623	0.726766831171659
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	1	4	voice	#FFF1A9	0.194875739968429
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	2	4		#FECB68	0.328246924779772
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	3	4	hearing	#FECB68	0.319244592253472
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	4	4		#FDAD4A	0.477029839988189
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	5	4	overt	#FDAD4A	0.486996442383706
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	6	4		#FDAD4A	0.458508228665402
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	7	4		#FECB68	0.358322809700302
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	8	4	nociceptive|nonpainful|painrelated	#FFF1A9	0.172449835737167
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	9	4	unpleasantness	#FECB68	0.337207394219502
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	10	4	skin|subjective	#FDAD4A	0.441438802954842
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	11	4	depression	#FD913D	0.514616724091299
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	12	4	experience	#FD913D	0.507678517579417
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	13	4	female	#FC622F	0.60351223894946
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	14	4	male	#FD913D	0.584440286224838
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	15	4	pictures	#FD913D	0.539141828232477
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	16	4		#FC622F	0.635039965164213
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	17	4	perception	#FD913D	0.559826135747413
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	18	4		#F03623	0.751660692375939
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	19	4		#F03623	0.759982161244112
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	20	4		#F03623	0.762373300619405
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	21	4	correct	#D7141E	0.838015858039252
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	22	4	work	#D7141E	0.801839903207142
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	23	4	memory	#F03623	0.754200343225822
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	1	5	prosodic|prosody	#FECB68	0.326301046181877
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	2	5	phonetic	#FEE188	0.253532950750672
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	3	5	syllable|syllables	#FDAD4A	0.490018753643928
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	4	5		#FDAD4A	0.437507838949848
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	5	5	lip|production	#FEE188	0.228869595435701
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	6	5	somatotopic	#FFF1A9	0.132840518313597
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	7	5		#FDAD4A	0.495108388764336
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	8	5		#FD913D	0.510191966051038
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	9	5	empathy	#FD913D	0.542666609813949
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	10	5		#FC622F	0.649253115319682
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	11	5	disorder	#FC622F	0.689370072597712
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	12	5		#FC622F	0.667696406794779
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	13	5		#FC622F	0.669604438101844
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	14	5		#FC622F	0.668638044412077
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	15	5		#FC622F	0.670094732835783
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	16	5		#FC622F	0.692188634465553
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	17	5		#F03623	0.729922544451241
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	18	5	mental	#F03623	0.774778389994685
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	19	5	go	#F03623	0.73216888113958
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	20	5	object	#FD913D	0.598472355045139
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	21	5		#F03623	0.792842937781966
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	22	5		#F03623	0.773864938047812
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	23	5	word|words	#FC622F	0.673655667442781
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	1	6		#FDAD4A	0.48631954368635
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	2	6		#FD913D	0.520302768752477
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	3	6		#FD913D	0.522755904213416
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	4	6	vocal	#FEE188	0.239821392295922
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	5	6	articulatory	#FEE188	0.248634155639718
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	6	6		#FDAD4A	0.491748341881162
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	7	6	oddball	#FDAD4A	0.477533375026753
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	8	6	perceived	#FD913D	0.519105421095382
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	9	6	errorrelated	#FC622F	0.629059756747003
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	10	6	approach	#FD913D	0.572736147393289
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	11	6	schizophrenia	#FC622F	0.642739424368803
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	12	6	acquisition	#FD913D	0.578099136029227
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	13	6		#FC622F	0.661333810825856
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	14	6		#FD913D	0.584406436545103
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	15	6		#FD913D	0.598579050802645
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	16	6		#FC622F	0.634591746149611
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	17	6		#F03623	0.733823846925245
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	18	6		#F03623	0.750058451748652
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	19	6		#F03623	0.770148654883491
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	20	6	objects	#FC622F	0.647935039526925
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	21	6		#F03623	0.79015136010969
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	22	6		#F03623	0.748576414078214
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	23	6	language|semantic	#FC622F	0.653667691045358
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	1	7	dopamine|dopaminergic	#FECB68	0.325943582891431
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	2	7		#FDAD4A	0.416075110884602
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	3	7		#FC622F	0.646338127135436
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	4	7		#F03623	0.706263286124501
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	5	7		#F03623	0.768767753274436
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	6	7		#F03623	0.780909877946006
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	7	7		#D7141E	0.804743026858121
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	8	7		#F03623	0.792586585318649
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	9	7		#F03623	0.780836898303169
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	10	7		#F03623	0.785941749897577
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	11	7		#F03623	0.753486057739805
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	12	7		#F03623	0.731092062053645
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	13	7	linguistic|spoken	#FD913D	0.503110044515116
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	14	7		#FD913D	0.558009141287633
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	15	7	comprehension|sentence|sentences|syntactic	#FD913D	0.504379637198714
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	16	7		#FC622F	0.605374808905424
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	17	7		#F03623	0.701342999822863
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	18	7	phonological|reading|read	#FC622F	0.689269334361281
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	19	7		#F03623	0.764461042356354
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	20	7	perceptual|recognition	#F03623	0.734475416104322
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	21	7		#D7141E	0.82657789997681
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	22	7		#F03623	0.78948411915043
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	23	7	verb	#D7141E	0.805609184471209
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	1	8	outcome|reward	#FDAD4A	0.417514324111021
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	2	8	anticipation	#FECB68	0.353211221885789
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	3	8	outcomes	#FDAD4A	0.435023141276992
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	4	8	choice|choices	#FC622F	0.690807145979058
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	5	8	decisions|probability	#F03623	0.727816396902652
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	6	8	reversal	#D7141E	0.877480327501612
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	7	8	classification|incorrect	#FC622F	0.649061567704126
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	8	8		#D7141E	0.810989737922828
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	9	8	agerelated|fluency|probes	#F03623	0.794253833251876
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	10	8	engaged	#FC622F	0.698887443644726
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	11	8	explicit|knowledge	#FC622F	0.643448249721487
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	12	8		#FC622F	0.690126354220437
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	13	8		#FC622F	0.608711830722566
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	14	8		#FD913D	0.564787211085264
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	15	8		#FD913D	0.564908891798717
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	16	8		#FD913D	0.596826564792922
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	17	8	lexical	#FC622F	0.620444480185564
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	18	8		#F03623	0.726946866939413
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	19	8		#F03623	0.772139078963678
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	20	8		#D7141E	0.808505151657288
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	21	8	encoding	#F03623	0.749159822293477
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	22	8	retrieval	#D7141E	0.822526387807357
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	23	8	verbal	#D7141E	0.874806003869077
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	1	9	incentive|monetary|money|rewards	#FFF1A9	0.155247756870973
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	2	9	loss	#FECB68	0.327728720920667
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	3	9		#FD913D	0.589075662440348
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	4	9		#FC622F	0.699876636494565
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	5	9	decisionmaking	#FD913D	0.599138084819505
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	6	9		#D7141E	0.841335050379103
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	7	9		#D7141E	0.832155210734294
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	8	9		#D7141E	0.803577981741282
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	9	9		#F03623	0.798571896308594
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	10	9		#F03623	0.756400811625166
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	11	9		#F03623	0.705128819903453
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	12	9		#FC622F	0.676819927883751
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	13	9	noun	#FD913D	0.525862822150876
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	14	9	meaning	#FD913D	0.525296245302867
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	15	9	english	#FD913D	0.515101630798084
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	16	9	pseudoword|pseudowords	#FD913D	0.52514436209523
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	17	9		#FC622F	0.696186305987938
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	18	9		#F03623	0.766264650204146
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	19	9	familiar|judgment	#F03623	0.738796956482409
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	20	9	pair|pairs	#D7141E	0.825963078975355
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	21	9		#D7141E	0.891552647601248
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	22	9		#B10026	0.921106355284269
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	23	9	letter|working	#D7141E	0.900287909393932
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	1	10	losses|reinforcement|win	#FEE188	0.199686309402303
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	2	10	gain	#FFF1A9	0.196452789572528
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	3	10	expectation	#FDAD4A	0.495039300955294
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	4	10	risk	#FC622F	0.628127068275649
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	5	10	fact	#FC622F	0.618495071666564
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	6	10	associative	#FC622F	0.70009507314833
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	7	10	familiarity|judgments|old	#F03623	0.706101723981237
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	8	10	contextual|text	#FD913D	0.597986738123593
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	9	10	recall|retrieved	#FD913D	0.566444618110297
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	10	10	conceptual|semantically	#FD913D	0.568644247648659
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	11	10	grammatical|speakers	#FD913D	0.579767266321954
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	12	10	nouns	#FD913D	0.5098904730393
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	13	10	japanese	#FD913D	0.599454797480902
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	14	10	languages	#FD913D	0.506989577157273
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	15	10	written	#FDAD4A	0.488112987507897
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	16	10	chinese|phonology	#FC622F	0.643213358685102
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	17	10	orthographic	#F03623	0.727609383592462
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	18	10		#D7141E	0.817719461781091
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	19	10		#D7141E	0.834189218522197
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	20	10	association|decision	#D7141E	0.849774561282684
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	21	10	selection	#D7141E	0.874154463304734
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	22	10	letters	#D7141E	0.880825144784666
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	23	10	demand|load	#B10026	0.93873955637086
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	1	11	conditioned|conditioning	#FFF1A9	0.172208717855827
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	2	11		#FECB68	0.376364832813489
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	3	11	drug|placebo	#FDAD4A	0.456192409682098
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	4	11		#FC622F	0.647513491625546
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	5	11	associations	#FD913D	0.589535517899114
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	6	11		#FC622F	0.665894755696664
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	7	11	episodic|recollection	#FD913D	0.547444101597854
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	8	11		#FC622F	0.640576887886508
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	9	11		#FC622F	0.682345891513743
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	10	11	concepts	#FDAD4A	0.453252489290288
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	11	11		#FC622F	0.618458297638489
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	12	11		#FC622F	0.631932471658069
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	13	11	german	#FDAD4A	0.463397742391386
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	14	11	readers	#FC622F	0.662543015684296
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	15	11	character|name|naming	#FD913D	0.527828698399364
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	16	11		#F03623	0.70214184630362
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	17	11	novel	#F03623	0.763164716661684
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	18	11		#D7141E	0.848061638656238
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	19	11	child|children	#F03623	0.788464499062511
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	20	11	adults	#D7141E	0.881931039759606
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	21	11	ability|feedback|learning	#F03623	0.781797463620017
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	22	11	cues|delay	#D7141E	0.832755926299174
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	23	11	attentional|difficulty|targets	#D7141E	0.888916785212998
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	1	12	aversive|shock	#FEE188	0.24926586222439
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	2	12	reactivity	#FEE188	0.226092633491151
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	3	12	males|sex|women	#FD913D	0.580245971339153
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	4	12	animal	#FECB68	0.343514623379117
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	5	12	animals	#FECB68	0.31192961628803
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	6	12		#FD913D	0.507673400397119
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	7	12	remember|subsequent	#FECB68	0.381553287425028
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	8	12	autobiographical|memories	#FFF1A9	0.174427026738609
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	9	12		#FC622F	0.626814246987982
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	10	12	violation|violations	#FEE188	0.271470998850189
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	11	12	aphasia	#FD913D	0.523105455900107
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	12	12	nonwords	#FDAD4A	0.436904791713683
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	13	12	dyslexia	#FD913D	0.542656198630878
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	14	12		#F03623	0.72692113382684
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	15	12	priming	#FD913D	0.540039622323431
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	16	12		#F03623	0.7665227051057
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	17	12	category|repetition	#FC622F	0.677658720873444
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	18	12		#D7141E	0.868991696554722
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	19	12	developmental|development	#D7141E	0.866661853147119
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	20	12		#B10026	0.924744731697443
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	21	12	space	#F03623	0.78925201831116
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	22	12		#B10026	0.955447416432703
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	23	12	color	#D7141E	0.822084024270503
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	1	13	threat	#FEE188	0.265882723335364
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	2	13	regulation	#FECB68	0.386255895766073
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	3	13		#FD913D	0.514903465147019
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	4	13	masked	#FDAD4A	0.435643453820592
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	5	13	scene|scenes	#FFF1A9	0.174155969102271
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	6	13		#FDAD4A	0.43965762389166
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	7	13	confidence|remembered	#FECB68	0.333280227927564
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	8	13		#FD913D	0.546856669782055
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	9	13		#FC622F	0.638241716103033
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	10	13	ambiguity|ambiguous	#FECB68	0.310248443304398
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	11	13		#FC622F	0.610027463575636
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	12	13		#F03623	0.702122760473097
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	13	13	writing	#FD913D	0.502753566566106
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	14	13		#F03623	0.783145610325143
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	15	13	categorization|congruency|prime	#FC622F	0.699552268479886
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	16	13		#D7141E	0.812186036746587
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	17	13	mask	#D7141E	0.831632480016236
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	18	13		#B10026	0.901266780584388
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	19	13		#B10026	0.90541057121685
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	20	13		#B10026	0.94980028517584
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	21	13	conflict|congruent|incongruent	#B10026	0.912428725381585
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	22	13	errors	#B10026	0.924962844668003
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	23	13	maintenance|probe|wm	#B10026	0.933616799720023
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	1	14	angry|fearful|happy	#FEE188	0.2307005208787
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	2	14		#FECB68	0.363280062231065
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	3	14	awareness|conscious|ptsd	#FDAD4A	0.485291748141012
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	4	14		#FDAD4A	0.482079039928852
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	5	14	houses|photographs	#FFF1A9	0.173253004215932
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	6	14		#FDAD4A	0.489881588847825
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	7	14	hits	#FDAD4A	0.460113478532707
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	8	14	famous	#FEE188	0.245478835585498
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	9	14	names	#FDAD4A	0.420262326568004
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	10	14	family	#FD913D	0.519399789328918
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	11	14	competition|mouth	#FD913D	0.519295519091131
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	12	14	abilities	#F03623	0.714498799155388
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	13	14	implicit|unfamiliar	#FDAD4A	0.481806188730093
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	14	14		#F03623	0.750073510963461
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	15	14	tom	#FC622F	0.665031301883087
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	16	14		#B10026	0.92096183773905
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	17	14		#B10026	0.973219202871651
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	18	14	stop	#D7141E	0.850466525519169
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	19	14	inhibition|inhibitory|nogo	#F03623	0.703938093187726
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	20	14	monitoring|stroop	#D7141E	0.881581773652615
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	21	14	interference	#B10026	0.95292419281589
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	22	14		#B10026	0.998967388221271
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	23	14	demands|executive	#B10026	0.946916500249927
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	1	15	anger	#FFF1A9	0.178537400457211
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	2	15	stress	#FEE188	0.219298500045718
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	3	15	feelings	#FEE188	0.298818170538222
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	4	15	salient	#FD913D	0.544537117840998
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	5	15	novelty	#FEE188	0.217082811056996
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	6	15	movie	#FD913D	0.581014414710569
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	7	15		#F03623	0.758175182550719
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	8	15		#D7141E	0.817337514443707
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	9	15	longterm	#F03623	0.708817106955046
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	10	15		#B10026	0.902361294572863
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	11	15	reasoning|relational	#B10026	0.979205968757536
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	12	15		#D7141E	0.843240261585492
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	13	15	presentations	#FDAD4A	0.427643946909234
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	14	15		#F03623	0.742430747723037
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	15	15	identity	#FC622F	0.609237479827398
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	16	15		#B10026	0.931764073123163
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	17	15	strategies|strategy	#D7141E	0.847298352758122
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	18	15	card|cards	#D7141E	0.809234961531669
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	19	15	gonogo	#FC622F	0.627268898285574
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	20	15		#B10026	0.934799707821558
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	21	15	switching|switch	#D7141E	0.865119830501907
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	22	15		#B10026	0.988267896739031
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	23	15	2back|rule	#B10026	1
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	1	16	emotionally|mood|personality|sadness	#FFF1A9	0.138611139092023
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	2	16	disgust|sexual	#FEE188	0.212808354475878
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	3	16	olfactory	#FFF1A9	0.172144575178092
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	4	16	physiological	#FECB68	0.351032995159215
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	5	16	depressed|depressive|habituation	#FECB68	0.384048723190121
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	6	16	schizophrenic	#FC622F	0.654803148203408
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	7	16	colors|contexts	#FD913D	0.586844313885465
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	8	16	aging|encoded	#FC622F	0.679995079630043
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	9	16	goal	#FC622F	0.621762399350328
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	10	16		#B10026	0.940480784484315
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	11	16	autism|autistic|nonverbal	#FC622F	0.669958589641244
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	12	16		#D7141E	0.893523227602586
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	13	16	bottomup|repetitions	#FC622F	0.618605390641921
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	14	16	adaptation	#FD913D	0.542626332048865
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	15	16	irrelevant	#D7141E	0.826623567474768
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	16	16	distractor|distractors	#D7141E	0.846990459716167
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	17	16		#B10026	0.964907147066488
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	18	16	subtraction	#D7141E	0.804516597208722
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	19	16	1back|nback	#D7141E	0.848260909672527
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	20	16	manipulation|rules	#B10026	0.994711358358735
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	21	16		#B10026	0.955466117805498
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	22	16		#B10026	0.928367809404923
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	23	16	digit	#D7141E	0.829630830227753
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	1	17	avoidance	#FFF1A9	0.142350228802119
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	2	17		#FEE188	0.201543765499611
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	3	17	eating|food	#FFF1A9	0.118718781292206
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	4	17	taste	#FECB68	0.32425407122896
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	5	17	bipolar	#FD913D	0.585997727797704
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	6	17	illness|uncertainty	#FC622F	0.605763534486481
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	7	17	females|probabilistic	#B10026	0.948971356429557
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	8	17	rejection	#F03623	0.732316003747013
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	9	17	colour|paired	#FD913D	0.583296649692414
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	10	17		#B10026	0.940804493266116
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	11	17		#B10026	0.925857467478301
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	12	17		#B10026	0.924958712970766
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	13	17	taskirrelevant	#FC622F	0.650079226261059
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	14	17		#F03623	0.712258001724682
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	15	17	suppression	#FD913D	0.545807955080115
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	16	17		#F03623	0.770384649230641
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	17	17	shifting|shortterm	#F03623	0.744377065059789
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	18	17	digits	#F03623	0.769792239218066
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	19	17	search	#D7141E	0.852005027423847
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	20	17	counting|taskrelated	#F03623	0.763044943180801
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	21	17	topdown	#D7141E	0.893718026649131
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	22	17	visuospatial	#F03623	0.708196265901474
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	23	17	arithmetic|calculation|solving	#F03623	0.751585467789515
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	1	18	addiction|craving|drugs	#FFFFCC	0.0765715708317016
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	2	18	allele|genotype|polymorphism	#FFF1A9	0.142067084812702
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	3	18	motivation	#FFF1A9	0.177679123566558
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	4	18	heart	#FECB68	0.380925761211159
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	5	18	sleep	#FECB68	0.333142650517684
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	6	18	expectancy	#FC622F	0.665491722552429
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	7	18	phasic|salience	#FD913D	0.579968839837226
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	8	18	adolescence|adolescents	#FC622F	0.695223967550096
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	9	18	intelligence|tracking	#FDAD4A	0.454086809275222
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	10	18		#F03623	0.793543256647337
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	11	18	serial	#FC622F	0.656172808124351
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	12	18		#D7141E	0.80973915251168
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	13	18	spatially|taskrelevant	#FC622F	0.656607365364161
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	14	18		#FC622F	0.689289793536613
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	15	18	attended|attend|unattended	#FDAD4A	0.485876925527485
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	16	18	rotation|shapes	#FDAD4A	0.452228727121947
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	17	18	rehearsal	#FC622F	0.693748634442882
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	18	18	learned	#FD913D	0.597977567728111
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	19	18		#F03623	0.750463063514251
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	20	18	cued|preparatory	#FC622F	0.665848052819348
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	21	18		#F03623	0.794304261383473
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	22	18		#D7141E	0.845391391335311
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	23	18	numbers|numerical	#F03623	0.797752785555902
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	1	19	future	#FECB68	0.306087175900294
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	2	19	negatively	#FEE188	0.271376528249636
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	3	19	distress|epilepsy|selfreported	#FFF1A9	0.119049458050543
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	4	19	anticipatory|cocaine|probabilities|smoking	#FFF1A9	0.170768953229511
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	5	19	alcohol|amount|impulsivity	#FECB68	0.317688372181343
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	6	19	game|success	#FC622F	0.609007232642607
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	7	19	adhd|childhood|engagement	#FD913D	0.5265721293161
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	8	19		#F03623	0.790382068362041
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	9	19		#F03623	0.70721877267125
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	10	19		#F03623	0.709714362510676
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	11	19		#F03623	0.72643932322747
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	12	19	endogenous	#FC622F	0.620230475926044
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	13	19	cueing|invalid|orienting	#FC622F	0.619578142142293
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	14	19		#FC622F	0.644012016607562
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	15	19	multisensory	#FDAD4A	0.479634112811165
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	16	19		#FC622F	0.600246936006053
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	17	19	shifts	#FC622F	0.605551914432487
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	18	19	covert	#FD913D	0.555807732897968
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	19	19		#FC622F	0.655207789500642
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	20	19	preparation	#FD913D	0.526171192943745
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	21	19	discrimination|training	#FC622F	0.685426411542399
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	22	19	sequences	#FD913D	0.513304998759647
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	23	19		#FC622F	0.622697108247262
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	1	20	personal|self|selfreferential|trait|traits	#FFF1A9	0.198318272431696
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	2	20	empathic|theory	#FEE188	0.22860799921298
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	3	20	attribution|intentional	#FFF1A9	0.10768468856595
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	4	20	elderly|oscillations	#FFF1A9	0.194757269278167
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	5	20	antipsychotic|virtual	#FECB68	0.324431885254599
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	6	20		#FC622F	0.680060898039765
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	7	20	experiences	#FECB68	0.390711121707712
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	8	20	categorical|pressure	#FDAD4A	0.487631501660049
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	9	20	play|skills	#FDAD4A	0.414578320922373
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	10	20	automatic|trained	#FDAD4A	0.406877017254816
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	11	20		#FDAD4A	0.494985432410532
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	12	20	practice	#FDAD4A	0.481644017583902
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	13	20	visuomotor	#FECB68	0.334024225579233
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	14	20		#FD913D	0.518020198584216
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	15	20	tool	#FECB68	0.301757704916125
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	16	20	vision	#FEE188	0.287789177018472
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	17	20	visually	#FDAD4A	0.443193930547097
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	18	20	saccade|saccades|saccadic	#FECB68	0.386223743329814
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	19	20	locations	#FC622F	0.628753251356501
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	20	20	imagery|planning	#FD913D	0.593446102883485
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	21	20		#FD913D	0.590837213737862
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	22	20	rest	#FDAD4A	0.499674361633617
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	23	20	sequence	#FD913D	0.529462305405594
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	1	21	scenarios	#FFF1A9	0.167751285772421
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	2	21	intention|intentions	#FEE188	0.221987209394759
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	3	21	causality|perspective	#FEE188	0.289036818128329
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	4	21	past	#FFF1A9	0.197989911317208
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	5	21		#FD913D	0.541226965006509
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	6	21	episode	#FECB68	0.392134543950029
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	7	21	improvement	#FECB68	0.327973328767898
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	8	21	masking|retention	#FD913D	0.515077360491714
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	9	21		#FD913D	0.559930975475201
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	10	21	dominant	#FECB68	0.360551341920821
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	11	21		#FECB68	0.300554634440563
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	12	21	sequential	#FECB68	0.313997205042024
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	13	21	fingers	#FFFFCC	0.0975063121391843
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	14	21		#FECB68	0.327258414067482
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	15	21	gesture|gestures	#FEE188	0.264196864832198
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	16	21		#FECB68	0.363869172363545
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	17	21	hands	#FECB68	0.338488243097935
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	18	21		#FD913D	0.525721984325156
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	19	21		#FD913D	0.570427142319284
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	20	21	eye|position	#FD913D	0.519918141313966
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	21	21	execution	#FDAD4A	0.417783594974398
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	22	21	finger|sensorimotor	#FEE188	0.250785400271295
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	23	21		#FECB68	0.383352147191489
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	1	22	moral|stories|story	#FFFFCC	0.0105975750834585
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	2	22	mentalizing|persons	#FFF1A9	0.188266372138497
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	3	22	default|restingstate	#FFF1A9	0.124832923615865
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	4	22	thinking|thought|thoughts	#FECB68	0.32475907401021
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	5	22	spontaneous	#FECB68	0.306028918479809
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	6	22	concentration|sensations	#FEE188	0.201572872205533
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	7	22	hierarchical|preference	#FEE188	0.281924941883899
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	8	22	effort|oral|simulation	#FDAD4A	0.430042641034918
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	9	22	interhemispheric|plasticity	#FDAD4A	0.405149125296436
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	10	22	imagined|imagine	#FECB68	0.304658584488129
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	11	22	tapping	#FFF1A9	0.154849535996014
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	12	22	foot|muscle|muscles|voluntary	#FFFFCC	0.0555737311701558
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	13	22	limb	#FFFFCC	0
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	14	22	eyes|velocity	#FFF1A9	0.129682184048785
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	15	22	biological|gaze|videos	#FFF1A9	0.110809683091735
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	16	22	body	#FEE188	0.29047970629788
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	17	22	grasping|orientation|reaching	#FECB68	0.3047951646285
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	18	22		#FD913D	0.507028151274902
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	19	22	mirror|shape	#FD913D	0.539428800961804
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	20	22	actions	#FDAD4A	0.466175209859218
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	21	22	action	#FD913D	0.553812610595447
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	22	22		#FECB68	0.384027778905753
+a2feb17f-8e9b-33bd-be94-9d52de159bfc	Bunge SA	23	22	hand|movements|sensory	#FEE188	0.278372267181325

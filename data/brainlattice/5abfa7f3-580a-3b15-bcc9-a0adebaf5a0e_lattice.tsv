@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	1	1	auditory|speech	#FEE188	0.268195584172254
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	2	1		#FEE188	0.278649761414531
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	3	1	da|integration	#FDAD4A	0.455779103223069
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	4	1		#FECB68	0.39491903748908
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	5	1	physical|psychophysical|tactile	#FECB68	0.333807309049219
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	6	1		#FDAD4A	0.41744942325337
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	7	1	somatosensory|stimulation	#FECB68	0.396948717999584
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	8	1	painful|pain	#FDAD4A	0.442759856450266
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	9	1		#FD913D	0.525582283130553
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	10	1	ratings	#F03623	0.797607751814577
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	11	1	affective|affect	#F03623	0.747084479113439
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	12	1	emotions	#D7141E	0.815514138755637
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	13	1	expression|expressions|facial	#D7141E	0.828672388607125
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	14	1		#D7141E	0.846899893312732
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	15	1		#D7141E	0.801241601671858
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	16	1	emotion|motion|neutral	#FC622F	0.700154685522043
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	17	1	rating	#FC622F	0.681089357695933
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	18	1	negative|positive	#FD913D	0.583717446844027
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	19	1		#FDAD4A	0.482146176521724
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	20	1	ear|order	#FECB68	0.336841857214583
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	21	1	motor	#FFF1A9	0.197202798146077
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	22	1	visual	#FEE188	0.288912696212249
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	23	1	age|image|response	#FECB68	0.340637279017467
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	1	2	sound|sounds	#FEE188	0.245580893854218
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	2	2		#FEE188	0.259734761586034
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	3	2	audiovisual|bimodal|crossmodal	#FEE188	0.276720627597379
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	4	2		#FECB68	0.395234915451877
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	5	2		#FDAD4A	0.411878740212953
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	6	2		#FDAD4A	0.424905312250762
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	7	2	sensation	#FECB68	0.322299161233124
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	8	2	heat|noxious	#FECB68	0.310489132946597
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	9	2		#FD913D	0.529709904174277
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	10	2		#F03623	0.74834166248762
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	11	2		#F03623	0.789299134837922
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	12	2	valence	#D7141E	0.812411809476008
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	13	2	person|social	#FC622F	0.653376207129942
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	14	2		#D7141E	0.845509629138616
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	15	2	face|faces	#F03623	0.733369848391991
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	16	2		#F03623	0.754653023436604
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	17	2		#F03623	0.70757821871667
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	18	2		#FD913D	0.596675117419315
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	19	2		#FDAD4A	0.480077957382594
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	20	2		#FECB68	0.344500545422548
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	21	2	images|spatial	#FECB68	0.318317507870838
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	22	2	control	#FEE188	0.270036803572955
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	23	2	time	#FECB68	0.315524511800305
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	1	3	acoustic|listening|musical|music|pitch	#FFF1A9	0.171442480027962
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	2	3	noise|tones	#FEE188	0.21152034419039
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	3	3		#FECB68	0.312232627396645
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	4	3		#FECB68	0.356283565690256
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	5	3	frequency	#FECB68	0.38468404027157
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	6	3		#FDAD4A	0.445920504108582
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	7	3		#FECB68	0.385502279067571
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	8	3	temperature	#FECB68	0.322541996421189
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	9	3		#FDAD4A	0.455713954959291
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	10	3	pleasant|unpleasant	#FD913D	0.56951188820092
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	11	3	anxiety	#FC622F	0.693778833926189
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	12	3		#F03623	0.793764352186877
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	13	3		#F03623	0.796296124536473
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	14	3		#D7141E	0.814590778020446
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	15	3		#D7141E	0.801568263061783
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	16	3	picture	#F03623	0.749744696046983
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	17	3		#F03623	0.717558383290158
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	18	3	value	#FD913D	0.581456062391103
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	19	3	cue	#FDAD4A	0.418050539214916
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	20	3	error|target	#FEE188	0.266838309945033
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	21	3	attention	#FEE188	0.229229484167141
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	22	3		#FEE188	0.270048049092809
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	23	3	number	#FECB68	0.301210761278403
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	1	4	voice	#FEE188	0.207917698743157
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	2	4		#FEE188	0.212560609778762
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	3	4	hearing	#FEE188	0.22879487251806
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	4	4		#FECB68	0.309907041596765
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	5	4	overt	#FEE188	0.297932963083921
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	6	4		#FECB68	0.389919050815106
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	7	4		#FDAD4A	0.430508268435394
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	8	4	nociceptive|nonpainful|painrelated	#FECB68	0.351352830364753
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	9	4	unpleasantness	#FECB68	0.315423021780519
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	10	4	skin|subjective	#FC622F	0.622442575093831
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	11	4	depression	#F03623	0.746631477995236
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	12	4	experience	#FC622F	0.61633059207784
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	13	4	female	#F03623	0.765892129481729
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	14	4	male	#F03623	0.724135742404447
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	15	4	pictures	#F03623	0.750104538359579
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	16	4		#F03623	0.725185764877655
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	17	4	perception	#FD913D	0.5525505766967
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	18	4		#FDAD4A	0.490660819860568
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	19	4		#FDAD4A	0.42499862154421
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	20	4		#FECB68	0.362993844382333
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	21	4	correct	#FEE188	0.248248060183898
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	22	4	work	#FFF1A9	0.134211458637233
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	23	4	memory	#FFF1A9	0.198265453977785
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	1	5	prosodic|prosody	#FFF1A9	0.198414795324922
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	2	5	phonetic	#FEE188	0.234256777365212
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	3	5	syllable|syllables	#FFF1A9	0.14965354102057
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	4	5		#FEE188	0.293243587404608
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	5	5	lip|production	#FECB68	0.31461876423998
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	6	5	somatotopic	#FDAD4A	0.444150969515435
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	7	5		#FDAD4A	0.426197354494498
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	8	5		#FECB68	0.394260764609851
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	9	5	empathy	#FDAD4A	0.462995008397853
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	10	5		#FC622F	0.607457356820586
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	11	5	disorder	#FC622F	0.694435201306568
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	12	5		#FC622F	0.664181708445051
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	13	5		#FC622F	0.660335549789903
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	14	5		#FC622F	0.659493650838247
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	15	5		#FC622F	0.660446959164848
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	16	5		#FC622F	0.619607372811525
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	17	5		#FD913D	0.544296215793924
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	18	5	mental	#FECB68	0.393154646609865
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	19	5	go	#FDAD4A	0.413994049107739
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	20	5	object	#FECB68	0.337113078495996
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	21	5		#FECB68	0.318797563398829
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	22	5		#FEE188	0.285959043016329
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	23	5	word|words	#FEE188	0.252983300536576
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	1	6		#FC622F	0.698635095902408
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	2	6		#FC622F	0.644670191640959
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	3	6		#FD913D	0.506133814705306
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	4	6	vocal	#FFF1A9	0.196549157105733
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	5	6	articulatory	#FFF1A9	0.147736978141905
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	6	6		#FECB68	0.379855181870714
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	7	6	oddball	#FEE188	0.222798987926158
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	8	6	perceived	#FDAD4A	0.485129052573184
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	9	6	errorrelated	#FEE188	0.248717102127157
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	10	6	approach	#FD913D	0.591953551287115
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	11	6	schizophrenia	#FD913D	0.520184946748219
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	12	6	acquisition	#FDAD4A	0.417515054306399
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	13	6		#FD913D	0.513912624780096
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	14	6		#FDAD4A	0.410552849024423
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	15	6		#FDAD4A	0.430165661708341
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	16	6		#FDAD4A	0.446655364422407
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	17	6		#FDAD4A	0.446791367255362
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	18	6		#FDAD4A	0.434842689887665
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	19	6		#FDAD4A	0.445330134238574
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	20	6	objects	#FD913D	0.507651157912312
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	21	6		#FECB68	0.369367493574836
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	22	6		#FECB68	0.304230871002988
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	23	6	language|semantic	#FECB68	0.32692427482347
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	1	7	dopamine|dopaminergic	#B10026	1
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	2	7		#D7141E	0.812136098267062
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	3	7		#FC622F	0.631006814694579
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	4	7		#FD913D	0.551042571181172
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	5	7		#FD913D	0.508129340503981
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	6	7		#FDAD4A	0.412305237502324
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	7	7		#FDAD4A	0.405216703188701
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	8	7		#FECB68	0.351645473756893
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	9	7		#FDAD4A	0.435265892005845
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	10	7		#FDAD4A	0.440192162420553
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	11	7		#FDAD4A	0.477780524731975
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	12	7		#FDAD4A	0.435729337111319
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	13	7	linguistic|spoken	#FEE188	0.269101203461558
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	14	7		#FECB68	0.337599637569312
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	15	7	comprehension|sentence|sentences|syntactic	#FECB68	0.310530657081062
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	16	7		#FECB68	0.348700644131712
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	17	7		#FECB68	0.382045615327747
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	18	7	phonological|reading|read	#FECB68	0.366941875634943
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	19	7		#FDAD4A	0.443363402051215
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	20	7	perceptual|recognition	#FDAD4A	0.487417126602263
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	21	7		#FECB68	0.370275085094919
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	22	7		#FEE188	0.295460634475408
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	23	7	verb	#FFF1A9	0.193902411659344
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	1	8	outcome|reward	#F03623	0.741243749783351
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	2	8	anticipation	#F03623	0.777201091416502
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	3	8	outcomes	#FC622F	0.600706224691207
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	4	8	choice|choices	#FDAD4A	0.431723790800526
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	5	8	decisions|probability	#FDAD4A	0.43354430938914
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	6	8	reversal	#FDAD4A	0.406373531765309
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	7	8	classification|incorrect	#FEE188	0.24235757759442
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	8	8		#FECB68	0.340247637707315
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	9	8	agerelated|fluency|probes	#FFF1A9	0.179959175397764
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	10	8	engaged	#FECB68	0.321775248940382
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	11	8	explicit|knowledge	#FECB68	0.329397644151243
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	12	8		#FECB68	0.336236899185137
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	13	8		#FECB68	0.342490059657626
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	14	8		#FECB68	0.343672860096901
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	15	8		#FECB68	0.341841331826933
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	16	8		#FECB68	0.337254236859005
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	17	8	lexical	#FEE188	0.27504063254151
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	18	8		#FDAD4A	0.400167209199956
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	19	8		#FDAD4A	0.433063733776449
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	20	8		#FDAD4A	0.435984112883436
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	21	8	encoding	#FECB68	0.325322396352235
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	22	8	retrieval	#FEE188	0.204692292015922
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	23	8	verbal	#FFF1A9	0.173323167049899
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	1	9	incentive|monetary|money|rewards	#FDAD4A	0.480460358877309
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	2	9	loss	#F03623	0.712617953305901
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	3	9		#FC622F	0.681035292077064
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	4	9		#FC622F	0.629252910760379
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	5	9	decisionmaking	#FDAD4A	0.499830246369709
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	6	9		#FECB68	0.384073287221414
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	7	9		#FECB68	0.344194324886793
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	8	9		#FECB68	0.313433564316004
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	9	9		#FECB68	0.323475600449513
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	10	9		#FECB68	0.327297954520209
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	11	9		#FECB68	0.309220507994404
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	12	9		#FEE188	0.298078088412093
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	13	9	noun	#FEE188	0.231216486698817
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	14	9	meaning	#FECB68	0.388863607000412
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	15	9	english	#FEE188	0.281320984417618
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	16	9	pseudoword|pseudowords	#FEE188	0.238361485704696
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	17	9		#FECB68	0.342212381114665
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	18	9		#FDAD4A	0.414931715251564
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	19	9	familiar|judgment	#FDAD4A	0.432717933849601
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	20	9	pair|pairs	#FECB68	0.37512195475345
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	21	9		#FECB68	0.369386147995334
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	22	9		#FEE188	0.259157941676239
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	23	9	letter|working	#FFF1A9	0.189416910246537
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	1	10	losses|reinforcement|win	#FD913D	0.544871152686262
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	2	10	gain	#FC622F	0.616374956142036
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	3	10	expectation	#FC622F	0.635267811942501
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	4	10	risk	#F03623	0.702658963668203
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	5	10	fact	#FD913D	0.531667008161459
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	6	10	associative	#FEE188	0.265039609429257
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	7	10	familiarity|judgments|old	#FEE188	0.292932570175907
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	8	10	contextual|text	#FEE188	0.264468853705105
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	9	10	recall|retrieved	#FECB68	0.345260131503109
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	10	10	conceptual|semantically	#FEE188	0.202303355141702
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	11	10	grammatical|speakers	#FEE188	0.2557757828525
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	12	10	nouns	#FFF1A9	0.193904653636782
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	13	10	japanese	#FEE188	0.229760267130228
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	14	10	languages	#FFF1A9	0.194577039763685
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	15	10	written	#FECB68	0.389652869616043
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	16	10	chinese|phonology	#FEE188	0.23915586183382
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	17	10	orthographic	#FECB68	0.319505489109268
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	18	10		#FDAD4A	0.436396705855219
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	19	10		#FDAD4A	0.454381084051192
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	20	10	association|decision	#FDAD4A	0.457217354282323
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	21	10	selection	#FEE188	0.220364126368707
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	22	10	letters	#FEE188	0.201982214348465
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	23	10	demand|load	#FFF1A9	0.137440438525242
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	1	11	conditioned|conditioning	#F03623	0.77434421394004
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	2	11		#D7141E	0.882992732124193
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	3	11	drug|placebo	#F03623	0.771012532589453
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	4	11		#D7141E	0.813686379055747
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	5	11	associations	#FDAD4A	0.47899094796766
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	6	11		#FDAD4A	0.454339807468475
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	7	11	episodic|recollection	#FEE188	0.29204726588857
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	8	11		#FDAD4A	0.419546951538626
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	9	11		#FDAD4A	0.448899533355074
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	10	11	concepts	#FECB68	0.349921522469008
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	11	11		#FECB68	0.380716158107393
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	12	11		#FECB68	0.35045169217807
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	13	11	german	#FEE188	0.279943397418533
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	14	11	readers	#FECB68	0.306807403964969
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	15	11	character|name|naming	#FEE188	0.2805056920781
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	16	11		#FECB68	0.349359822207895
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	17	11	novel	#FECB68	0.338577491087966
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	18	11		#FDAD4A	0.437359973183399
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	19	11	child|children	#FECB68	0.39085022016687
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	20	11	adults	#FDAD4A	0.479173334125339
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	21	11	ability|feedback|learning	#FDAD4A	0.431645720775439
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	22	11	cues|delay	#FECB68	0.334391264287332
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	23	11	attentional|difficulty|targets	#FEE188	0.212478050485212
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	1	12	aversive|shock	#F03623	0.79639555992898
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	2	12	reactivity	#F03623	0.727888264469129
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	3	12	males|sex|women	#F03623	0.700663277372925
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	4	12	animal	#F03623	0.701562581309274
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	5	12	animals	#FC622F	0.602834898896765
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	6	12		#FD913D	0.522435098485302
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	7	12	remember|subsequent	#FDAD4A	0.412317407517227
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	8	12	autobiographical|memories	#FDAD4A	0.45882496425865
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	9	12		#FDAD4A	0.446915260668952
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	10	12	violation|violations	#FFF1A9	0.100971737409752
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	11	12	aphasia	#FDAD4A	0.474863753129876
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	12	12	nonwords	#FECB68	0.385152483283945
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	13	12	dyslexia	#FDAD4A	0.409071685256195
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	14	12		#FDAD4A	0.417203040867305
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	15	12	priming	#FDAD4A	0.481022875872922
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	16	12		#FDAD4A	0.412471479773048
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	17	12	category|repetition	#FECB68	0.344578588477981
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	18	12		#FDAD4A	0.447043638774792
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	19	12	developmental|development	#FDAD4A	0.477314764283436
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	20	12		#FDAD4A	0.411892365994345
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	21	12	space	#FDAD4A	0.416353148579291
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	22	12		#FEE188	0.219193987081566
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	23	12	color	#FFF1A9	0.175195150965926
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	1	13	threat	#FC622F	0.688121490191063
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	2	13	regulation	#F03623	0.743782214874669
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	3	13		#D7141E	0.895082397354855
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	4	13	masked	#FDAD4A	0.497021526360682
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	5	13	scene|scenes	#FDAD4A	0.429027955747194
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	6	13		#FD913D	0.575932519114781
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	7	13	confidence|remembered	#FDAD4A	0.432825446433511
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	8	13		#FD913D	0.54510707075662
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	9	13		#FDAD4A	0.484679433183754
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	10	13	ambiguity|ambiguous	#FEE188	0.223140919618607
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	11	13		#FDAD4A	0.460503918049091
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	12	13		#FDAD4A	0.472657914397189
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	13	13	writing	#FDAD4A	0.435053703120624
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	14	13		#FDAD4A	0.476083348321603
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	15	13	categorization|congruency|prime	#FECB68	0.382373357620814
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	16	13		#FDAD4A	0.412543199277092
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	17	13	mask	#FECB68	0.392450263807625
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	18	13		#FECB68	0.396573761241291
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	19	13		#FECB68	0.367103884541029
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	20	13		#FEE188	0.271347364947436
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	21	13	conflict|congruent|incongruent	#FFFFCC	0.0746731193601857
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	22	13	errors	#FFF1A9	0.144534329132614
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	23	13	maintenance|probe|wm	#FFFFCC	0.0909579553941583
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	1	14	angry|fearful|happy	#FC622F	0.656048528268245
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	2	14		#F03623	0.775984635093239
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	3	14	awareness|conscious|ptsd	#B10026	0.937374947812716
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	4	14		#F03623	0.758441128960576
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	5	14	houses|photographs	#FECB68	0.380481774726635
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	6	14		#FC622F	0.622163538425703
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	7	14	hits	#FD913D	0.533594321833681
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	8	14	famous	#FECB68	0.354215249965449
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	9	14	names	#FFFFCC	0.0830106336076785
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	10	14	family	#FD913D	0.524156099136738
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	11	14	competition|mouth	#FDAD4A	0.4104102706402
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	12	14	abilities	#FEE188	0.212527544701173
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	13	14	implicit|unfamiliar	#FECB68	0.38684764700779
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	14	14		#FDAD4A	0.488100054435923
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	15	14	tom	#FD913D	0.505284170021318
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	16	14		#FECB68	0.386240059636515
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	17	14		#FEE188	0.289601029949391
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	18	14	stop	#FFF1A9	0.167090068815439
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	19	14	inhibition|inhibitory|nogo	#FFF1A9	0.179449363240886
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	20	14	monitoring|stroop	#FFFFCC	0.0898538263504912
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	21	14	interference	#FFFFCC	0
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	22	14		#FFF1A9	0.107989368053331
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	23	14	demands|executive	#FFF1A9	0.189228970515321
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	1	15	anger	#FD913D	0.566266813997193
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	2	15	stress	#F03623	0.749861593424825
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	3	15	feelings	#FC622F	0.646088406203477
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	4	15	salient	#F03623	0.720972935513515
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	5	15	novelty	#FDAD4A	0.419130452328474
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	6	15	movie	#FDAD4A	0.408610078645953
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	7	15		#FD913D	0.571716851474146
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	8	15		#FDAD4A	0.473810582733666
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	9	15	longterm	#FFFFCC	0.0891347448256458
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	10	15		#FECB68	0.345403857921612
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	11	15	reasoning|relational	#FFF1A9	0.119690523891058
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	12	15		#FDAD4A	0.400772358962168
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	13	15	presentations	#FFF1A9	0.136631903259977
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	14	15		#FDAD4A	0.443330279045675
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	15	15	identity	#FD913D	0.537678044997866
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	16	15		#FECB68	0.307818548078626
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	17	15	strategies|strategy	#FFF1A9	0.112316051225053
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	18	15	card|cards	#FEE188	0.240472491350777
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	19	15	gonogo	#FFF1A9	0.158822576077534
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	20	15		#FFF1A9	0.111686004853445
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	21	15	switching|switch	#FFFFCC	0.016664609392959
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	22	15		#FFFFCC	0.059864177814504
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	23	15	2back|rule	#FFFFCC	0.0416730111062618
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	1	16	emotionally|mood|personality|sadness	#F03623	0.706798662199796
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	2	16	disgust|sexual	#F03623	0.786471731119684
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	3	16	olfactory	#FC622F	0.600497147492345
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	4	16	physiological	#FD913D	0.550405027401188
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	5	16	depressed|depressive|habituation	#FC622F	0.691938427567515
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	6	16	schizophrenic	#FECB68	0.317093481861395
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	7	16	colors|contexts	#FEE188	0.220732835120379
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	8	16	aging|encoded	#FECB68	0.378747162013621
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	9	16	goal	#FFF1A9	0.122923711110268
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	10	16		#FEE188	0.24545612808718
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	11	16	autism|autistic|nonverbal	#FECB68	0.363360495782688
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	12	16		#FECB68	0.306370702923092
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	13	16	bottomup|repetitions	#FDAD4A	0.400193501796856
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	14	16	adaptation	#FECB68	0.327904814018737
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	15	16	irrelevant	#FFF1A9	0.149830858844714
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	16	16	distractor|distractors	#FFF1A9	0.147412557531773
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	17	16		#FEE188	0.206971618701832
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	18	16	subtraction	#FFFFCC	0.0661296467395303
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	19	16	1back|nback	#FFFFCC	0.065427882246865
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	20	16	manipulation|rules	#FFF1A9	0.13969037984885
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	21	16		#FFF1A9	0.103814622886112
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	22	16		#FFFFCC	0.0823012860745898
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	23	16	digit	#FFFFCC	0.0702826075382087
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	1	17	avoidance	#B10026	0.99007649227121
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	2	17		#D7141E	0.892719907139919
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	3	17	eating|food	#FD913D	0.586740388316873
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	4	17	taste	#FD913D	0.521113316038991
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	5	17	bipolar	#FECB68	0.3996678458458
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	6	17	illness|uncertainty	#FEE188	0.248991649893162
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	7	17	females|probabilistic	#FEE188	0.207570755181542
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	8	17	rejection	#FFF1A9	0.100486108708356
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	9	17	colour|paired	#FEE188	0.234473171429948
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	10	17		#FEE188	0.238439009881453
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	11	17		#FEE188	0.271475925719708
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	12	17		#FEE188	0.269898591072411
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	13	17	taskirrelevant	#FFFFCC	0.088566181868353
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	14	17		#FEE188	0.253786421545735
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	15	17	suppression	#FEE188	0.253775154323026
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	16	17		#FEE188	0.228552130133067
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	17	17	shifting|shortterm	#FFF1A9	0.140023512502295
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	18	17	digits	#FFF1A9	0.111743695365907
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	19	17	search	#FEE188	0.214846933352238
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	20	17	counting|taskrelated	#FFF1A9	0.172060338762543
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	21	17	topdown	#FFFFCC	0.0841983657714139
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	22	17	visuospatial	#FFF1A9	0.12869403503444
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	23	17	arithmetic|calculation|solving	#FFFFCC	0.0880206541032551
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	1	18	addiction|craving|drugs	#FC622F	0.68102945474007
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	2	18	allele|genotype|polymorphism	#F03623	0.701356980099116
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	3	18	motivation	#F03623	0.708627816245352
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	4	18	heart	#D7141E	0.843905399425998
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	5	18	sleep	#F03623	0.74723685203756
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	6	18	expectancy	#FECB68	0.385464854764871
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	7	18	phasic|salience	#FEE188	0.21925933186738
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	8	18	adolescence|adolescents	#FFF1A9	0.144828007235564
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	9	18	intelligence|tracking	#FECB68	0.30030973989466
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	10	18		#FEE188	0.26629096259533
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	11	18	serial	#FFFFCC	0.0533153220453649
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	12	18		#FEE188	0.24119736994409
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	13	18	spatially|taskrelevant	#FFF1A9	0.15727234439033
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	14	18		#FEE188	0.249071645321544
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	15	18	attended|attend|unattended	#FFFFCC	0.0724752555845961
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	16	18	rotation|shapes	#FECB68	0.362429119745497
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	17	18	rehearsal	#FFF1A9	0.127618613752844
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	18	18	learned	#FEE188	0.247235972845354
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	19	18		#FEE188	0.227720481196132
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	20	18	cued|preparatory	#FFF1A9	0.175997849789689
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	21	18		#FFF1A9	0.180993148576457
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	22	18		#FFF1A9	0.139128084798355
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	23	18	numbers|numerical	#FFFFCC	0.0152384329480815
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	1	19	future	#D7141E	0.82685288408888
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	2	19	negatively	#FC622F	0.601959805260459
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	3	19	distress|epilepsy|selfreported	#D7141E	0.855875386403415
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	4	19	anticipatory|cocaine|probabilities|smoking	#FDAD4A	0.403160401087505
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	5	19	alcohol|amount|impulsivity	#FECB68	0.309755219793927
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	6	19	game|success	#FECB68	0.339768096298478
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	7	19	adhd|childhood|engagement	#FECB68	0.368948550812516
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	8	19		#FECB68	0.358363198281635
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	9	19		#FECB68	0.354772417874203
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	10	19		#FEE188	0.272898784097161
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	11	19		#FEE188	0.265296620389118
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	12	19	endogenous	#FECB68	0.308276299209594
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	13	19	cueing|invalid|orienting	#FFF1A9	0.161984678175528
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	14	19		#FEE188	0.266946215652523
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	15	19	multisensory	#FECB68	0.336000050095748
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	16	19		#FEE188	0.249592558385323
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	17	19	shifts	#FEE188	0.224005234015515
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	18	19	covert	#FEE188	0.259393363034025
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	19	19		#FEE188	0.233671061535365
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	20	19	preparation	#FFF1A9	0.155889995158196
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	21	19	discrimination|training	#FFF1A9	0.183583846558356
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	22	19	sequences	#FFF1A9	0.148915173754454
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	23	19		#FEE188	0.293818336144466
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	1	20	personal|self|selfreferential|trait|traits	#FC622F	0.643952354387391
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	2	20	empathic|theory	#FD913D	0.569401043160913
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	3	20	attribution|intentional	#FFF1A9	0.177440248687252
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	4	20	elderly|oscillations	#FECB68	0.327435212901929
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	5	20	antipsychotic|virtual	#FECB68	0.305295132718165
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	6	20		#FD913D	0.583432468341191
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	7	20	experiences	#FEE188	0.285168348567053
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	8	20	categorical|pressure	#FEE188	0.224854846012537
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	9	20	play|skills	#FEE188	0.225696626060526
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	10	20	automatic|trained	#FFF1A9	0.178108067893562
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	11	20		#FEE188	0.27285123860427
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	12	20	practice	#FFF1A9	0.188759491888475
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	13	20	visuomotor	#FFF1A9	0.166672045486136
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	14	20		#FECB68	0.350835251436119
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	15	20	tool	#FFF1A9	0.165164635818889
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	16	20	vision	#FFF1A9	0.179382453781329
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	17	20	visually	#FFF1A9	0.116726826129174
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	18	20	saccade|saccades|saccadic	#FFF1A9	0.156371442623351
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	19	20	locations	#FEE188	0.219508649906341
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	20	20	imagery|planning	#FFF1A9	0.109607107844104
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	21	20		#FEE188	0.244027596613539
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	22	20	rest	#FEE188	0.277242851935602
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	23	20	sequence	#FEE188	0.241986553930382
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	1	21	scenarios	#FD913D	0.519392681645163
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	2	21	intention|intentions	#FDAD4A	0.442261691449582
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	3	21	causality|perspective	#FDAD4A	0.425728303552386
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	4	21	past	#FECB68	0.330836108608003
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	5	21		#F03623	0.767065028759223
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	6	21	episode	#FD913D	0.511319413722085
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	7	21	improvement	#FEE188	0.265007108817211
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	8	21	masking|retention	#FEE188	0.232885533166567
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	9	21		#FECB68	0.388974533591368
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	10	21	dominant	#FDAD4A	0.400931886289305
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	11	21		#FECB68	0.330322953915332
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	12	21	sequential	#FFF1A9	0.185864057770731
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	13	21	fingers	#FECB68	0.3309230574214
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	14	21		#FECB68	0.332644673409227
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	15	21	gesture|gestures	#FFFFCC	0.0951339248854844
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	16	21		#FEE188	0.287023900002575
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	17	21	hands	#FFFFCC	0.0384054490101917
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	18	21		#FEE188	0.232312568863916
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	19	21		#FEE188	0.221037924167554
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	20	21	eye|position	#FFF1A9	0.175667443776791
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	21	21	execution	#FEE188	0.236489085646117
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	22	21	finger|sensorimotor	#FECB68	0.327215467461035
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	23	21		#FEE188	0.28166130002658
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	1	22	moral|stories|story	#FECB68	0.340699404805878
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	2	22	mentalizing|persons	#FD913D	0.509518548701353
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	3	22	default|restingstate	#FDAD4A	0.455140676921675
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	4	22	thinking|thought|thoughts	#FD913D	0.516031180432268
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	5	22	spontaneous	#FDAD4A	0.475535915567851
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	6	22	concentration|sensations	#FC622F	0.672310855009341
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	7	22	hierarchical|preference	#FDAD4A	0.432472243718877
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	8	22	effort|oral|simulation	#FD913D	0.518847775389703
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	9	22	interhemispheric|plasticity	#FECB68	0.353137673024735
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	10	22	imagined|imagine	#FFF1A9	0.144825616406062
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	11	22	tapping	#FECB68	0.344057975018797
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	12	22	foot|muscle|muscles|voluntary	#FDAD4A	0.438029917133904
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	13	22	limb	#FECB68	0.352616938749605
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	14	22	eyes|velocity	#FFF1A9	0.138579517615794
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	15	22	biological|gaze|videos	#FECB68	0.33872482453491
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	16	22	body	#FECB68	0.371659657075594
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	17	22	grasping|orientation|reaching	#FECB68	0.332679787573779
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	18	22		#FEE188	0.243410155636035
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	19	22	mirror|shape	#FECB68	0.35287976500185
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	20	22	actions	#FFF1A9	0.175765668596903
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	21	22	action	#FEE188	0.217225194496543
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	22	22		#FEE188	0.256030810140994
+5abfa7f3-580a-3b15-bcc9-a0adebaf5a0e	May A	23	22	hand|movements|sensory	#FEE188	0.226925400222408

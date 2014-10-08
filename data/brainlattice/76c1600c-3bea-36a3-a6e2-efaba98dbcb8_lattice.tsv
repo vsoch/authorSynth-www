@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	1	1	auditory|speech	#FECB68	0.329176064061145
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	2	1		#FECB68	0.320682765786586
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	3	1	da|integration	#FD913D	0.552255667776967
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	4	1		#FD913D	0.531859190499347
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	5	1	physical|psychophysical|tactile	#FDAD4A	0.410661527830024
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	6	1		#FDAD4A	0.423280667155972
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	7	1	somatosensory|stimulation	#FEE188	0.265766697239348
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	8	1	painful|pain	#FECB68	0.314701463439301
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	9	1		#FDAD4A	0.438655737710901
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	10	1	ratings	#F03623	0.738378861021296
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	11	1	affective|affect	#B10026	0.956552713386895
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	12	1	emotions	#FC622F	0.668196009894187
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	13	1	expression|expressions|facial	#FC622F	0.683639359980465
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	14	1		#B10026	0.94319523627605
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	15	1		#B10026	0.998018710469697
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	16	1	emotion|motion|neutral	#B10026	0.93293126544998
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	17	1	rating	#D7141E	0.829485704414864
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	18	1	negative|positive	#B10026	0.916169146224891
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	19	1		#D7141E	0.853484103916496
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	20	1	ear|order	#F03623	0.732927386135709
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	21	1	motor	#FDAD4A	0.400510609942402
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	22	1	visual	#FC622F	0.662209537817643
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	23	1	age|image|response	#FC622F	0.697277855142116
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	1	2	sound|sounds	#FEE188	0.20481240384578
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	2	2		#FEE188	0.289760689401028
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	3	2	audiovisual|bimodal|crossmodal	#FECB68	0.375132592898988
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	4	2		#FD913D	0.537530659003062
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	5	2		#FD913D	0.508108111129933
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	6	2		#FDAD4A	0.449313564460804
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	7	2	sensation	#FEE188	0.28081103019308
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	8	2	heat|noxious	#FEE188	0.282049903331024
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	9	2		#FDAD4A	0.459243205893224
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	10	2		#F03623	0.74446748552426
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	11	2		#F03623	0.793507898007275
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	12	2	valence	#D7141E	0.819346947504992
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	13	2	person|social	#F03623	0.790142147843186
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	14	2		#B10026	0.945642845972953
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	15	2	face|faces	#B10026	0.998588312612531
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	16	2		#B10026	1
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	17	2		#B10026	0.969435829348043
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	18	2		#B10026	0.940051646055324
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	19	2		#D7141E	0.864424061695129
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	20	2		#F03623	0.735334107603288
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	21	2	images|spatial	#FC622F	0.692021238075775
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	22	2	control	#F03623	0.725436946123492
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	23	2	time	#FC622F	0.678214682619924
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	1	3	acoustic|listening|musical|music|pitch	#FFF1A9	0.121673133132517
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	2	3	noise|tones	#FEE188	0.291783962601875
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	3	3		#FECB68	0.386332166710637
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	4	3		#FDAD4A	0.448299890398894
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	5	3	frequency	#FDAD4A	0.49236054886421
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	6	3		#FDAD4A	0.489293687306798
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	7	3		#FECB68	0.343717061237137
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	8	3	temperature	#FEE188	0.26917369979832
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	9	3		#FDAD4A	0.417430091127554
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	10	3	pleasant|unpleasant	#FD913D	0.501661691102721
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	11	3	anxiety	#F03623	0.729380590650441
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	12	3		#D7141E	0.811581161540507
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	13	3		#D7141E	0.878891989973371
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	14	3		#B10026	0.944238245960182
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	15	3		#B10026	0.982118002226979
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	16	3	picture	#B10026	0.98427664416992
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	17	3		#B10026	0.991134764319605
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	18	3	value	#F03623	0.731047878445047
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	19	3	cue	#D7141E	0.880075506835551
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	20	3	error|target	#D7141E	0.814679630376689
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	21	3	attention	#FC622F	0.682075034621966
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	22	3		#F03623	0.714591020017621
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	23	3	number	#FC622F	0.692492159612881
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	1	4	voice	#FEE188	0.280224221345417
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	2	4		#FEE188	0.288097598932224
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	3	4	hearing	#FECB68	0.378695437703403
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	4	4		#FECB68	0.332612160545194
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	5	4	overt	#FECB68	0.356545888923526
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	6	4		#FECB68	0.397198761998827
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	7	4		#FECB68	0.397440511467244
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	8	4	nociceptive|nonpainful|painrelated	#FEE188	0.270447945207579
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	9	4	unpleasantness	#FECB68	0.325410885491485
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	10	4	skin|subjective	#FD913D	0.542830681873542
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	11	4	depression	#FD913D	0.579160466310573
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	12	4	experience	#FC622F	0.63634580529581
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	13	4	female	#F03623	0.766687104760815
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	14	4	male	#D7141E	0.889107965266723
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	15	4	pictures	#D7141E	0.898214723054316
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	16	4		#B10026	0.977370901181573
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	17	4	perception	#D7141E	0.801236969082726
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	18	4		#B10026	0.91965241974509
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	19	4		#D7141E	0.880332080184245
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	20	4		#D7141E	0.841334721564845
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	21	4	correct	#F03623	0.770920636977117
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	22	4	work	#FC622F	0.628726083488181
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	23	4	memory	#F03623	0.701761829414793
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	1	5	prosodic|prosody	#FDAD4A	0.402820787910022
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	2	5	phonetic	#FFF1A9	0.144020220290873
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	3	5	syllable|syllables	#FEE188	0.264073675150501
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	4	5		#FEE188	0.278662305898847
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	5	5	lip|production	#FFF1A9	0.158406277592391
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	6	5	somatotopic	#FFF1A9	0.167623380232803
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	7	5		#FD913D	0.599329995466156
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	8	5		#FC622F	0.620501491519709
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	9	5	empathy	#FC622F	0.607065030438175
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	10	5		#FC622F	0.636751439703186
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	11	5	disorder	#F03623	0.749523284960183
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	12	5		#F03623	0.720852749954343
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	13	5		#D7141E	0.826775011006895
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	14	5		#D7141E	0.894869604922491
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	15	5		#B10026	0.935154124374238
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	16	5		#B10026	0.925998494574127
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	17	5		#B10026	0.924443942145137
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	18	5	mental	#B10026	0.915174297807897
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	19	5	go	#D7141E	0.8521633233288
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	20	5	object	#F03623	0.741713692055617
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	21	5		#F03623	0.791364777556154
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	22	5		#F03623	0.739134648227514
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	23	5	word|words	#FC622F	0.64997049500823
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	1	6		#FC622F	0.689567742161625
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	2	6		#FC622F	0.659004975954131
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	3	6		#FD913D	0.544452679028147
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	4	6	vocal	#FFF1A9	0.153426745516561
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	5	6	articulatory	#FFFFCC	0.0468152571087667
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	6	6		#FECB68	0.398018113513881
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	7	6	oddball	#FDAD4A	0.413413607734655
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	8	6	perceived	#FC622F	0.687994398797498
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	9	6	errorrelated	#B10026	0.987860391753277
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	10	6	approach	#FDAD4A	0.485416002540525
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	11	6	schizophrenia	#FD913D	0.567208941221584
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	12	6	acquisition	#FDAD4A	0.439448681546134
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	13	6		#F03623	0.721924527007265
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	14	6		#FC622F	0.690281287517796
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	15	6		#F03623	0.746797655036233
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	16	6		#F03623	0.783920794234231
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	17	6		#D7141E	0.823347036205087
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	18	6		#D7141E	0.836135349733671
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	19	6		#D7141E	0.847826161095328
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	20	6	objects	#D7141E	0.847622651986874
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	21	6		#F03623	0.798559372364021
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	22	6		#F03623	0.710975802034551
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	23	6	language|semantic	#FC622F	0.650386738619195
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	1	7	dopamine|dopaminergic	#FD913D	0.583251079909405
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	2	7		#FC622F	0.686083669423656
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	3	7		#F03623	0.73360889463154
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	4	7		#FC622F	0.682339407071505
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	5	7		#FC622F	0.693867619304464
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	6	7		#FC622F	0.664455133776042
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	7	7		#D7141E	0.804820929824399
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	8	7		#F03623	0.749998197867295
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	9	7		#F03623	0.748412020412614
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	10	7		#FC622F	0.656928090505928
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	11	7		#FC622F	0.655285198365858
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	12	7		#FC622F	0.660733597094604
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	13	7	linguistic|spoken	#FD913D	0.511176588932532
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	14	7		#FC622F	0.625123124351553
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	15	7	comprehension|sentence|sentences|syntactic	#FC622F	0.612183814911554
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	16	7		#F03623	0.706456130740388
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	17	7		#F03623	0.753617581187535
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	18	7	phonological|reading|read	#FC622F	0.676373550702059
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	19	7		#D7141E	0.813243599321465
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	20	7	perceptual|recognition	#D7141E	0.846046337192273
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	21	7		#D7141E	0.801032023116682
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	22	7		#F03623	0.714968619318381
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	23	7	verb	#FC622F	0.644277883109599
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	1	8	outcome|reward	#F03623	0.75542751949675
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	2	8	anticipation	#FC622F	0.625084471301421
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	3	8	outcomes	#FD913D	0.560697976752483
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	4	8	choice|choices	#FC622F	0.646527538724259
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	5	8	decisions|probability	#FC622F	0.699264304516377
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	6	8	reversal	#F03623	0.704152636075081
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	7	8	classification|incorrect	#FD913D	0.522501320812001
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	8	8		#FC622F	0.643930433845995
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	9	8	agerelated|fluency|probes	#FECB68	0.378805816052347
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	10	8	engaged	#FD913D	0.570309399286197
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	11	8	explicit|knowledge	#FC622F	0.687566085340666
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	12	8		#FC622F	0.64853025319648
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	13	8		#FC622F	0.650233959990495
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	14	8		#FC622F	0.643752489342752
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	15	8		#FC622F	0.651708938140966
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	16	8		#FC622F	0.672539688326645
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	17	8	lexical	#FC622F	0.67733653751295
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	18	8		#F03623	0.761339509577388
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	19	8		#F03623	0.793601343917154
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	20	8		#D7141E	0.831450996041652
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	21	8	encoding	#F03623	0.772856362648276
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	22	8	retrieval	#F03623	0.76391896656567
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	23	8	verbal	#FC622F	0.633704788684172
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	1	9	incentive|monetary|money|rewards	#FDAD4A	0.441653655117237
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	2	9	loss	#FC622F	0.626029905232003
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	3	9		#F03623	0.753790375442785
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	4	9		#F03623	0.773504421735801
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	5	9	decisionmaking	#F03623	0.731183475191259
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	6	9		#F03623	0.752355091972094
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	7	9		#F03623	0.731343360206219
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	8	9		#FC622F	0.664759864417666
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	9	9		#FC622F	0.638745771104085
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	10	9		#FC622F	0.630546162258406
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	11	9		#FC622F	0.641579520293228
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	12	9		#FC622F	0.637460175317972
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	13	9	noun	#FD913D	0.556811031423856
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	14	9	meaning	#FC622F	0.66991959640192
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	15	9	english	#FD913D	0.526518155099541
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	16	9	pseudoword|pseudowords	#FDAD4A	0.48110281854951
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	17	9		#F03623	0.713535788808706
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	18	9		#D7141E	0.809267935166964
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	19	9	familiar|judgment	#D7141E	0.83210159723678
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	20	9	pair|pairs	#F03623	0.738700800182101
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	21	9		#F03623	0.782718622599449
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	22	9		#F03623	0.72670126018228
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	23	9	letter|working	#FC622F	0.658431308423246
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	1	10	losses|reinforcement|win	#FC622F	0.651626125273668
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	2	10	gain	#FECB68	0.358609107322827
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	3	10	expectation	#FC622F	0.658978361766426
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	4	10	risk	#FC622F	0.679505079036965
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	5	10	fact	#FD913D	0.544309277948348
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	6	10	associative	#F03623	0.751343175785886
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	7	10	familiarity|judgments|old	#FD913D	0.579985736070587
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	8	10	contextual|text	#F03623	0.754645923685441
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	9	10	recall|retrieved	#FD913D	0.514806245798682
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	10	10	conceptual|semantically	#FD913D	0.513440577806244
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	11	10	grammatical|speakers	#FD913D	0.502242080564011
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	12	10	nouns	#FDAD4A	0.479679337505581
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	13	10	japanese	#FD913D	0.555954093308516
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	14	10	languages	#FDAD4A	0.399926866472185
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	15	10	written	#FC622F	0.690900096101179
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	16	10	chinese|phonology	#FD913D	0.514891198606016
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	17	10	orthographic	#F03623	0.706082532459056
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	18	10		#D7141E	0.825173296609863
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	19	10		#D7141E	0.819750340678075
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	20	10	association|decision	#D7141E	0.850172800684769
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	21	10	selection	#F03623	0.728137362393986
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	22	10	letters	#FD913D	0.585803667648483
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	23	10	demand|load	#FD913D	0.594853919487564
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	1	11	conditioned|conditioning	#FD913D	0.542707725500972
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	2	11		#F03623	0.7541715260584
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	3	11	drug|placebo	#F03623	0.720248199356696
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	4	11		#F03623	0.769294052794029
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	5	11	associations	#FD913D	0.573881526854524
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	6	11		#F03623	0.73273476148105
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	7	11	episodic|recollection	#F03623	0.717421193860094
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	8	11		#FC622F	0.694151400525526
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	9	11		#F03623	0.701401217040874
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	10	11	concepts	#FC622F	0.650068457437302
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	11	11		#FC622F	0.636767747212255
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	12	11		#FC622F	0.6453818504859
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	13	11	german	#FECB68	0.392667079243466
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	14	11	readers	#FC622F	0.658026905846249
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	15	11	character|name|naming	#F03623	0.740108258960726
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	16	11		#FC622F	0.700001905319566
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	17	11	novel	#F03623	0.720326421376376
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	18	11		#D7141E	0.823581552615503
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	19	11	child|children	#F03623	0.787240918324653
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	20	11	adults	#D7141E	0.814704164904217
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	21	11	ability|feedback|learning	#F03623	0.709060296099983
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	22	11	cues|delay	#FC622F	0.694187314067539
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	23	11	attentional|difficulty|targets	#F03623	0.724168529685425
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	1	12	aversive|shock	#F03623	0.752084497616892
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	2	12	reactivity	#FD913D	0.508943698582779
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	3	12	males|sex|women	#FC622F	0.642108270158025
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	4	12	animal	#FD913D	0.516330923647679
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	5	12	animals	#FECB68	0.391502203612407
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	6	12		#FC622F	0.655788731618518
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	7	12	remember|subsequent	#FECB68	0.315904232887522
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	8	12	autobiographical|memories	#FDAD4A	0.458984980511859
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	9	12		#F03623	0.704199663028449
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	10	12	violation|violations	#FEE188	0.255586600756391
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	11	12	aphasia	#FD913D	0.541964260053099
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	12	12	nonwords	#FD913D	0.508035312041967
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	13	12	dyslexia	#F03623	0.764464987396244
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	14	12		#D7141E	0.8117671564046
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	15	12	priming	#FC622F	0.639413070471075
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	16	12		#D7141E	0.807166825527649
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	17	12	category|repetition	#FC622F	0.653590007285616
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	18	12		#D7141E	0.848497141477512
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	19	12	developmental|development	#D7141E	0.867716626149869
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	20	12		#D7141E	0.854283173358469
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	21	12	space	#FC622F	0.621088124099672
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	22	12		#F03623	0.725660548964501
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	23	12	color	#FC622F	0.694875797646369
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	1	13	threat	#FC622F	0.633979783752565
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	2	13	regulation	#F03623	0.752391727107057
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	3	13		#F03623	0.753644459706766
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	4	13	masked	#F03623	0.764081676422563
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	5	13	scene|scenes	#FECB68	0.354126781682206
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	6	13		#FD913D	0.590793031492593
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	7	13	confidence|remembered	#FECB68	0.340526691272606
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	8	13		#FC622F	0.698406617297615
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	9	13		#F03623	0.771052519412189
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	10	13	ambiguity|ambiguous	#FD913D	0.549697337318025
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	11	13		#FC622F	0.662554419625311
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	12	13		#F03623	0.725212711716153
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	13	13	writing	#FDAD4A	0.414047618968339
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	14	13		#D7141E	0.820802266587971
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	15	13	categorization|congruency|prime	#FC622F	0.619023088144778
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	16	13		#D7141E	0.832205828089253
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	17	13	mask	#D7141E	0.819133416029729
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	18	13		#D7141E	0.872724533136163
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	19	13		#D7141E	0.855907356092385
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	20	13		#D7141E	0.860047438413542
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	21	13	conflict|congruent|incongruent	#F03623	0.789679125778329
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	22	13	errors	#D7141E	0.81759284585484
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	23	13	maintenance|probe|wm	#FD913D	0.505572652703863
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	1	14	angry|fearful|happy	#FD913D	0.525133560253173
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	2	14		#FC622F	0.674799264822697
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	3	14	awareness|conscious|ptsd	#FD913D	0.546503805876319
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	4	14		#F03623	0.714904850963839
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	5	14	houses|photographs	#FD913D	0.503642754872493
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	6	14		#FC622F	0.667873921024233
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	7	14	hits	#FDAD4A	0.477375118812551
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	8	14	famous	#F03623	0.740647843389686
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	9	14	names	#D7141E	0.871486790381234
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	10	14	family	#FC622F	0.617203018465979
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	11	14	competition|mouth	#FDAD4A	0.460529758929991
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	12	14	abilities	#FECB68	0.383599924923146
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	13	14	implicit|unfamiliar	#F03623	0.755537248881228
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	14	14		#D7141E	0.829962102151768
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	15	14	tom	#B10026	0.996671188756096
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	16	14		#D7141E	0.883741359690781
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	17	14		#D7141E	0.826044749990253
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	18	14	stop	#F03623	0.730105435587319
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	19	14	inhibition|inhibitory|nogo	#D7141E	0.811734415542448
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	20	14	monitoring|stroop	#F03623	0.761960929583845
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	21	14	interference	#F03623	0.740101016402748
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	22	14		#F03623	0.718958919624555
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	23	14	demands|executive	#FC622F	0.641667578072193
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	1	15	anger	#FD913D	0.518453860612004
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	2	15	stress	#FDAD4A	0.400203658436888
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	3	15	feelings	#F03623	0.722719947959306
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	4	15	salient	#F03623	0.717511971316178
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	5	15	novelty	#FDAD4A	0.454538442482221
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	6	15	movie	#FC622F	0.647581547305769
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	7	15		#D7141E	0.872302160396497
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	8	15		#B10026	0.904622130764886
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	9	15	longterm	#FC622F	0.644584906789631
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	10	15		#F03623	0.748141375708801
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	11	15	reasoning|relational	#FD913D	0.550522079630401
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	12	15		#F03623	0.734367601697303
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	13	15	presentations	#FDAD4A	0.476533974073293
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	14	15		#D7141E	0.817411242327048
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	15	15	identity	#D7141E	0.830694182484145
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	16	15		#D7141E	0.846912430742384
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	17	15	strategies|strategy	#F03623	0.769608856810518
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	18	15	card|cards	#FD913D	0.552409945340736
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	19	15	gonogo	#FC622F	0.648222975294252
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	20	15		#F03623	0.7426817223196
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	21	15	switching|switch	#FD913D	0.535233976668623
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	22	15		#FC622F	0.668627110058156
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	23	15	2back|rule	#FDAD4A	0.494310060796759
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	1	16	emotionally|mood|personality|sadness	#FDAD4A	0.447426369919604
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	2	16	disgust|sexual	#FD913D	0.523379294040573
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	3	16	olfactory	#FEE188	0.277128327198911
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	4	16	physiological	#F03623	0.735517177478097
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	5	16	depressed|depressive|habituation	#D7141E	0.879698255081237
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	6	16	schizophrenic	#FD913D	0.593031626469567
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	7	16	colors|contexts	#FC622F	0.696024973715637
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	8	16	aging|encoded	#FD913D	0.570436855157522
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	9	16	goal	#FD913D	0.575752117988905
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	10	16		#FC622F	0.692570446631679
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	11	16	autism|autistic|nonverbal	#FD913D	0.564462892282609
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	12	16		#F03623	0.792665309138005
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	13	16	bottomup|repetitions	#FD913D	0.552332120474809
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	14	16	adaptation	#FC622F	0.648846444206897
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	15	16	irrelevant	#F03623	0.700844785314301
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	16	16	distractor|distractors	#FD913D	0.561192706037707
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	17	16		#FC622F	0.660682258662799
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	18	16	subtraction	#FD913D	0.505085734288593
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	19	16	1back|nback	#FDAD4A	0.432918386499171
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	20	16	manipulation|rules	#FD913D	0.524760289780631
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	21	16		#FC622F	0.648787555970207
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	22	16		#FD913D	0.547198039212652
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	23	16	digit	#FECB68	0.397558256894999
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	1	17	avoidance	#FECB68	0.330819168598924
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	2	17		#FD913D	0.584129987667564
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	3	17	eating|food	#D7141E	0.886221868651786
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	4	17	taste	#F03623	0.763104429306683
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	5	17	bipolar	#D7141E	0.80501707743271
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	6	17	illness|uncertainty	#FC622F	0.642379731940113
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	7	17	females|probabilistic	#FC622F	0.689287728051338
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	8	17	rejection	#FC622F	0.645247167837008
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	9	17	colour|paired	#FD913D	0.508624086971913
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	10	17		#FC622F	0.645696984858809
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	11	17		#FC622F	0.62814041995716
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	12	17		#FC622F	0.691202516511069
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	13	17	taskirrelevant	#F03623	0.755882686486294
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	14	17		#F03623	0.792939358957277
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	15	17	suppression	#FDAD4A	0.419769251761292
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	16	17		#F03623	0.722202156528376
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	17	17	shifting|shortterm	#FECB68	0.363114477782435
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	18	17	digits	#FECB68	0.344786431356163
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	19	17	search	#FD913D	0.517921044965938
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	20	17	counting|taskrelated	#FDAD4A	0.4467097413687
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	21	17	topdown	#D7141E	0.870125514946124
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	22	17	visuospatial	#FECB68	0.32521819434696
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	23	17	arithmetic|calculation|solving	#FECB68	0.380566338199844
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	1	18	addiction|craving|drugs	#FEE188	0.29306883928891
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	2	18	allele|genotype|polymorphism	#FECB68	0.393751695593847
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	3	18	motivation	#FEE188	0.215357198149406
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	4	18	heart	#F03623	0.73557255384785
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	5	18	sleep	#FD913D	0.598384693243769
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	6	18	expectancy	#F03623	0.702170038346022
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	7	18	phasic|salience	#FC622F	0.647174991234702
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	8	18	adolescence|adolescents	#FD913D	0.535010312771754
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	9	18	intelligence|tracking	#FDAD4A	0.401508474931773
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	10	18		#FD913D	0.58488459754478
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	11	18	serial	#FEE188	0.263784407590109
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	12	18		#FC622F	0.633521364201676
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	13	18	spatially|taskrelevant	#FECB68	0.382153331571952
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	14	18		#F03623	0.767328480454734
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	15	18	attended|attend|unattended	#F03623	0.707548618173029
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	16	18	rotation|shapes	#FC622F	0.672745311458605
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	17	18	rehearsal	#FEE188	0.280239390441446
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	18	18	learned	#FEE188	0.25542449957648
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	19	18		#FD913D	0.535960223583009
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	20	18	cued|preparatory	#FC622F	0.661992536148026
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	21	18		#FD913D	0.568550946683309
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	22	18		#FD913D	0.527885575780357
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	23	18	numbers|numerical	#FDAD4A	0.45314237222377
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	1	19	future	#FD913D	0.517565440076926
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	2	19	negatively	#FD913D	0.509624940167594
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	3	19	distress|epilepsy|selfreported	#FECB68	0.332901643104564
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	4	19	anticipatory|cocaine|probabilities|smoking	#FDAD4A	0.420802911742746
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	5	19	alcohol|amount|impulsivity	#FD913D	0.581654024875911
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	6	19	game|success	#B10026	0.913671383318682
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	7	19	adhd|childhood|engagement	#F03623	0.783111840623651
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	8	19		#F03623	0.760120000159368
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	9	19		#FC622F	0.620842097056666
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	10	19		#FDAD4A	0.486945318221204
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	11	19		#FD913D	0.502280464352554
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	12	19	endogenous	#FECB68	0.399388673279703
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	13	19	cueing|invalid|orienting	#FC622F	0.654046883585825
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	14	19		#FC622F	0.699718609925051
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	15	19	multisensory	#FD913D	0.59974607027698
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	16	19		#FC622F	0.670552545347683
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	17	19	shifts	#FD913D	0.592048552666553
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	18	19	covert	#FD913D	0.560099920392064
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	19	19		#FD913D	0.553152876316395
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	20	19	preparation	#FDAD4A	0.406704015940106
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	21	19	discrimination|training	#FD913D	0.581766127566536
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	22	19	sequences	#FFF1A9	0.179496775745611
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	23	19		#FDAD4A	0.428279962531858
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	1	20	personal|self|selfreferential|trait|traits	#FD913D	0.510140533054568
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	2	20	empathic|theory	#FDAD4A	0.492878851049476
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	3	20	attribution|intentional	#FEE188	0.216930748309433
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	4	20	elderly|oscillations	#FECB68	0.350557826297141
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	5	20	antipsychotic|virtual	#FDAD4A	0.484653976859864
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	6	20		#D7141E	0.853842374989837
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	7	20	experiences	#FD913D	0.524423117352469
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	8	20	categorical|pressure	#FDAD4A	0.408572806691596
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	9	20	play|skills	#FFF1A9	0.187246598141191
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	10	20	automatic|trained	#FD913D	0.500105209411681
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	11	20		#FECB68	0.32696615527707
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	12	20	practice	#FECB68	0.340745200208917
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	13	20	visuomotor	#FECB68	0.310828959976008
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	14	20		#FD913D	0.566222943267035
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	15	20	tool	#FECB68	0.342954339595118
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	16	20	vision	#FEE188	0.249730876059974
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	17	20	visually	#FDAD4A	0.457732360019742
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	18	20	saccade|saccades|saccadic	#FD913D	0.509564392919149
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	19	20	locations	#FD913D	0.544865814267318
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	20	20	imagery|planning	#FECB68	0.360443108014081
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	21	20		#FDAD4A	0.448424606459102
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	22	20	rest	#FECB68	0.372072460553624
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	23	20	sequence	#FDAD4A	0.446782161455426
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	1	21	scenarios	#FECB68	0.346414152472087
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	2	21	intention|intentions	#FD913D	0.597085589943646
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	3	21	causality|perspective	#FEE188	0.27425190928613
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	4	21	past	#FDAD4A	0.439010382587881
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	5	21		#FC622F	0.619047986983946
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	6	21	episode	#FEE188	0.226623859885732
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	7	21	improvement	#FEE188	0.21198616866427
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	8	21	masking|retention	#FECB68	0.366154567395371
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	9	21		#FECB68	0.323028242030745
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	10	21	dominant	#FFF1A9	0.168194961091843
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	11	21		#FFF1A9	0.16485162592724
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	12	21	sequential	#FFF1A9	0.177472161985819
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	13	21	fingers	#FFFFCC	0.0260532104076923
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	14	21		#FDAD4A	0.494183408859325
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	15	21	gesture|gestures	#FECB68	0.307540730035705
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	16	21		#FDAD4A	0.481169708367944
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	17	21	hands	#FECB68	0.314623426827472
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	18	21		#FD913D	0.517638539554918
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	19	21		#FD913D	0.575469983049599
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	20	21	eye|position	#FD913D	0.560806505678724
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	21	21	execution	#FEE188	0.246617530543735
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	22	21	finger|sensorimotor	#FFF1A9	0.12816592392275
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	23	21		#FECB68	0.306547051111434
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	1	22	moral|stories|story	#FECB68	0.391752881839262
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	2	22	mentalizing|persons	#FDAD4A	0.426750346257745
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	3	22	default|restingstate	#FEE188	0.26223610197546
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	4	22	thinking|thought|thoughts	#FEE188	0.292640151876938
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	5	22	spontaneous	#FECB68	0.34141390168437
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	6	22	concentration|sensations	#FDAD4A	0.426265419822268
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	7	22	hierarchical|preference	#FDAD4A	0.429672623597027
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	8	22	effort|oral|simulation	#FECB68	0.365290571048879
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	9	22	interhemispheric|plasticity	#FFFFCC	0.0870828645386182
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	10	22	imagined|imagine	#FFFFCC	0.0732024572959419
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	11	22	tapping	#FFFFCC	0.0527790331989171
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	12	22	foot|muscle|muscles|voluntary	#FFFFCC	0.0569307851590995
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	13	22	limb	#FFFFCC	0
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	14	22	eyes|velocity	#FECB68	0.372522878054901
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	15	22	biological|gaze|videos	#FD913D	0.502760965753211
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	16	22	body	#FECB68	0.382143798397665
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	17	22	grasping|orientation|reaching	#FECB68	0.326645356166535
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	18	22		#FDAD4A	0.489796007319893
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	19	22	mirror|shape	#FD913D	0.535555428994456
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	20	22	actions	#FD913D	0.52610109987398
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	21	22	action	#FD913D	0.526595003175088
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	22	22		#FECB68	0.321724481702534
+76c1600c-3bea-36a3-a6e2-efaba98dbcb8	Barton JJ	23	22	hand|movements|sensory	#FEE188	0.240725452892506

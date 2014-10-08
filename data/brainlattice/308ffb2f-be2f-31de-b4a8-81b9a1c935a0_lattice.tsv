@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	1	1	auditory|speech	#FFF1A9	0.158596914361094
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	2	1		#FFF1A9	0.134478563996537
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	3	1	da|integration	#FFF1A9	0.189185828388014
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	4	1		#FECB68	0.317314371650272
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	5	1	physical|psychophysical|tactile	#FDAD4A	0.453471055787253
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	6	1		#FDAD4A	0.48336617855831
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	7	1	somatosensory|stimulation	#FD913D	0.587833343391479
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	8	1	painful|pain	#FECB68	0.375363072608365
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	9	1		#FECB68	0.363603308607333
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	10	1	ratings	#FEE188	0.25933201646212
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	11	1	affective|affect	#FFF1A9	0.188080566900263
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	12	1	emotions	#FFF1A9	0.113541832292198
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	13	1	expression|expressions|facial	#FFFFCC	0.0452551072864138
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	14	1		#FFF1A9	0.110086993730983
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	15	1		#FFF1A9	0.130733192239576
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	16	1	emotion|motion|neutral	#FFF1A9	0.138686890698524
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	17	1	rating	#FEE188	0.237784364988198
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	18	1	negative|positive	#FECB68	0.320004599548421
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	19	1		#FECB68	0.357307489557034
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	20	1	ear|order	#FEE188	0.288612655332495
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	21	1	motor	#FD913D	0.555266338278529
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	22	1	visual	#FEE188	0.244769009105005
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	23	1	age|image|response	#FECB68	0.299968012258311
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	1	2	sound|sounds	#FFFFCC	0.0892872484282091
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	2	2		#FFF1A9	0.120960415953883
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	3	2	audiovisual|bimodal|crossmodal	#FFFFCC	0.0631786990999877
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	4	2		#FECB68	0.32479332183281
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	5	2		#FDAD4A	0.443447158564771
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	6	2		#FDAD4A	0.493906480982809
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	7	2	sensation	#FECB68	0.351684414454176
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	8	2	heat|noxious	#FECB68	0.355561858194675
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	9	2		#FECB68	0.324001145493975
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	10	2		#FEE188	0.243427890421278
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	11	2		#FEE188	0.213577391126772
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	12	2	valence	#FFF1A9	0.182079281890979
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	13	2	person|social	#FFF1A9	0.169647377444409
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	14	2		#FFF1A9	0.120139725340827
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	15	2	face|faces	#FFFFCC	0.0686444217028401
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	16	2		#FFF1A9	0.181441026513199
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	17	2		#FEE188	0.253554996507489
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	18	2		#FECB68	0.314919989866738
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	19	2		#FECB68	0.362526222284293
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	20	2		#FECB68	0.374952419066781
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	21	2	images|spatial	#FECB68	0.321709741449362
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	22	2	control	#FEE188	0.282250070770245
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	23	2	time	#FECB68	0.314316305631455
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	1	3	acoustic|listening|musical|music|pitch	#FFFFCC	0.0762806668762013
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	2	3	noise|tones	#FFF1A9	0.118595704009872
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	3	3		#FEE188	0.214289190906441
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	4	3		#FECB68	0.317033656745484
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	5	3	frequency	#FDAD4A	0.446190494806696
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	6	3		#FDAD4A	0.476133199879746
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	7	3		#FECB68	0.358333850394651
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	8	3	temperature	#FEE188	0.207703994126741
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	9	3		#FEE188	0.296936075684872
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	10	3	pleasant|unpleasant	#FEE188	0.235427602538081
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	11	3	anxiety	#FFF1A9	0.182545954267283
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	12	3		#FEE188	0.201800858069181
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	13	3		#FEE188	0.207196073568031
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	14	3		#FFF1A9	0.181098388328436
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	15	3		#FFF1A9	0.177175744132378
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	16	3	picture	#FFF1A9	0.176136468052762
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	17	3		#FEE188	0.253760426464096
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	18	3	value	#FECB68	0.398354663024429
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	19	3	cue	#FECB68	0.334835977626237
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	20	3	error|target	#FECB68	0.361366808814502
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	21	3	attention	#FEE188	0.261101166808723
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	22	3		#FEE188	0.252579961241173
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	23	3	number	#FEE188	0.245819463927857
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	1	4	voice	#FFFFCC	0.0652085906850038
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	2	4		#FFF1A9	0.107841020940281
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	3	4	hearing	#FFFFCC	0.0708432884805598
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	4	4		#FECB68	0.316856417152123
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	5	4	overt	#FECB68	0.354389205252758
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	6	4		#FDAD4A	0.423477859338241
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	7	4		#FECB68	0.36684626288649
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	8	4	nociceptive|nonpainful|painrelated	#FEE188	0.259460739677184
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	9	4	unpleasantness	#FEE188	0.291251476930142
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	10	4	skin|subjective	#FFF1A9	0.197733419919591
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	11	4	depression	#FEE188	0.284460389886745
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	12	4	experience	#FFF1A9	0.148678222171106
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	13	4	female	#FEE188	0.23138737961644
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	14	4	male	#FEE188	0.280220254630496
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	15	4	pictures	#FFF1A9	0.128580881062396
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	16	4		#FFF1A9	0.195282830666082
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	17	4	perception	#FEE188	0.211535830296137
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	18	4		#FEE188	0.281627436007869
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	19	4		#FEE188	0.289582103712234
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	20	4		#FEE188	0.270740043472222
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	21	4	correct	#FFF1A9	0.185135150581506
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	22	4	work	#FEE188	0.268452423368632
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	23	4	memory	#FFF1A9	0.160706571594725
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	1	5	prosodic|prosody	#FFFFCC	0.0477444031563363
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	2	5	phonetic	#FFFFCC	0.0605277597440457
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	3	5	syllable|syllables	#FFF1A9	0.174665270586632
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	4	5		#FECB68	0.301944059802066
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	5	5	lip|production	#FECB68	0.393226430970709
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	6	5	somatotopic	#FDAD4A	0.467925702201491
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	7	5		#FDAD4A	0.422167953599557
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	8	5		#FECB68	0.34664685692636
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	9	5	empathy	#FECB68	0.315545842961101
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	10	5		#FEE188	0.266778575407487
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	11	5	disorder	#FFF1A9	0.135647403838181
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	12	5		#FEE188	0.232486485221023
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	13	5		#FEE188	0.227345508532077
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	14	5		#FFF1A9	0.187940420270123
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	15	5		#FFF1A9	0.169890259435212
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	16	5		#FFF1A9	0.16719506712533
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	17	5		#FFF1A9	0.181098862502537
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	18	5	mental	#FEE188	0.205742352351068
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	19	5	go	#FEE188	0.226942432521563
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	20	5	object	#FFF1A9	0.185835903352025
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	21	5		#FEE188	0.207090255797004
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	22	5		#FFF1A9	0.149743048539338
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	23	5	word|words	#FFFFCC	0.0521821608118328
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	1	6		#FECB68	0.367214105386502
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	2	6		#FECB68	0.339121745985343
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	3	6		#FECB68	0.34815896967485
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	4	6	vocal	#FEE188	0.26976013939445
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	5	6	articulatory	#FFF1A9	0.19805315470973
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	6	6		#FDAD4A	0.401863642715787
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	7	6	oddball	#FECB68	0.365484496157648
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	8	6	perceived	#FEE188	0.273898511183961
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	9	6	errorrelated	#FEE188	0.21681490378663
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	10	6	approach	#FEE188	0.285317084595239
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	11	6	schizophrenia	#FFF1A9	0.170076470650676
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	12	6	acquisition	#FECB68	0.343534155973269
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	13	6		#FFF1A9	0.164618664874224
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	14	6		#FFFFCC	0.0868974166297305
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	15	6		#FFFFCC	0.0844083489994721
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	16	6		#FFFFCC	0.0989878640446374
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	17	6		#FFF1A9	0.138500893984662
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	18	6		#FFF1A9	0.168702898525292
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	19	6		#FFF1A9	0.182689107719253
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	20	6	objects	#FFF1A9	0.192106753582772
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	21	6		#FFF1A9	0.177098393808551
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	22	6		#FFF1A9	0.122794263679685
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	23	6	language|semantic	#FFFFCC	0.0653729912018222
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	1	7	dopamine|dopaminergic	#FD913D	0.529935744260831
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	2	7		#FD913D	0.516283824870936
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	3	7		#FDAD4A	0.468603847183629
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	4	7		#FDAD4A	0.433922920481724
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	5	7		#FDAD4A	0.410474219740361
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	6	7		#FECB68	0.342029880495133
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	7	7		#FECB68	0.311739212841713
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	8	7		#FEE188	0.26076880524662
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	9	7		#FEE188	0.279663989600099
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	10	7		#FEE188	0.213551283782896
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	11	7		#FEE188	0.207359237459879
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	12	7		#FFF1A9	0.168472721640497
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	13	7	linguistic|spoken	#FFFFCC	0.0414502275980112
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	14	7		#FFFFCC	0.0669672749103571
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	15	7	comprehension|sentence|sentences|syntactic	#FFFFCC	0.030009123608868
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	16	7		#FFFFCC	0.0646963324121422
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	17	7		#FFF1A9	0.110854235527742
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	18	7	phonological|reading|read	#FFF1A9	0.115074534427272
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	19	7		#FFF1A9	0.158462633209335
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	20	7	perceptual|recognition	#FFF1A9	0.171919569512953
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	21	7		#FFF1A9	0.178289843290276
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	22	7		#FFF1A9	0.142773042058205
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	23	7	verb	#FFF1A9	0.169874369673162
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	1	8	outcome|reward	#FDAD4A	0.487486582040209
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	2	8	anticipation	#FD913D	0.50795466154969
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	3	8	outcomes	#FDAD4A	0.447208101393709
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	4	8	choice|choices	#FECB68	0.340048290531376
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	5	8	decisions|probability	#FECB68	0.344395770324074
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	6	8	reversal	#FEE188	0.269875853791796
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	7	8	classification|incorrect	#FFF1A9	0.187579359768726
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	8	8		#FEE188	0.227728598684696
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	9	8	agerelated|fluency|probes	#FFF1A9	0.196280557443124
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	10	8	engaged	#FFF1A9	0.138466019228387
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	11	8	explicit|knowledge	#FFF1A9	0.110557315420057
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	12	8		#FFF1A9	0.104639999007778
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	13	8		#FFFFCC	0.0732606409578559
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	14	8		#FFFFCC	0.0605089012626436
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	15	8		#FFFFCC	0.0640137427582861
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	16	8		#FFFFCC	0.0692963359418927
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	17	8	lexical	#FFFFCC	0.0796400410759467
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	18	8		#FFF1A9	0.118898046399764
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	19	8		#FFF1A9	0.143612537120083
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	20	8		#FFF1A9	0.160029897938182
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	21	8	encoding	#FFF1A9	0.153019697398083
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	22	8	retrieval	#FFF1A9	0.14528735590683
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	23	8	verbal	#FEE188	0.228478106874919
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	1	9	incentive|monetary|money|rewards	#FDAD4A	0.451660146230001
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	2	9	loss	#FDAD4A	0.490952006266395
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	3	9		#FDAD4A	0.429415403790762
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	4	9		#FECB68	0.382113833714772
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	5	9	decisionmaking	#FECB68	0.317724785383985
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	6	9		#FEE188	0.241172897081476
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	7	9		#FFF1A9	0.195307561258868
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	8	9		#FFF1A9	0.186506080651056
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	9	9		#FFF1A9	0.162699852441795
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	10	9		#FFF1A9	0.132258739118473
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	11	9		#FFFFCC	0.0904102032583513
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	12	9		#FFFFCC	0.0776935851709312
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	13	9	noun	#FFFFCC	0.0129044938800107
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	14	9	meaning	#FFFFCC	0.079030418087872
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	15	9	english	#FFFFCC	0.0911195145521055
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	16	9	pseudoword|pseudowords	#FFFFCC	0.09595938176437
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	17	9		#FFFFCC	0.0864766944027175
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	18	9		#FFF1A9	0.118936848999371
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	19	9	familiar|judgment	#FFF1A9	0.10156479592573
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	20	9	pair|pairs	#FFF1A9	0.137287742279627
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	21	9		#FEE188	0.231434277827623
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	22	9		#FEE188	0.2480158042955
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	23	9	letter|working	#FEE188	0.228302516944132
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	1	10	losses|reinforcement|win	#FDAD4A	0.430798076847367
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	2	10	gain	#FDAD4A	0.475283265440992
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	3	10	expectation	#FEE188	0.279803716221151
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	4	10	risk	#FFF1A9	0.169826663328301
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	5	10	fact	#FFF1A9	0.185197658811623
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	6	10	associative	#FEE188	0.254169080926039
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	7	10	familiarity|judgments|old	#FFFFCC	0.0769213393829137
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	8	10	contextual|text	#FFFFCC	0.0514692492890546
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	9	10	recall|retrieved	#FFFFCC	0.0919574620378571
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	10	10	conceptual|semantically	#FFFFCC	0.0474112938792067
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	11	10	grammatical|speakers	#FFFFCC	0.036047435794472
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	12	10	nouns	#FFFFCC	0.0472510570929835
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	13	10	japanese	#FFFFCC	0.0406826773168438
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	14	10	languages	#FFFFCC	0.071220355284262
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	15	10	written	#FFFFCC	0.0718010812665775
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	16	10	chinese|phonology	#FFFFCC	0.0573170231087661
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	17	10	orthographic	#FFFFCC	0.0580439003550663
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	18	10		#FFF1A9	0.140456207487287
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	19	10		#FFF1A9	0.17504290195245
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	20	10	association|decision	#FEE188	0.267181723642685
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	21	10	selection	#FEE188	0.269880544800002
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	22	10	letters	#FFF1A9	0.187513003768902
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	23	10	demand|load	#FEE188	0.284799528287855
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	1	11	conditioned|conditioning	#FEE188	0.261345554524443
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	2	11		#FECB68	0.34849839988344
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	3	11	drug|placebo	#FECB68	0.353151893724644
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	4	11		#FEE188	0.253627898735445
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	5	11	associations	#FEE188	0.205883331851343
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	6	11		#FFF1A9	0.143875195983743
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	7	11	episodic|recollection	#FFFFCC	0.0916734160557716
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	8	11		#FFF1A9	0.116302077172476
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	9	11		#FFF1A9	0.109437236458453
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	10	11	concepts	#FFFFCC	0.0907064588630551
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	11	11		#FFF1A9	0.120060913513353
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	12	11		#FFF1A9	0.152157576739276
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	13	11	german	#FFF1A9	0.145452100997668
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	14	11	readers	#FFF1A9	0.171670870619979
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	15	11	character|name|naming	#FFFFCC	0.0880782754624075
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	16	11		#FFF1A9	0.107538786636909
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	17	11	novel	#FFF1A9	0.123781123565927
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	18	11		#FFF1A9	0.163428681941439
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	19	11	child|children	#FFF1A9	0.126006914428619
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	20	11	adults	#FEE188	0.255931030568443
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	21	11	ability|feedback|learning	#FDAD4A	0.483325965586401
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	22	11	cues|delay	#FECB68	0.351018001708555
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	23	11	attentional|difficulty|targets	#FEE188	0.250579045221869
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	1	12	aversive|shock	#FFF1A9	0.187563197359501
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	2	12	reactivity	#FFF1A9	0.120113842420161
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	3	12	males|sex|women	#FFF1A9	0.117645008218484
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	4	12	animal	#FEE188	0.206215320900096
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	5	12	animals	#FFFFCC	0.0443227945026275
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	6	12		#FFF1A9	0.111972781230959
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	7	12	remember|subsequent	#FFFFCC	0.0509376989645733
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	8	12	autobiographical|memories	#FFFFCC	0.0873177726897327
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	9	12		#FFF1A9	0.116476470447095
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	10	12	violation|violations	#FFFFCC	0.0628429462092249
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	11	12	aphasia	#FFF1A9	0.149354502707027
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	12	12	nonwords	#FEE188	0.282081630239059
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	13	12	dyslexia	#FEE188	0.277798004875376
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	14	12		#FFF1A9	0.179717254283766
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	15	12	priming	#FFFFCC	0.0861216854516059
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	16	12		#FFF1A9	0.139299436687879
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	17	12	category|repetition	#FFF1A9	0.1483788996376
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	18	12		#FFF1A9	0.170941381522991
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	19	12	developmental|development	#FFF1A9	0.188552783286305
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	20	12		#FEE188	0.240593129772629
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	21	12	space	#FEE188	0.279754374656008
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	22	12		#FEE188	0.259547548356563
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	23	12	color	#FFF1A9	0.168394928742343
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	1	13	threat	#FFFFCC	0.0582875777643594
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	2	13	regulation	#FFFFCC	0.0661919530243264
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	3	13		#FFF1A9	0.141358131452126
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	4	13	masked	#FFFFCC	0.0412525353629016
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	5	13	scene|scenes	#FFFFCC	0.0542434552578246
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	6	13		#FFFFCC	0.0947468214734919
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	7	13	confidence|remembered	#FFFFCC	0.0613391752864954
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	8	13		#FFF1A9	0.110542831937588
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	9	13		#FFF1A9	0.121179937297683
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	10	13	ambiguity|ambiguous	#FFFFCC	0
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	11	13		#FFF1A9	0.188712835574025
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	12	13		#FECB68	0.304705661957597
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	13	13	writing	#FECB68	0.382974588623375
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	14	13		#FEE188	0.249237451024331
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	15	13	categorization|congruency|prime	#FFF1A9	0.12208994414191
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	16	13		#FFF1A9	0.160047354563709
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	17	13	mask	#FFF1A9	0.125457270364744
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	18	13		#FEE188	0.217824715545578
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	19	13		#FEE188	0.270362299379494
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	20	13		#FEE188	0.238672601508179
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	21	13	conflict|congruent|incongruent	#FFF1A9	0.152523514966488
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	22	13	errors	#FEE188	0.213090888176721
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	23	13	maintenance|probe|wm	#FFF1A9	0.1537557292896
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	1	14	angry|fearful|happy	#FFFFCC	0.0437240904551549
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	2	14		#FFFFCC	0.0592685445261092
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	3	14	awareness|conscious|ptsd	#FFFFCC	0.0620818808254886
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	4	14		#FFF1A9	0.104779264010525
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	5	14	houses|photographs	#FFFFCC	0.0477023301079786
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	6	14		#FFF1A9	0.118105978751401
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	7	14	hits	#FFF1A9	0.124282544641503
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	8	14	famous	#FFFFCC	0.0713746852084115
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	9	14	names	#FFFFCC	0.0962419452252589
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	10	14	family	#FFF1A9	0.113319701106136
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	11	14	competition|mouth	#FFF1A9	0.194430043748643
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	12	14	abilities	#FFF1A9	0.189453104532482
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	13	14	implicit|unfamiliar	#FFF1A9	0.115700218621401
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	14	14		#FEE188	0.229459787516031
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	15	14	tom	#FFF1A9	0.156552269392693
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	16	14		#FFF1A9	0.184556400413999
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	17	14		#FFF1A9	0.190110940026829
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	18	14	stop	#FEE188	0.217461698637977
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	19	14	inhibition|inhibitory|nogo	#FECB68	0.367774553220032
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	20	14	monitoring|stroop	#FEE188	0.210018941841787
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	21	14	interference	#FFF1A9	0.141654394272657
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	22	14		#FFF1A9	0.198380051496143
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	23	14	demands|executive	#FEE188	0.241717220857431
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	1	15	anger	#FFFFCC	0.0178808681614797
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	2	15	stress	#FFFFCC	0.0500015405197561
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	3	15	feelings	#FFFFCC	0.0645919806290275
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	4	15	salient	#FFF1A9	0.0995889496821742
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	5	15	novelty	#FFFFCC	0.0925946761545587
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	6	15	movie	#FFF1A9	0.111874384075831
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	7	15		#FFF1A9	0.139735296862909
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	8	15		#FFF1A9	0.153234213831081
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	9	15	longterm	#FFFFCC	0.0879388387897687
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	10	15		#FFF1A9	0.17135264697515
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	11	15	reasoning|relational	#FFF1A9	0.110567794752711
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	12	15		#FEE188	0.21001738690169
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	13	15	presentations	#FFFFCC	0.0968927171599672
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	14	15		#FEE188	0.209416465069568
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	15	15	identity	#FFF1A9	0.191581464974778
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	16	15		#FEE188	0.19988899339014
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	17	15	strategies|strategy	#FFF1A9	0.120791218709975
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	18	15	card|cards	#FEE188	0.230686428588419
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	19	15	gonogo	#FEE188	0.292240470866218
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	20	15		#FEE188	0.257930991143999
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	21	15	switching|switch	#FFF1A9	0.120605596788417
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	22	15		#FFF1A9	0.193889847970714
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	23	15	2back|rule	#FEE188	0.257206292784358
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	1	16	emotionally|mood|personality|sadness	#FFFFCC	0.0792727187768536
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	2	16	disgust|sexual	#FFF1A9	0.165402425138427
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	3	16	olfactory	#FFF1A9	0.157274147698697
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	4	16	physiological	#FEE188	0.209723300092975
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	5	16	depressed|depressive|habituation	#FFF1A9	0.14777404714493
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	6	16	schizophrenic	#FFF1A9	0.136791372367408
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	7	16	colors|contexts	#FFFFCC	0.0592889624598431
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	8	16	aging|encoded	#FFFFCC	0.0924700015926043
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	9	16	goal	#FFF1A9	0.118167737286658
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	10	16		#FFF1A9	0.174364991950508
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	11	16	autism|autistic|nonverbal	#FFF1A9	0.186547743713165
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	12	16		#FFF1A9	0.157926755063321
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	13	16	bottomup|repetitions	#FFF1A9	0.130868297166192
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	14	16	adaptation	#FFF1A9	0.160939335302824
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	15	16	irrelevant	#FFF1A9	0.143012943536613
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	16	16	distractor|distractors	#FEE188	0.225351979802023
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	17	16		#FEE188	0.209801454376472
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	18	16	subtraction	#FFFFCC	0.0629989223793417
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	19	16	1back|nback	#FECB68	0.362311411242198
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	20	16	manipulation|rules	#FFF1A9	0.154117674596984
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	21	16		#FEE188	0.201680099374751
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	22	16		#FFF1A9	0.183032372696155
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	23	16	digit	#FEE188	0.238196966846619
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	1	17	avoidance	#FFF1A9	0.139287789417152
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	2	17		#FEE188	0.285013961958232
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	3	17	eating|food	#FFF1A9	0.175271846871948
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	4	17	taste	#FFF1A9	0.140473158732334
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	5	17	bipolar	#FFF1A9	0.135484400796756
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	6	17	illness|uncertainty	#FEE188	0.273748450522767
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	7	17	females|probabilistic	#FEE188	0.213110011128943
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	8	17	rejection	#FFFFCC	0.0297387585153781
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	9	17	colour|paired	#FEE188	0.267452881107957
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	10	17		#FEE188	0.247932131334776
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	11	17		#FEE188	0.265183282888902
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	12	17		#FEE188	0.203248822986275
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	13	17	taskirrelevant	#FFF1A9	0.101101134090129
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	14	17		#FFF1A9	0.176425229703732
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	15	17	suppression	#FFF1A9	0.199100837347573
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	16	17		#FEE188	0.237515442196214
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	17	17	shifting|shortterm	#FFF1A9	0.195155851309568
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	18	17	digits	#FFF1A9	0.186233373610788
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	19	17	search	#FEE188	0.25058854027868
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	20	17	counting|taskrelated	#FEE188	0.292975062307679
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	21	17	topdown	#FFF1A9	0.195799620973121
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	22	17	visuospatial	#FFF1A9	0.180049086068154
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	23	17	arithmetic|calculation|solving	#FFF1A9	0.0997663118676829
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	1	18	addiction|craving|drugs	#FECB68	0.305400052265288
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	2	18	allele|genotype|polymorphism	#FECB68	0.342203080734904
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	3	18	motivation	#FEE188	0.241956022231424
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	4	18	heart	#FECB68	0.333860330281687
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	5	18	sleep	#FDAD4A	0.426534649237623
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	6	18	expectancy	#FEE188	0.254548060312829
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	7	18	phasic|salience	#FFF1A9	0.147413889239412
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	8	18	adolescence|adolescents	#FFFFCC	0.0929949653588945
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	9	18	intelligence|tracking	#FECB68	0.362140813313317
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	10	18		#FECB68	0.349916352637628
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	11	18	serial	#FEE188	0.293227206788192
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	12	18		#FEE188	0.258482662760797
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	13	18	spatially|taskrelevant	#FFF1A9	0.155414509348117
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	14	18		#FEE188	0.203132283504922
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	15	18	attended|attend|unattended	#FFF1A9	0.165989260698601
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	16	18	rotation|shapes	#FFF1A9	0.175757248293991
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	17	18	rehearsal	#FEE188	0.244686649002375
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	18	18	learned	#FECB68	0.354381928071182
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	19	18		#FDAD4A	0.404700798870074
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	20	18	cued|preparatory	#FEE188	0.246643659168545
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	21	18		#FECB68	0.390178060045582
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	22	18		#FEE188	0.272082498368141
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	23	18	numbers|numerical	#FFF1A9	0.180047337082882
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	1	19	future	#FFF1A9	0.168622689295867
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	2	19	negatively	#FFF1A9	0.183474827680946
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	3	19	distress|epilepsy|selfreported	#FEE188	0.23101313662871
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	4	19	anticipatory|cocaine|probabilities|smoking	#FD913D	0.585565689991193
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	5	19	alcohol|amount|impulsivity	#FDAD4A	0.457413158976554
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	6	19	game|success	#FFF1A9	0.194114791386335
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	7	19	adhd|childhood|engagement	#FFF1A9	0.18219967501341
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	8	19		#FEE188	0.250614565207544
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	9	19		#FECB68	0.356469693767402
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	10	19		#FECB68	0.396380920028699
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	11	19		#FECB68	0.386839111092776
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	12	19	endogenous	#FEE188	0.204590210566141
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	13	19	cueing|invalid|orienting	#FFF1A9	0.170098720919014
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	14	19		#FEE188	0.247272324419451
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	15	19	multisensory	#FEE188	0.218358647504774
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	16	19		#FEE188	0.257680489922136
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	17	19	shifts	#FECB68	0.349107759394345
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	18	19	covert	#FECB68	0.384774153364927
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	19	19		#FDAD4A	0.420422401764199
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	20	19	preparation	#FD913D	0.505420567457802
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	21	19	discrimination|training	#FECB68	0.312566576633216
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	22	19	sequences	#FD913D	0.590053814534206
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	23	19		#FC622F	0.638941394474258
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	1	20	personal|self|selfreferential|trait|traits	#FFF1A9	0.165762212828093
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	2	20	empathic|theory	#FFF1A9	0.15677585091869
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	3	20	attribution|intentional	#FFFFCC	0.0336234537065921
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	4	20	elderly|oscillations	#FEE188	0.211854768657487
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	5	20	antipsychotic|virtual	#FFF1A9	0.179740566445229
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	6	20		#FDAD4A	0.429892309232651
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	7	20	experiences	#FFF1A9	0.150893418164588
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	8	20	categorical|pressure	#FFF1A9	0.187355846255203
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	9	20	play|skills	#FEE188	0.245311513073149
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	10	20	automatic|trained	#FECB68	0.3103961120374
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	11	20		#F03623	0.732714411187391
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	12	20	practice	#FD913D	0.565461283009654
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	13	20	visuomotor	#FC622F	0.601507109679927
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	14	20		#FDAD4A	0.455386833052476
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	15	20	tool	#FFF1A9	0.18646221906327
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	16	20	vision	#FEE188	0.232074101849157
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	17	20	visually	#FECB68	0.354560483508903
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	18	20	saccade|saccades|saccadic	#FECB68	0.315793243434149
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	19	20	locations	#FECB68	0.350947889078469
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	20	20	imagery|planning	#FDAD4A	0.416437220145132
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	21	20		#FD913D	0.585070638462892
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	22	20	rest	#FC622F	0.620267947309597
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	23	20	sequence	#FC622F	0.633233014068363
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	1	21	scenarios	#FFFFCC	0.0432420412090441
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	2	21	intention|intentions	#FFFFCC	0.0861111023091465
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	3	21	causality|perspective	#FFF1A9	0.19153374803706
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	4	21	past	#FFF1A9	0.106440489074163
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	5	21		#FECB68	0.395475489173002
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	6	21	episode	#FECB68	0.31625534724308
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	7	21	improvement	#FD913D	0.566260574341082
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	8	21	masking|retention	#FFF1A9	0.132620672293437
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	9	21		#FD913D	0.554817700000753
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	10	21	dominant	#FD913D	0.50100426676778
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	11	21		#B10026	0.915208856579037
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	12	21	sequential	#D7141E	0.81256300431024
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	13	21	fingers	#D7141E	0.801139622121894
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	14	21		#FDAD4A	0.425576700330022
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	15	21	gesture|gestures	#FFF1A9	0.166110103651227
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	16	21		#FECB68	0.383513537313728
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	17	21	hands	#FECB68	0.378839958856129
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	18	21		#FDAD4A	0.433409028177362
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	19	21		#FDAD4A	0.400763954600242
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	20	21	eye|position	#FECB68	0.383988441372873
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	21	21	execution	#FC622F	0.641882983087049
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	22	21	finger|sensorimotor	#B10026	0.960761876789274
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	23	21		#F03623	0.750295566581898
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	1	22	moral|stories|story	#FFFFCC	0.0858616103630085
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	2	22	mentalizing|persons	#FFF1A9	0.120176107145498
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	3	22	default|restingstate	#FFF1A9	0.15065145780909
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	4	22	thinking|thought|thoughts	#FEE188	0.201933362356545
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	5	22	spontaneous	#FECB68	0.324772657204054
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	6	22	concentration|sensations	#FECB68	0.320833157243403
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	7	22	hierarchical|preference	#FFF1A9	0.153628454953747
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	8	22	effort|oral|simulation	#FDAD4A	0.439073711528232
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	9	22	interhemispheric|plasticity	#FDAD4A	0.423932844251008
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	10	22	imagined|imagine	#FC622F	0.616070675382635
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	11	22	tapping	#B10026	1
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	12	22	foot|muscle|muscles|voluntary	#F03623	0.798996386825351
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	13	22	limb	#D7141E	0.857486697806816
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	14	22	eyes|velocity	#FDAD4A	0.496578302329646
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	15	22	biological|gaze|videos	#FFF1A9	0.1448171266056
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	16	22	body	#FDAD4A	0.497231496818706
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	17	22	grasping|orientation|reaching	#FDAD4A	0.411204974873209
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	18	22		#FDAD4A	0.441926053185382
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	19	22	mirror|shape	#FECB68	0.316659312559593
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	20	22	actions	#FDAD4A	0.418809507961337
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	21	22	action	#FECB68	0.398285150712257
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	22	22		#F03623	0.708960213626862
+308ffb2f-be2f-31de-b4a8-81b9a1c935a0	De Stefano N	23	22	hand|movements|sensory	#FC622F	0.68574650930201

@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	1	1	auditory|speech	#F03623	0.724996584016834
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	2	1		#F03623	0.729985282282838
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	3	1	da|integration	#FC622F	0.678392011698322
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	4	1		#B10026	0.982525425709472
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	5	1	physical|psychophysical|tactile	#B10026	0.943172479935539
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	6	1		#D7141E	0.868967994764491
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	7	1	somatosensory|stimulation	#F03623	0.713675991686712
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	8	1	painful|pain	#FD913D	0.550639464019232
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	9	1		#FD913D	0.57224302458999
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	10	1	ratings	#FDAD4A	0.432487688439257
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	11	1	affective|affect	#FECB68	0.359560863739084
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	12	1	emotions	#FECB68	0.376825652961298
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	13	1	expression|expressions|facial	#FFF1A9	0.190985370972792
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	14	1		#FDAD4A	0.400630690345537
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	15	1		#FDAD4A	0.45073782787274
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	16	1	emotion|motion|neutral	#FDAD4A	0.444586596735827
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	17	1	rating	#FDAD4A	0.438096258597332
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	18	1	negative|positive	#FDAD4A	0.429543985365703
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	19	1		#FD913D	0.581889303119979
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	20	1	ear|order	#FD913D	0.570566148863348
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	21	1	motor	#FD913D	0.589659115509696
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	22	1	visual	#FD913D	0.573098738458936
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	23	1	age|image|response	#FD913D	0.564011665768488
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	1	2	sound|sounds	#FC622F	0.647276212581827
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	2	2		#F03623	0.716653054764472
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	3	2	audiovisual|bimodal|crossmodal	#FC622F	0.648492605817806
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	4	2		#B10026	0.981653060834434
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	5	2		#B10026	1
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	6	2		#B10026	0.902013056292134
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	7	2	sensation	#FD913D	0.502012710262504
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	8	2	heat|noxious	#FD913D	0.517550014054433
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	9	2		#FD913D	0.578837074928494
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	10	2		#FDAD4A	0.494805464288052
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	11	2		#FDAD4A	0.456598119062692
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	12	2	valence	#FECB68	0.342362798670699
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	13	2	person|social	#FDAD4A	0.466240790230596
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	14	2		#FDAD4A	0.416084732163913
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	15	2	face|faces	#FDAD4A	0.439073015030697
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	16	2		#FD913D	0.503449619504011
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	17	2		#FD913D	0.51682040581761
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	18	2		#FD913D	0.578971818648389
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	19	2		#FC622F	0.616049689647615
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	20	2		#FC622F	0.648388653328549
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	21	2	images|spatial	#FC622F	0.64527876325391
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	22	2	control	#FD913D	0.554506129728485
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	23	2	time	#FD913D	0.583353269411015
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	1	3	acoustic|listening|musical|music|pitch	#FD913D	0.583326297737711
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	2	3	noise|tones	#FD913D	0.596236574446789
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	3	3		#D7141E	0.837462257468986
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	4	3		#B10026	0.933231234308154
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	5	3	frequency	#D7141E	0.90012150766054
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	6	3		#B10026	0.930215979486771
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	7	3		#FC622F	0.642640610205274
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	8	3	temperature	#FDAD4A	0.427477867643776
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	9	3		#FD913D	0.581353187854362
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	10	3	pleasant|unpleasant	#FECB68	0.391566324218594
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	11	3	anxiety	#FECB68	0.337418617665932
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	12	3		#FDAD4A	0.49059686515603
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	13	3		#FD913D	0.541115504414067
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	14	3		#FDAD4A	0.486694974991753
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	15	3		#FD913D	0.503663978440724
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	16	3	picture	#FD913D	0.501078078021746
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	17	3		#FD913D	0.595593760440714
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	18	3	value	#FC622F	0.631694341539137
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	19	3	cue	#FC622F	0.68737220099863
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	20	3	error|target	#FC622F	0.64043295848417
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	21	3	attention	#FC622F	0.624135770648218
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	22	3		#FC622F	0.618314604399533
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	23	3	number	#FD913D	0.584415095753746
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	1	4	voice	#FDAD4A	0.42067513274115
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	2	4		#FC622F	0.644663795947562
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	3	4	hearing	#F03623	0.703480131961064
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	4	4		#D7141E	0.869336480635171
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	5	4	overt	#D7141E	0.85437977174194
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	6	4		#D7141E	0.883380113423173
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	7	4		#F03623	0.717193714269699
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	8	4	nociceptive|nonpainful|painrelated	#FD913D	0.521794101406423
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	9	4	unpleasantness	#FD913D	0.579954751033144
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	10	4	skin|subjective	#FDAD4A	0.494488867294095
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	11	4	depression	#FD913D	0.531511566659507
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	12	4	experience	#FD913D	0.540525580844987
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	13	4	female	#FD913D	0.552867113759783
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	14	4	male	#FD913D	0.563549855482457
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	15	4	pictures	#FDAD4A	0.449181119903896
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	16	4		#FC622F	0.603467353460996
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	17	4	perception	#FC622F	0.633071337439448
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	18	4		#F03623	0.705979881024796
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	19	4		#FC622F	0.691356468696933
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	20	4		#FC622F	0.666984868032777
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	21	4	correct	#FD913D	0.588458019895152
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	22	4	work	#FC622F	0.645443751962077
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	23	4	memory	#FD913D	0.591631732430233
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	1	5	prosodic|prosody	#FECB68	0.317528232658649
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	2	5	phonetic	#FC622F	0.653727833141444
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	3	5	syllable|syllables	#FC622F	0.681810629175952
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	4	5		#D7141E	0.830054734980182
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	5	5	lip|production	#F03623	0.785755116359834
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	6	5	somatotopic	#FC622F	0.636840208617499
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	7	5		#F03623	0.718003642431792
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	8	5		#FD913D	0.572366342682734
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	9	5	empathy	#FD913D	0.542564073863346
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	10	5		#FD913D	0.584906664274126
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	11	5	disorder	#FDAD4A	0.449064991397108
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	12	5		#FC622F	0.647307873242495
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	13	5		#FC622F	0.651375534576866
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	14	5		#FC622F	0.606996161022753
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	15	5		#FD913D	0.590948462550852
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	16	5		#FC622F	0.636750005814101
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	17	5		#FC622F	0.682579052257311
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	18	5	mental	#F03623	0.715002137074012
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	19	5	go	#FC622F	0.637667065836306
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	20	5	object	#FD913D	0.515827955105594
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	21	5		#FC622F	0.630542916951571
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	22	5		#FD913D	0.583624855073253
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	23	5	word|words	#FD913D	0.503567942509613
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	1	6		#FD913D	0.564449022351973
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	2	6		#FC622F	0.641540691606329
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	3	6		#D7141E	0.841072914483408
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	4	6	vocal	#FC622F	0.655501327088871
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	5	6	articulatory	#FD913D	0.564227244554536
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	6	6		#D7141E	0.807752932067515
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	7	6	oddball	#FD913D	0.549038898269528
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	8	6	perceived	#FEE188	0.293416294445667
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	9	6	errorrelated	#FDAD4A	0.440731598060819
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	10	6	approach	#FDAD4A	0.409345424211971
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	11	6	schizophrenia	#FD913D	0.51577441871206
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	12	6	acquisition	#F03623	0.758958529138516
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	13	6		#FC622F	0.649577195863046
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	14	6		#FD913D	0.520641429472541
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	15	6		#FD913D	0.502955497794692
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	16	6		#FD913D	0.538346610524262
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	17	6		#FC622F	0.642514992874212
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	18	6		#FC622F	0.668456585724984
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	19	6		#FC622F	0.675239283845756
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	20	6	objects	#FC622F	0.600680746018603
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	21	6		#FC622F	0.633461049901132
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	22	6		#FD913D	0.547213658286208
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	23	6	language|semantic	#FDAD4A	0.457074648708719
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	1	7	dopamine|dopaminergic	#FFF1A9	0.119942583700703
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	2	7		#FECB68	0.300428318993566
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	3	7		#FC622F	0.631629960150587
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	4	7		#F03623	0.773551539767103
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	5	7		#F03623	0.778571604727772
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	6	7		#FC622F	0.688952152752157
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	7	7		#FC622F	0.613358169958432
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	8	7		#FDAD4A	0.473751538258907
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	9	7		#FD913D	0.519207994608285
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	10	7		#FC622F	0.646611922062803
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	11	7		#F03623	0.710194459135267
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	12	7		#F03623	0.728054420181263
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	13	7	linguistic|spoken	#FD913D	0.558523655614648
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	14	7		#FDAD4A	0.491062776771389
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	15	7	comprehension|sentence|sentences|syntactic	#FECB68	0.367988087458147
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	16	7		#FDAD4A	0.475683259726299
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	17	7		#FD913D	0.576404445847002
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	18	7	phonological|reading|read	#FD913D	0.583954446735266
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	19	7		#FC622F	0.649414232961312
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	20	7	perceptual|recognition	#FD913D	0.59825684456819
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	21	7		#FC622F	0.655863357126833
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	22	7		#FD913D	0.578668631348582
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	23	7	verb	#FD913D	0.559341782506201
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	1	8	outcome|reward	#FEE188	0.228053986878467
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	2	8	anticipation	#FFF1A9	0.196901624736695
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	3	8	outcomes	#FECB68	0.325487278556811
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	4	8	choice|choices	#FDAD4A	0.475557456442139
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	5	8	decisions|probability	#FC622F	0.648010039525266
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	6	8	reversal	#FDAD4A	0.465399076275418
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	7	8	classification|incorrect	#FEE188	0.263154629959718
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	8	8		#FDAD4A	0.474407768400791
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	9	8	agerelated|fluency|probes	#FDAD4A	0.415973955271811
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	10	8	engaged	#F03623	0.748081613947143
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	11	8	explicit|knowledge	#FD913D	0.561292030187799
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	12	8		#FC622F	0.648875733187824
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	13	8		#FD913D	0.510016292440783
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	14	8		#FDAD4A	0.492787289982133
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	15	8		#FDAD4A	0.49003621614233
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	16	8		#FD913D	0.507615579829191
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	17	8	lexical	#FDAD4A	0.410711580601137
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	18	8		#FD913D	0.583001157493489
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	19	8		#FC622F	0.629280201737087
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	20	8		#FC622F	0.650714048521553
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	21	8	encoding	#FC622F	0.61747184537049
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	22	8	retrieval	#FD913D	0.554320014706873
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	23	8	verbal	#FC622F	0.633240591113464
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	1	9	incentive|monetary|money|rewards	#FFF1A9	0.150241076064957
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	2	9	loss	#FEE188	0.204476886384052
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	3	9		#FDAD4A	0.425437600773357
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	4	9		#FD913D	0.523900833800881
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	5	9	decisionmaking	#FD913D	0.52141091755917
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	6	9		#FD913D	0.545508021813388
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	7	9		#FD913D	0.523711828816777
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	8	9		#FD913D	0.511319574359205
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	9	9		#FD913D	0.568671044998979
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	10	9		#FC622F	0.622169230330742
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	11	9		#FC622F	0.62805425692236
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	12	9		#FD913D	0.591827679146749
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	13	9	noun	#FECB68	0.343139449975309
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	14	9	meaning	#FECB68	0.383280696746275
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	15	9	english	#FC622F	0.618620737459728
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	16	9	pseudoword|pseudowords	#FDAD4A	0.438515391108916
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	17	9		#FD913D	0.563175313843968
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	18	9		#FD913D	0.588502467182489
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	19	9	familiar|judgment	#FD913D	0.532777341150025
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	20	9	pair|pairs	#FC622F	0.611521027980072
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	21	9		#F03623	0.710602527902397
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	22	9		#F03623	0.712225534816458
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	23	9	letter|working	#FC622F	0.698374413915567
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	1	10	losses|reinforcement|win	#FFF1A9	0.100238844963203
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	2	10	gain	#FFF1A9	0.117293922508074
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	3	10	expectation	#FFF1A9	0.125339370134847
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	4	10	risk	#FDAD4A	0.457038768968968
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	5	10	fact	#FECB68	0.366005508050507
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	6	10	associative	#FDAD4A	0.42246601161725
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	7	10	familiarity|judgments|old	#FD913D	0.546462425014485
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	8	10	contextual|text	#FD913D	0.531744555308711
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	9	10	recall|retrieved	#FD913D	0.538679654076007
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	10	10	conceptual|semantically	#FDAD4A	0.433576129084967
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	11	10	grammatical|speakers	#FD913D	0.527779367938884
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	12	10	nouns	#FECB68	0.321493678928622
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	13	10	japanese	#FDAD4A	0.489292143008333
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	14	10	languages	#FDAD4A	0.439322493784034
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	15	10	written	#FDAD4A	0.47105359453251
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	16	10	chinese|phonology	#FD913D	0.595144360131696
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	17	10	orthographic	#FD913D	0.50247097351044
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	18	10		#FC622F	0.644397846865557
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	19	10		#FC622F	0.66176998035033
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	20	10	association|decision	#FD913D	0.593608868325688
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	21	10	selection	#FC622F	0.629795905268169
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	22	10	letters	#FC622F	0.647957524395437
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	23	10	demand|load	#FC622F	0.662463615990905
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	1	11	conditioned|conditioning	#FFFFCC	0.078803615918457
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	2	11		#FEE188	0.263416413771487
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	3	11	drug|placebo	#FECB68	0.302580719570058
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	4	11		#FDAD4A	0.43157216750636
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	5	11	associations	#FECB68	0.369594439381173
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	6	11		#FD913D	0.540431178105723
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	7	11	episodic|recollection	#FDAD4A	0.49916053507856
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	8	11		#FD913D	0.55972749521599
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	9	11		#FC622F	0.625166835455369
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	10	11	concepts	#FDAD4A	0.499166230727831
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	11	11		#FD913D	0.563681001703515
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	12	11		#FD913D	0.538771080446824
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	13	11	german	#FECB68	0.342847149642385
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	14	11	readers	#FECB68	0.360348457598681
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	15	11	character|name|naming	#FDAD4A	0.402129237225266
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	16	11		#FC622F	0.603695442094248
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	17	11	novel	#FC622F	0.662310342050894
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	18	11		#FC622F	0.659798924149623
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	19	11	child|children	#FC622F	0.649586246404515
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	20	11	adults	#FC622F	0.692053993023266
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	21	11	ability|feedback|learning	#FC622F	0.683715750279502
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	22	11	cues|delay	#FC622F	0.689296080520847
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	23	11	attentional|difficulty|targets	#FC622F	0.665986820004861
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	1	12	aversive|shock	#FEE188	0.243356168452709
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	2	12	reactivity	#FEE188	0.216846631992695
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	3	12	males|sex|women	#FECB68	0.348811795000063
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	4	12	animal	#FFF1A9	0.177988609124164
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	5	12	animals	#FFF1A9	0.128297408677389
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	6	12		#FDAD4A	0.47463830933175
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	7	12	remember|subsequent	#FEE188	0.287073187734898
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	8	12	autobiographical|memories	#FDAD4A	0.459738038486182
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	9	12		#FC622F	0.644400937162323
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	10	12	violation|violations	#FC622F	0.667450645611678
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	11	12	aphasia	#FDAD4A	0.496274895645387
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	12	12	nonwords	#FDAD4A	0.4078516654096
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	13	12	dyslexia	#FECB68	0.379894261615112
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	14	12		#FD913D	0.550685007720214
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	15	12	priming	#FDAD4A	0.415829381639125
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	16	12		#FC622F	0.649554320047193
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	17	12	category|repetition	#FC622F	0.633138082875695
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	18	12		#FC622F	0.686345605730421
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	19	12	developmental|development	#FD913D	0.520823092470149
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	20	12		#F03623	0.726473052799632
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	21	12	space	#F03623	0.717056998586108
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	22	12		#FC622F	0.689069468818273
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	23	12	color	#FD913D	0.57634556850416
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	1	13	threat	#FFF1A9	0.180336503603165
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	2	13	regulation	#FECB68	0.30835873076627
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	3	13		#FECB68	0.359851106961331
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	4	13	masked	#FECB68	0.390165552359621
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	5	13	scene|scenes	#FECB68	0.353953168464265
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	6	13		#FDAD4A	0.476928876681961
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	7	13	confidence|remembered	#FEE188	0.200911051403754
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	8	13		#FD913D	0.533202006517247
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	9	13		#FC622F	0.661104140747082
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	10	13	ambiguity|ambiguous	#FEE188	0.214129166502129
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	11	13		#FC622F	0.660263198656939
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	12	13		#FC622F	0.635134235716272
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	13	13	writing	#FDAD4A	0.49173211301042
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	14	13		#FC622F	0.602406442842098
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	15	13	categorization|congruency|prime	#FD913D	0.573438799599473
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	16	13		#FC622F	0.668146450925031
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	17	13	mask	#FC622F	0.666798740029041
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	18	13		#FC622F	0.680015416922197
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	19	13		#FC622F	0.636333627158211
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	20	13		#FC622F	0.67799565255278
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	21	13	conflict|congruent|incongruent	#FC622F	0.669912925302285
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	22	13	errors	#FD913D	0.593004549830789
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	23	13	maintenance|probe|wm	#FD913D	0.533233907047098
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	1	14	angry|fearful|happy	#FFFFCC	0.0974263145806692
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	2	14		#FEE188	0.226573744721918
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	3	14	awareness|conscious|ptsd	#FECB68	0.394250351340723
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	4	14		#FDAD4A	0.486444848207772
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	5	14	houses|photographs	#FEE188	0.281561515726335
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	6	14		#FD913D	0.52478697031737
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	7	14	hits	#FD913D	0.51510089220971
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	8	14	famous	#FFF1A9	0.198773624892934
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	9	14	names	#FEE188	0.293585933601199
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	10	14	family	#FD913D	0.52616636542531
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	11	14	competition|mouth	#FC622F	0.685301081999364
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	12	14	abilities	#FD913D	0.549806984740237
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	13	14	implicit|unfamiliar	#FDAD4A	0.412616870788484
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	14	14		#FD913D	0.579686468930438
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	15	14	tom	#FD913D	0.526919086863198
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	16	14		#FC622F	0.644251288563355
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	17	14		#FC622F	0.70025004914957
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	18	14	stop	#FDAD4A	0.453746505732493
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	19	14	inhibition|inhibitory|nogo	#FDAD4A	0.493234973393168
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	20	14	monitoring|stroop	#FD913D	0.57064638576529
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	21	14	interference	#FD913D	0.599715729516231
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	22	14		#FC622F	0.652525734156666
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	23	14	demands|executive	#FC622F	0.634152735941177
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	1	15	anger	#FFFFCC	0
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	2	15	stress	#FEE188	0.268000937323498
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	3	15	feelings	#FEE188	0.264897234154112
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	4	15	salient	#FECB68	0.372387899902287
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	5	15	novelty	#FECB68	0.383932895415632
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	6	15	movie	#FEE188	0.277571131485616
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	7	15		#FD913D	0.594595873893783
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	8	15		#FC622F	0.670091039197652
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	9	15	longterm	#FECB68	0.398645760629497
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	10	15		#FC622F	0.671811268829853
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	11	15	reasoning|relational	#FECB68	0.351359470836788
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	12	15		#FC622F	0.648862297156577
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	13	15	presentations	#FC622F	0.641454585183743
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	14	15		#FD913D	0.561864591846891
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	15	15	identity	#FEE188	0.254712109435252
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	16	15		#FC622F	0.613698837165061
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	17	15	strategies|strategy	#FD913D	0.570680874933393
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	18	15	card|cards	#FDAD4A	0.477254365473034
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	19	15	gonogo	#FD913D	0.575967044892683
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	20	15		#FC622F	0.618918822290546
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	21	15	switching|switch	#FC622F	0.60807781296792
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	22	15		#FC622F	0.660688613512823
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	23	15	2back|rule	#FD913D	0.52465243359013
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	1	16	emotionally|mood|personality|sadness	#FFF1A9	0.193164454943089
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	2	16	disgust|sexual	#FFFFCC	0.0653566690821699
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	3	16	olfactory	#FFFFCC	0.0534941639732879
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	4	16	physiological	#FD913D	0.536273873167269
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	5	16	depressed|depressive|habituation	#FECB68	0.364470610871047
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	6	16	schizophrenic	#FECB68	0.305407060626674
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	7	16	colors|contexts	#FDAD4A	0.407849049532654
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	8	16	aging|encoded	#FD913D	0.534812921982163
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	9	16	goal	#FD913D	0.538388806181958
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	10	16		#FC622F	0.637753017645793
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	11	16	autism|autistic|nonverbal	#FDAD4A	0.435273328176284
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	12	16		#FD913D	0.596230917603487
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	13	16	bottomup|repetitions	#FDAD4A	0.413254520586629
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	14	16	adaptation	#FDAD4A	0.459431105251555
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	15	16	irrelevant	#FD913D	0.527658353128456
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	16	16	distractor|distractors	#FD913D	0.578988883606584
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	17	16		#F03623	0.729669837907276
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	18	16	subtraction	#F03623	0.701797922643885
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	19	16	1back|nback	#FD913D	0.514257099342181
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	20	16	manipulation|rules	#FD913D	0.592046881380646
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	21	16		#FC622F	0.69025282955103
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	22	16		#F03623	0.727564343764928
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	23	16	digit	#F03623	0.775552858683123
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	1	17	avoidance	#FFF1A9	0.107748635225577
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	2	17		#FEE188	0.28220730184647
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	3	17	eating|food	#FFF1A9	0.177697697692946
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	4	17	taste	#FFFFCC	0.0717611902094839
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	5	17	bipolar	#FFF1A9	0.195933310776408
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	6	17	illness|uncertainty	#FDAD4A	0.442753561435596
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	7	17	females|probabilistic	#FECB68	0.384066156923888
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	8	17	rejection	#FECB68	0.307739044072431
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	9	17	colour|paired	#FD913D	0.509628252969813
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	10	17		#FC622F	0.655730171381793
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	11	17		#FC622F	0.623800924010157
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	12	17		#FC622F	0.610311442427161
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	13	17	taskirrelevant	#FEE188	0.292582473130706
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	14	17		#FC622F	0.623592842785361
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	15	17	suppression	#FDAD4A	0.498634642206063
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	16	17		#F03623	0.727818363049841
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	17	17	shifting|shortterm	#FC622F	0.632957425342604
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	18	17	digits	#B10026	0.902493511666149
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	19	17	search	#FC622F	0.611509554126132
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	20	17	counting|taskrelated	#FDAD4A	0.447297628138977
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	21	17	topdown	#FD913D	0.531756131393425
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	22	17	visuospatial	#F03623	0.718650161523686
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	23	17	arithmetic|calculation|solving	#F03623	0.737899199455592
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	1	18	addiction|craving|drugs	#FEE188	0.274943648946357
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	2	18	allele|genotype|polymorphism	#FFF1A9	0.111684707694142
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	3	18	motivation	#FFFFCC	0.0358569648783927
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	4	18	heart	#FC622F	0.613572568870277
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	5	18	sleep	#FECB68	0.387767953893314
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	6	18	expectancy	#FECB68	0.373678298262712
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	7	18	phasic|salience	#FECB68	0.312123332758169
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	8	18	adolescence|adolescents	#FD913D	0.549577211195261
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	9	18	intelligence|tracking	#FECB68	0.393273587435313
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	10	18		#F03623	0.722778618134256
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	11	18	serial	#FDAD4A	0.45481590056381
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	12	18		#FC622F	0.67243675246622
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	13	18	spatially|taskrelevant	#FD913D	0.569890213839602
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	14	18		#F03623	0.710138828259405
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	15	18	attended|attend|unattended	#FDAD4A	0.469726027344244
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	16	18	rotation|shapes	#FC622F	0.61405632749113
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	17	18	rehearsal	#F03623	0.756629378524034
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	18	18	learned	#FDAD4A	0.485284132659748
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	19	18		#F03623	0.733017394380532
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	20	18	cued|preparatory	#FC622F	0.650202706622538
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	21	18		#F03623	0.784340378648772
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	22	18		#D7141E	0.813522353019131
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	23	18	numbers|numerical	#FC622F	0.687632473726254
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	1	19	future	#FC622F	0.650806779783678
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	2	19	negatively	#FDAD4A	0.429494738002811
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	3	19	distress|epilepsy|selfreported	#FDAD4A	0.410943442166016
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	4	19	anticipatory|cocaine|probabilities|smoking	#FDAD4A	0.458992428365158
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	5	19	alcohol|amount|impulsivity	#FECB68	0.377077316377491
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	6	19	game|success	#FEE188	0.271756434115864
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	7	19	adhd|childhood|engagement	#FECB68	0.317614820227185
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	8	19		#FC622F	0.678525983314927
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	9	19		#F03623	0.758106501639617
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	10	19		#F03623	0.724523648732137
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	11	19		#FC622F	0.697754406051327
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	12	19	endogenous	#FDAD4A	0.483724711030278
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	13	19	cueing|invalid|orienting	#FD913D	0.532940498525879
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	14	19		#F03623	0.770218350169196
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	15	19	multisensory	#D7141E	0.851283358823206
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	16	19		#F03623	0.774615700068181
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	17	19	shifts	#FC622F	0.666233846514918
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	18	19	covert	#FD913D	0.577037616698593
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	19	19		#F03623	0.720224537669936
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	20	19	preparation	#F03623	0.74228848926891
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	21	19	discrimination|training	#F03623	0.777148941133481
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	22	19	sequences	#FC622F	0.639487315872963
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	23	19		#D7141E	0.86117743579244
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	1	20	personal|self|selfreferential|trait|traits	#FDAD4A	0.497794477789607
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	2	20	empathic|theory	#FDAD4A	0.498619821180754
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	3	20	attribution|intentional	#FD913D	0.501621358011136
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	4	20	elderly|oscillations	#FEE188	0.287799832332825
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	5	20	antipsychotic|virtual	#FECB68	0.364846852926123
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	6	20		#FC622F	0.656578081053721
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	7	20	experiences	#FEE188	0.26492131894865
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	8	20	categorical|pressure	#FD913D	0.59023662219294
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	9	20	play|skills	#FDAD4A	0.419142226811516
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	10	20	automatic|trained	#F03623	0.745982845414781
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	11	20		#FC622F	0.629237425495392
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	12	20	practice	#FDAD4A	0.476153463932829
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	13	20	visuomotor	#FECB68	0.339948200554557
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	14	20		#F03623	0.792258252449467
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	15	20	tool	#FC622F	0.609149507140192
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	16	20	vision	#FDAD4A	0.468292459018561
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	17	20	visually	#FC622F	0.644158093807627
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	18	20	saccade|saccades|saccadic	#FD913D	0.55305210735086
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	19	20	locations	#FC622F	0.643640025285148
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	20	20	imagery|planning	#FC622F	0.678249000459256
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	21	20		#D7141E	0.818334716124399
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	22	20	rest	#F03623	0.741530480331883
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	23	20	sequence	#F03623	0.798384497653803
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	1	21	scenarios	#FFF1A9	0.123721750262199
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	2	21	intention|intentions	#FDAD4A	0.489259901171811
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	3	21	causality|perspective	#FEE188	0.216373221928658
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	4	21	past	#FECB68	0.365698019454743
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	5	21		#F03623	0.789694505207257
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	6	21	episode	#FECB68	0.341933246761029
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	7	21	improvement	#FEE188	0.262830706068819
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	8	21	masking|retention	#FC622F	0.666940266597672
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	9	21		#FC622F	0.698026753954209
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	10	21	dominant	#FDAD4A	0.449312068459436
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	11	21		#FD913D	0.574250988728281
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	12	21	sequential	#FECB68	0.359550082511521
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	13	21	fingers	#FDAD4A	0.488685007255773
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	14	21		#FC622F	0.612334666239765
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	15	21	gesture|gestures	#FDAD4A	0.432572974139443
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	16	21		#FC622F	0.615323979524503
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	17	21	hands	#FC622F	0.667189567780548
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	18	21		#F03623	0.723449441161672
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	19	21		#F03623	0.751413882523229
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	20	21	eye|position	#FC622F	0.659933543407371
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	21	21	execution	#F03623	0.758226980675068
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	22	21	finger|sensorimotor	#FC622F	0.672726115981808
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	23	21		#F03623	0.729532329561991
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	1	22	moral|stories|story	#FECB68	0.311199465643195
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	2	22	mentalizing|persons	#FECB68	0.310041468409876
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	3	22	default|restingstate	#FDAD4A	0.449731819158005
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	4	22	thinking|thought|thoughts	#D7141E	0.828854274256909
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	5	22	spontaneous	#FDAD4A	0.450796206074261
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	6	22	concentration|sensations	#FD913D	0.529616638731975
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	7	22	hierarchical|preference	#FDAD4A	0.428967081775848
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	8	22	effort|oral|simulation	#FECB68	0.327441619243002
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	9	22	interhemispheric|plasticity	#FDAD4A	0.456934904600002
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	10	22	imagined|imagine	#FDAD4A	0.44635086094107
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	11	22	tapping	#FECB68	0.395447461521226
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	12	22	foot|muscle|muscles|voluntary	#FDAD4A	0.452151671652252
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	13	22	limb	#FDAD4A	0.435020639725006
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	14	22	eyes|velocity	#FECB68	0.381461952821803
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	15	22	biological|gaze|videos	#FEE188	0.219953828355594
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	16	22	body	#FDAD4A	0.498270736764651
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	17	22	grasping|orientation|reaching	#FECB68	0.327456979010823
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	18	22		#F03623	0.719580871626156
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	19	22	mirror|shape	#F03623	0.794279360231622
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	20	22	actions	#FC622F	0.671272938048521
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	21	22	action	#FC622F	0.684823456911444
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	22	22		#F03623	0.719266512097162
+db3e2af8-fba2-3852-baa0-a5eb0dcb8f4b	Hong LE	23	22	hand|movements|sensory	#FC622F	0.617418707239912

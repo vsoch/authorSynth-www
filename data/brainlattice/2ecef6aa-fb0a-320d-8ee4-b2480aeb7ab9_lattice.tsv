@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	1	1	auditory|speech	#FD913D	0.510854043554013
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	2	1		#FD913D	0.51306622183928
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	3	1	da|integration	#FC622F	0.679809685061085
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	4	1		#F03623	0.763696646309609
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	5	1	physical|psychophysical|tactile	#FC622F	0.6327645115757
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	6	1		#D7141E	0.88210704644892
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	7	1	somatosensory|stimulation	#D7141E	0.85749626193402
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	8	1	painful|pain	#F03623	0.764157756760621
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	9	1		#D7141E	0.868654390577804
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	10	1	ratings	#F03623	0.772669755938559
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	11	1	affective|affect	#FC622F	0.610061040891098
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	12	1	emotions	#FD913D	0.583985264565216
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	13	1	expression|expressions|facial	#FDAD4A	0.451851518265064
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	14	1		#FD913D	0.598402683669611
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	15	1		#FC622F	0.620206967657407
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	16	1	emotion|motion|neutral	#FC622F	0.611004937142201
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	17	1	rating	#F03623	0.702734817921274
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	18	1	negative|positive	#FC622F	0.652180314479611
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	19	1		#F03623	0.722932771055796
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	20	1	ear|order	#FC622F	0.65016479938166
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	21	1	motor	#FC622F	0.671374978930964
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	22	1	visual	#FD913D	0.596856018710121
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	23	1	age|image|response	#FC622F	0.614207017262776
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	1	2	sound|sounds	#FDAD4A	0.413556399956396
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	2	2		#FDAD4A	0.48471414000174
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	3	2	audiovisual|bimodal|crossmodal	#FDAD4A	0.488102348671412
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	4	2		#F03623	0.782613133268814
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	5	2		#D7141E	0.865579647083753
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	6	2		#B10026	0.915028071969807
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	7	2	sensation	#D7141E	0.840999657770439
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	8	2	heat|noxious	#F03623	0.79555794119752
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	9	2		#D7141E	0.895609135332912
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	10	2		#D7141E	0.864338740626708
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	11	2		#F03623	0.797784803275202
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	12	2	valence	#FC622F	0.612365738694303
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	13	2	person|social	#FDAD4A	0.486480983670572
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	14	2		#FC622F	0.611565570135349
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	15	2	face|faces	#FDAD4A	0.498547452516195
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	16	2		#FC622F	0.690814791062225
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	17	2		#F03623	0.726947036310016
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	18	2		#F03623	0.768607153602968
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	19	2		#F03623	0.756852903013596
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	20	2		#F03623	0.71503607174488
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	21	2	images|spatial	#FC622F	0.634148163416101
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	22	2	control	#FC622F	0.61320666891942
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	23	2	time	#FC622F	0.627136815276955
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	1	3	acoustic|listening|musical|music|pitch	#FECB68	0.320869720535335
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	2	3	noise|tones	#FDAD4A	0.416444312440822
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	3	3		#FC622F	0.6313062138461
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	4	3		#F03623	0.744424763495128
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	5	3	frequency	#D7141E	0.87970170155158
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	6	3		#B10026	0.932084391091398
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	7	3		#B10026	0.917331534304741
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	8	3	temperature	#F03623	0.73661222676357
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	9	3		#B10026	0.967009579901795
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	10	3	pleasant|unpleasant	#B10026	0.918776563612068
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	11	3	anxiety	#FC622F	0.700156802093898
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	12	3		#F03623	0.76336368893846
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	13	3		#F03623	0.727776585516828
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	14	3		#FC622F	0.675320553641294
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	15	3		#FC622F	0.691147554325026
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	16	3	picture	#FC622F	0.654432762189751
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	17	3		#F03623	0.79856438662682
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	18	3	value	#D7141E	0.833997688033123
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	19	3	cue	#F03623	0.72243460410251
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	20	3	error|target	#F03623	0.702091584368557
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	21	3	attention	#FC622F	0.614389553972191
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	22	3		#FC622F	0.621465799082045
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	23	3	number	#FC622F	0.636288374874737
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	1	4	voice	#FECB68	0.343231194482138
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	2	4		#FDAD4A	0.46103361997134
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	3	4	hearing	#FDAD4A	0.404000504295701
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	4	4		#FC622F	0.641483100895314
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	5	4	overt	#FD913D	0.576554648824613
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	6	4		#F03623	0.751487011406954
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	7	4		#B10026	0.9216019960363
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	8	4	nociceptive|nonpainful|painrelated	#D7141E	0.805621603404236
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	9	4	unpleasantness	#B10026	1
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	10	4	skin|subjective	#F03623	0.755220040434192
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	11	4	depression	#D7141E	0.857295904139819
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	12	4	experience	#F03623	0.76759142600902
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	13	4	female	#F03623	0.7897112665159
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	14	4	male	#FC622F	0.686345661106237
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	15	4	pictures	#FC622F	0.667143245792139
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	16	4		#D7141E	0.806409990932122
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	17	4	perception	#D7141E	0.849274046943763
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	18	4		#F03623	0.797186080235733
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	19	4		#F03623	0.73314196027053
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	20	4		#FC622F	0.688286125908223
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	21	4	correct	#FC622F	0.601904326061911
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	22	4	work	#FD913D	0.567514370726152
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	23	4	memory	#FDAD4A	0.493150360326943
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	1	5	prosodic|prosody	#FDAD4A	0.460341821780377
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	2	5	phonetic	#FEE188	0.257414766698062
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	3	5	syllable|syllables	#FD913D	0.52924303067505
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	4	5		#FD913D	0.568125264052583
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	5	5	lip|production	#FD913D	0.573762098918148
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	6	5	somatotopic	#FD913D	0.548551471057087
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	7	5		#B10026	0.915108825250886
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	8	5		#D7141E	0.886811951888092
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	9	5	empathy	#D7141E	0.843002417579694
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	10	5		#F03623	0.745152310303842
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	11	5	disorder	#F03623	0.726402701960389
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	12	5		#F03623	0.757191085421439
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	13	5		#F03623	0.790827636155322
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	14	5		#F03623	0.741694245341867
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	15	5		#F03623	0.756481375982225
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	16	5		#D7141E	0.812523951120696
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	17	5		#D7141E	0.810680230707415
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	18	5	mental	#FC622F	0.680281387269869
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	19	5	go	#FC622F	0.608253266291265
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	20	5	object	#FD913D	0.559665418605381
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	21	5		#FC622F	0.624311830754828
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	22	5		#FD913D	0.560515446419642
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	23	5	word|words	#FDAD4A	0.477615185980822
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	1	6		#FC622F	0.695662127711769
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	2	6		#F03623	0.700845534531764
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	3	6		#F03623	0.715601696457268
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	4	6	vocal	#FECB68	0.317443629905001
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	5	6	articulatory	#FEE188	0.268614285823957
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	6	6		#FC622F	0.693994046632372
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	7	6	oddball	#FECB68	0.387197240230115
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	8	6	perceived	#D7141E	0.859403158393926
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	9	6	errorrelated	#FDAD4A	0.451008563818297
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	10	6	approach	#FDAD4A	0.442824354499598
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	11	6	schizophrenia	#FDAD4A	0.472714166752416
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	12	6	acquisition	#FC622F	0.65425861337425
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	13	6		#F03623	0.720567949812514
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	14	6		#FD913D	0.566488833378015
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	15	6		#FD913D	0.584781020233705
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	16	6		#FC622F	0.616701620124082
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	17	6		#FC622F	0.667624036513716
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	18	6		#FC622F	0.663798885506213
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	19	6		#FC622F	0.675748225412773
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	20	6	objects	#FC622F	0.665815673104662
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	21	6		#FC622F	0.625843378211286
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	22	6		#FD913D	0.541531435261475
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	23	6	language|semantic	#FDAD4A	0.479462473926007
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	1	7	dopamine|dopaminergic	#FDAD4A	0.444615783802732
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	2	7		#FC622F	0.64519969201248
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	3	7		#D7141E	0.835901289857056
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	4	7		#D7141E	0.836882703984327
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	5	7		#D7141E	0.846439970204926
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	6	7		#D7141E	0.890940493312959
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	7	7		#D7141E	0.880388492878345
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	8	7		#D7141E	0.858233408185689
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	9	7		#F03623	0.753880577461967
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	10	7		#FC622F	0.63756775869063
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	11	7		#FD913D	0.586969063801119
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	12	7		#FC622F	0.606017810126151
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	13	7	linguistic|spoken	#FDAD4A	0.49338729016322
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	14	7		#FD913D	0.510778445905557
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	15	7	comprehension|sentence|sentences|syntactic	#FDAD4A	0.462184993333504
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	16	7		#FD913D	0.523450376165955
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	17	7		#FD913D	0.588904415534656
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	18	7	phonological|reading|read	#FD913D	0.543447671527436
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	19	7		#FC622F	0.647337657996356
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	20	7	perceptual|recognition	#FC622F	0.678714471873175
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	21	7		#FC622F	0.648048589427639
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	22	7		#FD913D	0.563889795923673
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	23	7	verb	#FD913D	0.525126088052568
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	1	8	outcome|reward	#FC622F	0.613318998070351
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	2	8	anticipation	#FC622F	0.647041914945731
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	3	8	outcomes	#FC622F	0.635472417709055
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	4	8	choice|choices	#F03623	0.749720895911816
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	5	8	decisions|probability	#FC622F	0.634342387100101
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	6	8	reversal	#D7141E	0.806762378105895
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	7	8	classification|incorrect	#D7141E	0.861724709359661
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	8	8		#D7141E	0.825485514799699
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	9	8	agerelated|fluency|probes	#FC622F	0.649456350998128
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	10	8	engaged	#FDAD4A	0.466077655044472
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	11	8	explicit|knowledge	#FDAD4A	0.465763118301902
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	12	8		#FD913D	0.556592666224377
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	13	8		#FD913D	0.512177367135499
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	14	8		#FDAD4A	0.47816749309333
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	15	8		#FDAD4A	0.450172549691281
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	16	8		#FDAD4A	0.488401880530796
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	17	8	lexical	#FDAD4A	0.486208678651563
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	18	8		#FD913D	0.567661129665881
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	19	8		#FC622F	0.619522775626137
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	20	8		#FC622F	0.648830935753812
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	21	8	encoding	#FC622F	0.637517117936766
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	22	8	retrieval	#FD913D	0.505813067428178
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	23	8	verbal	#FD913D	0.569070466526687
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	1	9	incentive|monetary|money|rewards	#FDAD4A	0.452755040461009
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	2	9	loss	#FC622F	0.640882557635402
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	3	9		#F03623	0.738137274470417
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	4	9		#F03623	0.764010619497067
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	5	9	decisionmaking	#FC622F	0.618568151365065
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	6	9		#F03623	0.79680586764437
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	7	9		#F03623	0.74029668534393
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	8	9		#F03623	0.723483110731271
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	9	9		#FC622F	0.642910979537846
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	10	9		#FD913D	0.558954505426811
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	11	9		#FD913D	0.549890769182358
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	12	9		#FD913D	0.541730844896883
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	13	9	noun	#FD913D	0.525258236473315
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	14	9	meaning	#FECB68	0.318685752356842
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	15	9	english	#FECB68	0.320798523515321
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	16	9	pseudoword|pseudowords	#FDAD4A	0.409820651276049
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	17	9		#FD913D	0.539261796032425
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	18	9		#FC622F	0.600356956823337
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	19	9	familiar|judgment	#FD913D	0.51269364710728
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	20	9	pair|pairs	#FD913D	0.567771006628575
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	21	9		#F03623	0.70819451253939
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	22	9		#FC622F	0.664150593286219
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	23	9	letter|working	#FD913D	0.588892499157014
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	1	10	losses|reinforcement|win	#FD913D	0.559679071906963
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	2	10	gain	#FDAD4A	0.419307354286212
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	3	10	expectation	#FD913D	0.5434736690361
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	4	10	risk	#FC622F	0.629230024224899
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	5	10	fact	#FC622F	0.697517531083617
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	6	10	associative	#FD913D	0.532491724156434
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	7	10	familiarity|judgments|old	#FDAD4A	0.465678180968513
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	8	10	contextual|text	#FDAD4A	0.476828600880041
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	9	10	recall|retrieved	#FEE188	0.298852656369063
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	10	10	conceptual|semantically	#FECB68	0.389255361679674
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	11	10	grammatical|speakers	#FC622F	0.603626771738402
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	12	10	nouns	#FD913D	0.550517450028361
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	13	10	japanese	#FECB68	0.321978556354367
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	14	10	languages	#FECB68	0.325830868115206
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	15	10	written	#FDAD4A	0.40249169285649
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	16	10	chinese|phonology	#FECB68	0.350762916555489
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	17	10	orthographic	#FD913D	0.553015971992549
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	18	10		#FC622F	0.677355940570819
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	19	10		#F03623	0.701943006757065
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	20	10	association|decision	#FC622F	0.658087259793398
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	21	10	selection	#FC622F	0.621287662773777
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	22	10	letters	#FD913D	0.552825200026542
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	23	10	demand|load	#FD913D	0.589908288392242
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	1	11	conditioned|conditioning	#FECB68	0.342005762783551
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	2	11		#FC622F	0.637725071895373
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	3	11	drug|placebo	#FDAD4A	0.427097820121938
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	4	11		#F03623	0.752665313046876
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	5	11	associations	#FECB68	0.36813240540307
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	6	11		#FD913D	0.509168840299918
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	7	11	episodic|recollection	#FEE188	0.284111618054909
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	8	11		#FDAD4A	0.444603214184315
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	9	11		#FD913D	0.532571565675656
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	10	11	concepts	#FEE188	0.278470248366185
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	11	11		#FD913D	0.563362695167247
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	12	11		#FD913D	0.56596585757244
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	13	11	german	#FC622F	0.633918728920026
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	14	11	readers	#FD913D	0.52263748413193
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	15	11	character|name|naming	#FEE188	0.273067997885041
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	16	11		#FD913D	0.530858483553662
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	17	11	novel	#FC622F	0.605591487860109
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	18	11		#F03623	0.740187069743452
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	19	11	child|children	#F03623	0.738652997022045
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	20	11	adults	#D7141E	0.826197050009975
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	21	11	ability|feedback|learning	#B10026	0.949126806074568
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	22	11	cues|delay	#F03623	0.769855517326251
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	23	11	attentional|difficulty|targets	#F03623	0.754703934508859
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	1	12	aversive|shock	#FD913D	0.587064209160584
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	2	12	reactivity	#FDAD4A	0.415134311440845
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	3	12	males|sex|women	#F03623	0.794760618289088
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	4	12	animal	#FC622F	0.616930251002617
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	5	12	animals	#FECB68	0.380234219370396
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	6	12		#FDAD4A	0.465400581294105
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	7	12	remember|subsequent	#FECB68	0.341722898704919
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	8	12	autobiographical|memories	#FFF1A9	0.180806707391769
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	9	12		#FD913D	0.540472080303754
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	10	12	violation|violations	#FDAD4A	0.495393088021138
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	11	12	aphasia	#FDAD4A	0.464104909666204
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	12	12	nonwords	#FECB68	0.329932979141204
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	13	12	dyslexia	#FDAD4A	0.481885943261438
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	14	12		#FD913D	0.516809394446599
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	15	12	priming	#FDAD4A	0.431939389016782
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	16	12		#FD913D	0.551399590566265
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	17	12	category|repetition	#FC622F	0.633039704021979
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	18	12		#F03623	0.733003902482539
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	19	12	developmental|development	#F03623	0.725502206964085
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	20	12		#F03623	0.794538321727985
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	21	12	space	#F03623	0.782892843837873
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	22	12		#F03623	0.705586254927225
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	23	12	color	#FC622F	0.677693022157457
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	1	13	threat	#FECB68	0.344923792018473
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	2	13	regulation	#FD913D	0.571138952543829
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	3	13		#F03623	0.709772316058298
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	4	13	masked	#FDAD4A	0.411138543454718
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	5	13	scene|scenes	#FDAD4A	0.405994077219151
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	6	13		#FDAD4A	0.484628736325503
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	7	13	confidence|remembered	#FFFFCC	0.0655175597255282
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	8	13		#FDAD4A	0.419802399767942
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	9	13		#FD913D	0.513527636772316
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	10	13	ambiguity|ambiguous	#FECB68	0.344584360673747
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	11	13		#FD913D	0.575885360703656
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	12	13		#FC622F	0.637459229059363
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	13	13	writing	#FECB68	0.391263147514488
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	14	13		#FC622F	0.615454138238139
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	15	13	categorization|congruency|prime	#FECB68	0.339079770259363
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	16	13		#FD913D	0.594972567358059
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	17	13	mask	#FD913D	0.545315313339987
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	18	13		#F03623	0.733065754679389
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	19	13		#F03623	0.75834183438793
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	20	13		#FC622F	0.664321986663659
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	21	13	conflict|congruent|incongruent	#FDAD4A	0.460459943699908
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	22	13	errors	#FC622F	0.664939600869046
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	23	13	maintenance|probe|wm	#FD913D	0.53793078446615
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	1	14	angry|fearful|happy	#FECB68	0.374182395811523
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	2	14		#FD913D	0.508172792543467
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	3	14	awareness|conscious|ptsd	#FD913D	0.562785707676181
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	4	14		#FC622F	0.638949252788568
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	5	14	houses|photographs	#FEE188	0.277841984551467
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	6	14		#FD913D	0.595314998808175
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	7	14	hits	#FDAD4A	0.413178412696963
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	8	14	famous	#FFF1A9	0.161804313520797
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	9	14	names	#FEE188	0.208343303282381
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	10	14	family	#FECB68	0.328124377903355
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	11	14	competition|mouth	#FD913D	0.563277689272225
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	12	14	abilities	#F03623	0.773266544101435
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	13	14	implicit|unfamiliar	#FC622F	0.612236982041106
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	14	14		#FC622F	0.603731434642751
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	15	14	tom	#FD913D	0.518475976694813
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	16	14		#FC622F	0.626661090703666
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	17	14		#F03623	0.70086015849962
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	18	14	stop	#FD913D	0.579885006206625
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	19	14	inhibition|inhibitory|nogo	#FD913D	0.53658164717098
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	20	14	monitoring|stroop	#FECB68	0.358220535699223
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	21	14	interference	#FDAD4A	0.405422113477431
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	22	14		#FD913D	0.57246237630141
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	23	14	demands|executive	#FD913D	0.589166900781377
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	1	15	anger	#FEE188	0.294777542126697
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	2	15	stress	#FDAD4A	0.436728357040256
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	3	15	feelings	#FDAD4A	0.480873343254347
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	4	15	salient	#FDAD4A	0.482402567459877
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	5	15	novelty	#FEE188	0.28197160854786
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	6	15	movie	#FD913D	0.575759559398649
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	7	15		#F03623	0.781124427989939
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	8	15		#FC622F	0.638456155398086
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	9	15	longterm	#FFF1A9	0.154669500844106
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	10	15		#FD913D	0.522168548203101
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	11	15	reasoning|relational	#FDAD4A	0.406314273061685
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	12	15		#FC622F	0.689518904922799
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	13	15	presentations	#FDAD4A	0.451287753353424
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	14	15		#FC622F	0.644625622432243
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	15	15	identity	#FECB68	0.388574425731728
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	16	15		#FC622F	0.660815580141724
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	17	15	strategies|strategy	#FD913D	0.596594322899783
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	18	15	card|cards	#FC622F	0.656211839439616
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	19	15	gonogo	#FD913D	0.549126071622797
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	20	15		#FD913D	0.56878968512752
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	21	15	switching|switch	#FD913D	0.510114433353956
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	22	15		#FD913D	0.544363192262873
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	23	15	2back|rule	#FD913D	0.514597470472219
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	1	16	emotionally|mood|personality|sadness	#FECB68	0.354547743982807
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	2	16	disgust|sexual	#FECB68	0.376100100863307
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	3	16	olfactory	#FDAD4A	0.458762309891261
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	4	16	physiological	#FC622F	0.691067721441884
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	5	16	depressed|depressive|habituation	#FD913D	0.502870709155926
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	6	16	schizophrenic	#F03623	0.792109425940651
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	7	16	colors|contexts	#FC622F	0.633572357607708
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	8	16	aging|encoded	#FDAD4A	0.41942751185718
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	9	16	goal	#FFF1A9	0.177198496483711
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	10	16		#FD913D	0.522468642907791
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	11	16	autism|autistic|nonverbal	#FD913D	0.523340126185669
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	12	16		#FC622F	0.639480016137057
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	13	16	bottomup|repetitions	#FD913D	0.559913353732335
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	14	16	adaptation	#F03623	0.713217279555948
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	15	16	irrelevant	#FDAD4A	0.42168505278252
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	16	16	distractor|distractors	#F03623	0.765537289206401
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	17	16		#F03623	0.724864505158789
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	18	16	subtraction	#FD913D	0.527217027373988
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	19	16	1back|nback	#FDAD4A	0.429801767328157
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	20	16	manipulation|rules	#FC622F	0.645208343196885
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	21	16		#FD913D	0.596436469688398
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	22	16		#FD913D	0.536040377101325
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	23	16	digit	#FECB68	0.358526816899711
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	1	17	avoidance	#FFF1A9	0.179177644456475
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	2	17		#FDAD4A	0.499497142878375
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	3	17	eating|food	#FD913D	0.551902069916496
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	4	17	taste	#F03623	0.75174837502962
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	5	17	bipolar	#D7141E	0.800788839981701
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	6	17	illness|uncertainty	#FC622F	0.641028648003461
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	7	17	females|probabilistic	#FC622F	0.64244250431965
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	8	17	rejection	#FD913D	0.551855841354605
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	9	17	colour|paired	#FECB68	0.399377599927326
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	10	17		#FC622F	0.607500882808139
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	11	17		#FC622F	0.627863178557415
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	12	17		#FC622F	0.624002412486981
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	13	17	taskirrelevant	#FECB68	0.397968711786262
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	14	17		#FC622F	0.699252923745176
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	15	17	suppression	#FC622F	0.636815488516008
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	16	17		#F03623	0.766060389959483
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	17	17	shifting|shortterm	#FD913D	0.582418030628054
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	18	17	digits	#FDAD4A	0.481146383881744
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	19	17	search	#FC622F	0.628297466798257
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	20	17	counting|taskrelated	#FC622F	0.60329113750007
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	21	17	topdown	#FD913D	0.540024866258388
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	22	17	visuospatial	#FDAD4A	0.433311499257158
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	23	17	arithmetic|calculation|solving	#FDAD4A	0.425488839348093
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	1	18	addiction|craving|drugs	#FEE188	0.257010571561942
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	2	18	allele|genotype|polymorphism	#FECB68	0.39479547264832
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	3	18	motivation	#FDAD4A	0.426211213754422
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	4	18	heart	#FC622F	0.658369542789685
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	5	18	sleep	#D7141E	0.828779648196856
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	6	18	expectancy	#FD913D	0.526793757044592
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	7	18	phasic|salience	#FD913D	0.517491313687998
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	8	18	adolescence|adolescents	#FD913D	0.524733608269591
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	9	18	intelligence|tracking	#D7141E	0.833681094979594
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	10	18		#F03623	0.775096406265616
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	11	18	serial	#FDAD4A	0.492680342569185
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	12	18		#FC622F	0.66707477557289
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	13	18	spatially|taskrelevant	#FDAD4A	0.470159425421096
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	14	18		#F03623	0.76546498259308
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	15	18	attended|attend|unattended	#FD913D	0.547663314438906
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	16	18	rotation|shapes	#FD913D	0.56730018589444
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	17	18	rehearsal	#FC622F	0.697876007187225
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	18	18	learned	#D7141E	0.836411933333482
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	19	18		#F03623	0.789297747086254
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	20	18	cued|preparatory	#FC622F	0.633959558340143
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	21	18		#FC622F	0.694919360715715
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	22	18		#FC622F	0.608207881906783
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	23	18	numbers|numerical	#FDAD4A	0.456628579739452
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	1	19	future	#FC622F	0.619120619370538
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	2	19	negatively	#FEE188	0.201322036236003
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	3	19	distress|epilepsy|selfreported	#FECB68	0.366369797329618
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	4	19	anticipatory|cocaine|probabilities|smoking	#FD913D	0.583416400304036
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	5	19	alcohol|amount|impulsivity	#FECB68	0.305443934371864
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	6	19	game|success	#FECB68	0.373411100722051
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	7	19	adhd|childhood|engagement	#FC622F	0.645664009667699
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	8	19		#B10026	0.928980442819999
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	9	19		#D7141E	0.883635523551923
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	10	19		#F03623	0.723922440743208
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	11	19		#FC622F	0.641164320974944
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	12	19	endogenous	#FECB68	0.318862713619182
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	13	19	cueing|invalid|orienting	#FC622F	0.697877926493723
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	14	19		#D7141E	0.828572529565254
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	15	19	multisensory	#F03623	0.784325540079743
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	16	19		#D7141E	0.828532539603458
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	17	19	shifts	#D7141E	0.812494536246564
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	18	19	covert	#F03623	0.76446314609797
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	19	19		#D7141E	0.805636169889804
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	20	19	preparation	#FD913D	0.542499329897286
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	21	19	discrimination|training	#FC622F	0.637133554275269
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	22	19	sequences	#FC622F	0.68565332648018
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	23	19		#D7141E	0.838124962793445
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	1	20	personal|self|selfreferential|trait|traits	#FEE188	0.288115483069819
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	2	20	empathic|theory	#FDAD4A	0.44463881637237
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	3	20	attribution|intentional	#FFFFCC	0.0964825328456342
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	4	20	elderly|oscillations	#FFFFCC	0
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	5	20	antipsychotic|virtual	#FECB68	0.340079212394919
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	6	20		#F03623	0.78507021936736
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	7	20	experiences	#FECB68	0.362955974372825
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	8	20	categorical|pressure	#FC622F	0.656487053265432
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	9	20	play|skills	#FECB68	0.324842690133965
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	10	20	automatic|trained	#FDAD4A	0.484569286691859
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	11	20		#FC622F	0.676734142822439
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	12	20	practice	#FECB68	0.364983919378141
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	13	20	visuomotor	#FD913D	0.57599819465298
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	14	20		#B10026	0.915294690758539
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	15	20	tool	#FC622F	0.62980205428879
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	16	20	vision	#FECB68	0.399045050486034
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	17	20	visually	#F03623	0.702238462730883
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	18	20	saccade|saccades|saccadic	#FC622F	0.619209779761586
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	19	20	locations	#FC622F	0.672516543957581
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	20	20	imagery|planning	#FC622F	0.670297489276684
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	21	20		#D7141E	0.800743910429241
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	22	20	rest	#FC622F	0.677306635437821
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	23	20	sequence	#D7141E	0.859917675347049
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	1	21	scenarios	#FEE188	0.24183348459779
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	2	21	intention|intentions	#FDAD4A	0.408993815755947
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	3	21	causality|perspective	#FECB68	0.374332401156595
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	4	21	past	#FFFFCC	0.0557631166142838
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	5	21		#F03623	0.751059943798842
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	6	21	episode	#FD913D	0.561508474170474
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	7	21	improvement	#FEE188	0.285681920185848
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	8	21	masking|retention	#FDAD4A	0.493684229199469
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	9	21		#F03623	0.796288540896831
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	10	21	dominant	#FD913D	0.577040547036589
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	11	21		#F03623	0.775393108665233
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	12	21	sequential	#FDAD4A	0.47231492445163
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	13	21	fingers	#FD913D	0.591874466889706
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	14	21		#F03623	0.781175480714566
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	15	21	gesture|gestures	#FECB68	0.33874679994495
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	16	21		#F03623	0.718178676253103
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	17	21	hands	#FC622F	0.611209658174797
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	18	21		#F03623	0.706768339959246
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	19	21		#F03623	0.703069406830627
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	20	21	eye|position	#F03623	0.726474117228079
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	21	21	execution	#F03623	0.752082620731371
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	22	21	finger|sensorimotor	#D7141E	0.808553580420981
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	23	21		#D7141E	0.819986088392812
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	1	22	moral|stories|story	#FFF1A9	0.113451961117202
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	2	22	mentalizing|persons	#FECB68	0.332281365890031
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	3	22	default|restingstate	#FFF1A9	0.107508841024941
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	4	22	thinking|thought|thoughts	#FDAD4A	0.433723927843222
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	5	22	spontaneous	#FD913D	0.509688205656143
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	6	22	concentration|sensations	#FD913D	0.596454415912719
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	7	22	hierarchical|preference	#FFF1A9	0.120119537178625
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	8	22	effort|oral|simulation	#FC622F	0.641037986787539
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	9	22	interhemispheric|plasticity	#FC622F	0.682503648077641
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	10	22	imagined|imagine	#FD913D	0.515017354183499
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	11	22	tapping	#D7141E	0.826733752438339
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	12	22	foot|muscle|muscles|voluntary	#F03623	0.792444263313552
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	13	22	limb	#D7141E	0.822552922383835
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	14	22	eyes|velocity	#FD913D	0.57602928814545
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	15	22	biological|gaze|videos	#FD913D	0.567860805282066
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	16	22	body	#FC622F	0.62599079034939
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	17	22	grasping|orientation|reaching	#FDAD4A	0.468079761724729
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	18	22		#FC622F	0.663969665349226
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	19	22	mirror|shape	#FC622F	0.605529656721263
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	20	22	actions	#FD913D	0.558712871926037
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	21	22	action	#F03623	0.705979550121314
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	22	22		#D7141E	0.811987115436688
+2ecef6aa-fb0a-320d-8ee4-b2480aeb7ab9	Marklund P	23	22	hand|movements|sensory	#F03623	0.748029915850218

@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	1	1	auditory|speech	#FFF1A9	0.196086199383713
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	2	1		#FFF1A9	0.168529721352678
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	3	1	da|integration	#FFF1A9	0.156371979117297
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	4	1		#FFF1A9	0.196330423714536
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	5	1	physical|psychophysical|tactile	#FFF1A9	0.136478359906526
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	6	1		#FEE188	0.246014231609241
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	7	1	somatosensory|stimulation	#FEE188	0.225052213075482
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	8	1	painful|pain	#FECB68	0.337921282787497
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	9	1		#FECB68	0.351699077389762
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	10	1	ratings	#FECB68	0.329312376423775
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	11	1	affective|affect	#FDAD4A	0.450647048276695
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	12	1	emotions	#FD913D	0.538180064946593
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	13	1	expression|expressions|facial	#FDAD4A	0.459354009743064
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	14	1		#FD913D	0.510136071188234
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	15	1		#FD913D	0.50420707007079
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	16	1	emotion|motion|neutral	#FD913D	0.500199565060095
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	17	1	rating	#FECB68	0.349421874163816
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	18	1	negative|positive	#FDAD4A	0.43037872004959
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	19	1		#FEE188	0.286850325017815
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	20	1	ear|order	#FEE188	0.206469453395647
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	21	1	motor	#FFFFCC	0.0273615322270954
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	22	1	visual	#FFFFCC	0.0878279085313687
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	23	1	age|image|response	#FFF1A9	0.172656959465131
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	1	2	sound|sounds	#FFF1A9	0.144800203829386
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	2	2		#FFF1A9	0.168403391210612
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	3	2	audiovisual|bimodal|crossmodal	#FFFFCC	0.0722213016064748
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	4	2		#FFF1A9	0.193051619621284
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	5	2		#FFF1A9	0.194032137418313
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	6	2		#FEE188	0.242795924227007
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	7	2	sensation	#FEE188	0.272624121350434
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	8	2	heat|noxious	#FEE188	0.296819144161158
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	9	2		#FECB68	0.363056994826279
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	10	2		#FDAD4A	0.401660828093639
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	11	2		#FDAD4A	0.439158008168349
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	12	2	valence	#FDAD4A	0.452253518357449
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	13	2	person|social	#FC622F	0.694069907819533
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	14	2		#FD913D	0.506852931357706
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	15	2	face|faces	#FECB68	0.362571702290492
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	16	2		#FDAD4A	0.472207464245803
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	17	2		#FDAD4A	0.460885906228674
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	18	2		#FECB68	0.354784759406256
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	19	2		#FEE188	0.272675001009392
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	20	2		#FFF1A9	0.166413978405102
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	21	2	images|spatial	#FFF1A9	0.16216055011018
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	22	2	control	#FFF1A9	0.178294345597977
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	23	2	time	#FFF1A9	0.173485518410146
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	1	3	acoustic|listening|musical|music|pitch	#FFF1A9	0.197438478015756
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	2	3	noise|tones	#FFF1A9	0.164460645913281
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	3	3		#FEE188	0.210838607774864
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	4	3		#FEE188	0.209902471775222
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	5	3	frequency	#FEE188	0.201326561558636
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	6	3		#FECB68	0.309130917859841
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	7	3		#FECB68	0.351864849127454
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	8	3	temperature	#FECB68	0.395297793998374
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	9	3		#FECB68	0.363259430994369
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	10	3	pleasant|unpleasant	#FECB68	0.316306431892475
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	11	3	anxiety	#FECB68	0.322560538782499
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	12	3		#FDAD4A	0.479495566029662
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	13	3		#FDAD4A	0.495699157587192
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	14	3		#FD913D	0.503157632147749
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	15	3		#FDAD4A	0.496647845388202
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	16	3	picture	#FDAD4A	0.487612468602603
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	17	3		#FDAD4A	0.452013024851763
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	18	3	value	#FECB68	0.349915125192605
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	19	3	cue	#FFF1A9	0.172118648859107
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	20	3	error|target	#FFF1A9	0.123189021916013
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	21	3	attention	#FFF1A9	0.134031766440947
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	22	3		#FEE188	0.223098160552134
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	23	3	number	#FEE188	0.281282399018362
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	1	4	voice	#FECB68	0.367850888819109
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	2	4		#FEE188	0.261636191943542
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	3	4	hearing	#FFF1A9	0.11287198210733
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	4	4		#FEE188	0.227537910109436
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	5	4	overt	#FEE188	0.2398716527359
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	6	4		#FEE188	0.283836452899807
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	7	4		#FECB68	0.394217273857232
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	8	4	nociceptive|nonpainful|painrelated	#FECB68	0.306269060381852
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	9	4	unpleasantness	#FECB68	0.327606623464293
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	10	4	skin|subjective	#FEE188	0.237558687680839
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	11	4	depression	#FDAD4A	0.431752719308182
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	12	4	experience	#FDAD4A	0.473600367016763
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	13	4	female	#FEE188	0.29850826872322
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	14	4	male	#FDAD4A	0.445658867281229
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	15	4	pictures	#FDAD4A	0.496238705289946
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	16	4		#FDAD4A	0.487321950312554
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	17	4	perception	#FECB68	0.319985992067345
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	18	4		#FECB68	0.330738517051876
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	19	4		#FEE188	0.291240533145223
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	20	4		#FEE188	0.249424132229363
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	21	4	correct	#FEE188	0.270779277200809
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	22	4	work	#FEE188	0.219297246140044
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	23	4	memory	#FECB68	0.305235407558681
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	1	5	prosodic|prosody	#FDAD4A	0.41799412601101
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	2	5	phonetic	#FFF1A9	0.141170315878881
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	3	5	syllable|syllables	#FFF1A9	0.172118514963611
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	4	5		#FEE188	0.227478936276678
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	5	5	lip|production	#FFF1A9	0.192782704692532
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	6	5	somatotopic	#FECB68	0.377660502154687
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	7	5		#FECB68	0.358441546643117
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	8	5		#FECB68	0.389076537254718
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	9	5	empathy	#FDAD4A	0.431147491265185
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	10	5		#FDAD4A	0.453056882041956
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	11	5	disorder	#FDAD4A	0.460578865801022
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	12	5		#FDAD4A	0.479767338581105
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	13	5		#FD913D	0.567290800121898
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	14	5		#FC622F	0.637128663603405
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	15	5		#FC622F	0.639618508125771
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	16	5		#FD913D	0.590441414848265
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	17	5		#FD913D	0.556576835456329
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	18	5	mental	#FDAD4A	0.457174165365515
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	19	5	go	#FECB68	0.381746933541234
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	20	5	object	#FFF1A9	0.152001605737466
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	21	5		#FECB68	0.343230311607935
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	22	5		#FDAD4A	0.427385499576836
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	23	5	word|words	#FDAD4A	0.443695325635011
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	1	6		#FECB68	0.309063049213879
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	2	6		#FEE188	0.299443213921161
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	3	6		#FEE188	0.26344075646965
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	4	6	vocal	#FFF1A9	0.15201542418288
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	5	6	articulatory	#FFF1A9	0.143692395560647
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	6	6		#FECB68	0.313316404091208
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	7	6	oddball	#FDAD4A	0.426283020063333
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	8	6	perceived	#FECB68	0.395561497497845
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	9	6	errorrelated	#FEE188	0.22637829812997
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	10	6	approach	#FEE188	0.296121632264577
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	11	6	schizophrenia	#FDAD4A	0.417761127013791
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	12	6	acquisition	#FECB68	0.386223889019434
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	13	6		#FC622F	0.61281317392766
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	14	6		#FC622F	0.698484441618029
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	15	6		#F03623	0.719949464494519
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	16	6		#F03623	0.702274571259796
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	17	6		#FD913D	0.562046512181192
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	18	6		#FDAD4A	0.461050202438054
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	19	6		#FDAD4A	0.446403672099697
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	20	6	objects	#FECB68	0.327919246345799
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	21	6		#FDAD4A	0.429655519726152
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	22	6		#FD913D	0.506034839110202
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	23	6	language|semantic	#FD913D	0.586365583411554
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	1	7	dopamine|dopaminergic	#FFFFCC	0.0707773303146357
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	2	7		#FFF1A9	0.182830408770416
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	3	7		#FEE188	0.281600073013797
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	4	7		#FECB68	0.311319461532287
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	5	7		#FECB68	0.32983999348342
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	6	7		#FECB68	0.364830972318868
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	7	7		#FECB68	0.339035171984125
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	8	7		#FDAD4A	0.406263826354959
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	9	7		#FDAD4A	0.432594242795692
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	10	7		#FD913D	0.570144251468517
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	11	7		#FD913D	0.555413765767828
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	12	7		#FD913D	0.577667832399467
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	13	7	linguistic|spoken	#FDAD4A	0.457564974605771
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	14	7		#FC622F	0.692763705765876
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	15	7	comprehension|sentence|sentences|syntactic	#F03623	0.759016760704477
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	16	7		#F03623	0.702839811409008
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	17	7		#FD913D	0.572178041591378
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	18	7	phonological|reading|read	#FDAD4A	0.47249745461891
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	19	7		#FDAD4A	0.473011327605433
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	20	7	perceptual|recognition	#FDAD4A	0.413285496838094
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	21	7		#FDAD4A	0.469051072988823
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	22	7		#FD913D	0.518592099885959
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	23	7	verb	#FDAD4A	0.463512603071608
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	1	8	outcome|reward	#FFF1A9	0.192658676905671
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	2	8	anticipation	#FFF1A9	0.131181692352662
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	3	8	outcomes	#FEE188	0.233813160404543
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	4	8	choice|choices	#FFF1A9	0.174149036428173
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	5	8	decisions|probability	#FDAD4A	0.466962483878545
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	6	8	reversal	#FEE188	0.214640436629729
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	7	8	classification|incorrect	#FEE188	0.262310359681864
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	8	8		#FECB68	0.385737178003057
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	9	8	agerelated|fluency|probes	#FECB68	0.379636018954451
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	10	8	engaged	#FD913D	0.502659729584086
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	11	8	explicit|knowledge	#F03623	0.732496801335013
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	12	8		#FC622F	0.633957100779107
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	13	8		#FC622F	0.679748121068744
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	14	8		#FC622F	0.690306786285975
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	15	8		#FC622F	0.687269681888737
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	16	8		#FC622F	0.662163837728014
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	17	8	lexical	#FD913D	0.565194991868049
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	18	8		#FD913D	0.524255482712861
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	19	8		#FD913D	0.501961060555524
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	20	8		#FD913D	0.50401648255345
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	21	8	encoding	#FDAD4A	0.492330254154412
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	22	8	retrieval	#FDAD4A	0.492236766641353
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	23	8	verbal	#FECB68	0.393789577411511
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	1	9	incentive|monetary|money|rewards	#FFF1A9	0.123713765882989
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	2	9	loss	#FFF1A9	0.175853589522825
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	3	9		#FEE188	0.23320434374698
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	4	9		#FEE188	0.276946356909364
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	5	9	decisionmaking	#FECB68	0.348165377459181
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	6	9		#FECB68	0.395443035567468
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	7	9		#FDAD4A	0.402345729150909
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	8	9		#FDAD4A	0.424978734535978
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	9	9		#FD913D	0.548751456191975
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	10	9		#FC622F	0.650516819163926
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	11	9		#F03623	0.706771544991519
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	12	9		#FC622F	0.692696618411979
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	13	9	noun	#FC622F	0.684516154753551
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	14	9	meaning	#FC622F	0.688615660729773
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	15	9	english	#FDAD4A	0.498190980976395
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	16	9	pseudoword|pseudowords	#FD913D	0.506707602844231
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	17	9		#FD913D	0.574945402448303
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	18	9		#FD913D	0.573975758915305
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	19	9	familiar|judgment	#FD913D	0.574467617184068
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	20	9	pair|pairs	#FDAD4A	0.476210645044757
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	21	9		#FDAD4A	0.454683543483764
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	22	9		#FECB68	0.38132321403365
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	23	9	letter|working	#FECB68	0.313182281545082
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	1	10	losses|reinforcement|win	#FEE188	0.227622004924452
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	2	10	gain	#FFF1A9	0.128334878612124
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	3	10	expectation	#FFF1A9	0.166601766768833
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	4	10	risk	#FFF1A9	0.184128926280693
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	5	10	fact	#FECB68	0.303531370478577
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	6	10	associative	#FEE188	0.278531136054619
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	7	10	familiarity|judgments|old	#FD913D	0.526700986497258
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	8	10	contextual|text	#FDAD4A	0.463316603180625
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	9	10	recall|retrieved	#FDAD4A	0.41248773677035
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	10	10	conceptual|semantically	#D7141E	0.887230060171716
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	11	10	grammatical|speakers	#FC622F	0.607570867725524
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	12	10	nouns	#FC622F	0.625394728938265
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	13	10	japanese	#FD913D	0.535662833968918
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	14	10	languages	#FDAD4A	0.482794786097538
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	15	10	written	#FECB68	0.395477972288114
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	16	10	chinese|phonology	#FDAD4A	0.40790440986152
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	17	10	orthographic	#FDAD4A	0.459932025191417
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	18	10		#FD913D	0.59221059462013
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	19	10		#FD913D	0.583774978111731
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	20	10	association|decision	#FDAD4A	0.483724793162411
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	21	10	selection	#FECB68	0.387080655165334
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	22	10	letters	#FEE188	0.256653448914466
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	23	10	demand|load	#FEE188	0.258386913011214
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	1	11	conditioned|conditioning	#FFF1A9	0.151873232876596
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	2	11		#FEE188	0.228376063649833
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	3	11	drug|placebo	#FFF1A9	0.174694157199164
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	4	11		#FECB68	0.330662417831982
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	5	11	associations	#FEE188	0.271372490994353
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	6	11		#FD913D	0.505313503776583
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	7	11	episodic|recollection	#FD913D	0.500772884747492
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	8	11		#FD913D	0.533031129042516
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	9	11		#F03623	0.748228247544873
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	10	11	concepts	#D7141E	0.833066025757797
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	11	11		#F03623	0.78693979075031
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	12	11		#F03623	0.704258417093859
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	13	11	german	#FD913D	0.566834510491582
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	14	11	readers	#FD913D	0.559227299841766
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	15	11	character|name|naming	#FDAD4A	0.420541663279329
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	16	11		#FDAD4A	0.405237659020432
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	17	11	novel	#FDAD4A	0.407209258451519
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	18	11		#FDAD4A	0.491826217813503
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	19	11	child|children	#F03623	0.713289682080027
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	20	11	adults	#FDAD4A	0.4907570293272
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	21	11	ability|feedback|learning	#FECB68	0.321238630171363
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	22	11	cues|delay	#FFF1A9	0.192640846593155
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	23	11	attentional|difficulty|targets	#FEE188	0.266406874511648
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	1	12	aversive|shock	#FEE188	0.245155908674442
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	2	12	reactivity	#FEE188	0.223596034577105
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	3	12	males|sex|women	#FEE188	0.268935355430656
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	4	12	animal	#FECB68	0.348904811179726
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	5	12	animals	#FECB68	0.366583389094475
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	6	12		#FD913D	0.546436316239799
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	7	12	remember|subsequent	#FD913D	0.5371929786586
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	8	12	autobiographical|memories	#FC622F	0.620279038405647
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	9	12		#D7141E	0.809405156474788
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	10	12	violation|violations	#D7141E	0.824802151791168
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	11	12	aphasia	#FC622F	0.688456832244685
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	12	12	nonwords	#FD913D	0.522765696285053
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	13	12	dyslexia	#FD913D	0.507283878084879
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	14	12		#FDAD4A	0.462348636258098
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	15	12	priming	#FECB68	0.326426322658178
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	16	12		#FECB68	0.347786267176051
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	17	12	category|repetition	#FEE188	0.270509395718053
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	18	12		#FDAD4A	0.460849622967013
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	19	12	developmental|development	#FDAD4A	0.423272098302693
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	20	12		#FDAD4A	0.430512699553261
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	21	12	space	#FEE188	0.296989983558111
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	22	12		#FEE188	0.252415909860393
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	23	12	color	#FEE188	0.267646573821268
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	1	13	threat	#FEE188	0.225997319033537
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	2	13	regulation	#FDAD4A	0.423357231559937
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	3	13		#FDAD4A	0.412926026643563
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	4	13	masked	#FECB68	0.337018948025951
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	5	13	scene|scenes	#FDAD4A	0.426506058381869
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	6	13		#FD913D	0.581535529900682
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	7	13	confidence|remembered	#FEE188	0.272896725654287
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	8	13		#FC622F	0.670864862329068
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	9	13		#D7141E	0.810923482525017
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	10	13	ambiguity|ambiguous	#FD913D	0.506951763231432
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	11	13		#F03623	0.737337271406688
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	12	13		#FD913D	0.524180104727271
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	13	13	writing	#FEE188	0.219711533870955
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	14	13		#FECB68	0.398336899447484
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	15	13	categorization|congruency|prime	#FFF1A9	0.193451362925762
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	16	13		#FECB68	0.339779599947877
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	17	13	mask	#FEE188	0.274149077710349
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	18	13		#FECB68	0.38896298217329
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	19	13		#FDAD4A	0.409148634912867
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	20	13		#FECB68	0.33145812333588
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	21	13	conflict|congruent|incongruent	#FEE188	0.205567918720065
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	22	13	errors	#FEE188	0.244209212922305
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	23	13	maintenance|probe|wm	#FFF1A9	0.19726250631824
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	1	14	angry|fearful|happy	#FEE188	0.28819582039204
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	2	14		#FECB68	0.377195820000941
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	3	14	awareness|conscious|ptsd	#FECB68	0.344345781996191
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	4	14		#FD913D	0.517470092633629
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	5	14	houses|photographs	#FECB68	0.313132993886768
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	6	14		#FD913D	0.550485822426343
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	7	14	hits	#FDAD4A	0.475287539733355
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	8	14	famous	#FC622F	0.611970454248505
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	9	14	names	#F03623	0.779214373463596
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	10	14	family	#FD913D	0.525369149897607
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	11	14	competition|mouth	#FDAD4A	0.449993550571579
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	12	14	abilities	#FECB68	0.390755776908204
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	13	14	implicit|unfamiliar	#FECB68	0.387111106882734
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	14	14		#FECB68	0.355957877641336
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	15	14	tom	#FD913D	0.522942374819325
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	16	14		#FECB68	0.318416546566323
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	17	14		#FECB68	0.316719435959866
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	18	14	stop	#FEE188	0.29272729007728
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	19	14	inhibition|inhibitory|nogo	#FECB68	0.314479633054577
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	20	14	monitoring|stroop	#FEE188	0.230160050369729
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	21	14	interference	#FEE188	0.20588223845684
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	22	14		#FEE188	0.209983364364898
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	23	14	demands|executive	#FFF1A9	0.197924652518335
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	1	15	anger	#FEE188	0.284361353782588
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	2	15	stress	#FDAD4A	0.404901754680343
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	3	15	feelings	#FD913D	0.501304545104566
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	4	15	salient	#FECB68	0.347837410663743
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	5	15	novelty	#FDAD4A	0.401087168055654
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	6	15	movie	#FEE188	0.221196441545929
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	7	15		#FD913D	0.583819627763461
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	8	15		#FC622F	0.61426032706067
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	9	15	longterm	#FEE188	0.274011558397912
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	10	15		#FD913D	0.506225975123546
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	11	15	reasoning|relational	#FFF1A9	0.196166231644802
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	12	15		#FECB68	0.395829017273819
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	13	15	presentations	#FFF1A9	0.171501010594409
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	14	15		#FECB68	0.313346246458416
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	15	15	identity	#FEE188	0.29076851852235
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	16	15		#FEE188	0.298881600689875
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	17	15	strategies|strategy	#FEE188	0.283255170946928
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	18	15	card|cards	#FECB68	0.373730021842621
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	19	15	gonogo	#FECB68	0.35181486634464
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	20	15		#FEE188	0.27067048351651
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	21	15	switching|switch	#FFF1A9	0.101637197057321
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	22	15		#FFF1A9	0.188555420872734
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	23	15	2back|rule	#FFF1A9	0.13873561603065
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	1	16	emotionally|mood|personality|sadness	#FDAD4A	0.486634992039231
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	2	16	disgust|sexual	#FFF1A9	0.169200847298263
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	3	16	olfactory	#FEE188	0.206074339121849
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	4	16	physiological	#FDAD4A	0.40245243084049
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	5	16	depressed|depressive|habituation	#FECB68	0.355519333107296
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	6	16	schizophrenic	#FDAD4A	0.42018971083856
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	7	16	colors|contexts	#FDAD4A	0.492467371516105
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	8	16	aging|encoded	#FECB68	0.320164775813651
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	9	16	goal	#FDAD4A	0.430382536518698
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	10	16		#FDAD4A	0.405611385499606
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	11	16	autism|autistic|nonverbal	#FC622F	0.618289402421571
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	12	16		#FECB68	0.35880330578385
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	13	16	bottomup|repetitions	#FEE188	0.210807113118686
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	14	16	adaptation	#FFF1A9	0.157268407874911
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	15	16	irrelevant	#FFF1A9	0.169070703375533
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	16	16	distractor|distractors	#FFF1A9	0.133324571192928
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	17	16		#FEE188	0.240744442329498
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	18	16	subtraction	#FFFFCC	0.0788191589722552
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	19	16	1back|nback	#FFF1A9	0.196541858067143
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	20	16	manipulation|rules	#FEE188	0.207415819112159
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	21	16		#FFF1A9	0.195058157986433
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	22	16		#FFF1A9	0.158797697372983
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	23	16	digit	#FFF1A9	0.106796489793168
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	1	17	avoidance	#FEE188	0.284891347072872
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	2	17		#FECB68	0.342300480894736
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	3	17	eating|food	#FEE188	0.292261647408133
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	4	17	taste	#FDAD4A	0.438184016262713
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	5	17	bipolar	#FD913D	0.55167987089656
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	6	17	illness|uncertainty	#FECB68	0.382094982262658
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	7	17	females|probabilistic	#FECB68	0.305549009934051
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	8	17	rejection	#FFF1A9	0.163623106713136
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	9	17	colour|paired	#FFF1A9	0.162968367543014
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	10	17		#FECB68	0.397263915583476
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	11	17		#FECB68	0.396073858817153
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	12	17		#FECB68	0.36407408169529
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	13	17	taskirrelevant	#FFF1A9	0.139530149593812
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	14	17		#FFF1A9	0.157696930178094
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	15	17	suppression	#FFF1A9	0.133110253781853
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	16	17		#FFF1A9	0.141094565008688
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	17	17	shifting|shortterm	#FFF1A9	0.124973237748173
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	18	17	digits	#FFF1A9	0.197742892302371
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	19	17	search	#FFF1A9	0.191874419414486
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	20	17	counting|taskrelated	#FECB68	0.387411038874379
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	21	17	topdown	#FFF1A9	0.145426810078354
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	22	17	visuospatial	#FFF1A9	0.13093481311797
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	23	17	arithmetic|calculation|solving	#FFF1A9	0.161122948664052
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	1	18	addiction|craving|drugs	#FEE188	0.295710800808757
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	2	18	allele|genotype|polymorphism	#FECB68	0.348949855731227
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	3	18	motivation	#FFF1A9	0.176144493387928
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	4	18	heart	#FD913D	0.512559376089732
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	5	18	sleep	#FECB68	0.317478061082142
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	6	18	expectancy	#FECB68	0.374579113593599
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	7	18	phasic|salience	#FFFFCC	0.0642791028907556
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	8	18	adolescence|adolescents	#FEE188	0.214870044169441
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	9	18	intelligence|tracking	#FDAD4A	0.403849350912005
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	10	18		#FECB68	0.377917724721686
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	11	18	serial	#FECB68	0.390513892249939
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	12	18		#FECB68	0.313752782233329
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	13	18	spatially|taskrelevant	#FEE188	0.221175818074663
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	14	18		#FFF1A9	0.147589859024797
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	15	18	attended|attend|unattended	#FFFFCC	0.0776873431894711
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	16	18	rotation|shapes	#FFFFCC	0.0433270404176144
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	17	18	rehearsal	#FFF1A9	0.137549901751254
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	18	18	learned	#FFFFCC	0.0954630319925085
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	19	18		#FFF1A9	0.175233102777374
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	20	18	cued|preparatory	#FFF1A9	0.1172513727092
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	21	18		#FEE188	0.203145034075897
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	22	18		#FEE188	0.208484025802841
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	23	18	numbers|numerical	#FFF1A9	0.163217111644177
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	1	19	future	#FECB68	0.343288955999197
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	2	19	negatively	#FC622F	0.62466306412384
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	3	19	distress|epilepsy|selfreported	#FDAD4A	0.405851505561548
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	4	19	anticipatory|cocaine|probabilities|smoking	#FFF1A9	0.165298114857009
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	5	19	alcohol|amount|impulsivity	#FFF1A9	0.126474698882652
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	6	19	game|success	#FFF1A9	0.172876274463125
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	7	19	adhd|childhood|engagement	#FEE188	0.275794114223498
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	8	19		#FECB68	0.381553032370779
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	9	19		#FECB68	0.309536375461684
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	10	19		#FECB68	0.316692809978095
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	11	19		#FECB68	0.303619900732222
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	12	19	endogenous	#FECB68	0.308331504181027
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	13	19	cueing|invalid|orienting	#FEE188	0.266285935104144
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	14	19		#FFF1A9	0.156662954615182
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	15	19	multisensory	#FFFFCC	0.089518003924213
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	16	19		#FFF1A9	0.129815533648368
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	17	19	shifts	#FFF1A9	0.164328165428614
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	18	19	covert	#FEE188	0.245231080524617
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	19	19		#FFF1A9	0.141322961776319
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	20	19	preparation	#FFFFCC	0.0693824258583787
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	21	19	discrimination|training	#FEE188	0.209857490070131
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	22	19	sequences	#FECB68	0.348933341047526
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	23	19		#FECB68	0.303864021216134
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	1	20	personal|self|selfreferential|trait|traits	#D7141E	0.884766643529104
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	2	20	empathic|theory	#B10026	0.994059311671269
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	3	20	attribution|intentional	#FECB68	0.391118816366686
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	4	20	elderly|oscillations	#FECB68	0.388595325674503
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	5	20	antipsychotic|virtual	#FECB68	0.398726160936074
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	6	20		#FDAD4A	0.436630892778385
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	7	20	experiences	#FDAD4A	0.450960903241452
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	8	20	categorical|pressure	#FDAD4A	0.467603536927622
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	9	20	play|skills	#FFF1A9	0.128924076650323
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	10	20	automatic|trained	#FFF1A9	0.157387677697974
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	11	20		#FEE188	0.271004979740749
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	12	20	practice	#FFF1A9	0.157822547032967
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	13	20	visuomotor	#FFFFCC	0.0775040054175249
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	14	20		#FEE188	0.209110547548511
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	15	20	tool	#FFF1A9	0.184092907003996
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	16	20	vision	#FFFFCC	0.0580445041939241
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	17	20	visually	#FEE188	0.224139559744559
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	18	20	saccade|saccades|saccadic	#FFFFCC	0.0886979985044467
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	19	20	locations	#FFFFCC	0.0950091360028429
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	20	20	imagery|planning	#FFF1A9	0.141721088038505
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	21	20		#FFF1A9	0.18254347616955
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	22	20	rest	#FDAD4A	0.454523219804448
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	23	20	sequence	#FEE188	0.265369449959312
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	1	21	scenarios	#B10026	1
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	2	21	intention|intentions	#FC622F	0.696583679756909
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	3	21	causality|perspective	#F03623	0.799568730561198
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	4	21	past	#FDAD4A	0.495504107547692
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	5	21		#FD913D	0.529937986159524
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	6	21	episode	#FECB68	0.321707967508021
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	7	21	improvement	#FD913D	0.5078358507873
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	8	21	masking|retention	#FFF1A9	0.132457499273842
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	9	21		#FEE188	0.253032751542865
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	10	21	dominant	#FEE188	0.230543222694265
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	11	21		#FEE188	0.242908786817929
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	12	21	sequential	#FECB68	0.305510650619844
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	13	21	fingers	#FFF1A9	0.144622623545207
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	14	21		#FEE188	0.275304612804074
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	15	21	gesture|gestures	#FECB68	0.332400344628709
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	16	21		#FEE188	0.21671661239263
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	17	21	hands	#FFFFCC	0.0727102821121987
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	18	21		#FFF1A9	0.16294283611377
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	19	21		#FEE188	0.202704491660028
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	20	21	eye|position	#FFF1A9	0.144855328729592
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	21	21	execution	#FFF1A9	0.160305444168855
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	22	21	finger|sensorimotor	#FFF1A9	0.138714951506671
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	23	21		#FFF1A9	0.168648166405017
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	1	22	moral|stories|story	#F03623	0.742703513610696
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	2	22	mentalizing|persons	#FC622F	0.676531147438531
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	3	22	default|restingstate	#F03623	0.742402484321965
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	4	22	thinking|thought|thoughts	#FECB68	0.33573773355019
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	5	22	spontaneous	#FECB68	0.38593868194302
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	6	22	concentration|sensations	#FECB68	0.3800851069939
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	7	22	hierarchical|preference	#FFF1A9	0.143250467783809
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	8	22	effort|oral|simulation	#FD913D	0.51417724021185
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	9	22	interhemispheric|plasticity	#FFF1A9	0.161235424960455
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	10	22	imagined|imagine	#FFF1A9	0.144432977628058
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	11	22	tapping	#FEE188	0.207288346852985
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	12	22	foot|muscle|muscles|voluntary	#FEE188	0.203013714609031
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	13	22	limb	#FFF1A9	0.14454421304039
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	14	22	eyes|velocity	#FEE188	0.221300746786856
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	15	22	biological|gaze|videos	#FEE188	0.275385826261039
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	16	22	body	#FEE188	0.22861647109213
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	17	22	grasping|orientation|reaching	#FFFFCC	0.0569362810389598
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	18	22		#FFF1A9	0.168201557258956
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	19	22	mirror|shape	#FEE188	0.218294080717722
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	20	22	actions	#FECB68	0.328643551525928
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	21	22	action	#FEE188	0.265733776455
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	22	22		#FFF1A9	0.116577538691376
+56cbcc99-bafd-3bd7-8c51-6a42fa1d2df7	Burkard RF	23	22	hand|movements|sensory	#FFFFCC	0

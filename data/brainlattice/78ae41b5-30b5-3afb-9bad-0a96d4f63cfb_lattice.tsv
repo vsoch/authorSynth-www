@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	1	1	auditory|speech	#FDAD4A	0.482768256280603
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	2	1		#FD913D	0.574617348883942
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	3	1	da|integration	#FD913D	0.593017425915965
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	4	1		#FC622F	0.651152602180147
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	5	1	physical|psychophysical|tactile	#FC622F	0.684958923467416
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	6	1		#F03623	0.761432686808369
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	7	1	somatosensory|stimulation	#FC622F	0.682795099846988
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	8	1	painful|pain	#D7141E	0.858427439357065
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	9	1		#D7141E	0.855605805572914
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	10	1	ratings	#FC622F	0.693322694883925
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	11	1	affective|affect	#FC622F	0.681124756052961
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	12	1	emotions	#FD913D	0.56343887572871
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	13	1	expression|expressions|facial	#FD913D	0.566203277864454
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	14	1		#FD913D	0.559300872551927
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	15	1		#FD913D	0.531471079121323
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	16	1	emotion|motion|neutral	#FDAD4A	0.454348257776312
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	17	1	rating	#FDAD4A	0.484668952006537
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	18	1	negative|positive	#FDAD4A	0.484549789050263
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	19	1		#FECB68	0.334299775833027
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	20	1	ear|order	#FEE188	0.209439070962964
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	21	1	motor	#FFF1A9	0.133373193810973
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	22	1	visual	#FFFFCC	0
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	23	1	age|image|response	#FFFFCC	0.0514851730203101
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	1	2	sound|sounds	#FC622F	0.66385970415891
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	2	2		#FD913D	0.58870824877996
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	3	2	audiovisual|bimodal|crossmodal	#FD913D	0.520589285624634
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	4	2		#FC622F	0.636864860891448
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	5	2		#FC622F	0.679174171454869
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	6	2		#F03623	0.743699364204599
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	7	2	sensation	#D7141E	0.845622991904931
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	8	2	heat|noxious	#D7141E	0.880948861091995
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	9	2		#D7141E	0.839524064352015
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	10	2		#F03623	0.735513974646542
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	11	2		#FC622F	0.69232117933536
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	12	2	valence	#FC622F	0.691953251163626
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	13	2	person|social	#FD913D	0.559855108394723
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	14	2		#FD913D	0.56592878377937
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	15	2	face|faces	#FDAD4A	0.451551441226709
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	16	2		#FDAD4A	0.483739195653907
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	17	2		#FDAD4A	0.487325472551596
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	18	2		#FDAD4A	0.407882292173784
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	19	2		#FECB68	0.346559582464432
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	20	2		#FEE188	0.210449412136599
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	21	2	images|spatial	#FFF1A9	0.127001278950164
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	22	2	control	#FFFFCC	0.0422477745891018
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	23	2	time	#FFFFCC	0.0709238096014791
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	1	3	acoustic|listening|musical|music|pitch	#FC622F	0.639839089687896
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	2	3	noise|tones	#FC622F	0.648509297625089
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	3	3		#FC622F	0.615060659840062
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	4	3		#FC622F	0.601556623472799
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	5	3	frequency	#FD913D	0.592925450184527
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	6	3		#F03623	0.741391910634597
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	7	3		#D7141E	0.862247530761533
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	8	3	temperature	#D7141E	0.822373692975723
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	9	3		#D7141E	0.835632254641353
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	10	3	pleasant|unpleasant	#F03623	0.721982113065538
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	11	3	anxiety	#FC622F	0.689237403874828
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	12	3		#FC622F	0.65799165636464
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	13	3		#FC622F	0.625951418246163
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	14	3		#FD913D	0.599497733501618
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	15	3		#FD913D	0.567677314085633
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	16	3	picture	#FD913D	0.529721040366204
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	17	3		#FDAD4A	0.499276264772503
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	18	3	value	#FD913D	0.570836793818182
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	19	3	cue	#FECB68	0.303210297993554
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	20	3	error|target	#FECB68	0.304053392437694
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	21	3	attention	#FFF1A9	0.141982680651889
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	22	3		#FFF1A9	0.148595428847742
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	23	3	number	#FFF1A9	0.169276611415878
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	1	4	voice	#FC622F	0.601401566761377
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	2	4		#FC622F	0.620794389414704
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	3	4	hearing	#FDAD4A	0.496664906067752
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	4	4		#FC622F	0.605710568021288
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	5	4	overt	#FD913D	0.558596238833698
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	6	4		#FC622F	0.692101976988747
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	7	4		#D7141E	0.864412654381509
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	8	4	nociceptive|nonpainful|painrelated	#D7141E	0.802083288534834
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	9	4	unpleasantness	#D7141E	0.810446713019302
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	10	4	skin|subjective	#F03623	0.752835452658779
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	11	4	depression	#FC622F	0.672859210493431
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	12	4	experience	#FC622F	0.608619430556155
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	13	4	female	#FC622F	0.616581929448651
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	14	4	male	#FC622F	0.652806576838114
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	15	4	pictures	#FD913D	0.569904598057585
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	16	4		#FD913D	0.523416671341705
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	17	4	perception	#FDAD4A	0.408238032698748
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	18	4		#FECB68	0.383111560851609
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	19	4		#FECB68	0.335521210384222
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	20	4		#FEE188	0.26612468264878
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	21	4	correct	#FECB68	0.304892851843824
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	22	4	work	#FEE188	0.280323556765539
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	23	4	memory	#FFF1A9	0.164897788116938
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	1	5	prosodic|prosody	#FC622F	0.64870436928225
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	2	5	phonetic	#FD913D	0.554996391609952
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	3	5	syllable|syllables	#FD913D	0.565451213771947
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	4	5		#FC622F	0.61378928900454
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	5	5	lip|production	#FC622F	0.617687461653149
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	6	5	somatotopic	#B10026	0.990896690502159
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	7	5		#D7141E	0.829978520418838
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	8	5		#F03623	0.768795504589046
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	9	5	empathy	#F03623	0.728863635006978
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	10	5		#FC622F	0.687560755327227
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	11	5	disorder	#FC622F	0.67466954871958
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	12	5		#FC622F	0.655453912445675
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	13	5		#FC622F	0.634887272720024
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	14	5		#FC622F	0.607405654471392
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	15	5		#FD913D	0.572664456557637
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	16	5		#FD913D	0.511499174907104
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	17	5		#FDAD4A	0.475221893936049
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	18	5	mental	#FDAD4A	0.4234439838098
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	19	5	go	#FECB68	0.367102963834441
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	20	5	object	#FFFFCC	0.0673477143564014
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	21	5		#FEE188	0.275560568507137
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	22	5		#FEE188	0.246153297452512
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	23	5	word|words	#FEE188	0.219456497635102
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	1	6		#D7141E	0.831460780122334
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	2	6		#F03623	0.797834438018791
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	3	6		#F03623	0.735514003851885
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	4	6	vocal	#FD913D	0.543990943602461
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	5	6	articulatory	#FD913D	0.54186628044157
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	6	6		#F03623	0.711631815577942
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	7	6	oddball	#FC622F	0.605932390773161
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	8	6	perceived	#F03623	0.719145606280156
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	9	6	errorrelated	#FD913D	0.587142980061044
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	10	6	approach	#FD913D	0.589444468685086
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	11	6	schizophrenia	#FC622F	0.614580476499369
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	12	6	acquisition	#F03623	0.722699486545934
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	13	6		#FD913D	0.589615881275795
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	14	6		#FD913D	0.524272108357312
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	15	6		#FD913D	0.507931423825764
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	16	6		#FD913D	0.503493389191889
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	17	6		#FDAD4A	0.497750253974534
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	18	6		#FDAD4A	0.43883335106428
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	19	6		#FDAD4A	0.455255189751064
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	20	6	objects	#FDAD4A	0.456337956294525
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	21	6		#FECB68	0.363650752315765
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	22	6		#FECB68	0.302671492382076
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	23	6	language|semantic	#FEE188	0.295962907766844
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	1	7	dopamine|dopaminergic	#D7141E	0.847960923269579
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	2	7		#D7141E	0.886384417163309
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	3	7		#F03623	0.785140955327673
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	4	7		#F03623	0.724570170897407
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	5	7		#F03623	0.701679321613017
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	6	7		#F03623	0.742052847713509
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	7	7		#F03623	0.737295020521582
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	8	7		#FC622F	0.694784169697747
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	9	7		#FC622F	0.6271649677562
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	10	7		#FD913D	0.57314476042849
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	11	7		#FD913D	0.583299742028253
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	12	7		#FD913D	0.568672969375891
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	13	7	linguistic|spoken	#FDAD4A	0.478361271706424
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	14	7		#FD913D	0.506308113219261
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	15	7	comprehension|sentence|sentences|syntactic	#FDAD4A	0.482353404877331
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	16	7		#FDAD4A	0.490937432464329
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	17	7		#FDAD4A	0.49983013590777
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	18	7	phonological|reading|read	#FDAD4A	0.494845806038582
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	19	7		#FD913D	0.510578902912683
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	20	7	perceptual|recognition	#FD913D	0.544190748918251
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	21	7		#FDAD4A	0.454077092625015
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	22	7		#FECB68	0.370716189228781
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	23	7	verb	#FECB68	0.354447533917734
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	1	8	outcome|reward	#D7141E	0.8870107045543
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	2	8	anticipation	#D7141E	0.866142123917606
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	3	8	outcomes	#F03623	0.763218895321412
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	4	8	choice|choices	#FC622F	0.651904842135547
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	5	8	decisions|probability	#FC622F	0.653836898805415
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	6	8	reversal	#F03623	0.718520111295327
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	7	8	classification|incorrect	#F03623	0.791770898734846
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	8	8		#FC622F	0.693106177337508
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	9	8	agerelated|fluency|probes	#FD913D	0.517226773501564
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	10	8	engaged	#FDAD4A	0.479587339391308
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	11	8	explicit|knowledge	#FD913D	0.527250950945825
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	12	8		#FD913D	0.514281014739562
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	13	8		#FD913D	0.509773370206743
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	14	8		#FDAD4A	0.499447521547524
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	15	8		#FDAD4A	0.495174170835254
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	16	8		#FDAD4A	0.497010780554826
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	17	8	lexical	#FDAD4A	0.499144842975286
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	18	8		#FD913D	0.514578406847018
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	19	8		#FD913D	0.527096366065354
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	20	8		#FD913D	0.536147372106812
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	21	8	encoding	#FD913D	0.563101779130498
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	22	8	retrieval	#FECB68	0.384456279798058
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	23	8	verbal	#FDAD4A	0.42297178217992
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	1	9	incentive|monetary|money|rewards	#D7141E	0.842044911741483
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	2	9	loss	#D7141E	0.878704252761581
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	3	9		#F03623	0.800088103914674
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	4	9		#F03623	0.748888734690667
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	5	9	decisionmaking	#FC622F	0.648937398029978
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	6	9		#F03623	0.745324016093126
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	7	9		#F03623	0.717012616481988
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	8	9		#FC622F	0.679770557136172
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	9	9		#FD913D	0.583410924250173
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	10	9		#FD913D	0.5088819357261
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	11	9		#FDAD4A	0.498577514227123
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	12	9		#FD913D	0.504485481882704
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	13	9	noun	#FDAD4A	0.478773709477159
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	14	9	meaning	#FD913D	0.506929915035704
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	15	9	english	#FDAD4A	0.499465570460246
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	16	9	pseudoword|pseudowords	#FD913D	0.514561281472
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	17	9		#FD913D	0.500307823107712
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	18	9		#FD913D	0.533198293375068
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	19	9	familiar|judgment	#FD913D	0.544278168142405
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	20	9	pair|pairs	#FD913D	0.550838435714644
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	21	9		#FD913D	0.570508981065137
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	22	9		#FD913D	0.526282770426113
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	23	9	letter|working	#FDAD4A	0.48783913627998
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	1	10	losses|reinforcement|win	#D7141E	0.850813853613448
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	2	10	gain	#D7141E	0.900564281379291
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	3	10	expectation	#D7141E	0.830829154940019
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	4	10	risk	#F03623	0.774085349056393
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	5	10	fact	#F03623	0.744891728946984
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	6	10	associative	#F03623	0.7863853692091
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	7	10	familiarity|judgments|old	#FD913D	0.555965144521608
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	8	10	contextual|text	#FD913D	0.530630220379668
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	9	10	recall|retrieved	#FD913D	0.509678678555897
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	10	10	conceptual|semantically	#FDAD4A	0.450987518418791
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	11	10	grammatical|speakers	#FD913D	0.521995683926844
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	12	10	nouns	#FDAD4A	0.465478966281745
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	13	10	japanese	#FDAD4A	0.475314507850313
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	14	10	languages	#FDAD4A	0.45795246223264
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	15	10	written	#FDAD4A	0.496848826969255
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	16	10	chinese|phonology	#FDAD4A	0.437230322755044
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	17	10	orthographic	#FDAD4A	0.484505430689945
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	18	10		#FD913D	0.546588542883178
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	19	10		#FD913D	0.569929700272574
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	20	10	association|decision	#FC622F	0.614086089356442
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	21	10	selection	#FD913D	0.592356981512415
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	22	10	letters	#FD913D	0.534498720831213
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	23	10	demand|load	#FD913D	0.534991753127982
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	1	11	conditioned|conditioning	#F03623	0.76867664092436
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	2	11		#D7141E	0.860876021620053
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	3	11	drug|placebo	#F03623	0.753736892351134
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	4	11		#D7141E	0.803244375600583
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	5	11	associations	#FC622F	0.691780604969873
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	6	11		#FC622F	0.695515430323133
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	7	11	episodic|recollection	#FC622F	0.689711135101268
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	8	11		#FC622F	0.653496042410561
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	9	11		#FC622F	0.606409168668725
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	10	11	concepts	#FDAD4A	0.463824883558029
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	11	11		#FD913D	0.566862740500695
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	12	11		#FD913D	0.573123165946934
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	13	11	german	#F03623	0.732684987895054
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	14	11	readers	#FD913D	0.518924809773363
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	15	11	character|name|naming	#FDAD4A	0.442935488272582
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	16	11		#FD913D	0.537873722732625
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	17	11	novel	#FD913D	0.576264558254561
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	18	11		#FD913D	0.565573031801462
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	19	11	child|children	#FD913D	0.506575844907337
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	20	11	adults	#FC622F	0.616719809954081
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	21	11	ability|feedback|learning	#F03623	0.80034268141984
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	22	11	cues|delay	#FC622F	0.631620504334788
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	23	11	attentional|difficulty|targets	#FD913D	0.520952170479692
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	1	12	aversive|shock	#FC622F	0.676780088086173
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	2	12	reactivity	#D7141E	0.813136335073613
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	3	12	males|sex|women	#FD913D	0.58392433747989
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	4	12	animal	#D7141E	0.865170154384026
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	5	12	animals	#F03623	0.723947874965449
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	6	12		#FC622F	0.672503124937479
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	7	12	remember|subsequent	#FD913D	0.593939578857561
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	8	12	autobiographical|memories	#FD913D	0.542096188202784
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	9	12		#FC622F	0.619101340084705
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	10	12	violation|violations	#FD913D	0.509551482589263
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	11	12	aphasia	#FD913D	0.577761163749193
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	12	12	nonwords	#FC622F	0.669191796322107
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	13	12	dyslexia	#FD913D	0.520734286566805
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	14	12		#FD913D	0.506447483152179
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	15	12	priming	#FD913D	0.511040680522627
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	16	12		#FD913D	0.551713866483722
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	17	12	category|repetition	#FD913D	0.589855927270323
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	18	12		#FD913D	0.571564383587066
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	19	12	developmental|development	#FD913D	0.51841984027732
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	20	12		#FD913D	0.597932651494458
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	21	12	space	#FC622F	0.700274159413782
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	22	12		#FD913D	0.575712715199341
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	23	12	color	#FD913D	0.541542963384342
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	1	13	threat	#FD913D	0.538311724341874
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	2	13	regulation	#FC622F	0.633218153496982
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	3	13		#FC622F	0.68809475228702
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	4	13	masked	#FC622F	0.611413410972411
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	5	13	scene|scenes	#FC622F	0.64029006469313
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	6	13		#FC622F	0.651020041611621
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	7	13	confidence|remembered	#FC622F	0.626263279799059
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	8	13		#FC622F	0.640646858410047
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	9	13		#FC622F	0.63355281817645
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	10	13	ambiguity|ambiguous	#FD913D	0.578816834265765
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	11	13		#FC622F	0.630425051015507
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	12	13		#FC622F	0.612736591816072
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	13	13	writing	#FDAD4A	0.484159623963017
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	14	13		#FD913D	0.53534443345711
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	15	13	categorization|congruency|prime	#FDAD4A	0.458033703338159
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	16	13		#FD913D	0.569888867856402
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	17	13	mask	#FD913D	0.555781933163783
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	18	13		#FD913D	0.593613572463445
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	19	13		#FD913D	0.588671609666664
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	20	13		#FD913D	0.566519374504713
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	21	13	conflict|congruent|incongruent	#FD913D	0.508189167486127
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	22	13	errors	#FD913D	0.579115938668909
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	23	13	maintenance|probe|wm	#FD913D	0.528855570534215
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	1	14	angry|fearful|happy	#FC622F	0.637546167091925
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	2	14		#FC622F	0.624046358843505
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	3	14	awareness|conscious|ptsd	#FDAD4A	0.493907492656636
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	4	14		#FC622F	0.668772150721394
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	5	14	houses|photographs	#FD913D	0.517694207838246
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	6	14		#FC622F	0.653145247223047
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	7	14	hits	#FD913D	0.556390543090001
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	8	14	famous	#FD913D	0.503603853546848
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	9	14	names	#FD913D	0.546880488630237
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	10	14	family	#FC622F	0.663591021680124
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	11	14	competition|mouth	#FD913D	0.578457217892342
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	12	14	abilities	#FD913D	0.59510368481306
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	13	14	implicit|unfamiliar	#FD913D	0.594153256837596
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	14	14		#FD913D	0.542491493504301
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	15	14	tom	#FD913D	0.501020277970449
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	16	14		#FD913D	0.548361782857738
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	17	14		#FD913D	0.565006989364294
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	18	14	stop	#FD913D	0.597584520001135
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	19	14	inhibition|inhibitory|nogo	#FD913D	0.584824338840589
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	20	14	monitoring|stroop	#FD913D	0.507626154453785
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	21	14	interference	#FDAD4A	0.485497997794232
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	22	14		#FD913D	0.524663854727156
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	23	14	demands|executive	#FDAD4A	0.486260235540162
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	1	15	anger	#FD913D	0.529633568117268
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	2	15	stress	#FD913D	0.582351928552823
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	3	15	feelings	#FC622F	0.652857589322882
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	4	15	salient	#FD913D	0.586904622950578
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	5	15	novelty	#FC622F	0.688445311198301
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	6	15	movie	#FDAD4A	0.48117777557549
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	7	15		#FC622F	0.631713220208346
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	8	15		#FC622F	0.627145824860041
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	9	15	longterm	#FD913D	0.506145550827421
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	10	15		#FD913D	0.560461726580756
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	11	15	reasoning|relational	#FD913D	0.502588123455492
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	12	15		#FD913D	0.558479815319871
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	13	15	presentations	#FDAD4A	0.496744896978352
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	14	15		#FD913D	0.553047481574258
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	15	15	identity	#FD913D	0.528850856593608
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	16	15		#FD913D	0.552364273446401
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	17	15	strategies|strategy	#FC622F	0.621247655513329
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	18	15	card|cards	#FD913D	0.519742047651744
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	19	15	gonogo	#FD913D	0.592725519214864
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	20	15		#FD913D	0.545360534961007
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	21	15	switching|switch	#FD913D	0.511894325253002
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	22	15		#FD913D	0.519875544365212
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	23	15	2back|rule	#FDAD4A	0.488041419380945
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	1	16	emotionally|mood|personality|sadness	#FC622F	0.640444714408144
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	2	16	disgust|sexual	#FC622F	0.602570233547089
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	3	16	olfactory	#FC622F	0.673640354497325
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	4	16	physiological	#F03623	0.7852315037427
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	5	16	depressed|depressive|habituation	#F03623	0.740921581708608
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	6	16	schizophrenic	#FD913D	0.543092300452268
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	7	16	colors|contexts	#FC622F	0.623434482867855
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	8	16	aging|encoded	#FC622F	0.609971691564461
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	9	16	goal	#FDAD4A	0.480054912742345
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	10	16		#FD913D	0.515294518780177
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	11	16	autism|autistic|nonverbal	#FD913D	0.501149444620043
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	12	16		#FD913D	0.536487046257609
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	13	16	bottomup|repetitions	#FD913D	0.537962331863789
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	14	16	adaptation	#FD913D	0.53412550502338
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	15	16	irrelevant	#FDAD4A	0.474286305473001
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	16	16	distractor|distractors	#FD913D	0.518769562837865
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	17	16		#FD913D	0.555735545502518
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	18	16	subtraction	#FDAD4A	0.461605079500938
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	19	16	1back|nback	#FDAD4A	0.469967772805166
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	20	16	manipulation|rules	#FD913D	0.503592400354964
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	21	16		#FD913D	0.524070519266958
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	22	16		#FD913D	0.507151471965076
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	23	16	digit	#FDAD4A	0.469323242277634
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	1	17	avoidance	#D7141E	0.865816297285786
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	2	17		#F03623	0.775176222726641
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	3	17	eating|food	#D7141E	0.862625244290444
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	4	17	taste	#B10026	1
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	5	17	bipolar	#F03623	0.748627990637782
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	6	17	illness|uncertainty	#FC622F	0.647565945477796
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	7	17	females|probabilistic	#FD913D	0.54755768680021
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	8	17	rejection	#FD913D	0.517437401360163
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	9	17	colour|paired	#FD913D	0.537183208608836
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	10	17		#FD913D	0.583373846830777
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	11	17		#FC622F	0.600767627896098
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	12	17		#FD913D	0.569406553457723
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	13	17	taskirrelevant	#FDAD4A	0.478234557424385
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	14	17		#FD913D	0.516475150234507
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	15	17	suppression	#FD913D	0.570455873816789
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	16	17		#FD913D	0.537370327537271
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	17	17	shifting|shortterm	#FD913D	0.561918170435753
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	18	17	digits	#FD913D	0.51781248952762
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	19	17	search	#FD913D	0.500166015751191
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	20	17	counting|taskrelated	#FD913D	0.558365557376193
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	21	17	topdown	#FDAD4A	0.496161250438312
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	22	17	visuospatial	#FDAD4A	0.466632127755331
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	23	17	arithmetic|calculation|solving	#FD913D	0.51332826977375
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	1	18	addiction|craving|drugs	#FC622F	0.686977157964466
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	2	18	allele|genotype|polymorphism	#D7141E	0.836646287495568
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	3	18	motivation	#FC622F	0.649732999444763
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	4	18	heart	#B10026	0.917000168297383
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	5	18	sleep	#B10026	0.991379388424498
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	6	18	expectancy	#FC622F	0.682128221185976
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	7	18	phasic|salience	#FDAD4A	0.476651527699903
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	8	18	adolescence|adolescents	#FD913D	0.529449687502272
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	9	18	intelligence|tracking	#FC622F	0.691550864402137
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	10	18		#FC622F	0.630203189856458
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	11	18	serial	#FD913D	0.597696608286203
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	12	18		#FD913D	0.572868903362274
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	13	18	spatially|taskrelevant	#FDAD4A	0.45036508663412
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	14	18		#FD913D	0.512099281264259
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	15	18	attended|attend|unattended	#FDAD4A	0.473871768029207
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	16	18	rotation|shapes	#FDAD4A	0.47991257265142
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	17	18	rehearsal	#FDAD4A	0.491441086139477
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	18	18	learned	#FC622F	0.636458534185768
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	19	18		#FD913D	0.553335881806381
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	20	18	cued|preparatory	#FD913D	0.55035961083067
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	21	18		#FD913D	0.549368363664959
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	22	18		#FD913D	0.527992111984132
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	23	18	numbers|numerical	#FDAD4A	0.490202380065335
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	1	19	future	#FC622F	0.61170357726832
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	2	19	negatively	#FD913D	0.573086061625681
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	3	19	distress|epilepsy|selfreported	#D7141E	0.875396117813886
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	4	19	anticipatory|cocaine|probabilities|smoking	#F03623	0.761181302789811
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	5	19	alcohol|amount|impulsivity	#B10026	0.937577469165697
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	6	19	game|success	#FD913D	0.537494673412011
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	7	19	adhd|childhood|engagement	#FC622F	0.657470788404328
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	8	19		#FC622F	0.622672343144262
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	9	19		#FC622F	0.604883639717359
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	10	19		#FC622F	0.607507390230531
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	11	19		#FC622F	0.612266220968534
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	12	19	endogenous	#FC622F	0.666004797117284
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	13	19	cueing|invalid|orienting	#FDAD4A	0.499433411948999
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	14	19		#FD913D	0.518569979357007
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	15	19	multisensory	#FD913D	0.528823786766851
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	16	19		#FD913D	0.51573119007413
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	17	19	shifts	#FD913D	0.515628408413439
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	18	19	covert	#FDAD4A	0.493063348519087
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	19	19		#FD913D	0.542633343307645
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	20	19	preparation	#FD913D	0.505269477217928
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	21	19	discrimination|training	#FD913D	0.550846434499086
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	22	19	sequences	#FC622F	0.604462621034258
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	23	19		#FD913D	0.582811807409843
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	1	20	personal|self|selfreferential|trait|traits	#FC622F	0.601406237839956
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	2	20	empathic|theory	#FC622F	0.601272672675555
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	3	20	attribution|intentional	#FDAD4A	0.432898379742941
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	4	20	elderly|oscillations	#FC622F	0.60572028833187
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	5	20	antipsychotic|virtual	#FD913D	0.579372325356614
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	6	20		#F03623	0.744370106783421
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	7	20	experiences	#FD913D	0.593721663739349
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	8	20	categorical|pressure	#FDAD4A	0.486640343148126
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	9	20	play|skills	#FDAD4A	0.466431325657488
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	10	20	automatic|trained	#FD913D	0.501766497133533
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	11	20		#FC622F	0.640695510007525
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	12	20	practice	#FD913D	0.553850191594541
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	13	20	visuomotor	#FD913D	0.569995690507228
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	14	20		#FD913D	0.563171752605265
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	15	20	tool	#FDAD4A	0.467021071479564
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	16	20	vision	#FDAD4A	0.454444787227321
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	17	20	visually	#FDAD4A	0.491595318313045
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	18	20	saccade|saccades|saccadic	#FD913D	0.516475251175827
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	19	20	locations	#FDAD4A	0.478903409049072
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	20	20	imagery|planning	#FD913D	0.542581106885177
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	21	20		#FD913D	0.525410272470479
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	22	20	rest	#FDAD4A	0.487948381031603
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	23	20	sequence	#FD913D	0.572519573294885
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	1	21	scenarios	#FDAD4A	0.441933721357276
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	2	21	intention|intentions	#FDAD4A	0.492682656240784
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	3	21	causality|perspective	#FDAD4A	0.44679100243764
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	4	21	past	#FDAD4A	0.489858138255679
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	5	21		#FC622F	0.661215777727315
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	6	21	episode	#FD913D	0.517015377532129
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	7	21	improvement	#FD913D	0.523506921607334
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	8	21	masking|retention	#FD913D	0.570220324647906
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	9	21		#FD913D	0.575517464294827
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	10	21	dominant	#FD913D	0.583763714564215
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	11	21		#FC622F	0.687444468234356
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	12	21	sequential	#FC622F	0.660649773217923
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	13	21	fingers	#FD913D	0.586675996458133
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	14	21		#FD913D	0.54044539254514
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	15	21	gesture|gestures	#FDAD4A	0.42427094485647
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	16	21		#FD913D	0.503581203775494
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	17	21	hands	#FDAD4A	0.449384354592726
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	18	21		#FDAD4A	0.499675327274081
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	19	21		#FDAD4A	0.489258258038145
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	20	21	eye|position	#FDAD4A	0.485982070217159
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	21	21	execution	#FD913D	0.526876373209228
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	22	21	finger|sensorimotor	#FC622F	0.640931987937048
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	23	21		#FDAD4A	0.431778834113598
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	1	22	moral|stories|story	#FDAD4A	0.457308420416193
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	2	22	mentalizing|persons	#FDAD4A	0.459888740505417
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	3	22	default|restingstate	#FD913D	0.554664747913574
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	4	22	thinking|thought|thoughts	#FDAD4A	0.434470872820474
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	5	22	spontaneous	#FD913D	0.561068599362367
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	6	22	concentration|sensations	#D7141E	0.819367868003535
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	7	22	hierarchical|preference	#FC622F	0.619415490563169
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	8	22	effort|oral|simulation	#FD913D	0.515381355215865
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	9	22	interhemispheric|plasticity	#FD913D	0.532655352145001
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	10	22	imagined|imagine	#FD913D	0.562032083013078
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	11	22	tapping	#FC622F	0.662283557089077
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	12	22	foot|muscle|muscles|voluntary	#D7141E	0.827615786338238
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	13	22	limb	#FC622F	0.697265793135694
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	14	22	eyes|velocity	#FD913D	0.571725864559465
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	15	22	biological|gaze|videos	#FDAD4A	0.484264476048695
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	16	22	body	#FD913D	0.586279119099967
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	17	22	grasping|orientation|reaching	#FDAD4A	0.482227977023935
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	18	22		#FDAD4A	0.496999044238171
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	19	22	mirror|shape	#FDAD4A	0.459608532983513
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	20	22	actions	#FDAD4A	0.44349709222699
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	21	22	action	#FECB68	0.365933127102102
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	22	22		#FECB68	0.383005890955894
+78ae41b5-30b5-3afb-9bad-0a96d4f63cfb	Lochner C	23	22	hand|movements|sensory	#FEE188	0.253755090919833

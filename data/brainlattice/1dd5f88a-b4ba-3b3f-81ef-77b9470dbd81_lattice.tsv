@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	1	1	auditory|speech	#FECB68	0.301111220510038
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	2	1		#FECB68	0.328383700888085
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	3	1	da|integration	#FDAD4A	0.425961911586381
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	4	1		#FDAD4A	0.462662022785077
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	5	1	physical|psychophysical|tactile	#FDAD4A	0.442751776307309
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	6	1		#FD913D	0.588501307480026
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	7	1	somatosensory|stimulation	#FDAD4A	0.479676954576535
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	8	1	painful|pain	#FC622F	0.66821876962285
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	9	1		#F03623	0.76104466044342
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	10	1	ratings	#B10026	0.908441191062693
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	11	1	affective|affect	#F03623	0.777926191006847
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	12	1	emotions	#F03623	0.7176837936861
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	13	1	expression|expressions|facial	#FD913D	0.514862560589951
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	14	1		#FC622F	0.674737555484164
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	15	1		#F03623	0.705330204444771
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	16	1	emotion|motion|neutral	#FC622F	0.686231267508221
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	17	1	rating	#D7141E	0.864023641179808
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	18	1	negative|positive	#F03623	0.744744724631257
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	19	1		#FD913D	0.58574916135802
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	20	1	ear|order	#FDAD4A	0.487602223599696
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	21	1	motor	#FFF1A9	0.165559944934169
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	22	1	visual	#FFF1A9	0.118746518460197
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	23	1	age|image|response	#FECB68	0.356010880612598
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	1	2	sound|sounds	#FECB68	0.330420303390858
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	2	2		#FECB68	0.327603808326584
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	3	2	audiovisual|bimodal|crossmodal	#FFF1A9	0.179605453934829
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	4	2		#FDAD4A	0.452214614604607
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	5	2		#FDAD4A	0.498160582622201
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	6	2		#FD913D	0.579115227929414
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	7	2	sensation	#FC622F	0.646953110092088
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	8	2	heat|noxious	#FC622F	0.635418272917465
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	9	2		#F03623	0.761639406896245
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	10	2		#D7141E	0.833100040492085
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	11	2		#D7141E	0.820234735392755
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	12	2	valence	#F03623	0.736690261242264
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	13	2	person|social	#F03623	0.703881593527843
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	14	2		#FC622F	0.677302895969339
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	15	2	face|faces	#FD913D	0.523030317505254
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	16	2		#F03623	0.713545775770565
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	17	2		#F03623	0.74660203392827
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	18	2		#FC622F	0.685107171887038
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	19	2		#FD913D	0.568834579446167
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	20	2		#FECB68	0.388091761177215
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	21	2	images|spatial	#FECB68	0.318132123134801
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	22	2	control	#FECB68	0.344142275101686
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	23	2	time	#FECB68	0.344832631981082
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	1	3	acoustic|listening|musical|music|pitch	#FECB68	0.316851467150952
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	2	3	noise|tones	#FEE188	0.294744169372047
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	3	3		#FECB68	0.386932959639112
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	4	3		#FDAD4A	0.403550923365875
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	5	3	frequency	#FDAD4A	0.415247198058878
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	6	3		#FD913D	0.577656181259235
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	7	3		#FC622F	0.686127195040481
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	8	3	temperature	#FC622F	0.645004306058718
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	9	3		#F03623	0.730564411120541
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	10	3	pleasant|unpleasant	#FC622F	0.603192016285062
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	11	3	anxiety	#FC622F	0.666898577776433
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	12	3		#F03623	0.767972235218486
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	13	3		#F03623	0.762296100304701
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	14	3		#F03623	0.727445070963509
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	15	3		#F03623	0.700551720149512
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	16	3	picture	#FC622F	0.640212152611757
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	17	3		#FC622F	0.674285076262108
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	18	3	value	#FC622F	0.671269997352899
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	19	3	cue	#FDAD4A	0.481210136607683
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	20	3	error|target	#FECB68	0.397981523315146
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	21	3	attention	#FEE188	0.255151361138409
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	22	3		#FECB68	0.389657694835743
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	23	3	number	#FDAD4A	0.431399488451985
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	1	4	voice	#FEE188	0.226953888567225
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	2	4		#FECB68	0.356058304928996
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	3	4	hearing	#FECB68	0.306134545136498
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	4	4		#FECB68	0.391475006556157
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	5	4	overt	#FECB68	0.316590552737723
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	6	4		#FDAD4A	0.45053801673984
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	7	4		#FC622F	0.667631263717612
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	8	4	nociceptive|nonpainful|painrelated	#FD913D	0.581474993207129
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	9	4	unpleasantness	#FC622F	0.653479994797226
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	10	4	skin|subjective	#F03623	0.785882638736113
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	11	4	depression	#F03623	0.797072837334662
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	12	4	experience	#F03623	0.71801573379943
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	13	4	female	#F03623	0.703946807528256
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	14	4	male	#F03623	0.754505921986888
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	15	4	pictures	#FD913D	0.595414381837938
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	16	4		#FD913D	0.59898857050792
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	17	4	perception	#FECB68	0.33593384640131
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	18	4		#FDAD4A	0.487912206112138
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	19	4		#FDAD4A	0.465166041803394
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	20	4		#FDAD4A	0.416378861057933
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	21	4	correct	#FDAD4A	0.476250934425373
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	22	4	work	#FDAD4A	0.426237720916411
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	23	4	memory	#FD913D	0.507053648130152
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	1	5	prosodic|prosody	#FECB68	0.372803650253091
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	2	5	phonetic	#FEE188	0.21468685731129
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	3	5	syllable|syllables	#FDAD4A	0.436460996613046
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	4	5		#FECB68	0.379197089471538
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	5	5	lip|production	#FEE188	0.294909592929687
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	6	5	somatotopic	#FDAD4A	0.442014880943031
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	7	5		#FC622F	0.652910085165574
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	8	5		#FC622F	0.630910325034052
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	9	5	empathy	#FC622F	0.614053015419937
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	10	5		#FC622F	0.694885727058335
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	11	5	disorder	#D7141E	0.820059776101855
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	12	5		#F03623	0.762332149190843
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	13	5		#F03623	0.755385818549039
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	14	5		#F03623	0.712463100153987
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	15	5		#FC622F	0.686181945595931
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	16	5		#FD913D	0.576786278451194
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	17	5		#FD913D	0.519680025588897
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	18	5	mental	#FDAD4A	0.463145198591452
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	19	5	go	#FDAD4A	0.478942614208196
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	20	5	object	#FFF1A9	0.171798902704135
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	21	5		#FDAD4A	0.458952996522503
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	22	5		#FDAD4A	0.496338558509554
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	23	5	word|words	#FDAD4A	0.451588466266734
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	1	6		#FC622F	0.626977165653979
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	2	6		#FC622F	0.625519897508399
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	3	6		#FD913D	0.579660994331431
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	4	6	vocal	#FEE188	0.251206531387951
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	5	6	articulatory	#FEE188	0.242242721403245
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	6	6		#FD913D	0.511080726221656
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	7	6	oddball	#FDAD4A	0.439258466228145
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	8	6	perceived	#FD913D	0.54549808067558
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	9	6	errorrelated	#FDAD4A	0.421379151246386
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	10	6	approach	#FDAD4A	0.475555508249438
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	11	6	schizophrenia	#FC622F	0.660208548802441
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	12	6	acquisition	#FD913D	0.56783408833863
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	13	6		#FC622F	0.660019467258839
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	14	6		#FD913D	0.55211670849674
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	15	6		#FD913D	0.55261309401241
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	16	6		#FD913D	0.546753317113916
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	17	6		#FD913D	0.509906507223426
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	18	6		#FDAD4A	0.455725154335493
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	19	6		#FDAD4A	0.48508764820176
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	20	6	objects	#FECB68	0.35826230813139
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	21	6		#FD913D	0.514716563894722
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	22	6		#FD913D	0.505191119080589
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	23	6	language|semantic	#FDAD4A	0.47232633014271
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	1	7	dopamine|dopaminergic	#FD913D	0.540100770108339
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	2	7		#FC622F	0.663907264736613
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	3	7		#F03623	0.788976111584421
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	4	7		#F03623	0.780218988873633
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	5	7		#F03623	0.775321092084994
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	6	7		#FC622F	0.69875810815627
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	7	7		#FC622F	0.670555197613092
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	8	7		#FC622F	0.666001627337131
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	9	7		#FC622F	0.652113833168694
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	10	7		#FC622F	0.681168621364616
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	11	7		#FC622F	0.67499282407877
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	12	7		#FC622F	0.656439566584161
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	13	7	linguistic|spoken	#FDAD4A	0.432988466980509
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	14	7		#FD913D	0.510366960599427
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	15	7	comprehension|sentence|sentences|syntactic	#FDAD4A	0.483406700438035
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	16	7		#FD913D	0.512646158794347
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	17	7		#FD913D	0.50288444893449
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	18	7	phonological|reading|read	#FDAD4A	0.441822466729106
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	19	7		#FD913D	0.508617106654969
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	20	7	perceptual|recognition	#FD913D	0.533688688213056
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	21	7		#FD913D	0.579221977468323
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	22	7		#FD913D	0.560085667068423
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	23	7	verb	#FD913D	0.538882614483139
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	1	8	outcome|reward	#FC622F	0.692417888243224
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	2	8	anticipation	#FD913D	0.567650242136478
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	3	8	outcomes	#F03623	0.756256050690223
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	4	8	choice|choices	#FC622F	0.670128030990323
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	5	8	decisions|probability	#D7141E	0.811047944650585
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	6	8	reversal	#FD913D	0.585908821407653
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	7	8	classification|incorrect	#FD913D	0.585754598280323
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	8	8		#F03623	0.738290874554286
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	9	8	agerelated|fluency|probes	#F03623	0.735036888523897
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	10	8	engaged	#FD913D	0.527695259110348
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	11	8	explicit|knowledge	#FC622F	0.636154585768938
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	12	8		#FC622F	0.601537659469979
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	13	8		#FD913D	0.574049892308714
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	14	8		#FD913D	0.516100085377576
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	15	8		#FD913D	0.502953640271664
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	16	8		#FD913D	0.501684498126648
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	17	8	lexical	#FD913D	0.512154922094675
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	18	8		#FD913D	0.531958413844725
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	19	8		#FD913D	0.55419491230799
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	20	8		#FC622F	0.61928935446806
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	21	8	encoding	#FC622F	0.671868912167655
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	22	8	retrieval	#F03623	0.715109555283857
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	23	8	verbal	#FD913D	0.58637704307736
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	1	9	incentive|monetary|money|rewards	#FDAD4A	0.47475975545731
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	2	9	loss	#FC622F	0.651654342232097
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	3	9		#F03623	0.796663338676177
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	4	9		#D7141E	0.851929966097454
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	5	9	decisionmaking	#D7141E	0.897141962265421
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	6	9		#F03623	0.790797861236518
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	7	9		#F03623	0.757818601179424
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	8	9		#F03623	0.762626131662218
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	9	9		#F03623	0.792513267396231
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	10	9		#F03623	0.706254130232123
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	11	9		#FC622F	0.651815779353652
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	12	9		#FC622F	0.612369124289199
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	13	9	noun	#FDAD4A	0.491539752367232
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	14	9	meaning	#FD913D	0.559875068897846
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	15	9	english	#FDAD4A	0.440681206152237
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	16	9	pseudoword|pseudowords	#FECB68	0.390727630313222
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	17	9		#FD913D	0.526604967520663
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	18	9		#FD913D	0.596744457934232
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	19	9	familiar|judgment	#FC622F	0.634611572817567
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	20	9	pair|pairs	#FC622F	0.631893199132057
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	21	9		#FC622F	0.651203217818164
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	22	9		#FD913D	0.597623442452037
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	23	9	letter|working	#FDAD4A	0.492470924944721
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	1	10	losses|reinforcement|win	#FD913D	0.558402512485371
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	2	10	gain	#FD913D	0.536709684034338
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	3	10	expectation	#FD913D	0.546325829027577
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	4	10	risk	#F03623	0.708349250868532
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	5	10	fact	#D7141E	0.872629490326815
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	6	10	associative	#FC622F	0.683195253482474
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	7	10	familiarity|judgments|old	#FC622F	0.668001341738693
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	8	10	contextual|text	#FC622F	0.646314807257955
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	9	10	recall|retrieved	#F03623	0.752716119827954
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	10	10	conceptual|semantically	#FC622F	0.608618283182567
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	11	10	grammatical|speakers	#FD913D	0.576553249643275
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	12	10	nouns	#FD913D	0.500403963346217
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	13	10	japanese	#FD913D	0.514703247763284
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	14	10	languages	#FDAD4A	0.433782562475049
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	15	10	written	#FDAD4A	0.437766447389765
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	16	10	chinese|phonology	#FDAD4A	0.461006668262411
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	17	10	orthographic	#FDAD4A	0.462647124740147
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	18	10		#FC622F	0.629047909378517
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	19	10		#FC622F	0.670676050093535
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	20	10	association|decision	#F03623	0.731835470295014
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	21	10	selection	#FC622F	0.629351651690854
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	22	10	letters	#FDAD4A	0.467969400598623
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	23	10	demand|load	#FD913D	0.518094138332302
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	1	11	conditioned|conditioning	#FD913D	0.566279134568112
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	2	11		#F03623	0.755257797525914
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	3	11	drug|placebo	#F03623	0.794730492678738
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	4	11		#F03623	0.780311322097339
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	5	11	associations	#FD913D	0.506496974728675
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	6	11		#F03623	0.786760759475595
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	7	11	episodic|recollection	#F03623	0.745252440518694
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	8	11		#F03623	0.798748429752835
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	9	11		#F03623	0.729846899496118
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	10	11	concepts	#FD913D	0.503604345371522
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	11	11		#FC622F	0.614173417552183
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	12	11		#FC622F	0.601351938771541
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	13	11	german	#FDAD4A	0.483794234733074
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	14	11	readers	#FDAD4A	0.452822966907403
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	15	11	character|name|naming	#FDAD4A	0.431288558704537
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	16	11		#FD913D	0.537204032474937
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	17	11	novel	#FD913D	0.590839935671387
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	18	11		#FD913D	0.597629933276021
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	19	11	child|children	#FD913D	0.533088374718845
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	20	11	adults	#FC622F	0.634742277188376
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	21	11	ability|feedback|learning	#FC622F	0.696887245958848
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	22	11	cues|delay	#FDAD4A	0.49595644802167
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	23	11	attentional|difficulty|targets	#FDAD4A	0.421977812421171
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	1	12	aversive|shock	#FD913D	0.582739977745435
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	2	12	reactivity	#FC622F	0.676103104358819
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	3	12	males|sex|women	#FC622F	0.633839783117907
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	4	12	animal	#FD913D	0.582925977642932
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	5	12	animals	#FECB68	0.327661112331577
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	6	12		#F03623	0.706365966557658
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	7	12	remember|subsequent	#FC622F	0.635133696042622
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	8	12	autobiographical|memories	#FC622F	0.694004424645479
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	9	12		#F03623	0.723408047257443
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	10	12	violation|violations	#FDAD4A	0.493346175029667
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	11	12	aphasia	#FDAD4A	0.471276574056916
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	12	12	nonwords	#FDAD4A	0.438922076247488
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	13	12	dyslexia	#FDAD4A	0.457340684846238
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	14	12		#FDAD4A	0.496348065292463
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	15	12	priming	#FECB68	0.372329533012248
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	16	12		#FD913D	0.539672315160011
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	17	12	category|repetition	#FD913D	0.534324078183053
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	18	12		#FD913D	0.596464769563373
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	19	12	developmental|development	#FDAD4A	0.477160716630447
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	20	12		#FC622F	0.615236201362509
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	21	12	space	#FD913D	0.503369727192219
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	22	12		#FD913D	0.556940768134382
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	23	12	color	#FDAD4A	0.475071179596536
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	1	13	threat	#FDAD4A	0.482511309657609
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	2	13	regulation	#F03623	0.760811115291943
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	3	13		#F03623	0.753881167135614
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	4	13	masked	#FDAD4A	0.486425265521853
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	5	13	scene|scenes	#FDAD4A	0.41292345276142
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	6	13		#FC622F	0.650109124947024
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	7	13	confidence|remembered	#FD913D	0.581554865669721
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	8	13		#F03623	0.780255798290062
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	9	13		#F03623	0.774938932710411
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	10	13	ambiguity|ambiguous	#FDAD4A	0.463594432969255
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	11	13		#FC622F	0.610473784351228
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	12	13		#FD913D	0.527053665836475
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	13	13	writing	#FEE188	0.28005660908047
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	14	13		#FDAD4A	0.481902773967616
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	15	13	categorization|congruency|prime	#FECB68	0.344762797623843
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	16	13		#FD913D	0.553370111548758
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	17	13	mask	#FDAD4A	0.482885637803282
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	18	13		#FD913D	0.598531825489143
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	19	13		#FD913D	0.588509755052301
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	20	13		#FC622F	0.620745851895209
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	21	13	conflict|congruent|incongruent	#FD913D	0.581684613310935
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	22	13	errors	#FD913D	0.508785140123745
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	23	13	maintenance|probe|wm	#FD913D	0.532069006364984
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	1	14	angry|fearful|happy	#FD913D	0.507255634823346
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	2	14		#FC622F	0.637788613693913
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	3	14	awareness|conscious|ptsd	#FC622F	0.695637637190686
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	4	14		#F03623	0.712894511684509
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	5	14	houses|photographs	#FEE188	0.276923033248565
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	6	14		#FC622F	0.616936993903216
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	7	14	hits	#FDAD4A	0.443940215057721
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	8	14	famous	#FDAD4A	0.477098321704687
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	9	14	names	#FD913D	0.591610373775452
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	10	14	family	#F03623	0.746574193418658
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	11	14	competition|mouth	#FECB68	0.387923267157386
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	12	14	abilities	#FD913D	0.536545409027811
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	13	14	implicit|unfamiliar	#FECB68	0.337434196121741
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	14	14		#FDAD4A	0.432169354399838
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	15	14	tom	#FD913D	0.531302864708374
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	16	14		#FDAD4A	0.496496139971598
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	17	14		#FD913D	0.530621333926603
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	18	14	stop	#FDAD4A	0.458795543587006
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	19	14	inhibition|inhibitory|nogo	#FD913D	0.535694135558003
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	20	14	monitoring|stroop	#F03623	0.706967221646399
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	21	14	interference	#FC622F	0.611692670092413
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	22	14		#FD913D	0.586389837026659
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	23	14	demands|executive	#FD913D	0.500742099936136
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	1	15	anger	#FDAD4A	0.451084821622845
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	2	15	stress	#FD913D	0.58287831374245
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	3	15	feelings	#FD913D	0.571446873532875
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	4	15	salient	#F03623	0.714569553584439
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	5	15	novelty	#FC622F	0.665584908019415
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	6	15	movie	#FEE188	0.272220237896104
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	7	15		#FC622F	0.689089620829784
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	8	15		#F03623	0.778474400699694
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	9	15	longterm	#FC622F	0.601509032056206
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	10	15		#FC622F	0.66322142345328
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	11	15	reasoning|relational	#FDAD4A	0.458818577289679
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	12	15		#FDAD4A	0.487429801669799
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	13	15	presentations	#FEE188	0.209005693186119
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	14	15		#FDAD4A	0.41376299885169
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	15	15	identity	#FECB68	0.335166074018846
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	16	15		#FDAD4A	0.484442574579203
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	17	15	strategies|strategy	#FECB68	0.38762576355567
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	18	15	card|cards	#FD913D	0.515718546240485
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	19	15	gonogo	#FD913D	0.563413593001943
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	20	15		#FC622F	0.614356938202541
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	21	15	switching|switch	#FDAD4A	0.409701856820767
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	22	15		#FD913D	0.557891779217616
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	23	15	2back|rule	#FD913D	0.541533850603846
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	1	16	emotionally|mood|personality|sadness	#FC622F	0.638377282054074
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	2	16	disgust|sexual	#FDAD4A	0.494417117725987
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	3	16	olfactory	#D7141E	0.862700072207572
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	4	16	physiological	#D7141E	0.859008994792705
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	5	16	depressed|depressive|habituation	#F03623	0.745648085940202
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	6	16	schizophrenic	#F03623	0.708073754348797
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	7	16	colors|contexts	#FDAD4A	0.490571379114152
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	8	16	aging|encoded	#FDAD4A	0.48664218263714
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	9	16	goal	#FD913D	0.559004391014982
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	10	16		#FD913D	0.574714970167938
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	11	16	autism|autistic|nonverbal	#FDAD4A	0.447873232770568
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	12	16		#FDAD4A	0.469212418655804
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	13	16	bottomup|repetitions	#FECB68	0.325807971728133
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	14	16	adaptation	#FEE188	0.260783716145118
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	15	16	irrelevant	#FECB68	0.37199879982531
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	16	16	distractor|distractors	#FECB68	0.385670583562427
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	17	16		#FDAD4A	0.482344174676739
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	18	16	subtraction	#FECB68	0.342402525481558
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	19	16	1back|nback	#FD913D	0.578072318485484
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	20	16	manipulation|rules	#FDAD4A	0.492395056349266
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	21	16		#FDAD4A	0.476852966585721
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	22	16		#FDAD4A	0.421956047561879
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	23	16	digit	#FECB68	0.344817056470039
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	1	17	avoidance	#F03623	0.718589626763797
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	2	17		#D7141E	0.823234909453993
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	3	17	eating|food	#D7141E	0.879403427356315
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	4	17	taste	#B10026	1
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	5	17	bipolar	#F03623	0.710122291224596
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	6	17	illness|uncertainty	#FC622F	0.693811016869022
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	7	17	females|probabilistic	#FDAD4A	0.494136874543861
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	8	17	rejection	#FD913D	0.557039505840823
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	9	17	colour|paired	#FECB68	0.340946405056474
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	10	17		#FD913D	0.577341969171906
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	11	17		#FD913D	0.514845405586591
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	12	17		#FDAD4A	0.474825807637804
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	13	17	taskirrelevant	#FEE188	0.240608968746959
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	14	17		#FEE188	0.269825879421704
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	15	17	suppression	#FECB68	0.30198156843599
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	16	17		#FECB68	0.302577395729353
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	17	17	shifting|shortterm	#FECB68	0.383174756609929
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	18	17	digits	#FECB68	0.37108796116304
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	19	17	search	#FDAD4A	0.481342372586313
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	20	17	counting|taskrelated	#FDAD4A	0.469556534553673
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	21	17	topdown	#FDAD4A	0.475234687489795
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	22	17	visuospatial	#FFF1A9	0.177816265494725
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	23	17	arithmetic|calculation|solving	#FECB68	0.317578644410864
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	1	18	addiction|craving|drugs	#FC622F	0.650894192840417
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	2	18	allele|genotype|polymorphism	#F03623	0.752360434573758
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	3	18	motivation	#FD913D	0.583375741337318
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	4	18	heart	#B10026	0.929362525024152
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	5	18	sleep	#FC622F	0.686186803867597
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	6	18	expectancy	#F03623	0.751296361755012
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	7	18	phasic|salience	#FDAD4A	0.465066591212717
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	8	18	adolescence|adolescents	#FDAD4A	0.437851947131579
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	9	18	intelligence|tracking	#FDAD4A	0.456611781424608
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	10	18		#FD913D	0.54091287342293
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	11	18	serial	#FDAD4A	0.406591049770757
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	12	18		#FDAD4A	0.4166930939531
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	13	18	spatially|taskrelevant	#FEE188	0.282957405915222
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	14	18		#FEE188	0.241506931832543
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	15	18	attended|attend|unattended	#FFF1A9	0.115575710840818
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	16	18	rotation|shapes	#FFFFCC	0.0568235145123876
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	17	18	rehearsal	#FECB68	0.32471717945472
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	18	18	learned	#FECB68	0.373239161010627
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	19	18		#FECB68	0.370860186383755
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	20	18	cued|preparatory	#FEE188	0.290767430575275
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	21	18		#FECB68	0.378030543897308
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	22	18		#FECB68	0.366784798315909
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	23	18	numbers|numerical	#FEE188	0.259938080499111
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	1	19	future	#F03623	0.775840949536344
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	2	19	negatively	#FC622F	0.624206574917525
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	3	19	distress|epilepsy|selfreported	#FECB68	0.39971158106152
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	4	19	anticipatory|cocaine|probabilities|smoking	#FC622F	0.662344559298842
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	5	19	alcohol|amount|impulsivity	#FDAD4A	0.428126927332685
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	6	19	game|success	#FD913D	0.519750122730956
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	7	19	adhd|childhood|engagement	#FD913D	0.536283047097253
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	8	19		#FC622F	0.688669043600462
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	9	19		#FD913D	0.578468532498213
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	10	19		#FDAD4A	0.49196812712048
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	11	19		#FDAD4A	0.448025238911803
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	12	19	endogenous	#FECB68	0.386603791680894
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	13	19	cueing|invalid|orienting	#FEE188	0.24603844920761
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	14	19		#FEE188	0.247564008771223
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	15	19	multisensory	#FEE188	0.217723382838809
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	16	19		#FEE188	0.229463327185613
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	17	19	shifts	#FEE188	0.244244766181815
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	18	19	covert	#FEE188	0.27113623555467
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	19	19		#FEE188	0.293293994549842
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	20	19	preparation	#FEE188	0.282003700771675
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	21	19	discrimination|training	#FECB68	0.334701045499662
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	22	19	sequences	#FEE188	0.27121881854699
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	23	19		#FECB68	0.377851839686105
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	1	20	personal|self|selfreferential|trait|traits	#F03623	0.701612012297661
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	2	20	empathic|theory	#FD913D	0.519125853644757
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	3	20	attribution|intentional	#FECB68	0.311954526985524
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	4	20	elderly|oscillations	#FECB68	0.387051322839185
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	5	20	antipsychotic|virtual	#FECB68	0.350053636828022
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	6	20		#F03623	0.761259550272977
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	7	20	experiences	#FD913D	0.555124476903031
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	8	20	categorical|pressure	#FD913D	0.513246549025037
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	9	20	play|skills	#FEE188	0.239487396740269
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	10	20	automatic|trained	#FECB68	0.37711273869939
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	11	20		#FECB68	0.327652014347274
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	12	20	practice	#FFF1A9	0.192858957151219
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	13	20	visuomotor	#FFFFCC	0.0826432181843457
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	14	20		#FEE188	0.259823259677027
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	15	20	tool	#FEE188	0.221863856161972
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	16	20	vision	#FFFFCC	0.0362749086710186
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	17	20	visually	#FFF1A9	0.154058222400748
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	18	20	saccade|saccades|saccadic	#FFF1A9	0.10132873794781
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	19	20	locations	#FEE188	0.295277937842266
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	20	20	imagery|planning	#FEE188	0.233407395414477
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	21	20		#FEE188	0.292333880346205
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	22	20	rest	#FECB68	0.344435190924642
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	23	20	sequence	#FECB68	0.380411933133406
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	1	21	scenarios	#FDAD4A	0.496023348913137
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	2	21	intention|intentions	#FDAD4A	0.469000165302659
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	3	21	causality|perspective	#FECB68	0.33636268401605
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	4	21	past	#F03623	0.730010895675463
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	5	21		#D7141E	0.899566885335222
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	6	21	episode	#FD913D	0.588911806612653
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	7	21	improvement	#FEE188	0.29208831457719
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	8	21	masking|retention	#FECB68	0.364759867912471
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	9	21		#FECB68	0.39884777613099
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	10	21	dominant	#FECB68	0.340414512307932
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	11	21		#FEE188	0.278419981490309
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	12	21	sequential	#FEE188	0.205050834809881
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	13	21	fingers	#FFF1A9	0.133563263060796
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	14	21		#FFF1A9	0.174860596644084
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	15	21	gesture|gestures	#FFF1A9	0.175663761514317
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	16	21		#FFF1A9	0.130655349242381
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	17	21	hands	#FFFFCC	0.0421246453111235
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	18	21		#FFF1A9	0.17355316696149
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	19	21		#FEE188	0.211677323621868
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	20	21	eye|position	#FFF1A9	0.165173177187076
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	21	21	execution	#FEE188	0.204615276214494
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	22	21	finger|sensorimotor	#FEE188	0.205132994127476
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	23	21		#FEE188	0.215945491711916
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	1	22	moral|stories|story	#FEE188	0.246091293441914
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	2	22	mentalizing|persons	#FECB68	0.364173140727633
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	3	22	default|restingstate	#FC622F	0.674856455039109
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	4	22	thinking|thought|thoughts	#F03623	0.711167374449957
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	5	22	spontaneous	#F03623	0.721419484169424
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	6	22	concentration|sensations	#FC622F	0.691200665002869
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	7	22	hierarchical|preference	#FECB68	0.311109045350296
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	8	22	effort|oral|simulation	#FEE188	0.2640708117008
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	9	22	interhemispheric|plasticity	#FEE188	0.27996117301487
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	10	22	imagined|imagine	#FFF1A9	0.187914876898698
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	11	22	tapping	#FEE188	0.229474039462447
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	12	22	foot|muscle|muscles|voluntary	#FECB68	0.341008492649277
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	13	22	limb	#FFF1A9	0.124807650744732
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	14	22	eyes|velocity	#FFFFCC	0.0371779786682759
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	15	22	biological|gaze|videos	#FFFFCC	0.0387053664486527
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	16	22	body	#FEE188	0.223597349238617
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	17	22	grasping|orientation|reaching	#FFFFCC	0
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	18	22		#FFF1A9	0.161888679199991
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	19	22	mirror|shape	#FFF1A9	0.157998150143499
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	20	22	actions	#FEE188	0.225242194245119
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	21	22	action	#FEE188	0.256191539606878
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	22	22		#FFF1A9	0.170117698671804
+1dd5f88a-b4ba-3b3f-81ef-77b9470dbd81	Uengoer M	23	22	hand|movements|sensory	#FFFFCC	0.0694170722776872

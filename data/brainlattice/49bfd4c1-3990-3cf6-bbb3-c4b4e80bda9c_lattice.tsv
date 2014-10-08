@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	1	1	auditory|speech	#FECB68	0.355827928681331
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	2	1		#FECB68	0.366767909000732
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	3	1	da|integration	#FC622F	0.618653365280617
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	4	1		#FDAD4A	0.457832483913254
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	5	1	physical|psychophysical|tactile	#FFF1A9	0.181522663397364
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	6	1		#FFF1A9	0.183370023095604
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	7	1	somatosensory|stimulation	#FFF1A9	0.120851821639249
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	8	1	painful|pain	#FFFFCC	0.0543270633001418
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	9	1		#FFFFCC	0.0991049707832781
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	10	1	ratings	#FEE188	0.239264032772209
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	11	1	affective|affect	#FEE188	0.269528660786778
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	12	1	emotions	#FECB68	0.315046773371401
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	13	1	expression|expressions|facial	#FDAD4A	0.451254725691824
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	14	1		#FD913D	0.539740889826246
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	15	1		#FD913D	0.516893305606652
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	16	1	emotion|motion|neutral	#FECB68	0.395432218596085
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	17	1	rating	#FECB68	0.305422827747112
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	18	1	negative|positive	#FECB68	0.319815134456166
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	19	1		#FDAD4A	0.464518461304914
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	20	1	ear|order	#FDAD4A	0.497506626915215
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	21	1	motor	#FECB68	0.365730081185238
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	22	1	visual	#FC622F	0.655815673067831
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	23	1	age|image|response	#FD913D	0.513986254386467
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	1	2	sound|sounds	#FEE188	0.243758395394098
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	2	2		#FECB68	0.327194556491631
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	3	2	audiovisual|bimodal|crossmodal	#FD913D	0.590372038577342
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	4	2		#FDAD4A	0.480198212224128
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	5	2		#FECB68	0.364976882271469
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	6	2		#FEE188	0.223262743641264
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	7	2	sensation	#FFFFCC	0.0355994184001702
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	8	2	heat|noxious	#FFFFCC	0.0253431149945258
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	9	2		#FFF1A9	0.105775344639621
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	10	2		#FEE188	0.222923539230267
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	11	2		#FEE188	0.267116755137801
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	12	2	valence	#FEE188	0.289117864130673
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	13	2	person|social	#FDAD4A	0.401469777769942
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	14	2		#FD913D	0.555220079845622
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	15	2	face|faces	#F03623	0.701922820334272
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	16	2		#FD913D	0.522092201189548
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	17	2		#FDAD4A	0.457485335427267
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	18	2		#FDAD4A	0.476267477280058
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	19	2		#FD913D	0.500098404606282
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	20	2		#FD913D	0.521989630808242
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	21	2	images|spatial	#FD913D	0.552947645143407
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	22	2	control	#FDAD4A	0.499052252857089
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	23	2	time	#FD913D	0.521455263591773
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	1	3	acoustic|listening|musical|music|pitch	#FFF1A9	0.105726487941971
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	2	3	noise|tones	#FEE188	0.228114117616474
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	3	3		#FDAD4A	0.432978084291901
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	4	3		#FD913D	0.502204931389826
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	5	3	frequency	#FDAD4A	0.438796986243321
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	6	3		#FECB68	0.342937936716064
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	7	3		#FFF1A9	0.106769995413489
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	8	3	temperature	#FFFFCC	0.0569072445076743
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	9	3		#FFF1A9	0.10868482342327
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	10	3	pleasant|unpleasant	#FFF1A9	0.118945058564516
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	11	3	anxiety	#FFF1A9	0.176828887522637
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	12	3		#FECB68	0.37580304234995
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	13	3		#FD913D	0.507807712944702
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	14	3		#FD913D	0.551751599681105
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	15	3		#FD913D	0.598829320069919
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	16	3	picture	#FC622F	0.643970747198953
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	17	3		#FD913D	0.573363300749119
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	18	3	value	#FDAD4A	0.451780394020329
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	19	3	cue	#FDAD4A	0.499942025466429
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	20	3	error|target	#FD913D	0.537033960085421
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	21	3	attention	#FD913D	0.548524892887852
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	22	3		#FD913D	0.596847710607593
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	23	3	number	#FD913D	0.581041808279282
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	1	4	voice	#FEE188	0.212463748952269
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	2	4		#FEE188	0.259837114180475
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	3	4	hearing	#FDAD4A	0.490474024349132
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	4	4		#FECB68	0.391992326926513
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	5	4	overt	#FECB68	0.395271707963099
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	6	4		#FECB68	0.343683069445632
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	7	4		#FFF1A9	0.160578056989985
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	8	4	nociceptive|nonpainful|painrelated	#FFFFCC	0.0597265440784023
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	9	4	unpleasantness	#FFFFCC	0.0695142471068358
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	10	4	skin|subjective	#FFF1A9	0.194706527813203
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	11	4	depression	#FEE188	0.267088568924142
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	12	4	experience	#FECB68	0.356182104656975
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	13	4	female	#FDAD4A	0.474581786530825
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	14	4	male	#FD913D	0.542565579438037
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	15	4	pictures	#FC622F	0.655640528382609
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	16	4		#FC622F	0.694529995230826
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	17	4	perception	#FC622F	0.610508331193268
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	18	4		#FC622F	0.680810253786419
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	19	4		#FC622F	0.664210227851706
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	20	4		#FC622F	0.655705284470926
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	21	4	correct	#FD913D	0.581453378206588
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	22	4	work	#FD913D	0.574711697434625
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	23	4	memory	#FD913D	0.577317707910463
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	1	5	prosodic|prosody	#FFF1A9	0.181851968382965
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	2	5	phonetic	#FEE188	0.262882631491831
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	3	5	syllable|syllables	#FECB68	0.340797355527364
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	4	5		#FECB68	0.347629827920399
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	5	5	lip|production	#FEE188	0.214786841325964
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	6	5	somatotopic	#FFF1A9	0.131518693360502
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	7	5		#FEE188	0.239611378271019
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	8	5		#FEE188	0.232640513708509
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	9	5	empathy	#FEE188	0.289311894974392
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	10	5		#FECB68	0.384469319390872
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	11	5	disorder	#FEE188	0.27260735049673
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	12	5		#FDAD4A	0.464685457206308
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	13	5		#FD913D	0.552977872480252
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	14	5		#FC622F	0.641252208379678
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	15	5		#FC622F	0.678507206458668
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	16	5		#F03623	0.736253783087097
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	17	5		#F03623	0.767448470360298
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	18	5	mental	#F03623	0.702091699312924
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	19	5	go	#F03623	0.742023071025308
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	20	5	object	#D7141E	0.812228247765677
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	21	5		#F03623	0.733622018124199
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	22	5		#F03623	0.705260699435149
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	23	5	word|words	#F03623	0.748267605661665
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	1	6		#FECB68	0.308816394024032
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	2	6		#FECB68	0.333558949119918
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	3	6		#FECB68	0.381596865444053
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	4	6	vocal	#FFF1A9	0.170096535253914
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	5	6	articulatory	#FFF1A9	0.169564201181723
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	6	6		#FECB68	0.320759736660882
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	7	6	oddball	#FEE188	0.26925205617104
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	8	6	perceived	#FECB68	0.341138924763387
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	9	6	errorrelated	#FEE188	0.256882418824514
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	10	6	approach	#FDAD4A	0.430998354434236
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	11	6	schizophrenia	#FECB68	0.39655536189568
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	12	6	acquisition	#FDAD4A	0.408100444661053
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	13	6		#FC622F	0.604467588334475
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	14	6		#FD913D	0.590547696542362
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	15	6		#FC622F	0.621583170555278
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	16	6		#FC622F	0.672688001205549
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	17	6		#D7141E	0.870527641083774
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	18	6		#B10026	0.911696834606303
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	19	6		#B10026	0.90398473639871
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	20	6	objects	#B10026	0.948676688330868
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	21	6		#D7141E	0.824603796378637
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	22	6		#F03623	0.755289267719364
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	23	6	language|semantic	#F03623	0.731521081255645
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	1	7	dopamine|dopaminergic	#FFF1A9	0.161810431509684
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	2	7		#FFF1A9	0.194554664444582
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	3	7		#FECB68	0.327669098777432
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	4	7		#FECB68	0.379600362416601
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	5	7		#FDAD4A	0.413982014828637
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	6	7		#FDAD4A	0.488166748345876
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	7	7		#FDAD4A	0.485675042416285
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	8	7		#FDAD4A	0.486792726168652
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	9	7		#FDAD4A	0.478955565835687
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	10	7		#FD913D	0.597555030063514
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	11	7		#FC622F	0.613041869878123
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	12	7		#FC622F	0.652150761407341
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	13	7	linguistic|spoken	#FC622F	0.642777527886887
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	14	7		#FD913D	0.568117710749298
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	15	7	comprehension|sentence|sentences|syntactic	#FDAD4A	0.472859035143154
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	16	7		#FC622F	0.688507602770305
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	17	7		#D7141E	0.878907411065304
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	18	7	phonological|reading|read	#B10026	0.91077501515667
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	19	7		#B10026	0.940798216483148
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	20	7	perceptual|recognition	#D7141E	0.879450336747925
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	21	7		#D7141E	0.824821521569069
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	22	7		#F03623	0.741366568516854
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	23	7	verb	#FC622F	0.660537980922396
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	1	8	outcome|reward	#FFF1A9	0.161046978050903
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	2	8	anticipation	#FFF1A9	0.161514522969729
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	3	8	outcomes	#FFF1A9	0.186842739795261
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	4	8	choice|choices	#FECB68	0.315236440346006
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	5	8	decisions|probability	#FDAD4A	0.403013911326081
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	6	8	reversal	#FDAD4A	0.444540406161206
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	7	8	classification|incorrect	#FDAD4A	0.465522652332299
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	8	8		#FD913D	0.563169480911663
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	9	8	agerelated|fluency|probes	#FDAD4A	0.47890665820163
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	10	8	engaged	#FC622F	0.665716188237698
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	11	8	explicit|knowledge	#FC622F	0.657525695858076
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	12	8		#FC622F	0.693741334828992
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	13	8		#FC622F	0.658739359757962
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	14	8		#FC622F	0.64562165181823
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	15	8		#FC622F	0.685701079545523
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	16	8		#F03623	0.738321066266291
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	17	8	lexical	#D7141E	0.870216337676701
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	18	8		#B10026	0.930990270997344
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	19	8		#B10026	0.922784796076771
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	20	8		#D7141E	0.876358353876384
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	21	8	encoding	#F03623	0.750727774603675
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	22	8	retrieval	#FD913D	0.573589898278151
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	23	8	verbal	#FC622F	0.628490293432441
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	1	9	incentive|monetary|money|rewards	#FFF1A9	0.0999168041592918
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	2	9	loss	#FFF1A9	0.139840351871678
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	3	9		#FEE188	0.263810509842747
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	4	9		#FECB68	0.333272231156384
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	5	9	decisionmaking	#FECB68	0.310179681501666
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	6	9		#FD913D	0.55861098787237
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	7	9		#FD913D	0.579315161891834
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	8	9		#FD913D	0.580735237596266
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	9	9		#FD913D	0.600163515366046
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	10	9		#FC622F	0.67105609014915
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	11	9		#FC622F	0.676901189214873
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	12	9		#FC622F	0.683733395997579
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	13	9	noun	#FD913D	0.557687823107596
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	14	9	meaning	#F03623	0.724288495904128
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	15	9	english	#F03623	0.770195757682161
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	16	9	pseudoword|pseudowords	#D7141E	0.836537434567641
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	17	9		#D7141E	0.884982919661673
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	18	9		#B10026	0.907863702902065
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	19	9	familiar|judgment	#D7141E	0.861043614439571
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	20	9	pair|pairs	#F03623	0.733576221563656
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	21	9		#F03623	0.74124120909091
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	22	9		#F03623	0.703526595750236
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	23	9	letter|working	#FC622F	0.679032219887437
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	1	10	losses|reinforcement|win	#FFFFCC	0.0886537568320937
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	2	10	gain	#FFFFCC	0.0678410685274915
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	3	10	expectation	#FFF1A9	0.192572993588032
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	4	10	risk	#FEE188	0.292904695902472
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	5	10	fact	#FECB68	0.299941258770943
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	6	10	associative	#FD913D	0.560652319876112
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	7	10	familiarity|judgments|old	#FC622F	0.621083829015624
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	8	10	contextual|text	#FDAD4A	0.435569117695209
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	9	10	recall|retrieved	#FDAD4A	0.458704165931376
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	10	10	conceptual|semantically	#FC622F	0.645501557857766
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	11	10	grammatical|speakers	#FD913D	0.500344771175693
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	12	10	nouns	#FD913D	0.58906724109626
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	13	10	japanese	#FC622F	0.650840139597259
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	14	10	languages	#F03623	0.746385493804613
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	15	10	written	#B10026	0.951865866364164
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	16	10	chinese|phonology	#F03623	0.795344196142763
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	17	10	orthographic	#B10026	1
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	18	10		#D7141E	0.842940104349075
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	19	10		#F03623	0.779081561043101
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	20	10	association|decision	#FC622F	0.648122636949788
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	21	10	selection	#FD913D	0.564958655539926
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	22	10	letters	#F03623	0.724472721204968
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	23	10	demand|load	#FD913D	0.587131016993229
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	1	11	conditioned|conditioning	#FFFFCC	0
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	2	11		#FFF1A9	0.153915021256939
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	3	11	drug|placebo	#FEE188	0.229559253574143
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	4	11		#FD913D	0.516509299814255
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	5	11	associations	#FD913D	0.564449751699672
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	6	11		#FC622F	0.66598303264075
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	7	11	episodic|recollection	#FECB68	0.314026869823915
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	8	11		#FC622F	0.647267986321527
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	9	11		#FC622F	0.67616099158839
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	10	11	concepts	#FD913D	0.534854600395574
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	11	11		#FC622F	0.668190340876274
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	12	11		#F03623	0.726023628141845
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	13	11	german	#FD913D	0.562804266102074
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	14	11	readers	#D7141E	0.814200817940381
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	15	11	character|name|naming	#D7141E	0.892387342770209
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	16	11		#B10026	0.957630436695373
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	17	11	novel	#D7141E	0.892945925380161
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	18	11		#D7141E	0.833300855184279
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	19	11	child|children	#FC622F	0.673395831187549
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	20	11	adults	#FC622F	0.692643242847391
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	21	11	ability|feedback|learning	#FDAD4A	0.456962042520078
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	22	11	cues|delay	#FD913D	0.538978324200877
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	23	11	attentional|difficulty|targets	#FC622F	0.635331377410768
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	1	12	aversive|shock	#FFFFCC	0.0766442174816325
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	2	12	reactivity	#FFF1A9	0.122249947489018
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	3	12	males|sex|women	#FDAD4A	0.420201243037145
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	4	12	animal	#FD913D	0.592682663711527
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	5	12	animals	#D7141E	0.803320269688596
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	6	12		#F03623	0.749416090885136
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	7	12	remember|subsequent	#F03623	0.715430155064529
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	8	12	autobiographical|memories	#FFF1A9	0.188148428323942
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	9	12		#FC622F	0.659893311252923
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	10	12	violation|violations	#FEE188	0.269297044371927
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	11	12	aphasia	#FD913D	0.55798642359677
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	12	12	nonwords	#FC622F	0.631761421226649
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	13	12	dyslexia	#D7141E	0.833823741286725
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	14	12		#B10026	0.968112043071015
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	15	12	priming	#B10026	0.972405902104966
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	16	12		#B10026	0.958178089957846
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	17	12	category|repetition	#D7141E	0.885621342193372
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	18	12		#D7141E	0.823548744583882
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	19	12	developmental|development	#F03623	0.717775485373057
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	20	12		#FC622F	0.688301794177361
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	21	12	space	#FC622F	0.639911639275839
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	22	12		#FC622F	0.618638092687466
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	23	12	color	#FC622F	0.654454572338137
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	1	13	threat	#FFF1A9	0.131362072950579
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	2	13	regulation	#FFF1A9	0.103878522204435
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	3	13		#FECB68	0.380430502942462
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	4	13	masked	#F03623	0.749566283647102
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	5	13	scene|scenes	#FC622F	0.619393543130879
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	6	13		#F03623	0.799265462607857
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	7	13	confidence|remembered	#FC622F	0.68529644320468
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	8	13		#F03623	0.75212432282786
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	9	13		#FC622F	0.64067616058695
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	10	13	ambiguity|ambiguous	#FD913D	0.559420274030765
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	11	13		#FC622F	0.681336444085674
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	12	13		#D7141E	0.899242223562735
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	13	13	writing	#F03623	0.778461336561543
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	14	13		#B10026	0.978218833110639
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	15	13	categorization|congruency|prime	#D7141E	0.883610769970405
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	16	13		#B10026	0.914067565257998
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	17	13	mask	#D7141E	0.825478288173788
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	18	13		#F03623	0.780266966206298
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	19	13		#FC622F	0.641016804786601
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	20	13		#FC622F	0.635638173928279
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	21	13	conflict|congruent|incongruent	#FD913D	0.580873574237509
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	22	13	errors	#FDAD4A	0.487403670967861
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	23	13	maintenance|probe|wm	#FD913D	0.536281305721729
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	1	14	angry|fearful|happy	#FFF1A9	0.173366315752144
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	2	14		#FEE188	0.207391100839361
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	3	14	awareness|conscious|ptsd	#FEE188	0.207501460295946
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	4	14		#FC622F	0.639203319730287
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	5	14	houses|photographs	#FD913D	0.579860356280976
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	6	14		#D7141E	0.813994354968421
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	7	14	hits	#FC622F	0.616547075069405
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	8	14	famous	#FD913D	0.555212559344932
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	9	14	names	#FDAD4A	0.416192062717961
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	10	14	family	#FDAD4A	0.412082962198072
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	11	14	competition|mouth	#FC622F	0.625778544058846
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	12	14	abilities	#FC622F	0.602304832048272
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	13	14	implicit|unfamiliar	#B10026	0.981313238232064
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	14	14		#B10026	0.974258455475486
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	15	14	tom	#FC622F	0.635434168161527
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	16	14		#D7141E	0.826571177330568
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	17	14		#F03623	0.723148972586908
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	18	14	stop	#FD913D	0.538492464682601
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	19	14	inhibition|inhibitory|nogo	#FECB68	0.363608598744043
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	20	14	monitoring|stroop	#FDAD4A	0.413692323737349
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	21	14	interference	#FC622F	0.611103836269138
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	22	14		#FD913D	0.575795042273196
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	23	14	demands|executive	#FD913D	0.579888340110433
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	1	15	anger	#FFF1A9	0.156095169140773
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	2	15	stress	#FFFFCC	0.0954269121098526
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	3	15	feelings	#FEE188	0.209357357657914
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	4	15	salient	#FECB68	0.347012396346334
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	5	15	novelty	#FDAD4A	0.417748287184794
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	6	15	movie	#FD913D	0.533661524230602
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	7	15		#F03623	0.741289026115074
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	8	15		#F03623	0.713119321977339
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	9	15	longterm	#FD913D	0.5445408109002
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	10	15		#FC622F	0.640769609343485
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	11	15	reasoning|relational	#FD913D	0.561727902927461
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	12	15		#D7141E	0.879930402278391
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	13	15	presentations	#F03623	0.769495305833409
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	14	15		#B10026	0.920149721723437
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	15	15	identity	#F03623	0.716007755110045
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	16	15		#F03623	0.737412752475552
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	17	15	strategies|strategy	#FD913D	0.527040182425295
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	18	15	card|cards	#FDAD4A	0.432915356256158
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	19	15	gonogo	#FDAD4A	0.417001878604687
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	20	15		#FD913D	0.515686805181392
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	21	15	switching|switch	#FDAD4A	0.469436393175172
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	22	15		#FD913D	0.553435406143378
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	23	15	2back|rule	#FD913D	0.508981847739101
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	1	16	emotionally|mood|personality|sadness	#FFFFCC	0.042389904828982
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	2	16	disgust|sexual	#FFF1A9	0.164346908257086
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	3	16	olfactory	#FFFFCC	0.0391819843014353
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	4	16	physiological	#FFF1A9	0.195780467652246
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	5	16	depressed|depressive|habituation	#FFF1A9	0.11916330627753
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	6	16	schizophrenic	#FECB68	0.374283917991838
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	7	16	colors|contexts	#FDAD4A	0.469176692654787
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	8	16	aging|encoded	#FDAD4A	0.421587282802555
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	9	16	goal	#FDAD4A	0.401382394028445
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	10	16		#FC622F	0.623523766880271
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	11	16	autism|autistic|nonverbal	#FDAD4A	0.48788152729611
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	12	16		#D7141E	0.819385407202707
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	13	16	bottomup|repetitions	#FC622F	0.691403316647605
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	14	16	adaptation	#FC622F	0.694227547103302
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	15	16	irrelevant	#FC622F	0.662449720369951
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	16	16	distractor|distractors	#FD913D	0.595998614802921
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	17	16		#FC622F	0.665850717056533
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	18	16	subtraction	#FD913D	0.559506638572017
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	19	16	1back|nback	#FECB68	0.320376905991856
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	20	16	manipulation|rules	#FD913D	0.527993253469171
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	21	16		#FD913D	0.569719536139222
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	22	16		#FD913D	0.572604778329978
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	23	16	digit	#FD913D	0.515319646607667
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	1	17	avoidance	#FFFFCC	0.0325101935203402
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	2	17		#FFF1A9	0.126644058916051
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	3	17	eating|food	#FFFFCC	0.0674887185054655
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	4	17	taste	#FFFFCC	0.0731309296313312
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	5	17	bipolar	#FFF1A9	0.102367633795703
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	6	17	illness|uncertainty	#FEE188	0.226120013794884
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	7	17	females|probabilistic	#FECB68	0.367597142789482
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	8	17	rejection	#FDAD4A	0.406610068186463
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	9	17	colour|paired	#FDAD4A	0.450893455344686
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	10	17		#FC622F	0.617486967926494
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	11	17		#FC622F	0.618351240802848
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	12	17		#FC622F	0.685083177934224
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	13	17	taskirrelevant	#FC622F	0.658636507682064
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	14	17		#F03623	0.794262707882428
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	15	17	suppression	#D7141E	0.885796314209463
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	16	17		#F03623	0.752547727601585
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	17	17	shifting|shortterm	#FD913D	0.547258097198944
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	18	17	digits	#FDAD4A	0.471542621208125
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	19	17	search	#FD913D	0.597705275728581
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	20	17	counting|taskrelated	#FDAD4A	0.454392926789844
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	21	17	topdown	#FC622F	0.628407909726514
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	22	17	visuospatial	#FD913D	0.503892686648066
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	23	17	arithmetic|calculation|solving	#FD913D	0.547571322525292
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	1	18	addiction|craving|drugs	#FFFFCC	0.0688332618329673
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	2	18	allele|genotype|polymorphism	#FFFFCC	0.0811831029714924
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	3	18	motivation	#FFF1A9	0.140008632339793
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	4	18	heart	#FFF1A9	0.19191671580044
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	5	18	sleep	#FFF1A9	0.166333561581109
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	6	18	expectancy	#FEE188	0.200640328167908
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	7	18	phasic|salience	#FEE188	0.20690257746684
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	8	18	adolescence|adolescents	#FECB68	0.317188517134631
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	9	18	intelligence|tracking	#FECB68	0.391613314276621
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	10	18		#FD913D	0.584815863579637
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	11	18	serial	#FD913D	0.510797518667492
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	12	18		#FC622F	0.611561972546303
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	13	18	spatially|taskrelevant	#FD913D	0.510905892333321
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	14	18		#F03623	0.757713974292949
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	15	18	attended|attend|unattended	#FC622F	0.630994293038249
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	16	18	rotation|shapes	#FC622F	0.646093702775256
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	17	18	rehearsal	#FD913D	0.509148629717031
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	18	18	learned	#FECB68	0.358365207275429
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	19	18		#FD913D	0.511921602379513
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	20	18	cued|preparatory	#FD913D	0.517626389237119
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	21	18		#FD913D	0.536542423675579
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	22	18		#FD913D	0.580918264684187
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	23	18	numbers|numerical	#FDAD4A	0.469380291645574
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	1	19	future	#FFF1A9	0.197966204760157
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	2	19	negatively	#FFF1A9	0.1544319221654
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	3	19	distress|epilepsy|selfreported	#FFF1A9	0.109230140365211
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	4	19	anticipatory|cocaine|probabilities|smoking	#FFF1A9	0.0998210972595152
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	5	19	alcohol|amount|impulsivity	#FEE188	0.240990804022071
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	6	19	game|success	#FFF1A9	0.188214905006775
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	7	19	adhd|childhood|engagement	#FEE188	0.275575672574444
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	8	19		#FDAD4A	0.447580924155124
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	9	19		#FDAD4A	0.49121835531077
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	10	19		#FD913D	0.537942553055637
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	11	19		#FD913D	0.542327357517288
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	12	19	endogenous	#FECB68	0.391839234579596
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	13	19	cueing|invalid|orienting	#FDAD4A	0.413502365183033
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	14	19		#F03623	0.763487525504736
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	15	19	multisensory	#F03623	0.714384800910591
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	16	19		#F03623	0.792731914794742
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	17	19	shifts	#FD913D	0.526845667214299
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	18	19	covert	#FDAD4A	0.439236095749882
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	19	19		#FDAD4A	0.466653917567919
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	20	19	preparation	#FECB68	0.383807219258643
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	21	19	discrimination|training	#FD913D	0.539577197105967
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	22	19	sequences	#FECB68	0.350258147108504
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	23	19		#FDAD4A	0.427206711361514
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	1	20	personal|self|selfreferential|trait|traits	#FFF1A9	0.119985241095231
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	2	20	empathic|theory	#FEE188	0.280424884876481
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	3	20	attribution|intentional	#FFF1A9	0.122299154928348
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	4	20	elderly|oscillations	#FFF1A9	0.160661126913903
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	5	20	antipsychotic|virtual	#FEE188	0.267999501693892
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	6	20		#FECB68	0.367368497803423
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	7	20	experiences	#FFF1A9	0.157634698442951
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	8	20	categorical|pressure	#FECB68	0.378994233711215
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	9	20	play|skills	#FEE188	0.254966316805886
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	10	20	automatic|trained	#FECB68	0.357068883455419
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	11	20		#FECB68	0.389897655706513
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	12	20	practice	#FECB68	0.36319010666999
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	13	20	visuomotor	#FECB68	0.316357802565806
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	14	20		#FC622F	0.625843550133311
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	15	20	tool	#FC622F	0.672656803483287
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	16	20	vision	#FDAD4A	0.440186618259218
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	17	20	visually	#F03623	0.711000230227149
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	18	20	saccade|saccades|saccadic	#FEE188	0.299487305357088
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	19	20	locations	#FDAD4A	0.440306188939472
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	20	20	imagery|planning	#FDAD4A	0.420694465846446
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	21	20		#FDAD4A	0.443863740809586
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	22	20	rest	#FECB68	0.352950803178899
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	23	20	sequence	#FECB68	0.398834880462818
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	1	21	scenarios	#FFF1A9	0.102554170965921
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	2	21	intention|intentions	#FEE188	0.243537779538202
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	3	21	causality|perspective	#FFF1A9	0.179257659564567
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	4	21	past	#FFF1A9	0.114723792322661
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	5	21		#FECB68	0.314837255615673
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	6	21	episode	#FFF1A9	0.155535318291244
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	7	21	improvement	#FECB68	0.314858153756426
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	8	21	masking|retention	#FECB68	0.349263410729199
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	9	21		#FDAD4A	0.444029204097558
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	10	21	dominant	#FD913D	0.577548711727873
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	11	21		#FEE188	0.246244095076737
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	12	21	sequential	#FEE188	0.244392990237517
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	13	21	fingers	#FFFFCC	0.0891557573227787
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	14	21		#FD913D	0.539953855638564
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	15	21	gesture|gestures	#FDAD4A	0.433375360973951
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	16	21		#FD913D	0.538536267701917
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	17	21	hands	#FECB68	0.332050940382586
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	18	21		#FDAD4A	0.497936386119838
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	19	21		#FD913D	0.52638110119487
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	20	21	eye|position	#FDAD4A	0.44170866268255
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	21	21	execution	#FECB68	0.339276560152591
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	22	21	finger|sensorimotor	#FFF1A9	0.18773264504721
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	23	21		#FECB68	0.303341589670501
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	1	22	moral|stories|story	#FFF1A9	0.129265762807393
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	2	22	mentalizing|persons	#FEE188	0.270656834731328
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	3	22	default|restingstate	#FFFFCC	0.0448207620385323
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	4	22	thinking|thought|thoughts	#FEE188	0.29861879798682
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	5	22	spontaneous	#FFF1A9	0.162770655906023
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	6	22	concentration|sensations	#FFFFCC	0.0670688567131285
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	7	22	hierarchical|preference	#FECB68	0.36438972045566
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	8	22	effort|oral|simulation	#FEE188	0.281374258196186
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	9	22	interhemispheric|plasticity	#FECB68	0.339100077895322
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	10	22	imagined|imagine	#FEE188	0.262554439806185
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	11	22	tapping	#FFF1A9	0.152447001892787
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	12	22	foot|muscle|muscles|voluntary	#FFFFCC	0.0299215920654861
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	13	22	limb	#FFFFCC	0.0143060465509299
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	14	22	eyes|velocity	#FEE188	0.201175995334199
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	15	22	biological|gaze|videos	#FDAD4A	0.402476921144565
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	16	22	body	#FDAD4A	0.426155168433789
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	17	22	grasping|orientation|reaching	#FECB68	0.336143689184706
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	18	22		#FDAD4A	0.496508724531379
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	19	22	mirror|shape	#F03623	0.750258647927553
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	20	22	actions	#FD913D	0.551673200306418
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	21	22	action	#FD913D	0.547794239975735
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	22	22		#FECB68	0.323901797562966
+49bfd4c1-3990-3cf6-bbb3-c4b4e80bda9c	Cohen L	23	22	hand|movements|sensory	#FEE188	0.237379357576193

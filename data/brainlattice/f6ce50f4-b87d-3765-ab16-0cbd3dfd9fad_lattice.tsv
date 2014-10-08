@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	1	1	auditory|speech	#FECB68	0.363938753495695
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	2	1		#FEE188	0.233863849114812
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	3	1	da|integration	#FEE188	0.204426040224481
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	4	1		#FDAD4A	0.405704912548391
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	5	1	physical|psychophysical|tactile	#FD913D	0.515799288287391
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	6	1		#FDAD4A	0.49691832189981
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	7	1	somatosensory|stimulation	#FECB68	0.365122921863719
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	8	1	painful|pain	#FDAD4A	0.411251443631731
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	9	1		#FECB68	0.396245538732069
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	10	1	ratings	#FFF1A9	0.194061207685865
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	11	1	affective|affect	#FFF1A9	0.114581412686146
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	12	1	emotions	#FECB68	0.304322909577575
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	13	1	expression|expressions|facial	#FEE188	0.229823819275799
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	14	1		#FEE188	0.258327918938533
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	15	1		#FEE188	0.283579327948793
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	16	1	emotion|motion|neutral	#FEE188	0.261301375796293
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	17	1	rating	#FEE188	0.241294476468478
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	18	1	negative|positive	#FECB68	0.337480419831547
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	19	1		#FDAD4A	0.420035000305781
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	20	1	ear|order	#FDAD4A	0.414756843245396
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	21	1	motor	#FDAD4A	0.425977270164352
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	22	1	visual	#FDAD4A	0.415962386819111
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	23	1	age|image|response	#FDAD4A	0.45774623951199
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	1	2	sound|sounds	#FFF1A9	0.14462676216072
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	2	2		#FEE188	0.206003121440679
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	3	2	audiovisual|bimodal|crossmodal	#FEE188	0.24434312710685
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	4	2		#FECB68	0.375424125812097
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	5	2		#FDAD4A	0.458450985191871
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	6	2		#FDAD4A	0.473499722243742
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	7	2	sensation	#FDAD4A	0.404797839619558
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	8	2	heat|noxious	#FDAD4A	0.42002280733417
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	9	2		#FDAD4A	0.401936111838517
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	10	2		#FEE188	0.26625973615294
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	11	2		#FEE188	0.23262439537401
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	12	2	valence	#FFF1A9	0.166220142623821
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	13	2	person|social	#FFF1A9	0.189489636593468
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	14	2		#FEE188	0.256754592021664
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	15	2	face|faces	#FECB68	0.329554776001646
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	16	2		#FEE188	0.293141923348261
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	17	2		#FECB68	0.313166316905374
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	18	2		#FECB68	0.369713280912807
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	19	2		#FDAD4A	0.428899488920688
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	20	2		#FDAD4A	0.483292360541842
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	21	2	images|spatial	#FD913D	0.518629598825008
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	22	2	control	#FDAD4A	0.498374898752068
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	23	2	time	#FDAD4A	0.45817154754567
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	1	3	acoustic|listening|musical|music|pitch	#FFF1A9	0.135613425619293
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	2	3	noise|tones	#FFF1A9	0.129967444188794
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	3	3		#FEE188	0.238142754468436
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	4	3		#FEE188	0.246770060730635
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	5	3	frequency	#FEE188	0.246731628631628
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	6	3		#FECB68	0.380487824256736
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	7	3		#FDAD4A	0.45402407811263
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	8	3	temperature	#FDAD4A	0.461308005919231
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	9	3		#FDAD4A	0.414102532266942
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	10	3	pleasant|unpleasant	#FEE188	0.258683666110761
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	11	3	anxiety	#FFF1A9	0.145580498613499
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	12	3		#FFF1A9	0.186911896190269
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	13	3		#FEE188	0.206960930540998
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	14	3		#FEE188	0.252319910582906
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	15	3		#FEE188	0.275422571108069
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	16	3	picture	#FEE188	0.255663473499819
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	17	3		#FECB68	0.3630863666783
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	18	3	value	#FECB68	0.327712047371924
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	19	3	cue	#FDAD4A	0.442356734824443
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	20	3	error|target	#FD913D	0.542983133399376
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	21	3	attention	#FD913D	0.592246876103328
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	22	3		#FD913D	0.510546848601686
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	23	3	number	#FD913D	0.508677178852112
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	1	4	voice	#FFF1A9	0.121870225168456
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	2	4		#FFF1A9	0.168157661190223
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	3	4	hearing	#FEE188	0.210318327776107
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	4	4		#FFF1A9	0.190689882594378
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	5	4	overt	#FFF1A9	0.158491715757012
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	6	4		#FEE188	0.274360086377935
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	7	4		#FDAD4A	0.451893247121156
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	8	4	nociceptive|nonpainful|painrelated	#FECB68	0.337312401847609
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	9	4	unpleasantness	#FDAD4A	0.415647973525141
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	10	4	skin|subjective	#FEE188	0.249914592395275
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	11	4	depression	#FFF1A9	0.154625819780424
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	12	4	experience	#FFF1A9	0.186664318194675
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	13	4	female	#FFF1A9	0.117371435448692
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	14	4	male	#FFF1A9	0.155543115633446
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	15	4	pictures	#FECB68	0.344638642911295
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	16	4		#FECB68	0.361381331086075
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	17	4	perception	#FECB68	0.391711973285696
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	18	4		#FDAD4A	0.465463413715565
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	19	4		#FD913D	0.505681134688378
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	20	4		#FD913D	0.5342065783176
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	21	4	correct	#FD913D	0.559083091169666
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	22	4	work	#FD913D	0.534002130957023
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	23	4	memory	#FDAD4A	0.489307688269666
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	1	5	prosodic|prosody	#FECB68	0.365560707065885
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	2	5	phonetic	#FFFFCC	0.0731280394145896
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	3	5	syllable|syllables	#FFFFCC	0.0844097431040894
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	4	5		#FFF1A9	0.171677758945518
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	5	5	lip|production	#FFF1A9	0.170032498123201
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	6	5	somatotopic	#FEE188	0.240333335291576
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	7	5		#FECB68	0.398003860398308
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	8	5		#FDAD4A	0.416647453401429
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	9	5	empathy	#FECB68	0.377403083550098
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	10	5		#FECB68	0.340271388471168
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	11	5	disorder	#FFF1A9	0.141778192194624
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	12	5		#FEE188	0.211011653262395
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	13	5		#FEE188	0.220491186069195
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	14	5		#FEE188	0.288479116880312
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	15	5		#FECB68	0.328970101842178
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	16	5		#FECB68	0.394341420222804
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	17	5		#FDAD4A	0.425335813141511
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	18	5	mental	#FDAD4A	0.485086918694653
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	19	5	go	#FD913D	0.595034603946631
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	20	5	object	#FDAD4A	0.413957045970748
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	21	5		#FD913D	0.507336983027423
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	22	5		#FDAD4A	0.453403711135491
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	23	5	word|words	#FDAD4A	0.400457138270715
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	1	6		#FEE188	0.227291808622707
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	2	6		#FEE188	0.217773907263621
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	3	6		#FFF1A9	0.170250305955988
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	4	6	vocal	#FFF1A9	0.162800181153503
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	5	6	articulatory	#FFFFCC	0.0910282139619223
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	6	6		#FEE188	0.270297111165641
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	7	6	oddball	#FC622F	0.679982637531311
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	8	6	perceived	#FECB68	0.334567913480491
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	9	6	errorrelated	#FEE188	0.239779329080188
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	10	6	approach	#FEE188	0.257624055212061
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	11	6	schizophrenia	#FECB68	0.355320838391706
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	12	6	acquisition	#FFFFCC	0.0958442580866727
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	13	6		#FEE188	0.296743686418439
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	14	6		#FECB68	0.307645444296951
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	15	6		#FECB68	0.320489997091236
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	16	6		#FECB68	0.330249132298758
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	17	6		#FECB68	0.3285449315708
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	18	6		#FECB68	0.357906237130036
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	19	6		#FDAD4A	0.436540124013067
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	20	6	objects	#FECB68	0.390705048276695
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	21	6		#FDAD4A	0.495122180260671
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	22	6		#FECB68	0.388998196960922
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	23	6	language|semantic	#FECB68	0.325843838421979
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	1	7	dopamine|dopaminergic	#FFFFCC	0.0222483943987936
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	2	7		#FFFFCC	0.0697264013045689
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	3	7		#FFF1A9	0.18649667850713
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	4	7		#FEE188	0.244017966111861
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	5	7		#FEE188	0.277752831958507
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	6	7		#FECB68	0.302887374597701
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	7	7		#FECB68	0.300504794909568
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	8	7		#FEE188	0.299575222324723
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	9	7		#FECB68	0.317364195347679
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	10	7		#FECB68	0.305916006669708
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	11	7		#FEE188	0.256604618545852
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	12	7		#FEE188	0.272310961620179
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	13	7	linguistic|spoken	#FEE188	0.272210057856816
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	14	7		#FEE188	0.294533378013114
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	15	7	comprehension|sentence|sentences|syntactic	#FECB68	0.343192410245463
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	16	7		#FEE188	0.295351586031953
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	17	7		#FEE188	0.2862342073278
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	18	7	phonological|reading|read	#FEE188	0.216652992215221
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	19	7		#FECB68	0.387927745383838
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	20	7	perceptual|recognition	#FD913D	0.552250532016159
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	21	7		#FDAD4A	0.484038286521646
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	22	7		#FECB68	0.396849681699359
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	23	7	verb	#FECB68	0.362499536632825
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	1	8	outcome|reward	#FFFFCC	0.0341205990122591
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	2	8	anticipation	#FFFFCC	0.0490491559345726
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	3	8	outcomes	#FFFFCC	0.0786381417519517
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	4	8	choice|choices	#FFF1A9	0.102565147170829
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	5	8	decisions|probability	#FDAD4A	0.407286131915244
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	6	8	reversal	#FEE188	0.250896142835695
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	7	8	classification|incorrect	#FFF1A9	0.136932165043194
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	8	8		#FEE188	0.265840501755733
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	9	8	agerelated|fluency|probes	#FFF1A9	0.155167497165227
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	10	8	engaged	#FEE188	0.253279490861942
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	11	8	explicit|knowledge	#FFF1A9	0.152221717574866
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	12	8		#FEE188	0.225491882586114
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	13	8		#FEE188	0.248567589411277
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	14	8		#FEE188	0.245685751501401
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	15	8		#FEE188	0.222969139775769
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	16	8		#FEE188	0.224988368769646
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	17	8	lexical	#FFF1A9	0.191296381131549
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	18	8		#FEE188	0.27383392495074
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	19	8		#FECB68	0.370947075355816
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	20	8		#FDAD4A	0.457242662557119
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	21	8	encoding	#FDAD4A	0.422779473488904
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	22	8	retrieval	#FDAD4A	0.490877967738219
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	23	8	verbal	#FECB68	0.393632738366981
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	1	9	incentive|monetary|money|rewards	#FFFFCC	0.0215791426405021
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	2	9	loss	#FFFFCC	0.090174097370038
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	3	9		#FFF1A9	0.149520459727044
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	4	9		#FEE188	0.207977731636923
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	5	9	decisionmaking	#FECB68	0.335981897909332
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	6	9		#FECB68	0.333743086898641
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	7	9		#FECB68	0.336765737535687
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	8	9		#FECB68	0.302769069573051
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	9	9		#FEE188	0.293846208257063
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	10	9		#FEE188	0.247287781191454
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	11	9		#FEE188	0.204424634407855
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	12	9		#FFF1A9	0.171459772357002
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	13	9	noun	#FFFFCC	0.0806710701741093
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	14	9	meaning	#FFF1A9	0.167071377262347
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	15	9	english	#FFFFCC	0.0820624628856351
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	16	9	pseudoword|pseudowords	#FFFFCC	0.0297856445693659
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	17	9		#FEE188	0.246429224037479
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	18	9		#FECB68	0.355175926583704
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	19	9	familiar|judgment	#FECB68	0.348033514721227
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	20	9	pair|pairs	#FDAD4A	0.451515134486055
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	21	9		#FD913D	0.524437621419914
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	22	9		#FD913D	0.502403532378186
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	23	9	letter|working	#FD913D	0.588121117651978
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	1	10	losses|reinforcement|win	#FEE188	0.203958334461535
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	2	10	gain	#FFFFCC	0.0408510928262861
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	3	10	expectation	#FFF1A9	0.131076565564969
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	4	10	risk	#FFF1A9	0.136543377666945
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	5	10	fact	#FFF1A9	0.137840063732826
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	6	10	associative	#FDAD4A	0.489921335036218
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	7	10	familiarity|judgments|old	#FDAD4A	0.473515371287774
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	8	10	contextual|text	#FEE188	0.208099720478347
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	9	10	recall|retrieved	#FECB68	0.347217778656789
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	10	10	conceptual|semantically	#FEE188	0.229738727962438
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	11	10	grammatical|speakers	#FFFFCC	0.0884629958970084
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	12	10	nouns	#FFF1A9	0.124394748040328
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	13	10	japanese	#FFFFCC	0.0866475396904109
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	14	10	languages	#FFFFCC	0.0719624913262959
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	15	10	written	#FFF1A9	0.126554292906199
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	16	10	chinese|phonology	#FFF1A9	0.113037188424863
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	17	10	orthographic	#FFF1A9	0.155617757224221
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	18	10		#FD913D	0.506431175431504
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	19	10		#FD913D	0.570639076764924
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	20	10	association|decision	#FECB68	0.391471552701496
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	21	10	selection	#FDAD4A	0.487333761280304
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	22	10	letters	#FD913D	0.599264454960948
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	23	10	demand|load	#FD913D	0.506890804236761
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	1	11	conditioned|conditioning	#FFFFCC	0.06489340556397
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	2	11		#FFF1A9	0.151308164179219
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	3	11	drug|placebo	#FFF1A9	0.145234768581815
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	4	11		#FFF1A9	0.197843598171095
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	5	11	associations	#FFF1A9	0.171474832835345
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	6	11		#FECB68	0.3524925573715
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	7	11	episodic|recollection	#FEE188	0.263813567929324
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	8	11		#FECB68	0.364038289621398
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	9	11		#FDAD4A	0.495272139692445
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	10	11	concepts	#FEE188	0.292633778705551
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	11	11		#FECB68	0.359215236389395
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	12	11		#FEE188	0.219194321509725
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	13	11	german	#FEE188	0.253726499364753
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	14	11	readers	#FDAD4A	0.441921500581749
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	15	11	character|name|naming	#FFF1A9	0.153163657076052
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	16	11		#FFF1A9	0.189204447980367
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	17	11	novel	#FECB68	0.316097809438891
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	18	11		#FDAD4A	0.457289694593331
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	19	11	child|children	#B10026	0.946002666337534
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	20	11	adults	#FD913D	0.54912300365503
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	21	11	ability|feedback|learning	#FDAD4A	0.424790824930961
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	22	11	cues|delay	#FDAD4A	0.448551249035356
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	23	11	attentional|difficulty|targets	#FC622F	0.653861804568379
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	1	12	aversive|shock	#FECB68	0.310743791776527
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	2	12	reactivity	#FFFFCC	0.097470626598604
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	3	12	males|sex|women	#FEE188	0.2137973569748
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	4	12	animal	#FFFFCC	0.067717651551655
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	5	12	animals	#FFFFCC	0.0524853926639856
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	6	12		#FECB68	0.304915293685454
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	7	12	remember|subsequent	#FEE188	0.225034329322587
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	8	12	autobiographical|memories	#FFFFCC	0.06595927396187
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	9	12		#FC622F	0.607367742355815
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	10	12	violation|violations	#B10026	0.976333028482574
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	11	12	aphasia	#FDAD4A	0.485550128508279
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	12	12	nonwords	#FEE188	0.242837010470968
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	13	12	dyslexia	#FEE188	0.247724169298333
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	14	12		#FECB68	0.330898722697243
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	15	12	priming	#FEE188	0.204271954987238
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	16	12		#FEE188	0.290233684597249
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	17	12	category|repetition	#FEE188	0.242478849940867
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	18	12		#FDAD4A	0.453481409946936
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	19	12	developmental|development	#FECB68	0.323530641371069
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	20	12		#FC622F	0.626397208900967
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	21	12	space	#FD913D	0.523303642104331
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	22	12		#FD913D	0.563814256915882
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	23	12	color	#FC622F	0.67665247901241
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	1	13	threat	#FFFFCC	0.0582545499663311
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	2	13	regulation	#FFF1A9	0.13643288592258
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	3	13		#FFF1A9	0.145481163163266
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	4	13	masked	#FFFFCC	0.0652887155230046
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	5	13	scene|scenes	#FFF1A9	0.161823419075963
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	6	13		#FECB68	0.305544436218672
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	7	13	confidence|remembered	#FDAD4A	0.469606856117454
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	8	13		#FECB68	0.353900118589689
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	9	13		#FD913D	0.533917869669402
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	10	13	ambiguity|ambiguous	#FDAD4A	0.48166992213103
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	11	13		#FD913D	0.557081012498549
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	12	13		#FECB68	0.31709302756899
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	13	13	writing	#FFFFCC	0.0920761886593609
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	14	13		#FECB68	0.384984012599719
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	15	13	categorization|congruency|prime	#FDAD4A	0.459201357301215
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	16	13		#FECB68	0.378247157981353
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	17	13	mask	#FEE188	0.259851717560198
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	18	13		#FD913D	0.534944936259576
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	19	13		#F03623	0.710529364695977
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	20	13		#F03623	0.713130265031948
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	21	13	conflict|congruent|incongruent	#F03623	0.735268326106309
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	22	13	errors	#FDAD4A	0.491474756894805
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	23	13	maintenance|probe|wm	#FDAD4A	0.438313044441875
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	1	14	angry|fearful|happy	#FFF1A9	0.103672454089035
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	2	14		#FFF1A9	0.10920772494153
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	3	14	awareness|conscious|ptsd	#FEE188	0.285652880872729
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	4	14		#FFF1A9	0.191527955884126
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	5	14	houses|photographs	#FFFFCC	0.0749359928861353
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	6	14		#FEE188	0.283789821849654
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	7	14	hits	#FECB68	0.330127646832186
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	8	14	famous	#FECB68	0.299824416729742
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	9	14	names	#FFFFCC	0.0736585246867858
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	10	14	family	#FFF1A9	0.131456064506896
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	11	14	competition|mouth	#FECB68	0.302695599751524
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	12	14	abilities	#FDAD4A	0.470022418838518
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	13	14	implicit|unfamiliar	#FEE188	0.258792188803622
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	14	14		#FECB68	0.395940456024969
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	15	14	tom	#FD913D	0.539543604493932
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	16	14		#FD913D	0.541080133307649
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	17	14		#FC622F	0.64305059707108
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	18	14	stop	#D7141E	0.875450479386351
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	19	14	inhibition|inhibitory|nogo	#B10026	1
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	20	14	monitoring|stroop	#FD913D	0.578378460640447
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	21	14	interference	#FD913D	0.554620888867557
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	22	14		#FD913D	0.551135769533029
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	23	14	demands|executive	#FECB68	0.342578561129334
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	1	15	anger	#FFFFCC	0.0241301000517146
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	2	15	stress	#FFFFCC	0.0259423191936241
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	3	15	feelings	#FFFFCC	0.0680384629457263
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	4	15	salient	#FFF1A9	0.14426473601147
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	5	15	novelty	#FFF1A9	0.117496563603827
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	6	15	movie	#FFF1A9	0.124761248204084
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	7	15		#FECB68	0.329671865005368
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	8	15		#FECB68	0.309771931258821
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	9	15	longterm	#FFF1A9	0.178026396060545
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	10	15		#FEE188	0.280271079988665
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	11	15	reasoning|relational	#FEE188	0.247364145281299
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	12	15		#FECB68	0.379846400605138
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	13	15	presentations	#FECB68	0.362933176689367
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	14	15		#FDAD4A	0.445036456496194
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	15	15	identity	#FECB68	0.364176876910361
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	16	15		#FC622F	0.631024503433507
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	17	15	strategies|strategy	#FDAD4A	0.459547893831175
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	18	15	card|cards	#B10026	0.905199981348348
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	19	15	gonogo	#D7141E	0.840364838886338
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	20	15		#F03623	0.756478139290261
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	21	15	switching|switch	#FDAD4A	0.442229964991886
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	22	15		#FD913D	0.544734363037083
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	23	15	2back|rule	#FDAD4A	0.4432060961996
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	1	16	emotionally|mood|personality|sadness	#FFFFCC	0
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	2	16	disgust|sexual	#FFFFCC	0.0931192007994814
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	3	16	olfactory	#FFF1A9	0.114097253586691
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	4	16	physiological	#FFF1A9	0.167639872900701
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	5	16	depressed|depressive|habituation	#FFFFCC	0.0651951064936976
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	6	16	schizophrenic	#FFF1A9	0.183363827785673
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	7	16	colors|contexts	#FDAD4A	0.491261527807821
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	8	16	aging|encoded	#FFFFCC	0.0908365555788123
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	9	16	goal	#FFF1A9	0.158872155725317
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	10	16		#FECB68	0.36543637792244
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	11	16	autism|autistic|nonverbal	#FECB68	0.327883125721759
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	12	16		#FDAD4A	0.487193494046388
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	13	16	bottomup|repetitions	#FDAD4A	0.419574664439375
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	14	16	adaptation	#FDAD4A	0.480529189305447
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	15	16	irrelevant	#FC622F	0.651687231156941
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	16	16	distractor|distractors	#FDAD4A	0.427029479078819
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	17	16		#FC622F	0.628916088304981
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	18	16	subtraction	#F03623	0.703066059061934
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	19	16	1back|nback	#FDAD4A	0.413152457031149
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	20	16	manipulation|rules	#FDAD4A	0.498430390906842
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	21	16		#FD913D	0.591128727900439
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	22	16		#FC622F	0.624514867617177
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	23	16	digit	#FD913D	0.509591695043851
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	1	17	avoidance	#FFFFCC	0.0214973965234826
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	2	17		#FFF1A9	0.136394180025349
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	3	17	eating|food	#FFF1A9	0.142212218977217
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	4	17	taste	#FFFFCC	0.0950037746145663
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	5	17	bipolar	#FFFFCC	0.0826186815441932
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	6	17	illness|uncertainty	#F03623	0.799353547184842
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	7	17	females|probabilistic	#FD913D	0.585558674280656
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	8	17	rejection	#FFFFCC	0.0828801366253917
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	9	17	colour|paired	#D7141E	0.877230614418548
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	10	17		#FDAD4A	0.462273066673968
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	11	17		#FD913D	0.517578751159527
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	12	17		#FD913D	0.571837824410874
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	13	17	taskirrelevant	#FD913D	0.546422163835554
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	14	17		#FD913D	0.526955702975215
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	15	17	suppression	#FDAD4A	0.489774351234969
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	16	17		#FDAD4A	0.480694708943932
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	17	17	shifting|shortterm	#FECB68	0.397419709996906
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	18	17	digits	#FC622F	0.608254945319173
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	19	17	search	#FD913D	0.581016539487105
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	20	17	counting|taskrelated	#FD913D	0.510938207591565
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	21	17	topdown	#FD913D	0.55696811067533
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	22	17	visuospatial	#FDAD4A	0.430422770878435
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	23	17	arithmetic|calculation|solving	#D7141E	0.827522066487206
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	1	18	addiction|craving|drugs	#FFFFCC	0.051641069548426
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	2	18	allele|genotype|polymorphism	#FECB68	0.301976765477839
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	3	18	motivation	#FFFFCC	0.0472265284255441
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	4	18	heart	#FFF1A9	0.133510013588687
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	5	18	sleep	#FFF1A9	0.185558198453617
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	6	18	expectancy	#FECB68	0.369433397791464
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	7	18	phasic|salience	#FEE188	0.263316762203489
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	8	18	adolescence|adolescents	#FEE188	0.266995505671136
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	9	18	intelligence|tracking	#FFF1A9	0.137037293356876
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	10	18		#FD913D	0.502561129080558
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	11	18	serial	#FC622F	0.662544037806659
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	12	18		#FC622F	0.630015750179897
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	13	18	spatially|taskrelevant	#FECB68	0.362335781137176
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	14	18		#FD913D	0.533014760975629
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	15	18	attended|attend|unattended	#FECB68	0.349448511168326
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	16	18	rotation|shapes	#FEE188	0.228454402797531
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	17	18	rehearsal	#FFF1A9	0.180896111738225
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	18	18	learned	#FFF1A9	0.10526308456897
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	19	18		#FD913D	0.554524099805667
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	20	18	cued|preparatory	#B10026	0.964454689857863
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	21	18		#F03623	0.719803783169868
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	22	18		#F03623	0.710902107567088
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	23	18	numbers|numerical	#FC622F	0.625864291510662
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	1	19	future	#FFFFCC	0.0699937730847402
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	2	19	negatively	#FEE188	0.28795953228602
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	3	19	distress|epilepsy|selfreported	#FFFFCC	0.0301523875271948
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	4	19	anticipatory|cocaine|probabilities|smoking	#FFFFCC	0.0413795818257777
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	5	19	alcohol|amount|impulsivity	#FFFFCC	0.0566272374079144
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	6	19	game|success	#FDAD4A	0.425569177364909
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	7	19	adhd|childhood|engagement	#D7141E	0.852081240614483
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	8	19		#FDAD4A	0.463621259090108
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	9	19		#FDAD4A	0.466881289229507
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	10	19		#FDAD4A	0.421289733772978
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	11	19		#FDAD4A	0.470043232602147
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	12	19	endogenous	#FECB68	0.300499765469965
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	13	19	cueing|invalid|orienting	#F03623	0.712440556486918
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	14	19		#FDAD4A	0.478274994546363
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	15	19	multisensory	#FECB68	0.361062129825186
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	16	19		#FECB68	0.378865408506402
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	17	19	shifts	#FECB68	0.32655919823288
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	18	19	covert	#FFF1A9	0.184942230426242
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	19	19		#FDAD4A	0.475310803760269
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	20	19	preparation	#D7141E	0.8595282267597
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	21	19	discrimination|training	#FC622F	0.630193780489125
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	22	19	sequences	#FC622F	0.677312717331353
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	23	19		#FC622F	0.607465836139232
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	1	20	personal|self|selfreferential|trait|traits	#FFF1A9	0.15028229964002
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	2	20	empathic|theory	#FFF1A9	0.179372196876124
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	3	20	attribution|intentional	#FC622F	0.679120618422266
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	4	20	elderly|oscillations	#FFFFCC	0.0593181305952172
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	5	20	antipsychotic|virtual	#FEE188	0.23294705009837
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	6	20		#FDAD4A	0.472734159223242
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	7	20	experiences	#FFF1A9	0.130582649463254
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	8	20	categorical|pressure	#D7141E	0.889159029857138
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	9	20	play|skills	#FEE188	0.199656597600773
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	10	20	automatic|trained	#FFF1A9	0.134786579324581
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	11	20		#FECB68	0.383952352220127
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	12	20	practice	#FEE188	0.259638261072649
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	13	20	visuomotor	#FECB68	0.300251278664256
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	14	20		#FECB68	0.387716238852659
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	15	20	tool	#FFF1A9	0.132175981911905
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	16	20	vision	#FEE188	0.278116179796056
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	17	20	visually	#FDAD4A	0.449674185327151
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	18	20	saccade|saccades|saccadic	#FEE188	0.289292317414245
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	19	20	locations	#FEE188	0.21406903336968
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	20	20	imagery|planning	#FECB68	0.377934424833662
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	21	20		#FD913D	0.58310980450891
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	22	20	rest	#FD913D	0.590397273701809
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	23	20	sequence	#FC622F	0.629011710585446
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	1	21	scenarios	#FFF1A9	0.0996021317779445
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	2	21	intention|intentions	#FECB68	0.329809719762596
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	3	21	causality|perspective	#FFF1A9	0.187759541913394
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	4	21	past	#FFFFCC	0.0762987758903666
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	5	21		#FECB68	0.351541886971758
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	6	21	episode	#FFF1A9	0.122711070415646
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	7	21	improvement	#FC622F	0.629757537949397
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	8	21	masking|retention	#FEE188	0.216403189999419
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	9	21		#FEE188	0.263794995871658
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	10	21	dominant	#FECB68	0.38672872779297
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	11	21		#FECB68	0.319871897755626
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	12	21	sequential	#FDAD4A	0.463272481284568
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	13	21	fingers	#FFF1A9	0.103650111898993
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	14	21		#FEE188	0.254210549398649
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	15	21	gesture|gestures	#FFF1A9	0.169606491100318
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	16	21		#FEE188	0.257103941544993
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	17	21	hands	#FEE188	0.238563943595011
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	18	21		#FECB68	0.34452047781176
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	19	21		#FECB68	0.388681432294256
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	20	21	eye|position	#FEE188	0.255326223342878
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	21	21	execution	#FDAD4A	0.412798475183643
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	22	21	finger|sensorimotor	#FECB68	0.334184765519296
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	23	21		#FDAD4A	0.461403745926109
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	1	22	moral|stories|story	#FDAD4A	0.476027108703472
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	2	22	mentalizing|persons	#FFFFCC	0.0930476531375616
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	3	22	default|restingstate	#FFF1A9	0.166960387051288
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	4	22	thinking|thought|thoughts	#FEE188	0.242751084552947
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	5	22	spontaneous	#FDAD4A	0.410274875782954
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	6	22	concentration|sensations	#FEE188	0.284615796307049
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	7	22	hierarchical|preference	#FFF1A9	0.09947998006177
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	8	22	effort|oral|simulation	#FFFFCC	0.0385976443529578
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	9	22	interhemispheric|plasticity	#FFF1A9	0.168908766629254
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	10	22	imagined|imagine	#FFF1A9	0.104967522371593
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	11	22	tapping	#FECB68	0.364935336833166
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	12	22	foot|muscle|muscles|voluntary	#FEE188	0.249796253706057
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	13	22	limb	#FFF1A9	0.178587276432334
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	14	22	eyes|velocity	#FFF1A9	0.105067071376693
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	15	22	biological|gaze|videos	#FEE188	0.246160876951458
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	16	22	body	#FEE188	0.200211547496182
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	17	22	grasping|orientation|reaching	#FFF1A9	0.107679085968501
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	18	22		#FECB68	0.348688655990065
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	19	22	mirror|shape	#FC622F	0.601263526303401
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	20	22	actions	#FDAD4A	0.437595252773407
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	21	22	action	#FD913D	0.547993941948243
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	22	22		#FDAD4A	0.436132612674116
+f6ce50f4-b87d-3765-ab16-0cbd3dfd9fad	Jackowski AP	23	22	hand|movements|sensory	#FECB68	0.375028148936495

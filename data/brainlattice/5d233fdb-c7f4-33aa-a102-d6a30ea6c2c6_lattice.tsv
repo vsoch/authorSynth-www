@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	1	1	auditory|speech	#FC622F	0.69051100121159
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	2	1		#F03623	0.764676155605043
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	3	1	da|integration	#D7141E	0.882662746497968
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	4	1		#D7141E	0.838736824740677
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	5	1	physical|psychophysical|tactile	#FD913D	0.553047845111293
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	6	1		#FDAD4A	0.474895008377048
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	7	1	somatosensory|stimulation	#FECB68	0.36380434447888
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	8	1	painful|pain	#FEE188	0.213420288544044
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	9	1		#FEE188	0.279255367206157
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	10	1	ratings	#FECB68	0.397703422421461
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	11	1	affective|affect	#FECB68	0.348479043823106
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	12	1	emotions	#FDAD4A	0.435395169750273
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	13	1	expression|expressions|facial	#FDAD4A	0.439466458366533
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	14	1		#FD913D	0.512128378754989
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	15	1		#FD913D	0.525079579598731
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	16	1	emotion|motion|neutral	#FD913D	0.510985977970956
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	17	1	rating	#FDAD4A	0.468806417852784
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	18	1	negative|positive	#FDAD4A	0.487560527199598
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	19	1		#FD913D	0.542853567538677
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	20	1	ear|order	#FD913D	0.53513273276742
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	21	1	motor	#FECB68	0.366909931402011
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	22	1	visual	#FD913D	0.553119235194287
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	23	1	age|image|response	#FD913D	0.509919744770326
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	1	2	sound|sounds	#F03623	0.714771666383887
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	2	2		#F03623	0.745958504310934
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	3	2	audiovisual|bimodal|crossmodal	#D7141E	0.822875725105003
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	4	2		#D7141E	0.84176072995806
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	5	2		#F03623	0.709235454332122
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	6	2		#FD913D	0.522386001639037
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	7	2	sensation	#FEE188	0.227973795546672
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	8	2	heat|noxious	#FFF1A9	0.140394031247391
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	9	2		#FECB68	0.300678415736117
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	10	2		#FECB68	0.391536972552106
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	11	2		#FDAD4A	0.412632280548934
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	12	2	valence	#FECB68	0.379680025911349
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	13	2	person|social	#FDAD4A	0.46111973559388
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	14	2		#FD913D	0.530121481341988
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	15	2	face|faces	#FDAD4A	0.498428682243817
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	16	2		#FD913D	0.572108596523907
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	17	2		#FD913D	0.562724496434324
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	18	2		#FD913D	0.566286523248564
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	19	2		#FD913D	0.564730743812713
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	20	2		#FD913D	0.550042163703023
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	21	2	images|spatial	#FD913D	0.56811608261217
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	22	2	control	#FD913D	0.506666146850576
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	23	2	time	#FD913D	0.507466379783914
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	1	3	acoustic|listening|musical|music|pitch	#FD913D	0.571995984403468
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	2	3	noise|tones	#F03623	0.727806913442457
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	3	3		#F03623	0.784617988385285
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	4	3		#F03623	0.774528821240327
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	5	3	frequency	#FC622F	0.685838832826674
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	6	3		#FD913D	0.579866552300234
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	7	3		#FEE188	0.279382197547941
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	8	3	temperature	#FEE188	0.214028850194577
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	9	3		#FECB68	0.308091420544825
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	10	3	pleasant|unpleasant	#FDAD4A	0.472013387660679
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	11	3	anxiety	#FEE188	0.209506461000799
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	12	3		#FDAD4A	0.452484553840967
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	13	3		#FD913D	0.563821426544543
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	14	3		#FD913D	0.584706637353453
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	15	3		#FC622F	0.620388338418619
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	16	3	picture	#FC622F	0.663104627222855
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	17	3		#FC622F	0.63739275777004
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	18	3	value	#FD913D	0.520644361686276
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	19	3	cue	#FD913D	0.516115593655552
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	20	3	error|target	#FD913D	0.571362939156225
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	21	3	attention	#FD913D	0.588576897049301
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	22	3		#FD913D	0.563157404765959
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	23	3	number	#FD913D	0.56844870089828
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	1	4	voice	#FD913D	0.518553008705537
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	2	4		#FC622F	0.640420066218168
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	3	4	hearing	#FD913D	0.599801454271227
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	4	4		#FC622F	0.641329281110783
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	5	4	overt	#FD913D	0.524217854766155
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	6	4		#FD913D	0.557857193613009
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	7	4		#FECB68	0.32657840769073
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	8	4	nociceptive|nonpainful|painrelated	#FFF1A9	0.130790804812825
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	9	4	unpleasantness	#FECB68	0.306809800841486
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	10	4	skin|subjective	#FECB68	0.340218314309425
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	11	4	depression	#FECB68	0.354694969328787
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	12	4	experience	#FDAD4A	0.423798316729917
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	13	4	female	#FC622F	0.611441365722765
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	14	4	male	#FC622F	0.628168574286431
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	15	4	pictures	#FC622F	0.639451585084823
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	16	4		#F03623	0.717435482104327
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	17	4	perception	#F03623	0.719782556909152
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	18	4		#FC622F	0.665352248572599
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	19	4		#FC622F	0.633761888121124
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	20	4		#FC622F	0.626880306412031
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	21	4	correct	#FD913D	0.580610254590866
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	22	4	work	#FD913D	0.552490366139893
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	23	4	memory	#FD913D	0.502678765899239
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	1	5	prosodic|prosody	#FDAD4A	0.472011132703862
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	2	5	phonetic	#FDAD4A	0.479939134274669
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	3	5	syllable|syllables	#FC622F	0.649879375398085
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	4	5		#FD913D	0.570846894747432
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	5	5	lip|production	#FDAD4A	0.480726659948837
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	6	5	somatotopic	#FEE188	0.274658733621654
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	7	5		#FDAD4A	0.416685711042898
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	8	5		#FECB68	0.382261082819444
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	9	5	empathy	#FECB68	0.393320402297264
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	10	5		#FDAD4A	0.492338273634961
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	11	5	disorder	#FDAD4A	0.415725177563105
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	12	5		#FD913D	0.569599660629077
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	13	5		#FC622F	0.646362875665411
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	14	5		#FC622F	0.697100649808356
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	15	5		#F03623	0.725009175193143
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	16	5		#F03623	0.755342701512523
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	17	5		#F03623	0.751691810084023
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	18	5	mental	#FC622F	0.622560691372398
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	19	5	go	#FC622F	0.640536730481071
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	20	5	object	#FC622F	0.65659334236341
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	21	5		#FC622F	0.650008751432335
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	22	5		#FC622F	0.626212604987071
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	23	5	word|words	#FD913D	0.572218518206673
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	1	6		#FD913D	0.518873667459582
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	2	6		#FD913D	0.56245436095174
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	3	6		#FC622F	0.604537213575136
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	4	6	vocal	#FDAD4A	0.470074758996597
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	5	6	articulatory	#FEE188	0.236496841069044
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	6	6		#FDAD4A	0.497662179501292
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	7	6	oddball	#FDAD4A	0.424819416159336
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	8	6	perceived	#FD913D	0.587259222441339
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	9	6	errorrelated	#FEE188	0.257051257723417
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	10	6	approach	#FECB68	0.315723017628996
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	11	6	schizophrenia	#FD913D	0.552545092091472
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	12	6	acquisition	#FDAD4A	0.466155574532239
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	13	6		#FC622F	0.638151135032423
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	14	6		#FC622F	0.614283336856952
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	15	6		#FC622F	0.641389627572124
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	16	6		#FC622F	0.664981501759816
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	17	6		#FC622F	0.696096387079391
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	18	6		#FC622F	0.695187861014652
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	19	6		#F03623	0.708080284401456
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	20	6	objects	#F03623	0.729185801730522
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	21	6		#FC622F	0.693444617142563
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	22	6		#FC622F	0.655875526228581
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	23	6	language|semantic	#FC622F	0.645124726049042
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	1	7	dopamine|dopaminergic	#FFF1A9	0.177395427573874
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	2	7		#FEE188	0.214223170955458
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	3	7		#FECB68	0.383811905090903
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	4	7		#FDAD4A	0.452163175762857
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	5	7		#FDAD4A	0.483573127887356
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	6	7		#FD913D	0.545018313881479
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	7	7		#FD913D	0.53863183431404
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	8	7		#FDAD4A	0.496511088827402
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	9	7		#FDAD4A	0.484452017508272
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	10	7		#FD913D	0.567938209267855
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	11	7		#FD913D	0.569825022720961
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	12	7		#FC622F	0.608031104883218
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	13	7	linguistic|spoken	#FD913D	0.523255821050002
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	14	7		#FD913D	0.578400262388189
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	15	7	comprehension|sentence|sentences|syntactic	#FD913D	0.560304680683752
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	16	7		#FC622F	0.61606547408832
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	17	7		#FC622F	0.663382443738471
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	18	7	phonological|reading|read	#FC622F	0.619042147031403
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	19	7		#F03623	0.706080298608258
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	20	7	perceptual|recognition	#F03623	0.711544438536529
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	21	7		#F03623	0.701942152026964
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	22	7		#FC622F	0.659292773497823
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	23	7	verb	#FC622F	0.613229329042334
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	1	8	outcome|reward	#FFF1A9	0.184599694289555
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	2	8	anticipation	#FFF1A9	0.135252752102965
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	3	8	outcomes	#FFF1A9	0.173161201151971
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	4	8	choice|choices	#FEE188	0.28537262296072
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	5	8	decisions|probability	#FDAD4A	0.4288828252075
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	6	8	reversal	#FDAD4A	0.458523536938944
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	7	8	classification|incorrect	#FECB68	0.377708919420762
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	8	8		#FDAD4A	0.488647630075533
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	9	8	agerelated|fluency|probes	#FDAD4A	0.467625856028553
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	10	8	engaged	#FDAD4A	0.486196975664838
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	11	8	explicit|knowledge	#FD913D	0.571028994994934
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	12	8		#FD913D	0.587788618136373
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	13	8		#FD913D	0.590977929135166
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	14	8		#FD913D	0.578172264656224
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	15	8		#FD913D	0.578169181759885
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	16	8		#FD913D	0.595655157823225
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	17	8	lexical	#FD913D	0.594962863932857
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	18	8		#FC622F	0.661528986957723
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	19	8		#FC622F	0.696103462533004
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	20	8		#F03623	0.710065949739104
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	21	8	encoding	#FC622F	0.633311912219879
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	22	8	retrieval	#FD913D	0.53498216630125
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	23	8	verbal	#FC622F	0.618229557017316
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	1	9	incentive|monetary|money|rewards	#FFFFCC	0.0242391991239122
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	2	9	loss	#FFF1A9	0.171168546346582
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	3	9		#FEE188	0.251599782721679
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	4	9		#FECB68	0.324649817015444
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	5	9	decisionmaking	#FECB68	0.301173902361926
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	6	9		#FDAD4A	0.47629191319111
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	7	9		#FDAD4A	0.481555261059167
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	8	9		#FDAD4A	0.486073914288299
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	9	9		#FD913D	0.55825957664093
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	10	9		#FD913D	0.587264100677511
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	11	9		#FC622F	0.624164631481905
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	12	9		#FD913D	0.599609813623705
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	13	9	noun	#FDAD4A	0.479417760900447
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	14	9	meaning	#FD913D	0.547456389014121
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	15	9	english	#FDAD4A	0.478120806997563
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	16	9	pseudoword|pseudowords	#FD913D	0.540176051692645
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	17	9		#FC622F	0.640326506832193
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	18	9		#FC622F	0.682342068851323
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	19	9	familiar|judgment	#FC622F	0.672212809646544
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	20	9	pair|pairs	#FC622F	0.6516640630188
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	21	9		#FC622F	0.686042188544258
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	22	9		#FC622F	0.670414714224157
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	23	9	letter|working	#FC622F	0.615075137838675
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	1	10	losses|reinforcement|win	#FFFFCC	0.0603011429560864
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	2	10	gain	#FEE188	0.238688616827869
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	3	10	expectation	#FEE188	0.20149418080514
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	4	10	risk	#FEE188	0.201671303063097
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	5	10	fact	#FDAD4A	0.429063771937727
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	6	10	associative	#FECB68	0.377416747934386
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	7	10	familiarity|judgments|old	#FDAD4A	0.428583556694431
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	8	10	contextual|text	#FDAD4A	0.464679397107383
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	9	10	recall|retrieved	#FDAD4A	0.403723549055084
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	10	10	conceptual|semantically	#F03623	0.738946641535796
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	11	10	grammatical|speakers	#FD913D	0.599374525749544
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	12	10	nouns	#FDAD4A	0.46373848840691
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	13	10	japanese	#FDAD4A	0.459888641288456
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	14	10	languages	#FDAD4A	0.430983778646889
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	15	10	written	#FDAD4A	0.470575925721294
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	16	10	chinese|phonology	#FD913D	0.583117060837939
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	17	10	orthographic	#FC622F	0.623286428811426
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	18	10		#F03623	0.709398747108179
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	19	10		#FC622F	0.699525606447922
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	20	10	association|decision	#FD913D	0.525321233625075
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	21	10	selection	#FC622F	0.60325815732297
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	22	10	letters	#FC622F	0.654330741336871
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	23	10	demand|load	#FC622F	0.630235235627291
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	1	11	conditioned|conditioning	#FFFFCC	0
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	2	11		#FEE188	0.241547691637962
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	3	11	drug|placebo	#FECB68	0.310534066928557
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	4	11		#FDAD4A	0.453270990839878
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	5	11	associations	#FEE188	0.26877146960497
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	6	11		#FDAD4A	0.432224227040634
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	7	11	episodic|recollection	#FEE188	0.295809108309701
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	8	11		#FDAD4A	0.455703140848084
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	9	11		#FC622F	0.672342668170264
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	10	11	concepts	#FECB68	0.391033936174595
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	11	11		#FC622F	0.669575515610606
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	12	11		#FD913D	0.584021740253135
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	13	11	german	#FD913D	0.528831520266675
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	14	11	readers	#FDAD4A	0.401048878218058
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	15	11	character|name|naming	#FD913D	0.511035204922207
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	16	11		#FC622F	0.625148756590414
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	17	11	novel	#FC622F	0.645269976577485
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	18	11		#F03623	0.710766058436808
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	19	11	child|children	#FC622F	0.673614753951904
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	20	11	adults	#F03623	0.727749965575659
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	21	11	ability|feedback|learning	#FD913D	0.53377558693604
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	22	11	cues|delay	#FC622F	0.659620853555875
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	23	11	attentional|difficulty|targets	#F03623	0.751796559586767
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	1	12	aversive|shock	#FFF1A9	0.147502686065783
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	2	12	reactivity	#FFFFCC	0.0549409917204783
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	3	12	males|sex|women	#FD913D	0.566269255538724
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	4	12	animal	#FDAD4A	0.416768439731802
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	5	12	animals	#FEE188	0.284328130650422
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	6	12		#FECB68	0.395199042914022
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	7	12	remember|subsequent	#FEE188	0.299049822646627
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	8	12	autobiographical|memories	#FFF1A9	0.192988355943259
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	9	12		#FC622F	0.676360391457201
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	10	12	violation|violations	#FECB68	0.316285501881867
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	11	12	aphasia	#FC622F	0.689141519146043
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	12	12	nonwords	#FECB68	0.382071283029993
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	13	12	dyslexia	#FECB68	0.305853646564724
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	14	12		#FC622F	0.659015997025338
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	15	12	priming	#FC622F	0.609619792692691
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	16	12		#FC622F	0.698937792455024
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	17	12	category|repetition	#FC622F	0.637911268305959
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	18	12		#F03623	0.725590597457156
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	19	12	developmental|development	#FC622F	0.691905192436228
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	20	12		#F03623	0.739969826745287
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	21	12	space	#F03623	0.785717685760947
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	22	12		#FC622F	0.681838535917189
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	23	12	color	#FC622F	0.638022513113708
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	1	13	threat	#FEE188	0.24102164770089
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	2	13	regulation	#FEE188	0.23460398409543
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	3	13		#FECB68	0.394813769590445
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	4	13	masked	#FDAD4A	0.414536921488352
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	5	13	scene|scenes	#FECB68	0.309784253770774
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	6	13		#FDAD4A	0.439486786137008
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	7	13	confidence|remembered	#FECB68	0.308590231899148
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	8	13		#FD913D	0.549512437963597
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	9	13		#FC622F	0.682783924526664
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	10	13	ambiguity|ambiguous	#FDAD4A	0.459254871163407
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	11	13		#FC622F	0.660722967250667
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	12	13		#FC622F	0.610487585164023
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	13	13	writing	#FD913D	0.546357787256664
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	14	13		#F03623	0.717213889204521
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	15	13	categorization|congruency|prime	#D7141E	0.868420926094023
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	16	13		#F03623	0.726613418882339
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	17	13	mask	#FC622F	0.683541562851917
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	18	13		#FC622F	0.65238635231138
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	19	13		#FD913D	0.597514654288922
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	20	13		#FC622F	0.6418575485626
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	21	13	conflict|congruent|incongruent	#FC622F	0.616737499990584
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	22	13	errors	#FD913D	0.535562793152399
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	23	13	maintenance|probe|wm	#FD913D	0.571230625095254
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	1	14	angry|fearful|happy	#FEE188	0.291635451288823
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	2	14		#FECB68	0.321394567383559
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	3	14	awareness|conscious|ptsd	#FECB68	0.300041015770815
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	4	14		#FDAD4A	0.416213942169678
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	5	14	houses|photographs	#FEE188	0.211524595386794
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	6	14		#FD913D	0.513027412956922
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	7	14	hits	#FD913D	0.531082971912593
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	8	14	famous	#FECB68	0.371854830486646
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	9	14	names	#FC622F	0.67836070805573
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	10	14	family	#FECB68	0.385170853362951
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	11	14	competition|mouth	#D7141E	0.821450403910504
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	12	14	abilities	#FDAD4A	0.435438036478471
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	13	14	implicit|unfamiliar	#FD913D	0.519557224340514
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	14	14		#F03623	0.747464978535399
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	15	14	tom	#FC622F	0.611161827961231
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	16	14		#F03623	0.74688507368261
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	17	14		#FC622F	0.652352183684347
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	18	14	stop	#FECB68	0.344105195528114
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	19	14	inhibition|inhibitory|nogo	#FEE188	0.266225752858829
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	20	14	monitoring|stroop	#FDAD4A	0.473187230286305
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	21	14	interference	#FC622F	0.616619992880816
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	22	14		#FC622F	0.615288501187761
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	23	14	demands|executive	#FC622F	0.61300403385601
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	1	15	anger	#FEE188	0.296337285293239
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	2	15	stress	#FFF1A9	0.153400407668889
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	3	15	feelings	#FDAD4A	0.45968029084416
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	4	15	salient	#FECB68	0.377000483018205
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	5	15	novelty	#FEE188	0.204730954389583
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	6	15	movie	#FC622F	0.668477827397204
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	7	15		#F03623	0.709196081729702
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	8	15		#F03623	0.730932032939288
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	9	15	longterm	#FC622F	0.606520770411268
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	10	15		#FC622F	0.660015895089521
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	11	15	reasoning|relational	#FECB68	0.304285274145733
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	12	15		#FC622F	0.637367183530491
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	13	15	presentations	#FECB68	0.327277709078653
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	14	15		#F03623	0.702921748805727
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	15	15	identity	#FC622F	0.678973062797808
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	16	15		#FC622F	0.680135727121773
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	17	15	strategies|strategy	#FDAD4A	0.487985164548101
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	18	15	card|cards	#FDAD4A	0.468064357743427
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	19	15	gonogo	#FEE188	0.263088345450069
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	20	15		#FDAD4A	0.49958065787651
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	21	15	switching|switch	#FDAD4A	0.473792315641448
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	22	15		#FD913D	0.572488157519039
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	23	15	2back|rule	#FD913D	0.534613852582306
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	1	16	emotionally|mood|personality|sadness	#FECB68	0.324317020880464
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	2	16	disgust|sexual	#FEE188	0.287375698658624
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	3	16	olfactory	#FEE188	0.262622907416048
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	4	16	physiological	#FEE188	0.240332846168869
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	5	16	depressed|depressive|habituation	#FECB68	0.36393690824044
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	6	16	schizophrenic	#FD913D	0.521181684324478
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	7	16	colors|contexts	#FD913D	0.597132810234503
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	8	16	aging|encoded	#FECB68	0.338330813445108
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	9	16	goal	#FDAD4A	0.458908862034261
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	10	16		#FC622F	0.626262758171963
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	11	16	autism|autistic|nonverbal	#FD913D	0.536174924533156
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	12	16		#FC622F	0.645492209007443
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	13	16	bottomup|repetitions	#FD913D	0.516619411961726
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	14	16	adaptation	#F03623	0.701655385860088
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	15	16	irrelevant	#F03623	0.714730074857018
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	16	16	distractor|distractors	#FD913D	0.531213842971613
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	17	16		#FC622F	0.631986856987212
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	18	16	subtraction	#FDAD4A	0.471170229679985
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	19	16	1back|nback	#FD913D	0.559956892219173
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	20	16	manipulation|rules	#FD913D	0.59538255948613
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	21	16		#FD913D	0.540120034289707
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	22	16		#FD913D	0.521160117097512
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	23	16	digit	#FDAD4A	0.452460427526821
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	1	17	avoidance	#FFFFCC	0.0552488444385448
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	2	17		#FEE188	0.260725195176065
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	3	17	eating|food	#FEE188	0.274174322445138
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	4	17	taste	#FECB68	0.304456152825617
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	5	17	bipolar	#FDAD4A	0.428405728548365
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	6	17	illness|uncertainty	#FEE188	0.246827056917637
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	7	17	females|probabilistic	#FC622F	0.652023813176426
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	8	17	rejection	#FD913D	0.564155755496368
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	9	17	colour|paired	#FDAD4A	0.493255094177849
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	10	17		#FD913D	0.551533155234683
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	11	17		#FD913D	0.525861143742378
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	12	17		#FC622F	0.63842380497793
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	13	17	taskirrelevant	#F03623	0.733926480600728
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	14	17		#D7141E	0.894477324401238
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	15	17	suppression	#F03623	0.730189057486468
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	16	17		#D7141E	0.846159871360532
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	17	17	shifting|shortterm	#FD913D	0.537591739517625
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	18	17	digits	#FDAD4A	0.488178338448797
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	19	17	search	#FD913D	0.522508120485096
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	20	17	counting|taskrelated	#FDAD4A	0.434957530915365
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	21	17	topdown	#FDAD4A	0.461758749790581
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	22	17	visuospatial	#FDAD4A	0.476687936673387
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	23	17	arithmetic|calculation|solving	#FDAD4A	0.418089470072354
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	1	18	addiction|craving|drugs	#FFF1A9	0.156946755289174
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	2	18	allele|genotype|polymorphism	#FFFFCC	0.0802058588579464
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	3	18	motivation	#FFFFCC	0.0634141544220334
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	4	18	heart	#FECB68	0.341089724596039
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	5	18	sleep	#FECB68	0.301068331791556
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	6	18	expectancy	#FDAD4A	0.497770107711735
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	7	18	phasic|salience	#FECB68	0.385185369526341
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	8	18	adolescence|adolescents	#FDAD4A	0.470763409596633
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	9	18	intelligence|tracking	#FECB68	0.31826363236353
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	10	18		#FD913D	0.527624695402627
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	11	18	serial	#FECB68	0.30285140609391
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	12	18		#FC622F	0.655135204042943
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	13	18	spatially|taskrelevant	#F03623	0.714522909052235
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	14	18		#B10026	0.939255425905056
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	15	18	attended|attend|unattended	#B10026	0.948284578955973
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	16	18	rotation|shapes	#FD913D	0.587535204475496
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	17	18	rehearsal	#FD913D	0.589252126093385
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	18	18	learned	#FECB68	0.312256603486165
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	19	18		#FD913D	0.544668652374331
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	20	18	cued|preparatory	#FECB68	0.353369985007691
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	21	18		#FD913D	0.564072986862796
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	22	18		#FD913D	0.569505349703294
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	23	18	numbers|numerical	#FDAD4A	0.494256336620177
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	1	19	future	#FFF1A9	0.127183936941687
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	2	19	negatively	#FECB68	0.323865632182071
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	3	19	distress|epilepsy|selfreported	#FFF1A9	0.159639392682512
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	4	19	anticipatory|cocaine|probabilities|smoking	#FEE188	0.263994985944284
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	5	19	alcohol|amount|impulsivity	#FFF1A9	0.153162157294762
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	6	19	game|success	#FD913D	0.556608194667688
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	7	19	adhd|childhood|engagement	#FC622F	0.633665762397983
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	8	19		#FC622F	0.631579822881939
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	9	19		#FD913D	0.584501010701275
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	10	19		#FDAD4A	0.490771358103311
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	11	19		#FD913D	0.511928443322524
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	12	19	endogenous	#FECB68	0.387517205015483
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	13	19	cueing|invalid|orienting	#FD913D	0.535797496559629
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	14	19		#B10026	0.939821920585569
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	15	19	multisensory	#B10026	1
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	16	19		#B10026	0.922018745695427
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	17	19	shifts	#F03623	0.720869808844803
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	18	19	covert	#FC622F	0.658604460439408
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	19	19		#FD913D	0.598521402826528
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	20	19	preparation	#FECB68	0.378331030704343
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	21	19	discrimination|training	#FC622F	0.661576905363114
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	22	19	sequences	#FD913D	0.559494233833338
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	23	19		#FC622F	0.606769975126309
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	1	20	personal|self|selfreferential|trait|traits	#FFF1A9	0.170199741408708
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	2	20	empathic|theory	#FDAD4A	0.407738324693716
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	3	20	attribution|intentional	#FEE188	0.201805450527947
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	4	20	elderly|oscillations	#FEE188	0.269829801998687
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	5	20	antipsychotic|virtual	#FECB68	0.309530879718904
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	6	20		#FD913D	0.538802520109798
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	7	20	experiences	#FECB68	0.361556322081982
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	8	20	categorical|pressure	#FC622F	0.600912265403901
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	9	20	play|skills	#FEE188	0.254830962712168
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	10	20	automatic|trained	#FECB68	0.388951486476335
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	11	20		#FDAD4A	0.403684303348596
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	12	20	practice	#FDAD4A	0.412193853819339
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	13	20	visuomotor	#FDAD4A	0.448375664849487
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	14	20		#D7141E	0.813244894021866
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	15	20	tool	#FC622F	0.607136064739285
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	16	20	vision	#FC622F	0.602780951678338
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	17	20	visually	#FD913D	0.548215378082241
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	18	20	saccade|saccades|saccadic	#FD913D	0.588601210361828
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	19	20	locations	#FC622F	0.691651446318872
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	20	20	imagery|planning	#FDAD4A	0.454976982756708
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	21	20		#FD913D	0.565045384595637
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	22	20	rest	#FD913D	0.584406127742936
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	23	20	sequence	#FD913D	0.527933302097234
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	1	21	scenarios	#FEE188	0.2288223398635
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	2	21	intention|intentions	#FDAD4A	0.427887728581694
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	3	21	causality|perspective	#FFF1A9	0.132443594527437
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	4	21	past	#FFF1A9	0.11187196170502
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	5	21		#FDAD4A	0.475362729694894
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	6	21	episode	#FFF1A9	0.159254273226506
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	7	21	improvement	#FEE188	0.271107070148409
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	8	21	masking|retention	#FECB68	0.375575530481836
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	9	21		#FDAD4A	0.430223964539761
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	10	21	dominant	#FECB68	0.325724372375314
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	11	21		#FECB68	0.304660579883023
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	12	21	sequential	#FEE188	0.283294015328619
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	13	21	fingers	#FEE188	0.205567013910457
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	14	21		#D7141E	0.805801017764188
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	15	21	gesture|gestures	#FC622F	0.626728560449707
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	16	21		#F03623	0.759397508868553
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	17	21	hands	#FD913D	0.532356389980457
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	18	21		#F03623	0.716345057505909
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	19	21		#F03623	0.756645858580579
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	20	21	eye|position	#FC622F	0.667241390294655
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	21	21	execution	#FDAD4A	0.422709221399239
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	22	21	finger|sensorimotor	#FECB68	0.325556292339804
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	23	21		#FDAD4A	0.457170394756677
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	1	22	moral|stories|story	#FEE188	0.238098007408053
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	2	22	mentalizing|persons	#FFF1A9	0.148501430534563
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	3	22	default|restingstate	#FFFFCC	0.0370421212983021
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	4	22	thinking|thought|thoughts	#FFF1A9	0.178241303225968
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	5	22	spontaneous	#FFF1A9	0.159051380943754
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	6	22	concentration|sensations	#FDAD4A	0.419279198817717
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	7	22	hierarchical|preference	#FECB68	0.334669530735435
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	8	22	effort|oral|simulation	#FDAD4A	0.416175429443028
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	9	22	interhemispheric|plasticity	#FEE188	0.227628279788096
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	10	22	imagined|imagine	#FFF1A9	0.164444695393833
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	11	22	tapping	#FFF1A9	0.147886033403813
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	12	22	foot|muscle|muscles|voluntary	#FFF1A9	0.175812865418677
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	13	22	limb	#FEE188	0.284928237470412
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	14	22	eyes|velocity	#FD913D	0.59855647698333
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	15	22	biological|gaze|videos	#F03623	0.731466396138282
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	16	22	body	#FC622F	0.606065442079014
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	17	22	grasping|orientation|reaching	#FD913D	0.514767199995282
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	18	22		#F03623	0.706980913840617
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	19	22	mirror|shape	#F03623	0.763864981571599
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	20	22	actions	#F03623	0.74728860688715
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	21	22	action	#FC622F	0.630504122749054
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	22	22		#FDAD4A	0.451956749221016
+5d233fdb-c7f4-33aa-a102-d6a30ea6c2c6	Schnyer D	23	22	hand|movements|sensory	#FECB68	0.36792765441927

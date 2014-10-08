@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	1	1	auditory|speech	#D7141E	0.888036868173846
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	2	1		#B10026	0.909526592833959
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	3	1	da|integration	#D7141E	0.885910209048079
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	4	1		#F03623	0.771421401005447
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	5	1	physical|psychophysical|tactile	#FECB68	0.301730172221828
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	6	1		#FECB68	0.38743438337474
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	7	1	somatosensory|stimulation	#FECB68	0.33680347556844
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	8	1	painful|pain	#FFF1A9	0.166602734927132
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	9	1		#FEE188	0.214607698834647
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	10	1	ratings	#FEE188	0.267495059829778
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	11	1	affective|affect	#FEE188	0.273760563880002
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	12	1	emotions	#FEE188	0.280768899184388
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	13	1	expression|expressions|facial	#FEE188	0.263546948545499
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	14	1		#FECB68	0.386564198257046
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	15	1		#FECB68	0.396542556692763
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	16	1	emotion|motion|neutral	#FECB68	0.359108486900902
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	17	1	rating	#FECB68	0.307976566950221
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	18	1	negative|positive	#FECB68	0.384564075608137
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	19	1		#FD913D	0.508231667902041
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	20	1	ear|order	#FD913D	0.55475458407316
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	21	1	motor	#FDAD4A	0.446583662350023
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	22	1	visual	#FD913D	0.508891803036597
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	23	1	age|image|response	#FD913D	0.523211817052223
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	1	2	sound|sounds	#D7141E	0.860107723718466
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	2	2		#D7141E	0.891896554042917
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	3	2	audiovisual|bimodal|crossmodal	#F03623	0.771251759813894
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	4	2		#D7141E	0.807951393536907
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	5	2		#FC622F	0.672185047238657
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	6	2		#FDAD4A	0.466597672831245
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	7	2	sensation	#FFF1A9	0.181702415606993
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	8	2	heat|noxious	#FFFFCC	0.0883717866621244
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	9	2		#FEE188	0.218926760506382
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	10	2		#FEE188	0.282625873578296
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	11	2		#FECB68	0.305353867469353
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	12	2	valence	#FECB68	0.305122229145158
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	13	2	person|social	#FDAD4A	0.448257105861996
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	14	2		#FDAD4A	0.410585238005462
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	15	2	face|faces	#FECB68	0.39383408913003
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	16	2		#FDAD4A	0.449546003682095
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	17	2		#FDAD4A	0.461830542732684
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	18	2		#FD913D	0.502727917541762
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	19	2		#FD913D	0.539460383197347
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	20	2		#FD913D	0.526207073812656
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	21	2	images|spatial	#FDAD4A	0.481636060951083
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	22	2	control	#FDAD4A	0.483594896124877
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	23	2	time	#FD913D	0.523347387665335
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	1	3	acoustic|listening|musical|music|pitch	#F03623	0.762237146716824
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	2	3	noise|tones	#D7141E	0.827281395492696
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	3	3		#B10026	0.943339002137199
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	4	3		#B10026	0.946979463043664
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	5	3	frequency	#D7141E	0.862014937994129
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	6	3		#F03623	0.726084917336357
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	7	3		#FEE188	0.290325598600751
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	8	3	temperature	#FFF1A9	0.151257763328044
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	9	3		#FEE188	0.233508774594345
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	10	3	pleasant|unpleasant	#FFF1A9	0.131617810637313
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	11	3	anxiety	#FEE188	0.215811686539332
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	12	3		#FDAD4A	0.417181906225404
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	13	3		#FD913D	0.509432143767031
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	14	3		#FDAD4A	0.492171010757593
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	15	3		#FD913D	0.519579347021059
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	16	3	picture	#FD913D	0.53301990815267
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	17	3		#FD913D	0.571614289340592
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	18	3	value	#FD913D	0.558848897360487
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	19	3	cue	#FD913D	0.512727663599821
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	20	3	error|target	#FD913D	0.53107296307789
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	21	3	attention	#FDAD4A	0.475971040293972
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	22	3		#FD913D	0.536878725329728
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	23	3	number	#FD913D	0.530811467177384
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	1	4	voice	#F03623	0.77084981974145
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	2	4		#D7141E	0.863775487875845
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	3	4	hearing	#B10026	0.949078568972084
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	4	4		#B10026	0.913880155004376
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	5	4	overt	#F03623	0.79288852608283
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	6	4		#D7141E	0.827172143680512
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	7	4		#FDAD4A	0.41359487335853
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	8	4	nociceptive|nonpainful|painrelated	#FFF1A9	0.156833415319247
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	9	4	unpleasantness	#FFF1A9	0.152296133330192
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	10	4	skin|subjective	#FECB68	0.356689018318816
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	11	4	depression	#FECB68	0.34228865859618
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	12	4	experience	#FECB68	0.394761695457397
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	13	4	female	#FD913D	0.54558912519784
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	14	4	male	#FD913D	0.584055813103258
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	15	4	pictures	#FD913D	0.539631909377288
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	16	4		#FC622F	0.666305744406989
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	17	4	perception	#FC622F	0.688037381867424
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	18	4		#FC622F	0.654413671964818
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	19	4		#FC622F	0.609412437034409
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	20	4		#FD913D	0.585286800152487
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	21	4	correct	#FD913D	0.565080422630065
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	22	4	work	#FDAD4A	0.492685566742654
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	23	4	memory	#FDAD4A	0.484996035148256
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	1	5	prosodic|prosody	#FD913D	0.589503238560264
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	2	5	phonetic	#D7141E	0.868014475197866
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	3	5	syllable|syllables	#F03623	0.782461245271904
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	4	5		#D7141E	0.878935124214312
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	5	5	lip|production	#F03623	0.74046827195211
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	6	5	somatotopic	#FD913D	0.51844457963988
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	7	5		#FD913D	0.526509655429288
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	8	5		#FECB68	0.385757854544635
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	9	5	empathy	#FDAD4A	0.412963044177181
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	10	5		#FD913D	0.516190134819989
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	11	5	disorder	#FECB68	0.359006548344074
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	12	5		#FD913D	0.599323988925039
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	13	5		#F03623	0.714775464547161
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	14	5		#F03623	0.759313306033467
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	15	5		#F03623	0.764373204424188
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	16	5		#D7141E	0.803878535598276
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	17	5		#D7141E	0.80841316462846
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	18	5	mental	#FC622F	0.62639512632913
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	19	5	go	#FC622F	0.625885954255521
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	20	5	object	#FD913D	0.521342824903755
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	21	5		#FC622F	0.646627970231374
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	22	5		#FC622F	0.663972715486463
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	23	5	word|words	#FC622F	0.679747231793513
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	1	6		#D7141E	0.863515332067639
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	2	6		#D7141E	0.89951465460703
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	3	6		#B10026	1
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	4	6	vocal	#FC622F	0.695127565758788
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	5	6	articulatory	#FC622F	0.618299795241228
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	6	6		#D7141E	0.806884430579832
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	7	6	oddball	#FD913D	0.534912056816125
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	8	6	perceived	#FECB68	0.396890480152739
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	9	6	errorrelated	#FECB68	0.382632023587672
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	10	6	approach	#FD913D	0.537380157903134
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	11	6	schizophrenia	#FDAD4A	0.465059775210175
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	12	6	acquisition	#F03623	0.744144385424234
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	13	6		#D7141E	0.82120227153574
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	14	6		#D7141E	0.80469029887242
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	15	6		#F03623	0.798764502519734
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	16	6		#D7141E	0.815778746598548
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	17	6		#D7141E	0.825012975161299
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	18	6		#F03623	0.783793325161004
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	19	6		#F03623	0.774920359350097
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	20	6	objects	#FC622F	0.663275140159078
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	21	6		#F03623	0.724914173832538
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	22	6		#F03623	0.725357007253735
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	23	6	language|semantic	#F03623	0.747516815264999
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	1	7	dopamine|dopaminergic	#FECB68	0.352999678243056
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	2	7		#FDAD4A	0.488065763523743
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	3	7		#F03623	0.711568079373515
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	4	7		#F03623	0.792016276807828
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	5	7		#F03623	0.766140988124205
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	6	7		#F03623	0.7585176353583
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	7	7		#FC622F	0.690166193021822
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	8	7		#FD913D	0.572712280139685
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	9	7		#FD913D	0.573791498268672
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	10	7		#FC622F	0.638073687949763
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	11	7		#FC622F	0.684592425940032
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	12	7		#F03623	0.752071233286524
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	13	7	linguistic|spoken	#D7141E	0.836878656397924
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	14	7		#F03623	0.783777036150095
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	15	7	comprehension|sentence|sentences|syntactic	#FC622F	0.690592447937505
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	16	7		#F03623	0.79446309786125
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	17	7		#D7141E	0.818267994967385
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	18	7	phonological|reading|read	#F03623	0.791805305414376
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	19	7		#D7141E	0.8033768400656
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	20	7	perceptual|recognition	#F03623	0.747345982572092
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	21	7		#F03623	0.737186083004878
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	22	7		#F03623	0.720326629917576
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	23	7	verb	#FC622F	0.664646882408208
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	1	8	outcome|reward	#FECB68	0.381585127440724
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	2	8	anticipation	#FDAD4A	0.400305977080357
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	3	8	outcomes	#FDAD4A	0.422512865870681
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	4	8	choice|choices	#FDAD4A	0.487930533782325
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	5	8	decisions|probability	#FD913D	0.570267371278931
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	6	8	reversal	#FD913D	0.508223814572328
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	7	8	classification|incorrect	#FDAD4A	0.476967649641586
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	8	8		#FD913D	0.594835084350279
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	9	8	agerelated|fluency|probes	#FDAD4A	0.470877468544603
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	10	8	engaged	#FD913D	0.57971718070394
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	11	8	explicit|knowledge	#FC622F	0.620449596667805
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	12	8		#F03623	0.746259438991357
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	13	8		#F03623	0.772385890172572
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	14	8		#F03623	0.779442359965444
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	15	8		#F03623	0.777770149589129
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	16	8		#F03623	0.796618827643678
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	17	8	lexical	#F03623	0.775706733656125
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	18	8		#F03623	0.798867198651119
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	19	8		#D7141E	0.804970239503758
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	20	8		#F03623	0.766083249525314
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	21	8	encoding	#FD913D	0.576585014304078
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	22	8	retrieval	#FD913D	0.527410579487778
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	23	8	verbal	#FC622F	0.618830781778396
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	1	9	incentive|monetary|money|rewards	#FECB68	0.336120769383102
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	2	9	loss	#FDAD4A	0.404114562096402
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	3	9		#FD913D	0.506983118128436
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	4	9		#FD913D	0.542870867201649
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	5	9	decisionmaking	#FDAD4A	0.479656600592245
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	6	9		#FD913D	0.576813151219049
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	7	9		#FD913D	0.562837460939608
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	8	9		#FD913D	0.566151781978878
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	9	9		#FC622F	0.607010483965349
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	10	9		#FC622F	0.651553809067073
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	11	9		#FC622F	0.678966341931012
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	12	9		#FC622F	0.692078082038772
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	13	9	noun	#FD913D	0.574873800063124
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	14	9	meaning	#FC622F	0.697559057298185
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	15	9	english	#FC622F	0.691460809511078
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	16	9	pseudoword|pseudowords	#FC622F	0.668556491086945
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	17	9		#F03623	0.794545719575339
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	18	9		#F03623	0.786822059052085
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	19	9	familiar|judgment	#FC622F	0.695109263417701
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	20	9	pair|pairs	#F03623	0.763386157874749
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	21	9		#F03623	0.711299528305878
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	22	9		#FC622F	0.622530517651829
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	23	9	letter|working	#FD913D	0.508613462343955
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	1	10	losses|reinforcement|win	#FECB68	0.327419418659977
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	2	10	gain	#FECB68	0.363808531341088
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	3	10	expectation	#FECB68	0.35425302124683
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	4	10	risk	#FECB68	0.385161870666166
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	5	10	fact	#FECB68	0.332256408586209
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	6	10	associative	#FECB68	0.389413617666834
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	7	10	familiarity|judgments|old	#FDAD4A	0.490977871221144
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	8	10	contextual|text	#FDAD4A	0.449332451048396
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	9	10	recall|retrieved	#FDAD4A	0.473616661849498
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	10	10	conceptual|semantically	#FC622F	0.611287176233707
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	11	10	grammatical|speakers	#FD913D	0.59485246982506
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	12	10	nouns	#FD913D	0.572349200238162
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	13	10	japanese	#FC622F	0.624941479255721
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	14	10	languages	#FD913D	0.549354681492915
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	15	10	written	#FC622F	0.67430095880019
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	16	10	chinese|phonology	#FC622F	0.65325262901144
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	17	10	orthographic	#F03623	0.722899694852241
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	18	10		#F03623	0.769725336837385
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	19	10		#F03623	0.767157829910255
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	20	10	association|decision	#F03623	0.720254849510557
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	21	10	selection	#FD913D	0.578784210180034
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	22	10	letters	#FD913D	0.527139073325486
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	23	10	demand|load	#FDAD4A	0.467404070174812
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	1	11	conditioned|conditioning	#FFF1A9	0.143433194390041
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	2	11		#FECB68	0.374285998369809
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	3	11	drug|placebo	#FECB68	0.369484463336375
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	4	11		#FD913D	0.505951805204308
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	5	11	associations	#FECB68	0.38858279611675
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	6	11		#FDAD4A	0.447560246062736
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	7	11	episodic|recollection	#FEE188	0.279598562952725
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	8	11		#FDAD4A	0.464218976781248
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	9	11		#F03623	0.760590632693159
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	10	11	concepts	#FD913D	0.597060648246183
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	11	11		#F03623	0.770881016092329
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	12	11		#F03623	0.734008314568401
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	13	11	german	#FC622F	0.662785320116213
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	14	11	readers	#FC622F	0.652608843069023
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	15	11	character|name|naming	#FD913D	0.585286849345621
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	16	11		#F03623	0.734623382563624
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	17	11	novel	#F03623	0.739292762153586
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	18	11		#F03623	0.753483733326693
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	19	11	child|children	#F03623	0.705172823308834
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	20	11	adults	#F03623	0.733048910734265
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	21	11	ability|feedback|learning	#FD913D	0.578187019332709
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	22	11	cues|delay	#FD913D	0.59474143356979
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	23	11	attentional|difficulty|targets	#FD913D	0.50933609470646
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	1	12	aversive|shock	#FFF1A9	0.180595306081882
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	2	12	reactivity	#FEE188	0.220935802123725
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	3	12	males|sex|women	#FDAD4A	0.411082279388025
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	4	12	animal	#FDAD4A	0.444520041969899
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	5	12	animals	#FDAD4A	0.416679565957041
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	6	12		#FECB68	0.39253192810027
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	7	12	remember|subsequent	#FEE188	0.29106639041917
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	8	12	autobiographical|memories	#FFF1A9	0.122213346924242
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	9	12		#F03623	0.77733027416654
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	10	12	violation|violations	#FD913D	0.500967702832601
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	11	12	aphasia	#F03623	0.757246475958967
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	12	12	nonwords	#FC622F	0.611394778450384
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	13	12	dyslexia	#FD913D	0.581533569674952
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	14	12		#F03623	0.739518963088456
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	15	12	priming	#F03623	0.717330524692682
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	16	12		#F03623	0.7304826680842
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	17	12	category|repetition	#FC622F	0.669479356085403
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	18	12		#F03623	0.74112985135512
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	19	12	developmental|development	#FC622F	0.679834380027198
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	20	12		#F03623	0.708180454102181
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	21	12	space	#FC622F	0.637015914625107
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	22	12		#FD913D	0.568366998585766
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	23	12	color	#FD913D	0.543808448377981
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	1	13	threat	#FFFFCC	0.0942686587277661
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	2	13	regulation	#FFF1A9	0.124361760882582
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	3	13		#FECB68	0.352747149534105
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	4	13	masked	#FECB68	0.300063966961307
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	5	13	scene|scenes	#FFF1A9	0.170085376569469
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	6	13		#FECB68	0.38589101635885
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	7	13	confidence|remembered	#FEE188	0.265877803596586
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	8	13		#FDAD4A	0.462721792089674
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	9	13		#F03623	0.751950315412412
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	10	13	ambiguity|ambiguous	#FD913D	0.55817060662544
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	11	13		#D7141E	0.810753439388738
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	12	13		#F03623	0.712386555961488
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	13	13	writing	#FDAD4A	0.436864099007388
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	14	13		#F03623	0.705433793991261
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	15	13	categorization|congruency|prime	#FC622F	0.69994967387912
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	16	13		#F03623	0.719412458113216
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	17	13	mask	#FD913D	0.593227064444422
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	18	13		#FC622F	0.684089156626569
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	19	13		#FC622F	0.624148918866603
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	20	13		#FD913D	0.597244693798317
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	21	13	conflict|congruent|incongruent	#FD913D	0.51040022091456
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	22	13	errors	#FDAD4A	0.491578871831388
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	23	13	maintenance|probe|wm	#FDAD4A	0.434415252352865
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	1	14	angry|fearful|happy	#FFFFCC	0.0779044234240199
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	2	14		#FFF1A9	0.15475209974765
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	3	14	awareness|conscious|ptsd	#FEE188	0.23616904000143
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	4	14		#FECB68	0.393897339863812
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	5	14	houses|photographs	#FEE188	0.203882595871492
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	6	14		#FDAD4A	0.402133144158667
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	7	14	hits	#FECB68	0.334850478993036
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	8	14	famous	#FEE188	0.238949022516097
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	9	14	names	#FEE188	0.286330107461596
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	10	14	family	#FDAD4A	0.455122415686253
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	11	14	competition|mouth	#FD913D	0.53713837628974
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	12	14	abilities	#FDAD4A	0.457615892460319
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	13	14	implicit|unfamiliar	#FD913D	0.564296820779425
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	14	14		#FC622F	0.682314401470963
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	15	14	tom	#FDAD4A	0.499767974944469
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	16	14		#FC622F	0.633428532240986
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	17	14		#FD913D	0.565999287818738
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	18	14	stop	#FDAD4A	0.42234157084245
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	19	14	inhibition|inhibitory|nogo	#FECB68	0.361514036690213
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	20	14	monitoring|stroop	#FECB68	0.380187947692749
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	21	14	interference	#FDAD4A	0.438006933032649
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	22	14		#FD913D	0.501139163592217
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	23	14	demands|executive	#FDAD4A	0.482187072546647
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	1	15	anger	#FFFFCC	0.0221380858221722
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	2	15	stress	#FFFFCC	0.0354461453362676
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	3	15	feelings	#FEE188	0.224298495796962
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	4	15	salient	#FEE188	0.293121866051468
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	5	15	novelty	#FEE188	0.220920186167567
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	6	15	movie	#FEE188	0.199636421113753
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	7	15		#FDAD4A	0.487181802141004
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	8	15		#FD913D	0.579979623915359
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	9	15	longterm	#FDAD4A	0.427355755862161
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	10	15		#FC622F	0.615129672972085
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	11	15	reasoning|relational	#FECB68	0.369553459555994
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	12	15		#FC622F	0.640609926114843
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	13	15	presentations	#FD913D	0.528411944732684
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	14	15		#FC622F	0.642094400912684
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	15	15	identity	#FDAD4A	0.471096492605416
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	16	15		#FD913D	0.564286125995588
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	17	15	strategies|strategy	#FDAD4A	0.422522951554919
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	18	15	card|cards	#FECB68	0.347202510967602
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	19	15	gonogo	#FECB68	0.39171939758142
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	20	15		#FDAD4A	0.451404165501136
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	21	15	switching|switch	#FDAD4A	0.407910001771185
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	22	15		#FDAD4A	0.470966458493747
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	23	15	2back|rule	#FDAD4A	0.412182085096907
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	1	16	emotionally|mood|personality|sadness	#FFF1A9	0.104994851062843
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	2	16	disgust|sexual	#FFF1A9	0.139070567664991
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	3	16	olfactory	#FFFFCC	0
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	4	16	physiological	#FFF1A9	0.174140128125987
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	5	16	depressed|depressive|habituation	#FFF1A9	0.189033531041803
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	6	16	schizophrenic	#FEE188	0.28683992585896
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	7	16	colors|contexts	#FECB68	0.393668145286313
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	8	16	aging|encoded	#FECB68	0.338170269572295
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	9	16	goal	#FECB68	0.393576654951296
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	10	16		#FD913D	0.569036934866399
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	11	16	autism|autistic|nonverbal	#FDAD4A	0.43094151719537
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	12	16		#FC622F	0.612546801674792
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	13	16	bottomup|repetitions	#FDAD4A	0.438941493460063
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	14	16	adaptation	#FC622F	0.608432892289591
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	15	16	irrelevant	#FD913D	0.562340218064876
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	16	16	distractor|distractors	#FECB68	0.300002532686979
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	17	16		#FD913D	0.525172672857759
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	18	16	subtraction	#FDAD4A	0.410139147274328
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	19	16	1back|nback	#FEE188	0.234317473249726
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	20	16	manipulation|rules	#FDAD4A	0.45057676281714
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	21	16		#FDAD4A	0.477895328506625
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	22	16		#FDAD4A	0.448665012486169
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	23	16	digit	#FDAD4A	0.410680558709599
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	1	17	avoidance	#FFF1A9	0.151744277784556
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	2	17		#FEE188	0.286737308686753
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	3	17	eating|food	#FFF1A9	0.127965930755026
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	4	17	taste	#FFF1A9	0.136836115477217
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	5	17	bipolar	#FEE188	0.201662287637599
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	6	17	illness|uncertainty	#FFF1A9	0.174622018145791
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	7	17	females|probabilistic	#FECB68	0.329982520854872
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	8	17	rejection	#FEE188	0.248139957093185
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	9	17	colour|paired	#FDAD4A	0.455724577620809
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	10	17		#FD913D	0.541236291252763
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	11	17		#FD913D	0.506997784499431
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	12	17		#FD913D	0.527263171820315
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	13	17	taskirrelevant	#FDAD4A	0.421272006453523
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	14	17		#FD913D	0.582016341681642
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	15	17	suppression	#FDAD4A	0.492604838993849
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	16	17		#FD913D	0.573383165758536
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	17	17	shifting|shortterm	#FECB68	0.381952243366788
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	18	17	digits	#FDAD4A	0.411053786948933
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	19	17	search	#FDAD4A	0.447935994146337
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	20	17	counting|taskrelated	#FDAD4A	0.431392782677021
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	21	17	topdown	#FDAD4A	0.421119441827264
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	22	17	visuospatial	#FECB68	0.358543019518952
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	23	17	arithmetic|calculation|solving	#FECB68	0.372190025648878
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	1	18	addiction|craving|drugs	#FECB68	0.316501253091785
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	2	18	allele|genotype|polymorphism	#FFF1A9	0.131818872324826
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	3	18	motivation	#FEE188	0.224007032950263
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	4	18	heart	#FEE188	0.281550976605395
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	5	18	sleep	#FEE188	0.288421393232692
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	6	18	expectancy	#FECB68	0.3314907896496
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	7	18	phasic|salience	#FECB68	0.325814756652241
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	8	18	adolescence|adolescents	#FECB68	0.311557474490254
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	9	18	intelligence|tracking	#FDAD4A	0.411567875099567
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	10	18		#FD913D	0.53641997108823
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	11	18	serial	#FEE188	0.259272679123715
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	12	18		#FDAD4A	0.498959940702069
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	13	18	spatially|taskrelevant	#FDAD4A	0.414310104603348
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	14	18		#FD913D	0.572507404156582
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	15	18	attended|attend|unattended	#FECB68	0.396789474191147
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	16	18	rotation|shapes	#FDAD4A	0.491075184113601
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	17	18	rehearsal	#FD913D	0.547124795914673
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	18	18	learned	#FDAD4A	0.432213437963104
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	19	18		#FD913D	0.53447467392866
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	20	18	cued|preparatory	#FDAD4A	0.420073366421264
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	21	18		#FD913D	0.55024550853126
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	22	18		#FD913D	0.519674507350168
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	23	18	numbers|numerical	#FECB68	0.345495197588646
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	1	19	future	#FEE188	0.26796691848903
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	2	19	negatively	#FEE188	0.254611476219439
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	3	19	distress|epilepsy|selfreported	#FEE188	0.26477958517796
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	4	19	anticipatory|cocaine|probabilities|smoking	#FECB68	0.302316423278261
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	5	19	alcohol|amount|impulsivity	#FD913D	0.501856840523875
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	6	19	game|success	#FECB68	0.368970064539937
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	7	19	adhd|childhood|engagement	#FECB68	0.335257101501378
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	8	19		#FD913D	0.567331452201812
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	9	19		#FD913D	0.595317877873391
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	10	19		#FD913D	0.550718204721573
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	11	19		#FDAD4A	0.498845426473191
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	12	19	endogenous	#FECB68	0.331142101435301
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	13	19	cueing|invalid|orienting	#FECB68	0.328801284835098
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	14	19		#FD913D	0.597566326276532
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	15	19	multisensory	#FC622F	0.611280423282585
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	16	19		#FD913D	0.59925913948379
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	17	19	shifts	#FDAD4A	0.481624598100851
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	18	19	covert	#FD913D	0.501463037578359
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	19	19		#FDAD4A	0.493567945484739
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	20	19	preparation	#FECB68	0.369414269323438
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	21	19	discrimination|training	#FC622F	0.619935001410757
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	22	19	sequences	#FDAD4A	0.491127062211229
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	23	19		#FD913D	0.591952841313483
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	1	20	personal|self|selfreferential|trait|traits	#FEE188	0.234171939457573
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	2	20	empathic|theory	#FECB68	0.331777615303948
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	3	20	attribution|intentional	#FFF1A9	0.158929696251569
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	4	20	elderly|oscillations	#FFF1A9	0.108671282021512
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	5	20	antipsychotic|virtual	#FFF1A9	0.175963799451984
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	6	20		#FD913D	0.568092495732085
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	7	20	experiences	#FEE188	0.264775308887931
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	8	20	categorical|pressure	#FECB68	0.334005284927979
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	9	20	play|skills	#FECB68	0.398856720357692
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	10	20	automatic|trained	#FDAD4A	0.406320067034604
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	11	20		#FDAD4A	0.479435251445616
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	12	20	practice	#FDAD4A	0.424787938067773
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	13	20	visuomotor	#FDAD4A	0.420507743441151
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	14	20		#FC622F	0.616008563628434
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	15	20	tool	#FDAD4A	0.432651118166369
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	16	20	vision	#FECB68	0.312015455157541
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	17	20	visually	#FDAD4A	0.482723305328731
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	18	20	saccade|saccades|saccadic	#FEE188	0.240687377942061
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	19	20	locations	#FDAD4A	0.460223338713323
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	20	20	imagery|planning	#FDAD4A	0.448458723705068
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	21	20		#FD913D	0.539875874781086
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	22	20	rest	#FD913D	0.569343575427526
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	23	20	sequence	#FD913D	0.573741913327392
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	1	21	scenarios	#FEE188	0.274081860021397
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	2	21	intention|intentions	#FECB68	0.307596521066097
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	3	21	causality|perspective	#FEE188	0.228072526736778
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	4	21	past	#FFFFCC	0.0570881292062319
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	5	21		#FDAD4A	0.489625000922197
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	6	21	episode	#FEE188	0.214349582155293
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	7	21	improvement	#FECB68	0.375369017580761
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	8	21	masking|retention	#FECB68	0.368048429446343
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	9	21		#FD913D	0.58572003413177
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	10	21	dominant	#FECB68	0.386990713931305
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	11	21		#FDAD4A	0.414692320509277
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	12	21	sequential	#FECB68	0.308722186352922
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	13	21	fingers	#FEE188	0.244903744127361
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	14	21		#FD913D	0.549135874608312
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	15	21	gesture|gestures	#FDAD4A	0.4319661739912
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	16	21		#FDAD4A	0.496281821373878
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	17	21	hands	#FEE188	0.275660729043107
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	18	21		#FDAD4A	0.479863146375186
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	19	21		#FDAD4A	0.489673155897638
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	20	21	eye|position	#FDAD4A	0.437675114401389
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	21	21	execution	#FECB68	0.380101001026254
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	22	21	finger|sensorimotor	#FECB68	0.372906774809459
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	23	21		#FDAD4A	0.462363075566965
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	1	22	moral|stories|story	#FECB68	0.362134241495362
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	2	22	mentalizing|persons	#FEE188	0.284002363357996
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	3	22	default|restingstate	#FEE188	0.208421186668726
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	4	22	thinking|thought|thoughts	#FEE188	0.290906837373957
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	5	22	spontaneous	#FEE188	0.290388214078515
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	6	22	concentration|sensations	#FEE188	0.286202250105662
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	7	22	hierarchical|preference	#FDAD4A	0.468775528556359
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	8	22	effort|oral|simulation	#FDAD4A	0.408998869277431
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	9	22	interhemispheric|plasticity	#FDAD4A	0.427856293385542
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	10	22	imagined|imagine	#FECB68	0.325937708631438
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	11	22	tapping	#FECB68	0.306785645272577
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	12	22	foot|muscle|muscles|voluntary	#FEE188	0.293801906406923
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	13	22	limb	#FFF1A9	0.151951696526612
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	14	22	eyes|velocity	#FECB68	0.34820167243799
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	15	22	biological|gaze|videos	#FEE188	0.29921141634646
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	16	22	body	#FDAD4A	0.428363499191322
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	17	22	grasping|orientation|reaching	#FECB68	0.322051079432733
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	18	22		#FDAD4A	0.485107150421479
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	19	22	mirror|shape	#FD913D	0.531228881751398
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	20	22	actions	#FDAD4A	0.47006443735342
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	21	22	action	#FD913D	0.511829314592014
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	22	22		#FDAD4A	0.428098825767468
+a6b2df6b-09a6-3dbf-9bd2-8f75dd5296dc	Gounot D	23	22	hand|movements|sensory	#FECB68	0.352552604537796

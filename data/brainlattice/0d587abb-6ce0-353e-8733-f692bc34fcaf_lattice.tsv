@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	1	1	auditory|speech	#B10026	0.980677780204342
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	2	1		#B10026	0.987343080392132
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	3	1	da|integration	#D7141E	0.84567124378206
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	4	1		#B10026	0.924566470063312
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	5	1	physical|psychophysical|tactile	#FD913D	0.599709243014631
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	6	1		#FC622F	0.665387422475197
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	7	1	somatosensory|stimulation	#FD913D	0.563732906136671
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	8	1	painful|pain	#FDAD4A	0.470401953401695
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	9	1		#FDAD4A	0.499260813596046
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	10	1	ratings	#FECB68	0.384045998103147
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	11	1	affective|affect	#FDAD4A	0.413965806264642
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	12	1	emotions	#FECB68	0.384690777835832
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	13	1	expression|expressions|facial	#FEE188	0.20378050928976
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	14	1		#FECB68	0.340430592187861
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	15	1		#FECB68	0.372426688851599
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	16	1	emotion|motion|neutral	#FECB68	0.395223207666655
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	17	1	rating	#FDAD4A	0.436452448570785
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	18	1	negative|positive	#FDAD4A	0.427009297240445
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	19	1		#FD913D	0.554085804869273
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	20	1	ear|order	#FC622F	0.629543535988654
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	21	1	motor	#FD913D	0.538516672602144
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	22	1	visual	#FD913D	0.507413469401066
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	23	1	age|image|response	#FC622F	0.60354257742368
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	1	2	sound|sounds	#B10026	0.930332272691706
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	2	2		#B10026	0.99806413339375
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	3	2	audiovisual|bimodal|crossmodal	#F03623	0.720574057240533
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	4	2		#B10026	0.930190851925866
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	5	2		#D7141E	0.836431956745157
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	6	2		#F03623	0.712700387842197
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	7	2	sensation	#FDAD4A	0.451362930872323
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	8	2	heat|noxious	#FDAD4A	0.433886135234162
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	9	2		#FD913D	0.501348953709173
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	10	2		#FDAD4A	0.477103199888299
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	11	2		#FDAD4A	0.456334212797086
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	12	2	valence	#FECB68	0.328698048401874
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	13	2	person|social	#FDAD4A	0.46987995387391
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	14	2		#FECB68	0.352191966820843
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	15	2	face|faces	#FEE188	0.270504287342154
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	16	2		#FDAD4A	0.434455977238329
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	17	2		#FDAD4A	0.474614513966737
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	18	2		#FD913D	0.541243007554244
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	19	2		#FD913D	0.581892690708761
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	20	2		#FD913D	0.592821838017212
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	21	2	images|spatial	#FD913D	0.565511715353502
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	22	2	control	#FD913D	0.577743301959932
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	23	2	time	#FD913D	0.599140891595258
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	1	3	acoustic|listening|musical|music|pitch	#B10026	0.961844545091684
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	2	3	noise|tones	#B10026	1
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	3	3		#B10026	0.9932813214175
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	4	3		#B10026	0.962498163811961
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	5	3	frequency	#D7141E	0.87440514895365
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	6	3		#D7141E	0.859225890121979
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	7	3		#FD913D	0.531677783240412
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	8	3	temperature	#FECB68	0.363159337496591
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	9	3		#FD913D	0.507451924169851
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	10	3	pleasant|unpleasant	#FDAD4A	0.410078523304056
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	11	3	anxiety	#FECB68	0.361609519226288
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	12	3		#FDAD4A	0.478680932826065
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	13	3		#FDAD4A	0.496945530791057
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	14	3		#FDAD4A	0.426777913525426
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	15	3		#FDAD4A	0.43867066557351
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	16	3	picture	#FECB68	0.387106741525441
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	17	3		#FD913D	0.551112705523353
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	18	3	value	#FC622F	0.630688269362057
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	19	3	cue	#FD913D	0.570055172295486
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	20	3	error|target	#FD913D	0.570397838107539
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	21	3	attention	#FD913D	0.559035542063266
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	22	3		#FC622F	0.618193105839044
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	23	3	number	#FC622F	0.630130309519682
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	1	4	voice	#D7141E	0.893535957873792
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	2	4		#B10026	0.992976355773719
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	3	4	hearing	#D7141E	0.810137671911496
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	4	4		#B10026	0.932713613977081
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	5	4	overt	#D7141E	0.840635049950745
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	6	4		#D7141E	0.868975746625103
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	7	4		#FD913D	0.586399325476187
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	8	4	nociceptive|nonpainful|painrelated	#FECB68	0.36133696873306
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	9	4	unpleasantness	#FDAD4A	0.411712684564448
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	10	4	skin|subjective	#FDAD4A	0.459588755142731
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	11	4	depression	#FDAD4A	0.483621685233141
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	12	4	experience	#FD913D	0.554489372058046
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	13	4	female	#FDAD4A	0.406530715467527
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	14	4	male	#FD913D	0.536723300615134
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	15	4	pictures	#FECB68	0.3769802342785
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	16	4		#FD913D	0.580039670633664
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	17	4	perception	#FC622F	0.691648640803688
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	18	4		#FC622F	0.647389096108285
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	19	4		#FC622F	0.616939768752554
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	20	4		#FC622F	0.605027445409092
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	21	4	correct	#FC622F	0.621098447229045
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	22	4	work	#FC622F	0.60916576651667
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	23	4	memory	#FC622F	0.616443371714125
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	1	5	prosodic|prosody	#D7141E	0.861227046554471
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	2	5	phonetic	#F03623	0.792295513721025
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	3	5	syllable|syllables	#D7141E	0.853347505730692
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	4	5		#B10026	0.9031476181365
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	5	5	lip|production	#FC622F	0.639668801198196
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	6	5	somatotopic	#FD913D	0.572788853923847
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	7	5		#FC622F	0.661647628432107
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	8	5		#FD913D	0.572713279572664
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	9	5	empathy	#FD913D	0.586255027532941
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	10	5		#FC622F	0.639862638669881
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	11	5	disorder	#FD913D	0.590815802771527
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	12	5		#FC622F	0.658510310579837
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	13	5		#F03623	0.710275546700968
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	14	5		#FC622F	0.689185095476241
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	15	5		#FC622F	0.694589037046323
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	16	5		#F03623	0.73593754243765
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	17	5		#F03623	0.757971362027582
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	18	5	mental	#FD913D	0.5985284873611
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	19	5	go	#FD913D	0.59085757734303
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	20	5	object	#FDAD4A	0.463718243321691
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	21	5		#FC622F	0.6503917412714
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	22	5		#FC622F	0.683082314958837
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	23	5	word|words	#FC622F	0.675842204296848
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	1	6		#F03623	0.784991018652187
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	2	6		#D7141E	0.838936624750831
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	3	6		#B10026	0.903852554922974
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	4	6	vocal	#F03623	0.767965116324196
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	5	6	articulatory	#F03623	0.785606726090398
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	6	6		#D7141E	0.849085378643172
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	7	6	oddball	#FC622F	0.616840924540382
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	8	6	perceived	#FD913D	0.530065385402147
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	9	6	errorrelated	#FDAD4A	0.430166471217342
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	10	6	approach	#FD913D	0.531622538393809
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	11	6	schizophrenia	#FD913D	0.587994647284165
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	12	6	acquisition	#F03623	0.751356556183178
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	13	6		#F03623	0.790631249022531
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	14	6		#F03623	0.765463891323673
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	15	6		#F03623	0.765302417952772
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	16	6		#F03623	0.771835955211548
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	17	6		#F03623	0.726872855547239
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	18	6		#FC622F	0.679110592304559
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	19	6		#FC622F	0.683474340706337
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	20	6	objects	#FD913D	0.507937806674582
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	21	6		#FC622F	0.687107772047871
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	22	6		#FC622F	0.691582663118443
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	23	6	language|semantic	#FC622F	0.679879616155369
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	1	7	dopamine|dopaminergic	#FFF1A9	0.161596524636747
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	2	7		#FEE188	0.252433068841632
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	3	7		#FD913D	0.560892005501649
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	4	7		#F03623	0.712093328760522
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	5	7		#F03623	0.722466923850203
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	6	7		#F03623	0.798619543219246
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	7	7		#F03623	0.731692562050884
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	8	7		#FC622F	0.694347253267046
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	9	7		#FC622F	0.668302291920646
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	10	7		#F03623	0.710008987470064
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	11	7		#F03623	0.707656068221682
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	12	7		#F03623	0.741945107765286
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	13	7	linguistic|spoken	#FC622F	0.688813276397446
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	14	7		#F03623	0.758159819614957
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	15	7	comprehension|sentence|sentences|syntactic	#F03623	0.727766980499557
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	16	7		#F03623	0.732936910993514
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	17	7		#F03623	0.705613790538608
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	18	7	phonological|reading|read	#FC622F	0.674388182558262
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	19	7		#FC622F	0.688359011453818
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	20	7	perceptual|recognition	#FC622F	0.685391294704032
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	21	7		#F03623	0.700521482354986
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	22	7		#FC622F	0.698480034364062
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	23	7	verb	#FC622F	0.672020196856801
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	1	8	outcome|reward	#FFF1A9	0.157183104029523
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	2	8	anticipation	#FFF1A9	0.167822521419299
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	3	8	outcomes	#FFF1A9	0.173719608533222
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	4	8	choice|choices	#FDAD4A	0.402991469236213
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	5	8	decisions|probability	#FDAD4A	0.49711073014518
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	6	8	reversal	#FDAD4A	0.450989091380627
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	7	8	classification|incorrect	#FC622F	0.611959937278011
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	8	8		#FC622F	0.688480454895951
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	9	8	agerelated|fluency|probes	#FC622F	0.690614258413453
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	10	8	engaged	#FD913D	0.524665445237469
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	11	8	explicit|knowledge	#FC622F	0.676166750663901
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	12	8		#F03623	0.703475538313178
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	13	8		#F03623	0.707110507389109
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	14	8		#F03623	0.704053569652783
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	15	8		#FC622F	0.690949691221847
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	16	8		#FC622F	0.700124801221352
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	17	8	lexical	#FC622F	0.609349380689473
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	18	8		#FC622F	0.664131578343741
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	19	8		#FC622F	0.699302178378473
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	20	8		#FC622F	0.694724635720693
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	21	8	encoding	#FD913D	0.592415324103863
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	22	8	retrieval	#FC622F	0.656222478524283
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	23	8	verbal	#FC622F	0.66968840049331
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	1	9	incentive|monetary|money|rewards	#FFFFCC	0
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	2	9	loss	#FFF1A9	0.182071849153924
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	3	9		#FECB68	0.35960866588938
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	4	9		#FDAD4A	0.45706640405982
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	5	9	decisionmaking	#FD913D	0.50433549677558
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	6	9		#FC622F	0.625341026162207
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	7	9		#FC622F	0.624284947419073
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	8	9		#FC622F	0.663726362249773
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	9	9		#FC622F	0.699221592401152
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	10	9		#FC622F	0.686845234014705
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	11	9		#FC622F	0.688575415021914
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	12	9		#FC622F	0.662808961278707
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	13	9	noun	#FD913D	0.539313523076654
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	14	9	meaning	#FD913D	0.538743858292548
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	15	9	english	#FD913D	0.538935597640696
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	16	9	pseudoword|pseudowords	#FC622F	0.605594931006756
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	17	9		#FC622F	0.624949687335202
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	18	9		#FC622F	0.648217428758759
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	19	9	familiar|judgment	#FC622F	0.611995991207928
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	20	9	pair|pairs	#FC622F	0.658088052958724
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	21	9		#FC622F	0.689789284134518
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	22	9		#FC622F	0.659950472072487
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	23	9	letter|working	#FD913D	0.595990380655635
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	1	10	losses|reinforcement|win	#FFF1A9	0.183365422658551
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	2	10	gain	#FFFFCC	0.095887352063611
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	3	10	expectation	#FEE188	0.227532994645317
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	4	10	risk	#FECB68	0.393010136662341
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	5	10	fact	#FD913D	0.504341741211438
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	6	10	associative	#FDAD4A	0.426831053652555
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	7	10	familiarity|judgments|old	#FD913D	0.54574626355326
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	8	10	contextual|text	#FDAD4A	0.453826488266625
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	9	10	recall|retrieved	#FD913D	0.545324025101354
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	10	10	conceptual|semantically	#FC622F	0.634663920749095
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	11	10	grammatical|speakers	#FC622F	0.666850877589159
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	12	10	nouns	#FD913D	0.510908283101292
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	13	10	japanese	#FDAD4A	0.471938377855723
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	14	10	languages	#FD913D	0.547608869100637
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	15	10	written	#FDAD4A	0.453629086203885
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	16	10	chinese|phonology	#FECB68	0.390572395921791
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	17	10	orthographic	#FDAD4A	0.46661302513492
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	18	10		#FC622F	0.65845572181219
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	19	10		#F03623	0.704060943156181
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	20	10	association|decision	#FC622F	0.642799538277367
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	21	10	selection	#FD913D	0.551639801978668
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	22	10	letters	#FD913D	0.511158303394091
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	23	10	demand|load	#FC622F	0.610580898505348
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	1	11	conditioned|conditioning	#FFF1A9	0.164539640081628
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	2	11		#FEE188	0.284257330825642
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	3	11	drug|placebo	#FEE188	0.27919270027055
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	4	11		#FDAD4A	0.411019950365897
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	5	11	associations	#FDAD4A	0.420368881883737
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	6	11		#FDAD4A	0.458148647838036
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	7	11	episodic|recollection	#FDAD4A	0.434091484956486
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	8	11		#FDAD4A	0.458995063858193
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	9	11		#FC622F	0.64070153275281
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	10	11	concepts	#FDAD4A	0.427435697768061
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	11	11		#FC622F	0.673953474515731
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	12	11		#FC622F	0.664860021614785
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	13	11	german	#FC622F	0.63046979581081
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	14	11	readers	#FD913D	0.541113308349309
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	15	11	character|name|naming	#FECB68	0.39762412792075
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	16	11		#FD913D	0.523407130896706
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	17	11	novel	#FD913D	0.547241182748099
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	18	11		#FC622F	0.609732518764138
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	19	11	child|children	#FC622F	0.640668075755488
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	20	11	adults	#FC622F	0.670834705276947
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	21	11	ability|feedback|learning	#FD913D	0.580873873264954
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	22	11	cues|delay	#FD913D	0.52700885034259
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	23	11	attentional|difficulty|targets	#FD913D	0.530767493618072
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	1	12	aversive|shock	#FECB68	0.312619685027406
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	2	12	reactivity	#FFF1A9	0.162023400380318
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	3	12	males|sex|women	#FECB68	0.342080635058596
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	4	12	animal	#FECB68	0.310342759753395
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	5	12	animals	#FFF1A9	0.141042459724967
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	6	12		#FECB68	0.322062838013773
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	7	12	remember|subsequent	#FEE188	0.210848594923357
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	8	12	autobiographical|memories	#FFF1A9	0.186243794753828
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	9	12		#FC622F	0.655389833558173
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	10	12	violation|violations	#F03623	0.733412853024217
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	11	12	aphasia	#FC622F	0.608858160186077
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	12	12	nonwords	#FD913D	0.516861523991455
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	13	12	dyslexia	#FDAD4A	0.487313683494455
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	14	12		#FD913D	0.569601389459838
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	15	12	priming	#FDAD4A	0.42939776719758
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	16	12		#FD913D	0.554621680139998
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	17	12	category|repetition	#FD913D	0.578110431738169
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	18	12		#FC622F	0.612360639238265
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	19	12	developmental|development	#FDAD4A	0.492481675805387
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	20	12		#FC622F	0.657761274444854
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	21	12	space	#F03623	0.701998707625037
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	22	12		#FD913D	0.585481778821494
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	23	12	color	#FD913D	0.530838755486369
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	1	13	threat	#FEE188	0.241708146712516
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	2	13	regulation	#FECB68	0.332087561903481
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	3	13		#FECB68	0.363639586682883
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	4	13	masked	#FEE188	0.206019771526117
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	5	13	scene|scenes	#FFFFCC	0.0855320559247035
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	6	13		#FEE188	0.257590131592949
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	7	13	confidence|remembered	#FFFFCC	0.0827274981653099
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	8	13		#FECB68	0.369856970790012
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	9	13		#FC622F	0.650496268203281
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	10	13	ambiguity|ambiguous	#FFF1A9	0.186557275606543
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	11	13		#FC622F	0.669377438005604
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	12	13		#FD913D	0.594545554798476
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	13	13	writing	#FECB68	0.358344737639026
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	14	13		#FD913D	0.570376578553199
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	15	13	categorization|congruency|prime	#FD913D	0.569036011651839
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	16	13		#FD913D	0.578570356337899
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	17	13	mask	#FD913D	0.501618345415841
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	18	13		#FC622F	0.618227698183288
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	19	13		#FC622F	0.635464925669267
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	20	13		#FC622F	0.618728456272844
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	21	13	conflict|congruent|incongruent	#FD913D	0.553918825420939
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	22	13	errors	#FD913D	0.516634755847242
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	23	13	maintenance|probe|wm	#FD913D	0.506138343213408
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	1	14	angry|fearful|happy	#FFF1A9	0.163808511092106
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	2	14		#FEE188	0.268967022515559
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	3	14	awareness|conscious|ptsd	#FEE188	0.26732693686427
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	4	14		#FECB68	0.338866539660616
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	5	14	houses|photographs	#FFFFCC	0.083096266863404
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	6	14		#FEE188	0.272346090670815
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	7	14	hits	#FEE188	0.251547492841013
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	8	14	famous	#FEE188	0.20655505459986
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	9	14	names	#FECB68	0.394985634988974
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	10	14	family	#FD913D	0.515849492850278
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	11	14	competition|mouth	#FDAD4A	0.444530037209549
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	12	14	abilities	#FDAD4A	0.434574332577096
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	13	14	implicit|unfamiliar	#FD913D	0.508805204650379
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	14	14		#FD913D	0.541649353771143
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	15	14	tom	#FDAD4A	0.494460257962004
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	16	14		#FD913D	0.542297478444839
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	17	14		#FD913D	0.577363193228551
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	18	14	stop	#FD913D	0.574560106255392
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	19	14	inhibition|inhibitory|nogo	#FD913D	0.526695318901395
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	20	14	monitoring|stroop	#FDAD4A	0.484570904170266
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	21	14	interference	#FDAD4A	0.420564264513412
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	22	14		#FD913D	0.544094025269117
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	23	14	demands|executive	#FD913D	0.555224541928182
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	1	15	anger	#FFF1A9	0.140606877905715
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	2	15	stress	#FFF1A9	0.191455999900232
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	3	15	feelings	#FDAD4A	0.444517530785211
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	4	15	salient	#FDAD4A	0.416260445786471
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	5	15	novelty	#FEE188	0.205544435483388
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	6	15	movie	#FFF1A9	0.182852928694355
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	7	15		#FDAD4A	0.411940704283325
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	8	15		#FD913D	0.506139077663104
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	9	15	longterm	#FECB68	0.391568775618395
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	10	15		#FD913D	0.549058369521851
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	11	15	reasoning|relational	#FECB68	0.391202689163397
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	12	15		#FD913D	0.562890098323013
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	13	15	presentations	#FDAD4A	0.462338352582715
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	14	15		#FD913D	0.515052538157113
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	15	15	identity	#FEE188	0.266856570097126
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	16	15		#FD913D	0.502061340120835
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	17	15	strategies|strategy	#FDAD4A	0.417320959816959
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	18	15	card|cards	#FC622F	0.605976119353284
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	19	15	gonogo	#FD913D	0.541041437929685
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	20	15		#FD913D	0.57374514988826
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	21	15	switching|switch	#FDAD4A	0.443217191228207
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	22	15		#FD913D	0.505274514345714
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	23	15	2back|rule	#FDAD4A	0.470761817762885
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	1	16	emotionally|mood|personality|sadness	#FFF1A9	0.130700461970978
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	2	16	disgust|sexual	#FFF1A9	0.116727532977785
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	3	16	olfactory	#FEE188	0.275298035654648
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	4	16	physiological	#FEE188	0.288336029721834
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	5	16	depressed|depressive|habituation	#FDAD4A	0.416800022274626
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	6	16	schizophrenic	#FD913D	0.528153908028907
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	7	16	colors|contexts	#FFF1A9	0.17428007502064
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	8	16	aging|encoded	#FEE188	0.251153666666764
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	9	16	goal	#FEE188	0.213952491739289
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	10	16		#FDAD4A	0.497226262015347
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	11	16	autism|autistic|nonverbal	#FEE188	0.263186362708097
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	12	16		#FD913D	0.52380454927015
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	13	16	bottomup|repetitions	#FECB68	0.373382853532516
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	14	16	adaptation	#FDAD4A	0.408633525690557
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	15	16	irrelevant	#FDAD4A	0.451052064354121
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	16	16	distractor|distractors	#FEE188	0.272296441737141
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	17	16		#FD913D	0.557652070224042
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	18	16	subtraction	#FDAD4A	0.442668715104893
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	19	16	1back|nback	#FDAD4A	0.496899078313675
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	20	16	manipulation|rules	#FDAD4A	0.476319618010867
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	21	16		#FD913D	0.533649316396808
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	22	16		#FDAD4A	0.468747421339663
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	23	16	digit	#FECB68	0.393623458392698
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	1	17	avoidance	#FFF1A9	0.102891924011635
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	2	17		#FEE188	0.202477629417471
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	3	17	eating|food	#FFF1A9	0.128703588691406
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	4	17	taste	#FFF1A9	0.174224575948916
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	5	17	bipolar	#FEE188	0.212609214349937
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	6	17	illness|uncertainty	#FDAD4A	0.447624889935814
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	7	17	females|probabilistic	#FEE188	0.25713681696951
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	8	17	rejection	#FECB68	0.385272445837849
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	9	17	colour|paired	#FDAD4A	0.447047819114192
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	10	17		#FD913D	0.517453135125075
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	11	17		#FD913D	0.50535797330948
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	12	17		#FDAD4A	0.478418979614509
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	13	17	taskirrelevant	#FEE188	0.231831417022015
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	14	17		#FDAD4A	0.429925291041881
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	15	17	suppression	#FECB68	0.36761646892172
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	16	17		#FDAD4A	0.494826640098716
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	17	17	shifting|shortterm	#FDAD4A	0.496701086498916
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	18	17	digits	#FDAD4A	0.406996637466058
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	19	17	search	#FDAD4A	0.438980681127016
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	20	17	counting|taskrelated	#FC622F	0.682885471862412
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	21	17	topdown	#FDAD4A	0.482885685570758
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	22	17	visuospatial	#FDAD4A	0.401559906371747
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	23	17	arithmetic|calculation|solving	#FECB68	0.339139107859459
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	1	18	addiction|craving|drugs	#FFF1A9	0.113383264709486
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	2	18	allele|genotype|polymorphism	#FFF1A9	0.165488210280786
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	3	18	motivation	#FFF1A9	0.175652155097095
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	4	18	heart	#FEE188	0.252051908678848
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	5	18	sleep	#FECB68	0.352065942430408
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	6	18	expectancy	#FDAD4A	0.458944964156755
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	7	18	phasic|salience	#FD913D	0.503827447456973
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	8	18	adolescence|adolescents	#FEE188	0.276058115772398
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	9	18	intelligence|tracking	#FDAD4A	0.446866981509223
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	10	18		#FD913D	0.586801548171645
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	11	18	serial	#FEE188	0.274563960943281
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	12	18		#FDAD4A	0.496393529329211
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	13	18	spatially|taskrelevant	#FECB68	0.397768242662435
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	14	18		#FDAD4A	0.465419912899594
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	15	18	attended|attend|unattended	#FEE188	0.262308959804001
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	16	18	rotation|shapes	#FEE188	0.278617657894495
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	17	18	rehearsal	#FC622F	0.669687988045397
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	18	18	learned	#FECB68	0.394361049576323
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	19	18		#FD913D	0.581052463818351
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	20	18	cued|preparatory	#FD913D	0.541693777043295
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	21	18		#FC622F	0.612468332772086
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	22	18		#FD913D	0.5379299739917
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	23	18	numbers|numerical	#FDAD4A	0.413594742775316
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	1	19	future	#FEE188	0.26876062992309
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	2	19	negatively	#FECB68	0.38786017626252
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	3	19	distress|epilepsy|selfreported	#FECB68	0.350977175676213
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	4	19	anticipatory|cocaine|probabilities|smoking	#FEE188	0.253069534641105
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	5	19	alcohol|amount|impulsivity	#FFF1A9	0.179507338261464
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	6	19	game|success	#FECB68	0.359171911502088
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	7	19	adhd|childhood|engagement	#FDAD4A	0.463522430146557
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	8	19		#FC622F	0.689756526529953
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	9	19		#FC622F	0.684784180488528
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	10	19		#FD913D	0.581123620263555
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	11	19		#FD913D	0.540462095068085
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	12	19	endogenous	#FECB68	0.376518963794003
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	13	19	cueing|invalid|orienting	#FDAD4A	0.424444104742819
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	14	19		#FD913D	0.518390846985829
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	15	19	multisensory	#FC622F	0.658645303965849
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	16	19		#FD913D	0.5326160045028
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	17	19	shifts	#FDAD4A	0.484670507697495
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	18	19	covert	#FD913D	0.535254245828404
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	19	19		#FD913D	0.524665978156203
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	20	19	preparation	#FDAD4A	0.476201568251336
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	21	19	discrimination|training	#FC622F	0.625818110702783
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	22	19	sequences	#FC622F	0.600423429528212
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	23	19		#FC622F	0.645492384428796
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	1	20	personal|self|selfreferential|trait|traits	#FEE188	0.28167075768333
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	2	20	empathic|theory	#FECB68	0.324195424267017
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	3	20	attribution|intentional	#FFF1A9	0.181738417749358
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	4	20	elderly|oscillations	#FEE188	0.207342420915271
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	5	20	antipsychotic|virtual	#FEE188	0.253931645965448
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	6	20		#FC622F	0.610104772567735
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	7	20	experiences	#FC622F	0.622891119289206
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	8	20	categorical|pressure	#FDAD4A	0.487907461650889
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	9	20	play|skills	#FECB68	0.393700406298378
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	10	20	automatic|trained	#FD913D	0.58328989524702
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	11	20		#FDAD4A	0.467820025622753
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	12	20	practice	#FEE188	0.294423305586175
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	13	20	visuomotor	#FEE188	0.201468692641554
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	14	20		#FD913D	0.531086403801512
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	15	20	tool	#FDAD4A	0.444855127551723
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	16	20	vision	#FEE188	0.298607908558395
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	17	20	visually	#FDAD4A	0.464292861815688
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	18	20	saccade|saccades|saccadic	#FEE188	0.220341598638732
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	19	20	locations	#FD913D	0.529208929336985
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	20	20	imagery|planning	#FDAD4A	0.475862308390131
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	21	20		#FD913D	0.57732636248346
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	22	20	rest	#FC622F	0.640085871559032
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	23	20	sequence	#FC622F	0.668630062314554
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	1	21	scenarios	#FECB68	0.307039211782924
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	2	21	intention|intentions	#FEE188	0.269408921187122
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	3	21	causality|perspective	#FEE188	0.295224456762976
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	4	21	past	#FEE188	0.220387585532095
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	5	21		#FC622F	0.625699057074165
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	6	21	episode	#FEE188	0.27916637844619
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	7	21	improvement	#FECB68	0.375164204171377
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	8	21	masking|retention	#FDAD4A	0.445741951563047
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	9	21		#FD913D	0.581074981526633
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	10	21	dominant	#FECB68	0.345041687821412
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	11	21		#FECB68	0.351621451386594
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	12	21	sequential	#FEE188	0.243992933486056
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	13	21	fingers	#FFFFCC	0.065876457490249
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	14	21		#FECB68	0.357710945056388
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	15	21	gesture|gestures	#FEE188	0.258981164400178
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	16	21		#FECB68	0.380427137745117
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	17	21	hands	#FEE188	0.284701092267166
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	18	21		#FDAD4A	0.442220642231471
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	19	21		#FDAD4A	0.458126120479792
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	20	21	eye|position	#FDAD4A	0.429309966313172
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	21	21	execution	#FDAD4A	0.44234860150074
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	22	21	finger|sensorimotor	#FECB68	0.346371043936046
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	23	21		#FD913D	0.510533548616945
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	1	22	moral|stories|story	#FECB68	0.339338094502734
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	2	22	mentalizing|persons	#FECB68	0.354484126025754
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	3	22	default|restingstate	#FECB68	0.337200932644461
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	4	22	thinking|thought|thoughts	#FDAD4A	0.415002687859378
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	5	22	spontaneous	#FD913D	0.540455197021441
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	6	22	concentration|sensations	#FECB68	0.353058484559803
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	7	22	hierarchical|preference	#FECB68	0.300237391364552
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	8	22	effort|oral|simulation	#FEE188	0.237308532740248
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	9	22	interhemispheric|plasticity	#FDAD4A	0.402223140520772
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	10	22	imagined|imagine	#FECB68	0.364700234428849
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	11	22	tapping	#FEE188	0.227091735645939
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	12	22	foot|muscle|muscles|voluntary	#FEE188	0.275425827544223
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	13	22	limb	#FFF1A9	0.16221368439626
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	14	22	eyes|velocity	#FFFFCC	0.0476966208914539
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	15	22	biological|gaze|videos	#FFF1A9	0.110688498860285
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	16	22	body	#FDAD4A	0.405817165978258
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	17	22	grasping|orientation|reaching	#FEE188	0.228240673051428
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	18	22		#FDAD4A	0.431355622957312
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	19	22	mirror|shape	#FECB68	0.35107753415088
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	20	22	actions	#FECB68	0.394902122546385
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	21	22	action	#FD913D	0.539726177250543
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	22	22		#FDAD4A	0.472530397785701
+0d587abb-6ce0-353e-8733-f692bc34fcaf	Cattapan-Ludewig K	23	22	hand|movements|sensory	#FDAD4A	0.428903997929946

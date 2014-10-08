@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	1	1	auditory|speech	#FDAD4A	0.489607235824044
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	2	1		#FDAD4A	0.433236347061593
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	3	1	da|integration	#FDAD4A	0.427023978689066
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	4	1		#FC622F	0.664918224029591
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	5	1	physical|psychophysical|tactile	#F03623	0.788250403851247
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	6	1		#D7141E	0.855826108015542
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	7	1	somatosensory|stimulation	#D7141E	0.896599859648752
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	8	1	painful|pain	#FC622F	0.666876761571937
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	9	1		#FC622F	0.670410424300396
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	10	1	ratings	#FDAD4A	0.419665519974681
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	11	1	affective|affect	#FEE188	0.292474014739131
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	12	1	emotions	#FEE188	0.2858762465996
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	13	1	expression|expressions|facial	#FFF1A9	0.176094178595697
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	14	1		#FEE188	0.219252973345295
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	15	1		#FEE188	0.234301269438795
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	16	1	emotion|motion|neutral	#FEE188	0.245622271403296
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	17	1	rating	#FECB68	0.374831612936603
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	18	1	negative|positive	#FECB68	0.348859473946111
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	19	1		#FDAD4A	0.480200963077849
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	20	1	ear|order	#FD913D	0.507973767769212
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	21	1	motor	#F03623	0.746674544188852
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	22	1	visual	#FDAD4A	0.471575094433023
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	23	1	age|image|response	#FD913D	0.514334138527111
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	1	2	sound|sounds	#FECB68	0.374093570291282
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	2	2		#FDAD4A	0.409206571464925
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	3	2	audiovisual|bimodal|crossmodal	#FEE188	0.253448002369724
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	4	2		#FC622F	0.657920292058735
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	5	2		#D7141E	0.803072217925807
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	6	2		#D7141E	0.860205981118921
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	7	2	sensation	#FC622F	0.67392765570077
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	8	2	heat|noxious	#FC622F	0.677328399374458
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	9	2		#FC622F	0.636261501399241
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	10	2		#FDAD4A	0.439440765995354
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	11	2		#FECB68	0.37076955666818
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	12	2	valence	#FFF1A9	0.159140336951537
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	13	2	person|social	#FEE188	0.212339586182741
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	14	2		#FEE188	0.22830330924187
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	15	2	face|faces	#FFF1A9	0.179601719999984
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	16	2		#FECB68	0.299750875416165
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	17	2		#FECB68	0.35181818024439
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	18	2		#FDAD4A	0.427671178625435
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	19	2		#FDAD4A	0.490214347722541
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	20	2		#FD913D	0.55268862313047
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	21	2	images|spatial	#FD913D	0.522719259048546
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	22	2	control	#FD913D	0.519086454436832
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	23	2	time	#FD913D	0.524958620706138
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	1	3	acoustic|listening|musical|music|pitch	#FECB68	0.317907049365496
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	2	3	noise|tones	#FEE188	0.284432418472164
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	3	3		#FD913D	0.5168528849631
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	4	3		#FC622F	0.641441343304096
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	5	3	frequency	#F03623	0.725920214198189
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	6	3		#D7141E	0.855989447449114
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	7	3		#F03623	0.719328884507974
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	8	3	temperature	#FDAD4A	0.450516621060103
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	9	3		#FC622F	0.638140032819178
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	10	3	pleasant|unpleasant	#FDAD4A	0.433665279202662
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	11	3	anxiety	#FEE188	0.259803697727784
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	12	3		#FECB68	0.333970566260999
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	13	3		#FECB68	0.344040794660124
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	14	3		#FEE188	0.28408418599467
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	15	3		#FEE188	0.293327780203153
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	16	3	picture	#FEE188	0.282964056608538
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	17	3		#FECB68	0.396419060055927
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	18	3	value	#FD913D	0.534202870702534
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	19	3	cue	#FDAD4A	0.443942819922309
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	20	3	error|target	#FDAD4A	0.486100533308048
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	21	3	attention	#FDAD4A	0.468812789172396
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	22	3		#FDAD4A	0.467281649442954
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	23	3	number	#FDAD4A	0.465589350172542
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	1	4	voice	#FEE188	0.252833883986364
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	2	4		#FECB68	0.347311280522157
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	3	4	hearing	#FECB68	0.322696737245685
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	4	4		#FC622F	0.656396081639791
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	5	4	overt	#F03623	0.702675611063767
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	6	4		#F03623	0.796318504909568
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	7	4		#F03623	0.739692776850223
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	8	4	nociceptive|nonpainful|painrelated	#FD913D	0.582522438743665
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	9	4	unpleasantness	#FC622F	0.604652675412549
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	10	4	skin|subjective	#FD913D	0.500515453946592
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	11	4	depression	#FECB68	0.360438861748281
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	12	4	experience	#FECB68	0.389965013433198
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	13	4	female	#FECB68	0.345461905191663
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	14	4	male	#FECB68	0.370030635377182
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	15	4	pictures	#FEE188	0.245539654812113
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	16	4		#FECB68	0.378084949361089
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	17	4	perception	#FDAD4A	0.46873380516721
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	18	4		#FDAD4A	0.477980925088935
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	19	4		#FDAD4A	0.47820868617993
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	20	4		#FDAD4A	0.46530956592302
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	21	4	correct	#FECB68	0.3939365005559
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	22	4	work	#FDAD4A	0.426546803332153
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	23	4	memory	#FECB68	0.35431421425364
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	1	5	prosodic|prosody	#FFF1A9	0.128830277479576
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	2	5	phonetic	#FEE188	0.271164634341014
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	3	5	syllable|syllables	#FDAD4A	0.448589272847938
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	4	5		#FC622F	0.633870058398374
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	5	5	lip|production	#FC622F	0.668915621663043
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	6	5	somatotopic	#D7141E	0.811810335654958
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	7	5		#F03623	0.776231559079666
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	8	5		#FC622F	0.673467750276571
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	9	5	empathy	#FC622F	0.632666649117594
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	10	5		#FD913D	0.513293948527621
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	11	5	disorder	#FECB68	0.330267181725306
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	12	5		#FDAD4A	0.430737330696277
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	13	5		#FDAD4A	0.41700303944122
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	14	5		#FECB68	0.35854065204583
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	15	5		#FECB68	0.348021719129159
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	16	5		#FECB68	0.392647040016883
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	17	5		#FDAD4A	0.41839140014676
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	18	5	mental	#FDAD4A	0.420727160349144
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	19	5	go	#FDAD4A	0.455346110052124
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	20	5	object	#FECB68	0.372288796237927
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	21	5		#FDAD4A	0.419830186209174
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	22	5		#FECB68	0.372485531440934
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	23	5	word|words	#FECB68	0.324652323368251
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	1	6		#FEE188	0.289237868050189
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	2	6		#FECB68	0.328615820460092
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	3	6		#FDAD4A	0.494118139288391
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	4	6	vocal	#FD913D	0.560641314763682
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	5	6	articulatory	#FD913D	0.505515503064756
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	6	6		#F03623	0.723574893996076
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	7	6	oddball	#FD913D	0.561925023250263
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	8	6	perceived	#FD913D	0.547049932579825
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	9	6	errorrelated	#FECB68	0.376111570957641
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	10	6	approach	#FDAD4A	0.403776740365634
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	11	6	schizophrenia	#FECB68	0.347590972769184
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	12	6	acquisition	#FD913D	0.543717035237549
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	13	6		#FECB68	0.377863226067215
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	14	6		#FEE188	0.278347781826998
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	15	6		#FEE188	0.278170930138465
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	16	6		#FECB68	0.304730901414049
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	17	6		#FECB68	0.373070118527481
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	18	6		#FDAD4A	0.401268534674707
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	19	6		#FDAD4A	0.409458949443789
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	20	6	objects	#FECB68	0.331329961396395
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	21	6		#FECB68	0.392979241385977
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	22	6		#FECB68	0.348045098299202
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	23	6	language|semantic	#FECB68	0.30071444910917
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	1	7	dopamine|dopaminergic	#FEE188	0.200896213688864
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	2	7		#FFF1A9	0.19034246312313
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	3	7		#FECB68	0.352809863079411
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	4	7		#FDAD4A	0.46503237528896
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	5	7		#FDAD4A	0.493279506463988
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	6	7		#FD913D	0.546011038309115
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	7	7		#FD913D	0.524220700519249
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	8	7		#FDAD4A	0.46285789075372
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	9	7		#FDAD4A	0.482601583260242
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	10	7		#FDAD4A	0.441552826000178
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	11	7		#FDAD4A	0.426676646762864
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	12	7		#FDAD4A	0.400371968919068
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	13	7	linguistic|spoken	#FEE188	0.230033342715873
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	14	7		#FEE188	0.263479717845298
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	15	7	comprehension|sentence|sentences|syntactic	#FEE188	0.211999529292215
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	16	7		#FEE188	0.258743711318424
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	17	7		#FECB68	0.328797124998428
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	18	7	phonological|reading|read	#FECB68	0.346040817966652
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	19	7		#FECB68	0.377183752741074
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	20	7	perceptual|recognition	#FECB68	0.351144740145588
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	21	7		#FECB68	0.37841305952577
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	22	7		#FECB68	0.353246878440125
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	23	7	verb	#FECB68	0.366990748634008
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	1	8	outcome|reward	#FFF1A9	0.145951355244141
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	2	8	anticipation	#FFF1A9	0.151730635123888
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	3	8	outcomes	#FFF1A9	0.116408128473409
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	4	8	choice|choices	#FEE188	0.225677130161129
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	5	8	decisions|probability	#FECB68	0.331196420682484
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	6	8	reversal	#FECB68	0.305215500879467
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	7	8	classification|incorrect	#FECB68	0.309841628501575
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	8	8		#FECB68	0.366617569620731
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	9	8	agerelated|fluency|probes	#FECB68	0.371651339078314
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	10	8	engaged	#FECB68	0.383064467052082
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	11	8	explicit|knowledge	#FECB68	0.30085010795177
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	12	8		#FECB68	0.349173637903825
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	13	8		#FEE188	0.288580333705465
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	14	8		#FEE188	0.259155467860254
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	15	8		#FEE188	0.265191030078467
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	16	8		#FEE188	0.273915206218111
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	17	8	lexical	#FEE188	0.235004727891027
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	18	8		#FECB68	0.335646711490764
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	19	8		#FECB68	0.363592234856863
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	20	8		#FECB68	0.363207643252828
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	21	8	encoding	#FECB68	0.328445762813311
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	22	8	retrieval	#FEE188	0.2683765178901
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	23	8	verbal	#FECB68	0.382030563097532
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	1	9	incentive|monetary|money|rewards	#FFFFCC	0.0564588042226079
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	2	9	loss	#FFF1A9	0.141948123061003
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	3	9		#FEE188	0.219851190867323
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	4	9		#FEE188	0.286536438557794
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	5	9	decisionmaking	#FEE188	0.25963514057027
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	6	9		#FECB68	0.346797385658307
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	7	9		#FECB68	0.323019664416769
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	8	9		#FECB68	0.330411158863664
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	9	9		#FECB68	0.318272747323245
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	10	9		#FECB68	0.340916852984921
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	11	9		#FECB68	0.353652128860619
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	12	9		#FECB68	0.348024180980653
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	13	9	noun	#FEE188	0.223493847622476
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	14	9	meaning	#FEE188	0.237466266750426
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	15	9	english	#FECB68	0.310250679092074
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	16	9	pseudoword|pseudowords	#FECB68	0.345786629005871
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	17	9		#FECB68	0.315211623337062
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	18	9		#FECB68	0.333449000716922
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	19	9	familiar|judgment	#FECB68	0.324099130890624
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	20	9	pair|pairs	#FECB68	0.331557758321115
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	21	9		#FDAD4A	0.405347514855418
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	22	9		#FDAD4A	0.417026341090179
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	23	9	letter|working	#FDAD4A	0.424110658444726
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	1	10	losses|reinforcement|win	#FFFFCC	0.0575196341465306
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	2	10	gain	#FFF1A9	0.118003118930233
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	3	10	expectation	#FEE188	0.218329045467627
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	4	10	risk	#FEE188	0.217922676031863
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	5	10	fact	#FECB68	0.369366795654772
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	6	10	associative	#FEE188	0.273394629461619
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	7	10	familiarity|judgments|old	#FECB68	0.300582319639188
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	8	10	contextual|text	#FFF1A9	0.15657507760973
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	9	10	recall|retrieved	#FEE188	0.221307335545261
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	10	10	conceptual|semantically	#FFF1A9	0.186869898559779
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	11	10	grammatical|speakers	#FECB68	0.390748908597025
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	12	10	nouns	#FEE188	0.265606901995113
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	13	10	japanese	#FECB68	0.306033339785258
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	14	10	languages	#FECB68	0.326282179385521
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	15	10	written	#FEE188	0.254432264971028
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	16	10	chinese|phonology	#FEE188	0.293825568451425
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	17	10	orthographic	#FEE188	0.281747681327065
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	18	10		#FECB68	0.358224116571372
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	19	10		#FECB68	0.374489546084531
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	20	10	association|decision	#FECB68	0.342559695703198
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	21	10	selection	#FECB68	0.388526172043095
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	22	10	letters	#FECB68	0.388876615971955
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	23	10	demand|load	#FDAD4A	0.403348933074835
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	1	11	conditioned|conditioning	#FFFFCC	0.0568760588233483
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	2	11		#FFF1A9	0.192745050543736
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	3	11	drug|placebo	#FECB68	0.340486373885208
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	4	11		#FECB68	0.313543712262845
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	5	11	associations	#FEE188	0.289656562625143
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	6	11		#FEE188	0.229119362880096
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	7	11	episodic|recollection	#FFF1A9	0.108417109814655
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	8	11		#FEE188	0.206163384610335
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	9	11		#FECB68	0.330270240562234
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	10	11	concepts	#FFF1A9	0.170828792876295
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	11	11		#FECB68	0.362150093708455
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	12	11		#FECB68	0.366187256960468
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	13	11	german	#FECB68	0.396962663094212
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	14	11	readers	#FEE188	0.29366729324514
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	15	11	character|name|naming	#FEE188	0.292934709658782
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	16	11		#FECB68	0.358837970085025
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	17	11	novel	#FECB68	0.372222869993499
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	18	11		#FECB68	0.363811627835604
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	19	11	child|children	#FECB68	0.343415631691061
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	20	11	adults	#FECB68	0.395168938419126
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	21	11	ability|feedback|learning	#FD913D	0.569253246684645
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	22	11	cues|delay	#FDAD4A	0.41235020185374
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	23	11	attentional|difficulty|targets	#FECB68	0.385629561682854
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	1	12	aversive|shock	#FFF1A9	0.1569711761303
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	2	12	reactivity	#FFFFCC	0.0986094833733854
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	3	12	males|sex|women	#FEE188	0.223881054391613
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	4	12	animal	#FEE188	0.217148056085954
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	5	12	animals	#FFF1A9	0.147620486249358
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	6	12		#FFF1A9	0.147367510500971
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	7	12	remember|subsequent	#FFFFCC	0.0762654232638882
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	8	12	autobiographical|memories	#FFFFCC	0.00292272190090215
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	9	12		#FECB68	0.339486660807191
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	10	12	violation|violations	#FECB68	0.341863439861674
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	11	12	aphasia	#FECB68	0.388189960050279
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	12	12	nonwords	#FEE188	0.269312097343542
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	13	12	dyslexia	#FEE188	0.268191224524484
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	14	12		#FECB68	0.366191552366215
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	15	12	priming	#FEE188	0.277168542742121
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	16	12		#FECB68	0.388849724692675
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	17	12	category|repetition	#FDAD4A	0.415992299965535
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	18	12		#FECB68	0.377662442062889
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	19	12	developmental|development	#FEE188	0.265671477481156
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	20	12		#FDAD4A	0.403949630686354
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	21	12	space	#FDAD4A	0.42608635270405
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	22	12		#FDAD4A	0.416797146067725
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	23	12	color	#FECB68	0.349769997152903
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	1	13	threat	#FFFFCC	0.0824450568964044
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	2	13	regulation	#FFF1A9	0.114898995798681
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	3	13		#FEE188	0.227494816985486
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	4	13	masked	#FFF1A9	0.192040014911189
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	5	13	scene|scenes	#FFFFCC	0.0846758694952832
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	6	13		#FFF1A9	0.130907411664493
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	7	13	confidence|remembered	#FFFFCC	0.0427879523293974
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	8	13		#FFF1A9	0.181232527572389
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	9	13		#FECB68	0.355757691057594
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	10	13	ambiguity|ambiguous	#FFF1A9	0.111557118269271
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	11	13		#FECB68	0.390048923566788
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	12	13		#FDAD4A	0.403749644737449
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	13	13	writing	#FECB68	0.394985707987104
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	14	13		#FDAD4A	0.400103216550305
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	15	13	categorization|congruency|prime	#FECB68	0.348720113712523
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	16	13		#FDAD4A	0.401520093483248
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	17	13	mask	#FECB68	0.377089683756244
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	18	13		#FDAD4A	0.410214718830987
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	19	13		#FDAD4A	0.408549709287241
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	20	13		#FDAD4A	0.402760625938287
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	21	13	conflict|congruent|incongruent	#FECB68	0.334961957673697
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	22	13	errors	#FECB68	0.397171081359211
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	23	13	maintenance|probe|wm	#FECB68	0.352629210583195
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	1	14	angry|fearful|happy	#FFFFCC	0.0507389923399488
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	2	14		#FFF1A9	0.123697091342812
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	3	14	awareness|conscious|ptsd	#FFF1A9	0.184572700516441
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	4	14		#FEE188	0.225269960651699
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	5	14	houses|photographs	#FFFFCC	0.0725653396276722
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	6	14		#FFF1A9	0.184106582610927
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	7	14	hits	#FFF1A9	0.171315982802108
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	8	14	famous	#FFFFCC	0.0368977346525384
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	9	14	names	#FEE188	0.211482088823187
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	10	14	family	#FECB68	0.305416140195981
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	11	14	competition|mouth	#FECB68	0.332344272179263
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	12	14	abilities	#FECB68	0.309344354544766
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	13	14	implicit|unfamiliar	#FECB68	0.326154526412074
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	14	14		#FECB68	0.391144845733224
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	15	14	tom	#FECB68	0.314611394697255
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	16	14		#FECB68	0.385666313266118
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	17	14		#FECB68	0.393370040342523
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	18	14	stop	#FECB68	0.361666353318249
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	19	14	inhibition|inhibitory|nogo	#FDAD4A	0.456616838738124
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	20	14	monitoring|stroop	#FECB68	0.351452218784516
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	21	14	interference	#FECB68	0.337332622415597
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	22	14		#FECB68	0.383469101082531
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	23	14	demands|executive	#FECB68	0.346035817573904
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	1	15	anger	#FFFFCC	0
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	2	15	stress	#FFF1A9	0.18708653980068
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	3	15	feelings	#FEE188	0.264145902426743
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	4	15	salient	#FEE188	0.228131858510812
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	5	15	novelty	#FFF1A9	0.197326213160318
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	6	15	movie	#FFF1A9	0.183404242810488
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	7	15		#FEE188	0.223601314298836
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	8	15		#FEE188	0.276322806688897
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	9	15	longterm	#FEE188	0.199621806275027
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	10	15		#FECB68	0.395869026024391
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	11	15	reasoning|relational	#FEE188	0.255894269449707
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	12	15		#FDAD4A	0.426338653768858
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	13	15	presentations	#FEE188	0.25665103633384
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	14	15		#FECB68	0.384286651288094
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	15	15	identity	#FEE188	0.264384833547538
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	16	15		#FECB68	0.368437812928197
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	17	15	strategies|strategy	#FEE188	0.281098903380217
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	18	15	card|cards	#FEE188	0.284837009789297
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	19	15	gonogo	#FDAD4A	0.424130600711892
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	20	15		#FDAD4A	0.416362282515818
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	21	15	switching|switch	#FECB68	0.367808547521812
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	22	15		#FECB68	0.38355268568874
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	23	15	2back|rule	#FECB68	0.322898717931869
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	1	16	emotionally|mood|personality|sadness	#FFFFCC	0.00585630735519488
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	2	16	disgust|sexual	#FFF1A9	0.122119748653905
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	3	16	olfactory	#FFFFCC	0.0619297973071721
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	4	16	physiological	#FEE188	0.295226584911549
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	5	16	depressed|depressive|habituation	#FFF1A9	0.18188800835985
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	6	16	schizophrenic	#FFF1A9	0.157356177850726
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	7	16	colors|contexts	#FFF1A9	0.153525980148493
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	8	16	aging|encoded	#FEE188	0.207386266170203
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	9	16	goal	#FECB68	0.319392376996438
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	10	16		#FECB68	0.382910766199982
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	11	16	autism|autistic|nonverbal	#FECB68	0.39135345765381
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	12	16		#FECB68	0.390522060422082
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	13	16	bottomup|repetitions	#FECB68	0.351839888847333
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	14	16	adaptation	#FECB68	0.368828921888875
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	15	16	irrelevant	#FECB68	0.3033320100983
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	16	16	distractor|distractors	#FECB68	0.300064305394067
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	17	16		#FECB68	0.399283776343541
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	18	16	subtraction	#FEE188	0.270527508019941
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	19	16	1back|nback	#FEE188	0.259875181240464
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	20	16	manipulation|rules	#FECB68	0.381696169262099
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	21	16		#FDAD4A	0.42587462077059
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	22	16		#FDAD4A	0.402229661469956
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	23	16	digit	#FECB68	0.385451033566378
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	1	17	avoidance	#FFF1A9	0.134630967191944
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	2	17		#FFF1A9	0.136958689356259
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	3	17	eating|food	#FFFFCC	0.0621602839518634
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	4	17	taste	#FFF1A9	0.163173763150966
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	5	17	bipolar	#FFF1A9	0.150007373487637
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	6	17	illness|uncertainty	#FFF1A9	0.165612282453541
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	7	17	females|probabilistic	#FEE188	0.287227647068932
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	8	17	rejection	#FFFFCC	0.0664007530457371
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	9	17	colour|paired	#FEE188	0.277953205087741
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	10	17		#FDAD4A	0.426432063895751
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	11	17		#FDAD4A	0.439954097552872
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	12	17		#FDAD4A	0.413338509925321
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	13	17	taskirrelevant	#FEE188	0.222259900003529
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	14	17		#FECB68	0.337739925160727
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	15	17	suppression	#FECB68	0.348470055897795
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	16	17		#FECB68	0.38837808406703
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	17	17	shifting|shortterm	#FECB68	0.373176632425119
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	18	17	digits	#FECB68	0.360663671172794
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	19	17	search	#FDAD4A	0.416941894413162
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	20	17	counting|taskrelated	#FD913D	0.529347000684846
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	21	17	topdown	#FECB68	0.368159998803463
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	22	17	visuospatial	#FECB68	0.399474691626083
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	23	17	arithmetic|calculation|solving	#FECB68	0.336307729439946
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	1	18	addiction|craving|drugs	#FFF1A9	0.101911884743159
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	2	18	allele|genotype|polymorphism	#FFF1A9	0.112869426002355
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	3	18	motivation	#FFF1A9	0.171261113953633
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	4	18	heart	#FEE188	0.257431244765798
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	5	18	sleep	#FEE188	0.252483003010855
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	6	18	expectancy	#FECB68	0.326806099667033
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	7	18	phasic|salience	#FEE188	0.291642615434849
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	8	18	adolescence|adolescents	#FECB68	0.3728268496895
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	9	18	intelligence|tracking	#FECB68	0.353804838584009
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	10	18		#FD913D	0.510627083424172
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	11	18	serial	#FECB68	0.353237450447769
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	12	18		#FDAD4A	0.4246575679828
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	13	18	spatially|taskrelevant	#FECB68	0.373425176005091
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	14	18		#FECB68	0.342356126953796
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	15	18	attended|attend|unattended	#FEE188	0.199526577551305
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	16	18	rotation|shapes	#FECB68	0.326541659177289
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	17	18	rehearsal	#FDAD4A	0.459660127323068
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	18	18	learned	#FDAD4A	0.453607354818561
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	19	18		#FD913D	0.535412286780445
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	20	18	cued|preparatory	#FECB68	0.382967960585437
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	21	18		#FD913D	0.592951639498522
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	22	18		#FD913D	0.526819544476599
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	23	18	numbers|numerical	#FDAD4A	0.419316235949398
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	1	19	future	#FFF1A9	0.128719140378625
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	2	19	negatively	#FECB68	0.393115108879327
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	3	19	distress|epilepsy|selfreported	#FECB68	0.322302888895491
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	4	19	anticipatory|cocaine|probabilities|smoking	#FEE188	0.204840536871438
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	5	19	alcohol|amount|impulsivity	#FECB68	0.397074432653421
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	6	19	game|success	#FFF1A9	0.108814611208264
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	7	19	adhd|childhood|engagement	#FECB68	0.331702903631457
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	8	19		#FDAD4A	0.466810637303276
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	9	19		#FD913D	0.561257740187661
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	10	19		#FD913D	0.547226551598285
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	11	19		#FD913D	0.519819521555252
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	12	19	endogenous	#FECB68	0.338563098845732
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	13	19	cueing|invalid|orienting	#FEE188	0.241700038917888
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	14	19		#FECB68	0.398004161612228
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	15	19	multisensory	#FECB68	0.341853705936656
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	16	19		#FDAD4A	0.405416967574716
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	17	19	shifts	#FDAD4A	0.441365596858096
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	18	19	covert	#FDAD4A	0.434028214972538
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	19	19		#FD913D	0.501353815769357
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	20	19	preparation	#FD913D	0.53144981049239
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	21	19	discrimination|training	#FC622F	0.614978370819646
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	22	19	sequences	#F03623	0.739482866683422
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	23	19		#D7141E	0.865188713103541
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	1	20	personal|self|selfreferential|trait|traits	#FFFFCC	0.0898444715459895
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	2	20	empathic|theory	#FECB68	0.350667063722106
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	3	20	attribution|intentional	#FFF1A9	0.149199696554503
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	4	20	elderly|oscillations	#FFF1A9	0.173854045174294
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	5	20	antipsychotic|virtual	#FFFFCC	0.0834226451186151
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	6	20		#FDAD4A	0.420556615902748
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	7	20	experiences	#FEE188	0.275949257678742
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	8	20	categorical|pressure	#FECB68	0.318701971929593
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	9	20	play|skills	#FDAD4A	0.444721938285355
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	10	20	automatic|trained	#FD913D	0.516014883709086
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	11	20		#F03623	0.751953245760015
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	12	20	practice	#FD913D	0.583603700642938
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	13	20	visuomotor	#FD913D	0.562268386589061
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	14	20		#FD913D	0.586358157325123
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	15	20	tool	#FECB68	0.398013486032017
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	16	20	vision	#FEE188	0.241427810724107
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	17	20	visually	#FD913D	0.507191547671717
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	18	20	saccade|saccades|saccadic	#FEE188	0.260184961793894
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	19	20	locations	#FDAD4A	0.412153842966732
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	20	20	imagery|planning	#FC622F	0.611980852354923
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	21	20		#F03623	0.785940582269009
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	22	20	rest	#D7141E	0.88109233792771
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	23	20	sequence	#F03623	0.787001076493729
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	1	21	scenarios	#FFFFCC	0.0275387445089077
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	2	21	intention|intentions	#FFF1A9	0.110026114690817
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	3	21	causality|perspective	#FFF1A9	0.146843972856689
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	4	21	past	#FFFFCC	0.0747366686351768
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	5	21		#FDAD4A	0.452526318011779
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	6	21	episode	#FEE188	0.223251847495849
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	7	21	improvement	#FDAD4A	0.426011247745943
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	8	21	masking|retention	#FD913D	0.548524416490052
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	9	21		#FC622F	0.669958111663793
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	10	21	dominant	#FD913D	0.595036685751107
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	11	21		#B10026	0.91762723984553
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	12	21	sequential	#FC622F	0.69730305998741
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	13	21	fingers	#F03623	0.722551043334393
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	14	21		#FD913D	0.543972680128045
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	15	21	gesture|gestures	#FDAD4A	0.419607305726371
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	16	21		#FD913D	0.513593442590112
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	17	21	hands	#FDAD4A	0.407093618239523
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	18	21		#FD913D	0.556659548535774
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	19	21		#FD913D	0.550625009768128
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	20	21	eye|position	#FD913D	0.513683435935966
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	21	21	execution	#D7141E	0.841132617278202
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	22	21	finger|sensorimotor	#B10026	0.954741136321326
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	23	21		#B10026	0.926009254204129
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	1	22	moral|stories|story	#FFFFCC	0.00432104142931852
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	2	22	mentalizing|persons	#FFF1A9	0.110551426668495
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	3	22	default|restingstate	#FFFFCC	0.0874650703458541
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	4	22	thinking|thought|thoughts	#FECB68	0.383634841909862
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	5	22	spontaneous	#FDAD4A	0.430338740069058
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	6	22	concentration|sensations	#FDAD4A	0.430648632375238
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	7	22	hierarchical|preference	#FFF1A9	0.189492487799051
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	8	22	effort|oral|simulation	#FECB68	0.369286505206231
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	9	22	interhemispheric|plasticity	#FECB68	0.397363642162631
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	10	22	imagined|imagine	#FC622F	0.663453929145549
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	11	22	tapping	#B10026	0.920508301023559
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	12	22	foot|muscle|muscles|voluntary	#B10026	1
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	13	22	limb	#F03623	0.800380101477033
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	14	22	eyes|velocity	#FECB68	0.385436432863361
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	15	22	biological|gaze|videos	#FFF1A9	0.181641898270125
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	16	22	body	#F03623	0.771754434065671
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	17	22	grasping|orientation|reaching	#FDAD4A	0.424070867818406
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	18	22		#FD913D	0.591824530360279
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	19	22	mirror|shape	#FD913D	0.508218316248012
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	20	22	actions	#FC622F	0.617312533743222
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	21	22	action	#FC622F	0.670046257630741
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	22	22		#D7141E	0.888576024054954
+cd3cfe53-cd0a-3747-875a-a0a226ce2eee	Kollias SS	23	22	hand|movements|sensory	#D7141E	0.877292594715259

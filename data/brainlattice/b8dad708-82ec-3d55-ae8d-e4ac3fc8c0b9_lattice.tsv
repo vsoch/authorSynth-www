@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	1	1	auditory|speech	#D7141E	0.814759249280608
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	2	1		#D7141E	0.8168784060918
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	3	1	da|integration	#F03623	0.771967736707597
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	4	1		#D7141E	0.871777541834934
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	5	1	physical|psychophysical|tactile	#F03623	0.777912127694341
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	6	1		#D7141E	0.813254410201753
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	7	1	somatosensory|stimulation	#F03623	0.779904262075756
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	8	1	painful|pain	#FC622F	0.643897917812017
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	9	1		#FD913D	0.587032461574793
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	10	1	ratings	#FECB68	0.361287798016583
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	11	1	affective|affect	#FDAD4A	0.423341381923842
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	12	1	emotions	#FEE188	0.286945498403017
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	13	1	expression|expressions|facial	#FFF1A9	0.126609438537854
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	14	1		#FECB68	0.30673835143238
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	15	1		#FECB68	0.373512677984501
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	16	1	emotion|motion|neutral	#FDAD4A	0.444713302866999
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	17	1	rating	#FDAD4A	0.477149661845498
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	18	1	negative|positive	#FC622F	0.623751569070745
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	19	1		#F03623	0.71510009515116
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	20	1	ear|order	#F03623	0.708727845416525
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	21	1	motor	#F03623	0.757432706729873
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	22	1	visual	#FC622F	0.630938603409273
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	23	1	age|image|response	#F03623	0.730052612554391
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	1	2	sound|sounds	#F03623	0.794926852312743
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	2	2		#D7141E	0.807917591952044
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	3	2	audiovisual|bimodal|crossmodal	#FC622F	0.604812089489006
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	4	2		#D7141E	0.863007699266031
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	5	2		#D7141E	0.866952804507131
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	6	2		#D7141E	0.838250233853804
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	7	2	sensation	#FC622F	0.600802750706906
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	8	2	heat|noxious	#FDAD4A	0.470713709500972
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	9	2		#FD913D	0.579634761841902
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	10	2		#FDAD4A	0.424184087483003
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	11	2		#FECB68	0.392755512438372
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	12	2	valence	#FECB68	0.325076222507284
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	13	2	person|social	#FD913D	0.516003242358738
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	14	2		#FECB68	0.323846502770609
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	15	2	face|faces	#FEE188	0.240790195128311
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	16	2		#FDAD4A	0.469604496774912
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	17	2		#FD913D	0.563171340162582
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	18	2		#FC622F	0.669277600572111
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	19	2		#F03623	0.738071544111198
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	20	2		#F03623	0.771283169076749
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	21	2	images|spatial	#F03623	0.734387595304559
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	22	2	control	#F03623	0.780272762563922
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	23	2	time	#F03623	0.761311761373459
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	1	3	acoustic|listening|musical|music|pitch	#FC622F	0.648706179548491
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	2	3	noise|tones	#D7141E	0.869210691667979
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	3	3		#F03623	0.797896859333044
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	4	3		#F03623	0.800164521283388
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	5	3	frequency	#F03623	0.79547554373926
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	6	3		#D7141E	0.847940952934146
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	7	3		#FC622F	0.684303926113721
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	8	3	temperature	#FC622F	0.637988422001368
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	9	3		#FD913D	0.586647322341326
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	10	3	pleasant|unpleasant	#FECB68	0.370263945334872
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	11	3	anxiety	#FEE188	0.290250622023287
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	12	3		#FDAD4A	0.440194404058564
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	13	3		#FDAD4A	0.475973033840759
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	14	3		#FDAD4A	0.435943543118157
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	15	3		#FDAD4A	0.448784343066372
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	16	3	picture	#FDAD4A	0.456655562107361
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	17	3		#FC622F	0.604079765890376
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	18	3	value	#F03623	0.705436690914877
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	19	3	cue	#D7141E	0.809224209728174
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	20	3	error|target	#F03623	0.761552859057467
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	21	3	attention	#F03623	0.768596644612065
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	22	3		#F03623	0.765488722011801
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	23	3	number	#F03623	0.770065465770765
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	1	4	voice	#FC622F	0.6293439350873
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	2	4		#F03623	0.718669133600266
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	3	4	hearing	#F03623	0.750064102731956
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	4	4		#F03623	0.774207276812952
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	5	4	overt	#FC622F	0.68133712375418
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	6	4		#D7141E	0.81563197603282
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	7	4		#F03623	0.741034078030254
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	8	4	nociceptive|nonpainful|painrelated	#FD913D	0.523628024417792
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	9	4	unpleasantness	#FD913D	0.52820588109721
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	10	4	skin|subjective	#FECB68	0.378064400136382
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	11	4	depression	#FDAD4A	0.422502939908152
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	12	4	experience	#FD913D	0.505596931284229
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	13	4	female	#FDAD4A	0.478139105599649
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	14	4	male	#FD913D	0.517115689054648
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	15	4	pictures	#FDAD4A	0.449193653777897
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	16	4		#FD913D	0.573961056260065
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	17	4	perception	#FC622F	0.639720371250033
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	18	4		#F03623	0.74231817065313
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	19	4		#F03623	0.755009300835971
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	20	4		#F03623	0.76211309864683
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	21	4	correct	#F03623	0.764969961981713
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	22	4	work	#D7141E	0.823589896790461
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	23	4	memory	#F03623	0.753888381364986
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	1	5	prosodic|prosody	#FDAD4A	0.474484698500635
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	2	5	phonetic	#F03623	0.714917346360347
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	3	5	syllable|syllables	#FD913D	0.542850196164604
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	4	5		#F03623	0.75006033077691
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	5	5	lip|production	#D7141E	0.813170797025646
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	6	5	somatotopic	#FD913D	0.529774904028908
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	7	5		#F03623	0.765211629830039
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	8	5		#FC622F	0.667753938669378
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	9	5	empathy	#FD913D	0.588008805003628
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	10	5		#FC622F	0.60318868616495
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	11	5	disorder	#FDAD4A	0.435617243566359
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	12	5		#FC622F	0.621424556276044
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	13	5		#FC622F	0.623446940838336
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	14	5		#FC622F	0.610052821512463
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	15	5		#FC622F	0.605049729639822
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	16	5		#FC622F	0.647528367189908
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	17	5		#FC622F	0.694258316831555
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	18	5	mental	#F03623	0.729773921588179
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	19	5	go	#FC622F	0.698676523939554
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	20	5	object	#FD913D	0.545566574239048
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	21	5		#F03623	0.707089336348758
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	22	5		#FC622F	0.676455814978973
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	23	5	word|words	#FDAD4A	0.478540682320658
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	1	6		#B10026	0.923818837040085
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	2	6		#B10026	0.910297766785741
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	3	6		#B10026	0.932517614882866
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	4	6	vocal	#D7141E	0.830994634250941
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	5	6	articulatory	#FD913D	0.542442947640658
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	6	6		#D7141E	0.807518680783004
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	7	6	oddball	#B10026	0.956256396822636
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	8	6	perceived	#FDAD4A	0.461323926458771
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	9	6	errorrelated	#FD913D	0.554641610542418
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	10	6	approach	#FECB68	0.355737602498792
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	11	6	schizophrenia	#FC622F	0.651166071711714
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	12	6	acquisition	#FC622F	0.662841134717046
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	13	6		#FC622F	0.642429917406972
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	14	6		#FD913D	0.591811317871672
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	15	6		#FD913D	0.578672088551524
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	16	6		#FD913D	0.596945335942177
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	17	6		#FD913D	0.573247394962912
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	18	6		#FD913D	0.58207282336414
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	19	6		#FC622F	0.602592980112891
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	20	6	objects	#FD913D	0.555893634449218
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	21	6		#FC622F	0.621650869721257
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	22	6		#FD913D	0.573484686309631
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	23	6	language|semantic	#FD913D	0.513304420130872
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	1	7	dopamine|dopaminergic	#FD913D	0.576541227885573
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	2	7		#F03623	0.775757072446226
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	3	7		#D7141E	0.852084352202995
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	4	7		#D7141E	0.837049327327653
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	5	7		#F03623	0.784249169705229
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	6	7		#F03623	0.757779172346015
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	7	7		#F03623	0.725686231152994
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	8	7		#FC622F	0.629429302551792
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	9	7		#FD913D	0.575667037839722
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	10	7		#FC622F	0.6313509144309
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	11	7		#FC622F	0.632701391524632
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	12	7		#FC622F	0.660727843651557
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	13	7	linguistic|spoken	#FD913D	0.539280450162056
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	14	7		#FD913D	0.567989154105162
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	15	7	comprehension|sentence|sentences|syntactic	#FD913D	0.535035525273002
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	16	7		#FD913D	0.515013096986292
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	17	7		#FDAD4A	0.488998671123191
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	18	7	phonological|reading|read	#FDAD4A	0.443656328581923
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	19	7		#FD913D	0.54045309847279
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	20	7	perceptual|recognition	#FD913D	0.522898792587152
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	21	7		#FC622F	0.618988980234463
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	22	7		#FD913D	0.59865972118343
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	23	7	verb	#FD913D	0.594623488872022
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	1	8	outcome|reward	#F03623	0.730710043994432
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	2	8	anticipation	#F03623	0.732753203420832
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	3	8	outcomes	#F03623	0.700631574617266
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	4	8	choice|choices	#FD913D	0.570335379842839
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	5	8	decisions|probability	#FD913D	0.580485323699263
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	6	8	reversal	#FDAD4A	0.450120807628668
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	7	8	classification|incorrect	#FD913D	0.528204316551391
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	8	8		#FD913D	0.567565481097488
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	9	8	agerelated|fluency|probes	#FDAD4A	0.457466909788561
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	10	8	engaged	#FD913D	0.583940473815603
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	11	8	explicit|knowledge	#FD913D	0.500190151179421
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	12	8		#FD913D	0.549357056730368
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	13	8		#FD913D	0.510807369660263
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	14	8		#FD913D	0.506465974161906
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	15	8		#FDAD4A	0.490568897711263
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	16	8		#FDAD4A	0.471127662004722
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	17	8	lexical	#FEE188	0.27650717697357
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	18	8		#FDAD4A	0.440824108286479
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	19	8		#FD913D	0.505163737939295
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	20	8		#FD913D	0.5534710712461
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	21	8	encoding	#FD913D	0.54996708829775
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	22	8	retrieval	#FC622F	0.638564888353431
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	23	8	verbal	#FC622F	0.669730638505806
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	1	9	incentive|monetary|money|rewards	#FC622F	0.640958603156117
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	2	9	loss	#F03623	0.796191047448925
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	3	9		#F03623	0.726278194802066
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	4	9		#FC622F	0.677902310647743
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	5	9	decisionmaking	#FC622F	0.638521041786373
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	6	9		#FC622F	0.608604273099438
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	7	9		#FD913D	0.567495414001202
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	8	9		#FD913D	0.539428064770745
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	9	9		#FD913D	0.535008584095801
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	10	9		#FD913D	0.530991231477748
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	11	9		#FD913D	0.513136592690891
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	12	9		#FDAD4A	0.465042251877624
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	13	9	noun	#FEE188	0.265399139066225
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	14	9	meaning	#FDAD4A	0.400130268503009
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	15	9	english	#FECB68	0.344287036630669
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	16	9	pseudoword|pseudowords	#FDAD4A	0.399922740711273
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	17	9		#FDAD4A	0.409569130857229
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	18	9		#FDAD4A	0.440078118093273
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	19	9	familiar|judgment	#FDAD4A	0.445227941103711
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	20	9	pair|pairs	#FD913D	0.509335850906052
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	21	9		#FC622F	0.656579394962308
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	22	9		#F03623	0.733028754886273
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	23	9	letter|working	#F03623	0.784137026706108
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	1	10	losses|reinforcement|win	#F03623	0.770425957079659
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	2	10	gain	#F03623	0.712214888306084
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	3	10	expectation	#FC622F	0.659151075260578
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	4	10	risk	#FDAD4A	0.495242201162493
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	5	10	fact	#FC622F	0.609185522747645
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	6	10	associative	#FD913D	0.505772690583723
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	7	10	familiarity|judgments|old	#FDAD4A	0.424602592078688
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	8	10	contextual|text	#FECB68	0.321158939551413
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	9	10	recall|retrieved	#FEE188	0.265239540436615
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	10	10	conceptual|semantically	#FD913D	0.518283525016354
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	11	10	grammatical|speakers	#FECB68	0.34592180012484
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	12	10	nouns	#FEE188	0.289400116339027
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	13	10	japanese	#FECB68	0.307809598042641
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	14	10	languages	#FFF1A9	0.187808202639288
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	15	10	written	#FEE188	0.203461351127525
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	16	10	chinese|phonology	#FEE188	0.273434713347867
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	17	10	orthographic	#FECB68	0.343277737855728
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	18	10		#FD913D	0.500986178131579
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	19	10		#FD913D	0.547881131187824
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	20	10	association|decision	#FC622F	0.607059233933095
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	21	10	selection	#FD913D	0.598912217093634
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	22	10	letters	#FC622F	0.637753400888318
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	23	10	demand|load	#D7141E	0.818482289558312
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	1	11	conditioned|conditioning	#FECB68	0.322772778474886
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	2	11		#FC622F	0.605913855537852
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	3	11	drug|placebo	#FDAD4A	0.484803928284028
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	4	11		#FD913D	0.548780600900431
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	5	11	associations	#FECB68	0.379728892271205
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	6	11		#FDAD4A	0.418136427248414
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	7	11	episodic|recollection	#FDAD4A	0.49032863046097
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	8	11		#FECB68	0.397436194380855
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	9	11		#FC622F	0.609477732270352
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	10	11	concepts	#FDAD4A	0.426393975795761
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	11	11		#FD913D	0.508875863734515
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	12	11		#FDAD4A	0.406054757948186
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	13	11	german	#FDAD4A	0.465266168572919
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	14	11	readers	#FDAD4A	0.427066604243106
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	15	11	character|name|naming	#FFF1A9	0.195079012463033
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	16	11		#FDAD4A	0.404040485893076
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	17	11	novel	#FD913D	0.516331971805247
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	18	11		#FD913D	0.514531336819024
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	19	11	child|children	#FD913D	0.553659360591899
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	20	11	adults	#FC622F	0.609645001227506
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	21	11	ability|feedback|learning	#FC622F	0.691402628948576
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	22	11	cues|delay	#D7141E	0.843897435361775
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	23	11	attentional|difficulty|targets	#D7141E	0.895408515961397
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	1	12	aversive|shock	#FECB68	0.315113515672584
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	2	12	reactivity	#FECB68	0.343072611456946
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	3	12	males|sex|women	#FDAD4A	0.411461894579959
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	4	12	animal	#FEE188	0.262943384612126
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	5	12	animals	#FFFFCC	0.0771341959884363
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	6	12		#FEE188	0.272060895214948
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	7	12	remember|subsequent	#FEE188	0.245447092312039
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	8	12	autobiographical|memories	#FFF1A9	0.142535662604821
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	9	12		#FC622F	0.623019808713099
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	10	12	violation|violations	#FDAD4A	0.478812793940963
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	11	12	aphasia	#FC622F	0.685169488850961
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	12	12	nonwords	#FECB68	0.302372104817568
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	13	12	dyslexia	#FECB68	0.335487196277095
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	14	12		#FDAD4A	0.452676615032972
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	15	12	priming	#FECB68	0.323127995302106
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	16	12		#FDAD4A	0.483325764432892
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	17	12	category|repetition	#FDAD4A	0.450415698217398
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	18	12		#FD913D	0.523860130685982
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	19	12	developmental|development	#FDAD4A	0.401729953081704
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	20	12		#FC622F	0.662546845449893
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	21	12	space	#F03623	0.735205162851817
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	22	12		#F03623	0.797123751096792
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	23	12	color	#FC622F	0.636687213047858
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	1	13	threat	#FFF1A9	0.142061980672903
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	2	13	regulation	#FDAD4A	0.496481445697873
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	3	13		#FECB68	0.35697557843144
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	4	13	masked	#FFF1A9	0.101280082238271
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	5	13	scene|scenes	#FFF1A9	0.124462251914161
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	6	13		#FEE188	0.204604552429087
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	7	13	confidence|remembered	#FFF1A9	0.132448970192926
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	8	13		#FECB68	0.33319176692222
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	9	13		#FC622F	0.639916452284683
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	10	13	ambiguity|ambiguous	#FEE188	0.243176979307369
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	11	13		#FC622F	0.62745706676453
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	12	13		#FDAD4A	0.443483423349769
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	13	13	writing	#FFF1A9	0.140764639090771
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	14	13		#FDAD4A	0.479777898712076
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	15	13	categorization|congruency|prime	#FC622F	0.609220768212826
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	16	13		#FD913D	0.55341007764303
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	17	13	mask	#FDAD4A	0.426347193248627
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	18	13		#FD913D	0.561202521461387
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	19	13		#FD913D	0.594681052396536
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	20	13		#FC622F	0.639359946023786
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	21	13	conflict|congruent|incongruent	#FC622F	0.682054675186051
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	22	13	errors	#FC622F	0.647269802739494
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	23	13	maintenance|probe|wm	#F03623	0.724115386190837
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	1	14	angry|fearful|happy	#FFFFCC	0.0173605309871519
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	2	14		#FFF1A9	0.195127450177127
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	3	14	awareness|conscious|ptsd	#FEE188	0.294104690260189
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	4	14		#FECB68	0.339941909651578
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	5	14	houses|photographs	#FFFFCC	0
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	6	14		#FEE188	0.2689505081911
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	7	14	hits	#FFF1A9	0.128170139787162
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	8	14	famous	#FFF1A9	0.157430111649175
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	9	14	names	#FECB68	0.343943802326316
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	10	14	family	#FDAD4A	0.452901440435867
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	11	14	competition|mouth	#FD913D	0.589009414954017
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	12	14	abilities	#FEE188	0.278938681653798
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	13	14	implicit|unfamiliar	#FEE188	0.287088381999312
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	14	14		#FDAD4A	0.474084817574018
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	15	14	tom	#FD913D	0.554869375564401
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	16	14		#FD913D	0.592169416391054
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	17	14		#FC622F	0.61349201413683
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	18	14	stop	#FD913D	0.574925140163275
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	19	14	inhibition|inhibitory|nogo	#FD913D	0.542872989132097
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	20	14	monitoring|stroop	#FD913D	0.516715704191076
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	21	14	interference	#FD913D	0.524053265415412
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	22	14		#F03623	0.753410222175897
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	23	14	demands|executive	#F03623	0.702883399033727
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	1	15	anger	#FFFFCC	0.085106474047166
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	2	15	stress	#FFF1A9	0.156990785665373
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	3	15	feelings	#FDAD4A	0.432006502496102
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	4	15	salient	#FECB68	0.329034042997877
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	5	15	novelty	#FD913D	0.512568375957786
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	6	15	movie	#FDAD4A	0.478665507907697
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	7	15		#FDAD4A	0.403687957973376
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	8	15		#FD913D	0.513338312191239
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	9	15	longterm	#FDAD4A	0.497786160527313
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	10	15		#F03623	0.729187611886403
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	11	15	reasoning|relational	#D7141E	0.800729241736758
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	12	15		#FD913D	0.542612622394015
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	13	15	presentations	#FECB68	0.392606726296315
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	14	15		#FDAD4A	0.449825378577169
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	15	15	identity	#FECB68	0.368318561523886
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	16	15		#FC622F	0.612229663598572
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	17	15	strategies|strategy	#FD913D	0.599886392180117
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	18	15	card|cards	#FD913D	0.555965599983369
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	19	15	gonogo	#FD913D	0.534042195412466
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	20	15		#FC622F	0.696597671942159
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	21	15	switching|switch	#F03623	0.768370189732466
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	22	15		#F03623	0.761956557211731
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	23	15	2back|rule	#D7141E	0.874757780704507
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	1	16	emotionally|mood|personality|sadness	#FEE188	0.243578953834336
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	2	16	disgust|sexual	#FFF1A9	0.144971916901228
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	3	16	olfactory	#FEE188	0.207869913600669
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	4	16	physiological	#FEE188	0.265826435254339
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	5	16	depressed|depressive|habituation	#FEE188	0.298304240832928
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	6	16	schizophrenic	#FEE188	0.23002549555054
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	7	16	colors|contexts	#FD913D	0.52628993840782
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	8	16	aging|encoded	#FECB68	0.384964187673351
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	9	16	goal	#FC622F	0.685819072241484
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	10	16		#F03623	0.745584256260829
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	11	16	autism|autistic|nonverbal	#FD913D	0.55787859780268
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	12	16		#FC622F	0.649054574028547
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	13	16	bottomup|repetitions	#FEE188	0.236281705068439
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	14	16	adaptation	#FC622F	0.658106979055987
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	15	16	irrelevant	#FC622F	0.609964000420234
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	16	16	distractor|distractors	#FD913D	0.516764472105101
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	17	16		#FC622F	0.643821658449231
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	18	16	subtraction	#FECB68	0.378763312874195
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	19	16	1back|nback	#F03623	0.793498487799761
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	20	16	manipulation|rules	#F03623	0.755193668028831
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	21	16		#F03623	0.784190239149291
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	22	16		#F03623	0.759566100756319
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	23	16	digit	#F03623	0.711805996311541
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	1	17	avoidance	#FEE188	0.285410844366097
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	2	17		#FDAD4A	0.43293388846842
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	3	17	eating|food	#FECB68	0.330122273471689
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	4	17	taste	#FDAD4A	0.428657043434126
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	5	17	bipolar	#FFF1A9	0.101379553021151
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	6	17	illness|uncertainty	#FECB68	0.399286795939165
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	7	17	females|probabilistic	#FECB68	0.335507552780221
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	8	17	rejection	#FFFFCC	0.0642828879109884
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	9	17	colour|paired	#FD913D	0.593835332675089
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	10	17		#F03623	0.727483559430719
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	11	17		#F03623	0.721001247358284
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	12	17		#FC622F	0.666420712316831
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	13	17	taskirrelevant	#FD913D	0.563157208720379
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	14	17		#FC622F	0.609236415947052
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	15	17	suppression	#FDAD4A	0.417352873870129
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	16	17		#FC622F	0.689784950789077
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	17	17	shifting|shortterm	#FD913D	0.597621004914261
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	18	17	digits	#FDAD4A	0.489764001926462
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	19	17	search	#FC622F	0.666835174014325
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	20	17	counting|taskrelated	#FD913D	0.56571457044469
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	21	17	topdown	#FC622F	0.648193196614452
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	22	17	visuospatial	#FC622F	0.666364905482525
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	23	17	arithmetic|calculation|solving	#FD913D	0.549960682423143
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	1	18	addiction|craving|drugs	#FD913D	0.584655610646626
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	2	18	allele|genotype|polymorphism	#FFF1A9	0.195448214543727
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	3	18	motivation	#FDAD4A	0.496191162712534
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	4	18	heart	#FD913D	0.512053431058645
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	5	18	sleep	#FECB68	0.382456838829555
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	6	18	expectancy	#FD913D	0.508287583154663
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	7	18	phasic|salience	#FDAD4A	0.468462152753713
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	8	18	adolescence|adolescents	#FEE188	0.273046996473826
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	9	18	intelligence|tracking	#FD913D	0.560457845301087
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	10	18		#FC622F	0.682988944698094
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	11	18	serial	#FECB68	0.306883967100642
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	12	18		#F03623	0.703237926313779
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	13	18	spatially|taskrelevant	#FC622F	0.602861258917392
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	14	18		#F03623	0.704138277635772
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	15	18	attended|attend|unattended	#FDAD4A	0.453168758520607
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	16	18	rotation|shapes	#FDAD4A	0.439463956903463
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	17	18	rehearsal	#FC622F	0.629514053573065
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	18	18	learned	#F03623	0.741353910223486
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	19	18		#B10026	0.935984014017961
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	20	18	cued|preparatory	#D7141E	0.877207155718398
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	21	18		#B10026	0.91120682636492
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	22	18		#F03623	0.752810936259136
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	23	18	numbers|numerical	#FC622F	0.606817392909099
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	1	19	future	#FECB68	0.323291924787314
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	2	19	negatively	#FDAD4A	0.468309872574073
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	3	19	distress|epilepsy|selfreported	#FEE188	0.277112636932921
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	4	19	anticipatory|cocaine|probabilities|smoking	#FECB68	0.345425011204056
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	5	19	alcohol|amount|impulsivity	#F03623	0.744663997799852
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	6	19	game|success	#FD913D	0.55338282123165
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	7	19	adhd|childhood|engagement	#FDAD4A	0.482735574656715
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	8	19		#FC622F	0.62901302417008
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	9	19		#F03623	0.704205873336427
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	10	19		#FC622F	0.682372966597404
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	11	19		#FC622F	0.68598931556694
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	12	19	endogenous	#FC622F	0.669040793690046
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	13	19	cueing|invalid|orienting	#FC622F	0.64384318323786
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	14	19		#F03623	0.767493841139863
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	15	19	multisensory	#D7141E	0.835869366208797
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	16	19		#F03623	0.792445822098609
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	17	19	shifts	#D7141E	0.87815272313001
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	18	19	covert	#FC622F	0.602538708349794
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	19	19		#B10026	1
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	20	19	preparation	#B10026	0.96554985536285
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	21	19	discrimination|training	#F03623	0.723378340547944
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	22	19	sequences	#F03623	0.711040936363917
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	23	19		#D7141E	0.872295813747604
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	1	20	personal|self|selfreferential|trait|traits	#FDAD4A	0.425558007696322
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	2	20	empathic|theory	#FDAD4A	0.464680527383665
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	3	20	attribution|intentional	#FFF1A9	0.114615266296806
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	4	20	elderly|oscillations	#FECB68	0.395359514752209
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	5	20	antipsychotic|virtual	#FECB68	0.376432363547207
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	6	20		#F03623	0.77435020343885
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	7	20	experiences	#FD913D	0.566845997585287
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	8	20	categorical|pressure	#FDAD4A	0.445125565318372
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	9	20	play|skills	#FDAD4A	0.460663406901958
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	10	20	automatic|trained	#FD913D	0.559310786425271
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	11	20		#F03623	0.759782318820899
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	12	20	practice	#FD913D	0.596121607919896
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	13	20	visuomotor	#F03623	0.790195162846741
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	14	20		#B10026	0.917961802556411
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	15	20	tool	#FC622F	0.672273743552513
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	16	20	vision	#FC622F	0.680813122044267
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	17	20	visually	#D7141E	0.871619835805547
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	18	20	saccade|saccades|saccadic	#B10026	0.96780502055822
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	19	20	locations	#D7141E	0.840071736519269
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	20	20	imagery|planning	#D7141E	0.890931880593144
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	21	20		#B10026	0.913500715104451
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	22	20	rest	#F03623	0.745037534741533
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	23	20	sequence	#D7141E	0.885269182353126
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	1	21	scenarios	#FECB68	0.387792629315149
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	2	21	intention|intentions	#FD913D	0.524912189123446
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	3	21	causality|perspective	#FDAD4A	0.477947282998767
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	4	21	past	#FFF1A9	0.195103118553173
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	5	21		#FC622F	0.673571096189102
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	6	21	episode	#FEE188	0.280951850307078
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	7	21	improvement	#FD913D	0.566393520626333
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	8	21	masking|retention	#FDAD4A	0.446953420915374
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	9	21		#F03623	0.742494398098909
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	10	21	dominant	#FECB68	0.389791419442416
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	11	21		#F03623	0.727789140260338
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	12	21	sequential	#FC622F	0.691455776724403
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	13	21	fingers	#FC622F	0.628327923865974
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	14	21		#F03623	0.789281138910047
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	15	21	gesture|gestures	#FD913D	0.588374284314433
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	16	21		#F03623	0.755109329388637
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	17	21	hands	#FC622F	0.691854719002993
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	18	21		#D7141E	0.86867606217161
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	19	21		#D7141E	0.88252475824654
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	20	21	eye|position	#B10026	0.944712752459453
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	21	21	execution	#F03623	0.731165515531085
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	22	21	finger|sensorimotor	#FC622F	0.698297237971419
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	23	21		#D7141E	0.823036221776207
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	1	22	moral|stories|story	#FD913D	0.560606109053692
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	2	22	mentalizing|persons	#FDAD4A	0.46029251263018
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	3	22	default|restingstate	#FECB68	0.343376891122421
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	4	22	thinking|thought|thoughts	#FECB68	0.391935920085888
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	5	22	spontaneous	#FD913D	0.556945014608761
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	6	22	concentration|sensations	#FD913D	0.503840596987178
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	7	22	hierarchical|preference	#FC622F	0.630856165273134
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	8	22	effort|oral|simulation	#FEE188	0.220961669509456
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	9	22	interhemispheric|plasticity	#F03623	0.706009402329193
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	10	22	imagined|imagine	#FD913D	0.526667046548297
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	11	22	tapping	#FC622F	0.661475080271773
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	12	22	foot|muscle|muscles|voluntary	#FDAD4A	0.42637658716925
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	13	22	limb	#FC622F	0.699031941720715
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	14	22	eyes|velocity	#FC622F	0.676730931859199
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	15	22	biological|gaze|videos	#FECB68	0.391829186393423
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	16	22	body	#FDAD4A	0.455880312596544
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	17	22	grasping|orientation|reaching	#FD913D	0.599208510641921
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	18	22		#F03623	0.791644131708176
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	19	22	mirror|shape	#FC622F	0.615384098840072
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	20	22	actions	#FC622F	0.673712593897905
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	21	22	action	#F03623	0.777717687906861
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	22	22		#D7141E	0.829653779822129
+b8dad708-82ec-3d55-ae8d-e4ac3fc8c0b9	Johnson-Laird PN	23	22	hand|movements|sensory	#F03623	0.788708620326496

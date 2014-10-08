@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	1	1	auditory|speech	#FFFFCC	0.0320405100380214
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	2	1		#FFFFCC	0.038213328916333
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	3	1	da|integration	#FFF1A9	0.1453341250266
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	4	1		#FFFFCC	0.0529051103477161
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	5	1	physical|psychophysical|tactile	#FFFFCC	0.0498454745278715
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	6	1		#FFF1A9	0.100755114711773
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	7	1	somatosensory|stimulation	#FFF1A9	0.118409582260377
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	8	1	painful|pain	#FFF1A9	0.188902370714224
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	9	1		#FEE188	0.214330545660488
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	10	1	ratings	#FECB68	0.397951182774576
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	11	1	affective|affect	#FEE188	0.293548818248812
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	12	1	emotions	#FEE188	0.215595531358171
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	13	1	expression|expressions|facial	#FFF1A9	0.166655772167557
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	14	1		#FEE188	0.205280953923668
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	15	1		#FEE188	0.235031605067854
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	16	1	emotion|motion|neutral	#FEE188	0.257512412237271
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	17	1	rating	#FECB68	0.333083284321335
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	18	1	negative|positive	#FECB68	0.318979448069381
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	19	1		#FEE188	0.21382089965513
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	20	1	ear|order	#FFF1A9	0.148891265957544
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	21	1	motor	#FFFFCC	0.0544588182833914
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	22	1	visual	#FFFFCC	0.0511552360760319
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	23	1	age|image|response	#FFF1A9	0.118554666625062
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	1	2	sound|sounds	#FFFFCC	0.0366919942245456
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	2	2		#FFFFCC	0.038626600303282
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	3	2	audiovisual|bimodal|crossmodal	#FFFFCC	0.0320781781777736
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	4	2		#FFFFCC	0.0557040209641357
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	5	2		#FFFFCC	0.0691068670321728
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	6	2		#FFF1A9	0.102656702721982
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	7	2	sensation	#FFF1A9	0.135909310267777
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	8	2	heat|noxious	#FFFFCC	0.0712366379891774
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	9	2		#FEE188	0.235484898613435
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	10	2		#FECB68	0.305247313672401
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	11	2		#FECB68	0.301499920863069
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	12	2	valence	#FEE188	0.286946908093817
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	13	2	person|social	#FFF1A9	0.102272978661622
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	14	2		#FEE188	0.207684368573188
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	15	2	face|faces	#FFF1A9	0.127051539557109
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	16	2		#FEE188	0.235877142035819
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	17	2		#FEE188	0.263353694166417
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	18	2		#FEE188	0.252668650688992
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	19	2		#FEE188	0.202973643395384
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	20	2		#FFF1A9	0.124520819717266
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	21	2	images|spatial	#FFFFCC	0.0967907622329138
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	22	2	control	#FFFFCC	0.0810877606259708
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	23	2	time	#FFF1A9	0.111968666415295
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	1	3	acoustic|listening|musical|music|pitch	#FFFFCC	0.0440333020059779
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	2	3	noise|tones	#FFFFCC	0.0535730744126853
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	3	3		#FFFFCC	0.0455598328504845
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	4	3		#FFFFCC	0.0537043019443276
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	5	3	frequency	#FFFFCC	0.079856810835832
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	6	3		#FFFFCC	0.096713584306711
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	7	3		#FFF1A9	0.130919812468538
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	8	3	temperature	#FFF1A9	0.156294111051269
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	9	3		#FFF1A9	0.193708012091047
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	10	3	pleasant|unpleasant	#FECB68	0.301209341653307
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	11	3	anxiety	#FFF1A9	0.194213748468974
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	12	3		#FEE188	0.244104059224795
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	13	3		#FEE188	0.257419044700881
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	14	3		#FEE188	0.237810909147756
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	15	3		#FEE188	0.214199042545244
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	16	3	picture	#FFF1A9	0.136395768946063
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	17	3		#FEE188	0.204911891680112
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	18	3	value	#FEE188	0.205981719404932
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	19	3	cue	#FEE188	0.207701006503815
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	20	3	error|target	#FFF1A9	0.110119619802137
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	21	3	attention	#FFFFCC	0.0403258270267102
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	22	3		#FFFFCC	0.0685109563164883
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	23	3	number	#FFFFCC	0.0801209869632041
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	1	4	voice	#FFFFCC	0.0323617028790177
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	2	4		#FFFFCC	0.041295214705931
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	3	4	hearing	#FFFFCC	0.0327858699717786
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	4	4		#FFFFCC	0.0508813035068622
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	5	4	overt	#FFFFCC	0.0372422801636613
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	6	4		#FFFFCC	0.0809452513184372
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	7	4		#FFF1A9	0.146766975117608
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	8	4	nociceptive|nonpainful|painrelated	#FFFFCC	0.0707829218201805
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	9	4	unpleasantness	#FDAD4A	0.403808077980486
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	10	4	skin|subjective	#FEE188	0.212964334601263
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	11	4	depression	#FEE188	0.223071008607063
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	12	4	experience	#FFF1A9	0.192465602232867
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	13	4	female	#FECB68	0.389536643625433
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	14	4	male	#FEE188	0.277660868996698
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	15	4	pictures	#FFF1A9	0.138499560571448
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	16	4		#FFF1A9	0.136186134992468
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	17	4	perception	#FFFFCC	0.0722489535472163
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	18	4		#FFF1A9	0.116347258929365
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	19	4		#FFF1A9	0.109269361207604
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	20	4		#FFFFCC	0.092787340731953
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	21	4	correct	#FFFFCC	0.0699827053753651
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	22	4	work	#FFFFCC	0.0488895383744358
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	23	4	memory	#FFFFCC	0.0443410193690211
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	1	5	prosodic|prosody	#FFFFCC	0.0457303480079844
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	2	5	phonetic	#FFFFCC	0.0488457533031878
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	3	5	syllable|syllables	#FFFFCC	0.0372455641671454
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	4	5		#FFFFCC	0.0623533758535424
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	5	5	lip|production	#FFFFCC	0.0306832836299844
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	6	5	somatotopic	#FFF1A9	0.173686031345706
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	7	5		#FFF1A9	0.130828408963243
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	8	5		#FFF1A9	0.122651829572166
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	9	5	empathy	#FFF1A9	0.143977657034942
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	10	5		#FFF1A9	0.164508907717194
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	11	5	disorder	#FFF1A9	0.141445026893917
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	12	5		#FFF1A9	0.196263470295277
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	13	5		#FEE188	0.213021080118201
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	14	5		#FFF1A9	0.157264163078417
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	15	5		#FFF1A9	0.144295272303566
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	16	5		#FFFFCC	0.0917380951060381
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	17	5		#FFFFCC	0.0659448775152938
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	18	5	mental	#FFFFCC	0.0406167148602514
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	19	5	go	#FFFFCC	0.0809904537373281
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	20	5	object	#FFFFCC	0.0305564070801018
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	21	5		#FFFFCC	0.0569396939634509
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	22	5		#FFFFCC	0.0386176818165446
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	23	5	word|words	#FFFFCC	0
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	1	6		#FDAD4A	0.470093835589409
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	2	6		#FDAD4A	0.40641014369378
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	3	6		#FECB68	0.314176327904228
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	4	6	vocal	#FFFFCC	0.0589880164654449
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	5	6	articulatory	#FFFFCC	0.0563236165170929
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	6	6		#FFF1A9	0.12462297876226
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	7	6	oddball	#FFFFCC	0.0696187792504301
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	8	6	perceived	#FFFFCC	0.0815414696383978
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	9	6	errorrelated	#FFFFCC	0.0807942904128379
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	10	6	approach	#FEE188	0.252626993436534
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	11	6	schizophrenia	#FFF1A9	0.101889493049096
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	12	6	acquisition	#FFF1A9	0.102262262711371
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	13	6		#FFF1A9	0.109709133508439
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	14	6		#FFFFCC	0.0597883574827564
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	15	6		#FFFFCC	0.0576301567440345
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	16	6		#FFFFCC	0.0569030397253747
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	17	6		#FFFFCC	0.0423029417433678
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	18	6		#FFFFCC	0.0407606820465375
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	19	6		#FFFFCC	0.0474372362782456
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	20	6	objects	#FFFFCC	0.0475201592863848
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	21	6		#FFFFCC	0.0434413059601189
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	22	6		#FFFFCC	0.0276978587311323
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	23	6	language|semantic	#FFFFCC	0.0173673691798931
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	1	7	dopamine|dopaminergic	#F03623	0.711311636184195
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	2	7		#F03623	0.76774454920393
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	3	7		#FD913D	0.532555105067517
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	4	7		#FECB68	0.391888880482609
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	5	7		#FECB68	0.31085156600638
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	6	7		#FFF1A9	0.175575531206704
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	7	7		#FFF1A9	0.115505106139785
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	8	7		#FFF1A9	0.0995468592302647
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	9	7		#FFF1A9	0.122100562629146
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	10	7		#FFFFCC	0.0857276109581818
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	11	7		#FFFFCC	0.0929688547622449
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	12	7		#FFFFCC	0.0630170454605829
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	13	7	linguistic|spoken	#FFFFCC	0.0306685822808487
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	14	7		#FFFFCC	0.034822265157154
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	15	7	comprehension|sentence|sentences|syntactic	#FFFFCC	0.0274360266725861
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	16	7		#FFFFCC	0.0308022735379836
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	17	7		#FFFFCC	0.0336859405415257
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	18	7	phonological|reading|read	#FFFFCC	0.0310809029747643
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	19	7		#FFFFCC	0.0473757570585644
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	20	7	perceptual|recognition	#FFFFCC	0.0583666510307379
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	21	7		#FFFFCC	0.0493543603524382
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	22	7		#FFFFCC	0.0361951451241219
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	23	7	verb	#FFFFCC	0.0356529956584091
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	1	8	outcome|reward	#F03623	0.781748940196392
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	2	8	anticipation	#F03623	0.736724304365242
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	3	8	outcomes	#FC622F	0.690698967813977
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	4	8	choice|choices	#FDAD4A	0.46402792036888
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	5	8	decisions|probability	#FECB68	0.394896550917261
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	6	8	reversal	#FEE188	0.216900493631999
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	7	8	classification|incorrect	#FFF1A9	0.118750736447279
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	8	8		#FFF1A9	0.116930315328888
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	9	8	agerelated|fluency|probes	#FFFFCC	0.0689194432819778
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	10	8	engaged	#FFFFCC	0.036171340447869
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	11	8	explicit|knowledge	#FFFFCC	0.0322305304368496
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	12	8		#FFFFCC	0.0410342135128221
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	13	8		#FFFFCC	0.0382091671975682
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	14	8		#FFFFCC	0.0343029296804867
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	15	8		#FFFFCC	0.0338207652980633
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	16	8		#FFFFCC	0.0341166431051922
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	17	8	lexical	#FFFFCC	0.0299401959772967
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	18	8		#FFFFCC	0.0412347802885586
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	19	8		#FFFFCC	0.0476315500570291
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	20	8		#FFFFCC	0.058159582542457
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	21	8	encoding	#FFFFCC	0.0648962908705428
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	22	8	retrieval	#FFFFCC	0.0609590922198916
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	23	8	verbal	#FFFFCC	0.0453703250789082
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	1	9	incentive|monetary|money|rewards	#D7141E	0.874183835508653
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	2	9	loss	#F03623	0.737114885889314
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	3	9		#FC622F	0.611386923448792
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	4	9		#FDAD4A	0.499955627064422
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	5	9	decisionmaking	#FEE188	0.204820559874441
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	6	9		#FFF1A9	0.190376862692311
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	7	9		#FFF1A9	0.117294185911882
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	8	9		#FFF1A9	0.10101174205292
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	9	9		#FFFFCC	0.087593045845057
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	10	9		#FFFFCC	0.0561957888676576
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	11	9		#FFFFCC	0.0357581135118806
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	12	9		#FFFFCC	0.034229154625234
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	13	9	noun	#FFFFCC	0.0288080350150982
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	14	9	meaning	#FFFFCC	0.0372402717738099
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	15	9	english	#FFFFCC	0.0468814752749339
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	16	9	pseudoword|pseudowords	#FFFFCC	0.027683583100637
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	17	9		#FFFFCC	0.0386869314080821
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	18	9		#FFFFCC	0.0544427222427514
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	19	9	familiar|judgment	#FFFFCC	0.0543155928555386
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	20	9	pair|pairs	#FFFFCC	0.0865669430357082
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	21	9		#FFFFCC	0.0870980187432679
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	22	9		#FFFFCC	0.069391817070801
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	23	9	letter|working	#FFFFCC	0.0516102690914214
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	1	10	losses|reinforcement|win	#F03623	0.733150342665706
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	2	10	gain	#FC622F	0.622795668370689
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	3	10	expectation	#FC622F	0.652524070129627
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	4	10	risk	#FDAD4A	0.414392854316271
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	5	10	fact	#FECB68	0.308103128444844
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	6	10	associative	#FFFFCC	0.0934548187789536
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	7	10	familiarity|judgments|old	#FFFFCC	0.0768295088713335
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	8	10	contextual|text	#FFFFCC	0.0832982706262124
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	9	10	recall|retrieved	#FFF1A9	0.131848805830149
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	10	10	conceptual|semantically	#FFFFCC	0.0307791966057601
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	11	10	grammatical|speakers	#FFFFCC	0.0287571054914428
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	12	10	nouns	#FFFFCC	0.0297053933617965
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	13	10	japanese	#FFFFCC	0.0581112576846272
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	14	10	languages	#FFFFCC	0.0326075340651644
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	15	10	written	#FFFFCC	0.049980604991081
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	16	10	chinese|phonology	#FFFFCC	0.0282200283331194
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	17	10	orthographic	#FFFFCC	0.0361582021468028
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	18	10		#FFFFCC	0.0647979691208065
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	19	10		#FFFFCC	0.0795766806212662
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	20	10	association|decision	#FFF1A9	0.172648002861981
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	21	10	selection	#FFFFCC	0.0938335958783331
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	22	10	letters	#FFFFCC	0.0707534295793327
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	23	10	demand|load	#FFFFCC	0.054202374028156
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	1	11	conditioned|conditioning	#FC622F	0.619113927906005
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	2	11		#FD913D	0.579824649404448
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	3	11	drug|placebo	#FECB68	0.35769405023165
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	4	11		#FECB68	0.369878010029882
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	5	11	associations	#FFF1A9	0.183169103252362
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	6	11		#FFF1A9	0.108598257096115
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	7	11	episodic|recollection	#FFFFCC	0.0838153242600383
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	8	11		#FFFFCC	0.0991545498521823
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	9	11		#FFF1A9	0.110284422746012
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	10	11	concepts	#FFFFCC	0.0361469150967457
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	11	11		#FFFFCC	0.0463838922128939
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	12	11		#FFFFCC	0.0406509115313306
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	13	11	german	#FFFFCC	0.0440584983479052
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	14	11	readers	#FFFFCC	0.031653922129734
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	15	11	character|name|naming	#FFFFCC	0.045633667285913
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	16	11		#FFFFCC	0.0502353842343409
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	17	11	novel	#FFFFCC	0.0650404489387655
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	18	11		#FFFFCC	0.0680753811452347
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	19	11	child|children	#FFFFCC	0.0604025658352652
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	20	11	adults	#FFF1A9	0.117737132058686
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	21	11	ability|feedback|learning	#FEE188	0.276834027955095
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	22	11	cues|delay	#FEE188	0.200880457950969
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	23	11	attentional|difficulty|targets	#FFFFCC	0.0552982138357253
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	1	12	aversive|shock	#FECB68	0.313369562305805
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	2	12	reactivity	#FDAD4A	0.429840861114975
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	3	12	males|sex|women	#FDAD4A	0.440821684726405
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	4	12	animal	#FEE188	0.280437152400101
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	5	12	animals	#FECB68	0.391818820192676
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	6	12		#FFF1A9	0.102208775820055
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	7	12	remember|subsequent	#FFFFCC	0.0712270357250236
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	8	12	autobiographical|memories	#FFFFCC	0.0651035300042313
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	9	12		#FFF1A9	0.108237579814736
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	10	12	violation|violations	#FFFFCC	0.05600191934263
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	11	12	aphasia	#FFFFCC	0.067682226706451
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	12	12	nonwords	#FFFFCC	0.0317054540578568
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	13	12	dyslexia	#FFFFCC	0.0596135738608551
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	14	12		#FFFFCC	0.0471131385051877
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	15	12	priming	#FFFFCC	0.0393761167139912
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	16	12		#FFFFCC	0.0650769730373792
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	17	12	category|repetition	#FFFFCC	0.0559927637385857
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	18	12		#FFFFCC	0.0748333787101474
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	19	12	developmental|development	#FFFFCC	0.0527401921218122
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	20	12		#FFF1A9	0.108184887350269
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	21	12	space	#FFF1A9	0.158612155869477
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	22	12		#FFFFCC	0.0965758355804296
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	23	12	color	#FFFFCC	0.059562331292652
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	1	13	threat	#FFF1A9	0.154860210996575
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	2	13	regulation	#FFFFCC	0.0869440632312105
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	3	13		#FEE188	0.254149916335503
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	4	13	masked	#FFF1A9	0.134113667725634
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	5	13	scene|scenes	#FFFFCC	0.036210869112309
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	6	13		#FFF1A9	0.0998403143712598
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	7	13	confidence|remembered	#FFF1A9	0.182886811444202
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	8	13		#FFF1A9	0.111412238324765
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	9	13		#FFF1A9	0.109642277221602
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	10	13	ambiguity|ambiguous	#FFFFCC	0.0436594043984707
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	11	13		#FFFFCC	0.0602674290549506
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	12	13		#FFFFCC	0.0453047667711758
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	13	13	writing	#FFFFCC	0.0304346949407416
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	14	13		#FFFFCC	0.0476408433418178
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	15	13	categorization|congruency|prime	#FFFFCC	0.0503702396894513
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	16	13		#FFFFCC	0.0676585898770522
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	17	13	mask	#FFFFCC	0.0958762968795476
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	18	13		#FFFFCC	0.0714867377190748
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	19	13		#FFFFCC	0.0679303268595696
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	20	13		#FFFFCC	0.0621539413337713
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	21	13	conflict|congruent|incongruent	#FFFFCC	0.0312004517483474
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	22	13	errors	#FFF1A9	0.134577012129372
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	23	13	maintenance|probe|wm	#FFFFCC	0.0477494534108707
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	1	14	angry|fearful|happy	#FFFFCC	0.078683238102393
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	2	14		#FFF1A9	0.108308899099796
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	3	14	awareness|conscious|ptsd	#FFFFCC	0.0931784877466977
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	4	14		#FFF1A9	0.115638156760654
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	5	14	houses|photographs	#FFFFCC	0.0374463968824258
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	6	14		#FFFFCC	0.0943673006357982
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	7	14	hits	#FFFFCC	0.0920171355534961
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	8	14	famous	#FFFFCC	0.0538182221567971
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	9	14	names	#FFFFCC	0.0345881359902924
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	10	14	family	#FFFFCC	0.0746365635831735
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	11	14	competition|mouth	#FFFFCC	0.0569691016086096
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	12	14	abilities	#FFFFCC	0.0477892128994882
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	13	14	implicit|unfamiliar	#FFFFCC	0.0415989156500751
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	14	14		#FFFFCC	0.0472013782263359
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	15	14	tom	#FFFFCC	0.0348182530203995
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	16	14		#FFFFCC	0.0655403882873663
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	17	14		#FFFFCC	0.0683556222332177
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	18	14	stop	#FFFFCC	0.0565920306544208
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	19	14	inhibition|inhibitory|nogo	#FFFFCC	0.0520650085873592
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	20	14	monitoring|stroop	#FFFFCC	0.0417788738847303
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	21	14	interference	#FFFFCC	0.0326599666132349
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	22	14		#FFFFCC	0.054838352242992
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	23	14	demands|executive	#FFFFCC	0.0418453195245799
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	1	15	anger	#FFF1A9	0.121369412011896
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	2	15	stress	#FFF1A9	0.161295275519444
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	3	15	feelings	#FFF1A9	0.102834789563629
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	4	15	salient	#FFFFCC	0.080403756748157
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	5	15	novelty	#FFFFCC	0.0627765779770387
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	6	15	movie	#FFFFCC	0.0432677606940074
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	7	15		#FFF1A9	0.119274884846967
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	8	15		#FFF1A9	0.10152933606777
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	9	15	longterm	#FFFFCC	0.067730290258967
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	10	15		#FFFFCC	0.0545782318483397
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	11	15	reasoning|relational	#FFFFCC	0.0282683063795075
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	12	15		#FFFFCC	0.0373209097168141
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	13	15	presentations	#FFFFCC	0.0305611336848462
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	14	15		#FFFFCC	0.0435595578809616
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	15	15	identity	#FFFFCC	0.0585238604754139
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	16	15		#FFFFCC	0.0524057355003077
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	17	15	strategies|strategy	#FFFFCC	0.0853557996383864
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	18	15	card|cards	#FFFFCC	0.0451754083871994
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	19	15	gonogo	#FFFFCC	0.0340552677673904
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	20	15		#FFFFCC	0.0416632845125086
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	21	15	switching|switch	#FFFFCC	0.0324310776189169
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	22	15		#FFFFCC	0.0506403418081235
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	23	15	2back|rule	#FFFFCC	0.0378905459083839
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	1	16	emotionally|mood|personality|sadness	#FECB68	0.325314254128166
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	2	16	disgust|sexual	#FC622F	0.683685270391448
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	3	16	olfactory	#FDAD4A	0.436727832943246
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	4	16	physiological	#FEE188	0.232825386828757
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	5	16	depressed|depressive|habituation	#FFFFCC	0.0904512714674996
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	6	16	schizophrenic	#FFFFCC	0.0796931512609386
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	7	16	colors|contexts	#FFF1A9	0.138495964817282
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	8	16	aging|encoded	#FFFFCC	0.0848866646758939
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	9	16	goal	#FFFFCC	0.0659783084974875
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	10	16		#FFFFCC	0.0557643817146217
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	11	16	autism|autistic|nonverbal	#FFFFCC	0.0273082761029247
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	12	16		#FFFFCC	0.0381174739815664
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	13	16	bottomup|repetitions	#FFFFCC	0.0282597998556106
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	14	16	adaptation	#FFFFCC	0.0404043544758444
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	15	16	irrelevant	#FFFFCC	0.0309893295763497
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	16	16	distractor|distractors	#FFFFCC	0.0308028462454205
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	17	16		#FFFFCC	0.0550171124631592
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	18	16	subtraction	#FFFFCC	0.0386904536526147
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	19	16	1back|nback	#FFFFCC	0.0457100663951518
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	20	16	manipulation|rules	#FFFFCC	0.0299656028381287
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	21	16		#FFFFCC	0.04382675106416
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	22	16		#FFFFCC	0.0436850221114538
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	23	16	digit	#FFFFCC	0.0419045293334737
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	1	17	avoidance	#F03623	0.741099636807621
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	2	17		#FC622F	0.652542692646784
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	3	17	eating|food	#B10026	1
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	4	17	taste	#FDAD4A	0.449310175556259
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	5	17	bipolar	#FEE188	0.284407958862168
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	6	17	illness|uncertainty	#FFF1A9	0.172222835738034
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	7	17	females|probabilistic	#FFF1A9	0.183420564315958
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	8	17	rejection	#FFF1A9	0.173303386032599
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	9	17	colour|paired	#FFFFCC	0.0323983493642372
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	10	17		#FFF1A9	0.109450261560325
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	11	17		#FFF1A9	0.108814306272231
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	12	17		#FFFFCC	0.0873010146649216
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	13	17	taskirrelevant	#FFFFCC	0.0309506604578184
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	14	17		#FFFFCC	0.0339166908066978
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	15	17	suppression	#FFFFCC	0.0460604048838702
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	16	17		#FFFFCC	0.0406505346171662
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	17	17	shifting|shortterm	#FFFFCC	0.0434205041418097
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	18	17	digits	#FFFFCC	0.07603398312296
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	19	17	search	#FFFFCC	0.087747897675926
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	20	17	counting|taskrelated	#FFFFCC	0.0375175630957974
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	21	17	topdown	#FFFFCC	0.0315920004082985
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	22	17	visuospatial	#FFFFCC	0.0323465747340241
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	23	17	arithmetic|calculation|solving	#FFFFCC	0.0546958309413977
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	1	18	addiction|craving|drugs	#FD913D	0.56656618387638
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	2	18	allele|genotype|polymorphism	#FEE188	0.265601325147252
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	3	18	motivation	#FC622F	0.615352953360678
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	4	18	heart	#FECB68	0.32019285594407
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	5	18	sleep	#FEE188	0.219679242879701
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	6	18	expectancy	#FECB68	0.321165490857118
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	7	18	phasic|salience	#FFFFCC	0.0742563751303882
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	8	18	adolescence|adolescents	#FFFFCC	0.0794364069593219
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	9	18	intelligence|tracking	#FFFFCC	0.0292837123611597
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	10	18		#FFF1A9	0.127174831142328
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	11	18	serial	#FEE188	0.289147954348193
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	12	18		#FFF1A9	0.0994522021363615
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	13	18	spatially|taskrelevant	#FFFFCC	0.0567925180611757
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	14	18		#FFFFCC	0.0362502264512865
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	15	18	attended|attend|unattended	#FFFFCC	0.026816906316585
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	16	18	rotation|shapes	#FFFFCC	0.039455859793004
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	17	18	rehearsal	#FFFFCC	0.0620880570515616
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	18	18	learned	#FEE188	0.203506677976385
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	19	18		#FFFFCC	0.0700140558188738
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	20	18	cued|preparatory	#FFFFCC	0.035491137679663
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	21	18		#FFFFCC	0.0465592144511643
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	22	18		#FFFFCC	0.0468333656323899
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	23	18	numbers|numerical	#FFFFCC	0.0541802283829623
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	1	19	future	#FEE188	0.204196283873379
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	2	19	negatively	#FFF1A9	0.176671425923537
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	3	19	distress|epilepsy|selfreported	#FECB68	0.361944924846037
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	4	19	anticipatory|cocaine|probabilities|smoking	#F03623	0.721300328332358
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	5	19	alcohol|amount|impulsivity	#FECB68	0.305899279690291
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	6	19	game|success	#FEE188	0.238831913149769
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	7	19	adhd|childhood|engagement	#FFF1A9	0.103343143982594
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	8	19		#FFF1A9	0.110519854293522
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	9	19		#FFFFCC	0.0592552436376289
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	10	19		#FFF1A9	0.114303023404121
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	11	19		#FFF1A9	0.116383784880696
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	12	19	endogenous	#FFFFCC	0.0644718793387491
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	13	19	cueing|invalid|orienting	#FFFFCC	0.0328762008943705
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	14	19		#FFFFCC	0.0358866587612067
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	15	19	multisensory	#FFFFCC	0.0292090641349459
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	16	19		#FFFFCC	0.0430447938416571
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	17	19	shifts	#FFFFCC	0.0643898122475965
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	18	19	covert	#FFFFCC	0.0380053066915938
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	19	19		#FFFFCC	0.0671823804355445
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	20	19	preparation	#FFFFCC	0.0360869098500531
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	21	19	discrimination|training	#FFFFCC	0.0357202116235017
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	22	19	sequences	#FFFFCC	0.0591323733626613
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	23	19		#FFFFCC	0.065725907238356
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	1	20	personal|self|selfreferential|trait|traits	#FFF1A9	0.13817663398213
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	2	20	empathic|theory	#FFF1A9	0.193722517425785
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	3	20	attribution|intentional	#FFFFCC	0.0503032390202992
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	4	20	elderly|oscillations	#FFF1A9	0.155186440414621
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	5	20	antipsychotic|virtual	#FFFFCC	0.0961286597636611
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	6	20		#FEE188	0.217210059144012
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	7	20	experiences	#FEE188	0.208883617274122
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	8	20	categorical|pressure	#FFFFCC	0.0322898272318256
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	9	20	play|skills	#FFFFCC	0.0350751652124976
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	10	20	automatic|trained	#FFFFCC	0.0334543210256032
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	11	20		#FFFFCC	0.0545143689249062
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	12	20	practice	#FFFFCC	0.0600582555167532
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	13	20	visuomotor	#FFFFCC	0.0351111836991339
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	14	20		#FFFFCC	0.0453041157731252
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	15	20	tool	#FFFFCC	0.033864194003734
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	16	20	vision	#FFFFCC	0.0356819299636158
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	17	20	visually	#FFFFCC	0.0662309900489424
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	18	20	saccade|saccades|saccadic	#FFFFCC	0.0594225654768404
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	19	20	locations	#FFFFCC	0.0668395922104423
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	20	20	imagery|planning	#FFFFCC	0.0535936139184674
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	21	20		#FFFFCC	0.0559102443266434
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	22	20	rest	#FFFFCC	0.0487384134441362
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	23	20	sequence	#FFFFCC	0.0693853680672521
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	1	21	scenarios	#FFFFCC	0.047017949920976
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	2	21	intention|intentions	#FFFFCC	0.0555317537028551
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	3	21	causality|perspective	#FFFFCC	0.0474968795093577
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	4	21	past	#FFFFCC	0.0572806738088906
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	5	21		#FFF1A9	0.162427510378603
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	6	21	episode	#FFFFCC	0.0628488837794699
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	7	21	improvement	#FFFFCC	0.0671086607462499
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	8	21	masking|retention	#FEE188	0.280835374730444
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	9	21		#FFFFCC	0.0773014614797994
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	10	21	dominant	#FFFFCC	0.0518975099616865
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	11	21		#FFFFCC	0.0533186963668015
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	12	21	sequential	#FFFFCC	0.0590452239268791
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	13	21	fingers	#FFFFCC	0.0686846571900742
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	14	21		#FFFFCC	0.0410685654063002
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	15	21	gesture|gestures	#FFFFCC	0.0275638638736219
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	16	21		#FFFFCC	0.0655424703391627
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	17	21	hands	#FFFFCC	0.0370527186682234
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	18	21		#FFFFCC	0.0715591117276833
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	19	21		#FFFFCC	0.0558742274649479
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	20	21	eye|position	#FFFFCC	0.0594650480247957
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	21	21	execution	#FFFFCC	0.0350233643115506
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	22	21	finger|sensorimotor	#FFFFCC	0.0509433428956396
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	23	21		#FFFFCC	0.0575859954493912
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	1	22	moral|stories|story	#FFFFCC	0.0266660906575163
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	2	22	mentalizing|persons	#FFFFCC	0.0289515185276421
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	3	22	default|restingstate	#FFF1A9	0.100598218106067
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	4	22	thinking|thought|thoughts	#FFFFCC	0.0710784030078891
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	5	22	spontaneous	#FFF1A9	0.0994064783787374
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	6	22	concentration|sensations	#FEE188	0.27090559949454
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	7	22	hierarchical|preference	#FFF1A9	0.119485655708177
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	8	22	effort|oral|simulation	#FFFFCC	0.0851233449889245
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	9	22	interhemispheric|plasticity	#FFFFCC	0.0507904176483303
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	10	22	imagined|imagine	#FFFFCC	0.029035780024433
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	11	22	tapping	#FFFFCC	0.0362580432520034
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	12	22	foot|muscle|muscles|voluntary	#FFFFCC	0.0704851572197598
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	13	22	limb	#FFFFCC	0.0330995160952806
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	14	22	eyes|velocity	#FFFFCC	0.0550797146046561
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	15	22	biological|gaze|videos	#FFFFCC	0.0368774323135169
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	16	22	body	#FFFFCC	0.0871539180459227
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	17	22	grasping|orientation|reaching	#FFF1A9	0.117498706838174
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	18	22		#FFFFCC	0.0754910685771724
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	19	22	mirror|shape	#FFFFCC	0.0356235909501163
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	20	22	actions	#FFFFCC	0.0352490144656685
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	21	22	action	#FFFFCC	0.0474495532983176
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	22	22		#FFFFCC	0.0528184433177654
+ae8746d5-e4c3-30bc-a6ef-e35f3a0e0360	Schonknecht P	23	22	hand|movements|sensory	#FFFFCC	0.0554868817226977

@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	1	1	auditory|speech	#FECB68	0.30124907036358
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	2	1		#FECB68	0.319345171886078
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	3	1	da|integration	#FD913D	0.594973593630708
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	4	1		#FD913D	0.520414381396764
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	5	1	physical|psychophysical|tactile	#FDAD4A	0.429638566018004
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	6	1		#FD913D	0.542822488535027
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	7	1	somatosensory|stimulation	#FDAD4A	0.446327718213177
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	8	1	painful|pain	#FC622F	0.607415114697869
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	9	1		#FC622F	0.618091021334602
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	10	1	ratings	#FD913D	0.574947645421056
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	11	1	affective|affect	#FC622F	0.678468979530148
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	12	1	emotions	#FECB68	0.365575572891712
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	13	1	expression|expressions|facial	#FECB68	0.352691153958149
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	14	1		#FD913D	0.507226164192621
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	15	1		#FD913D	0.515594544036136
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	16	1	emotion|motion|neutral	#FDAD4A	0.487805508691623
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	17	1	rating	#FD913D	0.55570767682011
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	18	1	negative|positive	#FD913D	0.595110699224821
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	19	1		#FD913D	0.585938286186144
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	20	1	ear|order	#FD913D	0.53228988764034
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	21	1	motor	#FECB68	0.390953881187555
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	22	1	visual	#FDAD4A	0.430225033343966
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	23	1	age|image|response	#FD913D	0.511156546440366
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	1	2	sound|sounds	#FEE188	0.216172076940225
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	2	2		#FECB68	0.302225343202938
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	3	2	audiovisual|bimodal|crossmodal	#FEE188	0.25011598988919
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	4	2		#FD913D	0.532785407645765
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	5	2		#FD913D	0.508317619040683
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	6	2		#FD913D	0.561784110477382
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	7	2	sensation	#FD913D	0.516620887132571
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	8	2	heat|noxious	#FD913D	0.516232609713244
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	9	2		#FC622F	0.614821626797337
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	10	2		#FC622F	0.621470095981341
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	11	2		#FD913D	0.597284717485854
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	12	2	valence	#FDAD4A	0.41470239442419
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	13	2	person|social	#FD913D	0.54173024025248
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	14	2		#FD913D	0.515218827632699
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	15	2	face|faces	#FDAD4A	0.469321179791941
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	16	2		#FD913D	0.550064253213317
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	17	2		#FD913D	0.578937631289404
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	18	2		#FC622F	0.616757165794597
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	19	2		#FC622F	0.601879065432484
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	20	2		#FD913D	0.550353331420434
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	21	2	images|spatial	#FDAD4A	0.492943245040508
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	22	2	control	#FD913D	0.54435882547341
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	23	2	time	#FD913D	0.533706138963353
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	1	3	acoustic|listening|musical|music|pitch	#FFF1A9	0.15087081056663
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	2	3	noise|tones	#FEE188	0.215737831073979
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	3	3		#FECB68	0.369844227494399
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	4	3		#FDAD4A	0.410335045734193
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	5	3	frequency	#FD913D	0.513772778644004
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	6	3		#FD913D	0.519108498652794
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	7	3		#FD913D	0.562905808902173
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	8	3	temperature	#FDAD4A	0.431959800362316
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	9	3		#FC622F	0.614313223965994
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	10	3	pleasant|unpleasant	#FD913D	0.594988910523863
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	11	3	anxiety	#FC622F	0.646060767296289
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	12	3		#FC622F	0.634034758574493
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	13	3		#FD913D	0.591389995074424
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	14	3		#FD913D	0.543487551943406
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	15	3		#FD913D	0.540577984121081
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	16	3	picture	#FD913D	0.509607508422268
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	17	3		#FD913D	0.587406951078039
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	18	3	value	#FC622F	0.612096044641742
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	19	3	cue	#FC622F	0.613859952695526
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	20	3	error|target	#FC622F	0.620016660351598
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	21	3	attention	#FD913D	0.565456691744864
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	22	3		#FD913D	0.567047688412746
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	23	3	number	#FD913D	0.583687135079663
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	1	4	voice	#FFF1A9	0.165458348730629
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	2	4		#FEE188	0.274272607663591
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	3	4	hearing	#FEE188	0.215024301851642
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	4	4		#FECB68	0.30462453385059
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	5	4	overt	#FFF1A9	0.179957799851037
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	6	4		#FECB68	0.309683729775446
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	7	4		#FD913D	0.54739518926098
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	8	4	nociceptive|nonpainful|painrelated	#FC622F	0.644654589665436
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	9	4	unpleasantness	#FDAD4A	0.493773314997502
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	10	4	skin|subjective	#FD913D	0.586604626955033
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	11	4	depression	#FC622F	0.627479508414163
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	12	4	experience	#FC622F	0.616964896043897
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	13	4	female	#FC622F	0.613239517724406
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	14	4	male	#FD913D	0.560544153946069
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	15	4	pictures	#FDAD4A	0.498737249080293
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	16	4		#FD913D	0.5495335012666
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	17	4	perception	#FDAD4A	0.457366961569512
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	18	4		#FD913D	0.591154686825199
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	19	4		#FC622F	0.602624419919267
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	20	4		#FD913D	0.598869442967491
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	21	4	correct	#FC622F	0.651933516604522
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	22	4	work	#FC622F	0.617385949467206
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	23	4	memory	#FD913D	0.557442801503162
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	1	5	prosodic|prosody	#FEE188	0.264393111927351
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	2	5	phonetic	#FEE188	0.248361120904685
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	3	5	syllable|syllables	#FECB68	0.377761212554342
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	4	5		#FEE188	0.233834802847531
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	5	5	lip|production	#FFFFCC	0.0182116909458718
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	6	5	somatotopic	#FFFFCC	0.0505814914471808
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	7	5		#FC622F	0.629150707291713
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	8	5		#F03623	0.742843742546858
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	9	5	empathy	#F03623	0.758856573567753
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	10	5		#F03623	0.740693971734602
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	11	5	disorder	#F03623	0.712428050963522
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	12	5		#FC622F	0.671780002598977
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	13	5		#FD913D	0.596063506767848
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	14	5		#FD913D	0.541326063443122
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	15	5		#FD913D	0.527563489390147
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	16	5		#FD913D	0.519156539555331
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	17	5		#FD913D	0.510978965709452
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	18	5	mental	#FD913D	0.580852815977668
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	19	5	go	#FD913D	0.592152716419619
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	20	5	object	#FDAD4A	0.425970351038831
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	21	5		#FD913D	0.569769094153201
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	22	5		#FD913D	0.513694229809836
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	23	5	word|words	#FDAD4A	0.421180482957183
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	1	6		#FDAD4A	0.426778920170122
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	2	6		#FDAD4A	0.458279278128562
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	3	6		#FDAD4A	0.412949315494545
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	4	6	vocal	#FFF1A9	0.132873105338605
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	5	6	articulatory	#FFFFCC	0.0615787384160023
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	6	6		#FECB68	0.321950015763799
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	7	6	oddball	#FDAD4A	0.465036564291877
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	8	6	perceived	#FC622F	0.670553313301616
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	9	6	errorrelated	#F03623	0.721796897056641
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	10	6	approach	#FC622F	0.679590127922186
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	11	6	schizophrenia	#FC622F	0.647983991182899
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	12	6	acquisition	#FD913D	0.51617492829357
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	13	6		#FD913D	0.527019585042409
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	14	6		#FECB68	0.374664720954447
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	15	6		#FECB68	0.36316388245799
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	16	6		#FECB68	0.385084221833944
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	17	6		#FDAD4A	0.472398499782427
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	18	6		#FDAD4A	0.498857916518812
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	19	6		#FD913D	0.532151083909192
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	20	6	objects	#FECB68	0.388382737024915
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	21	6		#FD913D	0.532913781818369
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	22	6		#FDAD4A	0.451941937646466
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	23	6	language|semantic	#FECB68	0.341761860488652
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	1	7	dopamine|dopaminergic	#FDAD4A	0.4700386597135
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	2	7		#FD913D	0.507939752817683
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	3	7		#FC622F	0.620236950011124
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	4	7		#FC622F	0.641308996124256
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	5	7		#FC622F	0.675735517771548
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	6	7		#FC622F	0.643771256017282
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	7	7		#FC622F	0.699434943014189
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	8	7		#F03623	0.771682564356879
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	9	7		#F03623	0.800580047671517
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	10	7		#F03623	0.709720065653036
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	11	7		#FC622F	0.640259462773373
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	12	7		#FC622F	0.601857765327704
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	13	7	linguistic|spoken	#FDAD4A	0.413211027578159
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	14	7		#FECB68	0.335024312571016
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	15	7	comprehension|sentence|sentences|syntactic	#FEE188	0.264357397640342
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	16	7		#FECB68	0.334958144854201
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	17	7		#FDAD4A	0.424744692371056
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	18	7	phonological|reading|read	#FDAD4A	0.43722840033606
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	19	7		#FD913D	0.503050640793535
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	20	7	perceptual|recognition	#FD913D	0.512223947340811
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	21	7		#FD913D	0.54794610709355
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	22	7		#FDAD4A	0.480025900363162
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	23	7	verb	#FDAD4A	0.498719977488987
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	1	8	outcome|reward	#FD913D	0.508634378149858
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	2	8	anticipation	#FD913D	0.562397092478713
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	3	8	outcomes	#FDAD4A	0.472494997949711
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	4	8	choice|choices	#F03623	0.703199341976561
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	5	8	decisions|probability	#F03623	0.744353565795154
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	6	8	reversal	#F03623	0.72094042388559
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	7	8	classification|incorrect	#FD913D	0.569246958029152
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	8	8		#FC622F	0.69950318326603
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	9	8	agerelated|fluency|probes	#FC622F	0.667857873190396
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	10	8	engaged	#FD913D	0.529452891159723
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	11	8	explicit|knowledge	#FD913D	0.526663169368477
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	12	8		#FDAD4A	0.486033937608797
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	13	8		#FECB68	0.369186529030309
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	14	8		#FECB68	0.300122237891031
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	15	8		#FEE188	0.28295184354836
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	16	8		#FECB68	0.307380256745878
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	17	8	lexical	#FECB68	0.340251401467197
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	18	8		#FDAD4A	0.460587650430299
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	19	8		#FD913D	0.517911382863038
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	20	8		#FD913D	0.559326908241708
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	21	8	encoding	#FDAD4A	0.492164546867882
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	22	8	retrieval	#FD913D	0.567115823672606
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	23	8	verbal	#FD913D	0.540823724105889
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	1	9	incentive|monetary|money|rewards	#FECB68	0.322582749839056
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	2	9	loss	#FDAD4A	0.432075723509485
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	3	9		#FC622F	0.647917166926068
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	4	9		#F03623	0.753009681292432
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	5	9	decisionmaking	#FC622F	0.692481452890771
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	6	9		#F03623	0.736901658828463
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	7	9		#FC622F	0.686011963157542
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	8	9		#FC622F	0.628261895012437
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	9	9		#FD913D	0.563633540442456
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	10	9		#FDAD4A	0.49751032728379
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	11	9		#FDAD4A	0.430835212272373
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	12	9		#FECB68	0.395899811092736
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	13	9	noun	#FEE188	0.222189828269406
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	14	9	meaning	#FEE188	0.254321566335366
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	15	9	english	#FFF1A9	0.189069144637193
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	16	9	pseudoword|pseudowords	#FECB68	0.340389202173192
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	17	9		#FDAD4A	0.406790365831612
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	18	9		#FD913D	0.525919694249681
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	19	9	familiar|judgment	#FD913D	0.504398283764986
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	20	9	pair|pairs	#FC622F	0.612966806740808
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	21	9		#FC622F	0.658694245203542
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	22	9		#FC622F	0.629358651029232
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	23	9	letter|working	#FC622F	0.608321479493303
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	1	10	losses|reinforcement|win	#FFF1A9	0.177983919548808
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	2	10	gain	#FFF1A9	0.161750955804245
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	3	10	expectation	#FDAD4A	0.465097220019208
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	4	10	risk	#D7141E	0.841885272054727
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	5	10	fact	#FD913D	0.599671667514844
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	6	10	associative	#FC622F	0.633888211062163
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	7	10	familiarity|judgments|old	#FD913D	0.58621966715464
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	8	10	contextual|text	#FD913D	0.585167148203693
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	9	10	recall|retrieved	#FFF1A9	0.122454665293734
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	10	10	conceptual|semantically	#FFF1A9	0.194267077274159
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	11	10	grammatical|speakers	#FEE188	0.29786186323472
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	12	10	nouns	#FEE188	0.207993627571048
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	13	10	japanese	#FECB68	0.301761988219399
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	14	10	languages	#FFF1A9	0.111731732569875
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	15	10	written	#FFF1A9	0.17518991324957
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	16	10	chinese|phonology	#FEE188	0.272443213951751
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	17	10	orthographic	#FDAD4A	0.498405475636188
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	18	10		#FC622F	0.648676820291941
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	19	10		#FC622F	0.689514851903017
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	20	10	association|decision	#F03623	0.73618639456129
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	21	10	selection	#FD913D	0.580916287527816
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	22	10	letters	#FD913D	0.556108193378151
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	23	10	demand|load	#FC622F	0.685842066078287
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	1	11	conditioned|conditioning	#FEE188	0.230171594995674
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	2	11		#FDAD4A	0.433053974674062
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	3	11	drug|placebo	#FD913D	0.576081408052049
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	4	11		#FC622F	0.659498733585845
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	5	11	associations	#FD913D	0.521958269742426
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	6	11		#FD913D	0.521858361525033
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	7	11	episodic|recollection	#FD913D	0.519910585272978
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	8	11		#FDAD4A	0.425838221091491
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	9	11		#FECB68	0.380159779363099
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	10	11	concepts	#FFF1A9	0.127388795033579
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	11	11		#FEE188	0.288316677648115
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	12	11		#FECB68	0.300823619526511
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	13	11	german	#FEE188	0.247896681493408
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	14	11	readers	#FD913D	0.546362968220092
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	15	11	character|name|naming	#FFF1A9	0.114990375921683
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	16	11		#FECB68	0.387234304571119
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	17	11	novel	#FDAD4A	0.490189232874168
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	18	11		#FC622F	0.689998869549913
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	19	11	child|children	#F03623	0.753515521259464
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	20	11	adults	#F03623	0.783961423111705
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	21	11	ability|feedback|learning	#FC622F	0.682652546231241
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	22	11	cues|delay	#F03623	0.715220507281282
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	23	11	attentional|difficulty|targets	#F03623	0.725429100771002
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	1	12	aversive|shock	#FDAD4A	0.495799047054433
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	2	12	reactivity	#FEE188	0.280084478566309
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	3	12	males|sex|women	#FD913D	0.550490197890127
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	4	12	animal	#FDAD4A	0.47726663714369
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	5	12	animals	#FFF1A9	0.17830673619537
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	6	12		#FECB68	0.38982773032825
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	7	12	remember|subsequent	#FFF1A9	0.1627741770873
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	8	12	autobiographical|memories	#FFFFCC	0.0972573995234092
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	9	12		#FECB68	0.377658076033767
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	10	12	violation|violations	#FFF1A9	0.190866365457871
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	11	12	aphasia	#FEE188	0.219629346272474
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	12	12	nonwords	#FFF1A9	0.144189475186174
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	13	12	dyslexia	#FDAD4A	0.484264179629063
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	14	12		#FDAD4A	0.44386269195418
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	15	12	priming	#FEE188	0.261925386798529
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	16	12		#FDAD4A	0.486449592488118
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	17	12	category|repetition	#FDAD4A	0.42703522013246
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	18	12		#F03623	0.715662532405361
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	19	12	developmental|development	#F03623	0.756853036135137
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	20	12		#D7141E	0.816106191154083
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	21	12	space	#F03623	0.722106405459156
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	22	12		#F03623	0.751923655069248
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	23	12	color	#FC622F	0.669031720144441
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	1	13	threat	#FDAD4A	0.436587599789757
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	2	13	regulation	#F03623	0.727805208449619
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	3	13		#FC622F	0.649830037278865
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	4	13	masked	#FDAD4A	0.400610385619958
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	5	13	scene|scenes	#FECB68	0.375275338048976
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	6	13		#FECB68	0.300825051072063
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	7	13	confidence|remembered	#FFFFCC	0.0538357848256112
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	8	13		#FEE188	0.283458296694701
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	9	13		#FECB68	0.396288799628205
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	10	13	ambiguity|ambiguous	#FD913D	0.517085859844574
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	11	13		#FECB68	0.3843923871758
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	12	13		#FD913D	0.519150988981097
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	13	13	writing	#FEE188	0.20694622283951
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	14	13		#FC622F	0.628120422214776
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	15	13	categorization|congruency|prime	#FDAD4A	0.471080550649542
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	16	13		#FD913D	0.588264422687977
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	17	13	mask	#FC622F	0.695640828014797
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	18	13		#F03623	0.800481705701197
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	19	13		#B10026	0.903157085621802
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	20	13		#D7141E	0.873350751846128
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	21	13	conflict|congruent|incongruent	#F03623	0.763682072376133
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	22	13	errors	#F03623	0.764208405823227
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	23	13	maintenance|probe|wm	#FC622F	0.615983516330121
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	1	14	angry|fearful|happy	#FECB68	0.339875361287916
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	2	14		#FD913D	0.548672411534091
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	3	14	awareness|conscious|ptsd	#FC622F	0.616916608114783
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	4	14		#FD913D	0.531424281337741
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	5	14	houses|photographs	#FFF1A9	0.17340608706878
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	6	14		#FDAD4A	0.420000871668042
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	7	14	hits	#FECB68	0.337477756694721
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	8	14	famous	#FFFFCC	0.031020455136151
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	9	14	names	#FECB68	0.313131938065667
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	10	14	family	#FECB68	0.338113024623469
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	11	14	competition|mouth	#FDAD4A	0.426011290728552
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	12	14	abilities	#B10026	0.958354765272199
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	13	14	implicit|unfamiliar	#FC622F	0.604261795205356
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	14	14		#FC622F	0.63857649252797
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	15	14	tom	#FD913D	0.593499582567531
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	16	14		#D7141E	0.82246257503728
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	17	14		#B10026	0.935748487080603
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	18	14	stop	#B10026	0.970325747110702
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	19	14	inhibition|inhibitory|nogo	#D7141E	0.852418143598265
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	20	14	monitoring|stroop	#D7141E	0.832723941018134
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	21	14	interference	#F03623	0.739064932102555
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	22	14		#F03623	0.787834616680331
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	23	14	demands|executive	#F03623	0.744607212529272
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	1	15	anger	#FFF1A9	0.16256578781589
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	2	15	stress	#FD913D	0.58939256711515
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	3	15	feelings	#FECB68	0.381782816764667
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	4	15	salient	#F03623	0.713258509655251
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	5	15	novelty	#FEE188	0.216182540369139
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	6	15	movie	#FD913D	0.570384311535677
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	7	15		#F03623	0.705788459575813
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	8	15		#F03623	0.71247448738739
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	9	15	longterm	#FC622F	0.694231655839614
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	10	15		#F03623	0.737758771276963
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	11	15	reasoning|relational	#F03623	0.751293439526743
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	12	15		#FC622F	0.678317807244977
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	13	15	presentations	#FECB68	0.360494213856375
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	14	15		#FD913D	0.596327110087048
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	15	15	identity	#FD913D	0.588808568630556
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	16	15		#D7141E	0.888802384127731
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	17	15	strategies|strategy	#D7141E	0.896746166016642
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	18	15	card|cards	#B10026	0.937607823676463
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	19	15	gonogo	#F03623	0.765738265229394
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	20	15		#D7141E	0.889284539412075
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	21	15	switching|switch	#F03623	0.773429821603795
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	22	15		#D7141E	0.802914424661054
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	23	15	2back|rule	#F03623	0.779865942421227
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	1	16	emotionally|mood|personality|sadness	#FDAD4A	0.420362055357016
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	2	16	disgust|sexual	#FECB68	0.31455545630948
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	3	16	olfactory	#FECB68	0.3225922197239
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	4	16	physiological	#FDAD4A	0.458684851897423
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	5	16	depressed|depressive|habituation	#FD913D	0.585927955652201
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	6	16	schizophrenic	#B10026	0.96199171041993
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	7	16	colors|contexts	#FD913D	0.528176424966745
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	8	16	aging|encoded	#FD913D	0.507937483717896
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	9	16	goal	#FD913D	0.540351694367408
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	10	16		#D7141E	0.811961427974205
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	11	16	autism|autistic|nonverbal	#FC622F	0.610462485719642
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	12	16		#F03623	0.712481498606038
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	13	16	bottomup|repetitions	#FFF1A9	0.163858134515784
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	14	16	adaptation	#FDAD4A	0.479944813168514
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	15	16	irrelevant	#FC622F	0.661138344272347
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	16	16	distractor|distractors	#B10026	1
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	17	16		#B10026	0.919478629249424
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	18	16	subtraction	#D7141E	0.820108070552707
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	19	16	1back|nback	#FC622F	0.657302833943705
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	20	16	manipulation|rules	#F03623	0.786286396837299
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	21	16		#F03623	0.797429054184202
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	22	16		#F03623	0.728009984059649
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	23	16	digit	#FDAD4A	0.407678724218479
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	1	17	avoidance	#FFF1A9	0.188861537292461
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	2	17		#FDAD4A	0.423591920510591
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	3	17	eating|food	#FD913D	0.52638635990937
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	4	17	taste	#F03623	0.753148783595602
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	5	17	bipolar	#D7141E	0.816236579928776
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	6	17	illness|uncertainty	#F03623	0.771454189226122
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	7	17	females|probabilistic	#F03623	0.716312818573546
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	8	17	rejection	#F03623	0.738763076160726
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	9	17	colour|paired	#FDAD4A	0.460535281465562
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	10	17		#F03623	0.763071183776442
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	11	17		#F03623	0.713159232788798
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	12	17		#FC622F	0.614442535366821
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	13	17	taskirrelevant	#FD913D	0.584633657600344
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	14	17		#FDAD4A	0.491859709983624
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	15	17	suppression	#FDAD4A	0.490906469109293
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	16	17		#FC622F	0.627462118748766
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	17	17	shifting|shortterm	#FC622F	0.695015647692282
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	18	17	digits	#FECB68	0.355604955769597
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	19	17	search	#B10026	0.917185721248933
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	20	17	counting|taskrelated	#F03623	0.708628663842763
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	21	17	topdown	#D7141E	0.840708378630813
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	22	17	visuospatial	#FDAD4A	0.430878676975268
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	23	17	arithmetic|calculation|solving	#FC622F	0.613884997736179
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	1	18	addiction|craving|drugs	#FEE188	0.2344175652295
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	2	18	allele|genotype|polymorphism	#FDAD4A	0.471633746575393
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	3	18	motivation	#FFF1A9	0.147054500006316
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	4	18	heart	#F03623	0.702322001036064
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	5	18	sleep	#F03623	0.747390445322953
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	6	18	expectancy	#FDAD4A	0.41866819523442
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	7	18	phasic|salience	#F03623	0.795309485431694
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	8	18	adolescence|adolescents	#D7141E	0.812940400227307
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	9	18	intelligence|tracking	#F03623	0.761976491340327
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	10	18		#FC622F	0.665586515157943
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	11	18	serial	#FECB68	0.304694871829051
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	12	18		#FD913D	0.566378571196508
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	13	18	spatially|taskrelevant	#FFF1A9	0.179182489190641
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	14	18		#FD913D	0.549231563980824
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	15	18	attended|attend|unattended	#FECB68	0.378700008286205
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	16	18	rotation|shapes	#FEE188	0.281948120580501
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	17	18	rehearsal	#FDAD4A	0.419111005400336
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	18	18	learned	#FECB68	0.39706996840373
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	19	18		#FD913D	0.52492801542741
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	20	18	cued|preparatory	#FC622F	0.653887649589903
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	21	18		#FC622F	0.614276157409451
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	22	18		#FC622F	0.645820193385909
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	23	18	numbers|numerical	#FC622F	0.62806017523966
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	1	19	future	#F03623	0.731728867262928
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	2	19	negatively	#FFF1A9	0.181954034129403
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	3	19	distress|epilepsy|selfreported	#FEE188	0.234686681418232
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	4	19	anticipatory|cocaine|probabilities|smoking	#FD913D	0.500839540157621
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	5	19	alcohol|amount|impulsivity	#FEE188	0.267008050542733
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	6	19	game|success	#FC622F	0.670064671371131
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	7	19	adhd|childhood|engagement	#FD913D	0.562119093290313
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	8	19		#D7141E	0.875384708670332
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	9	19		#F03623	0.777636921187006
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	10	19		#FC622F	0.617346331066936
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	11	19		#FD913D	0.522003667967322
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	12	19	endogenous	#FECB68	0.326771118979046
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	13	19	cueing|invalid|orienting	#F03623	0.747318930828853
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	14	19		#FDAD4A	0.497277871493004
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	15	19	multisensory	#FDAD4A	0.497327710716551
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	16	19		#FDAD4A	0.479024285660684
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	17	19	shifts	#FDAD4A	0.402307272317237
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	18	19	covert	#FFF1A9	0.192909271022679
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	19	19		#FDAD4A	0.426281229729346
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	20	19	preparation	#FDAD4A	0.441667940320281
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	21	19	discrimination|training	#FC622F	0.606851606805621
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	22	19	sequences	#FECB68	0.344743591835976
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	23	19		#FDAD4A	0.480592616380206
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	1	20	personal|self|selfreferential|trait|traits	#FECB68	0.364463971045607
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	2	20	empathic|theory	#FDAD4A	0.466709050143796
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	3	20	attribution|intentional	#FFF1A9	0.181176599743312
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	4	20	elderly|oscillations	#FD913D	0.583967993657128
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	5	20	antipsychotic|virtual	#FDAD4A	0.425667688086311
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	6	20		#F03623	0.702040037433889
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	7	20	experiences	#FECB68	0.337011502738778
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	8	20	categorical|pressure	#FECB68	0.338083055083985
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	9	20	play|skills	#FDAD4A	0.46393532355748
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	10	20	automatic|trained	#FECB68	0.308152293367844
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	11	20		#FECB68	0.399093944190824
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	12	20	practice	#FDAD4A	0.469765520898366
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	13	20	visuomotor	#FFF1A9	0.145248629402761
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	14	20		#FDAD4A	0.410909367308105
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	15	20	tool	#FEE188	0.218230479076595
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	16	20	vision	#FEE188	0.279927644581686
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	17	20	visually	#FDAD4A	0.438619612055228
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	18	20	saccade|saccades|saccadic	#FEE188	0.248678124632404
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	19	20	locations	#FD913D	0.532791555400871
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	20	20	imagery|planning	#FECB68	0.323147925958922
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	21	20		#FDAD4A	0.466709562876382
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	22	20	rest	#FDAD4A	0.466394069793473
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	23	20	sequence	#FECB68	0.350639557848222
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	1	21	scenarios	#FEE188	0.288003874657378
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	2	21	intention|intentions	#FEE188	0.241023440787304
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	3	21	causality|perspective	#FECB68	0.366877434519553
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	4	21	past	#FECB68	0.303977139077982
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	5	21		#F03623	0.757901847259277
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	6	21	episode	#FEE188	0.248818931989707
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	7	21	improvement	#FEE188	0.262951818468595
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	8	21	masking|retention	#FEE188	0.266532802700639
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	9	21		#FD913D	0.576901762786465
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	10	21	dominant	#FDAD4A	0.408880831399095
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	11	21		#FEE188	0.265290339730502
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	12	21	sequential	#FFF1A9	0.16865174880488
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	13	21	fingers	#FFFFCC	0.000913132741053257
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	14	21		#FEE188	0.241836547133773
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	15	21	gesture|gestures	#FEE188	0.272399146277021
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	16	21		#FEE188	0.259240445201011
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	17	21	hands	#FEE188	0.232480646573246
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	18	21		#FECB68	0.357854918421295
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	19	21		#FECB68	0.399709136989026
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	20	21	eye|position	#FECB68	0.395775969064828
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	21	21	execution	#FECB68	0.367645961466913
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	22	21	finger|sensorimotor	#FFF1A9	0.16737100843487
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	23	21		#FECB68	0.314095168604465
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	1	22	moral|stories|story	#FFFFCC	0.0974671870733605
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	2	22	mentalizing|persons	#FECB68	0.377728153284547
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	3	22	default|restingstate	#FDAD4A	0.407055148477832
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	4	22	thinking|thought|thoughts	#FC622F	0.659732588957722
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	5	22	spontaneous	#FC622F	0.691463019054906
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	6	22	concentration|sensations	#FDAD4A	0.448844288515891
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	7	22	hierarchical|preference	#FFF1A9	0.185200990574578
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	8	22	effort|oral|simulation	#FECB68	0.326376712266637
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	9	22	interhemispheric|plasticity	#FDAD4A	0.493783371251551
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	10	22	imagined|imagine	#FDAD4A	0.434962361644877
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	11	22	tapping	#FEE188	0.246913710374266
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	12	22	foot|muscle|muscles|voluntary	#FFFFCC	0.0892778447965123
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	13	22	limb	#FFFFCC	0
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	14	22	eyes|velocity	#FFF1A9	0.14078175930694
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	15	22	biological|gaze|videos	#FFFFCC	0.0779340696398828
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	16	22	body	#FECB68	0.388015335458158
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	17	22	grasping|orientation|reaching	#FFFFCC	0.0963341955847785
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	18	22		#FECB68	0.341183042578715
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	19	22	mirror|shape	#FECB68	0.364458537216964
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	20	22	actions	#FEE188	0.290069064427481
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	21	22	action	#FDAD4A	0.457449771482256
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	22	22		#FECB68	0.322206585142348
+a5bcaea3-e08c-36b6-81bb-260706fdf2ad	Schulze TG	23	22	hand|movements|sensory	#FEE188	0.257341692113619

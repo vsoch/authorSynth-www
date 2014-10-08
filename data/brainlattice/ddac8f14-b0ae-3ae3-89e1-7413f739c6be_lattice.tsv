@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	1	1	auditory|speech	#B10026	0.927440754498459
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	2	1		#B10026	0.978116509129069
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	3	1	da|integration	#B10026	0.972121790970884
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	4	1		#D7141E	0.857503307224548
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	5	1	physical|psychophysical|tactile	#FECB68	0.368558346134652
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	6	1		#FDAD4A	0.426140371531132
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	7	1	somatosensory|stimulation	#FECB68	0.339281940530447
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	8	1	painful|pain	#FFF1A9	0.193482907618912
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	9	1		#FEE188	0.295346053421765
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	10	1	ratings	#FDAD4A	0.428497791629448
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	11	1	affective|affect	#FD913D	0.526165390722488
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	12	1	emotions	#FC622F	0.621589574224608
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	13	1	expression|expressions|facial	#FC622F	0.606941159289506
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	14	1		#F03623	0.704722902047998
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	15	1		#FC622F	0.69026227019264
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	16	1	emotion|motion|neutral	#FC622F	0.646194802532831
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	17	1	rating	#FD913D	0.503584647290147
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	18	1	negative|positive	#FD913D	0.528627820971932
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	19	1		#FD913D	0.584963657604893
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	20	1	ear|order	#FD913D	0.575598891622445
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	21	1	motor	#FECB68	0.367944377086993
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	22	1	visual	#FD913D	0.501170461830318
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	23	1	age|image|response	#FD913D	0.558446326321413
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	1	2	sound|sounds	#B10026	0.913590225112745
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	2	2		#B10026	0.988086408735874
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	3	2	audiovisual|bimodal|crossmodal	#D7141E	0.871620222652117
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	4	2		#D7141E	0.869113463301062
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	5	2		#FC622F	0.671772180369561
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	6	2		#FDAD4A	0.484257646214738
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	7	2	sensation	#FEE188	0.234836274765388
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	8	2	heat|noxious	#FFF1A9	0.122532845916317
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	9	2		#FECB68	0.312350757629324
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	10	2		#FD913D	0.505466201665623
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	11	2		#FD913D	0.560293988072937
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	12	2	valence	#FD913D	0.565009437489249
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	13	2	person|social	#F03623	0.703395039803893
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	14	2		#F03623	0.712068147086168
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	15	2	face|faces	#FC622F	0.641383194005277
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	16	2		#FC622F	0.688647332032943
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	17	2		#FC622F	0.654301246798575
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	18	2		#FC622F	0.617710371055404
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	19	2		#FD913D	0.584670317791805
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	20	2		#FD913D	0.533438796708127
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	21	2	images|spatial	#FD913D	0.550631405002091
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	22	2	control	#FDAD4A	0.478240139649123
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	23	2	time	#FD913D	0.529017792309212
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	1	3	acoustic|listening|musical|music|pitch	#B10026	0.919579892283372
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	2	3	noise|tones	#B10026	0.922394441608134
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	3	3		#B10026	0.974948644798042
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	4	3		#D7141E	0.881116143499194
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	5	3	frequency	#F03623	0.718780750961832
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	6	3		#FC622F	0.626332834561263
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	7	3		#FEE188	0.279757354535617
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	8	3	temperature	#FFF1A9	0.168414013919072
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	9	3		#FECB68	0.314712544942085
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	10	3	pleasant|unpleasant	#FECB68	0.374889281784013
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	11	3	anxiety	#FDAD4A	0.411633015130699
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	12	3		#FC622F	0.641997984835489
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	13	3		#F03623	0.719130977432659
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	14	3		#F03623	0.715643450484499
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	15	3		#F03623	0.724326287291458
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	16	3	picture	#FC622F	0.622986698094167
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	17	3		#F03623	0.727885991381732
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	18	3	value	#FD913D	0.569616073174776
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	19	3	cue	#FDAD4A	0.497885247331364
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	20	3	error|target	#FDAD4A	0.454685655990995
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	21	3	attention	#FDAD4A	0.481907291989769
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	22	3		#FD913D	0.522803314491757
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	23	3	number	#FD913D	0.53324391250124
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	1	4	voice	#B10026	0.948744458999808
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	2	4		#B10026	1
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	3	4	hearing	#D7141E	0.805545780401724
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	4	4		#F03623	0.782690710425759
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	5	4	overt	#FD913D	0.560511010718793
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	6	4		#FC622F	0.65570205647142
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	7	4		#FECB68	0.345336435741933
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	8	4	nociceptive|nonpainful|painrelated	#FFFFCC	0.0872762530997884
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	9	4	unpleasantness	#FEE188	0.237224145737637
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	10	4	skin|subjective	#FECB68	0.370144607655664
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	11	4	depression	#FD913D	0.507026531347443
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	12	4	experience	#FD913D	0.557347028157905
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	13	4	female	#FC622F	0.610167970811814
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	14	4	male	#F03623	0.712195039246785
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	15	4	pictures	#FC622F	0.655755649680187
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	16	4		#F03623	0.778872865823486
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	17	4	perception	#F03623	0.796063969147021
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	18	4		#FC622F	0.63199684691422
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	19	4		#FD913D	0.568458248891708
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	20	4		#FD913D	0.5432010236356
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	21	4	correct	#FDAD4A	0.499352836680982
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	22	4	work	#FDAD4A	0.419882232016066
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	23	4	memory	#FDAD4A	0.489569837991924
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	1	5	prosodic|prosody	#D7141E	0.866566374990298
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	2	5	phonetic	#D7141E	0.826100064854089
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	3	5	syllable|syllables	#F03623	0.727392182570841
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	4	5		#F03623	0.735585635450167
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	5	5	lip|production	#FD913D	0.500116327327512
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	6	5	somatotopic	#FECB68	0.315104629907714
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	7	5		#FDAD4A	0.441250427233657
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	8	5		#FECB68	0.388852954391425
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	9	5	empathy	#FDAD4A	0.446155817663276
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	10	5		#FD913D	0.591677426919788
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	11	5	disorder	#FD913D	0.52689694606945
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	12	5		#FC622F	0.690773525440701
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	13	5		#F03623	0.774834726425248
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	14	5		#D7141E	0.802377497732321
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	15	5		#D7141E	0.821274883666848
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	16	5		#D7141E	0.823988000181612
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	17	5		#F03623	0.76749641163436
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	18	5	mental	#FD913D	0.521427244091761
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	19	5	go	#FD913D	0.559613608852194
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	20	5	object	#FDAD4A	0.447733738934657
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	21	5		#FD913D	0.548103381461663
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	22	5		#FD913D	0.558539451811265
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	23	5	word|words	#FD913D	0.537860849940276
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	1	6		#B10026	0.918027083108262
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	2	6		#B10026	0.932036577326482
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	3	6		#D7141E	0.877871984540366
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	4	6	vocal	#FC622F	0.682010530338916
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	5	6	articulatory	#FDAD4A	0.462781498619668
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	6	6		#FC622F	0.633842581110629
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	7	6	oddball	#FD913D	0.507620200926994
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	8	6	perceived	#FDAD4A	0.458534846706562
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	9	6	errorrelated	#FECB68	0.300102476037855
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	10	6	approach	#FDAD4A	0.499446267478109
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	11	6	schizophrenia	#FD913D	0.572557846948974
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	12	6	acquisition	#FC622F	0.637641807498044
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	13	6		#F03623	0.781122489764656
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	14	6		#F03623	0.721447467220169
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	15	6		#F03623	0.72954629274164
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	16	6		#F03623	0.729303675051192
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	17	6		#FC622F	0.620476711512476
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	18	6		#FD913D	0.566275997451815
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	19	6		#FD913D	0.586931951883862
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	20	6	objects	#FDAD4A	0.490821530336843
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	21	6		#FD913D	0.596936072967699
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	22	6		#FD913D	0.573132322968661
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	23	6	language|semantic	#FD913D	0.564481862370547
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	1	7	dopamine|dopaminergic	#FEE188	0.223322886096959
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	2	7		#FECB68	0.326448611372754
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	3	7		#FDAD4A	0.488423242977491
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	4	7		#FD913D	0.565034249515935
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	5	7		#FD913D	0.543766236215536
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	6	7		#FC622F	0.635567825660475
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	7	7		#FD913D	0.584553787790231
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	8	7		#FD913D	0.555443583165642
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	9	7		#FD913D	0.557379808953737
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	10	7		#FD913D	0.599507501269787
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	11	7		#FC622F	0.607729338834725
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	12	7		#FC622F	0.652783737191891
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	13	7	linguistic|spoken	#FC622F	0.66248006845174
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	14	7		#FC622F	0.665176965536871
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	15	7	comprehension|sentence|sentences|syntactic	#FC622F	0.633707187518227
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	16	7		#FC622F	0.628002838409625
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	17	7		#FD913D	0.556329625201935
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	18	7	phonological|reading|read	#FDAD4A	0.471933379633852
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	19	7		#FD913D	0.568991594289343
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	20	7	perceptual|recognition	#FC622F	0.64383418398587
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	21	7		#FD913D	0.599510799252481
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	22	7		#FD913D	0.580128564664154
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	23	7	verb	#FD913D	0.546372288838259
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	1	8	outcome|reward	#FEE188	0.227111340813372
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	2	8	anticipation	#FEE188	0.247207011823388
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	3	8	outcomes	#FEE188	0.24070467359895
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	4	8	choice|choices	#FEE188	0.22743620506763
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	5	8	decisions|probability	#FDAD4A	0.463147713943098
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	6	8	reversal	#FECB68	0.378697061275924
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	7	8	classification|incorrect	#FDAD4A	0.45737526758252
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	8	8		#FD913D	0.548800646808115
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	9	8	agerelated|fluency|probes	#FDAD4A	0.456144012994735
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	10	8	engaged	#FDAD4A	0.435264731339793
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	11	8	explicit|knowledge	#FDAD4A	0.493766848612577
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	12	8		#FD913D	0.558266295836252
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	13	8		#FD913D	0.584099854917587
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	14	8		#FD913D	0.592787867789368
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	15	8		#FD913D	0.572432351328007
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	16	8		#FD913D	0.576021633568071
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	17	8	lexical	#FDAD4A	0.450057140069173
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	18	8		#FD913D	0.513559581447654
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	19	8		#FD913D	0.565114957409747
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	20	8		#FD913D	0.596708217420284
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	21	8	encoding	#FD913D	0.547017616273869
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	22	8	retrieval	#FDAD4A	0.466642884470919
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	23	8	verbal	#FD913D	0.539430069895061
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	1	9	incentive|monetary|money|rewards	#FFFFCC	0.0980317407352419
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	2	9	loss	#FEE188	0.225970060291866
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	3	9		#FECB68	0.316150925061233
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	4	9		#FECB68	0.377170656624595
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	5	9	decisionmaking	#FECB68	0.311574620895505
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	6	9		#FD913D	0.534178411549483
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	7	9		#FD913D	0.534202013446852
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	8	9		#FD913D	0.542653805371376
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	9	9		#FD913D	0.548724577101614
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	10	9		#FD913D	0.511806368330854
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	11	9		#FDAD4A	0.489698581496271
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	12	9		#FDAD4A	0.476219966801746
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	13	9	noun	#FECB68	0.304777751282216
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	14	9	meaning	#FDAD4A	0.440089105517402
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	15	9	english	#FECB68	0.33106247669742
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	16	9	pseudoword|pseudowords	#FDAD4A	0.419772426775146
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	17	9		#FD913D	0.511852837121018
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	18	9		#FD913D	0.537392769147931
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	19	9	familiar|judgment	#FD913D	0.50829253260506
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	20	9	pair|pairs	#FD913D	0.569726899806849
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	21	9		#FD913D	0.571455304205485
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	22	9		#FDAD4A	0.497213860917643
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	23	9	letter|working	#FECB68	0.343522125338307
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	1	10	losses|reinforcement|win	#FFF1A9	0.114940150460989
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	2	10	gain	#FFF1A9	0.172977130170436
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	3	10	expectation	#FEE188	0.265579465377018
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	4	10	risk	#FECB68	0.317169630095076
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	5	10	fact	#FECB68	0.381465177328636
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	6	10	associative	#FDAD4A	0.424380481360613
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	7	10	familiarity|judgments|old	#FECB68	0.394321892926559
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	8	10	contextual|text	#FDAD4A	0.430989488559968
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	9	10	recall|retrieved	#FECB68	0.378868107381895
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	10	10	conceptual|semantically	#FDAD4A	0.461226184807635
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	11	10	grammatical|speakers	#FDAD4A	0.404450935082239
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	12	10	nouns	#FEE188	0.224762623283827
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	13	10	japanese	#FECB68	0.372667541290987
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	14	10	languages	#FECB68	0.303427256594282
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	15	10	written	#FECB68	0.378477759628784
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	16	10	chinese|phonology	#FECB68	0.335583150497147
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	17	10	orthographic	#FECB68	0.365715032040065
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	18	10		#FD913D	0.573522076775117
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	19	10		#FC622F	0.61033815891398
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	20	10	association|decision	#FD913D	0.536664410133353
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	21	10	selection	#FECB68	0.394330681324838
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	22	10	letters	#FECB68	0.334202620042115
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	23	10	demand|load	#FECB68	0.350091312013996
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	1	11	conditioned|conditioning	#FFF1A9	0.177300688784178
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	2	11		#FECB68	0.373999596004711
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	3	11	drug|placebo	#FECB68	0.371674280842374
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	4	11		#FD913D	0.578814367883772
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	5	11	associations	#FD913D	0.516030642199189
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	6	11		#FD913D	0.559345130690874
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	7	11	episodic|recollection	#FECB68	0.388957527498036
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	8	11		#FD913D	0.526515076369686
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	9	11		#FD913D	0.569198980950757
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	10	11	concepts	#FEE188	0.291425638249944
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	11	11		#FDAD4A	0.49637163598478
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	12	11		#FDAD4A	0.468096597187141
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	13	11	german	#FDAD4A	0.477611631764428
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	14	11	readers	#FECB68	0.353049105798533
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	15	11	character|name|naming	#FECB68	0.346254432738229
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	16	11		#FD913D	0.508673458354462
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	17	11	novel	#FD913D	0.558451793478482
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	18	11		#FD913D	0.583882617072402
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	19	11	child|children	#FD913D	0.555428516582749
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	20	11	adults	#FD913D	0.593024284018333
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	21	11	ability|feedback|learning	#FD913D	0.517653841722165
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	22	11	cues|delay	#FDAD4A	0.433891600077341
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	23	11	attentional|difficulty|targets	#FDAD4A	0.425955788418455
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	1	12	aversive|shock	#FECB68	0.318646475720407
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	2	12	reactivity	#FECB68	0.316965780706099
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	3	12	males|sex|women	#FDAD4A	0.465184420702387
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	4	12	animal	#FD913D	0.505428887679902
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	5	12	animals	#FEE188	0.234159566935627
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	6	12		#FD913D	0.582655389122498
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	7	12	remember|subsequent	#FECB68	0.395581785124724
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	8	12	autobiographical|memories	#FECB68	0.316733534586682
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	9	12		#FD913D	0.597487297509164
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	10	12	violation|violations	#FDAD4A	0.478837606656971
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	11	12	aphasia	#FDAD4A	0.495509363057743
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	12	12	nonwords	#FECB68	0.327209500050142
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	13	12	dyslexia	#FECB68	0.355167618568929
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	14	12		#FD913D	0.511104740052787
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	15	12	priming	#FECB68	0.363355189040064
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	16	12		#FD913D	0.57490543829839
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	17	12	category|repetition	#FC622F	0.619159716884954
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	18	12		#FD913D	0.594199239274959
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	19	12	developmental|development	#FDAD4A	0.438300410239879
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	20	12		#FD913D	0.59144288748579
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	21	12	space	#FC622F	0.643338666040589
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	22	12		#FDAD4A	0.451744328605198
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	23	12	color	#FECB68	0.339955938041357
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	1	13	threat	#FECB68	0.386937553700523
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	2	13	regulation	#FDAD4A	0.429891680229038
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	3	13		#FD913D	0.574815914886934
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	4	13	masked	#FDAD4A	0.431032555046381
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	5	13	scene|scenes	#FD913D	0.576619494183705
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	6	13		#FD913D	0.570753482439566
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	7	13	confidence|remembered	#FEE188	0.258863337459342
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	8	13		#FD913D	0.57409773798998
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	9	13		#FC622F	0.659950273521044
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	10	13	ambiguity|ambiguous	#FEE188	0.266693714778729
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	11	13		#FD913D	0.595917648324876
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	12	13		#FD913D	0.535862445374791
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	13	13	writing	#FEE188	0.223567074062685
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	14	13		#FD913D	0.572321239032129
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	15	13	categorization|congruency|prime	#FD913D	0.573327878578917
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	16	13		#FC622F	0.604494595803481
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	17	13	mask	#FDAD4A	0.461695665597227
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	18	13		#FD913D	0.567608885841095
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	19	13		#FD913D	0.511845027147438
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	20	13		#FD913D	0.513615258857986
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	21	13	conflict|congruent|incongruent	#FDAD4A	0.465411281343242
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	22	13	errors	#FECB68	0.373290733942307
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	23	13	maintenance|probe|wm	#FECB68	0.317364168127559
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	1	14	angry|fearful|happy	#FDAD4A	0.416015797750386
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	2	14		#FDAD4A	0.493093834474842
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	3	14	awareness|conscious|ptsd	#FDAD4A	0.455328750471177
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	4	14		#FC622F	0.695356816211068
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	5	14	houses|photographs	#FECB68	0.381358851223256
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	6	14		#FC622F	0.63038104443398
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	7	14	hits	#FECB68	0.329347624575076
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	8	14	famous	#FDAD4A	0.49241243154663
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	9	14	names	#FECB68	0.392082884378451
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	10	14	family	#FD913D	0.570110007628188
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	11	14	competition|mouth	#FD913D	0.523099296696598
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	12	14	abilities	#FDAD4A	0.477095875845482
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	13	14	implicit|unfamiliar	#FD913D	0.539647972836028
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	14	14		#FC622F	0.604350846835033
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	15	14	tom	#FD913D	0.55349340050584
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	16	14		#FD913D	0.55038007954156
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	17	14		#FDAD4A	0.492723810612218
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	18	14	stop	#FDAD4A	0.407736803913954
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	19	14	inhibition|inhibitory|nogo	#FECB68	0.311439070210075
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	20	14	monitoring|stroop	#FECB68	0.343742377542049
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	21	14	interference	#FECB68	0.349783500193751
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	22	14		#FDAD4A	0.401064737623082
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	23	14	demands|executive	#FECB68	0.349564886527876
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	1	15	anger	#FECB68	0.311029219301465
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	2	15	stress	#FECB68	0.39296188009785
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	3	15	feelings	#FECB68	0.386583681389121
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	4	15	salient	#FD913D	0.549920706707669
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	5	15	novelty	#FD913D	0.549574392234317
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	6	15	movie	#FECB68	0.335344885251572
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	7	15		#FD913D	0.587657996362562
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	8	15		#FC622F	0.60721544365809
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	9	15	longterm	#FECB68	0.303295820761666
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	10	15		#FC622F	0.645561076187564
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	11	15	reasoning|relational	#FECB68	0.358155329110718
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	12	15		#FC622F	0.623890515853228
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	13	15	presentations	#FD913D	0.524664809431505
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	14	15		#FD913D	0.588961997602555
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	15	15	identity	#FDAD4A	0.46881575748748
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	16	15		#FD913D	0.511013831498127
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	17	15	strategies|strategy	#FECB68	0.354339964616582
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	18	15	card|cards	#FECB68	0.306071321966939
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	19	15	gonogo	#FECB68	0.306271185843481
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	20	15		#FECB68	0.390614743465259
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	21	15	switching|switch	#FEE188	0.284868249155927
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	22	15		#FECB68	0.35104833566899
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	23	15	2back|rule	#FEE188	0.27367340158264
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	1	16	emotionally|mood|personality|sadness	#FDAD4A	0.489415021604133
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	2	16	disgust|sexual	#FEE188	0.253719288276895
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	3	16	olfactory	#FFF1A9	0.183581950922668
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	4	16	physiological	#FECB68	0.359814754558568
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	5	16	depressed|depressive|habituation	#FECB68	0.366603875281744
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	6	16	schizophrenic	#FDAD4A	0.406060827441819
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	7	16	colors|contexts	#FEE188	0.257773831483777
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	8	16	aging|encoded	#FECB68	0.32433005011934
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	9	16	goal	#FEE188	0.230816902401107
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	10	16		#FD913D	0.574727275304988
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	11	16	autism|autistic|nonverbal	#FC622F	0.642007628351074
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	12	16		#FC622F	0.613171536214797
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	13	16	bottomup|repetitions	#FECB68	0.398958896101564
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	14	16	adaptation	#FD913D	0.565531804388373
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	15	16	irrelevant	#FDAD4A	0.408421135927931
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	16	16	distractor|distractors	#FECB68	0.350662168014581
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	17	16		#FDAD4A	0.435966919405087
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	18	16	subtraction	#FEE188	0.24212898662269
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	19	16	1back|nback	#FFF1A9	0.179602077369356
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	20	16	manipulation|rules	#FDAD4A	0.399844930938398
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	21	16		#FECB68	0.352940596600076
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	22	16		#FEE188	0.273718814908467
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	23	16	digit	#FFF1A9	0.172793818740494
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	1	17	avoidance	#FEE188	0.26356044997345
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	2	17		#FDAD4A	0.439953122411255
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	3	17	eating|food	#FFF1A9	0.162778221079667
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	4	17	taste	#FFF1A9	0.133234444736785
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	5	17	bipolar	#FEE188	0.240873920074081
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	6	17	illness|uncertainty	#FECB68	0.315766465935306
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	7	17	females|probabilistic	#FECB68	0.317787995665854
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	8	17	rejection	#FEE188	0.241559605449983
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	9	17	colour|paired	#FDAD4A	0.410496197194881
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	10	17		#FD913D	0.531512866375547
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	11	17		#FD913D	0.529849928605997
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	12	17		#FD913D	0.515526955446866
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	13	17	taskirrelevant	#FECB68	0.309854290940782
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	14	17		#FDAD4A	0.453801071317547
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	15	17	suppression	#FECB68	0.323946826160199
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	16	17		#FDAD4A	0.431246261282168
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	17	17	shifting|shortterm	#FEE188	0.288325214001598
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	18	17	digits	#FFF1A9	0.196061602604201
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	19	17	search	#FECB68	0.31806171761399
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	20	17	counting|taskrelated	#FECB68	0.34013708472536
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	21	17	topdown	#FECB68	0.351488487875596
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	22	17	visuospatial	#FFF1A9	0.136043239270608
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	23	17	arithmetic|calculation|solving	#FFF1A9	0.138574160072581
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	1	18	addiction|craving|drugs	#FEE188	0.296297373048116
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	2	18	allele|genotype|polymorphism	#FEE188	0.28594414868487
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	3	18	motivation	#FFF1A9	0.112664384655503
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	4	18	heart	#FECB68	0.387039762652555
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	5	18	sleep	#FEE188	0.208215465784957
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	6	18	expectancy	#FECB68	0.362792321788897
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	7	18	phasic|salience	#FECB68	0.30914444992813
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	8	18	adolescence|adolescents	#FEE188	0.215655714779649
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	9	18	intelligence|tracking	#FECB68	0.364464152593761
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	10	18		#FD913D	0.517392706427478
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	11	18	serial	#FECB68	0.309091742694395
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	12	18		#FDAD4A	0.453983485696424
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	13	18	spatially|taskrelevant	#FEE188	0.241363394021555
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	14	18		#FDAD4A	0.450827539559641
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	15	18	attended|attend|unattended	#FECB68	0.33004294489732
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	16	18	rotation|shapes	#FFF1A9	0.152594749464145
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	17	18	rehearsal	#FECB68	0.362710206529535
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	18	18	learned	#FFF1A9	0.198923362606633
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	19	18		#FECB68	0.339720779724091
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	20	18	cued|preparatory	#FECB68	0.325641781007989
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	21	18		#FDAD4A	0.409238861253621
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	22	18		#FECB68	0.350959756843377
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	23	18	numbers|numerical	#FFF1A9	0.197895226866899
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	1	19	future	#FECB68	0.363542681598694
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	2	19	negatively	#FECB68	0.325267218431783
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	3	19	distress|epilepsy|selfreported	#FEE188	0.283864056581147
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	4	19	anticipatory|cocaine|probabilities|smoking	#FEE188	0.227869391425233
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	5	19	alcohol|amount|impulsivity	#FFF1A9	0.186470459057118
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	6	19	game|success	#FECB68	0.300833688919354
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	7	19	adhd|childhood|engagement	#FEE188	0.271704882414899
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	8	19		#FD913D	0.506013743030408
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	9	19		#FD913D	0.514486147530919
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	10	19		#FDAD4A	0.485381881072046
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	11	19		#FDAD4A	0.461396866179306
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	12	19	endogenous	#FEE188	0.29889063137781
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	13	19	cueing|invalid|orienting	#FECB68	0.350736318377382
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	14	19		#FDAD4A	0.454477550805989
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	15	19	multisensory	#FD913D	0.559310067176033
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	16	19		#FDAD4A	0.439654872207102
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	17	19	shifts	#FECB68	0.32534923706811
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	18	19	covert	#FEE188	0.273668690977191
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	19	19		#FECB68	0.308451141974362
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	20	19	preparation	#FEE188	0.203860313830106
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	21	19	discrimination|training	#FD913D	0.538281505863674
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	22	19	sequences	#FECB68	0.391252156172977
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	23	19		#FDAD4A	0.456596051226294
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	1	20	personal|self|selfreferential|trait|traits	#FDAD4A	0.451694377018176
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	2	20	empathic|theory	#FD913D	0.543034619251556
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	3	20	attribution|intentional	#FEE188	0.225008809814069
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	4	20	elderly|oscillations	#FEE188	0.2630294317222
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	5	20	antipsychotic|virtual	#FEE188	0.232639138695316
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	6	20		#FD913D	0.524898405584076
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	7	20	experiences	#FECB68	0.331072390878745
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	8	20	categorical|pressure	#FECB68	0.31717543960429
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	9	20	play|skills	#FFF1A9	0.161296738753977
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	10	20	automatic|trained	#FECB68	0.352656222216714
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	11	20		#FECB68	0.322693751753865
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	12	20	practice	#FEE188	0.236962923589744
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	13	20	visuomotor	#FFF1A9	0.103289220181666
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	14	20		#FDAD4A	0.423351135541145
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	15	20	tool	#FEE188	0.212610449273354
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	16	20	vision	#FFF1A9	0.129374414361314
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	17	20	visually	#FEE188	0.270783390585246
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	18	20	saccade|saccades|saccadic	#FFFFCC	0.096055769149399
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	19	20	locations	#FECB68	0.327508917665624
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	20	20	imagery|planning	#FEE188	0.250482729449888
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	21	20		#FECB68	0.395437906177193
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	22	20	rest	#FDAD4A	0.458162383078457
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	23	20	sequence	#FDAD4A	0.496719510575976
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	1	21	scenarios	#FECB68	0.346064157697094
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	2	21	intention|intentions	#FDAD4A	0.405115489464821
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	3	21	causality|perspective	#FEE188	0.24814899362765
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	4	21	past	#FEE188	0.297473338475012
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	5	21		#FD913D	0.575777978338967
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	6	21	episode	#FEE188	0.283855845294035
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	7	21	improvement	#FEE188	0.230822141708833
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	8	21	masking|retention	#FFF1A9	0.167266782058405
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	9	21		#FECB68	0.397896606101618
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	10	21	dominant	#FEE188	0.220411902561423
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	11	21		#FFF1A9	0.194918915751734
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	12	21	sequential	#FFF1A9	0.138344297232302
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	13	21	fingers	#FFFFCC	0.0106155455484117
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	14	21		#FECB68	0.339333143533927
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	15	21	gesture|gestures	#FEE188	0.273564756481479
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	16	21		#FEE188	0.286377251140061
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	17	21	hands	#FFFFCC	0.0549618074620414
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	18	21		#FEE188	0.263331601873922
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	19	21		#FECB68	0.309696119093267
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	20	21	eye|position	#FEE188	0.245406857494642
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	21	21	execution	#FEE188	0.231100946475167
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	22	21	finger|sensorimotor	#FFF1A9	0.164383184713042
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	23	21		#FECB68	0.327192649691949
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	1	22	moral|stories|story	#FDAD4A	0.402246642462683
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	2	22	mentalizing|persons	#FD913D	0.524651440629544
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	3	22	default|restingstate	#FEE188	0.262237877959727
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	4	22	thinking|thought|thoughts	#FECB68	0.347300567395497
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	5	22	spontaneous	#FECB68	0.353568607615606
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	6	22	concentration|sensations	#FEE188	0.243756956471721
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	7	22	hierarchical|preference	#FDAD4A	0.478317115720421
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	8	22	effort|oral|simulation	#FEE188	0.259038295142975
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	9	22	interhemispheric|plasticity	#FECB68	0.304290507600761
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	10	22	imagined|imagine	#FFF1A9	0.108046216337685
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	11	22	tapping	#FFFFCC	0.0965688383147283
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	12	22	foot|muscle|muscles|voluntary	#FFFFCC	0.0889274550456112
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	13	22	limb	#FFFFCC	0
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	14	22	eyes|velocity	#FFF1A9	0.111685358400437
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	15	22	biological|gaze|videos	#FEE188	0.236751550457278
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	16	22	body	#FEE188	0.297792788005548
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	17	22	grasping|orientation|reaching	#FFFFCC	0.0557612005325451
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	18	22		#FEE188	0.254384507048826
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	19	22	mirror|shape	#FECB68	0.305773248172346
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	20	22	actions	#FECB68	0.329264149611827
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	21	22	action	#FECB68	0.370750947215418
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	22	22		#FEE188	0.28900835469769
+ddac8f14-b0ae-3ae3-89e1-7413f739c6be	Kreifelts B	23	22	hand|movements|sensory	#FEE188	0.241174464249732

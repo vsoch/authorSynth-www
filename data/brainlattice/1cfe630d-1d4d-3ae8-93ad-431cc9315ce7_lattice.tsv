@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	1	1	auditory|speech	#B10026	0.954958214632668
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	2	1		#B10026	0.973765526060006
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	3	1	da|integration	#D7141E	0.829016154451853
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	4	1		#D7141E	0.802825108135031
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	5	1	physical|psychophysical|tactile	#FECB68	0.389288841870162
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	6	1		#FDAD4A	0.49214343584595
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	7	1	somatosensory|stimulation	#FDAD4A	0.400947158905907
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	8	1	painful|pain	#FDAD4A	0.419989558821435
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	9	1		#FDAD4A	0.431220853616137
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	10	1	ratings	#FDAD4A	0.409566440548516
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	11	1	affective|affect	#FEE188	0.29109204096902
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	12	1	emotions	#FECB68	0.326147937966033
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	13	1	expression|expressions|facial	#FEE188	0.200799476008279
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	14	1		#FECB68	0.309006601356341
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	15	1		#FECB68	0.351030242081758
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	16	1	emotion|motion|neutral	#FECB68	0.377373820673283
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	17	1	rating	#FDAD4A	0.429814163819991
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	18	1	negative|positive	#FECB68	0.383111772418772
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	19	1		#FDAD4A	0.456784345143823
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	20	1	ear|order	#FD913D	0.521144003843388
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	21	1	motor	#FECB68	0.383686307629251
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	22	1	visual	#FDAD4A	0.411810822563672
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	23	1	age|image|response	#FD913D	0.533650841080877
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	1	2	sound|sounds	#B10026	0.954882517516007
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	2	2		#B10026	0.968706259377858
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	3	2	audiovisual|bimodal|crossmodal	#D7141E	0.829767612274313
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	4	2		#D7141E	0.816483571202685
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	5	2		#FC622F	0.683287327243508
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	6	2		#FD913D	0.541295486831759
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	7	2	sensation	#FECB68	0.381605787671979
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	8	2	heat|noxious	#FECB68	0.391289326831081
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	9	2		#FDAD4A	0.421937890010683
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	10	2		#FDAD4A	0.40150974271091
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	11	2		#FECB68	0.388978402711659
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	12	2	valence	#FECB68	0.345618932813781
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	13	2	person|social	#FDAD4A	0.41282216448532
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	14	2		#FECB68	0.323135942118168
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	15	2	face|faces	#FEE188	0.266092998499883
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	16	2		#FDAD4A	0.400755841721748
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	17	2		#FDAD4A	0.429807862060606
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	18	2		#FDAD4A	0.461082970319773
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	19	2		#FDAD4A	0.470645504184534
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	20	2		#FDAD4A	0.455750556049298
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	21	2	images|spatial	#FDAD4A	0.460872883769984
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	22	2	control	#FDAD4A	0.496874143765753
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	23	2	time	#FDAD4A	0.499046731505678
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	1	3	acoustic|listening|musical|music|pitch	#D7141E	0.866271780094875
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	2	3	noise|tones	#B10026	0.961327683179554
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	3	3		#B10026	0.954865807686499
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	4	3		#B10026	0.919014286159105
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	5	3	frequency	#F03623	0.794856281221462
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	6	3		#F03623	0.764002729236845
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	7	3		#FDAD4A	0.475879986701074
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	8	3	temperature	#FECB68	0.322436035968865
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	9	3		#FDAD4A	0.416773855718941
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	10	3	pleasant|unpleasant	#FEE188	0.234031580253716
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	11	3	anxiety	#FECB68	0.342462757055729
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	12	3		#FDAD4A	0.45983763669136
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	13	3		#FDAD4A	0.479308128107149
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	14	3		#FDAD4A	0.411269060785232
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	15	3		#FDAD4A	0.412709227847242
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	16	3	picture	#FECB68	0.386220966205286
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	17	3		#FDAD4A	0.479383327489899
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	18	3	value	#FDAD4A	0.483600138052657
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	19	3	cue	#FDAD4A	0.442140669748559
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	20	3	error|target	#FDAD4A	0.459351241928677
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	21	3	attention	#FDAD4A	0.414102694889066
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	22	3		#FD913D	0.509767051964771
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	23	3	number	#FD913D	0.506871916994816
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	1	4	voice	#B10026	0.973308416161758
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	2	4		#B10026	0.966386326527144
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	3	4	hearing	#D7141E	0.848421750031254
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	4	4		#D7141E	0.882945950470142
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	5	4	overt	#D7141E	0.845439066520341
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	6	4		#F03623	0.793997493357608
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	7	4		#FD913D	0.549163778114617
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	8	4	nociceptive|nonpainful|painrelated	#FDAD4A	0.433015362654133
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	9	4	unpleasantness	#FEE188	0.29758781963786
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	10	4	skin|subjective	#FDAD4A	0.402264920011007
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	11	4	depression	#FDAD4A	0.472947499667657
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	12	4	experience	#FD913D	0.551481630711514
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	13	4	female	#FD913D	0.542327914744259
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	14	4	male	#FD913D	0.50894705632479
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	15	4	pictures	#FECB68	0.388751920509314
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	16	4		#FD913D	0.527378181588232
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	17	4	perception	#FD913D	0.583328085183159
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	18	4		#FD913D	0.535784385209849
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	19	4		#FDAD4A	0.497724797086626
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	20	4		#FDAD4A	0.487543521533102
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	21	4	correct	#FD913D	0.548870443837325
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	22	4	work	#FD913D	0.522141862408761
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	23	4	memory	#FD913D	0.537897440973945
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	1	5	prosodic|prosody	#D7141E	0.842860632861367
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	2	5	phonetic	#B10026	1
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	3	5	syllable|syllables	#F03623	0.736508125544055
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	4	5		#D7141E	0.85859516383168
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	5	5	lip|production	#FC622F	0.63726515226499
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	6	5	somatotopic	#FECB68	0.369686070125769
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	7	5		#FC622F	0.635284861027929
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	8	5		#FD913D	0.55118859061805
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	9	5	empathy	#FD913D	0.52287166618785
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	10	5		#FD913D	0.562472683083873
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	11	5	disorder	#FDAD4A	0.414218973432358
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	12	5		#FC622F	0.667099033514868
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	13	5		#F03623	0.766254608526238
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	14	5		#F03623	0.755841248603023
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	15	5		#F03623	0.739072314888254
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	16	5		#F03623	0.74534587919148
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	17	5		#F03623	0.742157761512501
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	18	5	mental	#FD913D	0.536062120506233
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	19	5	go	#FD913D	0.510440244382868
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	20	5	object	#FECB68	0.369921840004088
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	21	5		#FD913D	0.591787151480319
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	22	5		#FC622F	0.674673602128563
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	23	5	word|words	#F03623	0.732078728116293
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	1	6		#D7141E	0.887269495691515
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	2	6		#B10026	0.91940667357941
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	3	6		#B10026	0.9067682459486
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	4	6	vocal	#F03623	0.793495227249797
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	5	6	articulatory	#FC622F	0.656014557785855
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	6	6		#F03623	0.742094233340478
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	7	6	oddball	#D7141E	0.832777004081078
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	8	6	perceived	#FECB68	0.345351365859239
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	9	6	errorrelated	#FD913D	0.565844348441254
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	10	6	approach	#FDAD4A	0.43148160332639
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	11	6	schizophrenia	#FD913D	0.547222043686377
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	12	6	acquisition	#D7141E	0.856250079638204
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	13	6		#B10026	0.926543338984463
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	14	6		#B10026	0.934997028102268
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	15	6		#B10026	0.910082177617535
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	16	6		#D7141E	0.88885406163428
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	17	6		#F03623	0.780930779631015
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	18	6		#FC622F	0.677859473894617
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	19	6		#FC622F	0.648606978208092
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	20	6	objects	#FDAD4A	0.405229895993311
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	21	6		#FC622F	0.644105978282546
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	22	6		#F03623	0.739401928644959
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	23	6	language|semantic	#F03623	0.782648115250344
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	1	7	dopamine|dopaminergic	#FECB68	0.359438225791159
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	2	7		#FECB68	0.363835874573954
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	3	7		#FD913D	0.523002703230273
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	4	7		#FC622F	0.628275712199817
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	5	7		#FC622F	0.612773995109132
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	6	7		#FC622F	0.68354145434638
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	7	7		#FC622F	0.657118663325607
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	8	7		#FD913D	0.58390721014254
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	9	7		#FD913D	0.57824581167027
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	10	7		#FC622F	0.661843116949918
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	11	7		#F03623	0.726312660286407
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	12	7		#D7141E	0.83215917960153
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	13	7	linguistic|spoken	#B10026	0.982568868774225
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	14	7		#B10026	0.948372670726347
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	15	7	comprehension|sentence|sentences|syntactic	#B10026	0.906256719961546
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	16	7		#B10026	0.913179085392592
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	17	7		#D7141E	0.816797111551877
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	18	7	phonological|reading|read	#F03623	0.770461107022717
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	19	7		#FC622F	0.675602971711811
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	20	7	perceptual|recognition	#FD913D	0.55864220480827
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	21	7		#FC622F	0.663870833955493
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	22	7		#F03623	0.744268600676015
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	23	7	verb	#F03623	0.741254500333484
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	1	8	outcome|reward	#FEE188	0.211692516525667
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	2	8	anticipation	#FEE188	0.28229882440024
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	3	8	outcomes	#FEE188	0.216470403653191
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	4	8	choice|choices	#FECB68	0.364325733993593
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	5	8	decisions|probability	#FD913D	0.529007834359272
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	6	8	reversal	#FECB68	0.390749962645976
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	7	8	classification|incorrect	#FDAD4A	0.45411706587554
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	8	8		#FD913D	0.567962217424461
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	9	8	agerelated|fluency|probes	#FD913D	0.572646631108344
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	10	8	engaged	#FD913D	0.570889487020942
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	11	8	explicit|knowledge	#F03623	0.757692964144131
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	12	8		#D7141E	0.860163775615744
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	13	8		#B10026	0.920961698634139
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	14	8		#D7141E	0.900080839622839
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	15	8		#D7141E	0.867292501253982
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	16	8		#D7141E	0.873855274164342
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	17	8	lexical	#D7141E	0.862823836980819
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	18	8		#F03623	0.731594295877615
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	19	8		#FC622F	0.695679945951919
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	20	8		#FC622F	0.644050558406792
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	21	8	encoding	#FD913D	0.577008881352509
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	22	8	retrieval	#FD913D	0.547346634308898
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	23	8	verbal	#FC622F	0.697014426098182
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	1	9	incentive|monetary|money|rewards	#FFF1A9	0.180028683493679
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	2	9	loss	#FEE188	0.252832836997281
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	3	9		#FECB68	0.326859218878478
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	4	9		#FECB68	0.381582171939029
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	5	9	decisionmaking	#FECB68	0.301504185544049
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	6	9		#FD913D	0.511536885124416
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	7	9		#FD913D	0.522240417531317
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	8	9		#FD913D	0.558106791315438
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	9	9		#FC622F	0.627646145151402
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	10	9		#FC622F	0.695016669086077
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	11	9		#F03623	0.759766605863745
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	12	9		#D7141E	0.818530497261439
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	13	9	noun	#D7141E	0.861537507901517
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	14	9	meaning	#F03623	0.746490771801965
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	15	9	english	#FC622F	0.647083172416498
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	16	9	pseudoword|pseudowords	#F03623	0.747889260431082
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	17	9		#F03623	0.773293626439845
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	18	9		#F03623	0.713344896589285
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	19	9	familiar|judgment	#FD913D	0.55227818414932
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	20	9	pair|pairs	#FC622F	0.681130221522331
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	21	9		#FC622F	0.660004185134259
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	22	9		#FD913D	0.596643148524627
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	23	9	letter|working	#FDAD4A	0.493358047261888
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	1	10	losses|reinforcement|win	#FEE188	0.26443234423661
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	2	10	gain	#FEE188	0.255558076746095
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	3	10	expectation	#FEE188	0.292200698945456
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	4	10	risk	#FECB68	0.352896026085141
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	5	10	fact	#FECB68	0.319763912390148
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	6	10	associative	#FECB68	0.396147660748224
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	7	10	familiarity|judgments|old	#FDAD4A	0.432262858385984
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	8	10	contextual|text	#FDAD4A	0.465479399534327
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	9	10	recall|retrieved	#FC622F	0.656253190570224
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	10	10	conceptual|semantically	#FD913D	0.559545163892722
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	11	10	grammatical|speakers	#F03623	0.738572407764094
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	12	10	nouns	#F03623	0.737777214501887
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	13	10	japanese	#D7141E	0.817428460596658
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	14	10	languages	#F03623	0.731292480121325
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	15	10	written	#FC622F	0.686180554978858
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	16	10	chinese|phonology	#FD913D	0.582540233033779
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	17	10	orthographic	#FD913D	0.559726500032526
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	18	10		#F03623	0.712750887812251
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	19	10		#F03623	0.733100735473298
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	20	10	association|decision	#FD913D	0.594893073963786
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	21	10	selection	#FD913D	0.54663295510085
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	22	10	letters	#FECB68	0.380246324962469
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	23	10	demand|load	#FDAD4A	0.442848630694506
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	1	11	conditioned|conditioning	#FFF1A9	0.149077131675257
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	2	11		#FEE188	0.278549836895187
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	3	11	drug|placebo	#FEE188	0.24630942111917
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	4	11		#FECB68	0.34658087414825
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	5	11	associations	#FEE188	0.296650168664049
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	6	11		#FECB68	0.390485020596264
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	7	11	episodic|recollection	#FDAD4A	0.401981888260722
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	8	11		#FDAD4A	0.431806713775845
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	9	11		#FC622F	0.690504542637511
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	10	11	concepts	#FD913D	0.522961690277054
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	11	11		#F03623	0.791733167526098
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	12	11		#D7141E	0.812457738371791
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	13	11	german	#D7141E	0.868220155690162
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	14	11	readers	#FC622F	0.683860396026427
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	15	11	character|name|naming	#FD913D	0.549330265814327
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	16	11		#FC622F	0.617862490181168
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	17	11	novel	#FC622F	0.615397230279917
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	18	11		#FC622F	0.677371548656301
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	19	11	child|children	#D7141E	0.801841121800061
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	20	11	adults	#FC622F	0.693536796107964
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	21	11	ability|feedback|learning	#FDAD4A	0.465714875205221
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	22	11	cues|delay	#FDAD4A	0.402533044106297
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	23	11	attentional|difficulty|targets	#FECB68	0.365101178569873
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	1	12	aversive|shock	#FEE188	0.230792664762411
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	2	12	reactivity	#FEE188	0.234615182240277
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	3	12	males|sex|women	#FECB68	0.339424536657207
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	4	12	animal	#FECB68	0.326920771429598
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	5	12	animals	#FFF1A9	0.131293548789108
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	6	12		#FECB68	0.306281667577946
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	7	12	remember|subsequent	#FEE188	0.268718877261374
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	8	12	autobiographical|memories	#FEE188	0.239177573212428
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	9	12		#F03623	0.759459317822695
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	10	12	violation|violations	#D7141E	0.895782456421717
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	11	12	aphasia	#F03623	0.705020807305595
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	12	12	nonwords	#FC622F	0.683032536659672
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	13	12	dyslexia	#FDAD4A	0.498405765274747
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	14	12		#FC622F	0.653579132630603
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	15	12	priming	#FD913D	0.520388451898385
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	16	12		#FD913D	0.568880417968451
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	17	12	category|repetition	#FD913D	0.543239168615767
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	18	12		#FC622F	0.651428786627693
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	19	12	developmental|development	#FD913D	0.590362043079481
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	20	12		#FC622F	0.673658422827196
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	21	12	space	#FD913D	0.568349429581335
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	22	12		#FDAD4A	0.49260037725191
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	23	12	color	#FDAD4A	0.440896546571904
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	1	13	threat	#FFF1A9	0.146888686234558
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	2	13	regulation	#FECB68	0.31184475128433
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	3	13		#FECB68	0.316243845327131
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	4	13	masked	#FFF1A9	0.172886249545367
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	5	13	scene|scenes	#FFFFCC	0.0977622850766163
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	6	13		#FEE188	0.264237288643728
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	7	13	confidence|remembered	#FFF1A9	0.11354378721526
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	8	13		#FECB68	0.390027858538819
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	9	13		#F03623	0.768262530387566
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	10	13	ambiguity|ambiguous	#FD913D	0.540639463900861
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	11	13		#D7141E	0.821649768912574
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	12	13		#FD913D	0.58726698823545
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	13	13	writing	#FECB68	0.353924388045677
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	14	13		#FD913D	0.522330677103729
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	15	13	categorization|congruency|prime	#FC622F	0.615654133868162
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	16	13		#FD913D	0.551327009408295
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	17	13	mask	#FECB68	0.395603039696693
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	18	13		#FD913D	0.566858758915573
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	19	13		#FD913D	0.58263765438014
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	20	13		#FC622F	0.607958924742707
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	21	13	conflict|congruent|incongruent	#FC622F	0.611332713774587
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	22	13	errors	#FDAD4A	0.475448453960019
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	23	13	maintenance|probe|wm	#FDAD4A	0.406378419497838
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	1	14	angry|fearful|happy	#FFF1A9	0.119316451706374
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	2	14		#FEE188	0.203659568348984
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	3	14	awareness|conscious|ptsd	#FECB68	0.370617470138688
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	4	14		#FECB68	0.328171573542447
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	5	14	houses|photographs	#FFF1A9	0.18858526155159
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	6	14		#FEE188	0.261899214454306
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	7	14	hits	#FEE188	0.215143528451069
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	8	14	famous	#FECB68	0.324326546706896
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	9	14	names	#FDAD4A	0.469579014749043
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	10	14	family	#FC622F	0.603637919490591
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	11	14	competition|mouth	#FDAD4A	0.455958791012616
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	12	14	abilities	#FEE188	0.281837263758213
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	13	14	implicit|unfamiliar	#FECB68	0.349200463328899
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	14	14		#FDAD4A	0.471721692590153
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	15	14	tom	#FDAD4A	0.443150736401242
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	16	14		#FDAD4A	0.448823824638664
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	17	14		#FDAD4A	0.420070489657477
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	18	14	stop	#FECB68	0.357238814931796
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	19	14	inhibition|inhibitory|nogo	#FECB68	0.381934073506626
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	20	14	monitoring|stroop	#FD913D	0.570248086997164
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	21	14	interference	#FD913D	0.53839392650965
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	22	14		#FD913D	0.526033931825786
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	23	14	demands|executive	#FDAD4A	0.460247365981655
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	1	15	anger	#FFF1A9	0.173600925979323
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	2	15	stress	#FFFFCC	0.0743754804528056
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	3	15	feelings	#FFF1A9	0.174450571860693
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	4	15	salient	#FECB68	0.341171636132016
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	5	15	novelty	#FECB68	0.341494148872279
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	6	15	movie	#FFF1A9	0.167023852047173
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	7	15		#FECB68	0.347526654627202
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	8	15		#FD913D	0.500128387275908
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	9	15	longterm	#FDAD4A	0.42162926615062
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	10	15		#FD913D	0.587819846037392
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	11	15	reasoning|relational	#FEE188	0.28827534739932
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	12	15		#FDAD4A	0.464183060336528
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	13	15	presentations	#FDAD4A	0.464570400661939
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	14	15		#FDAD4A	0.414337327338689
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	15	15	identity	#FEE188	0.286676745810099
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	16	15		#FDAD4A	0.403307943628768
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	17	15	strategies|strategy	#FEE188	0.293527642838237
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	18	15	card|cards	#FECB68	0.362729085929405
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	19	15	gonogo	#FDAD4A	0.45183181270589
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	20	15		#FD913D	0.513566088056889
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	21	15	switching|switch	#FDAD4A	0.45547340877664
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	22	15		#FDAD4A	0.497796835947652
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	23	15	2back|rule	#FDAD4A	0.416855518904777
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	1	16	emotionally|mood|personality|sadness	#FEE188	0.225054256536011
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	2	16	disgust|sexual	#FFFFCC	0
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	3	16	olfactory	#FFF1A9	0.178350249291733
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	4	16	physiological	#FFF1A9	0.179902764586296
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	5	16	depressed|depressive|habituation	#FEE188	0.263830349291413
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	6	16	schizophrenic	#FDAD4A	0.420844508557209
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	7	16	colors|contexts	#FEE188	0.251200684452852
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	8	16	aging|encoded	#FEE188	0.241408487665777
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	9	16	goal	#FDAD4A	0.421746564830534
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	10	16		#FD913D	0.513416206902668
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	11	16	autism|autistic|nonverbal	#FDAD4A	0.460458004435409
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	12	16		#FDAD4A	0.462941341301287
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	13	16	bottomup|repetitions	#FECB68	0.325452407496684
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	14	16	adaptation	#FDAD4A	0.417847732121694
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	15	16	irrelevant	#FDAD4A	0.419947499696427
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	16	16	distractor|distractors	#FEE188	0.242515403670406
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	17	16		#FECB68	0.385016095026596
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	18	16	subtraction	#FECB68	0.328170779196862
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	19	16	1back|nback	#FDAD4A	0.425459872425126
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	20	16	manipulation|rules	#FECB68	0.377166893273504
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	21	16		#FDAD4A	0.433074231075537
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	22	16		#FECB68	0.341114300311455
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	23	16	digit	#FECB68	0.35531573181092
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	1	17	avoidance	#FFF1A9	0.099951799763731
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	2	17		#FFF1A9	0.173397478474542
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	3	17	eating|food	#FFFFCC	0.080219797666732
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	4	17	taste	#FFF1A9	0.159017230934972
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	5	17	bipolar	#FECB68	0.361918973179878
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	6	17	illness|uncertainty	#FECB68	0.304431837529053
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	7	17	females|probabilistic	#FD913D	0.532154302434931
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	8	17	rejection	#FFF1A9	0.187192894308252
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	9	17	colour|paired	#FECB68	0.344010413222998
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	10	17		#FDAD4A	0.440840950708496
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	11	17		#FECB68	0.382740727417195
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	12	17		#FDAD4A	0.408421914998065
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	13	17	taskirrelevant	#FECB68	0.338095932248025
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	14	17		#FECB68	0.370188639048664
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	15	17	suppression	#FEE188	0.261666406759678
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	16	17		#FECB68	0.362753302162289
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	17	17	shifting|shortterm	#FEE188	0.236648742192083
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	18	17	digits	#FECB68	0.308436218890005
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	19	17	search	#FECB68	0.306026601666431
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	20	17	counting|taskrelated	#FDAD4A	0.460835007781372
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	21	17	topdown	#FECB68	0.31914783934866
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	22	17	visuospatial	#FEE188	0.294637851342821
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	23	17	arithmetic|calculation|solving	#FFF1A9	0.118653600493071
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	1	18	addiction|craving|drugs	#FFF1A9	0.171555160013894
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	2	18	allele|genotype|polymorphism	#FFF1A9	0.115475183479421
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	3	18	motivation	#FFF1A9	0.198855792236551
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	4	18	heart	#FEE188	0.274161250930109
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	5	18	sleep	#FFF1A9	0.170816210232061
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	6	18	expectancy	#FECB68	0.342940851706116
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	7	18	phasic|salience	#FD913D	0.515400999840845
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	8	18	adolescence|adolescents	#FECB68	0.323208916829825
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	9	18	intelligence|tracking	#FECB68	0.322376839595071
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	10	18		#FECB68	0.388350056543975
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	11	18	serial	#FEE188	0.227626581608156
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	12	18		#FECB68	0.372961387651381
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	13	18	spatially|taskrelevant	#FECB68	0.332212709465124
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	14	18		#FECB68	0.367905639456954
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	15	18	attended|attend|unattended	#FEE188	0.26678155550429
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	16	18	rotation|shapes	#FFF1A9	0.195475318695484
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	17	18	rehearsal	#FD913D	0.509446862562702
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	18	18	learned	#FDAD4A	0.422736189371954
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	19	18		#FDAD4A	0.452561050157299
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	20	18	cued|preparatory	#FECB68	0.323433444875166
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	21	18		#FDAD4A	0.411933939073215
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	22	18		#FECB68	0.337549560396906
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	23	18	numbers|numerical	#FEE188	0.223414857798675
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	1	19	future	#FFF1A9	0.154708675514589
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	2	19	negatively	#FDAD4A	0.437128317968669
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	3	19	distress|epilepsy|selfreported	#FEE188	0.255131366901762
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	4	19	anticipatory|cocaine|probabilities|smoking	#FEE188	0.230136514172667
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	5	19	alcohol|amount|impulsivity	#FECB68	0.334001479326727
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	6	19	game|success	#FFFFCC	0.0792123679910506
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	7	19	adhd|childhood|engagement	#FECB68	0.334726904987709
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	8	19		#FDAD4A	0.466804781746377
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	9	19		#FDAD4A	0.420063009765164
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	10	19		#FECB68	0.392176493925008
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	11	19		#FECB68	0.344376306930179
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	12	19	endogenous	#FEE188	0.274392851588463
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	13	19	cueing|invalid|orienting	#FEE188	0.293242251745816
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	14	19		#FECB68	0.362545480760929
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	15	19	multisensory	#FECB68	0.394760877707932
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	16	19		#FECB68	0.354381711653453
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	17	19	shifts	#FECB68	0.349908071135003
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	18	19	covert	#FC622F	0.640560489870397
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	19	19		#FECB68	0.383427256984002
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	20	19	preparation	#FEE188	0.266663642777821
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	21	19	discrimination|training	#FDAD4A	0.487794180435336
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	22	19	sequences	#FEE188	0.29768379594121
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	23	19		#FDAD4A	0.434848831630625
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	1	20	personal|self|selfreferential|trait|traits	#FDAD4A	0.462671210290578
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	2	20	empathic|theory	#FDAD4A	0.459957244104974
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	3	20	attribution|intentional	#FFF1A9	0.111085510064501
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	4	20	elderly|oscillations	#FECB68	0.340835619905011
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	5	20	antipsychotic|virtual	#FEE188	0.206445059648456
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	6	20		#FD913D	0.500374182658164
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	7	20	experiences	#FECB68	0.379142362952796
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	8	20	categorical|pressure	#FEE188	0.205345003371204
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	9	20	play|skills	#FECB68	0.353593091665238
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	10	20	automatic|trained	#FECB68	0.389616362377759
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	11	20		#FECB68	0.318372439667824
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	12	20	practice	#FECB68	0.344453797473559
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	13	20	visuomotor	#FFF1A9	0.186736327782249
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	14	20		#FECB68	0.326942252602928
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	15	20	tool	#FEE188	0.221692681919387
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	16	20	vision	#FFFFCC	0.0839126331330868
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	17	20	visually	#FEE188	0.283857666890906
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	18	20	saccade|saccades|saccadic	#FFF1A9	0.103451120104
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	19	20	locations	#FECB68	0.334219040690102
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	20	20	imagery|planning	#FECB68	0.363356674254435
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	21	20		#FECB68	0.359092849448141
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	22	20	rest	#FD913D	0.507028908765965
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	23	20	sequence	#FDAD4A	0.440167959524174
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	1	21	scenarios	#FD913D	0.519974125253782
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	2	21	intention|intentions	#FECB68	0.313381202204035
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	3	21	causality|perspective	#FEE188	0.273098000373677
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	4	21	past	#FEE188	0.200810754694212
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	5	21		#FD913D	0.572096101283502
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	6	21	episode	#FDAD4A	0.410102740343374
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	7	21	improvement	#FEE188	0.29260066471874
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	8	21	masking|retention	#FFF1A9	0.185465302182292
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	9	21		#FDAD4A	0.445760776789943
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	10	21	dominant	#FEE188	0.279862434592577
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	11	21		#FEE188	0.262793384479397
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	12	21	sequential	#FEE188	0.209920194522984
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	13	21	fingers	#FFF1A9	0.163785139360094
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	14	21		#FEE188	0.249317892457892
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	15	21	gesture|gestures	#FEE188	0.245972722968613
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	16	21		#FEE188	0.221426017291263
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	17	21	hands	#FFFFCC	0.0749348329664896
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	18	21		#FEE188	0.231804105058961
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	19	21		#FEE188	0.246617920606343
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	20	21	eye|position	#FEE188	0.225670695137325
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	21	21	execution	#FFF1A9	0.190703944442986
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	22	21	finger|sensorimotor	#FEE188	0.219693408740419
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	23	21		#FECB68	0.329524877061736
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	1	22	moral|stories|story	#FD913D	0.538019456647743
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	2	22	mentalizing|persons	#FEE188	0.21992971739274
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	3	22	default|restingstate	#FECB68	0.306916324311814
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	4	22	thinking|thought|thoughts	#FECB68	0.368253969775472
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	5	22	spontaneous	#FD913D	0.548295238445871
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	6	22	concentration|sensations	#FECB68	0.338692183080221
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	7	22	hierarchical|preference	#F03623	0.76257689616026
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	8	22	effort|oral|simulation	#FEE188	0.257490356154604
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	9	22	interhemispheric|plasticity	#FDAD4A	0.441043684039901
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	10	22	imagined|imagine	#FEE188	0.265639904177834
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	11	22	tapping	#FEE188	0.221256239778883
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	12	22	foot|muscle|muscles|voluntary	#FFF1A9	0.181420972596615
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	13	22	limb	#FFF1A9	0.137931466130315
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	14	22	eyes|velocity	#FFF1A9	0.13201697694028
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	15	22	biological|gaze|videos	#FFF1A9	0.120366449080802
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	16	22	body	#FEE188	0.265508008960712
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	17	22	grasping|orientation|reaching	#FFFFCC	0.0923046903100197
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	18	22		#FEE188	0.221224729680131
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	19	22	mirror|shape	#FFF1A9	0.189383158958171
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	20	22	actions	#FEE188	0.233220618371793
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	21	22	action	#FECB68	0.349698234738042
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	22	22		#FEE188	0.278275901284113
+1cfe630d-1d4d-3ae8-93ad-431cc9315ce7	Baudonniere PM	23	22	hand|movements|sensory	#FEE188	0.260651605201757

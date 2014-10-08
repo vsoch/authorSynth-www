@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	1	1	auditory|speech	#FEE188	0.267455407600564
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	2	1		#FEE188	0.217587674806915
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	3	1	da|integration	#FECB68	0.366085849406054
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	4	1		#FDAD4A	0.450592538365837
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	5	1	physical|psychophysical|tactile	#FD913D	0.511516558416662
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	6	1		#F03623	0.750485664462198
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	7	1	somatosensory|stimulation	#F03623	0.796450464548006
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	8	1	painful|pain	#B10026	0.909642572383493
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	9	1		#B10026	0.913104296570712
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	10	1	ratings	#D7141E	0.81459884983917
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	11	1	affective|affect	#FC622F	0.689348252341593
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	12	1	emotions	#FD913D	0.534825815459556
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	13	1	expression|expressions|facial	#FDAD4A	0.438244588782395
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	14	1		#FD913D	0.521221457243787
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	15	1		#FD913D	0.551206260988006
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	16	1	emotion|motion|neutral	#FD913D	0.565319943963715
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	17	1	rating	#FC622F	0.676159832028129
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	18	1	negative|positive	#FD913D	0.514195759632248
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	19	1		#FD913D	0.533402976489267
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	20	1	ear|order	#FDAD4A	0.459061926244128
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	21	1	motor	#FD913D	0.551818302430006
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	22	1	visual	#FDAD4A	0.418452446060944
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	23	1	age|image|response	#FDAD4A	0.481846245133484
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	1	2	sound|sounds	#FFF1A9	0.127718051663502
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	2	2		#FFF1A9	0.19821615984961
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	3	2	audiovisual|bimodal|crossmodal	#FFF1A9	0.139085417416946
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	4	2		#FDAD4A	0.438508327448576
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	5	2		#FD913D	0.554403186456724
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	6	2		#F03623	0.732721417227312
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	7	2	sensation	#F03623	0.796554026882719
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	8	2	heat|noxious	#F03623	0.792158285751483
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	9	2		#D7141E	0.893866463765367
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	10	2		#F03623	0.780195219696887
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	11	2		#F03623	0.709572721586398
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	12	2	valence	#FDAD4A	0.463409226310713
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	13	2	person|social	#FECB68	0.397769802358067
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	14	2		#FD913D	0.522667685132692
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	15	2	face|faces	#FECB68	0.39520459283221
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	16	2		#FD913D	0.574927311429812
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	17	2		#FD913D	0.580218443683775
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	18	2		#FD913D	0.571931112005367
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	19	2		#FD913D	0.534384704348289
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	20	2		#FD913D	0.515717161684972
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	21	2	images|spatial	#FDAD4A	0.47367205903447
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	22	2	control	#FDAD4A	0.487710456708108
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	23	2	time	#FDAD4A	0.471668971769612
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	1	3	acoustic|listening|musical|music|pitch	#FFF1A9	0.137702937844058
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	2	3	noise|tones	#FFFFCC	0.0872279927340395
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	3	3		#FEE188	0.286371128963454
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	4	3		#FDAD4A	0.40764488673269
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	5	3	frequency	#FDAD4A	0.48109197564268
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	6	3		#F03623	0.725928512509628
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	7	3		#D7141E	0.897095486172675
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	8	3	temperature	#FC622F	0.677536830752916
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	9	3		#D7141E	0.90068756515735
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	10	3	pleasant|unpleasant	#FC622F	0.670178651774259
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	11	3	anxiety	#FC622F	0.64426149815831
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	12	3		#FC622F	0.65543344123028
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	13	3		#FC622F	0.60730635188948
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	14	3		#FD913D	0.562862891585117
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	15	3		#FD913D	0.561260028044163
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	16	3	picture	#FD913D	0.520568730183117
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	17	3		#FD913D	0.570831280378503
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	18	3	value	#FD913D	0.527281526038558
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	19	3	cue	#FD913D	0.521057595849796
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	20	3	error|target	#FDAD4A	0.478655407668144
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	21	3	attention	#FDAD4A	0.437105523317586
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	22	3		#FDAD4A	0.4153560962738
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	23	3	number	#FDAD4A	0.414764424988248
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	1	4	voice	#FFF1A9	0.102437072813858
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	2	4		#FFF1A9	0.160446920093295
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	3	4	hearing	#FFF1A9	0.189982894639975
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	4	4		#FDAD4A	0.407704575840511
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	5	4	overt	#FDAD4A	0.492456617692359
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	6	4		#FD913D	0.596050956688195
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	7	4		#B10026	0.934346965270114
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	8	4	nociceptive|nonpainful|painrelated	#B10026	1
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	9	4	unpleasantness	#D7141E	0.87113129726382
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	10	4	skin|subjective	#FC622F	0.699114591374848
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	11	4	depression	#F03623	0.739580888246144
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	12	4	experience	#FC622F	0.672850248824869
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	13	4	female	#FD913D	0.589983822907081
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	14	4	male	#FD913D	0.567069112489381
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	15	4	pictures	#FDAD4A	0.491670642905869
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	16	4		#FD913D	0.544619850691024
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	17	4	perception	#FD913D	0.524310815190555
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	18	4		#FDAD4A	0.493952338883253
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	19	4		#FDAD4A	0.46555561316596
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	20	4		#FDAD4A	0.447527918853908
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	21	4	correct	#FECB68	0.383367754988866
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	22	4	work	#FECB68	0.356343272504168
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	23	4	memory	#FEE188	0.297820578863769
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	1	5	prosodic|prosody	#FFF1A9	0.101723017506771
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	2	5	phonetic	#FFF1A9	0.107873903724108
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	3	5	syllable|syllables	#FFF1A9	0.184114448137261
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	4	5		#FECB68	0.391040485244349
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	5	5	lip|production	#FDAD4A	0.421589430801486
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	6	5	somatotopic	#FD913D	0.504344364915522
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	7	5		#B10026	0.918819872142309
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	8	5		#B10026	0.935046342710388
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	9	5	empathy	#B10026	0.90463039022041
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	10	5		#F03623	0.709151583963141
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	11	5	disorder	#FD913D	0.517888566847972
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	12	5		#FC622F	0.604455078855188
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	13	5		#FD913D	0.541214567565751
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	14	5		#FDAD4A	0.451869387388918
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	15	5		#FDAD4A	0.442608765230081
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	16	5		#FDAD4A	0.442089785220094
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	17	5		#FDAD4A	0.408080090481452
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	18	5	mental	#FECB68	0.367496470066444
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	19	5	go	#FECB68	0.391539605818172
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	20	5	object	#FECB68	0.335477377411192
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	21	5		#FECB68	0.371341494574962
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	22	5		#FECB68	0.305449308453864
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	23	5	word|words	#FEE188	0.240888945489279
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	1	6		#FECB68	0.327382037521721
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	2	6		#FECB68	0.321933810214995
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	3	6		#FDAD4A	0.40646550074893
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	4	6	vocal	#FDAD4A	0.433850175093677
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	5	6	articulatory	#FEE188	0.264620569796553
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	6	6		#FD913D	0.535280386098628
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	7	6	oddball	#FD913D	0.59814413754666
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	8	6	perceived	#FD913D	0.591800638562411
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	9	6	errorrelated	#FD913D	0.577642585354749
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	10	6	approach	#FD913D	0.544400995148581
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	11	6	schizophrenia	#FDAD4A	0.442052330414268
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	12	6	acquisition	#FDAD4A	0.493592367290914
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	13	6		#FECB68	0.398723250199745
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	14	6		#FEE188	0.21025032057096
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	15	6		#FEE188	0.213515605510345
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	16	6		#FEE188	0.237865299596856
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	17	6		#FECB68	0.308540547936145
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	18	6		#FECB68	0.336979535221033
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	19	6		#FECB68	0.347899314872747
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	20	6	objects	#FECB68	0.334419810760549
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	21	6		#FECB68	0.333358276596091
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	22	6		#FEE188	0.273443307875538
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	23	6	language|semantic	#FEE188	0.20741231356097
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	1	7	dopamine|dopaminergic	#FECB68	0.332641481713002
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	2	7		#FECB68	0.393176271647688
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	3	7		#FDAD4A	0.469553943452991
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	4	7		#FDAD4A	0.481852294027146
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	5	7		#FDAD4A	0.489661203068539
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	6	7		#FDAD4A	0.49145588593825
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	7	7		#FD913D	0.519558163790162
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	8	7		#FD913D	0.508681190957964
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	9	7		#FD913D	0.572099555028288
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	10	7		#FDAD4A	0.419030992387881
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	11	7		#FECB68	0.38279364039439
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	12	7		#FECB68	0.34429221053616
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	13	7	linguistic|spoken	#FEE188	0.207111053506813
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	14	7		#FFF1A9	0.153844815863091
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	15	7	comprehension|sentence|sentences|syntactic	#FFFFCC	0.0801907711673289
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	16	7		#FFF1A9	0.160785726691328
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	17	7		#FEE188	0.247597388463339
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	18	7	phonological|reading|read	#FEE188	0.259308764813907
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	19	7		#FECB68	0.315259745647563
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	20	7	perceptual|recognition	#FECB68	0.323158665004029
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	21	7		#FECB68	0.326311382499191
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	22	7		#FEE188	0.288748616132057
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	23	7	verb	#FEE188	0.29860230217314
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	1	8	outcome|reward	#FDAD4A	0.437465818096297
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	2	8	anticipation	#FECB68	0.373955495099013
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	3	8	outcomes	#FECB68	0.312319563697708
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	4	8	choice|choices	#FECB68	0.334889600374895
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	5	8	decisions|probability	#FDAD4A	0.420986140341141
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	6	8	reversal	#FDAD4A	0.482491489275515
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	7	8	classification|incorrect	#FEE188	0.28967722576972
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	8	8		#FECB68	0.357314239963987
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	9	8	agerelated|fluency|probes	#FECB68	0.3058598443366
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	10	8	engaged	#FEE188	0.214543283586996
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	11	8	explicit|knowledge	#FFF1A9	0.180244806363614
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	12	8		#FEE188	0.221609313594268
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	13	8		#FFF1A9	0.173821052064539
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	14	8		#FFF1A9	0.138375873475703
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	15	8		#FFF1A9	0.134629349265065
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	16	8		#FFF1A9	0.157395763080381
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	17	8	lexical	#FEE188	0.204716906668226
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	18	8		#FEE188	0.274934747304319
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	19	8		#FECB68	0.300436989358172
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	20	8		#FECB68	0.316364855421489
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	21	8	encoding	#FECB68	0.312410008847686
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	22	8	retrieval	#FEE188	0.25513516372742
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	23	8	verbal	#FECB68	0.355154444190883
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	1	9	incentive|monetary|money|rewards	#FEE188	0.269536753305225
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	2	9	loss	#FECB68	0.391324503040764
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	3	9		#FDAD4A	0.446505829120655
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	4	9		#FDAD4A	0.447347475079391
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	5	9	decisionmaking	#FECB68	0.357906720045972
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	6	9		#FECB68	0.374671765539762
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	7	9		#FECB68	0.329612460778307
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	8	9		#FECB68	0.30065091456003
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	9	9		#FEE188	0.253054326984571
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	10	9		#FEE188	0.210289398724035
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	11	9		#FFF1A9	0.182563872710403
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	12	9		#FFF1A9	0.172990958878368
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	13	9	noun	#FFFFCC	0.0666199488158622
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	14	9	meaning	#FFF1A9	0.127918344886206
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	15	9	english	#FFF1A9	0.134912618683432
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	16	9	pseudoword|pseudowords	#FEE188	0.201740537482065
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	17	9		#FEE188	0.234031121498846
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	18	9		#FEE188	0.296866585949668
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	19	9	familiar|judgment	#FEE188	0.289683824789249
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	20	9	pair|pairs	#FEE188	0.272435238006143
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	21	9		#FECB68	0.383060699096187
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	22	9		#FECB68	0.362605702430195
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	23	9	letter|working	#FECB68	0.299631330546337
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	1	10	losses|reinforcement|win	#FEE188	0.294276863609602
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	2	10	gain	#FECB68	0.338981500772992
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	3	10	expectation	#FD913D	0.514403624799953
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	4	10	risk	#FECB68	0.390493547469438
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	5	10	fact	#FECB68	0.315690930100984
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	6	10	associative	#FDAD4A	0.413787277263259
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	7	10	familiarity|judgments|old	#FFF1A9	0.188569823547784
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	8	10	contextual|text	#FEE188	0.216098067889587
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	9	10	recall|retrieved	#FFF1A9	0.123804396779696
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	10	10	conceptual|semantically	#FFFFCC	0.0672222650514581
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	11	10	grammatical|speakers	#FFF1A9	0.168790932234346
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	12	10	nouns	#FFFFCC	0.0708500289889174
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	13	10	japanese	#FFF1A9	0.124069525706663
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	14	10	languages	#FFF1A9	0.136143792629531
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	15	10	written	#FFF1A9	0.189241700017158
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	16	10	chinese|phonology	#FFF1A9	0.198946126510903
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	17	10	orthographic	#FEE188	0.241796980139122
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	18	10		#FECB68	0.328368849334159
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	19	10		#FECB68	0.36129559973529
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	20	10	association|decision	#FECB68	0.390852729566114
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	21	10	selection	#FECB68	0.377481046723282
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	22	10	letters	#FECB68	0.308367855250909
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	23	10	demand|load	#FEE188	0.293429890762666
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	1	11	conditioned|conditioning	#FC622F	0.600562157520702
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	2	11		#FC622F	0.658702130046488
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	3	11	drug|placebo	#FD913D	0.508305568918795
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	4	11		#FD913D	0.551684250630709
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	5	11	associations	#FDAD4A	0.465517153521375
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	6	11		#FECB68	0.308112785593545
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	7	11	episodic|recollection	#FFF1A9	0.130291546067984
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	8	11		#FEE188	0.237282133246337
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	9	11		#FEE188	0.210397926325451
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	10	11	concepts	#FFFFCC	0.0666811537109919
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	11	11		#FFF1A9	0.18074418094314
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	12	11		#FFF1A9	0.186070492634413
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	13	11	german	#FEE188	0.199467749255209
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	14	11	readers	#FEE188	0.25153345063384
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	15	11	character|name|naming	#FECB68	0.303446020264114
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	16	11		#FEE188	0.288173979103333
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	17	11	novel	#FECB68	0.323645770863836
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	18	11		#FECB68	0.337268794608222
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	19	11	child|children	#FECB68	0.33367765107474
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	20	11	adults	#FDAD4A	0.412460039488412
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	21	11	ability|feedback|learning	#FD913D	0.562262455441837
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	22	11	cues|delay	#FECB68	0.370833608712888
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	23	11	attentional|difficulty|targets	#FECB68	0.391261884878594
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	1	12	aversive|shock	#D7141E	0.817346362345957
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	2	12	reactivity	#FC622F	0.69490994851322
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	3	12	males|sex|women	#FDAD4A	0.405829173174062
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	4	12	animal	#FD913D	0.520037817045279
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	5	12	animals	#FECB68	0.337355087010279
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	6	12		#FEE188	0.287267022852719
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	7	12	remember|subsequent	#FFF1A9	0.192061952316525
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	8	12	autobiographical|memories	#FFFFCC	0.0368485664356573
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	9	12		#FEE188	0.234979561085782
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	10	12	violation|violations	#FFF1A9	0.142593524338949
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	11	12	aphasia	#FFF1A9	0.198174212346361
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	12	12	nonwords	#FFF1A9	0.182906955597488
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	13	12	dyslexia	#FFF1A9	0.158689569480338
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	14	12		#FECB68	0.311885002885515
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	15	12	priming	#FEE188	0.220603116444958
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	16	12		#FECB68	0.336093675526686
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	17	12	category|repetition	#FEE188	0.282006903999022
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	18	12		#FECB68	0.355821670681969
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	19	12	developmental|development	#FEE188	0.267709545015684
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	20	12		#FDAD4A	0.438703934874518
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	21	12	space	#FDAD4A	0.475847789831585
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	22	12		#FECB68	0.398149996762275
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	23	12	color	#FECB68	0.36557972008059
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	1	13	threat	#FD913D	0.596712619739227
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	2	13	regulation	#FC622F	0.625310607768148
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	3	13		#FD913D	0.564563832500834
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	4	13	masked	#FECB68	0.398335160092236
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	5	13	scene|scenes	#FFF1A9	0.18660676244442
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	6	13		#FEE188	0.257732613531605
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	7	13	confidence|remembered	#FFF1A9	0.19079175456906
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	8	13		#FEE188	0.224127696423032
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	9	13		#FEE188	0.238502637610692
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	10	13	ambiguity|ambiguous	#FFF1A9	0.0994964960514433
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	11	13		#FEE188	0.253753716977007
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	12	13		#FECB68	0.330860925396082
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	13	13	writing	#FEE188	0.285115322752953
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	14	13		#FECB68	0.370815455875383
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	15	13	categorization|congruency|prime	#FEE188	0.204146176921158
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	16	13		#FECB68	0.366185441254355
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	17	13	mask	#FECB68	0.352452527837731
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	18	13		#FDAD4A	0.408108591654494
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	19	13		#FDAD4A	0.442844810674869
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	20	13		#FDAD4A	0.472247978867889
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	21	13	conflict|congruent|incongruent	#FD913D	0.519259379709234
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	22	13	errors	#FECB68	0.353692371075422
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	23	13	maintenance|probe|wm	#FEE188	0.27695593738299
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	1	14	angry|fearful|happy	#FECB68	0.353488355946544
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	2	14		#FDAD4A	0.461538289017473
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	3	14	awareness|conscious|ptsd	#FECB68	0.369531921689598
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	4	14		#FDAD4A	0.421945543561251
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	5	14	houses|photographs	#FEE188	0.256592239222739
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	6	14		#FECB68	0.305852214034917
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	7	14	hits	#FFF1A9	0.110609544488328
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	8	14	famous	#FFF1A9	0.138037028720208
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	9	14	names	#FFF1A9	0.136485853599154
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	10	14	family	#FFF1A9	0.168047003949679
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	11	14	competition|mouth	#FEE188	0.294763243362136
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	12	14	abilities	#FECB68	0.330892002420791
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	13	14	implicit|unfamiliar	#FECB68	0.364722553304404
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	14	14		#FECB68	0.395218876748667
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	15	14	tom	#FDAD4A	0.48544126480488
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	16	14		#FECB68	0.381267909176114
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	17	14		#FECB68	0.369436612082113
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	18	14	stop	#FDAD4A	0.401429300236365
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	19	14	inhibition|inhibitory|nogo	#FD913D	0.522500849377971
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	20	14	monitoring|stroop	#FDAD4A	0.406933662631114
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	21	14	interference	#FECB68	0.365777833658304
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	22	14		#FECB68	0.368079417888702
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	23	14	demands|executive	#FEE188	0.23960798001726
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	1	15	anger	#FECB68	0.3245938583981
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	2	15	stress	#FDAD4A	0.421836670501461
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	3	15	feelings	#FECB68	0.343589316150379
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	4	15	salient	#FECB68	0.372679868399293
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	5	15	novelty	#FECB68	0.338653151057386
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	6	15	movie	#FEE188	0.220175494283754
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	7	15		#FEE188	0.274364184628638
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	8	15		#FEE188	0.284789345840858
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	9	15	longterm	#FEE188	0.281657472076922
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	10	15		#FEE188	0.279837602930394
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	11	15	reasoning|relational	#FFF1A9	0.152117388888639
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	12	15		#FECB68	0.364930531766909
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	13	15	presentations	#FEE188	0.273133874129151
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	14	15		#FDAD4A	0.417844439743633
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	15	15	identity	#FECB68	0.332268193713279
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	16	15		#FECB68	0.387036148074356
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	17	15	strategies|strategy	#FFF1A9	0.196047944517523
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	18	15	card|cards	#FEE188	0.226309868665307
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	19	15	gonogo	#FD913D	0.547246916515885
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	20	15		#FDAD4A	0.451465616478338
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	21	15	switching|switch	#FECB68	0.309634780761196
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	22	15		#FECB68	0.357631900199578
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	23	15	2back|rule	#FEE188	0.221892887106569
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	1	16	emotionally|mood|personality|sadness	#FECB68	0.338959760428215
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	2	16	disgust|sexual	#FECB68	0.337303443358064
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	3	16	olfactory	#FECB68	0.347293762964148
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	4	16	physiological	#FDAD4A	0.460360242210793
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	5	16	depressed|depressive|habituation	#FECB68	0.365112371831679
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	6	16	schizophrenic	#FEE188	0.221193319433312
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	7	16	colors|contexts	#FFF1A9	0.140493169708266
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	8	16	aging|encoded	#FEE188	0.283730124645966
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	9	16	goal	#FFF1A9	0.155525710823215
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	10	16		#FEE188	0.286632558115157
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	11	16	autism|autistic|nonverbal	#FEE188	0.236137621659862
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	12	16		#FECB68	0.3720613017587
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	13	16	bottomup|repetitions	#FECB68	0.349347460871554
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	14	16	adaptation	#FDAD4A	0.413363841503659
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	15	16	irrelevant	#FECB68	0.36519128106028
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	16	16	distractor|distractors	#FEE188	0.288600323766929
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	17	16		#FECB68	0.355069826265163
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	18	16	subtraction	#FEE188	0.238004949845179
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	19	16	1back|nback	#FEE188	0.225439160107146
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	20	16	manipulation|rules	#FFF1A9	0.195373983958366
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	21	16		#FECB68	0.318842709159364
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	22	16		#FEE188	0.260404348640082
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	23	16	digit	#FFF1A9	0.193034515781871
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	1	17	avoidance	#FECB68	0.388787208731355
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	2	17		#FDAD4A	0.410492774340116
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	3	17	eating|food	#FFF1A9	0.150843662932978
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	4	17	taste	#FECB68	0.351426482792599
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	5	17	bipolar	#FEE188	0.277277257208755
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	6	17	illness|uncertainty	#FEE188	0.268702701929329
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	7	17	females|probabilistic	#FECB68	0.336794641189457
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	8	17	rejection	#FFFFCC	0.06013697806394
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	9	17	colour|paired	#FEE188	0.260597098547039
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	10	17		#FECB68	0.32740200153902
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	11	17		#FECB68	0.311605231535224
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	12	17		#FECB68	0.364855629782785
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	13	17	taskirrelevant	#FDAD4A	0.44638022305139
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	14	17		#FECB68	0.378523213835113
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	15	17	suppression	#FEE188	0.298001711646144
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	16	17		#FECB68	0.367542650654837
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	17	17	shifting|shortterm	#FECB68	0.3222711628319
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	18	17	digits	#FEE188	0.217894264675291
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	19	17	search	#FECB68	0.32528735587268
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	20	17	counting|taskrelated	#FEE188	0.267808961640621
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	21	17	topdown	#FECB68	0.32685817722775
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	22	17	visuospatial	#FFF1A9	0.122946435191577
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	23	17	arithmetic|calculation|solving	#FFF1A9	0.175902210205926
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	1	18	addiction|craving|drugs	#FECB68	0.374345868126077
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	2	18	allele|genotype|polymorphism	#FEE188	0.209102345755755
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	3	18	motivation	#FECB68	0.348070351787917
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	4	18	heart	#FECB68	0.33163430687174
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	5	18	sleep	#FDAD4A	0.444817930374846
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	6	18	expectancy	#FECB68	0.306485633090305
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	7	18	phasic|salience	#FDAD4A	0.433875127815411
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	8	18	adolescence|adolescents	#FECB68	0.345861122209717
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	9	18	intelligence|tracking	#FECB68	0.348001898539385
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	10	18		#FDAD4A	0.448711966593105
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	11	18	serial	#FEE188	0.21933400552046
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	12	18		#FDAD4A	0.405430268521752
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	13	18	spatially|taskrelevant	#FECB68	0.333407315245757
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	14	18		#FECB68	0.361932940177922
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	15	18	attended|attend|unattended	#FFF1A9	0.18291335824698
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	16	18	rotation|shapes	#FEE188	0.227609908234091
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	17	18	rehearsal	#FEE188	0.248950903693407
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	18	18	learned	#FECB68	0.384631943492541
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	19	18		#FDAD4A	0.459056133096343
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	20	18	cued|preparatory	#FDAD4A	0.428643394571719
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	21	18		#FDAD4A	0.4165866620746
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	22	18		#FECB68	0.309974858959371
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	23	18	numbers|numerical	#FFF1A9	0.169341970280664
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	1	19	future	#FECB68	0.303669863696625
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	2	19	negatively	#FECB68	0.31218749614328
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	3	19	distress|epilepsy|selfreported	#FEE188	0.265664141544747
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	4	19	anticipatory|cocaine|probabilities|smoking	#FDAD4A	0.4119498611862
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	5	19	alcohol|amount|impulsivity	#FFF1A9	0.155804905419178
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	6	19	game|success	#FEE188	0.205249655763931
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	7	19	adhd|childhood|engagement	#FECB68	0.311941975561484
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	8	19		#FDAD4A	0.490904000343159
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	9	19		#FD913D	0.54335659838957
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	10	19		#FDAD4A	0.486027675254168
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	11	19		#FDAD4A	0.426102063841388
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	12	19	endogenous	#FFF1A9	0.179882926726475
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	13	19	cueing|invalid|orienting	#FEE188	0.266037396264466
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	14	19		#FECB68	0.372408187219224
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	15	19	multisensory	#FECB68	0.327392339656958
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	16	19		#FECB68	0.353283090089982
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	17	19	shifts	#FDAD4A	0.41451315814848
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	18	19	covert	#FDAD4A	0.428617604299259
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	19	19		#FDAD4A	0.459195109786968
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	20	19	preparation	#FDAD4A	0.468750595224593
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	21	19	discrimination|training	#FECB68	0.385702596972914
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	22	19	sequences	#FDAD4A	0.442726170898746
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	23	19		#FD913D	0.542938118307613
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	1	20	personal|self|selfreferential|trait|traits	#FECB68	0.308566454288749
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	2	20	empathic|theory	#FC622F	0.698824713762997
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	3	20	attribution|intentional	#FFFFCC	0.0577896821086963
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	4	20	elderly|oscillations	#FFFFCC	0.0964911335934405
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	5	20	antipsychotic|virtual	#FFFFCC	0.0326817014839137
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	6	20		#FECB68	0.390818933943236
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	7	20	experiences	#FECB68	0.306490957290414
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	8	20	categorical|pressure	#FEE188	0.246238501337885
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	9	20	play|skills	#FECB68	0.398032891439312
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	10	20	automatic|trained	#FC622F	0.668287336492536
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	11	20		#FD913D	0.529464006540611
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	12	20	practice	#FECB68	0.380876248717344
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	13	20	visuomotor	#FECB68	0.362740858493521
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	14	20		#FDAD4A	0.483784770288543
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	15	20	tool	#FECB68	0.326759985811417
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	16	20	vision	#FEE188	0.27438670023542
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	17	20	visually	#FEE188	0.295528595594861
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	18	20	saccade|saccades|saccadic	#FECB68	0.377948847414623
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	19	20	locations	#FECB68	0.304473210283581
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	20	20	imagery|planning	#FDAD4A	0.402880836407539
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	21	20		#FD913D	0.554127542625296
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	22	20	rest	#FD913D	0.508846286816398
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	23	20	sequence	#FD913D	0.576040815216901
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	1	21	scenarios	#FFFFCC	0.0398156642612931
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	2	21	intention|intentions	#FFF1A9	0.145395657014413
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	3	21	causality|perspective	#FFF1A9	0.18809920095751
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	4	21	past	#FFFFCC	0
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	5	21		#FDAD4A	0.466178994341577
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	6	21	episode	#FEE188	0.231704082026645
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	7	21	improvement	#FECB68	0.348837967159932
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	8	21	masking|retention	#FECB68	0.347510603398715
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	9	21		#FD913D	0.535356032479978
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	10	21	dominant	#FEE188	0.258064684691466
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	11	21		#FD913D	0.549004024465968
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	12	21	sequential	#FECB68	0.394617814054965
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	13	21	fingers	#FECB68	0.345671766234195
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	14	21		#FD913D	0.512612097648427
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	15	21	gesture|gestures	#FECB68	0.337974640977372
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	16	21		#FDAD4A	0.476740375252972
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	17	21	hands	#FECB68	0.309985950213246
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	18	21		#FDAD4A	0.426789753382831
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	19	21		#FDAD4A	0.421374132042177
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	20	21	eye|position	#FDAD4A	0.412059817612343
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	21	21	execution	#FD913D	0.560305853693629
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	22	21	finger|sensorimotor	#FD913D	0.527916803029807
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	23	21		#FD913D	0.595349714064911
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	1	22	moral|stories|story	#FFFFCC	0.0422442045889753
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	2	22	mentalizing|persons	#FFF1A9	0.169724593691067
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	3	22	default|restingstate	#FFF1A9	0.113141384849138
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	4	22	thinking|thought|thoughts	#FFF1A9	0.130088935535166
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	5	22	spontaneous	#FD913D	0.507293160905619
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	6	22	concentration|sensations	#FC622F	0.666123778536765
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	7	22	hierarchical|preference	#FFF1A9	0.18232914592359
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	8	22	effort|oral|simulation	#FD913D	0.577308049192838
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	9	22	interhemispheric|plasticity	#FEE188	0.244680409782184
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	10	22	imagined|imagine	#FDAD4A	0.413341557671578
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	11	22	tapping	#FD913D	0.591602221901059
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	12	22	foot|muscle|muscles|voluntary	#FD913D	0.588589963354692
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	13	22	limb	#FD913D	0.532913181603438
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	14	22	eyes|velocity	#FDAD4A	0.432118280584304
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	15	22	biological|gaze|videos	#FECB68	0.384546530358061
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	16	22	body	#F03623	0.709399818325838
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	17	22	grasping|orientation|reaching	#FEE188	0.278053153927674
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	18	22		#FDAD4A	0.437598311749336
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	19	22	mirror|shape	#FECB68	0.342440537757173
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	20	22	actions	#FDAD4A	0.408745023751874
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	21	22	action	#FD913D	0.55110510465647
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	22	22		#FD913D	0.595747420789804
+f7ae5ffa-b36d-34df-a5ac-beab81698125	Wang Q	23	22	hand|movements|sensory	#FD913D	0.589481454497308

@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	1	1	auditory|speech	#FDAD4A	0.479219878983418
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	2	1		#FDAD4A	0.44323763620983
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	3	1	da|integration	#FC622F	0.651328438425955
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	4	1		#FC622F	0.653166324747383
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	5	1	physical|psychophysical|tactile	#FDAD4A	0.447143023386486
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	6	1		#FC622F	0.689848063876257
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	7	1	somatosensory|stimulation	#F03623	0.747264493711672
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	8	1	painful|pain	#FC622F	0.606803920311713
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	9	1		#FC622F	0.68100756872461
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	10	1	ratings	#F03623	0.708649499548063
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	11	1	affective|affect	#FDAD4A	0.440768640924197
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	12	1	emotions	#FD913D	0.502619314588864
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	13	1	expression|expressions|facial	#FDAD4A	0.426089528547405
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	14	1		#FC622F	0.6084522527851
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	15	1		#FC622F	0.651953258560288
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	16	1	emotion|motion|neutral	#FC622F	0.628138779787146
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	17	1	rating	#FC622F	0.662115554944446
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	18	1	negative|positive	#FC622F	0.634645722928435
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	19	1		#F03623	0.729805536837279
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	20	1	ear|order	#FC622F	0.620434122655955
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	21	1	motor	#FC622F	0.631760961973282
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	22	1	visual	#FC622F	0.677209632072418
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	23	1	age|image|response	#FC622F	0.664738119247198
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	1	2	sound|sounds	#FEE188	0.296570280455296
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	2	2		#FECB68	0.384939477881488
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	3	2	audiovisual|bimodal|crossmodal	#FDAD4A	0.433683051073435
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	4	2		#FC622F	0.676093040413184
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	5	2		#F03623	0.707941729385464
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	6	2		#F03623	0.725616206486589
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	7	2	sensation	#FD913D	0.598366525589281
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	8	2	heat|noxious	#FD913D	0.51933031914786
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	9	2		#FC622F	0.66799194198242
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	10	2		#FC622F	0.65620704548752
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	11	2		#FC622F	0.640040488523714
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	12	2	valence	#FD913D	0.535890107885302
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	13	2	person|social	#FC622F	0.611272426206905
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	14	2		#FC622F	0.63369486130687
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	15	2	face|faces	#FD913D	0.574728638065769
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	16	2		#F03623	0.723168799603263
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	17	2		#F03623	0.748650073181812
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	18	2		#F03623	0.776303025924896
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	19	2		#F03623	0.766285259360732
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	20	2		#F03623	0.732179665894272
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	21	2	images|spatial	#F03623	0.739128955355607
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	22	2	control	#FC622F	0.607453913887696
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	23	2	time	#FC622F	0.676184329702345
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	1	3	acoustic|listening|musical|music|pitch	#FFF1A9	0.125038534809185
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	2	3	noise|tones	#FEE188	0.229244956633516
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	3	3		#FD913D	0.559818684663479
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	4	3		#F03623	0.732495706861977
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	5	3	frequency	#F03623	0.792498341054531
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	6	3		#D7141E	0.880938995788196
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	7	3		#FC622F	0.648673716006787
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	8	3	temperature	#FDAD4A	0.414111319896137
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	9	3		#FC622F	0.641591846030064
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	10	3	pleasant|unpleasant	#FD913D	0.509438560710757
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	11	3	anxiety	#FDAD4A	0.422865028566727
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	12	3		#FC622F	0.674090487662247
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	13	3		#F03623	0.767473219676972
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	14	3		#F03623	0.731490662751519
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	15	3		#F03623	0.759629167770117
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	16	3	picture	#F03623	0.758780750502392
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	17	3		#D7141E	0.818453608199123
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	18	3	value	#D7141E	0.85301762483022
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	19	3	cue	#F03623	0.720133375527785
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	20	3	error|target	#F03623	0.752088855454411
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	21	3	attention	#FC622F	0.632363353965402
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	22	3		#FC622F	0.657427160421039
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	23	3	number	#FC622F	0.685185221403479
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	1	4	voice	#FFF1A9	0.177537526781595
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	2	4		#FEE188	0.27837154388059
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	3	4	hearing	#FEE188	0.236910103105198
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	4	4		#FC622F	0.686582430510524
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	5	4	overt	#F03623	0.727152039619893
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	6	4		#D7141E	0.831253827678197
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	7	4		#F03623	0.711937392724232
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	8	4	nociceptive|nonpainful|painrelated	#FDAD4A	0.469922322500524
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	9	4	unpleasantness	#FDAD4A	0.453192648010429
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	10	4	skin|subjective	#F03623	0.793906082518312
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	11	4	depression	#F03623	0.707204483921988
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	12	4	experience	#FC622F	0.641861903592826
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	13	4	female	#F03623	0.783977762632256
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	14	4	male	#D7141E	0.824541214787207
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	15	4	pictures	#F03623	0.701695035811923
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	16	4		#D7141E	0.829454770971133
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	17	4	perception	#F03623	0.780015358932146
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	18	4		#D7141E	0.818742436623556
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	19	4		#F03623	0.775262169396528
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	20	4		#F03623	0.730338659783471
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	21	4	correct	#FC622F	0.623846685164772
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	22	4	work	#FD913D	0.548782143697394
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	23	4	memory	#FD913D	0.537413972253662
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	1	5	prosodic|prosody	#FEE188	0.22823182554917
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	2	5	phonetic	#FFF1A9	0.126151912544638
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	3	5	syllable|syllables	#FDAD4A	0.406964025255999
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	4	5		#FC622F	0.646852295614466
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	5	5	lip|production	#F03623	0.77297647054486
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	6	5	somatotopic	#FC622F	0.619055876098471
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	7	5		#D7141E	0.816833017714459
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	8	5		#FC622F	0.684144293005678
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	9	5	empathy	#FC622F	0.663888668376414
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	10	5		#F03623	0.703363602115867
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	11	5	disorder	#FD913D	0.560199054056179
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	12	5		#F03623	0.743580208936219
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	13	5		#F03623	0.779091404894902
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	14	5		#F03623	0.741999198438082
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	15	5		#F03623	0.750587463098883
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	16	5		#F03623	0.764366646049148
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	17	5		#F03623	0.761715258212611
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	18	5	mental	#FC622F	0.696630873274614
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	19	5	go	#F03623	0.705822914319329
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	20	5	object	#FD913D	0.580622576257182
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	21	5		#FC622F	0.644793494261865
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	22	5		#FD913D	0.554756380149152
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	23	5	word|words	#FDAD4A	0.464598855242007
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	1	6		#F03623	0.721741553113339
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	2	6		#FC622F	0.69139656079182
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	3	6		#F03623	0.711805987347822
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	4	6	vocal	#FD913D	0.537533116667711
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	5	6	articulatory	#FEE188	0.29783042220693
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	6	6		#F03623	0.78508830490841
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	7	6	oddball	#FC622F	0.636476528651024
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	8	6	perceived	#FC622F	0.685849713022146
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	9	6	errorrelated	#FDAD4A	0.436566377464712
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	10	6	approach	#FD913D	0.535642221474336
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	11	6	schizophrenia	#FD913D	0.530354188219863
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	12	6	acquisition	#FC622F	0.695919962611501
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	13	6		#FC622F	0.625444538828062
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	14	6		#FDAD4A	0.440740356941669
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	15	6		#FDAD4A	0.47520820226639
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	16	6		#FD913D	0.520914818172322
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	17	6		#FC622F	0.620228546528851
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	18	6		#FC622F	0.659731709876601
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	19	6		#F03623	0.701665688907067
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	20	6	objects	#F03623	0.739464099119974
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	21	6		#FC622F	0.652924207304085
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	22	6		#FD913D	0.505560933632573
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	23	6	language|semantic	#FDAD4A	0.422108711826657
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	1	7	dopamine|dopaminergic	#D7141E	0.820926636732999
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	2	7		#F03623	0.799643617966984
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	3	7		#F03623	0.771667962646724
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	4	7		#F03623	0.759038854829291
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	5	7		#F03623	0.754105640899146
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	6	7		#D7141E	0.831921984953124
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	7	7		#D7141E	0.816665289828695
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	8	7		#FC622F	0.673819721079889
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	9	7		#FC622F	0.632547048832217
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	10	7		#FD913D	0.543823272432297
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	11	7		#FD913D	0.555228938842087
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	12	7		#FD913D	0.522524817250967
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	13	7	linguistic|spoken	#FEE188	0.272515914702317
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	14	7		#FECB68	0.358386264932375
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	15	7	comprehension|sentence|sentences|syntactic	#FEE188	0.295424788031061
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	16	7		#FDAD4A	0.412010333342341
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	17	7		#FD913D	0.533236190998696
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	18	7	phonological|reading|read	#FDAD4A	0.481281411449652
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	19	7		#FC622F	0.666279989439352
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	20	7	perceptual|recognition	#D7141E	0.806583948834882
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	21	7		#FC622F	0.654033531753837
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	22	7		#FD913D	0.519570418488839
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	23	7	verb	#FDAD4A	0.461072323128235
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	1	8	outcome|reward	#F03623	0.721065342826908
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	2	8	anticipation	#F03623	0.761238406393269
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	3	8	outcomes	#FD913D	0.597418710826631
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	4	8	choice|choices	#FDAD4A	0.494597075093867
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	5	8	decisions|probability	#FC622F	0.610664506219797
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	6	8	reversal	#F03623	0.734617839713786
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	7	8	classification|incorrect	#FC622F	0.622969623688858
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	8	8		#FC622F	0.640438578281042
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	9	8	agerelated|fluency|probes	#FECB68	0.34141877697497
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	10	8	engaged	#FECB68	0.31415836276229
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	11	8	explicit|knowledge	#FECB68	0.394684969003229
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	12	8		#FECB68	0.393714347475055
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	13	8		#FECB68	0.352029192551712
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	14	8		#FECB68	0.33343092503157
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	15	8		#FECB68	0.338120521009774
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	16	8		#FECB68	0.390785515719865
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	17	8	lexical	#FDAD4A	0.453899004094139
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	18	8		#FD913D	0.565876031560888
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	19	8		#FC622F	0.6357512601445
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	20	8		#FC622F	0.681096060606109
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	21	8	encoding	#FC622F	0.602313752678904
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	22	8	retrieval	#FDAD4A	0.480786877167119
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	23	8	verbal	#FDAD4A	0.497925965031835
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	1	9	incentive|monetary|money|rewards	#FD913D	0.589153662551909
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	2	9	loss	#F03623	0.731691617271298
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	3	9		#F03623	0.706702940496798
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	4	9		#FC622F	0.690295771133632
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	5	9	decisionmaking	#FECB68	0.39539501540485
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	6	9		#FC622F	0.686466612931333
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	7	9		#FC622F	0.637005719280391
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	8	9		#FD913D	0.589362909936205
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	9	9		#FD913D	0.500896072330177
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	10	9		#FDAD4A	0.422718048616117
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	11	9		#FECB68	0.380780074779449
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	12	9		#FECB68	0.354769599730484
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	13	9	noun	#FFF1A9	0.195901255631348
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	14	9	meaning	#FEE188	0.262828952246778
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	15	9	english	#FEE188	0.289062325990801
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	16	9	pseudoword|pseudowords	#FECB68	0.375553789392483
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	17	9		#FDAD4A	0.488102607466992
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	18	9		#FC622F	0.610351995477814
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	19	9	familiar|judgment	#FC622F	0.637767606333454
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	20	9	pair|pairs	#FD913D	0.533681339124386
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	21	9		#FC622F	0.685627348260381
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	22	9		#FC622F	0.624958338538815
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	23	9	letter|working	#FD913D	0.51993199672226
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	1	10	losses|reinforcement|win	#FD913D	0.569566945329779
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	2	10	gain	#F03623	0.727383361731461
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	3	10	expectation	#D7141E	0.811229216200851
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	4	10	risk	#FD913D	0.556281202613163
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	5	10	fact	#FD913D	0.515283469651237
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	6	10	associative	#FC622F	0.635550751852773
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	7	10	familiarity|judgments|old	#FDAD4A	0.416681881717198
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	8	10	contextual|text	#FECB68	0.323954187877966
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	9	10	recall|retrieved	#FECB68	0.347874227119619
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	10	10	conceptual|semantically	#FEE188	0.28696393570256
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	11	10	grammatical|speakers	#FECB68	0.312131889515194
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	12	10	nouns	#FEE188	0.219977607215111
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	13	10	japanese	#FFF1A9	0.133499575445938
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	14	10	languages	#FEE188	0.284699106574866
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	15	10	written	#FECB68	0.399222394281811
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	16	10	chinese|phonology	#FECB68	0.347781263129461
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	17	10	orthographic	#FDAD4A	0.401884399170566
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	18	10		#FC622F	0.655934000124493
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	19	10		#FC622F	0.695591588059184
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	20	10	association|decision	#FC622F	0.658724044332679
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	21	10	selection	#FC622F	0.646138832504847
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	22	10	letters	#FDAD4A	0.478648944422963
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	23	10	demand|load	#FD913D	0.5489106666443
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	1	11	conditioned|conditioning	#FD913D	0.578508154400911
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	2	11		#D7141E	0.861024907597599
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	3	11	drug|placebo	#D7141E	0.898713306438981
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	4	11		#B10026	0.950175994372732
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	5	11	associations	#FD913D	0.559442880110371
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	6	11		#FD913D	0.598075092338366
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	7	11	episodic|recollection	#FECB68	0.375965775898168
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	8	11		#FD913D	0.531619154013183
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	9	11		#FD913D	0.530027817167308
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	10	11	concepts	#FFFFCC	0.0797875546647782
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	11	11		#FDAD4A	0.472135572006831
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	12	11		#FDAD4A	0.490576057988721
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	13	11	german	#FD913D	0.536502957556902
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	14	11	readers	#FDAD4A	0.496686866425424
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	15	11	character|name|naming	#FDAD4A	0.417330803187746
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	16	11		#FD913D	0.554577964456832
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	17	11	novel	#FC622F	0.621280689936425
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	18	11		#FC622F	0.68154231270315
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	19	11	child|children	#FC622F	0.630376006981063
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	20	11	adults	#F03623	0.784665905931842
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	21	11	ability|feedback|learning	#B10026	1
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	22	11	cues|delay	#F03623	0.710637306364473
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	23	11	attentional|difficulty|targets	#F03623	0.703046480137865
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	1	12	aversive|shock	#FD913D	0.510307830743109
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	2	12	reactivity	#FC622F	0.604663991591299
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	3	12	males|sex|women	#FD913D	0.587020986761331
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	4	12	animal	#B10026	0.995026047370727
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	5	12	animals	#FC622F	0.653217099768613
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	6	12		#FC622F	0.630499576262767
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	7	12	remember|subsequent	#FEE188	0.28599427678016
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	8	12	autobiographical|memories	#FECB68	0.380625788761855
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	9	12		#FD913D	0.545514084192081
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	10	12	violation|violations	#FFF1A9	0.15976305067896
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	11	12	aphasia	#FDAD4A	0.453887689141303
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	12	12	nonwords	#FD913D	0.525254671509914
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	13	12	dyslexia	#FD913D	0.596313436425022
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	14	12		#FD913D	0.591738751484025
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	15	12	priming	#FD913D	0.514266212002225
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	16	12		#FC622F	0.646284108795374
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	17	12	category|repetition	#FC622F	0.607065051478754
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	18	12		#F03623	0.716117123597375
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	19	12	developmental|development	#FC622F	0.632226467131822
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	20	12		#F03623	0.749788743346476
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	21	12	space	#D7141E	0.817641206939999
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	22	12		#FC622F	0.639118426839008
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	23	12	color	#FD913D	0.564200429323461
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	1	13	threat	#FEE188	0.273808449427279
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	2	13	regulation	#FECB68	0.390227619207195
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	3	13		#FC622F	0.675417169517049
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	4	13	masked	#FDAD4A	0.404388259415522
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	5	13	scene|scenes	#FC622F	0.635047916926288
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	6	13		#FC622F	0.65387281786913
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	7	13	confidence|remembered	#FECB68	0.299970437643877
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	8	13		#FD913D	0.583394806428138
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	9	13		#FD913D	0.581213225673633
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	10	13	ambiguity|ambiguous	#FEE188	0.289126507770561
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	11	13		#FD913D	0.55777540463739
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	12	13		#FC622F	0.655601390336212
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	13	13	writing	#FDAD4A	0.412882956819121
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	14	13		#FC622F	0.659565022416365
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	15	13	categorization|congruency|prime	#FDAD4A	0.486715187923746
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	16	13		#FC622F	0.687901155764742
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	17	13	mask	#FC622F	0.657102079189873
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	18	13		#F03623	0.735100084881467
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	19	13		#F03623	0.712110602391215
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	20	13		#FC622F	0.63162076811287
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	21	13	conflict|congruent|incongruent	#FDAD4A	0.408918091437716
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	22	13	errors	#FD913D	0.593433228737755
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	23	13	maintenance|probe|wm	#FDAD4A	0.404013379808322
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	1	14	angry|fearful|happy	#FFF1A9	0.153319022967181
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	2	14		#FEE188	0.274037520761937
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	3	14	awareness|conscious|ptsd	#FDAD4A	0.466383209126667
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	4	14		#F03623	0.758391429621921
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	5	14	houses|photographs	#FD913D	0.514480938377621
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	6	14		#F03623	0.735180451561816
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	7	14	hits	#FDAD4A	0.483206746165224
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	8	14	famous	#FECB68	0.349742683609105
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	9	14	names	#FECB68	0.389408458630427
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	10	14	family	#FDAD4A	0.426239520313883
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	11	14	competition|mouth	#FECB68	0.371180813528235
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	12	14	abilities	#FD913D	0.57266315536452
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	13	14	implicit|unfamiliar	#FDAD4A	0.49729409128383
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	14	14		#FC622F	0.646295746929547
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	15	14	tom	#FD913D	0.585209025644767
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	16	14		#FC622F	0.660136315169991
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	17	14		#FC622F	0.626608004799533
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	18	14	stop	#FD913D	0.531665878267978
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	19	14	inhibition|inhibitory|nogo	#FD913D	0.591665292015969
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	20	14	monitoring|stroop	#FECB68	0.340382821216873
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	21	14	interference	#FECB68	0.36337796531537
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	22	14		#FDAD4A	0.478133977958353
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	23	14	demands|executive	#FDAD4A	0.452894593100711
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	1	15	anger	#FFFFCC	0
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	2	15	stress	#FFF1A9	0.123470072534509
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	3	15	feelings	#FECB68	0.367460451351183
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	4	15	salient	#FECB68	0.329178130407881
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	5	15	novelty	#FECB68	0.343052872956324
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	6	15	movie	#FEE188	0.294130184089866
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	7	15		#FC622F	0.682753070977014
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	8	15		#FC622F	0.679534463269748
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	9	15	longterm	#FECB68	0.310127465485837
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	10	15		#FD913D	0.546636220340102
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	11	15	reasoning|relational	#FFF1A9	0.181938960283824
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	12	15		#FD913D	0.583580471875365
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	13	15	presentations	#FEE188	0.281068245061608
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	14	15		#FC622F	0.641133477603336
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	15	15	identity	#FD913D	0.582794700807753
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	16	15		#FC622F	0.608719878882268
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	17	15	strategies|strategy	#FDAD4A	0.461559765722596
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	18	15	card|cards	#FECB68	0.37310389673227
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	19	15	gonogo	#FD913D	0.567104256954698
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	20	15		#FD913D	0.500315548478904
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	21	15	switching|switch	#FECB68	0.366455717392018
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	22	15		#FDAD4A	0.441600874194896
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	23	15	2back|rule	#FECB68	0.334512873957662
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	1	16	emotionally|mood|personality|sadness	#FFFFCC	0.084684638514138
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	2	16	disgust|sexual	#FECB68	0.384922893794223
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	3	16	olfactory	#FEE188	0.269934500221154
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	4	16	physiological	#F03623	0.767487166872176
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	5	16	depressed|depressive|habituation	#FFF1A9	0.173160971877826
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	6	16	schizophrenic	#FDAD4A	0.401088829129138
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	7	16	colors|contexts	#FECB68	0.397149803206841
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	8	16	aging|encoded	#FFF1A9	0.179222628054868
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	9	16	goal	#FFF1A9	0.152099517591883
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	10	16		#FD913D	0.510438498560619
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	11	16	autism|autistic|nonverbal	#FD913D	0.545183122361171
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	12	16		#FD913D	0.535467963983378
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	13	16	bottomup|repetitions	#FDAD4A	0.480017441651398
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	14	16	adaptation	#FD913D	0.594048341629956
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	15	16	irrelevant	#FDAD4A	0.463701567753985
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	16	16	distractor|distractors	#FECB68	0.316875937414489
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	17	16		#FD913D	0.552853278946928
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	18	16	subtraction	#FECB68	0.340130909290748
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	19	16	1back|nback	#FFF1A9	0.188767599434762
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	20	16	manipulation|rules	#FDAD4A	0.432871547095032
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	21	16		#FD913D	0.505846299768639
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	22	16		#FDAD4A	0.436678326903074
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	23	16	digit	#FECB68	0.337390540233981
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	1	17	avoidance	#FECB68	0.392011808104355
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	2	17		#FD913D	0.562056851614255
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	3	17	eating|food	#FEE188	0.295617944509982
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	4	17	taste	#FDAD4A	0.455901965878384
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	5	17	bipolar	#FD913D	0.557998947609449
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	6	17	illness|uncertainty	#FDAD4A	0.418663309597306
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	7	17	females|probabilistic	#FEE188	0.199808419261867
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	8	17	rejection	#FFFFCC	0.0951048454676836
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	9	17	colour|paired	#FC622F	0.680809989640371
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	10	17		#FC622F	0.645702686374687
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	11	17		#FC622F	0.666365177274244
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	12	17		#FC622F	0.620415270795772
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	13	17	taskirrelevant	#FEE188	0.29185238274901
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	14	17		#FD913D	0.557578175861682
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	15	17	suppression	#FECB68	0.353559125564545
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	16	17		#FC622F	0.61055440848479
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	17	17	shifting|shortterm	#FD913D	0.503682243689233
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	18	17	digits	#FDAD4A	0.413542851150778
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	19	17	search	#FDAD4A	0.465028753584781
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	20	17	counting|taskrelated	#FD913D	0.570006060068221
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	21	17	topdown	#FDAD4A	0.455537184906448
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	22	17	visuospatial	#FDAD4A	0.426685845998843
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	23	17	arithmetic|calculation|solving	#FECB68	0.334970741984561
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	1	18	addiction|craving|drugs	#FDAD4A	0.488005192997932
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	2	18	allele|genotype|polymorphism	#FDAD4A	0.415144281955519
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	3	18	motivation	#FD913D	0.571223763961494
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	4	18	heart	#FC622F	0.691861918676789
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	5	18	sleep	#B10026	0.915754254254122
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	6	18	expectancy	#FD913D	0.536456002420763
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	7	18	phasic|salience	#FECB68	0.354170481363346
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	8	18	adolescence|adolescents	#FD913D	0.500831191996702
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	9	18	intelligence|tracking	#FC622F	0.603921108357981
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	10	18		#F03623	0.722839633888346
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	11	18	serial	#FD913D	0.546122309568316
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	12	18		#FC622F	0.635325434319764
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	13	18	spatially|taskrelevant	#FDAD4A	0.40753134347754
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	14	18		#FD913D	0.538570875566937
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	15	18	attended|attend|unattended	#FECB68	0.38450193347597
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	16	18	rotation|shapes	#FD913D	0.529459683707273
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	17	18	rehearsal	#FECB68	0.376504131964499
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	18	18	learned	#FD913D	0.542596296493114
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	19	18		#F03623	0.762379586735239
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	20	18	cued|preparatory	#F03623	0.737394071940218
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	21	18		#F03623	0.717410783658299
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	22	18		#FD913D	0.568311617102988
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	23	18	numbers|numerical	#FDAD4A	0.41135634343811
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	1	19	future	#FDAD4A	0.433061929940436
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	2	19	negatively	#FECB68	0.316006829388748
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	3	19	distress|epilepsy|selfreported	#FC622F	0.696868350188507
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	4	19	anticipatory|cocaine|probabilities|smoking	#FC622F	0.674767667371948
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	5	19	alcohol|amount|impulsivity	#F03623	0.768714250413322
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	6	19	game|success	#FEE188	0.254915992320515
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	7	19	adhd|childhood|engagement	#FECB68	0.390913880174479
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	8	19		#FC622F	0.667477347655466
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	9	19		#FC622F	0.699459690342054
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	10	19		#FC622F	0.679936883959532
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	11	19		#FC622F	0.688288818641953
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	12	19	endogenous	#FC622F	0.638410089591276
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	13	19	cueing|invalid|orienting	#FECB68	0.360448181472398
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	14	19		#FD913D	0.576710533871853
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	15	19	multisensory	#FDAD4A	0.433475500286034
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	16	19		#FD913D	0.568776139637869
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	17	19	shifts	#F03623	0.735529469427164
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	18	19	covert	#F03623	0.725539506509928
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	19	19		#F03623	0.779955971991697
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	20	19	preparation	#FD913D	0.586205894391115
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	21	19	discrimination|training	#FD913D	0.578692477580078
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	22	19	sequences	#D7141E	0.801152381221109
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	23	19		#D7141E	0.829045943026258
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	1	20	personal|self|selfreferential|trait|traits	#FDAD4A	0.417786769132098
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	2	20	empathic|theory	#FD913D	0.514857017650403
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	3	20	attribution|intentional	#FEE188	0.29533992289013
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	4	20	elderly|oscillations	#FECB68	0.375497791417157
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	5	20	antipsychotic|virtual	#FECB68	0.363705948589175
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	6	20		#B10026	0.953095366582537
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	7	20	experiences	#FDAD4A	0.48703764417172
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	8	20	categorical|pressure	#FD913D	0.526833047671023
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	9	20	play|skills	#FEE188	0.273652967531701
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	10	20	automatic|trained	#FEE188	0.284047199179699
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	11	20		#FC622F	0.670112858071184
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	12	20	practice	#FDAD4A	0.430464222121313
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	13	20	visuomotor	#F03623	0.741397364075344
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	14	20		#FC622F	0.698544413915857
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	15	20	tool	#FECB68	0.305869524852682
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	16	20	vision	#FECB68	0.307277347064082
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	17	20	visually	#FD913D	0.550495394060948
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	18	20	saccade|saccades|saccadic	#FC622F	0.622808401330808
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	19	20	locations	#FD913D	0.569206825012135
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	20	20	imagery|planning	#FC622F	0.694190352173114
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	21	20		#D7141E	0.809419236157697
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	22	20	rest	#F03623	0.729209666363186
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	23	20	sequence	#D7141E	0.865088091073303
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	1	21	scenarios	#FECB68	0.349216471746848
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	2	21	intention|intentions	#FDAD4A	0.479017383693784
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	3	21	causality|perspective	#FDAD4A	0.442313130701747
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	4	21	past	#FEE188	0.199883303795996
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	5	21		#D7141E	0.891547583787024
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	6	21	episode	#FD913D	0.582726681374627
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	7	21	improvement	#FDAD4A	0.462874746696289
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	8	21	masking|retention	#FD913D	0.522889240123783
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	9	21		#FC622F	0.613087040077185
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	10	21	dominant	#FDAD4A	0.471898384499884
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	11	21		#F03623	0.70658665200399
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	12	21	sequential	#FC622F	0.611774551576355
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	13	21	fingers	#FDAD4A	0.483289398635333
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	14	21		#FC622F	0.655698381671138
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	15	21	gesture|gestures	#FEE188	0.252683726077267
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	16	21		#FD913D	0.585126796564619
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	17	21	hands	#FECB68	0.350666264497054
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	18	21		#FC622F	0.662856725813433
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	19	21		#FC622F	0.691766468768956
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	20	21	eye|position	#F03623	0.741543990471285
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	21	21	execution	#F03623	0.739669329849359
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	22	21	finger|sensorimotor	#F03623	0.734065270260426
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	23	21		#F03623	0.746307320635106
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	1	22	moral|stories|story	#FDAD4A	0.469409450373649
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	2	22	mentalizing|persons	#FD913D	0.514579911965434
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	3	22	default|restingstate	#FD913D	0.549348269725081
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	4	22	thinking|thought|thoughts	#FDAD4A	0.445055183359954
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	5	22	spontaneous	#FC622F	0.631883460867749
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	6	22	concentration|sensations	#D7141E	0.803441661218541
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	7	22	hierarchical|preference	#FEE188	0.2251818987325
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	8	22	effort|oral|simulation	#F03623	0.746818696124902
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	9	22	interhemispheric|plasticity	#FECB68	0.330805816499656
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	10	22	imagined|imagine	#FECB68	0.302023241539938
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	11	22	tapping	#F03623	0.740031931875417
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	12	22	foot|muscle|muscles|voluntary	#F03623	0.724356009326676
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	13	22	limb	#FD913D	0.515289562954805
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	14	22	eyes|velocity	#FC622F	0.633212408855014
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	15	22	biological|gaze|videos	#FECB68	0.385631722306372
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	16	22	body	#F03623	0.701717976935545
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	17	22	grasping|orientation|reaching	#FDAD4A	0.48190520971752
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	18	22		#FC622F	0.641561020340062
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	19	22	mirror|shape	#FC622F	0.6080563126103
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	20	22	actions	#FD913D	0.518799007072118
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	21	22	action	#FC622F	0.677414049320109
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	22	22		#F03623	0.726132572305575
+40da74f0-cf6c-3a5b-9fb9-89aef19bbb46	Prohovnik I	23	22	hand|movements|sensory	#FC622F	0.613355082036009

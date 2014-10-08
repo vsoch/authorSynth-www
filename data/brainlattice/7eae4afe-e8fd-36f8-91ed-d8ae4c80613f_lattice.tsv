@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	1	1	auditory|speech	#FEE188	0.241161803094059
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	2	1		#FEE188	0.250799189659012
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	3	1	da|integration	#FECB68	0.384982332430891
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	4	1		#FECB68	0.372846170215553
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	5	1	physical|psychophysical|tactile	#FECB68	0.385940408920424
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	6	1		#FC622F	0.655315458254415
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	7	1	somatosensory|stimulation	#F03623	0.754102915207268
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	8	1	painful|pain	#D7141E	0.812446764372941
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	9	1		#D7141E	0.803094011745906
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	10	1	ratings	#FD913D	0.574057650412908
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	11	1	affective|affect	#FEE188	0.257957398395833
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	12	1	emotions	#FECB68	0.313947711564372
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	13	1	expression|expressions|facial	#FECB68	0.350927696197965
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	14	1		#FECB68	0.338897910130247
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	15	1		#FECB68	0.353618345145265
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	16	1	emotion|motion|neutral	#FECB68	0.368146018433007
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	17	1	rating	#FD913D	0.52429229325617
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	18	1	negative|positive	#FD913D	0.528776013600336
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	19	1		#FD913D	0.541008340479391
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	20	1	ear|order	#FDAD4A	0.48576990595281
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	21	1	motor	#FD913D	0.552898282441512
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	22	1	visual	#FECB68	0.315470614385979
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	23	1	age|image|response	#FDAD4A	0.425101624090231
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	1	2	sound|sounds	#FEE188	0.22479583585874
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	2	2		#FEE188	0.243165349629381
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	3	2	audiovisual|bimodal|crossmodal	#FFF1A9	0.159769290830768
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	4	2		#FECB68	0.386762818712642
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	5	2		#FDAD4A	0.488039697481282
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	6	2		#FC622F	0.657136740779429
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	7	2	sensation	#D7141E	0.835803748393844
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	8	2	heat|noxious	#FC622F	0.643197290613418
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	9	2		#F03623	0.79549352079547
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	10	2		#FD913D	0.506095932396733
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	11	2		#FDAD4A	0.431089102203078
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	12	2	valence	#FEE188	0.233690960534525
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	13	2	person|social	#FEE188	0.216755567402892
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	14	2		#FECB68	0.344241523089636
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	15	2	face|faces	#FEE188	0.229767130367276
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	16	2		#FECB68	0.393409839108915
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	17	2		#FDAD4A	0.463863667544057
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	18	2		#FD913D	0.526476385365154
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	19	2		#FD913D	0.541425926434548
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	20	2		#FD913D	0.523449765547504
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	21	2	images|spatial	#FDAD4A	0.456675697526588
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	22	2	control	#FDAD4A	0.481483435248589
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	23	2	time	#FDAD4A	0.485990568988251
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	1	3	acoustic|listening|musical|music|pitch	#FFF1A9	0.197507064672408
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	2	3	noise|tones	#FECB68	0.342477762268903
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	3	3		#FEE188	0.270216126873181
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	4	3		#FECB68	0.343001301575722
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	5	3	frequency	#FD913D	0.528467976616236
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	6	3		#FD913D	0.596739376006481
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	7	3		#F03623	0.781034821201704
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	8	3	temperature	#F03623	0.724685325487865
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	9	3		#F03623	0.740037546256212
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	10	3	pleasant|unpleasant	#FDAD4A	0.422777231074922
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	11	3	anxiety	#FDAD4A	0.463729755103001
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	12	3		#FDAD4A	0.451705999858684
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	13	3		#FDAD4A	0.417810127254072
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	14	3		#FECB68	0.380041093932512
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	15	3		#FECB68	0.368041310426671
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	16	3	picture	#FECB68	0.311301429848811
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	17	3		#FDAD4A	0.442129045349064
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	18	3	value	#FD913D	0.546753390010434
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	19	3	cue	#FD913D	0.589140536498156
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	20	3	error|target	#FD913D	0.507542264068891
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	21	3	attention	#FECB68	0.393176452687623
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	22	3		#FDAD4A	0.432658701835876
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	23	3	number	#FD913D	0.501257376830462
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	1	4	voice	#FFF1A9	0.105859250387197
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	2	4		#FFF1A9	0.176635801529511
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	3	4	hearing	#FFF1A9	0.132806143429531
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	4	4		#FECB68	0.309586178624154
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	5	4	overt	#FEE188	0.25634455371253
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	6	4		#FDAD4A	0.447025323369964
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	7	4		#F03623	0.774794278706616
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	8	4	nociceptive|nonpainful|painrelated	#D7141E	0.82439624370854
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	9	4	unpleasantness	#FC622F	0.653296196159765
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	10	4	skin|subjective	#FD913D	0.570533349161636
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	11	4	depression	#FD913D	0.558190494864807
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	12	4	experience	#FDAD4A	0.413759779905653
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	13	4	female	#FDAD4A	0.492130676914152
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	14	4	male	#FDAD4A	0.434550862932551
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	15	4	pictures	#FEE188	0.268597901269285
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	16	4		#FECB68	0.34837052561789
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	17	4	perception	#FECB68	0.343627909608516
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	18	4		#FDAD4A	0.42815547486313
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	19	4		#FDAD4A	0.434376279938688
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	20	4		#FDAD4A	0.426764118054384
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	21	4	correct	#FECB68	0.388732978347793
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	22	4	work	#FDAD4A	0.436799581174237
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	23	4	memory	#FECB68	0.355275006845227
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	1	5	prosodic|prosody	#FFF1A9	0.115890187763146
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	2	5	phonetic	#FFF1A9	0.182444283695983
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	3	5	syllable|syllables	#FFF1A9	0.123280248818626
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	4	5		#FEE188	0.26784192817358
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	5	5	lip|production	#FFF1A9	0.180208590114739
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	6	5	somatotopic	#FD913D	0.525152054186097
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	7	5		#FD913D	0.562480271873995
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	8	5		#FD913D	0.528434782546016
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	9	5	empathy	#FD913D	0.55408439541398
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	10	5		#FC622F	0.628888296100716
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	11	5	disorder	#FC622F	0.663204310975942
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	12	5		#FD913D	0.520902541929078
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	13	5		#FDAD4A	0.409359645683337
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	14	5		#FECB68	0.304861901991459
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	15	5		#FEE188	0.270119024424087
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	16	5		#FEE188	0.270700129411487
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	17	5		#FEE188	0.273520936491753
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	18	5	mental	#FECB68	0.325637719488641
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	19	5	go	#FECB68	0.336915603387765
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	20	5	object	#FFF1A9	0.175941347094673
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	21	5		#FECB68	0.341052910290889
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	22	5		#FEE188	0.295589178910573
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	23	5	word|words	#FFF1A9	0.183481809485033
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	1	6		#FDAD4A	0.425908960603293
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	2	6		#FDAD4A	0.402553076650066
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	3	6		#FDAD4A	0.423303848345219
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	4	6	vocal	#FEE188	0.287167110624049
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	5	6	articulatory	#FEE188	0.229868934031136
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	6	6		#FDAD4A	0.404956660263695
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	7	6	oddball	#FECB68	0.329247995301765
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	8	6	perceived	#FECB68	0.328389254755098
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	9	6	errorrelated	#FEE188	0.263169935041241
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	10	6	approach	#D7141E	0.817817046480496
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	11	6	schizophrenia	#FDAD4A	0.475185355060654
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	12	6	acquisition	#FD913D	0.558590658117161
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	13	6		#FEE188	0.274032882285616
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	14	6		#FFF1A9	0.114736185713564
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	15	6		#FFF1A9	0.111173027437195
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	16	6		#FFF1A9	0.139489168171678
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	17	6		#FEE188	0.20707630400381
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	18	6		#FEE188	0.244365732618175
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	19	6		#FEE188	0.257587744389878
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	20	6	objects	#FEE188	0.203008488271159
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	21	6		#FEE188	0.260823619454133
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	22	6		#FEE188	0.223081960436066
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	23	6	language|semantic	#FFF1A9	0.167191275922959
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	1	7	dopamine|dopaminergic	#FC622F	0.631341000781511
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	2	7		#FC622F	0.658184667534259
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	3	7		#FC622F	0.640407033536409
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	4	7		#FC622F	0.60470062897876
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	5	7		#FD913D	0.570178627379815
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	6	7		#FDAD4A	0.428586616578175
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	7	7		#FECB68	0.371136314162874
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	8	7		#FECB68	0.309388928604782
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	9	7		#FDAD4A	0.416421516547693
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	10	7		#FECB68	0.355435407893263
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	11	7		#FDAD4A	0.409973122130301
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	12	7		#FEE188	0.291141736871683
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	13	7	linguistic|spoken	#FFFFCC	0.028895960919002
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	14	7		#FFFFCC	0.0834635709500972
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	15	7	comprehension|sentence|sentences|syntactic	#FFFFCC	0.0121462922729782
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	16	7		#FFFFCC	0.0833019053704387
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	17	7		#FFF1A9	0.161841735142613
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	18	7	phonological|reading|read	#FFF1A9	0.173335897293778
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	19	7		#FEE188	0.240951728845569
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	20	7	perceptual|recognition	#FEE188	0.244926430370024
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	21	7		#FEE188	0.277480153944053
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	22	7		#FEE188	0.250558939318632
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	23	7	verb	#FEE188	0.278439824347984
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	1	8	outcome|reward	#FC622F	0.656718762658689
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	2	8	anticipation	#FC622F	0.635298854432799
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	3	8	outcomes	#FD913D	0.596957465640647
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	4	8	choice|choices	#FD913D	0.516961310154783
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	5	8	decisions|probability	#F03623	0.723457785013805
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	6	8	reversal	#FECB68	0.338153809799616
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	7	8	classification|incorrect	#FEE188	0.238833210035265
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	8	8		#FECB68	0.336932201936666
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	9	8	agerelated|fluency|probes	#FEE188	0.220685729571102
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	10	8	engaged	#FFF1A9	0.123647848321156
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	11	8	explicit|knowledge	#FFF1A9	0.171386149494253
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	12	8		#FFF1A9	0.161007353424141
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	13	8		#FFF1A9	0.131372991044403
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	14	8		#FFF1A9	0.0993342791822992
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	15	8		#FFF1A9	0.106686773686008
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	16	8		#FFF1A9	0.110429534438332
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	17	8	lexical	#FFF1A9	0.116851535325941
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	18	8		#FEE188	0.207153081049594
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	19	8		#FEE188	0.2410058005319
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	20	8		#FEE188	0.274909184538479
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	21	8	encoding	#FEE188	0.213130476582808
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	22	8	retrieval	#FEE188	0.271739678789049
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	23	8	verbal	#FECB68	0.328456370653392
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	1	9	incentive|monetary|money|rewards	#FD913D	0.584359053740935
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	2	9	loss	#FC622F	0.67326722720822
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	3	9		#F03623	0.713493084860753
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	4	9		#FC622F	0.6936406276786
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	5	9	decisionmaking	#FD913D	0.564385543704102
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	6	9		#FDAD4A	0.409745682851682
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	7	9		#FECB68	0.319920111010755
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	8	9		#FEE188	0.295768606282014
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	9	9		#FEE188	0.279641126466032
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	10	9		#FEE188	0.204314255634103
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	11	9		#FFF1A9	0.146609913725306
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	12	9		#FFF1A9	0.135277215898561
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	13	9	noun	#FFFFCC	0.0187881795832195
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	14	9	meaning	#FFF1A9	0.177826050658781
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	15	9	english	#FEE188	0.234881866283147
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	16	9	pseudoword|pseudowords	#FFFFCC	0.0862409693340536
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	17	9		#FFF1A9	0.170817998893482
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	18	9		#FEE188	0.265070353092311
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	19	9	familiar|judgment	#FEE188	0.252831163071031
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	20	9	pair|pairs	#FECB68	0.398322533874952
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	21	9		#FDAD4A	0.412956831953105
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	22	9		#FDAD4A	0.402340306998017
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	23	9	letter|working	#FDAD4A	0.415413050299283
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	1	10	losses|reinforcement|win	#FD913D	0.501984439783622
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	2	10	gain	#FDAD4A	0.400376922087655
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	3	10	expectation	#F03623	0.750070152039818
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	4	10	risk	#F03623	0.718957987280166
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	5	10	fact	#FD913D	0.580783752905217
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	6	10	associative	#FECB68	0.355368022037626
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	7	10	familiarity|judgments|old	#FFF1A9	0.168098860914683
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	8	10	contextual|text	#FFF1A9	0.131006762868283
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	9	10	recall|retrieved	#FDAD4A	0.404462665126073
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	10	10	conceptual|semantically	#FFF1A9	0.113358398343138
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	11	10	grammatical|speakers	#FFF1A9	0.107774039945056
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	12	10	nouns	#FFFFCC	0.0411586654167698
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	13	10	japanese	#FEE188	0.272790395002118
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	14	10	languages	#FFFFCC	0.0793458884610949
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	15	10	written	#FEE188	0.218784183109223
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	16	10	chinese|phonology	#FFFFCC	0.0919237312685066
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	17	10	orthographic	#FFF1A9	0.168369158061595
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	18	10		#FECB68	0.319161657375995
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	19	10		#FECB68	0.372374896174752
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	20	10	association|decision	#FDAD4A	0.465028837045233
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	21	10	selection	#FDAD4A	0.418635812531209
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	22	10	letters	#FDAD4A	0.470074925683024
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	23	10	demand|load	#FDAD4A	0.422144040716921
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	1	11	conditioned|conditioning	#B10026	0.989821934721808
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	2	11		#F03623	0.702361728353928
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	3	11	drug|placebo	#FC622F	0.625199962038863
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	4	11		#FC622F	0.65761593504226
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	5	11	associations	#FECB68	0.360582352494644
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	6	11		#FEE188	0.268986500470273
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	7	11	episodic|recollection	#FFF1A9	0.194180920481415
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	8	11		#FEE188	0.219015155832479
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	9	11		#FECB68	0.306100664700345
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	10	11	concepts	#FFFFCC	0.0295976937541234
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	11	11		#FEE188	0.229140996585366
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	12	11		#FEE188	0.20908398613129
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	13	11	german	#FFF1A9	0.116475498932107
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	14	11	readers	#FFFFCC	0.0815736879896846
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	15	11	character|name|naming	#FFF1A9	0.176455435152752
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	16	11		#FEE188	0.231813199693105
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	17	11	novel	#FECB68	0.334730010788186
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	18	11		#FECB68	0.375136629554598
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	19	11	child|children	#FECB68	0.362884548621138
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	20	11	adults	#FDAD4A	0.482987618109109
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	21	11	ability|feedback|learning	#FC622F	0.63183043132699
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	22	11	cues|delay	#FD913D	0.547959380267028
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	23	11	attentional|difficulty|targets	#FECB68	0.366963569072534
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	1	12	aversive|shock	#FD913D	0.51564302241226
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	2	12	reactivity	#FD913D	0.569172302230644
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	3	12	males|sex|women	#FEE188	0.27649523780094
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	4	12	animal	#B10026	0.93117044519832
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	5	12	animals	#B10026	1
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	6	12		#FEE188	0.220986534615159
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	7	12	remember|subsequent	#FFF1A9	0.153693689553565
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	8	12	autobiographical|memories	#FFF1A9	0.133672816270416
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	9	12		#FEE188	0.263530509100229
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	10	12	violation|violations	#FFFFCC	0.076457801572651
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	11	12	aphasia	#FDAD4A	0.402309509043803
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	12	12	nonwords	#FEE188	0.261786115898227
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	13	12	dyslexia	#FECB68	0.328797748667171
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	14	12		#FEE188	0.214952489467916
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	15	12	priming	#FFFFCC	0.0567345676266507
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	16	12		#FEE188	0.268911847159176
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	17	12	category|repetition	#FEE188	0.266075632514927
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	18	12		#FECB68	0.375174592444009
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	19	12	developmental|development	#FECB68	0.395503400895969
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	20	12		#FD913D	0.512352273236486
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	21	12	space	#FC622F	0.674878879914348
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	22	12		#FDAD4A	0.463722055038944
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	23	12	color	#FDAD4A	0.407820280722344
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	1	13	threat	#FEE188	0.209542364956555
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	2	13	regulation	#FEE188	0.257253187709464
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	3	13		#FDAD4A	0.473355950769504
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	4	13	masked	#FFF1A9	0.144882622227845
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	5	13	scene|scenes	#FFFFCC	0.0839115162006134
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	6	13		#FFF1A9	0.187138006719548
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	7	13	confidence|remembered	#FFFFCC	0.0875385341793445
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	8	13		#FFF1A9	0.167955264117706
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	9	13		#FECB68	0.307479420432416
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	10	13	ambiguity|ambiguous	#FFFFCC	0.0677050818384446
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	11	13		#FECB68	0.313990944408263
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	12	13		#FEE188	0.285848367776332
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	13	13	writing	#FFFFCC	0.0926050191742334
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	14	13		#FEE188	0.263340798463258
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	15	13	categorization|congruency|prime	#FFF1A9	0.15477949850358
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	16	13		#FECB68	0.302754131071628
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	17	13	mask	#FEE188	0.238964921672205
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	18	13		#FDAD4A	0.402032570533165
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	19	13		#FDAD4A	0.47219646624021
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	20	13		#FD913D	0.501968242482635
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	21	13	conflict|congruent|incongruent	#FD913D	0.501153578416185
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	22	13	errors	#FDAD4A	0.442125217517954
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	23	13	maintenance|probe|wm	#FEE188	0.27002372391277
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	1	14	angry|fearful|happy	#FFFFCC	0.00858927725913456
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	2	14		#FFF1A9	0.150711635442454
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	3	14	awareness|conscious|ptsd	#FFF1A9	0.101687969263595
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	4	14		#FEE188	0.288292414668194
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	5	14	houses|photographs	#FFFFCC	0.0445663789361109
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	6	14		#FFF1A9	0.174341513498748
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	7	14	hits	#FFFFCC	0.0487847491294237
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	8	14	famous	#FFFFCC	0.0131286353882776
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	9	14	names	#FFFFCC	0.0208885842174825
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	10	14	family	#FDAD4A	0.478500925541075
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	11	14	competition|mouth	#FFF1A9	0.192420502343828
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	12	14	abilities	#FEE188	0.254525794374739
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	13	14	implicit|unfamiliar	#FECB68	0.331805643715229
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	14	14		#FEE188	0.284252699828432
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	15	14	tom	#FEE188	0.293554103505464
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	16	14		#FEE188	0.292745736209453
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	17	14		#FEE188	0.299433286783644
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	18	14	stop	#FEE188	0.291796427565472
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	19	14	inhibition|inhibitory|nogo	#FDAD4A	0.452264578680699
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	20	14	monitoring|stroop	#FD913D	0.550680461723944
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	21	14	interference	#FECB68	0.350944083621796
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	22	14		#FECB68	0.397664708534978
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	23	14	demands|executive	#FECB68	0.312944096551126
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	1	15	anger	#FFFFCC	0.0570718809084445
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	2	15	stress	#FECB68	0.309656867853448
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	3	15	feelings	#FDAD4A	0.459562493730804
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	4	15	salient	#FEE188	0.285609923628376
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	5	15	novelty	#FFF1A9	0.107877765698976
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	6	15	movie	#FFFFCC	0.00830184955314465
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	7	15		#FFF1A9	0.164428898898978
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	8	15		#FEE188	0.238657196402541
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	9	15	longterm	#FECB68	0.311534941101124
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	10	15		#FECB68	0.310077097896848
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	11	15	reasoning|relational	#FFF1A9	0.15804697548314
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	12	15		#FEE188	0.261209803563932
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	13	15	presentations	#FFF1A9	0.109931599534866
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	14	15		#FECB68	0.304055051256104
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	15	15	identity	#FECB68	0.354759323714944
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	16	15		#FECB68	0.318552020547849
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	17	15	strategies|strategy	#FEE188	0.239839346585595
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	18	15	card|cards	#FEE188	0.20696204827968
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	19	15	gonogo	#FD913D	0.51461274946704
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	20	15		#FDAD4A	0.431715483626184
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	21	15	switching|switch	#FEE188	0.264631834900679
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	22	15		#FDAD4A	0.412894216442685
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	23	15	2back|rule	#FECB68	0.336942000483827
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	1	16	emotionally|mood|personality|sadness	#FEE188	0.269994591571957
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	2	16	disgust|sexual	#FC622F	0.655018071575361
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	3	16	olfactory	#FEE188	0.254912877671581
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	4	16	physiological	#FECB68	0.328344709877305
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	5	16	depressed|depressive|habituation	#FD913D	0.536197514605839
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	6	16	schizophrenic	#FFF1A9	0.11140257909103
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	7	16	colors|contexts	#FFFFCC	0.0798180647382794
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	8	16	aging|encoded	#FECB68	0.375554762234763
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	9	16	goal	#FFFFCC	0.0735784170166715
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	10	16		#FEE188	0.272192295237567
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	11	16	autism|autistic|nonverbal	#FFF1A9	0.181424190701922
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	12	16		#FEE188	0.273256821253451
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	13	16	bottomup|repetitions	#FEE188	0.218948033460772
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	14	16	adaptation	#FEE188	0.247265351728935
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	15	16	irrelevant	#FEE188	0.245534062751529
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	16	16	distractor|distractors	#FFF1A9	0.146074437811755
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	17	16		#FECB68	0.324689010200066
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	18	16	subtraction	#FEE188	0.241572268922322
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	19	16	1back|nback	#FECB68	0.392462374451108
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	20	16	manipulation|rules	#FEE188	0.2992533659559
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	21	16		#FECB68	0.367592549173879
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	22	16		#FECB68	0.389704213219031
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	23	16	digit	#FDAD4A	0.441407962891398
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	1	17	avoidance	#FDAD4A	0.431619092326579
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	2	17		#F03623	0.705387174614376
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	3	17	eating|food	#FC622F	0.651441107433185
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	4	17	taste	#FECB68	0.343345526699405
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	5	17	bipolar	#FEE188	0.296632841797339
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	6	17	illness|uncertainty	#FFF1A9	0.171002335357241
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	7	17	females|probabilistic	#FDAD4A	0.440181758694892
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	8	17	rejection	#FFFFCC	0.0371061924503238
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	9	17	colour|paired	#FFF1A9	0.112389942390547
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	10	17		#FECB68	0.387485115421055
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	11	17		#FDAD4A	0.401387956125401
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	12	17		#FECB68	0.369622166821834
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	13	17	taskirrelevant	#FEE188	0.248959739902636
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	14	17		#FECB68	0.335475320435365
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	15	17	suppression	#FECB68	0.394491072857304
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	16	17		#FECB68	0.366878696149026
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	17	17	shifting|shortterm	#FEE188	0.254674665758669
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	18	17	digits	#FC622F	0.620848154444344
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	19	17	search	#FD913D	0.587195027275004
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	20	17	counting|taskrelated	#FFF1A9	0.140065602016779
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	21	17	topdown	#FEE188	0.292119683444227
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	22	17	visuospatial	#FECB68	0.372457474476887
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	23	17	arithmetic|calculation|solving	#FDAD4A	0.417694769498998
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	1	18	addiction|craving|drugs	#FD913D	0.566335976894444
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	2	18	allele|genotype|polymorphism	#FC622F	0.698583395705517
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	3	18	motivation	#FDAD4A	0.418333289336229
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	4	18	heart	#FC622F	0.654355178240231
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	5	18	sleep	#FC622F	0.622842338755455
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	6	18	expectancy	#FD913D	0.550684703154616
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	7	18	phasic|salience	#FEE188	0.246091324050947
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	8	18	adolescence|adolescents	#FEE188	0.216574637730551
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	9	18	intelligence|tracking	#FDAD4A	0.410244094340422
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	10	18		#FD913D	0.516133200059576
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	11	18	serial	#FECB68	0.388806057874301
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	12	18		#FDAD4A	0.49034388180226
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	13	18	spatially|taskrelevant	#FD913D	0.589316397931885
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	14	18		#FECB68	0.365455069751357
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	15	18	attended|attend|unattended	#FEE188	0.235319078279412
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	16	18	rotation|shapes	#FECB68	0.357288247000943
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	17	18	rehearsal	#FEE188	0.229009495290748
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	18	18	learned	#FD913D	0.506927370984887
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	19	18		#FD913D	0.544072753414613
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	20	18	cued|preparatory	#FD913D	0.508613516617663
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	21	18		#FDAD4A	0.479859700847063
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	22	18		#FDAD4A	0.423163594651135
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	23	18	numbers|numerical	#FEE188	0.296560391807463
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	1	19	future	#FD913D	0.545409466889055
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	2	19	negatively	#FECB68	0.354407017926133
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	3	19	distress|epilepsy|selfreported	#F03623	0.727013924315679
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	4	19	anticipatory|cocaine|probabilities|smoking	#F03623	0.799312226315267
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	5	19	alcohol|amount|impulsivity	#FDAD4A	0.460314927861599
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	6	19	game|success	#FDAD4A	0.411772191542773
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	7	19	adhd|childhood|engagement	#FDAD4A	0.477895352956603
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	8	19		#FDAD4A	0.477386398341339
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	9	19		#FD913D	0.524550183158429
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	10	19		#FD913D	0.561284091117816
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	11	19		#FD913D	0.543695614719496
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	12	19	endogenous	#FDAD4A	0.49027571948139
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	13	19	cueing|invalid|orienting	#FECB68	0.328744465057802
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	14	19		#FECB68	0.367947217251142
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	15	19	multisensory	#FFF1A9	0.119915211604635
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	16	19		#FECB68	0.371453806825966
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	17	19	shifts	#FD913D	0.534169838403075
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	18	19	covert	#FECB68	0.315941934321086
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	19	19		#FC622F	0.6135310221058
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	20	19	preparation	#FD913D	0.564447701199987
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	21	19	discrimination|training	#FECB68	0.394973098101284
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	22	19	sequences	#FECB68	0.319038672425677
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	23	19		#FD913D	0.519960346668594
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	1	20	personal|self|selfreferential|trait|traits	#FEE188	0.293881997591034
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	2	20	empathic|theory	#FFF1A9	0.195914486423653
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	3	20	attribution|intentional	#FFF1A9	0.114357124031105
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	4	20	elderly|oscillations	#B10026	0.945043917362508
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	5	20	antipsychotic|virtual	#FFFFCC	0.0544128637477515
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	6	20		#FD913D	0.522102299813607
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	7	20	experiences	#FECB68	0.315242174583861
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	8	20	categorical|pressure	#FEE188	0.201184242624564
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	9	20	play|skills	#FDAD4A	0.412013826487239
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	10	20	automatic|trained	#FDAD4A	0.409898540561057
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	11	20		#FC622F	0.613988544675967
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	12	20	practice	#FD913D	0.588693638126716
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	13	20	visuomotor	#FECB68	0.355047818291466
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	14	20		#FDAD4A	0.442478264053122
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	15	20	tool	#FEE188	0.270671664199633
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	16	20	vision	#FEE188	0.202359191127586
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	17	20	visually	#FD913D	0.506630188038848
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	18	20	saccade|saccades|saccadic	#FC622F	0.694025835722064
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	19	20	locations	#FC622F	0.656315807925967
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	20	20	imagery|planning	#FD913D	0.541095905120468
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	21	20		#FD913D	0.560542269329804
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	22	20	rest	#FECB68	0.393236359194237
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	23	20	sequence	#FDAD4A	0.469649101332578
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	1	21	scenarios	#FFFFCC	0.0240473532768982
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	2	21	intention|intentions	#FFFFCC	0.0808073147615282
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	3	21	causality|perspective	#FFFFCC	0.0514554540841979
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	4	21	past	#FFF1A9	0.156019308398808
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	5	21		#FD913D	0.598579772065426
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	6	21	episode	#FECB68	0.305154118256865
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	7	21	improvement	#FECB68	0.31660766219071
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	8	21	masking|retention	#FECB68	0.366144055802985
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	9	21		#F03623	0.710607047410857
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	10	21	dominant	#FD913D	0.583505942549323
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	11	21		#FD913D	0.595721291175299
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	12	21	sequential	#FD913D	0.584861062123224
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	13	21	fingers	#FDAD4A	0.46536318276421
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	14	21		#FECB68	0.321796034468676
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	15	21	gesture|gestures	#FFFFCC	0.0642361387232433
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	16	21		#FECB68	0.37372914048981
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	17	21	hands	#FECB68	0.312510479278343
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	18	21		#FD913D	0.559236366112556
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	19	21		#FD913D	0.529362632342116
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	20	21	eye|position	#FD913D	0.569638121734451
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	21	21	execution	#FD913D	0.561233757205432
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	22	21	finger|sensorimotor	#FDAD4A	0.496963975278736
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	23	21		#FD913D	0.528772546795829
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	1	22	moral|stories|story	#FFFFCC	0
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	2	22	mentalizing|persons	#FFFFCC	0.0446561406716871
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	3	22	default|restingstate	#FFF1A9	0.167468414877613
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	4	22	thinking|thought|thoughts	#FECB68	0.306744928920729
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	5	22	spontaneous	#FDAD4A	0.499379045609544
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	6	22	concentration|sensations	#D7141E	0.805126677656582
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	7	22	hierarchical|preference	#FC622F	0.6706505248302
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	8	22	effort|oral|simulation	#FC622F	0.682330433677063
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	9	22	interhemispheric|plasticity	#F03623	0.746950461339724
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	10	22	imagined|imagine	#FDAD4A	0.439544623811205
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	11	22	tapping	#FDAD4A	0.463839300390207
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	12	22	foot|muscle|muscles|voluntary	#FDAD4A	0.477991796802096
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	13	22	limb	#FDAD4A	0.403276809498726
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	14	22	eyes|velocity	#FDAD4A	0.476280608485751
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	15	22	biological|gaze|videos	#FFF1A9	0.168450515591719
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	16	22	body	#FECB68	0.394057601511768
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	17	22	grasping|orientation|reaching	#FD913D	0.51042422508727
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	18	22		#FD913D	0.502517758117421
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	19	22	mirror|shape	#FEE188	0.246476590420185
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	20	22	actions	#FEE188	0.24476631768491
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	21	22	action	#FDAD4A	0.400741442648791
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	22	22		#FD913D	0.548820031226588
+7eae4afe-e8fd-36f8-91ed-d8ae4c80613f	Leocani L	23	22	hand|movements|sensory	#FD913D	0.538259291707481

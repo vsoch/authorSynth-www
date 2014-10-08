@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	1	1	auditory|speech	#F03623	0.788297430426109
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	2	1		#F03623	0.7738011168582
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	3	1	da|integration	#F03623	0.720199938766832
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	4	1		#FC622F	0.600960759404521
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	5	1	physical|psychophysical|tactile	#FFF1A9	0.170943727223651
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	6	1		#FEE188	0.227230583153066
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	7	1	somatosensory|stimulation	#FFF1A9	0.16939857515274
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	8	1	painful|pain	#FFFFCC	0.0889780829831593
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	9	1		#FFF1A9	0.138673374118602
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	10	1	ratings	#FEE188	0.241538711230698
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	11	1	affective|affect	#FEE188	0.258287243671235
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	12	1	emotions	#FECB68	0.299912747229821
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	13	1	expression|expressions|facial	#FEE188	0.263403277707906
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	14	1		#FECB68	0.350318864250319
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	15	1		#FECB68	0.347104491064519
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	16	1	emotion|motion|neutral	#FECB68	0.303406095603537
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	17	1	rating	#FEE188	0.271631334673027
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	18	1	negative|positive	#FECB68	0.318425360288679
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	19	1		#FECB68	0.395720345930048
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	20	1	ear|order	#FDAD4A	0.466487243015176
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	21	1	motor	#FECB68	0.3088347346215
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	22	1	visual	#FDAD4A	0.406998432429007
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	23	1	age|image|response	#FDAD4A	0.44811422705629
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	1	2	sound|sounds	#FC622F	0.694668208082946
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	2	2		#F03623	0.769158592780753
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	3	2	audiovisual|bimodal|crossmodal	#FD913D	0.599898482846497
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	4	2		#FC622F	0.627294192199403
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	5	2		#FDAD4A	0.448889490189078
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	6	2		#FEE188	0.286897491329949
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	7	2	sensation	#FFFFCC	0.0991068440419986
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	8	2	heat|noxious	#FFFFCC	0.0529638207934501
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	9	2		#FFF1A9	0.140925744517603
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	10	2		#FEE188	0.228913735740232
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	11	2		#FEE188	0.259689393464766
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	12	2	valence	#FEE188	0.227125344142739
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	13	2	person|social	#FDAD4A	0.399886715527221
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	14	2		#FECB68	0.365246897743537
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	15	2	face|faces	#FECB68	0.364497589541385
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	16	2		#FECB68	0.371421338762879
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	17	2		#FECB68	0.362735751854328
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	18	2		#FECB68	0.383606210258386
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	19	2		#FDAD4A	0.40319216398242
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	20	2		#FECB68	0.392746266998225
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	21	2	images|spatial	#FECB68	0.388071693435306
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	22	2	control	#FECB68	0.397139052525197
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	23	2	time	#FDAD4A	0.432184257641123
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	1	3	acoustic|listening|musical|music|pitch	#F03623	0.711917702274186
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	2	3	noise|tones	#F03623	0.712237149522098
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	3	3		#F03623	0.774427892427648
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	4	3		#F03623	0.711390012702367
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	5	3	frequency	#FC622F	0.601857310529628
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	6	3		#FDAD4A	0.467356636446159
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	7	3		#FFF1A9	0.165408695835729
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	8	3	temperature	#FFFFCC	0.0831917328324261
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	9	3		#FFF1A9	0.144513891375637
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	10	3	pleasant|unpleasant	#FFF1A9	0.133405968937086
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	11	3	anxiety	#FFF1A9	0.174312523664096
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	12	3		#FECB68	0.334819270046035
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	13	3		#FDAD4A	0.412973752678266
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	14	3		#FDAD4A	0.410969013974795
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	15	3		#FDAD4A	0.423799146947642
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	16	3	picture	#FECB68	0.393593308164304
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	17	3		#FDAD4A	0.435834627468107
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	18	3	value	#FECB68	0.353204496766682
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	19	3	cue	#FECB68	0.347226643498403
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	20	3	error|target	#FECB68	0.367622622541584
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	21	3	attention	#FECB68	0.342498089971558
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	22	3		#FDAD4A	0.461050537938775
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	23	3	number	#FDAD4A	0.472367176995075
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	1	4	voice	#F03623	0.781380585361443
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	2	4		#F03623	0.798088243970055
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	3	4	hearing	#F03623	0.788338615284362
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	4	4		#FC622F	0.680419235789935
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	5	4	overt	#FD913D	0.501496367800269
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	6	4		#FD913D	0.531162915501162
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	7	4		#FEE188	0.229433037262619
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	8	4	nociceptive|nonpainful|painrelated	#FFFFCC	0.0826181876009206
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	9	4	unpleasantness	#FFFFCC	0.093625244887886
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	10	4	skin|subjective	#FFF1A9	0.176232514560812
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	11	4	depression	#FEE188	0.275484035646592
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	12	4	experience	#FEE188	0.296703504514502
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	13	4	female	#FECB68	0.398890628139439
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	14	4	male	#FDAD4A	0.487410824827982
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	15	4	pictures	#FDAD4A	0.435066634332176
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	16	4		#FD913D	0.532795436820538
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	17	4	perception	#FD913D	0.513205319556805
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	18	4		#FDAD4A	0.494401329639308
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	19	4		#FDAD4A	0.460000371971265
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	20	4		#FDAD4A	0.453728495020916
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	21	4	correct	#FDAD4A	0.471219502402249
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	22	4	work	#FDAD4A	0.431837041971674
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	23	4	memory	#FDAD4A	0.486241889072196
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	1	5	prosodic|prosody	#FC622F	0.651157470253263
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	2	5	phonetic	#F03623	0.754973921848758
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	3	5	syllable|syllables	#F03623	0.705724319757684
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	4	5		#FC622F	0.64866705510499
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	5	5	lip|production	#FDAD4A	0.433065146192941
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	6	5	somatotopic	#FEE188	0.273694973561384
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	7	5		#FECB68	0.301068386651631
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	8	5		#FEE188	0.24286354105366
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	9	5	empathy	#FEE188	0.289717197972315
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	10	5		#FDAD4A	0.410103750403577
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	11	5	disorder	#FECB68	0.302564187158541
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	12	5		#FD913D	0.51838306228244
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	13	5		#FC622F	0.685913375668533
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	14	5		#F03623	0.771085739134231
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	15	5		#F03623	0.775980398892298
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	16	5		#F03623	0.769310190413964
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	17	5		#F03623	0.760188568878124
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	18	5	mental	#FD913D	0.507663550956576
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	19	5	go	#FD913D	0.53383915833683
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	20	5	object	#FDAD4A	0.446932809703389
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	21	5		#FD913D	0.592488286386112
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	22	5		#FC622F	0.681042148624142
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	23	5	word|words	#F03623	0.754305614198659
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	1	6		#FC622F	0.67372930493095
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	2	6		#F03623	0.704744093159387
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	3	6		#F03623	0.71794725842195
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	4	6	vocal	#FD913D	0.513631835677336
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	5	6	articulatory	#FDAD4A	0.458906473965229
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	6	6		#FD913D	0.529662260431889
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	7	6	oddball	#FECB68	0.306403877618038
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	8	6	perceived	#FEE188	0.259763037649937
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	9	6	errorrelated	#FEE188	0.240111991652825
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	10	6	approach	#FDAD4A	0.406706512203433
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	11	6	schizophrenia	#FDAD4A	0.458838035108954
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	12	6	acquisition	#FC622F	0.640591588824347
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	13	6		#D7141E	0.864970689150796
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	14	6		#B10026	0.989475401273524
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	15	6		#B10026	0.990632077603358
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	16	6		#B10026	0.974913404930214
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	17	6		#D7141E	0.819322166486901
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	18	6		#F03623	0.713232013426249
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	19	6		#FC622F	0.680002029824043
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	20	6	objects	#FD913D	0.513959831155553
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	21	6		#FC622F	0.683681984307337
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	22	6		#F03623	0.784694388877239
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	23	6	language|semantic	#D7141E	0.853116157881932
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	1	7	dopamine|dopaminergic	#FFF1A9	0.163586733370695
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	2	7		#FEE188	0.207591264739757
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	3	7		#FECB68	0.353278263020942
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	4	7		#FDAD4A	0.434828606215912
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	5	7		#FDAD4A	0.436474974155083
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	6	7		#FD913D	0.573086462640415
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	7	7		#FD913D	0.525885711781093
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	8	7		#FD913D	0.524180999196984
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	9	7		#FDAD4A	0.49564951363972
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	10	7		#FC622F	0.643994190218955
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	11	7		#FC622F	0.682117035174481
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	12	7		#F03623	0.775380694083019
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	13	7	linguistic|spoken	#B10026	0.906525115387207
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	14	7		#B10026	1
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	15	7	comprehension|sentence|sentences|syntactic	#B10026	0.993914762207745
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	16	7		#B10026	0.99331248226792
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	17	7		#D7141E	0.85740193498677
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	18	7	phonological|reading|read	#F03623	0.782861730180291
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	19	7		#F03623	0.721892863126461
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	20	7	perceptual|recognition	#FC622F	0.603971779459501
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	21	7		#FC622F	0.692084960327619
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	22	7		#F03623	0.775045569869307
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	23	7	verb	#F03623	0.747102395965388
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	1	8	outcome|reward	#FFF1A9	0.127461858028994
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	2	8	anticipation	#FFF1A9	0.136096096999525
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	3	8	outcomes	#FFF1A9	0.132489653001289
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	4	8	choice|choices	#FEE188	0.204244122003012
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	5	8	decisions|probability	#FECB68	0.390430517268195
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	6	8	reversal	#FECB68	0.356488846786449
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	7	8	classification|incorrect	#FD913D	0.526225560479601
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	8	8		#FC622F	0.609414017988465
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	9	8	agerelated|fluency|probes	#FD913D	0.592851663960158
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	10	8	engaged	#FD913D	0.592902073225144
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	11	8	explicit|knowledge	#F03623	0.753623128068538
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	12	8		#D7141E	0.840275190346673
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	13	8		#B10026	0.94887350253879
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	14	8		#B10026	0.988165723791639
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	15	8		#B10026	0.987718415568092
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	16	8		#B10026	0.975304171777596
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	17	8	lexical	#D7141E	0.849554174166693
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	18	8		#F03623	0.780425999514607
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	19	8		#F03623	0.740485993528805
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	20	8		#FC622F	0.687731804396677
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	21	8	encoding	#FD913D	0.576826752485952
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	22	8	retrieval	#FD913D	0.565503948715973
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	23	8	verbal	#FC622F	0.667887148001582
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	1	9	incentive|monetary|money|rewards	#FFFFCC	0.0403109231482189
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	2	9	loss	#FFF1A9	0.133324371786375
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	3	9		#FEE188	0.201436009264868
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	4	9		#FEE188	0.25975257936776
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	5	9	decisionmaking	#FFF1A9	0.187041276910779
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	6	9		#FD913D	0.53564555635122
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	7	9		#FD913D	0.561295584798729
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	8	9		#FC622F	0.610894492297194
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	9	9		#FC622F	0.687107990793278
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	10	9		#F03623	0.753252388010504
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	11	9		#D7141E	0.812321433393264
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	12	9		#D7141E	0.844762784128443
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	13	9	noun	#D7141E	0.82852091196972
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	14	9	meaning	#D7141E	0.89504152235107
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	15	9	english	#F03623	0.76580760785319
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	16	9	pseudoword|pseudowords	#D7141E	0.812901236048911
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	17	9		#D7141E	0.839821979996884
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	18	9		#F03623	0.757346851311848
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	19	9	familiar|judgment	#FC622F	0.650203050544476
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	20	9	pair|pairs	#FC622F	0.679969925122882
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	21	9		#FC622F	0.623676836959379
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	22	9		#FD913D	0.566573803987262
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	23	9	letter|working	#FDAD4A	0.438124869329279
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	1	10	losses|reinforcement|win	#FFFFCC	0.0974696962803058
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	2	10	gain	#FFFFCC	0.0518613226455772
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	3	10	expectation	#FFF1A9	0.177007257399977
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	4	10	risk	#FEE188	0.220686030429203
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	5	10	fact	#FECB68	0.344451993424565
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	6	10	associative	#FDAD4A	0.429526704709646
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	7	10	familiarity|judgments|old	#FD913D	0.528334305815292
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	8	10	contextual|text	#FD913D	0.501766373884312
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	9	10	recall|retrieved	#FD913D	0.524160558081122
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	10	10	conceptual|semantically	#D7141E	0.824801152613339
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	11	10	grammatical|speakers	#F03623	0.777033876712201
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	12	10	nouns	#F03623	0.751827778457564
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	13	10	japanese	#D7141E	0.815587422495217
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	14	10	languages	#F03623	0.715062271339373
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	15	10	written	#F03623	0.794304313440562
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	16	10	chinese|phonology	#FC622F	0.637186422199073
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	17	10	orthographic	#F03623	0.702199639692377
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	18	10		#F03623	0.701293944849665
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	19	10		#FC622F	0.682041010008103
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	20	10	association|decision	#FD913D	0.58664937858779
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	21	10	selection	#FDAD4A	0.494466634642249
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	22	10	letters	#FDAD4A	0.414955721493933
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	23	10	demand|load	#FDAD4A	0.413564911336019
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	1	11	conditioned|conditioning	#FFFFCC	0.0546735389409043
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	2	11		#FFF1A9	0.156783505465946
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	3	11	drug|placebo	#FFF1A9	0.171865888104232
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	4	11		#FECB68	0.358726096148113
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	5	11	associations	#FECB68	0.362729380050429
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	6	11		#FD913D	0.525214334261692
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	7	11	episodic|recollection	#FECB68	0.398986506243204
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	8	11		#FD913D	0.549149837000184
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	9	11		#F03623	0.772396461778538
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	10	11	concepts	#FC622F	0.637656437460306
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	11	11		#D7141E	0.859145734672426
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	12	11		#D7141E	0.865233260244631
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	13	11	german	#F03623	0.722003282070182
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	14	11	readers	#FC622F	0.681004304944844
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	15	11	character|name|naming	#FC622F	0.611703587612948
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	16	11		#F03623	0.725396210632336
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	17	11	novel	#FC622F	0.680490845672653
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	18	11		#FC622F	0.650778607990324
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	19	11	child|children	#FD913D	0.595585813170103
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	20	11	adults	#FD913D	0.585475516425285
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	21	11	ability|feedback|learning	#FDAD4A	0.424612922695824
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	22	11	cues|delay	#FECB68	0.317998538773288
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	23	11	attentional|difficulty|targets	#FECB68	0.317552504296394
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	1	12	aversive|shock	#FFFFCC	0.0973818045545946
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	2	12	reactivity	#FFF1A9	0.12901416071921
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	3	12	males|sex|women	#FECB68	0.312538236805624
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	4	12	animal	#FECB68	0.359913756210607
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	5	12	animals	#FECB68	0.352712787652046
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	6	12		#FDAD4A	0.496202686096098
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	7	12	remember|subsequent	#FDAD4A	0.451473565077981
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	8	12	autobiographical|memories	#FECB68	0.313298441615592
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	9	12		#F03623	0.784829603801035
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	10	12	violation|violations	#FD913D	0.534922660979957
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	11	12	aphasia	#FC622F	0.686956199171472
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	12	12	nonwords	#FC622F	0.668065448840853
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	13	12	dyslexia	#FC622F	0.631205426909758
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	14	12		#F03623	0.732515657109491
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	15	12	priming	#FC622F	0.603859188069468
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	16	12		#FC622F	0.672135803250357
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	17	12	category|repetition	#FC622F	0.659924484825535
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	18	12		#FC622F	0.619992310555255
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	19	12	developmental|development	#FD913D	0.503923901558146
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	20	12		#FD913D	0.55292897458403
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	21	12	space	#FD913D	0.547375774491674
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	22	12		#FDAD4A	0.430220680941831
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	23	12	color	#FECB68	0.349095598529624
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	1	13	threat	#FFF1A9	0.116580140550243
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	2	13	regulation	#FFF1A9	0.151148011206878
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	3	13		#FECB68	0.313945675534107
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	4	13	masked	#FDAD4A	0.404791948159998
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	5	13	scene|scenes	#FEE188	0.245576232914564
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	6	13		#FDAD4A	0.475215597143468
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	7	13	confidence|remembered	#FECB68	0.363692382100055
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	8	13		#FD913D	0.565102405931185
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	9	13		#F03623	0.762339597856536
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	10	13	ambiguity|ambiguous	#F03623	0.702539068722045
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	11	13		#F03623	0.783938569769183
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	12	13		#FC622F	0.696529705283994
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	13	13	writing	#FDAD4A	0.431812814182433
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	14	13		#FC622F	0.65404940057147
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	15	13	categorization|congruency|prime	#FC622F	0.644090848287662
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	16	13		#FC622F	0.628582600366286
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	17	13	mask	#FDAD4A	0.445411192883272
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	18	13		#FD913D	0.537766201932657
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	19	13		#FDAD4A	0.460293552767058
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	20	13		#FDAD4A	0.460199091695077
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	21	13	conflict|congruent|incongruent	#FDAD4A	0.421810757050322
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	22	13	errors	#FECB68	0.368561765565831
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	23	13	maintenance|probe|wm	#FDAD4A	0.411614083590888
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	1	14	angry|fearful|happy	#FFF1A9	0.154252608943446
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	2	14		#FEE188	0.204010180064725
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	3	14	awareness|conscious|ptsd	#FEE188	0.259638573416159
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	4	14		#FDAD4A	0.433230401018764
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	5	14	houses|photographs	#FEE188	0.287719420672676
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	6	14		#FDAD4A	0.437491238005875
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	7	14	hits	#FECB68	0.305836513922131
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	8	14	famous	#FDAD4A	0.461613492225742
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	9	14	names	#FDAD4A	0.492899788219254
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	10	14	family	#FD913D	0.501420132889177
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	11	14	competition|mouth	#FDAD4A	0.449768678089578
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	12	14	abilities	#FDAD4A	0.423164906867359
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	13	14	implicit|unfamiliar	#FD913D	0.580129908951289
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	14	14		#FC622F	0.603968738983988
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	15	14	tom	#FDAD4A	0.496323957174037
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	16	14		#FDAD4A	0.476359695844529
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	17	14		#FECB68	0.398974967446631
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	18	14	stop	#FEE188	0.287180711810411
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	19	14	inhibition|inhibitory|nogo	#FEE188	0.214614754592626
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	20	14	monitoring|stroop	#FECB68	0.340628604123777
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	21	14	interference	#FECB68	0.362259912085944
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	22	14		#FDAD4A	0.41001335399783
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	23	14	demands|executive	#FDAD4A	0.446813723631988
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	1	15	anger	#FFF1A9	0.119268200542609
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	2	15	stress	#FFFFCC	0.0927856628818169
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	3	15	feelings	#FEE188	0.28418725404093
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	4	15	salient	#FECB68	0.302913187059109
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	5	15	novelty	#FECB68	0.318062766630631
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	6	15	movie	#FFF1A9	0.158467984872917
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	7	15		#FDAD4A	0.497134353887297
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	8	15		#FD913D	0.593030284106733
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	9	15	longterm	#FDAD4A	0.497604072389072
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	10	15		#FC622F	0.624657026303702
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	11	15	reasoning|relational	#FDAD4A	0.463597750044707
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	12	15		#FC622F	0.612263562399518
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	13	15	presentations	#FDAD4A	0.454889956513619
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	14	15		#FD913D	0.537525170341138
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	15	15	identity	#FECB68	0.347758861519591
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	16	15		#FDAD4A	0.399921684244113
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	17	15	strategies|strategy	#FEE188	0.263261376331073
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	18	15	card|cards	#FEE188	0.241443318091944
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	19	15	gonogo	#FEE188	0.252279980560478
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	20	15		#FECB68	0.333966675020937
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	21	15	switching|switch	#FEE188	0.253426239355296
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	22	15		#FECB68	0.34208213047542
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	23	15	2back|rule	#FECB68	0.306180817520224
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	1	16	emotionally|mood|personality|sadness	#FFFFCC	0.0964078872478685
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	2	16	disgust|sexual	#FFF1A9	0.10253199734741
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	3	16	olfactory	#FFFFCC	0.0864809617449378
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	4	16	physiological	#FFF1A9	0.158254382555096
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	5	16	depressed|depressive|habituation	#FEE188	0.207551978712579
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	6	16	schizophrenic	#FDAD4A	0.483285234607448
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	7	16	colors|contexts	#FEE188	0.275398526215608
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	8	16	aging|encoded	#FECB68	0.361378953043553
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	9	16	goal	#FECB68	0.329043651974714
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	10	16		#FD913D	0.560156927628601
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	11	16	autism|autistic|nonverbal	#FDAD4A	0.495749674492799
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	12	16		#FD913D	0.560470712967682
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	13	16	bottomup|repetitions	#FECB68	0.374030446767071
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	14	16	adaptation	#FDAD4A	0.401199940280463
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	15	16	irrelevant	#FECB68	0.388341866405767
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	16	16	distractor|distractors	#FEE188	0.20417823476263
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	17	16		#FECB68	0.361843477235941
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	18	16	subtraction	#FEE188	0.28369494365873
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	19	16	1back|nback	#FEE188	0.252185784523761
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	20	16	manipulation|rules	#FECB68	0.348715972725039
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	21	16		#FECB68	0.312978326840789
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	22	16		#FEE188	0.285625150481084
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	23	16	digit	#FEE188	0.261512784732484
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	1	17	avoidance	#FFFFCC	0.0343147477265417
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	2	17		#FFF1A9	0.14851890640906
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	3	17	eating|food	#FFFFCC	0.0624567436141508
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	4	17	taste	#FFF1A9	0.13904228060734
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	5	17	bipolar	#FFF1A9	0.143134221653164
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	6	17	illness|uncertainty	#FEE188	0.228335334920454
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	7	17	females|probabilistic	#FEE188	0.276170502061705
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	8	17	rejection	#FEE188	0.279001557171864
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	9	17	colour|paired	#FEE188	0.266108304344371
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	10	17		#FDAD4A	0.491191223320403
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	11	17		#FDAD4A	0.464679124471066
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	12	17		#FDAD4A	0.463039234980872
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	13	17	taskirrelevant	#FEE188	0.256063109324272
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	14	17		#FECB68	0.355182344823558
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	15	17	suppression	#FECB68	0.304101564133778
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	16	17		#FECB68	0.337861851246678
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	17	17	shifting|shortterm	#FEE188	0.270923983645916
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	18	17	digits	#FECB68	0.309559223588129
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	19	17	search	#FECB68	0.30162096395054
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	20	17	counting|taskrelated	#FECB68	0.348937454963316
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	21	17	topdown	#FEE188	0.282233764493347
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	22	17	visuospatial	#FFF1A9	0.173496219837472
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	23	17	arithmetic|calculation|solving	#FEE188	0.224410265975448
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	1	18	addiction|craving|drugs	#FFFFCC	0.0562134309282327
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	2	18	allele|genotype|polymorphism	#FFF1A9	0.126305291897074
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	3	18	motivation	#FFF1A9	0.111735282755287
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	4	18	heart	#FFF1A9	0.141906610291328
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	5	18	sleep	#FFF1A9	0.153188107702032
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	6	18	expectancy	#FEE188	0.200531359769647
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	7	18	phasic|salience	#FFF1A9	0.18058771067487
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	8	18	adolescence|adolescents	#FFF1A9	0.152260199452141
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	9	18	intelligence|tracking	#FEE188	0.212197590579299
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	10	18		#FDAD4A	0.401190902331921
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	11	18	serial	#FECB68	0.308069927501653
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	12	18		#FECB68	0.368256817842695
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	13	18	spatially|taskrelevant	#FEE188	0.277897197400843
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	14	18		#FECB68	0.329671669543251
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	15	18	attended|attend|unattended	#FEE188	0.214579066857669
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	16	18	rotation|shapes	#FFF1A9	0.142531891188475
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	17	18	rehearsal	#FDAD4A	0.441063413607129
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	18	18	learned	#FEE188	0.268169099521863
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	19	18		#FECB68	0.31453429919859
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	20	18	cued|preparatory	#FEE188	0.223115297930125
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	21	18		#FECB68	0.336300547893956
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	22	18		#FECB68	0.326419478320031
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	23	18	numbers|numerical	#FEE188	0.201454170079867
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	1	19	future	#FEE188	0.229654008864746
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	2	19	negatively	#FEE188	0.230235448212167
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	3	19	distress|epilepsy|selfreported	#FEE188	0.204084330430662
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	4	19	anticipatory|cocaine|probabilities|smoking	#FFFFCC	0.071684988720091
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	5	19	alcohol|amount|impulsivity	#FFF1A9	0.158509995364535
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	6	19	game|success	#FFF1A9	0.188049521319697
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	7	19	adhd|childhood|engagement	#FEE188	0.254935347409018
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	8	19		#FECB68	0.364435265086254
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	9	19		#FECB68	0.364313461573794
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	10	19		#FECB68	0.368377837195336
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	11	19		#FECB68	0.360436296318643
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	12	19	endogenous	#FEE188	0.247215224800825
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	13	19	cueing|invalid|orienting	#FEE188	0.251582573330557
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	14	19		#FECB68	0.351978883884138
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	15	19	multisensory	#FECB68	0.397245723679485
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	16	19		#FECB68	0.350349012163681
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	17	19	shifts	#FEE188	0.246032773910019
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	18	19	covert	#FEE188	0.295191297732703
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	19	19		#FEE188	0.251945601380318
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	20	19	preparation	#FFF1A9	0.185813499398011
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	21	19	discrimination|training	#FDAD4A	0.416552938355434
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	22	19	sequences	#FECB68	0.32591908244669
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	23	19		#FECB68	0.359933851055687
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	1	20	personal|self|selfreferential|trait|traits	#FFF1A9	0.170602763387878
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	2	20	empathic|theory	#FECB68	0.332117179009105
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	3	20	attribution|intentional	#FFF1A9	0.157992979834647
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	4	20	elderly|oscillations	#FFF1A9	0.138649763258217
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	5	20	antipsychotic|virtual	#FFF1A9	0.119280371885067
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	6	20		#FECB68	0.324812442592398
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	7	20	experiences	#FEE188	0.252473559868021
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	8	20	categorical|pressure	#FEE188	0.257736166318865
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	9	20	play|skills	#FEE188	0.262128332428869
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	10	20	automatic|trained	#FEE188	0.297067837230096
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	11	20		#FEE188	0.296749724028432
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	12	20	practice	#FEE188	0.290546422038071
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	13	20	visuomotor	#FFF1A9	0.10910986438676
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	14	20		#FECB68	0.331603750706673
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	15	20	tool	#FECB68	0.308355159852201
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	16	20	vision	#FFFFCC	0.0633136488160183
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	17	20	visually	#FEE188	0.282862256915569
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	18	20	saccade|saccades|saccadic	#FFFFCC	0.0523026971059653
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	19	20	locations	#FEE188	0.215006875791034
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	20	20	imagery|planning	#FEE188	0.27985957281924
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	21	20		#FECB68	0.301941729017604
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	22	20	rest	#FECB68	0.364481756845515
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	23	20	sequence	#FDAD4A	0.402057633300396
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	1	21	scenarios	#FDAD4A	0.422941217283669
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	2	21	intention|intentions	#FEE188	0.272648408168312
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	3	21	causality|perspective	#FEE188	0.244693541694047
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	4	21	past	#FECB68	0.31843989435879
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	5	21		#FECB68	0.313387656561336
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	6	21	episode	#FFF1A9	0.14224339529596
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	7	21	improvement	#FFF1A9	0.185684559264531
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	8	21	masking|retention	#FEE188	0.209528989409738
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	9	21		#FDAD4A	0.41472084478588
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	10	21	dominant	#FECB68	0.343523247364061
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	11	21		#FEE188	0.213137014365664
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	12	21	sequential	#FFF1A9	0.187936877320086
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	13	21	fingers	#FFFFCC	0.0612804045765425
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	14	21		#FEE188	0.269249306447686
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	15	21	gesture|gestures	#FECB68	0.310392057022327
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	16	21		#FEE188	0.232898809920285
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	17	21	hands	#FFFFCC	0.062035201419273
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	18	21		#FFF1A9	0.198087530627161
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	19	21		#FEE188	0.228993761187789
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	20	21	eye|position	#FFF1A9	0.13884079446506
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	21	21	execution	#FFF1A9	0.176416007365729
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	22	21	finger|sensorimotor	#FFF1A9	0.157082955849741
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	23	21		#FEE188	0.254149672462581
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	1	22	moral|stories|story	#FDAD4A	0.437438784979156
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	2	22	mentalizing|persons	#FECB68	0.311700535712052
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	3	22	default|restingstate	#FFF1A9	0.109490909325978
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	4	22	thinking|thought|thoughts	#FEE188	0.2055541899148
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	5	22	spontaneous	#FFF1A9	0.173607259408532
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	6	22	concentration|sensations	#FFFFCC	0.0929579162004036
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	7	22	hierarchical|preference	#FDAD4A	0.403109181134185
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	8	22	effort|oral|simulation	#FEE188	0.286008938792068
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	9	22	interhemispheric|plasticity	#FDAD4A	0.471226615534977
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	10	22	imagined|imagine	#FEE188	0.205540919635771
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	11	22	tapping	#FFF1A9	0.147845944229438
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	12	22	foot|muscle|muscles|voluntary	#FFFFCC	0.0952823069808641
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	13	22	limb	#FFFFCC	0
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	14	22	eyes|velocity	#FFFFCC	0.0318746396486785
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	15	22	biological|gaze|videos	#FFF1A9	0.11492633827776
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	16	22	body	#FFF1A9	0.195395308448565
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	17	22	grasping|orientation|reaching	#FFFFCC	0.0636187557082755
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	18	22		#FFF1A9	0.197336788205861
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	19	22	mirror|shape	#FEE188	0.263864983632055
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	20	22	actions	#FECB68	0.320062815811098
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	21	22	action	#FECB68	0.354384140770882
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	22	22		#FEE188	0.220086829212178
+b4fbc1ca-e747-3ae9-93bd-07f201fd5ddd	Davis MH	23	22	hand|movements|sensory	#FFF1A9	0.174053813460576

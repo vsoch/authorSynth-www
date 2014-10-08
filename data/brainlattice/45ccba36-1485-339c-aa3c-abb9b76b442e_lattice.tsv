@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	1	1	auditory|speech	#FFF1A9	0.167254610156156
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	2	1		#FFF1A9	0.165739565219328
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	3	1	da|integration	#FFF1A9	0.166687451969974
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	4	1		#FFF1A9	0.175554652455365
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	5	1	physical|psychophysical|tactile	#FFF1A9	0.177334843958486
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	6	1		#FEE188	0.217652795033273
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	7	1	somatosensory|stimulation	#FEE188	0.19955021113004
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	8	1	painful|pain	#FECB68	0.317474650361043
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	9	1		#FECB68	0.30552380771001
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	10	1	ratings	#FEE188	0.261049284930639
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	11	1	affective|affect	#FFF1A9	0.193494062210931
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	12	1	emotions	#FFF1A9	0.188198359950867
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	13	1	expression|expressions|facial	#FEE188	0.255744374254411
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	14	1		#FEE188	0.252196604099718
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	15	1		#FEE188	0.292805724162798
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	16	1	emotion|motion|neutral	#FECB68	0.331766662709023
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	17	1	rating	#FECB68	0.309213733927699
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	18	1	negative|positive	#FEE188	0.294090413532638
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	19	1		#FEE188	0.226986193826718
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	20	1	ear|order	#FFF1A9	0.196780304861523
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	21	1	motor	#FFF1A9	0.164408341469451
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	22	1	visual	#FFF1A9	0.116324510227487
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	23	1	age|image|response	#FFF1A9	0.196416009176585
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	1	2	sound|sounds	#FFF1A9	0.162897126516519
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	2	2		#FFF1A9	0.166088749807407
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	3	2	audiovisual|bimodal|crossmodal	#FFF1A9	0.161575930169853
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	4	2		#FFF1A9	0.176118792452589
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	5	2		#FFF1A9	0.18358445722428
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	6	2		#FEE188	0.213744443113091
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	7	2	sensation	#FECB68	0.350838347680363
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	8	2	heat|noxious	#FFF1A9	0.199140223182598
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	9	2		#FEE188	0.287725240785914
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	10	2		#FEE188	0.261321801262861
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	11	2		#FEE188	0.25047752121549
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	12	2	valence	#FEE188	0.222768195029376
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	13	2	person|social	#FEE188	0.206265555966886
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	14	2		#FEE188	0.257149742988402
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	15	2	face|faces	#FFF1A9	0.190298869124495
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	16	2		#FEE188	0.272980304465774
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	17	2		#FEE188	0.274168406569146
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	18	2		#FEE188	0.238024459954654
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	19	2		#FEE188	0.218112127101161
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	20	2		#FFF1A9	0.190301759942988
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	21	2	images|spatial	#FFF1A9	0.172386621394017
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	22	2	control	#FEE188	0.229209586433533
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	23	2	time	#FEE188	0.206334762225977
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	1	3	acoustic|listening|musical|music|pitch	#FFF1A9	0.16440131352133
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	2	3	noise|tones	#FFF1A9	0.178778855750049
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	3	3		#FFF1A9	0.178155992007363
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	4	3		#FFF1A9	0.181225581702048
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	5	3	frequency	#FFF1A9	0.178856496263477
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	6	3		#FEE188	0.218092450328104
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	7	3		#FECB68	0.31482695523532
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	8	3	temperature	#FEE188	0.210482659444782
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	9	3		#FECB68	0.308212640171703
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	10	3	pleasant|unpleasant	#FFF1A9	0.191672617810542
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	11	3	anxiety	#FECB68	0.355171684968988
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	12	3		#FEE188	0.288387880319155
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	13	3		#FEE188	0.277478366756423
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	14	3		#FEE188	0.277500579227994
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	15	3		#FEE188	0.266844192931462
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	16	3	picture	#FEE188	0.207950223466217
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	17	3		#FEE188	0.238297850855597
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	18	3	value	#FEE188	0.216977747424169
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	19	3	cue	#FEE188	0.246965736155071
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	20	3	error|target	#FEE188	0.212112048951724
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	21	3	attention	#FFF1A9	0.166335043743867
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	22	3		#FEE188	0.210213987487727
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	23	3	number	#FEE188	0.284722429971201
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	1	4	voice	#FFF1A9	0.164157801147433
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	2	4		#FFF1A9	0.172467876224937
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	3	4	hearing	#FFF1A9	0.176046052351973
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	4	4		#FFF1A9	0.188761972032206
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	5	4	overt	#FFF1A9	0.178263646646616
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	6	4		#FEE188	0.218575538644287
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	7	4		#FECB68	0.323512975853783
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	8	4	nociceptive|nonpainful|painrelated	#FDAD4A	0.41848001837779
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	9	4	unpleasantness	#FEE188	0.226300073514045
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	10	4	skin|subjective	#FECB68	0.379032240368218
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	11	4	depression	#FEE188	0.287855963956984
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	12	4	experience	#FFF1A9	0.197228877620841
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	13	4	female	#FECB68	0.337989014758732
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	14	4	male	#FECB68	0.333364783487922
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	15	4	pictures	#FEE188	0.217977458270256
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	16	4		#FEE188	0.227137922410545
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	17	4	perception	#FFF1A9	0.197609883034442
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	18	4		#FFF1A9	0.189133983612181
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	19	4		#FFF1A9	0.178200335804289
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	20	4		#FFF1A9	0.177634477189388
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	21	4	correct	#FFF1A9	0.181463535998812
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	22	4	work	#FFF1A9	0.198758528487777
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	23	4	memory	#FEE188	0.263464057311628
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	1	5	prosodic|prosody	#FFF1A9	0.169730461059772
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	2	5	phonetic	#FFF1A9	0.195974337127504
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	3	5	syllable|syllables	#FFF1A9	0.180600625102806
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	4	5		#FFF1A9	0.194264420668672
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	5	5	lip|production	#FFF1A9	0.177746763138271
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	6	5	somatotopic	#FECB68	0.395059378333788
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	7	5		#FECB68	0.320473160660593
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	8	5		#FECB68	0.301232146671039
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	9	5	empathy	#FECB68	0.324301684564173
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	10	5		#FECB68	0.393247091758902
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	11	5	disorder	#FD913D	0.574458822560972
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	12	5		#FECB68	0.341370766314407
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	13	5		#FEE188	0.278387891000782
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	14	5		#FEE188	0.253582584815397
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	15	5		#FEE188	0.244256935931566
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	16	5		#FEE188	0.20685121434708
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	17	5		#FFF1A9	0.191497618982731
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	18	5	mental	#FFF1A9	0.162823663031823
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	19	5	go	#FFF1A9	0.149473276688424
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	20	5	object	#FFFFCC	0
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	21	5		#FFF1A9	0.158280169841839
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	22	5		#FFF1A9	0.183550418733303
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	23	5	word|words	#FFF1A9	0.101745683362154
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	1	6		#FEE188	0.249691132780378
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	2	6		#FEE188	0.240790372997007
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	3	6		#FEE188	0.248666060459894
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	4	6	vocal	#FFF1A9	0.178055859824755
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	5	6	articulatory	#FFF1A9	0.179228394683681
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	6	6		#FEE188	0.226232548323685
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	7	6	oddball	#FFF1A9	0.180969486668902
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	8	6	perceived	#FFF1A9	0.163268763996724
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	9	6	errorrelated	#FFF1A9	0.194878280010356
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	10	6	approach	#FDAD4A	0.482833230070355
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	11	6	schizophrenia	#FDAD4A	0.462977126118873
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	12	6	acquisition	#FEE188	0.25611950975124
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	13	6		#FEE188	0.232072018523646
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	14	6		#FFF1A9	0.197210217144607
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	15	6		#FFF1A9	0.19425396902407
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	16	6		#FFF1A9	0.191419359292102
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	17	6		#FFF1A9	0.180827399747677
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	18	6		#FFF1A9	0.157142805050424
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	19	6		#FFF1A9	0.165123319936168
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	20	6	objects	#FFF1A9	0.158835711206982
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	21	6		#FFF1A9	0.150376682086185
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	22	6		#FFF1A9	0.148894754347743
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	23	6	language|semantic	#FFF1A9	0.15638023595897
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	1	7	dopamine|dopaminergic	#FEE188	0.268542265134563
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	2	7		#FECB68	0.327009474312072
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	3	7		#FECB68	0.305673597579866
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	4	7		#FEE188	0.269923580156325
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	5	7		#FEE188	0.23539220598438
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	6	7		#FEE188	0.214487131103651
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	7	7		#FEE188	0.200716884215474
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	8	7		#FFF1A9	0.188576049116205
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	9	7		#FEE188	0.236571116572129
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	10	7		#FEE188	0.264760333388438
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	11	7		#FECB68	0.299959740997346
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	12	7		#FEE188	0.259641920654947
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	13	7	linguistic|spoken	#FFF1A9	0.178773111704982
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	14	7		#FFF1A9	0.182948945898899
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	15	7	comprehension|sentence|sentences|syntactic	#FFF1A9	0.175257599573821
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	16	7		#FFF1A9	0.17206167310231
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	17	7		#FFF1A9	0.174326843496078
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	18	7	phonological|reading|read	#FFF1A9	0.176954955811629
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	19	7		#FFF1A9	0.182349664386391
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	20	7	perceptual|recognition	#FEE188	0.233213118617209
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	21	7		#FFF1A9	0.182158397059492
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	22	7		#FFF1A9	0.169890241098831
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	23	7	verb	#FFF1A9	0.178353242645939
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	1	8	outcome|reward	#FECB68	0.392350629040357
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	2	8	anticipation	#FECB68	0.30352849190246
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	3	8	outcomes	#FDAD4A	0.432792117698935
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	4	8	choice|choices	#FEE188	0.24542274545088
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	5	8	decisions|probability	#FEE188	0.217797197439379
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	6	8	reversal	#FEE188	0.239354166438754
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	7	8	classification|incorrect	#FEE188	0.214682865152484
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	8	8		#FEE188	0.20932512131343
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	9	8	agerelated|fluency|probes	#FFF1A9	0.161269426068462
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	10	8	engaged	#FFF1A9	0.167236771812498
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	11	8	explicit|knowledge	#FFF1A9	0.181325635582903
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	12	8		#FFF1A9	0.191733449886689
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	13	8		#FFF1A9	0.188578883844158
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	14	8		#FFF1A9	0.179743348405932
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	15	8		#FFF1A9	0.176946318490345
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	16	8		#FFF1A9	0.174030146786082
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	17	8	lexical	#FFF1A9	0.163125451004816
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	18	8		#FFF1A9	0.178357543237081
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	19	8		#FFF1A9	0.188234378937458
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	20	8		#FFF1A9	0.19571536527335
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	21	8	encoding	#FFF1A9	0.196522404709226
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	22	8	retrieval	#FEE188	0.210137241932433
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	23	8	verbal	#FFF1A9	0.177335644075241
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	1	9	incentive|monetary|money|rewards	#FEE188	0.264157812775081
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	2	9	loss	#FEE188	0.288202239552662
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	3	9		#FECB68	0.330834581234154
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	4	9		#FECB68	0.314577090538658
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	5	9	decisionmaking	#FEE188	0.237947588474793
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	6	9		#FEE188	0.226683889705343
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	7	9		#FEE188	0.215218810676258
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	8	9		#FEE188	0.202708640886389
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	9	9		#FFF1A9	0.191910852409162
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	10	9		#FFF1A9	0.171252303330477
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	11	9		#FFF1A9	0.179402232263303
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	12	9		#FFF1A9	0.178981918172474
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	13	9	noun	#FFF1A9	0.164779558450722
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	14	9	meaning	#FFF1A9	0.182711381259352
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	15	9	english	#FFF1A9	0.184740770381729
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	16	9	pseudoword|pseudowords	#FFF1A9	0.175913579979748
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	17	9		#FFF1A9	0.170873701899735
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	18	9		#FFF1A9	0.180445222138609
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	19	9	familiar|judgment	#FFF1A9	0.187558678945644
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	20	9	pair|pairs	#FEE188	0.211555882217349
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	21	9		#FFF1A9	0.198823756896654
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	22	9		#FFF1A9	0.190223531173307
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	23	9	letter|working	#FFF1A9	0.184437944980965
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	1	10	losses|reinforcement|win	#FEE188	0.24757100565709
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	2	10	gain	#FEE188	0.23136420503728
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	3	10	expectation	#FECB68	0.330134455874708
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	4	10	risk	#FEE188	0.263922321094869
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	5	10	fact	#FEE188	0.265077824354351
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	6	10	associative	#FEE188	0.238992494933777
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	7	10	familiarity|judgments|old	#FFF1A9	0.186089348634527
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	8	10	contextual|text	#FFF1A9	0.169555370447552
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	9	10	recall|retrieved	#FFF1A9	0.181828128551536
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	10	10	conceptual|semantically	#FFF1A9	0.161298949016686
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	11	10	grammatical|speakers	#FEE188	0.205576619177026
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	12	10	nouns	#FFF1A9	0.166898454998544
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	13	10	japanese	#FFF1A9	0.174014829512146
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	14	10	languages	#FFF1A9	0.167092991815792
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	15	10	written	#FFF1A9	0.164558312069513
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	16	10	chinese|phonology	#FFF1A9	0.161201864469369
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	17	10	orthographic	#FFF1A9	0.166551622323191
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	18	10		#FFF1A9	0.182741035239877
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	19	10		#FFF1A9	0.191749542071073
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	20	10	association|decision	#FEE188	0.214455993839259
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	21	10	selection	#FFF1A9	0.192705111981798
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	22	10	letters	#FFF1A9	0.198606532537471
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	23	10	demand|load	#FFF1A9	0.180441206989568
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	1	11	conditioned|conditioning	#FECB68	0.344426181580918
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	2	11		#FECB68	0.375310808513934
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	3	11	drug|placebo	#FD913D	0.577990554929259
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	4	11		#FECB68	0.334470795047772
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	5	11	associations	#FFF1A9	0.192365194753402
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	6	11		#FEE188	0.216456972622609
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	7	11	episodic|recollection	#FECB68	0.337534518141532
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	8	11		#FEE188	0.203320129027588
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	9	11		#FEE188	0.201254232067321
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	10	11	concepts	#FFF1A9	0.166944170019751
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	11	11		#FFF1A9	0.190150932742829
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	12	11		#FFF1A9	0.185200098611283
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	13	11	german	#FEE188	0.23110037284443
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	14	11	readers	#FFF1A9	0.163415713900776
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	15	11	character|name|naming	#FFF1A9	0.159834790412545
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	16	11		#FFF1A9	0.17884148779053
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	17	11	novel	#FFF1A9	0.183487577408108
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	18	11		#FFF1A9	0.182702017239603
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	19	11	child|children	#FFF1A9	0.172234627994746
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	20	11	adults	#FFF1A9	0.192952653123624
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	21	11	ability|feedback|learning	#FEE188	0.229699277390271
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	22	11	cues|delay	#FEE188	0.213643696603088
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	23	11	attentional|difficulty|targets	#FFF1A9	0.175777620657569
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	1	12	aversive|shock	#FEE188	0.23786835876834
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	2	12	reactivity	#FDAD4A	0.447796768748236
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	3	12	males|sex|women	#FFF1A9	0.191848149810425
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	4	12	animal	#FEE188	0.262453089954096
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	5	12	animals	#FEE188	0.245280475207544
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	6	12		#FEE188	0.19952315653267
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	7	12	remember|subsequent	#FFF1A9	0.18122707447747
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	8	12	autobiographical|memories	#FEE188	0.277907752630996
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	9	12		#FEE188	0.2057646343913
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	10	12	violation|violations	#FEE188	0.208802381057257
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	11	12	aphasia	#FFF1A9	0.178451328015222
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	12	12	nonwords	#FFF1A9	0.165619881318007
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	13	12	dyslexia	#FFF1A9	0.164377965854782
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	14	12		#FFF1A9	0.169389670340993
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	15	12	priming	#FFF1A9	0.16161636431413
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	16	12		#FFF1A9	0.178806303585682
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	17	12	category|repetition	#FEE188	0.204380619004191
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	18	12		#FFF1A9	0.181163256266886
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	19	12	developmental|development	#FFF1A9	0.173282531047194
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	20	12		#FEE188	0.241220638456503
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	21	12	space	#FEE188	0.22611851666515
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	22	12		#FEE188	0.232402441038438
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	23	12	color	#FEE188	0.202533420917562
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	1	13	threat	#FEE188	0.210332862080068
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	2	13	regulation	#FFF1A9	0.185612483507593
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	3	13		#FEE188	0.285529068060978
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	4	13	masked	#FFF1A9	0.185003054962242
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	5	13	scene|scenes	#FFF1A9	0.165933548277692
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	6	13		#FFF1A9	0.184399124923763
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	7	13	confidence|remembered	#FFF1A9	0.162056213933541
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	8	13		#FFF1A9	0.181856382188205
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	9	13		#FEE188	0.204744926450549
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	10	13	ambiguity|ambiguous	#FEE188	0.210059702880804
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	11	13		#FEE188	0.202386023659656
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	12	13		#FEE188	0.233023587347472
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	13	13	writing	#FFF1A9	0.175643765755364
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	14	13		#FEE188	0.225984797193286
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	15	13	categorization|congruency|prime	#FFF1A9	0.164524643399566
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	16	13		#FFF1A9	0.188700303454667
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	17	13	mask	#FFF1A9	0.172159154408951
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	18	13		#FFF1A9	0.193713973081244
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	19	13		#FEE188	0.206016017798683
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	20	13		#FEE188	0.285095552820829
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	21	13	conflict|congruent|incongruent	#FECB68	0.359715307271359
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	22	13	errors	#FEE188	0.234595404086384
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	23	13	maintenance|probe|wm	#FFF1A9	0.173425731577527
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	1	14	angry|fearful|happy	#FFF1A9	0.166389016547865
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	2	14		#FEE188	0.222587758207312
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	3	14	awareness|conscious|ptsd	#FFF1A9	0.165157778731813
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	4	14		#FFF1A9	0.198368283781871
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	5	14	houses|photographs	#FFF1A9	0.16300719859662
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	6	14		#FFF1A9	0.190024192642255
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	7	14	hits	#FFF1A9	0.163583214475123
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	8	14	famous	#FFF1A9	0.181868730901361
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	9	14	names	#FFF1A9	0.164634861601387
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	10	14	family	#FEE188	0.19944101985139
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	11	14	competition|mouth	#FFF1A9	0.187802226324274
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	12	14	abilities	#FEE188	0.241415306504942
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	13	14	implicit|unfamiliar	#FDAD4A	0.414382657710009
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	14	14		#FEE188	0.240658179953041
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	15	14	tom	#FFF1A9	0.180087451366686
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	16	14		#FEE188	0.239583000744335
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	17	14		#FEE188	0.263232925083483
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	18	14	stop	#FEE188	0.22448031523069
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	19	14	inhibition|inhibitory|nogo	#FFF1A9	0.188792454402255
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	20	14	monitoring|stroop	#FECB68	0.352669189096487
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	21	14	interference	#FECB68	0.37560327257925
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	22	14		#FEE188	0.26884754682305
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	23	14	demands|executive	#FFF1A9	0.182127081465936
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	1	15	anger	#FEE188	0.206078660003029
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	2	15	stress	#FDAD4A	0.425890473426008
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	3	15	feelings	#FEE188	0.212859121614249
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	4	15	salient	#FEE188	0.2274332490601
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	5	15	novelty	#FEE188	0.20472096641138
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	6	15	movie	#FFF1A9	0.181537196936616
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	7	15		#FFF1A9	0.181441478302468
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	8	15		#FFF1A9	0.187794144577428
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	9	15	longterm	#FFF1A9	0.167141135131276
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	10	15		#FFF1A9	0.182880507125278
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	11	15	reasoning|relational	#FFF1A9	0.175057185987388
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	12	15		#FEE188	0.233191100717447
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	13	15	presentations	#FFF1A9	0.185123220912945
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	14	15		#FEE188	0.238419539097662
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	15	15	identity	#FEE188	0.206419817404983
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	16	15		#FEE188	0.258966500862177
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	17	15	strategies|strategy	#FD913D	0.558222658569028
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	18	15	card|cards	#FFF1A9	0.177660124129444
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	19	15	gonogo	#FFF1A9	0.184311264564265
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	20	15		#FEE188	0.261898605579351
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	21	15	switching|switch	#FEE188	0.21305464604148
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	22	15		#FEE188	0.265127352542246
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	23	15	2back|rule	#FFF1A9	0.17062354530507
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	1	16	emotionally|mood|personality|sadness	#FECB68	0.333620142990555
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	2	16	disgust|sexual	#FECB68	0.348909542050478
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	3	16	olfactory	#FEE188	0.293225313046915
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	4	16	physiological	#FECB68	0.310731498034322
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	5	16	depressed|depressive|habituation	#FDAD4A	0.486440438880937
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	6	16	schizophrenic	#FEE188	0.219880033153183
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	7	16	colors|contexts	#FEE188	0.202263409941265
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	8	16	aging|encoded	#FFF1A9	0.163088209737841
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	9	16	goal	#FFF1A9	0.164786695770688
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	10	16		#FFF1A9	0.183961712567872
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	11	16	autism|autistic|nonverbal	#FFF1A9	0.16115603560794
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	12	16		#FEE188	0.202632661669623
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	13	16	bottomup|repetitions	#FFF1A9	0.164961291152504
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	14	16	adaptation	#FFF1A9	0.181542343790207
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	15	16	irrelevant	#FFF1A9	0.170592718793831
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	16	16	distractor|distractors	#FFF1A9	0.168308758358908
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	17	16		#FEE188	0.253443109488552
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	18	16	subtraction	#FFF1A9	0.187503088392031
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	19	16	1back|nback	#FFF1A9	0.169499726387236
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	20	16	manipulation|rules	#FFF1A9	0.182016678146645
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	21	16		#FEE188	0.229850493708616
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	22	16		#FEE188	0.225681087608844
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	23	16	digit	#FECB68	0.304299301911312
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	1	17	avoidance	#FEE188	0.289205596323677
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	2	17		#FC622F	0.695143534205536
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	3	17	eating|food	#D7141E	0.866694265710838
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	4	17	taste	#FC622F	0.604113112438311
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	5	17	bipolar	#FEE188	0.242443029397553
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	6	17	illness|uncertainty	#FFF1A9	0.180437939986381
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	7	17	females|probabilistic	#FFF1A9	0.195027037018452
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	8	17	rejection	#FFF1A9	0.166232637273775
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	9	17	colour|paired	#FEE188	0.224532988574816
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	10	17		#FEE188	0.207523380841805
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	11	17		#FEE188	0.216974838089507
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	12	17		#FEE188	0.236029066359217
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	13	17	taskirrelevant	#FFF1A9	0.182566558374509
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	14	17		#FEE188	0.199974748305452
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	15	17	suppression	#FFF1A9	0.164156665181794
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	16	17		#FFF1A9	0.177281950538138
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	17	17	shifting|shortterm	#FFF1A9	0.161732900898709
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	18	17	digits	#FFF1A9	0.188408811979929
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	19	17	search	#FFF1A9	0.189876402960946
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	20	17	counting|taskrelated	#FFF1A9	0.166559825292149
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	21	17	topdown	#FFF1A9	0.185582977036853
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	22	17	visuospatial	#FFF1A9	0.192642801511614
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	23	17	arithmetic|calculation|solving	#FEE188	0.2679739122478
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	1	18	addiction|craving|drugs	#B10026	1
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	2	18	allele|genotype|polymorphism	#FD913D	0.58200966215289
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	3	18	motivation	#FEE188	0.230419080032308
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	4	18	heart	#FECB68	0.354402703480469
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	5	18	sleep	#FEE188	0.266537449753665
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	6	18	expectancy	#FFF1A9	0.19145509116365
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	7	18	phasic|salience	#FFF1A9	0.166113606064052
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	8	18	adolescence|adolescents	#FFF1A9	0.19005598848205
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	9	18	intelligence|tracking	#FFF1A9	0.176239246325495
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	10	18		#FEE188	0.238140861047208
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	11	18	serial	#FEE188	0.210870562550606
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	12	18		#FEE188	0.255461979326817
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	13	18	spatially|taskrelevant	#FECB68	0.343727078733805
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	14	18		#FFF1A9	0.194257790932087
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	15	18	attended|attend|unattended	#FFF1A9	0.160024906785352
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	16	18	rotation|shapes	#FFF1A9	0.160380506557845
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	17	18	rehearsal	#FFF1A9	0.170807270179274
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	18	18	learned	#FFF1A9	0.164639683038444
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	19	18		#FEE188	0.206354112278782
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	20	18	cued|preparatory	#FEE188	0.26919099805142
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	21	18		#FEE188	0.214859465330067
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	22	18		#FEE188	0.224716995989525
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	23	18	numbers|numerical	#FFF1A9	0.185883937208611
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	1	19	future	#FEE188	0.266670674798552
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	2	19	negatively	#FEE188	0.257637374904646
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	3	19	distress|epilepsy|selfreported	#FEE188	0.251552797314561
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	4	19	anticipatory|cocaine|probabilities|smoking	#FEE188	0.205559209990619
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	5	19	alcohol|amount|impulsivity	#FEE188	0.261445355972395
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	6	19	game|success	#FEE188	0.221436640649028
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	7	19	adhd|childhood|engagement	#FFF1A9	0.162844358407366
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	8	19		#FEE188	0.261582611671715
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	9	19		#FEE188	0.285489126540185
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	10	19		#FEE188	0.22516222562707
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	11	19		#FEE188	0.233324838528666
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	12	19	endogenous	#FEE188	0.289193176461277
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	13	19	cueing|invalid|orienting	#FFF1A9	0.169471581286422
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	14	19		#FFF1A9	0.192772374665792
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	15	19	multisensory	#FFF1A9	0.161006106273103
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	16	19		#FFF1A9	0.168363562113476
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	17	19	shifts	#FEE188	0.201762973795093
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	18	19	covert	#FFF1A9	0.183501509139012
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	19	19		#FEE188	0.230815197018927
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	20	19	preparation	#FFF1A9	0.190492215713118
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	21	19	discrimination|training	#FFF1A9	0.18501085850041
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	22	19	sequences	#FEE188	0.214678794974495
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	23	19		#FEE188	0.205293665928206
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	1	20	personal|self|selfreferential|trait|traits	#FEE188	0.207387320566048
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	2	20	empathic|theory	#FEE188	0.202949711850157
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	3	20	attribution|intentional	#FFF1A9	0.171442141541443
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	4	20	elderly|oscillations	#FEE188	0.20912287046204
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	5	20	antipsychotic|virtual	#FFF1A9	0.170970472729006
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	6	20		#FEE188	0.227088955775014
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	7	20	experiences	#FFF1A9	0.192200206094339
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	8	20	categorical|pressure	#FECB68	0.378062300015796
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	9	20	play|skills	#FFF1A9	0.178492391270963
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	10	20	automatic|trained	#FFF1A9	0.179339742208123
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	11	20		#FEE188	0.231834256785509
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	12	20	practice	#FFF1A9	0.180513324327961
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	13	20	visuomotor	#FFF1A9	0.175024997652848
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	14	20		#FFF1A9	0.174161882244641
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	15	20	tool	#FFF1A9	0.162427947768932
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	16	20	vision	#FFF1A9	0.163530754552943
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	17	20	visually	#FFF1A9	0.176684064347624
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	18	20	saccade|saccades|saccadic	#FECB68	0.368616215113265
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	19	20	locations	#FFF1A9	0.187533448719078
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	20	20	imagery|planning	#FFF1A9	0.195952770630514
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	21	20		#FFF1A9	0.189087126992506
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	22	20	rest	#FFF1A9	0.180866640185404
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	23	20	sequence	#FFF1A9	0.198219558773417
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	1	21	scenarios	#FFF1A9	0.190063505292531
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	2	21	intention|intentions	#FEE188	0.227512492496059
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	3	21	causality|perspective	#FFF1A9	0.172823355577469
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	4	21	past	#FEE188	0.199503629534392
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	5	21		#FFF1A9	0.193192289712914
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	6	21	episode	#FFF1A9	0.181642494114957
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	7	21	improvement	#FEE188	0.202471483946123
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	8	21	masking|retention	#FEE188	0.220572021443755
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	9	21		#FECB68	0.319183467232773
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	10	21	dominant	#FD913D	0.599739176314875
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	11	21		#FEE188	0.208135314453487
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	12	21	sequential	#FEE188	0.224153814848276
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	13	21	fingers	#FFF1A9	0.173169496969298
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	14	21		#FFF1A9	0.171473446652946
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	15	21	gesture|gestures	#FFF1A9	0.167917339361754
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	16	21		#FFF1A9	0.17528551430793
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	17	21	hands	#FFF1A9	0.169367464607486
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	18	21		#FEE188	0.205478651599223
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	19	21		#FEE188	0.205670212389889
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	20	21	eye|position	#FFF1A9	0.171661301095038
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	21	21	execution	#FFF1A9	0.169730667568625
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	22	21	finger|sensorimotor	#FFF1A9	0.170619517076865
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	23	21		#FFF1A9	0.169178364410829
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	1	22	moral|stories|story	#FDAD4A	0.403247920916916
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	2	22	mentalizing|persons	#FECB68	0.314547595983396
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	3	22	default|restingstate	#FECB68	0.381566556126154
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	4	22	thinking|thought|thoughts	#FFF1A9	0.171136538389985
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	5	22	spontaneous	#FFF1A9	0.175525668029089
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	6	22	concentration|sensations	#FEE188	0.203912442078501
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	7	22	hierarchical|preference	#FDAD4A	0.45696565165465
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	8	22	effort|oral|simulation	#FDAD4A	0.428508797477178
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	9	22	interhemispheric|plasticity	#FDAD4A	0.438964818123336
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	10	22	imagined|imagine	#FFF1A9	0.170851981322711
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	11	22	tapping	#FFF1A9	0.179023039840527
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	12	22	foot|muscle|muscles|voluntary	#FFF1A9	0.174315112598228
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	13	22	limb	#FFF1A9	0.175735540954763
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	14	22	eyes|velocity	#FFF1A9	0.167358733755188
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	15	22	biological|gaze|videos	#FFF1A9	0.169037279891556
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	16	22	body	#FEE188	0.206375328316816
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	17	22	grasping|orientation|reaching	#FFF1A9	0.173715057594995
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	18	22		#FFF1A9	0.191097570928633
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	19	22	mirror|shape	#FFF1A9	0.162327370587504
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	20	22	actions	#FFF1A9	0.167251234484883
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	21	22	action	#FFF1A9	0.135008695876181
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	22	22		#FFF1A9	0.161047385572123
+45ccba36-1485-339c-aa3c-abb9b76b442e	Siniatchkin M	23	22	hand|movements|sensory	#FFF1A9	0.154730140898346

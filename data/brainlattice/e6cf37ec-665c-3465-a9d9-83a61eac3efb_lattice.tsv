@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	1	1	auditory|speech	#FFF1A9	0.145366214418999
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	2	1		#FFF1A9	0.12322458439546
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	3	1	da|integration	#FEE188	0.253303888914932
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	4	1		#FEE188	0.224227474595844
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	5	1	physical|psychophysical|tactile	#FFF1A9	0.158877845834179
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	6	1		#FECB68	0.325126906067553
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	7	1	somatosensory|stimulation	#FECB68	0.31863393929323
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	8	1	painful|pain	#FDAD4A	0.408327695489739
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	9	1		#FDAD4A	0.492405441979392
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	10	1	ratings	#FC622F	0.648793201919784
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	11	1	affective|affect	#FD913D	0.527975035523765
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	12	1	emotions	#FDAD4A	0.455600711621395
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	13	1	expression|expressions|facial	#FECB68	0.347873229878644
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	14	1		#FDAD4A	0.494284409031247
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	15	1		#FD913D	0.538108740529291
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	16	1	emotion|motion|neutral	#FD913D	0.551890961436686
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	17	1	rating	#FC622F	0.63857947686198
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	18	1	negative|positive	#FC622F	0.605908739450353
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	19	1		#FD913D	0.540594774722444
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	20	1	ear|order	#FDAD4A	0.43997138327213
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	21	1	motor	#FECB68	0.315146431892795
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	22	1	visual	#FECB68	0.318457169861358
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	23	1	age|image|response	#FDAD4A	0.430045973440052
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	1	2	sound|sounds	#FFFFCC	0.0513151453926815
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	2	2		#FFF1A9	0.111898575813945
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	3	2	audiovisual|bimodal|crossmodal	#FFFFCC	0.0460352271754862
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	4	2		#FEE188	0.225694149761155
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	5	2		#FEE188	0.242943735652661
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	6	2		#FECB68	0.325487869814598
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	7	2	sensation	#FECB68	0.387254540982789
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	8	2	heat|noxious	#FECB68	0.359820802679312
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	9	2		#FD913D	0.50317715292351
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	10	2		#FC622F	0.616689482332095
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	11	2		#FC622F	0.614657566288992
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	12	2	valence	#FD913D	0.539344610180802
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	13	2	person|social	#FDAD4A	0.49929452577043
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	14	2		#FDAD4A	0.496632585611679
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	15	2	face|faces	#FECB68	0.390598684754513
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	16	2		#FD913D	0.56797951146975
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	17	2		#FC622F	0.60795253333689
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	18	2		#FD913D	0.596264654049611
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	19	2		#FD913D	0.53635462014967
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	20	2		#FDAD4A	0.433672908071977
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	21	2	images|spatial	#FECB68	0.391742321169941
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	22	2	control	#FECB68	0.387460701173051
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	23	2	time	#FDAD4A	0.418068387346243
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	1	3	acoustic|listening|musical|music|pitch	#FFFFCC	0.0542871507594496
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	2	3	noise|tones	#FFFFCC	0.0720981923154757
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	3	3		#FFF1A9	0.172984868149794
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	4	3		#FEE188	0.221796213747342
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	5	3	frequency	#FEE188	0.245742278571029
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	6	3		#FECB68	0.364035619700524
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	7	3		#FECB68	0.390389809213931
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	8	3	temperature	#FEE188	0.265830600356153
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	9	3		#FDAD4A	0.469434231013758
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	10	3	pleasant|unpleasant	#FD913D	0.510668767879975
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	11	3	anxiety	#FD913D	0.545968046855856
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	12	3		#FD913D	0.5855599051258
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	13	3		#FD913D	0.564790905212626
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	14	3		#FD913D	0.540146608802347
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	15	3		#FD913D	0.531612559597159
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	16	3	picture	#FDAD4A	0.47814294291242
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	17	3		#FD913D	0.573493923765779
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	18	3	value	#FD913D	0.57359025362526
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	19	3	cue	#FD913D	0.505869568820554
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	20	3	error|target	#FDAD4A	0.41102065744693
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	21	3	attention	#FECB68	0.310995147299875
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	22	3		#FECB68	0.366336835822416
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	23	3	number	#FECB68	0.396141909423414
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	1	4	voice	#FFFFCC	0.05639894532121
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	2	4		#FFF1A9	0.113148198499613
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	3	4	hearing	#FFFFCC	0.0613346288103032
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	4	4		#FEE188	0.210014100004756
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	5	4	overt	#FEE188	0.215581543015907
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	6	4		#FEE188	0.286964636206555
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	7	4		#FECB68	0.391494590571658
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	8	4	nociceptive|nonpainful|painrelated	#FECB68	0.340462218943101
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	9	4	unpleasantness	#FECB68	0.35496674111464
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	10	4	skin|subjective	#FD913D	0.592868423266703
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	11	4	depression	#FC622F	0.621278742759753
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	12	4	experience	#FD913D	0.524415883670173
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	13	4	female	#FD913D	0.506741639371743
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	14	4	male	#FD913D	0.552181187441263
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	15	4	pictures	#FDAD4A	0.431943159718519
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	16	4		#FDAD4A	0.491210360132522
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	17	4	perception	#FDAD4A	0.405565017360411
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	18	4		#FDAD4A	0.443079862638091
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	19	4		#FDAD4A	0.416619228540039
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	20	4		#FECB68	0.386240282324981
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	21	4	correct	#FECB68	0.35309183694838
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	22	4	work	#FECB68	0.300825445280391
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	23	4	memory	#FECB68	0.312928878465851
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	1	5	prosodic|prosody	#FFF1A9	0.121398058363124
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	2	5	phonetic	#FFFFCC	0.0386592379941624
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	3	5	syllable|syllables	#FFF1A9	0.140464375889781
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	4	5		#FEE188	0.215989949859968
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	5	5	lip|production	#FFF1A9	0.155999989925787
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	6	5	somatotopic	#FFF1A9	0.184804345671289
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	7	5		#FDAD4A	0.428890300721215
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	8	5		#FDAD4A	0.44417706024898
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	9	5	empathy	#FDAD4A	0.487413784965171
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	10	5		#FD913D	0.556348123978292
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	11	5	disorder	#FDAD4A	0.488434588908116
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	12	5		#FD913D	0.553016051114733
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	13	5		#FD913D	0.508502959516336
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	14	5		#FDAD4A	0.444856439269855
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	15	5		#FDAD4A	0.432724069983401
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	16	5		#FDAD4A	0.401995521743559
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	17	5		#FECB68	0.358846663774705
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	18	5	mental	#FECB68	0.307616122612102
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	19	5	go	#FECB68	0.34295972878108
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	20	5	object	#FEE188	0.201948828508688
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	21	5		#FECB68	0.320160347120809
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	22	5		#FEE188	0.287450137718244
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	23	5	word|words	#FEE188	0.214065795414773
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	1	6		#FC622F	0.684046632348962
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	2	6		#FC622F	0.609465058615217
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	3	6		#FD913D	0.515047360729923
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	4	6	vocal	#FFF1A9	0.149508961521484
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	5	6	articulatory	#FFF1A9	0.134756305693469
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	6	6		#FECB68	0.33874452251642
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	7	6	oddball	#FEE188	0.253320073853666
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	8	6	perceived	#FECB68	0.396754728788969
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	9	6	errorrelated	#FECB68	0.393179019822663
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	10	6	approach	#FDAD4A	0.483160024221842
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	11	6	schizophrenia	#FDAD4A	0.450135788426659
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	12	6	acquisition	#FDAD4A	0.44244207739801
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	13	6		#FECB68	0.362586640275932
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	14	6		#FEE188	0.211474218525922
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	15	6		#FEE188	0.222201209219554
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	16	6		#FEE188	0.239264444832321
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	17	6		#FEE188	0.251313770101525
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	18	6		#FEE188	0.260306675419263
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	19	6		#FEE188	0.285347401877797
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	20	6	objects	#FEE188	0.223981250822401
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	21	6		#FEE188	0.289846033773416
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	22	6		#FEE188	0.238149450248709
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	23	6	language|semantic	#FFF1A9	0.190439986265577
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	1	7	dopamine|dopaminergic	#D7141E	0.856712170689862
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	2	7		#B10026	0.979594876362288
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	3	7		#F03623	0.786875801379032
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	4	7		#FC622F	0.637969498948148
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	5	7		#FD913D	0.575494461687922
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	6	7		#FD913D	0.525435824974272
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	7	7		#FD913D	0.509512862528033
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	8	7		#FDAD4A	0.484129839004343
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	9	7		#FDAD4A	0.466598805504922
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	10	7		#FECB68	0.374832162817511
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	11	7		#FECB68	0.373525495044212
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	12	7		#FECB68	0.317233143915927
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	13	7	linguistic|spoken	#FFFFCC	0.0975089667457633
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	14	7		#FFF1A9	0.151231251349064
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	15	7	comprehension|sentence|sentences|syntactic	#FFF1A9	0.111632318038535
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	16	7		#FFF1A9	0.152060013414529
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	17	7		#FFF1A9	0.188771297292678
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	18	7	phonological|reading|read	#FFF1A9	0.173667349232125
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	19	7		#FEE188	0.260111086098976
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	20	7	perceptual|recognition	#FECB68	0.307636849245002
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	21	7		#FECB68	0.300996824761454
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	22	7		#FEE188	0.256930386514133
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	23	7	verb	#FEE188	0.226121640473337
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	1	8	outcome|reward	#B10026	0.960265356532821
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	2	8	anticipation	#B10026	1
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	3	8	outcomes	#D7141E	0.838634324917378
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	4	8	choice|choices	#FD913D	0.567360015705612
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	5	8	decisions|probability	#FD913D	0.590669652237724
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	6	8	reversal	#FDAD4A	0.460181492399304
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	7	8	classification|incorrect	#FDAD4A	0.478819664348497
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	8	8		#FDAD4A	0.450221090152848
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	9	8	agerelated|fluency|probes	#FEE188	0.246925718936833
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	10	8	engaged	#FFF1A9	0.173059035675986
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	11	8	explicit|knowledge	#FFF1A9	0.196041081104151
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	12	8		#FFF1A9	0.182215290622917
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	13	8		#FFF1A9	0.142066834508798
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	14	8		#FFF1A9	0.127917734918611
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	15	8		#FFF1A9	0.12895198548441
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	16	8		#FFF1A9	0.142811994992944
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	17	8	lexical	#FFF1A9	0.126480331174001
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	18	8		#FEE188	0.214587314434485
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	19	8		#FEE188	0.258407161525876
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	20	8		#FECB68	0.310547644432614
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	21	8	encoding	#FECB68	0.353210218991046
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	22	8	retrieval	#FECB68	0.309733796236147
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	23	8	verbal	#FEE188	0.249867076498959
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	1	9	incentive|monetary|money|rewards	#B10026	0.983506917263647
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	2	9	loss	#B10026	0.954969217512477
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	3	9		#D7141E	0.83512915678001
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	4	9		#F03623	0.721015363011826
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	5	9	decisionmaking	#FDAD4A	0.469698684071542
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	6	9		#FD913D	0.517000931362703
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	7	9		#FDAD4A	0.449125311232702
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	8	9		#FDAD4A	0.402249717927354
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	9	9		#FECB68	0.310113682384172
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	10	9		#FEE188	0.22281739867624
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	11	9		#FFF1A9	0.170279897967984
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	12	9		#FFF1A9	0.147368794415004
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	13	9	noun	#FFFFCC	0.010746559915135
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	14	9	meaning	#FFF1A9	0.100321391134299
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	15	9	english	#FFF1A9	0.101462656209292
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	16	9	pseudoword|pseudowords	#FFFFCC	0.0971849992982571
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	17	9		#FFF1A9	0.175908236359777
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	18	9		#FEE188	0.252141505878132
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	19	9	familiar|judgment	#FEE188	0.270693403584243
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	20	9	pair|pairs	#FEE188	0.2969229550994
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	21	9		#FECB68	0.368794351913408
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	22	9		#FECB68	0.313904541507774
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	23	9	letter|working	#FEE188	0.227604989942981
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	1	10	losses|reinforcement|win	#D7141E	0.856246975314252
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	2	10	gain	#B10026	0.907047386831741
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	3	10	expectation	#F03623	0.744177373795891
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	4	10	risk	#FD913D	0.563050723657805
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	5	10	fact	#FDAD4A	0.437270748342071
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	6	10	associative	#FECB68	0.36012012525693
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	7	10	familiarity|judgments|old	#FEE188	0.258218671219588
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	8	10	contextual|text	#FEE188	0.225205108106079
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	9	10	recall|retrieved	#FEE188	0.208379336894124
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	10	10	conceptual|semantically	#FFFFCC	0.0773063536687471
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	11	10	grammatical|speakers	#FFF1A9	0.155902729918335
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	12	10	nouns	#FFFFCC	0.00954047599569592
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	13	10	japanese	#FFFFCC	0.0491486038771995
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	14	10	languages	#FFFFCC	0.0898375338595315
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	15	10	written	#FFFFCC	0.078111734560688
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	16	10	chinese|phonology	#FFF1A9	0.115683364097438
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	17	10	orthographic	#FFF1A9	0.140035509609851
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	18	10		#FEE188	0.287580780306709
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	19	10		#FECB68	0.341006091336829
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	20	10	association|decision	#FDAD4A	0.49897357100789
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	21	10	selection	#FECB68	0.366772311121371
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	22	10	letters	#FFF1A9	0.181475004996983
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	23	10	demand|load	#FEE188	0.234344547331551
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	1	11	conditioned|conditioning	#FC622F	0.694164507968041
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	2	11		#D7141E	0.888428794954807
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	3	11	drug|placebo	#FC622F	0.634103883869394
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	4	11		#FC622F	0.67223460442303
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	5	11	associations	#FECB68	0.386864151718941
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	6	11		#FECB68	0.344757480477924
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	7	11	episodic|recollection	#FEE188	0.254342291368275
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	8	11		#FEE188	0.295931367588358
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	9	11		#FEE188	0.264996416774423
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	10	11	concepts	#FFFFCC	0
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	11	11		#FFF1A9	0.179355060963138
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	12	11		#FFF1A9	0.176025012408472
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	13	11	german	#FEE188	0.260498953777994
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	14	11	readers	#FFF1A9	0.186125725938034
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	15	11	character|name|naming	#FFF1A9	0.151308971038356
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	16	11		#FEE188	0.207810417905974
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	17	11	novel	#FEE188	0.265946072637482
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	18	11		#FEE188	0.292062425876935
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	19	11	child|children	#FEE188	0.248780982371883
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	20	11	adults	#FECB68	0.39281473012072
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	21	11	ability|feedback|learning	#FC622F	0.626365297029349
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	22	11	cues|delay	#FDAD4A	0.476786503796361
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	23	11	attentional|difficulty|targets	#FEE188	0.253995222156177
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	1	12	aversive|shock	#FC622F	0.642489251584176
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	2	12	reactivity	#FC622F	0.611525410058826
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	3	12	males|sex|women	#FD913D	0.505136166841164
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	4	12	animal	#FD913D	0.522839995282457
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	5	12	animals	#FEE188	0.269484289582242
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	6	12		#FECB68	0.303322047913963
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	7	12	remember|subsequent	#FFF1A9	0.162130623075479
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	8	12	autobiographical|memories	#FFF1A9	0.154622786168697
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	9	12		#FEE188	0.251358602355905
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	10	12	violation|violations	#FFFFCC	0.0743173213364026
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	11	12	aphasia	#FEE188	0.200590644950276
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	12	12	nonwords	#FFF1A9	0.149017746634523
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	13	12	dyslexia	#FFF1A9	0.131941797258943
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	14	12		#FEE188	0.213388872902356
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	15	12	priming	#FFFFCC	0.0799640500812091
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	16	12		#FEE188	0.262748363211406
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	17	12	category|repetition	#FEE188	0.233501939470709
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	18	12		#FECB68	0.311747719917148
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	19	12	developmental|development	#FEE188	0.218428647362037
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	20	12		#FECB68	0.367159550053389
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	21	12	space	#FECB68	0.358911442008569
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	22	12		#FECB68	0.335031008141743
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	23	12	color	#FEE188	0.255207308675911
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	1	13	threat	#FECB68	0.340704419031102
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	2	13	regulation	#FDAD4A	0.42725953427846
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	3	13		#FD913D	0.565228727403729
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	4	13	masked	#FECB68	0.303324451744299
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	5	13	scene|scenes	#FFF1A9	0.176000056376579
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	6	13		#FEE188	0.297607467434857
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	7	13	confidence|remembered	#FFF1A9	0.1733007669473
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	8	13		#FECB68	0.303916321963428
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	9	13		#FEE188	0.272530963696388
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	10	13	ambiguity|ambiguous	#FFFFCC	0.0193688173474218
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	11	13		#FEE188	0.220186154270543
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	12	13		#FEE188	0.264502834645897
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	13	13	writing	#FEE188	0.205022858693215
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	14	13		#FEE188	0.261561952150649
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	15	13	categorization|congruency|prime	#FFF1A9	0.151354386210089
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	16	13		#FEE188	0.28626469383618
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	17	13	mask	#FECB68	0.302251954764194
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	18	13		#FECB68	0.341542420527088
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	19	13		#FECB68	0.334587674717673
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	20	13		#FECB68	0.309285542797463
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	21	13	conflict|congruent|incongruent	#FEE188	0.232553976327166
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	22	13	errors	#FECB68	0.332037254528668
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	23	13	maintenance|probe|wm	#FEE188	0.22607157889629
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	1	14	angry|fearful|happy	#FEE188	0.215462356895494
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	2	14		#FECB68	0.347497136188941
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	3	14	awareness|conscious|ptsd	#FECB68	0.396219827731248
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	4	14		#FDAD4A	0.418614731615475
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	5	14	houses|photographs	#FFFFCC	0.0984392965304062
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	6	14		#FECB68	0.352332108627908
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	7	14	hits	#FECB68	0.305905057286634
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	8	14	famous	#FEE188	0.212973151313415
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	9	14	names	#FFF1A9	0.167245134939886
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	10	14	family	#FFF1A9	0.15948910869707
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	11	14	competition|mouth	#FFF1A9	0.161798466377676
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	12	14	abilities	#FEE188	0.286597876461195
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	13	14	implicit|unfamiliar	#FFF1A9	0.182617396584773
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	14	14		#FEE188	0.257217833590193
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	15	14	tom	#FEE188	0.267231405645336
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	16	14		#FEE188	0.289707461467692
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	17	14		#FECB68	0.305498304286809
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	18	14	stop	#FECB68	0.333113564047092
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	19	14	inhibition|inhibitory|nogo	#FECB68	0.322593528358116
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	20	14	monitoring|stroop	#FEE188	0.214532765097905
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	21	14	interference	#FFF1A9	0.161682141185394
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	22	14		#FEE188	0.246368532348195
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	23	14	demands|executive	#FEE188	0.208005259452909
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	1	15	anger	#FFF1A9	0.171874391097105
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	2	15	stress	#FECB68	0.365522367727772
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	3	15	feelings	#FDAD4A	0.404109756183015
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	4	15	salient	#FECB68	0.346192653345878
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	5	15	novelty	#FEE188	0.252565938340679
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	6	15	movie	#FEE188	0.207725694836614
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	7	15		#FDAD4A	0.417276147013634
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	8	15		#FECB68	0.384692357671808
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	9	15	longterm	#FFF1A9	0.146015953667122
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	10	15		#FEE188	0.275965015019487
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	11	15	reasoning|relational	#FFF1A9	0.161637670157241
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	12	15		#FEE188	0.278636315490707
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	13	15	presentations	#FFF1A9	0.103787972750016
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	14	15		#FEE188	0.236726645408843
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	15	15	identity	#FFF1A9	0.166186619633636
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	16	15		#FEE188	0.267497056624674
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	17	15	strategies|strategy	#FECB68	0.310243483002466
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	18	15	card|cards	#FFF1A9	0.18157242337259
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	19	15	gonogo	#FEE188	0.233633536180725
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	20	15		#FEE188	0.259610651028445
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	21	15	switching|switch	#FFF1A9	0.151065207605536
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	22	15		#FEE188	0.206781080859418
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	23	15	2back|rule	#FFF1A9	0.133127059738219
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	1	16	emotionally|mood|personality|sadness	#FDAD4A	0.400838883289163
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	2	16	disgust|sexual	#FD913D	0.511643334653559
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	3	16	olfactory	#FECB68	0.352824305757286
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	4	16	physiological	#FDAD4A	0.478268555783087
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	5	16	depressed|depressive|habituation	#FECB68	0.318948639464086
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	6	16	schizophrenic	#FEE188	0.224022700007272
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	7	16	colors|contexts	#FECB68	0.323446571112514
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	8	16	aging|encoded	#FEE188	0.2012829915606
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	9	16	goal	#FFF1A9	0.103929542763883
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	10	16		#FEE188	0.26498401908849
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	11	16	autism|autistic|nonverbal	#FEE188	0.239721765112394
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	12	16		#FEE188	0.244383299045706
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	13	16	bottomup|repetitions	#FFF1A9	0.152625928194462
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	14	16	adaptation	#FFF1A9	0.101074844621886
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	15	16	irrelevant	#FFF1A9	0.12739930496392
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	16	16	distractor|distractors	#FFF1A9	0.18277250114601
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	17	16		#FEE188	0.254129207321035
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	18	16	subtraction	#FFF1A9	0.101088236660536
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	19	16	1back|nback	#FFFFCC	0.0639030369887095
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	20	16	manipulation|rules	#FFF1A9	0.168888139727807
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	21	16		#FFF1A9	0.199322192189152
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	22	16		#FFF1A9	0.155977933897395
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	23	16	digit	#FFF1A9	0.116800444446928
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	1	17	avoidance	#FD913D	0.580024777675289
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	2	17		#FC622F	0.69848747005262
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	3	17	eating|food	#FD913D	0.534283068115662
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	4	17	taste	#FECB68	0.394404249778164
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	5	17	bipolar	#FECB68	0.379522393746719
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	6	17	illness|uncertainty	#FEE188	0.287282032405039
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	7	17	females|probabilistic	#FECB68	0.327400373871496
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	8	17	rejection	#FEE188	0.227393917784108
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	9	17	colour|paired	#FEE188	0.229360698182497
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	10	17		#FECB68	0.309501508999631
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	11	17		#FECB68	0.306181519322687
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	12	17		#FEE188	0.276481957160043
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	13	17	taskirrelevant	#FFFFCC	0.0857264524602071
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	14	17		#FFF1A9	0.148785426394934
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	15	17	suppression	#FFFFCC	0.0864706556345333
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	16	17		#FFF1A9	0.183063661587003
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	17	17	shifting|shortterm	#FFF1A9	0.146357136270078
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	18	17	digits	#FFF1A9	0.150240236891992
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	19	17	search	#FEE188	0.248950321646411
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	20	17	counting|taskrelated	#FFF1A9	0.180687780526349
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	21	17	topdown	#FFF1A9	0.133539132481622
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	22	17	visuospatial	#FFFFCC	0.0956673448814874
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	23	17	arithmetic|calculation|solving	#FFF1A9	0.103037409398278
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	1	18	addiction|craving|drugs	#FD913D	0.580836548367273
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	2	18	allele|genotype|polymorphism	#FDAD4A	0.48848894545565
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	3	18	motivation	#FD913D	0.528000519341335
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	4	18	heart	#FD913D	0.503177838086401
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	5	18	sleep	#FD913D	0.52883387436104
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	6	18	expectancy	#FECB68	0.386864660054437
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	7	18	phasic|salience	#FECB68	0.331450154680531
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	8	18	adolescence|adolescents	#FECB68	0.303028292541539
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	9	18	intelligence|tracking	#FEE188	0.200268027335705
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	10	18		#FECB68	0.317377211472999
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	11	18	serial	#FEE188	0.202599611386048
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	12	18		#FEE188	0.262535432493431
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	13	18	spatially|taskrelevant	#FFF1A9	0.123670473100149
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	14	18		#FFF1A9	0.151657649648927
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	15	18	attended|attend|unattended	#FFFFCC	0.0419898956758108
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	16	18	rotation|shapes	#FFF1A9	0.119355980570033
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	17	18	rehearsal	#FFF1A9	0.172096757739964
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	18	18	learned	#FEE188	0.272816091326849
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	19	18		#FEE188	0.276160261034109
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	20	18	cued|preparatory	#FFF1A9	0.194602245834562
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	21	18		#FEE188	0.246197914504048
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	22	18		#FFF1A9	0.194779600998744
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	23	18	numbers|numerical	#FFF1A9	0.113639360671206
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	1	19	future	#FDAD4A	0.432463525114329
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	2	19	negatively	#FECB68	0.342805903513931
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	3	19	distress|epilepsy|selfreported	#FD913D	0.596870854916331
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	4	19	anticipatory|cocaine|probabilities|smoking	#FC622F	0.670484867011508
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	5	19	alcohol|amount|impulsivity	#FC622F	0.645002307778382
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	6	19	game|success	#FDAD4A	0.403470303342043
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	7	19	adhd|childhood|engagement	#FEE188	0.274657513337899
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	8	19		#FECB68	0.383776578816064
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	9	19		#FECB68	0.317148862340832
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	10	19		#FEE188	0.291662743687878
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	11	19		#FEE188	0.280860845862107
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	12	19	endogenous	#FEE188	0.259854039591018
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	13	19	cueing|invalid|orienting	#FFF1A9	0.149150231332563
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	14	19		#FFF1A9	0.158229376790177
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	15	19	multisensory	#FFFFCC	0.0816765219069641
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	16	19		#FFF1A9	0.148300582670747
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	17	19	shifts	#FEE188	0.207813633908701
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	18	19	covert	#FEE188	0.239668599738081
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	19	19		#FEE188	0.25359714931287
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	20	19	preparation	#FFF1A9	0.191103843412675
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	21	19	discrimination|training	#FEE188	0.231284913185982
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	22	19	sequences	#FEE188	0.245542208900479
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	23	19		#FEE188	0.292455868973544
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	1	20	personal|self|selfreferential|trait|traits	#FECB68	0.35811144898022
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	2	20	empathic|theory	#FDAD4A	0.433644851111749
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	3	20	attribution|intentional	#FFF1A9	0.120078172010288
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	4	20	elderly|oscillations	#FFF1A9	0.134032525653066
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	5	20	antipsychotic|virtual	#FEE188	0.210955228852581
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	6	20		#FD913D	0.594624218003125
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	7	20	experiences	#FEE188	0.228568489287643
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	8	20	categorical|pressure	#FFF1A9	0.106780827801918
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	9	20	play|skills	#FFF1A9	0.12915416193365
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	10	20	automatic|trained	#FFF1A9	0.183823497268415
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	11	20		#FEE188	0.254094836539258
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	12	20	practice	#FFF1A9	0.14661000661681
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	13	20	visuomotor	#FFFFCC	0.0887040835036095
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	14	20		#FFF1A9	0.190715634221773
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	15	20	tool	#FFFFCC	0.0784415140406617
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	16	20	vision	#FFFFCC	0.00970680685538583
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	17	20	visually	#FFF1A9	0.123639194649873
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	18	20	saccade|saccades|saccadic	#FFF1A9	0.156254264057717
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	19	20	locations	#FFF1A9	0.138889784633316
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	20	20	imagery|planning	#FEE188	0.23568223539823
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	21	20		#FEE188	0.281935612702193
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	22	20	rest	#FEE188	0.254471814669427
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	23	20	sequence	#FECB68	0.31129527385255
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	1	21	scenarios	#FFF1A9	0.136950921037553
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	2	21	intention|intentions	#FFF1A9	0.198576991422511
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	3	21	causality|perspective	#FFF1A9	0.12447813671919
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	4	21	past	#FFF1A9	0.111397579892974
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	5	21		#FD913D	0.518938763988418
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	6	21	episode	#FEE188	0.221926642165341
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	7	21	improvement	#FFF1A9	0.118376147645432
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	8	21	masking|retention	#FEE188	0.260772722806674
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	9	21		#FEE188	0.267333057965371
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	10	21	dominant	#FFF1A9	0.113349257701233
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	11	21		#FEE188	0.217359709911565
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	12	21	sequential	#FEE188	0.204415716353408
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	13	21	fingers	#FFFFCC	0.0979835619965808
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	14	21		#FFF1A9	0.168837140968689
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	15	21	gesture|gestures	#FFFFCC	0.0120092736466261
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	16	21		#FFF1A9	0.143810960410804
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	17	21	hands	#FFFFCC	0.0379497708591276
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	18	21		#FFF1A9	0.172735374499269
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	19	21		#FFF1A9	0.194051956463371
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	20	21	eye|position	#FEE188	0.207178656838397
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	21	21	execution	#FEE188	0.220276088194999
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	22	21	finger|sensorimotor	#FFF1A9	0.16181867755356
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	23	21		#FEE188	0.237390203047009
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	1	22	moral|stories|story	#FFF1A9	0.111294214574636
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	2	22	mentalizing|persons	#FEE188	0.272956265224469
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	3	22	default|restingstate	#FFF1A9	0.167497655154394
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	4	22	thinking|thought|thoughts	#FEE188	0.224206175377294
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	5	22	spontaneous	#FECB68	0.313939796472769
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	6	22	concentration|sensations	#FDAD4A	0.4991987728413
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	7	22	hierarchical|preference	#FFF1A9	0.139793250801984
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	8	22	effort|oral|simulation	#FEE188	0.255644150180665
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	9	22	interhemispheric|plasticity	#FFF1A9	0.0992805037501888
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	10	22	imagined|imagine	#FFF1A9	0.13651796504317
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	11	22	tapping	#FFF1A9	0.171002698158217
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	12	22	foot|muscle|muscles|voluntary	#FFF1A9	0.172777375287001
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	13	22	limb	#FFFFCC	0.0219309032370796
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	14	22	eyes|velocity	#FFF1A9	0.139377143999948
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	15	22	biological|gaze|videos	#FFF1A9	0.107509165370854
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	16	22	body	#FEE188	0.261087728126746
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	17	22	grasping|orientation|reaching	#FFFFCC	0.0509727183775347
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	18	22		#FFF1A9	0.167771396809409
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	19	22	mirror|shape	#FFF1A9	0.182239122386169
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	20	22	actions	#FFF1A9	0.130410342145019
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	21	22	action	#FEE188	0.253265164135369
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	22	22		#FEE188	0.226259661631427
+e6cf37ec-665c-3465-a9d9-83a61eac3efb	Spreckelmeyer KN	23	22	hand|movements|sensory	#FFF1A9	0.195101311073363

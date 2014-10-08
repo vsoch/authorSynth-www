@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	1	1	auditory|speech	#FEE188	0.214058433643779
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	2	1		#FFF1A9	0.190196465854426
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	3	1	da|integration	#FDAD4A	0.428718721567277
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	4	1		#FECB68	0.320760205963366
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	5	1	physical|psychophysical|tactile	#FEE188	0.24683161111678
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	6	1		#FECB68	0.324481044849955
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	7	1	somatosensory|stimulation	#FEE188	0.261366964180498
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	8	1	painful|pain	#FECB68	0.342706641823476
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	9	1		#FDAD4A	0.44778233910359
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	10	1	ratings	#F03623	0.732074127882831
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	11	1	affective|affect	#B10026	0.900997387974862
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	12	1	emotions	#B10026	0.911720173516716
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	13	1	expression|expressions|facial	#B10026	0.922786780077849
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	14	1		#B10026	0.978673843845076
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	15	1		#B10026	0.946214027952063
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	16	1	emotion|motion|neutral	#D7141E	0.868641889613532
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	17	1	rating	#F03623	0.760251890220495
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	18	1	negative|positive	#F03623	0.736800408810752
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	19	1		#FC622F	0.67881717788488
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	20	1	ear|order	#FD913D	0.587538955088967
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	21	1	motor	#FECB68	0.323918256259196
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	22	1	visual	#FD913D	0.532253708369116
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	23	1	age|image|response	#FD913D	0.589283880999609
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	1	2	sound|sounds	#FFF1A9	0.107656604707951
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	2	2		#FFF1A9	0.168138710328894
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	3	2	audiovisual|bimodal|crossmodal	#FEE188	0.221331412368503
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	4	2		#FECB68	0.321166678096299
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	5	2		#FECB68	0.319706426054135
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	6	2		#FECB68	0.329121645372121
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	7	2	sensation	#FEE188	0.244450439273566
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	8	2	heat|noxious	#FEE188	0.295770705268776
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	9	2		#FDAD4A	0.488408249973803
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	10	2		#D7141E	0.81450189621392
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	11	2		#D7141E	0.883039799238636
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	12	2	valence	#B10026	0.914810114687161
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	13	2	person|social	#D7141E	0.832723199487703
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	14	2		#B10026	0.985324877198517
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	15	2	face|faces	#D7141E	0.876878274470196
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	16	2		#B10026	0.91834644660319
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	17	2		#D7141E	0.869113722234943
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	18	2		#F03623	0.772603430823178
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	19	2		#FC622F	0.676361524389775
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	20	2		#FD913D	0.559343692139602
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	21	2	images|spatial	#FD913D	0.557067281810676
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	22	2	control	#FD913D	0.576307660951805
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	23	2	time	#FD913D	0.563603382017614
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	1	3	acoustic|listening|musical|music|pitch	#FFFFCC	0.0493176779822685
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	2	3	noise|tones	#FFF1A9	0.136761540482419
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	3	3		#FEE188	0.248557064087164
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	4	3		#FECB68	0.300170733591128
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	5	3	frequency	#FEE188	0.285304254574902
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	6	3		#FECB68	0.367566768191109
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	7	3		#FECB68	0.342353922612466
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	8	3	temperature	#FECB68	0.397622304962607
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	9	3		#FDAD4A	0.483537849923537
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	10	3	pleasant|unpleasant	#FC622F	0.635860798519497
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	11	3	anxiety	#F03623	0.783483181029233
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	12	3		#B10026	0.944169660694086
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	13	3		#B10026	0.976300546716003
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	14	3		#B10026	0.994744986910461
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	15	3		#B10026	0.987990971447178
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	16	3	picture	#B10026	0.94029769611767
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	17	3		#D7141E	0.887898474722365
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	18	3	value	#F03623	0.70194305074311
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	19	3	cue	#FD913D	0.587668572007003
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	20	3	error|target	#FD913D	0.528969308606315
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	21	3	attention	#FD913D	0.516243895800777
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	22	3		#FD913D	0.560022259689955
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	23	3	number	#FD913D	0.561524540577175
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	1	4	voice	#FFF1A9	0.147714780222082
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	2	4		#FFF1A9	0.174665842045951
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	3	4	hearing	#FEE188	0.259171518190805
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	4	4		#FEE188	0.243973203849438
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	5	4	overt	#FEE188	0.257397104067473
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	6	4		#FEE188	0.28577324409541
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	7	4		#FECB68	0.388165366322785
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	8	4	nociceptive|nonpainful|painrelated	#FEE188	0.253779155601376
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	9	4	unpleasantness	#FDAD4A	0.439468785062238
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	10	4	skin|subjective	#FC622F	0.689943124433347
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	11	4	depression	#D7141E	0.827258690405798
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	12	4	experience	#D7141E	0.868091216248699
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	13	4	female	#D7141E	0.806318708964926
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	14	4	male	#B10026	0.910971048545747
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	15	4	pictures	#B10026	1
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	16	4		#B10026	0.923365256828568
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	17	4	perception	#F03623	0.708358392454797
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	18	4		#FC622F	0.693729392279941
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	19	4		#FC622F	0.644362379419614
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	20	4		#FC622F	0.606536103291369
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	21	4	correct	#FD913D	0.575826750030259
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	22	4	work	#FD913D	0.501630991410409
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	23	4	memory	#FD913D	0.545071539422343
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	1	5	prosodic|prosody	#FFF1A9	0.192411783062972
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	2	5	phonetic	#FFF1A9	0.126968653491821
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	3	5	syllable|syllables	#FEE188	0.244383291350086
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	4	5		#FEE188	0.229036613333162
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	5	5	lip|production	#FFFFCC	0.0906584247845414
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	6	5	somatotopic	#FFFFCC	0.0836288859357617
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	7	5		#FDAD4A	0.472103896639406
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	8	5		#FD913D	0.56788741293889
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	9	5	empathy	#FC622F	0.654687532894421
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	10	5		#D7141E	0.813305556476953
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	11	5	disorder	#D7141E	0.830492639250728
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	12	5		#D7141E	0.872182096649469
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	13	5		#D7141E	0.823668553938226
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	14	5		#D7141E	0.829787187775887
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	15	5		#D7141E	0.830229132720493
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	16	5		#F03623	0.778445992388709
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	17	5		#FC622F	0.68359644565486
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	18	5	mental	#FC622F	0.61214025843294
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	19	5	go	#FC622F	0.623883201804598
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	20	5	object	#FD913D	0.553818536404728
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	21	5		#FD913D	0.589576463583152
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	22	5		#FD913D	0.55762656688026
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	23	5	word|words	#FD913D	0.501511483416312
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	1	6		#FDAD4A	0.462033718982553
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	2	6		#FDAD4A	0.44960092547316
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	3	6		#FDAD4A	0.42720917845887
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	4	6	vocal	#FFF1A9	0.101364518780546
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	5	6	articulatory	#FFF1A9	0.129202854974789
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	6	6		#FECB68	0.325107797345551
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	7	6	oddball	#FDAD4A	0.463202478424347
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	8	6	perceived	#FC622F	0.624906331363022
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	9	6	errorrelated	#FC622F	0.653923133686071
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	10	6	approach	#FC622F	0.665732292792948
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	11	6	schizophrenia	#F03623	0.785207786663838
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	12	6	acquisition	#FC622F	0.612207136481622
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	13	6		#FC622F	0.637201372946815
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	14	6		#FDAD4A	0.457665948635113
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	15	6		#FDAD4A	0.485617381730219
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	16	6		#FD913D	0.507132521088508
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	17	6		#FD913D	0.550575508121924
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	18	6		#FD913D	0.565808422421386
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	19	6		#FD913D	0.591459842942967
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	20	6	objects	#FC622F	0.617625692940267
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	21	6		#FC622F	0.602737423547683
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	22	6		#FD913D	0.536316853545171
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	23	6	language|semantic	#FDAD4A	0.485221340064802
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	1	7	dopamine|dopaminergic	#FDAD4A	0.420800376849647
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	2	7		#FD913D	0.579715057767797
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	3	7		#FC622F	0.615521134329164
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	4	7		#FD913D	0.571706085568569
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	5	7		#FD913D	0.581187704087791
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	6	7		#FD913D	0.542035613482727
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	7	7		#FD913D	0.597110400644879
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	8	7		#FC622F	0.655710920929115
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	9	7		#F03623	0.72579744084821
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	10	7		#FC622F	0.699867807727707
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	11	7		#FC622F	0.680756165299117
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	12	7		#FC622F	0.623852349570862
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	13	7	linguistic|spoken	#FECB68	0.32404055820959
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	14	7		#FECB68	0.371791856299247
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	15	7	comprehension|sentence|sentences|syntactic	#FECB68	0.304245167945584
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	16	7		#FECB68	0.380641977369546
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	17	7		#FDAD4A	0.452597207582046
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	18	7	phonological|reading|read	#FDAD4A	0.422095102280369
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	19	7		#FD913D	0.557329993359479
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	20	7	perceptual|recognition	#FC622F	0.668324828581344
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	21	7		#FC622F	0.605713364211494
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	22	7		#FD913D	0.54534700523179
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	23	7	verb	#FD913D	0.502100764952597
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	1	8	outcome|reward	#FC622F	0.617724569943758
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	2	8	anticipation	#FD913D	0.556709809166685
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	3	8	outcomes	#FDAD4A	0.484333611982138
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	4	8	choice|choices	#FD913D	0.522947686064359
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	5	8	decisions|probability	#FC622F	0.615293614847866
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	6	8	reversal	#FD913D	0.529107461187043
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	7	8	classification|incorrect	#FDAD4A	0.412563929481615
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	8	8		#FD913D	0.578170146261247
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	9	8	agerelated|fluency|probes	#FD913D	0.520684661715798
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	10	8	engaged	#FDAD4A	0.47294204624668
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	11	8	explicit|knowledge	#FD913D	0.5534542554368
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	12	8		#FDAD4A	0.496080477221038
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	13	8		#FDAD4A	0.433536562357867
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	14	8		#FECB68	0.395752212273842
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	15	8		#FECB68	0.390540550196924
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	16	8		#FECB68	0.388579204770667
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	17	8	lexical	#FECB68	0.331503343324526
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	18	8		#FD913D	0.500069172636238
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	19	8		#FD913D	0.55751533967078
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	20	8		#FC622F	0.623203365055361
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	21	8	encoding	#FC622F	0.610773758575645
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	22	8	retrieval	#FD913D	0.564748430765221
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	23	8	verbal	#FD913D	0.516033863289863
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	1	9	incentive|monetary|money|rewards	#FDAD4A	0.478544114463916
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	2	9	loss	#FC622F	0.631632574023819
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	3	9		#FC622F	0.693426142629757
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	4	9		#F03623	0.709936191240627
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	5	9	decisionmaking	#FC622F	0.643681627833031
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	6	9		#FD913D	0.592483936994473
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	7	9		#FD913D	0.552842512762356
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	8	9		#FD913D	0.536686572191045
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	9	9		#FD913D	0.557989647788097
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	10	9		#FD913D	0.546327558050788
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	11	9		#FDAD4A	0.494214317889726
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	12	9		#FDAD4A	0.465302561713785
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	13	9	noun	#FECB68	0.325737244782086
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	14	9	meaning	#FDAD4A	0.460492310710612
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	15	9	english	#FDAD4A	0.440202204508713
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	16	9	pseudoword|pseudowords	#FEE188	0.238235684585377
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	17	9		#FDAD4A	0.44138292529458
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	18	9		#FD913D	0.549503245435251
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	19	9	familiar|judgment	#FC622F	0.60758479730142
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	20	9	pair|pairs	#FD913D	0.580339187458366
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	21	9		#FC622F	0.603689316495529
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	22	9		#FD913D	0.548783827253875
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	23	9	letter|working	#FDAD4A	0.460235073116226
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	1	10	losses|reinforcement|win	#FD913D	0.558130738048873
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	2	10	gain	#FDAD4A	0.474496368367061
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	3	10	expectation	#FD913D	0.578899887795147
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	4	10	risk	#D7141E	0.814985454165053
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	5	10	fact	#F03623	0.722946246535744
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	6	10	associative	#FDAD4A	0.491555515062546
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	7	10	familiarity|judgments|old	#FD913D	0.505980692164614
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	8	10	contextual|text	#FDAD4A	0.47886302689228
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	9	10	recall|retrieved	#FDAD4A	0.451898272789613
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	10	10	conceptual|semantically	#FDAD4A	0.422839946634772
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	11	10	grammatical|speakers	#FECB68	0.347391780808839
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	12	10	nouns	#FECB68	0.304474782680688
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	13	10	japanese	#FECB68	0.377708610445367
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	14	10	languages	#FECB68	0.356564645356905
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	15	10	written	#FDAD4A	0.499291690964862
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	16	10	chinese|phonology	#FECB68	0.383067664447626
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	17	10	orthographic	#FDAD4A	0.405328051986706
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	18	10		#FC622F	0.607698844054356
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	19	10		#FC622F	0.631321026560868
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	20	10	association|decision	#FC622F	0.666460641072179
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	21	10	selection	#FD913D	0.522703892292821
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	22	10	letters	#FDAD4A	0.412528550663795
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	23	10	demand|load	#FDAD4A	0.4465751479171
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	1	11	conditioned|conditioning	#FD913D	0.512734769484797
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	2	11		#D7141E	0.806278150302544
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	3	11	drug|placebo	#D7141E	0.822700100260623
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	4	11		#D7141E	0.870793948485158
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	5	11	associations	#FD913D	0.542556984417724
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	6	11		#FD913D	0.589527115464379
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	7	11	episodic|recollection	#FECB68	0.376510399736186
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	8	11		#FD913D	0.536939548985542
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	9	11		#FD913D	0.555423274553775
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	10	11	concepts	#FD913D	0.556012302755306
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	11	11		#FDAD4A	0.468965686938461
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	12	11		#FDAD4A	0.413620253222269
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	13	11	german	#FEE188	0.283955065835331
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	14	11	readers	#FECB68	0.304955885498993
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	15	11	character|name|naming	#FD913D	0.511406286471234
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	16	11		#FD913D	0.554517241756221
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	17	11	novel	#FC622F	0.618148107465252
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	18	11		#FC622F	0.625091690882538
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	19	11	child|children	#FD913D	0.542426066308559
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	20	11	adults	#FC622F	0.622926152451912
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	21	11	ability|feedback|learning	#FD913D	0.574021714129703
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	22	11	cues|delay	#FD913D	0.508422162574602
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	23	11	attentional|difficulty|targets	#FDAD4A	0.451087501905523
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	1	12	aversive|shock	#F03623	0.783801277278008
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	2	12	reactivity	#F03623	0.751431650542995
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	3	12	males|sex|women	#F03623	0.75521931237188
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	4	12	animal	#FC622F	0.652632529456777
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	5	12	animals	#FD913D	0.541334465963474
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	6	12		#FC622F	0.607508564242073
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	7	12	remember|subsequent	#FD913D	0.50831569295436
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	8	12	autobiographical|memories	#FECB68	0.382082439587816
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	9	12		#FD913D	0.557893906744598
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	10	12	violation|violations	#FEE188	0.24163934584482
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	11	12	aphasia	#FDAD4A	0.448959116473851
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	12	12	nonwords	#FEE188	0.286097676279553
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	13	12	dyslexia	#FEE188	0.292880067286657
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	14	12		#FD913D	0.527007903710664
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	15	12	priming	#FD913D	0.579447738070487
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	16	12		#FC622F	0.672333326095835
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	17	12	category|repetition	#FC622F	0.630209363634059
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	18	12		#FC622F	0.669295358332249
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	19	12	developmental|development	#FD913D	0.546835811329983
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	20	12		#FC622F	0.60636333297984
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	21	12	space	#FD913D	0.55466213033533
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	22	12		#FD913D	0.51699954524991
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	23	12	color	#FDAD4A	0.496280589231897
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	1	13	threat	#F03623	0.782425946134917
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	2	13	regulation	#D7141E	0.839569425925291
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	3	13		#B10026	0.902696250696826
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	4	13	masked	#FC622F	0.673217825042303
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	5	13	scene|scenes	#FD913D	0.503425727236205
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	6	13		#FC622F	0.637450534203053
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	7	13	confidence|remembered	#FECB68	0.336545859761565
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	8	13		#FC622F	0.643058876757417
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	9	13		#FC622F	0.613644160713867
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	10	13	ambiguity|ambiguous	#FECB68	0.354115024299397
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	11	13		#FD913D	0.509677436124152
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	12	13		#FD913D	0.505887537112113
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	13	13	writing	#FECB68	0.373165833247347
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	14	13		#FD913D	0.592036800837734
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	15	13	categorization|congruency|prime	#FD913D	0.514371088892555
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	16	13		#F03623	0.707905245650478
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	17	13	mask	#F03623	0.730575829287688
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	18	13		#FC622F	0.694878423048657
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	19	13		#FC622F	0.61702161177611
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	20	13		#FD913D	0.566030062055943
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	21	13	conflict|congruent|incongruent	#FDAD4A	0.435097649878353
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	22	13	errors	#FD913D	0.56713144707731
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	23	13	maintenance|probe|wm	#FDAD4A	0.422309089284572
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	1	14	angry|fearful|happy	#D7141E	0.844424202591325
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	2	14		#D7141E	0.891983856910872
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	3	14	awareness|conscious|ptsd	#F03623	0.708121925484415
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	4	14		#D7141E	0.835018094123327
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	5	14	houses|photographs	#FD913D	0.529911157415807
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	6	14		#F03623	0.756710157756587
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	7	14	hits	#FD913D	0.538371327743263
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	8	14	famous	#FD913D	0.583085806497149
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	9	14	names	#FD913D	0.545107765853278
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	10	14	family	#FD913D	0.588140666677052
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	11	14	competition|mouth	#FDAD4A	0.482696554194408
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	12	14	abilities	#FDAD4A	0.442218232721912
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	13	14	implicit|unfamiliar	#FD913D	0.574447863004787
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	14	14		#FC622F	0.648252754182232
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	15	14	tom	#FD913D	0.587756376200691
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	16	14		#F03623	0.731088589268205
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	17	14		#F03623	0.709271630637717
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	18	14	stop	#FD913D	0.59277732608366
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	19	14	inhibition|inhibitory|nogo	#FD913D	0.516316909371832
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	20	14	monitoring|stroop	#FDAD4A	0.443844781914166
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	21	14	interference	#FDAD4A	0.426659022800959
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	22	14		#FDAD4A	0.473189637169233
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	23	14	demands|executive	#FDAD4A	0.465389147476206
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	1	15	anger	#F03623	0.768443377164587
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	2	15	stress	#F03623	0.713056502818882
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	3	15	feelings	#FC622F	0.661713266911741
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	4	15	salient	#D7141E	0.865581575872988
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	5	15	novelty	#FC622F	0.602750852166567
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	6	15	movie	#F03623	0.793727659432492
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	7	15		#F03623	0.7941951506877
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	8	15		#F03623	0.721484832990921
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	9	15	longterm	#FECB68	0.339057045839246
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	10	15		#FD913D	0.594023584097673
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	11	15	reasoning|relational	#FDAD4A	0.433400442008651
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	12	15		#FD913D	0.593252328185301
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	13	15	presentations	#FECB68	0.30759449408245
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	14	15		#FC622F	0.648065493720554
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	15	15	identity	#F03623	0.732213654187818
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	16	15		#FC622F	0.686328254556447
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	17	15	strategies|strategy	#F03623	0.709253202951914
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	18	15	card|cards	#FDAD4A	0.476276209779193
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	19	15	gonogo	#FD913D	0.573915141118458
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	20	15		#FD913D	0.50022978134584
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	21	15	switching|switch	#FECB68	0.308988124029641
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	22	15		#FDAD4A	0.418778086005574
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	23	15	2back|rule	#FECB68	0.324230903538153
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	1	16	emotionally|mood|personality|sadness	#F03623	0.768844104873768
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	2	16	disgust|sexual	#F03623	0.729378192173457
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	3	16	olfactory	#FD913D	0.589032841520455
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	4	16	physiological	#F03623	0.72906696657845
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	5	16	depressed|depressive|habituation	#FC622F	0.671177882942634
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	6	16	schizophrenic	#FDAD4A	0.465014004036311
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	7	16	colors|contexts	#FD913D	0.537710375568957
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	8	16	aging|encoded	#FD913D	0.564962788969938
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	9	16	goal	#FECB68	0.30711208273721
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	10	16		#FD913D	0.51486086164223
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	11	16	autism|autistic|nonverbal	#FDAD4A	0.435130632060219
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	12	16		#FD913D	0.566690781348494
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	13	16	bottomup|repetitions	#FD913D	0.517655937883968
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	14	16	adaptation	#FD913D	0.500131320747616
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	15	16	irrelevant	#FD913D	0.507272756036446
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	16	16	distractor|distractors	#FECB68	0.388371265661101
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	17	16		#FD913D	0.539745329718068
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	18	16	subtraction	#FECB68	0.325174712172911
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	19	16	1back|nback	#FECB68	0.370386357708694
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	20	16	manipulation|rules	#FECB68	0.398023733787974
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	21	16		#FDAD4A	0.440541164680903
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	22	16		#FECB68	0.386972372990194
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	23	16	digit	#FECB68	0.368808291250481
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	1	17	avoidance	#FD913D	0.573215713814556
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	2	17		#D7141E	0.80985925585797
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	3	17	eating|food	#FD913D	0.585963873801055
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	4	17	taste	#FDAD4A	0.414779267730082
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	5	17	bipolar	#FDAD4A	0.463533834060887
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	6	17	illness|uncertainty	#FDAD4A	0.499951139836078
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	7	17	females|probabilistic	#FC622F	0.606188156331371
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	8	17	rejection	#FFF1A9	0.19575056428823
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	9	17	colour|paired	#FC622F	0.628211788359549
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	10	17		#FD913D	0.527626660044274
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	11	17		#FD913D	0.513163976182172
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	12	17		#FD913D	0.505643202627715
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	13	17	taskirrelevant	#FECB68	0.361161525119941
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	14	17		#FDAD4A	0.463090426012476
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	15	17	suppression	#FECB68	0.308536312985372
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	16	17		#FDAD4A	0.427376165635672
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	17	17	shifting|shortterm	#FEE188	0.201810246550546
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	18	17	digits	#FECB68	0.302386312109987
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	19	17	search	#FECB68	0.36288957392303
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	20	17	counting|taskrelated	#FDAD4A	0.443837519275707
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	21	17	topdown	#FDAD4A	0.461155286101015
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	22	17	visuospatial	#FECB68	0.308772589032941
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	23	17	arithmetic|calculation|solving	#FECB68	0.328864093732837
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	1	18	addiction|craving|drugs	#FD913D	0.563962857985947
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	2	18	allele|genotype|polymorphism	#FC622F	0.621389415601808
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	3	18	motivation	#FECB68	0.393059600462085
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	4	18	heart	#FD913D	0.591404838337132
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	5	18	sleep	#FDAD4A	0.401585967295845
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	6	18	expectancy	#FDAD4A	0.412324673426174
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	7	18	phasic|salience	#FD913D	0.586375476756103
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	8	18	adolescence|adolescents	#FDAD4A	0.441385132497942
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	9	18	intelligence|tracking	#FDAD4A	0.400665678758445
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	10	18		#FDAD4A	0.494508583192579
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	11	18	serial	#FECB68	0.340358033278906
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	12	18		#FDAD4A	0.402274787421936
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	13	18	spatially|taskrelevant	#FEE188	0.240270102074779
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	14	18		#FECB68	0.390362677473262
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	15	18	attended|attend|unattended	#FECB68	0.339669484775931
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	16	18	rotation|shapes	#FDAD4A	0.42966413616786
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	17	18	rehearsal	#FEE188	0.26715811059881
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	18	18	learned	#FFF1A9	0.197074305417599
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	19	18		#FECB68	0.301275061473368
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	20	18	cued|preparatory	#FEE188	0.291570319089115
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	21	18		#FECB68	0.365371347746646
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	22	18		#FECB68	0.398249918757507
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	23	18	numbers|numerical	#FECB68	0.356237037635191
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	1	19	future	#FD913D	0.514609777669442
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	2	19	negatively	#FD913D	0.532225721818333
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	3	19	distress|epilepsy|selfreported	#FD913D	0.529041187227534
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	4	19	anticipatory|cocaine|probabilities|smoking	#FDAD4A	0.469436968598076
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	5	19	alcohol|amount|impulsivity	#FC622F	0.633639296975255
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	6	19	game|success	#FDAD4A	0.467201226242657
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	7	19	adhd|childhood|engagement	#FECB68	0.399086953214842
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	8	19		#FC622F	0.618743608871352
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	9	19		#FD913D	0.58270115597842
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	10	19		#FDAD4A	0.47153213174162
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	11	19		#FDAD4A	0.424555380245525
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	12	19	endogenous	#FECB68	0.359089920782474
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	13	19	cueing|invalid|orienting	#FFF1A9	0.193421640418903
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	14	19		#FECB68	0.379646716444875
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	15	19	multisensory	#FECB68	0.337679636376516
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	16	19		#FECB68	0.372913643891072
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	17	19	shifts	#FEE188	0.287135769936097
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	18	19	covert	#FEE188	0.292033960359595
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	19	19		#FEE188	0.25080183468619
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	20	19	preparation	#FFF1A9	0.163444830587217
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	21	19	discrimination|training	#FECB68	0.378793574108682
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	22	19	sequences	#FEE188	0.245454925052326
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	23	19		#FECB68	0.34294739817794
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	1	20	personal|self|selfreferential|trait|traits	#FD913D	0.569572974220881
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	2	20	empathic|theory	#FD913D	0.585979869087263
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	3	20	attribution|intentional	#FEE188	0.222302030063887
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	4	20	elderly|oscillations	#FDAD4A	0.456361911202809
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	5	20	antipsychotic|virtual	#FECB68	0.354602433153677
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	6	20		#FC622F	0.698154340559661
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	7	20	experiences	#FD913D	0.505105973799846
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	8	20	categorical|pressure	#FDAD4A	0.402504878514724
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	9	20	play|skills	#FEE188	0.287574151555283
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	10	20	automatic|trained	#FEE188	0.284719888493146
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	11	20		#FEE188	0.294859088879412
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	12	20	practice	#FEE188	0.216833178247077
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	13	20	visuomotor	#FEE188	0.199718817157177
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	14	20		#FECB68	0.341451695665029
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	15	20	tool	#FEE188	0.286251243633784
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	16	20	vision	#FFF1A9	0.164400332453195
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	17	20	visually	#FFF1A9	0.194086039068069
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	18	20	saccade|saccades|saccadic	#FFF1A9	0.111935793783607
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	19	20	locations	#FEE188	0.23183018447456
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	20	20	imagery|planning	#FEE188	0.226144927199344
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	21	20		#FEE188	0.288704634561299
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	22	20	rest	#FEE188	0.291101667228729
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	23	20	sequence	#FECB68	0.313707641914445
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	1	21	scenarios	#FECB68	0.314054134922054
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	2	21	intention|intentions	#FDAD4A	0.407468975298393
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	3	21	causality|perspective	#FEE188	0.292167168899165
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	4	21	past	#FECB68	0.302794840659164
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	5	21		#FC622F	0.639575064714241
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	6	21	episode	#FECB68	0.349986686146246
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	7	21	improvement	#FEE188	0.207814506950673
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	8	21	masking|retention	#FDAD4A	0.401523798330698
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	9	21		#FECB68	0.335982800342271
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	10	21	dominant	#FEE188	0.253328843463696
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	11	21		#FFF1A9	0.177348960375701
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	12	21	sequential	#FEE188	0.207542121213512
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	13	21	fingers	#FFFFCC	0.0681621810844985
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	14	21		#FECB68	0.331131211482587
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	15	21	gesture|gestures	#FEE188	0.259924497239679
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	16	21		#FECB68	0.316272577673051
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	17	21	hands	#FFF1A9	0.155735881073242
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	18	21		#FEE188	0.283559615133196
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	19	21		#FEE188	0.297262712156273
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	20	21	eye|position	#FEE188	0.271958732004309
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	21	21	execution	#FFF1A9	0.15743093588503
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	22	21	finger|sensorimotor	#FFF1A9	0.128821909005319
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	23	21		#FEE188	0.241345373572249
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	1	22	moral|stories|story	#FEE188	0.228229331824321
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	2	22	mentalizing|persons	#FDAD4A	0.464583527741759
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	3	22	default|restingstate	#FEE188	0.273309774414358
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	4	22	thinking|thought|thoughts	#FDAD4A	0.482287291061973
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	5	22	spontaneous	#FECB68	0.300898118580283
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	6	22	concentration|sensations	#FECB68	0.364562088934473
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	7	22	hierarchical|preference	#FECB68	0.304783986082284
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	8	22	effort|oral|simulation	#FEE188	0.238411558347719
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	9	22	interhemispheric|plasticity	#FFF1A9	0.141855401733611
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	10	22	imagined|imagine	#FFF1A9	0.113668444003136
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	11	22	tapping	#FFFFCC	0.0693462947207009
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	12	22	foot|muscle|muscles|voluntary	#FFFFCC	0.0623014260164404
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	13	22	limb	#FFFFCC	0
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	14	22	eyes|velocity	#FFF1A9	0.155995203454438
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	15	22	biological|gaze|videos	#FEE188	0.298700691944574
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	16	22	body	#FECB68	0.357963447193259
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	17	22	grasping|orientation|reaching	#FEE188	0.250808734565328
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	18	22		#FECB68	0.312066839819466
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	19	22	mirror|shape	#FDAD4A	0.486187166757356
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	20	22	actions	#FEE188	0.279978086331171
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	21	22	action	#FECB68	0.361392224914243
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	22	22		#FEE188	0.234601950813731
+576aa31f-a7b8-3945-8f6e-75dd3dac9ffe	Elliott R	23	22	hand|movements|sensory	#FFF1A9	0.197543177513148

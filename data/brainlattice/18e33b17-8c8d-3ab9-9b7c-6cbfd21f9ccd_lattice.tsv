@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	1	1	auditory|speech	#FDAD4A	0.433637883206205
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	2	1		#FDAD4A	0.401353774505399
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	3	1	da|integration	#FDAD4A	0.412552360948929
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	4	1		#FECB68	0.380776851647537
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	5	1	physical|psychophysical|tactile	#FFF1A9	0.149729936346221
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	6	1		#FFF1A9	0.173952040078914
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	7	1	somatosensory|stimulation	#FFF1A9	0.100026699593349
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	8	1	painful|pain	#FFF1A9	0.112330691110038
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	9	1		#FFF1A9	0.160241212924747
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	10	1	ratings	#FEE188	0.292346163670128
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	11	1	affective|affect	#FECB68	0.338856141173581
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	12	1	emotions	#FDAD4A	0.405018453383908
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	13	1	expression|expressions|facial	#FEE188	0.285422586811186
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	14	1		#FDAD4A	0.421588134877968
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	15	1		#FDAD4A	0.404285387214275
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	16	1	emotion|motion|neutral	#FECB68	0.376448633460997
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	17	1	rating	#FECB68	0.343237607859801
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	18	1	negative|positive	#FECB68	0.355068805426826
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	19	1		#FECB68	0.36090712120154
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	20	1	ear|order	#FECB68	0.370385940078782
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	21	1	motor	#FFF1A9	0.175344734693872
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	22	1	visual	#FEE188	0.295047175557577
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	23	1	age|image|response	#FDAD4A	0.401691053935796
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	1	2	sound|sounds	#FECB68	0.319617260776048
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	2	2		#FECB68	0.381931467950959
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	3	2	audiovisual|bimodal|crossmodal	#FECB68	0.322756893864767
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	4	2		#FECB68	0.383224236968323
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	5	2		#FEE188	0.267669324268982
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	6	2		#FFF1A9	0.194760041642354
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	7	2	sensation	#FFFFCC	0.0697410978237242
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	8	2	heat|noxious	#FFFFCC	0.0843100721363643
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	9	2		#FFF1A9	0.16603969125242
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	10	2		#FEE188	0.288422325584916
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	11	2		#FECB68	0.348698758476693
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	12	2	valence	#FECB68	0.370061823939651
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	13	2	person|social	#F03623	0.776454686987583
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	14	2		#FDAD4A	0.428378719805454
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	15	2	face|faces	#FECB68	0.348118496785726
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	16	2		#FDAD4A	0.416000235806159
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	17	2		#FDAD4A	0.406336917781863
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	18	2		#FECB68	0.39318327349416
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	19	2		#FECB68	0.368260633387845
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	20	2		#FECB68	0.327955974498551
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	21	2	images|spatial	#FECB68	0.336255552290569
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	22	2	control	#FECB68	0.360026442277702
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	23	2	time	#FECB68	0.372287253915902
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	1	3	acoustic|listening|musical|music|pitch	#FEE188	0.294219704591484
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	2	3	noise|tones	#FEE188	0.279699752191757
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	3	3		#FDAD4A	0.400328085463732
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	4	3		#FECB68	0.372276980631649
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	5	3	frequency	#FEE188	0.280133279467869
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	6	3		#FEE188	0.279007248681697
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	7	3		#FFF1A9	0.152627086294556
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	8	3	temperature	#FFFFCC	0.0926785117903919
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	9	3		#FFF1A9	0.166574441712818
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	10	3	pleasant|unpleasant	#FFF1A9	0.15775383996382
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	11	3	anxiety	#FFF1A9	0.195295871393439
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	12	3		#FDAD4A	0.419106833054982
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	13	3		#FDAD4A	0.477217284201126
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	14	3		#FDAD4A	0.443059400062971
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	15	3		#FDAD4A	0.447098833715054
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	16	3	picture	#FDAD4A	0.435634832275666
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	17	3		#FDAD4A	0.443805718543501
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	18	3	value	#FECB68	0.355832658187936
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	19	3	cue	#FECB68	0.331891132950847
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	20	3	error|target	#FECB68	0.316363802886146
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	21	3	attention	#FECB68	0.323971917905645
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	22	3		#FDAD4A	0.412958230214234
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	23	3	number	#FDAD4A	0.432904761946406
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	1	4	voice	#FDAD4A	0.40198574469968
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	2	4		#FECB68	0.390064678760832
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	3	4	hearing	#FDAD4A	0.406883696546888
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	4	4		#FECB68	0.313092678098182
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	5	4	overt	#FEE188	0.255809585700709
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	6	4		#FEE188	0.255078491765009
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	7	4		#FEE188	0.207234986525265
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	8	4	nociceptive|nonpainful|painrelated	#FFF1A9	0.125666327216695
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	9	4	unpleasantness	#FFF1A9	0.138477693145238
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	10	4	skin|subjective	#FFF1A9	0.177988245066723
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	11	4	depression	#FECB68	0.341813184134273
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	12	4	experience	#FDAD4A	0.41219815797095
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	13	4	female	#FECB68	0.344368522278085
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	14	4	male	#FDAD4A	0.469280864759192
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	15	4	pictures	#FDAD4A	0.429459162160389
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	16	4		#FD913D	0.512727511088425
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	17	4	perception	#FDAD4A	0.410434949086563
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	18	4		#FDAD4A	0.474228116678095
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	19	4		#FDAD4A	0.44555459496382
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	20	4		#FDAD4A	0.424610859871127
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	21	4	correct	#FDAD4A	0.443538876621241
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	22	4	work	#FECB68	0.39953366311512
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	23	4	memory	#FDAD4A	0.486484175002787
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	1	5	prosodic|prosody	#FDAD4A	0.484936159332182
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	2	5	phonetic	#FECB68	0.347128735987364
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	3	5	syllable|syllables	#FECB68	0.322587525184954
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	4	5		#FEE188	0.288857605019611
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	5	5	lip|production	#FFF1A9	0.144000894230918
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	6	5	somatotopic	#FFF1A9	0.103624053521941
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	7	5		#FEE188	0.277707444752379
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	8	5		#FEE188	0.292821166489474
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	9	5	empathy	#FECB68	0.333367109945177
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	10	5		#FDAD4A	0.433532399295666
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	11	5	disorder	#FECB68	0.389068714217451
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	12	5		#FD913D	0.51936699405033
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	13	5		#FC622F	0.661760327324133
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	14	5		#F03623	0.736710143209109
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	15	5		#F03623	0.752185406091165
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	16	5		#F03623	0.712547440527464
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	17	5		#F03623	0.718305807331189
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	18	5	mental	#FC622F	0.603269992524013
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	19	5	go	#FDAD4A	0.489683759162828
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	20	5	object	#FECB68	0.380623158153166
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	21	5		#FD913D	0.524871290318766
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	22	5		#FC622F	0.614025597894113
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	23	5	word|words	#FC622F	0.617867073176534
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	1	6		#FDAD4A	0.440183608514836
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	2	6		#FDAD4A	0.454422775383091
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	3	6		#FDAD4A	0.408157615919489
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	4	6	vocal	#FFF1A9	0.161757259621273
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	5	6	articulatory	#FFFFCC	0.0806706547367092
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	6	6		#FEE188	0.275730713379746
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	7	6	oddball	#FDAD4A	0.404821131116837
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	8	6	perceived	#FEE188	0.253177174096534
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	9	6	errorrelated	#FECB68	0.330365967461539
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	10	6	approach	#FDAD4A	0.409762485273461
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	11	6	schizophrenia	#FDAD4A	0.49173859454604
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	12	6	acquisition	#FDAD4A	0.409123414053269
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	13	6		#F03623	0.775870394483289
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	14	6		#B10026	0.92161083385107
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	15	6		#B10026	0.940004154750087
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	16	6		#B10026	0.915142832261838
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	17	6		#F03623	0.701661865179204
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	18	6		#FD913D	0.594960463823146
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	19	6		#FD913D	0.564068647617344
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	20	6	objects	#FDAD4A	0.43338391588317
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	21	6		#FD913D	0.576110912178685
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	22	6		#FC622F	0.674594332352728
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	23	6	language|semantic	#F03623	0.739666036382403
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	1	7	dopamine|dopaminergic	#FFFFCC	0.0847624078934298
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	2	7		#FFF1A9	0.182349595809443
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	3	7		#FECB68	0.335981057206244
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	4	7		#FECB68	0.377310184786045
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	5	7		#FECB68	0.39485478352858
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	6	7		#FDAD4A	0.428953178126509
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	7	7		#FDAD4A	0.429372386364532
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	8	7		#FDAD4A	0.470250340408916
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	9	7		#FD913D	0.503489125413888
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	10	7		#FC622F	0.660649240237123
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	11	7		#FC622F	0.671313190399798
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	12	7		#F03623	0.717185948829719
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	13	7	linguistic|spoken	#FC622F	0.672271033409751
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	14	7		#B10026	0.921308373071821
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	15	7	comprehension|sentence|sentences|syntactic	#B10026	1
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	16	7		#B10026	0.903714906600182
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	17	7		#FC622F	0.699727775636157
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	18	7	phonological|reading|read	#FD913D	0.567182490106986
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	19	7		#FD913D	0.563613004712088
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	20	7	perceptual|recognition	#FDAD4A	0.489319593424222
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	21	7		#FD913D	0.576891203877104
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	22	7		#FC622F	0.65774702015391
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	23	7	verb	#FC622F	0.623364669958045
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	1	8	outcome|reward	#FFF1A9	0.13935060383933
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	2	8	anticipation	#FFF1A9	0.127657050535986
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	3	8	outcomes	#FEE188	0.199516848433013
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	4	8	choice|choices	#FEE188	0.278051381347248
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	5	8	decisions|probability	#FDAD4A	0.448275587208944
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	6	8	reversal	#FDAD4A	0.402874506163751
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	7	8	classification|incorrect	#FECB68	0.332637105700604
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	8	8		#FD913D	0.513210577308827
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	9	8	agerelated|fluency|probes	#FD913D	0.544765714714347
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	10	8	engaged	#FC622F	0.650614770649846
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	11	8	explicit|knowledge	#F03623	0.751454214975447
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	12	8		#F03623	0.778336751569886
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	13	8		#D7141E	0.860558025534234
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	14	8		#D7141E	0.900101559573359
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	15	8		#D7141E	0.882230502884015
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	16	8		#D7141E	0.838993401935118
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	17	8	lexical	#FC622F	0.619421888521538
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	18	8		#FC622F	0.611109765864656
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	19	8		#FD913D	0.585512259756081
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	20	8		#FD913D	0.57414591784212
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	21	8	encoding	#FDAD4A	0.480943884369466
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	22	8	retrieval	#FC622F	0.618822782587144
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	23	8	verbal	#FD913D	0.519719304800383
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	1	9	incentive|monetary|money|rewards	#FFFFCC	0.0557497840724912
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	2	9	loss	#FFF1A9	0.150995173501797
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	3	9		#FEE188	0.268237309921696
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	4	9		#FECB68	0.341236380847239
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	5	9	decisionmaking	#FECB68	0.348661492217585
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	6	9		#FD913D	0.501062485426025
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	7	9		#FD913D	0.516348707416222
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	8	9		#FD913D	0.543239283031478
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	9	9		#FC622F	0.636778897317112
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	10	9		#F03623	0.724228622793493
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	11	9		#F03623	0.756506004466151
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	12	9		#F03623	0.769609565674999
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	13	9	noun	#D7141E	0.81991662084322
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	14	9	meaning	#D7141E	0.826698219562415
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	15	9	english	#FD913D	0.579348195835173
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	16	9	pseudoword|pseudowords	#FD913D	0.532656071260263
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	17	9		#FC622F	0.658141370773635
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	18	9		#FC622F	0.632691457861266
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	19	9	familiar|judgment	#FC622F	0.642515741515842
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	20	9	pair|pairs	#FDAD4A	0.495339245386042
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	21	9		#FD913D	0.514562161354848
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	22	9		#FDAD4A	0.474234496700381
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	23	9	letter|working	#FECB68	0.389663518630575
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	1	10	losses|reinforcement|win	#FFF1A9	0.16545378137193
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	2	10	gain	#FFFFCC	0.0714962987179997
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	3	10	expectation	#FFF1A9	0.135957350558254
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	4	10	risk	#FECB68	0.325824569390512
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	5	10	fact	#FECB68	0.348643683211441
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	6	10	associative	#FDAD4A	0.439860356917957
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	7	10	familiarity|judgments|old	#FD913D	0.55741425172415
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	8	10	contextual|text	#FD913D	0.584536019046737
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	9	10	recall|retrieved	#FD913D	0.500820619223022
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	10	10	conceptual|semantically	#FC622F	0.666044142250796
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	11	10	grammatical|speakers	#FD913D	0.588569844970829
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	12	10	nouns	#FC622F	0.683073424187575
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	13	10	japanese	#FC622F	0.607970463847437
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	14	10	languages	#FD913D	0.531080060506714
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	15	10	written	#FD913D	0.555710607521772
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	16	10	chinese|phonology	#FDAD4A	0.444170552212239
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	17	10	orthographic	#FDAD4A	0.469261532199281
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	18	10		#FC622F	0.635257210799937
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	19	10		#FC622F	0.622011350231639
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	20	10	association|decision	#FD913D	0.509764401738742
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	21	10	selection	#FDAD4A	0.435476481114433
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	22	10	letters	#FECB68	0.299703095908743
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	23	10	demand|load	#FECB68	0.38425049945568
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	1	11	conditioned|conditioning	#FFFFCC	0.00728119096837001
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	2	11		#FFF1A9	0.173046990089873
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	3	11	drug|placebo	#FEE188	0.217368195017373
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	4	11		#FECB68	0.323923036362314
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	5	11	associations	#FEE188	0.209580584662055
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	6	11		#FD913D	0.535236903269064
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	7	11	episodic|recollection	#FD913D	0.531951010792167
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	8	11		#FD913D	0.579877833642421
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	9	11		#D7141E	0.823431830431777
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	10	11	concepts	#F03623	0.730126223663151
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	11	11		#D7141E	0.807946399717521
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	12	11		#F03623	0.708828237838255
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	13	11	german	#FD913D	0.547237057072108
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	14	11	readers	#FD913D	0.537438949499415
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	15	11	character|name|naming	#FDAD4A	0.43405548242179
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	16	11		#FDAD4A	0.494129964033429
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	17	11	novel	#FDAD4A	0.496012978052751
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	18	11		#FD913D	0.573106788258535
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	19	11	child|children	#FC622F	0.614988424574498
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	20	11	adults	#FD913D	0.559711384066522
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	21	11	ability|feedback|learning	#FECB68	0.367984501141537
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	22	11	cues|delay	#FEE188	0.241153871651982
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	23	11	attentional|difficulty|targets	#FECB68	0.317448355380522
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	1	12	aversive|shock	#FFF1A9	0.141215601940304
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	2	12	reactivity	#FFF1A9	0.149786141553172
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	3	12	males|sex|women	#FEE188	0.220761012322126
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	4	12	animal	#FEE188	0.253131423660056
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	5	12	animals	#FEE188	0.212418282482787
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	6	12		#FDAD4A	0.465613413687589
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	7	12	remember|subsequent	#FECB68	0.369977921943688
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	8	12	autobiographical|memories	#FC622F	0.619593783856166
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	9	12		#D7141E	0.856708012348355
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	10	12	violation|violations	#FD913D	0.580691368971512
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	11	12	aphasia	#D7141E	0.820136977573153
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	12	12	nonwords	#FD913D	0.512064639400704
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	13	12	dyslexia	#FD913D	0.515104221923609
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	14	12		#FD913D	0.57085435038265
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	15	12	priming	#FDAD4A	0.412012793075253
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	16	12		#FDAD4A	0.496501142212719
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	17	12	category|repetition	#FDAD4A	0.406780502577018
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	18	12		#FD913D	0.564353065746177
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	19	12	developmental|development	#FD913D	0.56338904803264
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	20	12		#FD913D	0.528078192202718
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	21	12	space	#FECB68	0.374596825232262
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	22	12		#FECB68	0.369329077008132
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	23	12	color	#FEE188	0.289938778272807
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	1	13	threat	#FFF1A9	0.135377304530388
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	2	13	regulation	#FECB68	0.319602097686388
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	3	13		#FEE188	0.292542546507705
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	4	13	masked	#FEE188	0.296160398390759
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	5	13	scene|scenes	#FEE188	0.270576584549184
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	6	13		#FDAD4A	0.424043426894712
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	7	13	confidence|remembered	#FEE188	0.254769325001164
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	8	13		#FD913D	0.558595493265344
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	9	13		#D7141E	0.847828827183215
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	10	13	ambiguity|ambiguous	#FC622F	0.671891329926049
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	11	13		#F03623	0.783170613021687
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	12	13		#FD913D	0.532449928471365
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	13	13	writing	#FEE188	0.261483378890983
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	14	13		#FD913D	0.505818735708009
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	15	13	categorization|congruency|prime	#FDAD4A	0.4232329097712
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	16	13		#FDAD4A	0.495155856766274
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	17	13	mask	#FECB68	0.384521561162259
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	18	13		#FD913D	0.519567391476955
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	19	13		#FD913D	0.511664501933197
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	20	13		#FDAD4A	0.46730508971845
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	21	13	conflict|congruent|incongruent	#FECB68	0.357030629271517
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	22	13	errors	#FECB68	0.394009484207453
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	23	13	maintenance|probe|wm	#FECB68	0.329062712101733
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	1	14	angry|fearful|happy	#FFF1A9	0.179669067950839
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	2	14		#FEE188	0.251776281737104
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	3	14	awareness|conscious|ptsd	#FEE188	0.28330060612086
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	4	14		#FECB68	0.392424526231506
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	5	14	houses|photographs	#FFF1A9	0.196939248780817
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	6	14		#FECB68	0.3838703292792
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	7	14	hits	#FEE188	0.211388998599537
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	8	14	famous	#FDAD4A	0.495595976433417
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	9	14	names	#FC622F	0.643509081459391
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	10	14	family	#FD913D	0.511188870664062
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	11	14	competition|mouth	#FECB68	0.374737267381632
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	12	14	abilities	#FEE188	0.274744793926488
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	13	14	implicit|unfamiliar	#FECB68	0.359836503323544
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	14	14		#FDAD4A	0.442904521699988
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	15	14	tom	#F03623	0.732236565534909
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	16	14		#FDAD4A	0.455353781477581
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	17	14		#FDAD4A	0.430417207179017
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	18	14	stop	#FDAD4A	0.401695055543942
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	19	14	inhibition|inhibitory|nogo	#FECB68	0.323811628730388
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	20	14	monitoring|stroop	#FECB68	0.365611095389473
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	21	14	interference	#FECB68	0.339201111398144
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	22	14		#FECB68	0.380194763046195
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	23	14	demands|executive	#FDAD4A	0.401179594867141
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	1	15	anger	#FFF1A9	0.147421247541992
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	2	15	stress	#FFF1A9	0.148860892198688
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	3	15	feelings	#FEE188	0.255742642401664
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	4	15	salient	#FECB68	0.310062118323288
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	5	15	novelty	#FEE188	0.294889940579703
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	6	15	movie	#FEE188	0.237163848079262
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	7	15		#FDAD4A	0.486109152110766
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	8	15		#FD913D	0.554819962253421
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	9	15	longterm	#FECB68	0.372209252493295
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	10	15		#FD913D	0.586220413882456
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	11	15	reasoning|relational	#FECB68	0.387874150909661
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	12	15		#FDAD4A	0.460074714856087
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	13	15	presentations	#FFF1A9	0.188493933106604
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	14	15		#FECB68	0.36097889024572
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	15	15	identity	#FEE188	0.265922242413037
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	16	15		#FDAD4A	0.403370193671042
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	17	15	strategies|strategy	#FECB68	0.364862675282385
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	18	15	card|cards	#FECB68	0.34532849525055
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	19	15	gonogo	#FECB68	0.339123220732881
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	20	15		#FECB68	0.377875793399543
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	21	15	switching|switch	#FEE188	0.292345501871049
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	22	15		#FECB68	0.338042935186248
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	23	15	2back|rule	#FEE188	0.258707816141424
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	1	16	emotionally|mood|personality|sadness	#FFF1A9	0.14740431061591
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	2	16	disgust|sexual	#FFFFCC	0.0618791553857563
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	3	16	olfactory	#FFFFCC	0.0603587932054027
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	4	16	physiological	#FEE188	0.265562089818102
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	5	16	depressed|depressive|habituation	#FEE188	0.238247326017949
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	6	16	schizophrenic	#FDAD4A	0.469717094268779
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	7	16	colors|contexts	#FECB68	0.308577912141677
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	8	16	aging|encoded	#FECB68	0.359366274486653
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	9	16	goal	#FECB68	0.334571736951498
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	10	16		#FD913D	0.502365058018277
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	11	16	autism|autistic|nonverbal	#FDAD4A	0.481506371133797
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	12	16		#FDAD4A	0.443042349275894
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	13	16	bottomup|repetitions	#FEE188	0.225491928421376
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	14	16	adaptation	#FFF1A9	0.188899448771102
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	15	16	irrelevant	#FECB68	0.316645634286715
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	16	16	distractor|distractors	#FFF1A9	0.182849231850605
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	17	16		#FECB68	0.353513195735648
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	18	16	subtraction	#FEE188	0.220420737583407
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	19	16	1back|nback	#FEE188	0.280120164676544
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	20	16	manipulation|rules	#FEE188	0.286816449067273
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	21	16		#FECB68	0.320463975461192
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	22	16		#FEE188	0.275479116605017
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	23	16	digit	#FEE188	0.252552545548139
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	1	17	avoidance	#FFFFCC	0.0456601089709927
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	2	17		#FFF1A9	0.168383555567598
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	3	17	eating|food	#FFFFCC	0.0957803535196621
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	4	17	taste	#FFF1A9	0.179944669482693
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	5	17	bipolar	#FECB68	0.335331749229262
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	6	17	illness|uncertainty	#FECB68	0.303486717340781
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	7	17	females|probabilistic	#FECB68	0.352705350701499
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	8	17	rejection	#FECB68	0.332735574555125
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	9	17	colour|paired	#FFF1A9	0.193085055769411
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	10	17		#FDAD4A	0.44331328273835
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	11	17		#FDAD4A	0.439266856623063
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	12	17		#FDAD4A	0.402788132367385
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	13	17	taskirrelevant	#FFF1A9	0.189351118303594
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	14	17		#FEE188	0.248643467265233
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	15	17	suppression	#FFF1A9	0.136823978534345
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	16	17		#FEE188	0.261341308966721
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	17	17	shifting|shortterm	#FFF1A9	0.185110393954041
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	18	17	digits	#FEE188	0.274695823473936
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	19	17	search	#FEE188	0.216765487393739
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	20	17	counting|taskrelated	#FECB68	0.378518278602937
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	21	17	topdown	#FEE188	0.267943837674146
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	22	17	visuospatial	#FFF1A9	0.14850496928959
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	23	17	arithmetic|calculation|solving	#FEE188	0.213953827682023
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	1	18	addiction|craving|drugs	#FFFFCC	0.0730006802917345
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	2	18	allele|genotype|polymorphism	#FEE188	0.200358552246626
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	3	18	motivation	#FFFFCC	0.0388049667733337
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	4	18	heart	#FEE188	0.203586734639592
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	5	18	sleep	#FFF1A9	0.167666627064862
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	6	18	expectancy	#FECB68	0.376152156867767
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	7	18	phasic|salience	#FEE188	0.262446859316163
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	8	18	adolescence|adolescents	#FDAD4A	0.40084698712007
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	9	18	intelligence|tracking	#FEE188	0.266572979601003
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	10	18		#FECB68	0.37229781681813
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	11	18	serial	#FFF1A9	0.17917818645299
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	12	18		#FECB68	0.324192875390528
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	13	18	spatially|taskrelevant	#FFF1A9	0.133666256479611
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	14	18		#FEE188	0.247341982817195
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	15	18	attended|attend|unattended	#FFF1A9	0.182110228665004
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	16	18	rotation|shapes	#FFF1A9	0.102080430196163
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	17	18	rehearsal	#FEE188	0.237110419535611
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	18	18	learned	#FFFFCC	0.0849242362557533
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	19	18		#FEE188	0.234898815606288
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	20	18	cued|preparatory	#FEE188	0.21891696136086
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	21	18		#FEE188	0.252723399442459
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	22	18		#FEE188	0.260964855668818
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	23	18	numbers|numerical	#FFF1A9	0.194677231888072
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	1	19	future	#FECB68	0.320921289144948
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	2	19	negatively	#FECB68	0.347609212556348
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	3	19	distress|epilepsy|selfreported	#FEE188	0.240796649290001
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	4	19	anticipatory|cocaine|probabilities|smoking	#FFFFCC	0.0962313417605147
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	5	19	alcohol|amount|impulsivity	#FEE188	0.255854033150316
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	6	19	game|success	#FECB68	0.372419404520863
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	7	19	adhd|childhood|engagement	#FEE188	0.295356316973862
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	8	19		#FDAD4A	0.469479900687119
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	9	19		#FECB68	0.388118995669224
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	10	19		#FECB68	0.327044043243442
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	11	19		#FECB68	0.322802914837949
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	12	19	endogenous	#FECB68	0.3225344073104
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	13	19	cueing|invalid|orienting	#FECB68	0.305608632264472
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	14	19		#FEE188	0.262798158246157
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	15	19	multisensory	#FEE188	0.24483384300671
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	16	19		#FEE188	0.247254415766705
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	17	19	shifts	#FEE188	0.208917645846952
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	18	19	covert	#FEE188	0.255369398392184
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	19	19		#FFF1A9	0.189111381532997
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	20	19	preparation	#FFF1A9	0.132287253815091
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	21	19	discrimination|training	#FEE188	0.246177361927605
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	22	19	sequences	#FFF1A9	0.148007055438432
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	23	19		#FEE188	0.259027552009492
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	1	20	personal|self|selfreferential|trait|traits	#FC622F	0.69536807950872
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	2	20	empathic|theory	#FD913D	0.6000511193539
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	3	20	attribution|intentional	#FDAD4A	0.414278654524943
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	4	20	elderly|oscillations	#FDAD4A	0.446705978980189
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	5	20	antipsychotic|virtual	#FECB68	0.301275084342489
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	6	20		#FDAD4A	0.477738481212391
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	7	20	experiences	#FDAD4A	0.420615069916607
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	8	20	categorical|pressure	#FECB68	0.331284877202688
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	9	20	play|skills	#FFF1A9	0.148956858604293
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	10	20	automatic|trained	#FECB68	0.304565255403978
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	11	20		#FEE188	0.214271606740226
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	12	20	practice	#FEE188	0.202632180289415
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	13	20	visuomotor	#FFFFCC	0.0743723199915998
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	14	20		#FEE188	0.253635307514731
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	15	20	tool	#FEE188	0.212412549725228
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	16	20	vision	#FFFFCC	0.0481456566038799
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	17	20	visually	#FFF1A9	0.176948325245508
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	18	20	saccade|saccades|saccadic	#FFFFCC	0.0337316904485561
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	19	20	locations	#FEE188	0.229467553703237
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	20	20	imagery|planning	#FFF1A9	0.151224776639995
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	21	20		#FFF1A9	0.182719801893656
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	22	20	rest	#FECB68	0.309116056628513
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	23	20	sequence	#FEE188	0.241896621606744
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	1	21	scenarios	#F03623	0.732933900055518
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	2	21	intention|intentions	#F03623	0.741392273395601
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	3	21	causality|perspective	#FC622F	0.651325428700273
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	4	21	past	#FD913D	0.560236688402934
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	5	21		#FD913D	0.526504198152519
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	6	21	episode	#FFF1A9	0.166448044830383
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	7	21	improvement	#FFF1A9	0.129157768880922
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	8	21	masking|retention	#FFF1A9	0.10361554180905
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	9	21		#FEE188	0.285918349038326
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	10	21	dominant	#FFF1A9	0.104533826276614
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	11	21		#FFF1A9	0.123485507279556
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	12	21	sequential	#FFFFCC	0.0872024268552517
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	13	21	fingers	#FFFFCC	0.0185665687109559
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	14	21		#FEE188	0.250022962760213
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	15	21	gesture|gestures	#FEE188	0.2863617493748
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	16	21		#FEE188	0.214832453539827
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	17	21	hands	#FFFFCC	0.0538032175514976
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	18	21		#FFF1A9	0.168652987792706
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	19	21		#FEE188	0.208025417496259
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	20	21	eye|position	#FFF1A9	0.117598610794114
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	21	21	execution	#FFFFCC	0.0849969075289225
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	22	21	finger|sensorimotor	#FFFFCC	0.0676067452904481
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	23	21		#FFF1A9	0.151394164030792
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	1	22	moral|stories|story	#D7141E	0.840825079304735
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	2	22	mentalizing|persons	#D7141E	0.891107542768828
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	3	22	default|restingstate	#FDAD4A	0.49280979341695
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	4	22	thinking|thought|thoughts	#FDAD4A	0.490156283808534
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	5	22	spontaneous	#FECB68	0.304450289761499
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	6	22	concentration|sensations	#FFF1A9	0.144574103367644
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	7	22	hierarchical|preference	#FEE188	0.298833323048557
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	8	22	effort|oral|simulation	#FEE188	0.275257950627932
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	9	22	interhemispheric|plasticity	#FFF1A9	0.14895699473381
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	10	22	imagined|imagine	#FFF1A9	0.166520062015723
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	11	22	tapping	#FFFFCC	0.0543021566028743
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	12	22	foot|muscle|muscles|voluntary	#FFFFCC	0.00696705666528779
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	13	22	limb	#FFFFCC	0.0158302772145739
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	14	22	eyes|velocity	#FFFFCC	0
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	15	22	biological|gaze|videos	#FEE188	0.20068126879673
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	16	22	body	#FFF1A9	0.155426574047155
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	17	22	grasping|orientation|reaching	#FFFFCC	0.056570892500706
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	18	22		#FFF1A9	0.169189995128645
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	19	22	mirror|shape	#FFF1A9	0.196183077504002
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	20	22	actions	#FECB68	0.334091548162364
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	21	22	action	#FECB68	0.332469350913036
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	22	22		#FFF1A9	0.126801490275135
+18e33b17-8c8d-3ab9-9b7c-6cbfd21f9ccd	Friedmann N	23	22	hand|movements|sensory	#FFFFCC	0.0589456452830136

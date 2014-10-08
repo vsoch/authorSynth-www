@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	1	1	auditory|speech	#FC622F	0.639527631575093
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	2	1		#FD913D	0.592870502184687
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	3	1	da|integration	#FC622F	0.616061613429437
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	4	1		#FC622F	0.631224614592555
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	5	1	physical|psychophysical|tactile	#FDAD4A	0.482919038641038
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	6	1		#FD913D	0.563974924444574
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	7	1	somatosensory|stimulation	#FDAD4A	0.469921576385122
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	8	1	painful|pain	#FDAD4A	0.438641612621715
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	9	1		#FD913D	0.504533105236115
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	10	1	ratings	#FD913D	0.510628856469698
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	11	1	affective|affect	#FDAD4A	0.439975656668417
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	12	1	emotions	#FECB68	0.383554533255977
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	13	1	expression|expressions|facial	#FFF1A9	0.162660092565153
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	14	1		#FECB68	0.32319562342036
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	15	1		#FECB68	0.367650850691404
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	16	1	emotion|motion|neutral	#FECB68	0.359585972913447
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	17	1	rating	#FD913D	0.516621689344027
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	18	1	negative|positive	#FC622F	0.611155085032652
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	19	1		#FC622F	0.687406199897825
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	20	1	ear|order	#F03623	0.727535726306617
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	21	1	motor	#FD913D	0.568027222181561
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	22	1	visual	#FD913D	0.551145361779957
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	23	1	age|image|response	#FC622F	0.645645298385551
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	1	2	sound|sounds	#FD913D	0.520262496053692
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	2	2		#FD913D	0.584528422874442
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	3	2	audiovisual|bimodal|crossmodal	#FECB68	0.391442123185793
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	4	2		#FC622F	0.649721858221066
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	5	2		#FC622F	0.658771441653778
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	6	2		#FC622F	0.60843787942666
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	7	2	sensation	#FDAD4A	0.40794560063652
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	8	2	heat|noxious	#FDAD4A	0.453064645284762
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	9	2		#FD913D	0.52275885451171
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	10	2		#FD913D	0.528613764259867
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	11	2		#FD913D	0.500436957746926
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	12	2	valence	#FEE188	0.25601363103686
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	13	2	person|social	#FECB68	0.372258283334432
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	14	2		#FECB68	0.343359064178496
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	15	2	face|faces	#FECB68	0.306355344046774
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	16	2		#FDAD4A	0.464800072634595
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	17	2		#FD913D	0.558340861818619
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	18	2		#FC622F	0.667342776562963
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	19	2		#F03623	0.717146476903246
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	20	2		#FC622F	0.690693580686189
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	21	2	images|spatial	#FC622F	0.635779863457193
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	22	2	control	#FC622F	0.662008266790724
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	23	2	time	#FC622F	0.646806287944862
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	1	3	acoustic|listening|musical|music|pitch	#FD913D	0.519178212039221
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	2	3	noise|tones	#FD913D	0.53983456949199
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	3	3		#FC622F	0.685107625270287
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	4	3		#F03623	0.761808162316936
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	5	3	frequency	#F03623	0.744721979161833
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	6	3		#F03623	0.787381792568513
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	7	3		#FD913D	0.53746378033591
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	8	3	temperature	#FDAD4A	0.422560732378734
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	9	3		#FD913D	0.556966494411311
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	10	3	pleasant|unpleasant	#FD913D	0.543248300635403
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	11	3	anxiety	#FECB68	0.365935798041329
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	12	3		#FD913D	0.504178321886738
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	13	3		#FD913D	0.531979539079308
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	14	3		#FDAD4A	0.45659064530141
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	15	3		#FDAD4A	0.473572614424102
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	16	3	picture	#FD913D	0.512980902581495
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	17	3		#FC622F	0.616663771542659
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	18	3	value	#F03623	0.780962284162092
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	19	3	cue	#F03623	0.731830665583827
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	20	3	error|target	#FC622F	0.68855730156804
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	21	3	attention	#FC622F	0.648427489293456
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	22	3		#F03623	0.718199539504764
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	23	3	number	#F03623	0.73407282525812
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	1	4	voice	#FECB68	0.389439237957414
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	2	4		#FD913D	0.600016924048825
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	3	4	hearing	#FD913D	0.582533633468179
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	4	4		#F03623	0.753671721783875
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	5	4	overt	#F03623	0.80004171429217
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	6	4		#F03623	0.72999869938584
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	7	4		#FD913D	0.596711707122129
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	8	4	nociceptive|nonpainful|painrelated	#FECB68	0.359397749171205
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	9	4	unpleasantness	#FC622F	0.634024253471417
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	10	4	skin|subjective	#FD913D	0.563501847348043
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	11	4	depression	#FD913D	0.550023861999478
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	12	4	experience	#FD913D	0.583381635414948
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	13	4	female	#FD913D	0.561288654141719
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	14	4	male	#FD913D	0.582252505607669
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	15	4	pictures	#FDAD4A	0.447640751862582
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	16	4		#FD913D	0.596673220537081
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	17	4	perception	#FD913D	0.583872873128899
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	18	4		#F03623	0.744042831169873
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	19	4		#F03623	0.751128398248119
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	20	4		#F03623	0.737048355916146
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	21	4	correct	#F03623	0.748268481479565
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	22	4	work	#F03623	0.79365491677251
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	23	4	memory	#F03623	0.727672525836732
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	1	5	prosodic|prosody	#FECB68	0.392065289685094
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	2	5	phonetic	#FD913D	0.562388862436631
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	3	5	syllable|syllables	#F03623	0.768513839098197
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	4	5		#F03623	0.731282838934249
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	5	5	lip|production	#FDAD4A	0.450478285051965
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	6	5	somatotopic	#FDAD4A	0.459515791373818
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	7	5		#FC622F	0.652086259307348
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	8	5		#FD913D	0.599534717602219
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	9	5	empathy	#FC622F	0.628722692171791
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	10	5		#F03623	0.790060677919568
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	11	5	disorder	#FC622F	0.645207828905755
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	12	5		#F03623	0.795703538085264
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	13	5		#F03623	0.758597354947168
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	14	5		#F03623	0.723343832612273
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	15	5		#FC622F	0.699079375403229
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	16	5		#F03623	0.718863361110392
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	17	5		#F03623	0.75578436820026
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	18	5	mental	#F03623	0.716711895978692
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	19	5	go	#F03623	0.790455129011185
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	20	5	object	#FD913D	0.54004729585837
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	21	5		#F03623	0.778112640209588
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	22	5		#F03623	0.776529049016458
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	23	5	word|words	#FC622F	0.696758519076879
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	1	6		#FC622F	0.668053923960075
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	2	6		#F03623	0.728201927701351
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	3	6		#D7141E	0.83308703436689
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	4	6	vocal	#FDAD4A	0.439342605285305
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	5	6	articulatory	#FD913D	0.500149577073589
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	6	6		#F03623	0.710161760606658
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	7	6	oddball	#F03623	0.744669040313876
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	8	6	perceived	#FDAD4A	0.444540275054573
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	9	6	errorrelated	#FECB68	0.323146118376843
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	10	6	approach	#FC622F	0.687883123076783
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	11	6	schizophrenia	#D7141E	0.888259270797307
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	12	6	acquisition	#D7141E	0.875910375282945
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	13	6		#D7141E	0.811085738186937
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	14	6		#F03623	0.707370512619731
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	15	6		#FC622F	0.694464919214791
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	16	6		#F03623	0.717942721781676
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	17	6		#F03623	0.779141966321423
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	18	6		#F03623	0.76200601837298
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	19	6		#F03623	0.768633896544691
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	20	6	objects	#FD913D	0.580904452809883
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	21	6		#F03623	0.7715802691478
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	22	6		#F03623	0.765804095884702
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	23	6	language|semantic	#F03623	0.716487337151771
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	1	7	dopamine|dopaminergic	#FDAD4A	0.41198709611575
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	2	7		#FD913D	0.536726378168546
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	3	7		#F03623	0.705840701528911
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	4	7		#F03623	0.795668457813984
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	5	7		#F03623	0.796892665253908
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	6	7		#D7141E	0.818266273232435
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	7	7		#F03623	0.706629068653219
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	8	7		#FC622F	0.695045627136812
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	9	7		#F03623	0.71005165301511
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	10	7		#D7141E	0.862822025335545
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	11	7		#D7141E	0.882000341007164
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	12	7		#D7141E	0.879161336994738
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	13	7	linguistic|spoken	#FC622F	0.684586111056969
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	14	7		#F03623	0.702104127757605
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	15	7	comprehension|sentence|sentences|syntactic	#FC622F	0.628709838338796
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	16	7		#FC622F	0.698315632454697
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	17	7		#F03623	0.759391444166182
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	18	7	phonological|reading|read	#F03623	0.751489526341697
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	19	7		#F03623	0.762464366104446
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	20	7	perceptual|recognition	#FC622F	0.640796344271417
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	21	7		#F03623	0.784807348857675
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	22	7		#F03623	0.792337902410157
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	23	7	verb	#F03623	0.799746032970124
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	1	8	outcome|reward	#FDAD4A	0.458498645809115
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	2	8	anticipation	#FDAD4A	0.428740407856985
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	3	8	outcomes	#FD913D	0.519857990555939
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	4	8	choice|choices	#FD913D	0.538283027870967
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	5	8	decisions|probability	#F03623	0.799735415897898
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	6	8	reversal	#F03623	0.727001931030578
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	7	8	classification|incorrect	#FD913D	0.584585432366515
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	8	8		#F03623	0.772834983351249
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	9	8	agerelated|fluency|probes	#D7141E	0.818986755226762
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	10	8	engaged	#F03623	0.715799651702388
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	11	8	explicit|knowledge	#FC622F	0.680878676039609
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	12	8		#D7141E	0.808726141247652
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	13	8		#F03623	0.744093095107092
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	14	8		#FC622F	0.695468053963223
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	15	8		#FC622F	0.694537066131957
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	16	8		#F03623	0.718465294790404
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	17	8	lexical	#FC622F	0.661065365689024
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	18	8		#F03623	0.747231686683449
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	19	8		#F03623	0.758997799163322
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	20	8		#F03623	0.751963662753995
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	21	8	encoding	#F03623	0.723128179384111
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	22	8	retrieval	#FC622F	0.692161004056655
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	23	8	verbal	#D7141E	0.807568134902984
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	1	9	incentive|monetary|money|rewards	#FDAD4A	0.406439435300994
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	2	9	loss	#FECB68	0.387492628503532
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	3	9		#FD913D	0.582939158971157
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	4	9		#FC622F	0.677641037828023
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	5	9	decisionmaking	#FD913D	0.558496178415729
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	6	9		#F03623	0.767367844066272
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	7	9		#F03623	0.721264891855523
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	8	9		#F03623	0.761835454695412
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	9	9		#F03623	0.794596159108171
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	10	9		#D7141E	0.801465519030387
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	11	9		#D7141E	0.827199118844044
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	12	9		#D7141E	0.840998424248973
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	13	9	noun	#FC622F	0.655236993687476
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	14	9	meaning	#FD913D	0.571005545377237
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	15	9	english	#F03623	0.757399419470952
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	16	9	pseudoword|pseudowords	#FC622F	0.694930963131518
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	17	9		#F03623	0.759067218117901
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	18	9		#F03623	0.749849195464589
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	19	9	familiar|judgment	#F03623	0.714352910550977
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	20	9	pair|pairs	#F03623	0.749965878935948
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	21	9		#D7141E	0.850235739578414
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	22	9		#D7141E	0.865194282935553
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	23	9	letter|working	#D7141E	0.859162337896898
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	1	10	losses|reinforcement|win	#FEE188	0.282172033119725
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	2	10	gain	#FECB68	0.313949061219118
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	3	10	expectation	#FD913D	0.538124781171197
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	4	10	risk	#FD913D	0.5678531353762
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	5	10	fact	#FC622F	0.684191309587596
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	6	10	associative	#FC622F	0.610514916452272
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	7	10	familiarity|judgments|old	#FC622F	0.699277089931086
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	8	10	contextual|text	#FDAD4A	0.416271869589494
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	9	10	recall|retrieved	#FC622F	0.674038521652164
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	10	10	conceptual|semantically	#FD913D	0.548440589331255
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	11	10	grammatical|speakers	#B10026	1
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	12	10	nouns	#FC622F	0.67096384001792
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	13	10	japanese	#D7141E	0.820095276455826
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	14	10	languages	#D7141E	0.877408381886242
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	15	10	written	#FDAD4A	0.492677745814259
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	16	10	chinese|phonology	#F03623	0.73158079081396
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	17	10	orthographic	#FC622F	0.647759963695273
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	18	10		#F03623	0.763963823592921
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	19	10		#F03623	0.787082001539058
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	20	10	association|decision	#F03623	0.726765950767949
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	21	10	selection	#D7141E	0.875570694056143
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	22	10	letters	#F03623	0.718634250003312
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	23	10	demand|load	#D7141E	0.823017674702314
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	1	11	conditioned|conditioning	#FEE188	0.290647675475374
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	2	11		#FDAD4A	0.477514176441111
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	3	11	drug|placebo	#FD913D	0.582028599664532
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	4	11		#FC622F	0.628986839626687
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	5	11	associations	#FDAD4A	0.416985916382303
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	6	11		#FD913D	0.595071775161191
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	7	11	episodic|recollection	#FDAD4A	0.439037600820836
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	8	11		#FC622F	0.627469130994921
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	9	11		#D7141E	0.823503330364384
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	10	11	concepts	#FD913D	0.596402331617883
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	11	11		#D7141E	0.859544796363994
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	12	11		#D7141E	0.892325372200318
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	13	11	german	#B10026	0.914207684149823
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	14	11	readers	#FC622F	0.612983827384445
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	15	11	character|name|naming	#FC622F	0.649502135021869
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	16	11		#F03623	0.7621769277384
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	17	11	novel	#F03623	0.788248782902303
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	18	11		#F03623	0.770904433008395
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	19	11	child|children	#FC622F	0.679041602320293
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	20	11	adults	#D7141E	0.802925984285941
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	21	11	ability|feedback|learning	#D7141E	0.84949365242597
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	22	11	cues|delay	#F03623	0.73373672599289
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	23	11	attentional|difficulty|targets	#FC622F	0.685088393871527
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	1	12	aversive|shock	#FECB68	0.326413927416698
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	2	12	reactivity	#FECB68	0.319288643683822
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	3	12	males|sex|women	#FDAD4A	0.495384109178607
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	4	12	animal	#FECB68	0.395748366278231
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	5	12	animals	#FDAD4A	0.483303740340775
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	6	12		#FDAD4A	0.468747224586523
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	7	12	remember|subsequent	#FECB68	0.380513372651516
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	8	12	autobiographical|memories	#FEE188	0.203694183899883
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	9	12		#D7141E	0.819875811553828
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	10	12	violation|violations	#FC622F	0.682886361489797
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	11	12	aphasia	#F03623	0.76382819611445
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	12	12	nonwords	#FC622F	0.623615496199896
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	13	12	dyslexia	#FD913D	0.544741978190363
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	14	12		#F03623	0.754373427303162
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	15	12	priming	#FD913D	0.501257532800622
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	16	12		#F03623	0.77665113486618
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	17	12	category|repetition	#D7141E	0.802018966418774
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	18	12		#F03623	0.783600408382544
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	19	12	developmental|development	#FD913D	0.592042566703653
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	20	12		#F03623	0.771992191907447
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	21	12	space	#FC622F	0.687471098817144
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	22	12		#D7141E	0.80627265858973
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	23	12	color	#FC622F	0.695721299957103
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	1	13	threat	#FFF1A9	0.133425729523179
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	2	13	regulation	#FFF1A9	0.120876133735151
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	3	13		#FDAD4A	0.408110765757577
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	4	13	masked	#FD913D	0.542072559177877
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	5	13	scene|scenes	#FEE188	0.255430434632293
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	6	13		#FDAD4A	0.4636569512853
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	7	13	confidence|remembered	#FECB68	0.389086087341779
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	8	13		#FD913D	0.587711906103745
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	9	13		#D7141E	0.830091720391846
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	10	13	ambiguity|ambiguous	#FECB68	0.310602850840709
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	11	13		#D7141E	0.808981570186572
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	12	13		#F03623	0.73978258835616
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	13	13	writing	#FD913D	0.583709944313762
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	14	13		#F03623	0.722492505106584
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	15	13	categorization|congruency|prime	#FC622F	0.680601931179112
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	16	13		#F03623	0.786717080375208
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	17	13	mask	#F03623	0.701578994234787
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	18	13		#D7141E	0.80818752844869
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	19	13		#F03623	0.76796921648834
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	20	13		#F03623	0.747241850373463
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	21	13	conflict|congruent|incongruent	#FC622F	0.6077957482808
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	22	13	errors	#F03623	0.729087126492845
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	23	13	maintenance|probe|wm	#F03623	0.79955937285385
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	1	14	angry|fearful|happy	#FFFFCC	0.0398791000935137
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	2	14		#FFF1A9	0.175884627186535
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	3	14	awareness|conscious|ptsd	#FFF1A9	0.148977933258342
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	4	14		#FDAD4A	0.434102946434623
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	5	14	houses|photographs	#FFF1A9	0.192583006506309
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	6	14		#FDAD4A	0.488560055935463
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	7	14	hits	#FDAD4A	0.478762145501018
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	8	14	famous	#FFFFCC	0.0953610569170749
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	9	14	names	#FDAD4A	0.408700836101232
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	10	14	family	#F03623	0.761231987483474
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	11	14	competition|mouth	#FD913D	0.561689752810814
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	12	14	abilities	#FD913D	0.562558970161464
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	13	14	implicit|unfamiliar	#FECB68	0.389414065651948
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	14	14		#FC622F	0.644384347975752
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	15	14	tom	#FC622F	0.627493932336299
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	16	14		#F03623	0.749709069796957
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	17	14		#F03623	0.782106706906164
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	18	14	stop	#F03623	0.704202237566096
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	19	14	inhibition|inhibitory|nogo	#F03623	0.723301911263838
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	20	14	monitoring|stroop	#FC622F	0.651518074971704
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	21	14	interference	#FC622F	0.644576944717799
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	22	14		#F03623	0.779107459829632
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	23	14	demands|executive	#D7141E	0.829345590521528
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	1	15	anger	#FFFFCC	0
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	2	15	stress	#FEE188	0.209706192788478
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	3	15	feelings	#FECB68	0.357105880195735
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	4	15	salient	#FECB68	0.392854350862963
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	5	15	novelty	#FFF1A9	0.1873809826341
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	6	15	movie	#FEE188	0.274527444913037
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	7	15		#FC622F	0.683633357389268
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	8	15		#F03623	0.782022537546985
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	9	15	longterm	#FD913D	0.508324444980542
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	10	15		#F03623	0.753120508966748
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	11	15	reasoning|relational	#FC622F	0.644600304448492
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	12	15		#FC622F	0.677505291328222
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	13	15	presentations	#FEE188	0.273837506701741
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	14	15		#FC622F	0.621742327739064
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	15	15	identity	#FDAD4A	0.448550912941148
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	16	15		#F03623	0.730092498704934
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	17	15	strategies|strategy	#FC622F	0.658967932712755
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	18	15	card|cards	#FC622F	0.62715388075793
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	19	15	gonogo	#FC622F	0.637478154758079
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	20	15		#F03623	0.757189545463514
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	21	15	switching|switch	#FC622F	0.664381914260544
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	22	15		#F03623	0.753459626551734
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	23	15	2back|rule	#F03623	0.738524934612927
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	1	16	emotionally|mood|personality|sadness	#FEE188	0.218007875847382
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	2	16	disgust|sexual	#FEE188	0.25370648424461
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	3	16	olfactory	#FEE188	0.235905536243999
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	4	16	physiological	#FD913D	0.564537875663664
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	5	16	depressed|depressive|habituation	#FECB68	0.312067306090943
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	6	16	schizophrenic	#FD913D	0.53744533688058
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	7	16	colors|contexts	#FD913D	0.539922621702525
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	8	16	aging|encoded	#F03623	0.756151106927278
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	9	16	goal	#FC622F	0.604993421837916
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	10	16		#FC622F	0.697274616200835
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	11	16	autism|autistic|nonverbal	#FECB68	0.353220186629385
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	12	16		#FC622F	0.649118526528712
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	13	16	bottomup|repetitions	#FC622F	0.637816324741273
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	14	16	adaptation	#FDAD4A	0.438354767213258
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	15	16	irrelevant	#FC622F	0.654680110482001
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	16	16	distractor|distractors	#FD913D	0.557582504820502
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	17	16		#D7141E	0.803723022907306
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	18	16	subtraction	#FDAD4A	0.482445668845229
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	19	16	1back|nback	#F03623	0.751874662062255
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	20	16	manipulation|rules	#D7141E	0.871604310098018
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	21	16		#D7141E	0.805797574386127
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	22	16		#D7141E	0.803663918691376
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	23	16	digit	#D7141E	0.870583997493451
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	1	17	avoidance	#FDAD4A	0.40015209819886
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	2	17		#FDAD4A	0.419523594532196
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	3	17	eating|food	#FECB68	0.302019075864451
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	4	17	taste	#FDAD4A	0.405814388995574
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	5	17	bipolar	#FD913D	0.570118620063911
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	6	17	illness|uncertainty	#FDAD4A	0.456023739989768
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	7	17	females|probabilistic	#FC622F	0.662346915598314
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	8	17	rejection	#FDAD4A	0.476734795626608
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	9	17	colour|paired	#FDAD4A	0.470775702949731
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	10	17		#F03623	0.782615665079436
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	11	17		#F03623	0.800242648400663
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	12	17		#F03623	0.77977900558283
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	13	17	taskirrelevant	#FECB68	0.391393248322222
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	14	17		#FC622F	0.636016591287046
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	15	17	suppression	#FC622F	0.696384010078574
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	16	17		#F03623	0.74254053703556
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	17	17	shifting|shortterm	#F03623	0.730263899555394
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	18	17	digits	#D7141E	0.819442197170845
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	19	17	search	#FD913D	0.586391260963473
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	20	17	counting|taskrelated	#FC622F	0.666971360725489
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	21	17	topdown	#F03623	0.720381609866999
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	22	17	visuospatial	#F03623	0.750709880490722
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	23	17	arithmetic|calculation|solving	#FC622F	0.683505769785095
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	1	18	addiction|craving|drugs	#FECB68	0.380583132696458
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	2	18	allele|genotype|polymorphism	#FEE188	0.21206832566156
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	3	18	motivation	#FEE188	0.287148445838974
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	4	18	heart	#FDAD4A	0.486529723662472
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	5	18	sleep	#FDAD4A	0.486698465372581
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	6	18	expectancy	#F03623	0.761205516657475
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	7	18	phasic|salience	#FDAD4A	0.436653518762397
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	8	18	adolescence|adolescents	#FEE188	0.27275215895604
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	9	18	intelligence|tracking	#FEE188	0.291548096770475
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	10	18		#F03623	0.770612990794289
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	11	18	serial	#F03623	0.710439884482081
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	12	18		#F03623	0.76245663463872
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	13	18	spatially|taskrelevant	#FC622F	0.613438985359942
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	14	18		#FC622F	0.636388409890286
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	15	18	attended|attend|unattended	#FDAD4A	0.477582557943586
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	16	18	rotation|shapes	#FDAD4A	0.433590137161874
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	17	18	rehearsal	#D7141E	0.875695959158636
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	18	18	learned	#FC622F	0.642106999401236
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	19	18		#F03623	0.743248685106198
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	20	18	cued|preparatory	#FC622F	0.616667395058597
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	21	18		#D7141E	0.805991805694354
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	22	18		#D7141E	0.845464354450607
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	23	18	numbers|numerical	#F03623	0.779784460105605
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	1	19	future	#FECB68	0.399390087948553
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	2	19	negatively	#FD913D	0.575983226517799
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	3	19	distress|epilepsy|selfreported	#FD913D	0.560970817035283
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	4	19	anticipatory|cocaine|probabilities|smoking	#FDAD4A	0.40786487461936
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	5	19	alcohol|amount|impulsivity	#F03623	0.762660610505196
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	6	19	game|success	#FDAD4A	0.411116666889563
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	7	19	adhd|childhood|engagement	#FEE188	0.285312175002523
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	8	19		#FC622F	0.65957098406216
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	9	19		#FC622F	0.631567996141553
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	10	19		#F03623	0.742027677463876
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	11	19		#F03623	0.781301923941414
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	12	19	endogenous	#F03623	0.787298088875042
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	13	19	cueing|invalid|orienting	#FDAD4A	0.487051446082506
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	14	19		#FC622F	0.667172729455557
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	15	19	multisensory	#FD913D	0.500330950559812
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	16	19		#FC622F	0.653856302574659
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	17	19	shifts	#FC622F	0.606958902956762
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	18	19	covert	#FC622F	0.670230985335677
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	19	19		#FC622F	0.65210864310474
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	20	19	preparation	#FC622F	0.614861656177176
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	21	19	discrimination|training	#F03623	0.710681565464912
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	22	19	sequences	#F03623	0.776981563403996
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	23	19		#D7141E	0.809950255378667
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	1	20	personal|self|selfreferential|trait|traits	#FEE188	0.203210403987717
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	2	20	empathic|theory	#FECB68	0.382738369561252
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	3	20	attribution|intentional	#FFF1A9	0.154370464155647
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	4	20	elderly|oscillations	#FEE188	0.265426604701235
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	5	20	antipsychotic|virtual	#FDAD4A	0.435299922065923
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	6	20		#D7141E	0.83276985054744
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	7	20	experiences	#FD913D	0.568687741472837
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	8	20	categorical|pressure	#FDAD4A	0.450052131383939
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	9	20	play|skills	#FDAD4A	0.479879271864319
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	10	20	automatic|trained	#FD913D	0.554633911067221
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	11	20		#FD913D	0.582886086580806
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	12	20	practice	#FDAD4A	0.480582877684337
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	13	20	visuomotor	#FECB68	0.352231968211986
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	14	20		#FC622F	0.624919551765397
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	15	20	tool	#FD913D	0.5593127351243
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	16	20	vision	#FECB68	0.301830438371012
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	17	20	visually	#FDAD4A	0.427041337291618
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	18	20	saccade|saccades|saccadic	#FECB68	0.315495709744613
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	19	20	locations	#FDAD4A	0.474871174854179
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	20	20	imagery|planning	#FC622F	0.678303314591565
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	21	20		#F03623	0.716458624467538
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	22	20	rest	#F03623	0.731038538683582
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	23	20	sequence	#F03623	0.749502707774953
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	1	21	scenarios	#FFFFCC	0.0844385988666295
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	2	21	intention|intentions	#FEE188	0.207349732675814
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	3	21	causality|perspective	#FEE188	0.295595728611697
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	4	21	past	#FEE188	0.284438656705774
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	5	21		#F03623	0.730458054677493
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	6	21	episode	#FD913D	0.575408664918902
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	7	21	improvement	#FEE188	0.290642882911785
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	8	21	masking|retention	#D7141E	0.892447095704302
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	9	21		#FC622F	0.660889710417894
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	10	21	dominant	#FDAD4A	0.44112554043364
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	11	21		#FD913D	0.515832254764083
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	12	21	sequential	#FECB68	0.361667246290139
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	13	21	fingers	#FECB68	0.351538304633168
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	14	21		#FDAD4A	0.45950278407001
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	15	21	gesture|gestures	#FDAD4A	0.447144589757709
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	16	21		#FD913D	0.510324318355386
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	17	21	hands	#FD913D	0.507575126711968
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	18	21		#FD913D	0.57649384758193
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	19	21		#FD913D	0.591030952141055
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	20	21	eye|position	#FDAD4A	0.477559836911424
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	21	21	execution	#FC622F	0.631561081097534
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	22	21	finger|sensorimotor	#FDAD4A	0.483242239028249
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	23	21		#FC622F	0.61185203642878
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	1	22	moral|stories|story	#FFF1A9	0.132429663028203
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	2	22	mentalizing|persons	#FEE188	0.227184874953946
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	3	22	default|restingstate	#FFF1A9	0.198022289151066
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	4	22	thinking|thought|thoughts	#FDAD4A	0.474607422199258
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	5	22	spontaneous	#FDAD4A	0.473503235817921
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	6	22	concentration|sensations	#FDAD4A	0.405458201969596
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	7	22	hierarchical|preference	#FECB68	0.326918572109434
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	8	22	effort|oral|simulation	#FEE188	0.242001215530621
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	9	22	interhemispheric|plasticity	#FECB68	0.348141397142504
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	10	22	imagined|imagine	#FD913D	0.547488220526468
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	11	22	tapping	#FDAD4A	0.481376194145919
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	12	22	foot|muscle|muscles|voluntary	#FECB68	0.30553765304213
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	13	22	limb	#FEE188	0.208692358656692
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	14	22	eyes|velocity	#FFFFCC	0.0695808071502051
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	15	22	biological|gaze|videos	#FFF1A9	0.110689343662551
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	16	22	body	#FD913D	0.538071793154629
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	17	22	grasping|orientation|reaching	#FECB68	0.388865755614527
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	18	22		#FC622F	0.604702711288403
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	19	22	mirror|shape	#FC622F	0.633045243102845
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	20	22	actions	#FC622F	0.606425766726644
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	21	22	action	#FC622F	0.685749613491065
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	22	22		#FD913D	0.586845620167623
+45e6ae55-d44f-306a-afa6-b543b90c77af	Hernandez A	23	22	hand|movements|sensory	#FDAD4A	0.478961053468728

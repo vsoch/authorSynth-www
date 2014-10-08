@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	1	1	auditory|speech	#FDAD4A	0.471668729926611
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	2	1		#FDAD4A	0.412750639336996
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	3	1	da|integration	#FD913D	0.596713451936278
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	4	1		#F03623	0.733848586494854
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	5	1	physical|psychophysical|tactile	#F03623	0.71703583780225
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	6	1		#D7141E	0.856994502602186
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	7	1	somatosensory|stimulation	#F03623	0.763355632145972
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	8	1	painful|pain	#F03623	0.717313472065808
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	9	1		#D7141E	0.806973779021417
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	10	1	ratings	#D7141E	0.857993112139006
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	11	1	affective|affect	#F03623	0.78690280445248
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	12	1	emotions	#FC622F	0.643038828333613
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	13	1	expression|expressions|facial	#FECB68	0.373355642789948
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	14	1		#FD913D	0.586580593807393
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	15	1		#FC622F	0.65761459915402
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	16	1	emotion|motion|neutral	#FC622F	0.687266263731699
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	17	1	rating	#D7141E	0.816689914900102
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	18	1	negative|positive	#F03623	0.798508263493072
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	19	1		#D7141E	0.882838674329691
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	20	1	ear|order	#D7141E	0.817045388505259
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	21	1	motor	#F03623	0.768996533994001
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	22	1	visual	#FC622F	0.653932759329051
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	23	1	age|image|response	#F03623	0.795095593002405
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	1	2	sound|sounds	#FEE188	0.268447632906642
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	2	2		#FECB68	0.380866754561682
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	3	2	audiovisual|bimodal|crossmodal	#FFF1A9	0.190933513532855
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	4	2		#F03623	0.735420626702464
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	5	2		#D7141E	0.826351605469317
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	6	2		#D7141E	0.883093862654228
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	7	2	sensation	#FC622F	0.624584575284238
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	8	2	heat|noxious	#FC622F	0.655318167579393
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	9	2		#D7141E	0.829525255791526
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	10	2		#D7141E	0.899751740617241
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	11	2		#D7141E	0.855625020147519
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	12	2	valence	#FC622F	0.671458071903415
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	13	2	person|social	#FD913D	0.515689789438662
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	14	2		#FC622F	0.604237815566239
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	15	2	face|faces	#FDAD4A	0.412614894811439
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	16	2		#F03623	0.749748522622942
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	17	2		#D7141E	0.838975275611594
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	18	2		#B10026	0.907251668743908
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	19	2		#B10026	0.914270900251327
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	20	2		#D7141E	0.86193600610483
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	21	2	images|spatial	#F03623	0.777697576093223
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	22	2	control	#D7141E	0.809121661065081
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	23	2	time	#F03623	0.787907651451066
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	1	3	acoustic|listening|musical|music|pitch	#FEE188	0.253151039601824
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	2	3	noise|tones	#FEE188	0.259928092089936
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	3	3		#FD913D	0.503430036630396
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	4	3		#FC622F	0.62752930469761
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	5	3	frequency	#F03623	0.758604651654141
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	6	3		#D7141E	0.884741190335451
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	7	3		#F03623	0.759589317656497
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	8	3	temperature	#FC622F	0.617217700112231
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	9	3		#D7141E	0.822191477488162
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	10	3	pleasant|unpleasant	#F03623	0.756131901684366
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	11	3	anxiety	#FC622F	0.694427521131799
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	12	3		#F03623	0.792018883901698
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	13	3		#F03623	0.783866560501412
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	14	3		#F03623	0.738445180778745
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	15	3		#F03623	0.751961920408767
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	16	3	picture	#F03623	0.765652469653909
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	17	3		#D7141E	0.864613284344232
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	18	3	value	#B10026	0.956613585036908
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	19	3	cue	#B10026	0.904100066628604
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	20	3	error|target	#D7141E	0.896365998300235
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	21	3	attention	#F03623	0.75008315656703
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	22	3		#F03623	0.760862084071198
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	23	3	number	#F03623	0.751336186687612
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	1	4	voice	#FEE188	0.249499169438987
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	2	4		#FECB68	0.35648975679491
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	3	4	hearing	#FECB68	0.329860809486625
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	4	4		#FD913D	0.553902431591666
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	5	4	overt	#FD913D	0.534585644406121
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	6	4		#FC622F	0.694588486140897
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	7	4		#D7141E	0.820625678915678
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	8	4	nociceptive|nonpainful|painrelated	#FD913D	0.574578152457243
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	9	4	unpleasantness	#F03623	0.73245956056406
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	10	4	skin|subjective	#B10026	0.935408383400599
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	11	4	depression	#F03623	0.789643460810224
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	12	4	experience	#F03623	0.746383090873375
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	13	4	female	#F03623	0.766515648574239
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	14	4	male	#D7141E	0.806713133990104
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	15	4	pictures	#FC622F	0.695688701469363
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	16	4		#D7141E	0.820174988787637
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	17	4	perception	#F03623	0.733011035802752
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	18	4		#D7141E	0.883506717903266
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	19	4		#D7141E	0.869880683348294
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	20	4		#D7141E	0.837669971747826
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	21	4	correct	#F03623	0.779903816132305
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	22	4	work	#F03623	0.706347957876196
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	23	4	memory	#FC622F	0.640664202744899
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	1	5	prosodic|prosody	#FECB68	0.312240265511837
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	2	5	phonetic	#FEE188	0.250810667676213
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	3	5	syllable|syllables	#FECB68	0.337797466777023
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	4	5		#FDAD4A	0.498049323857934
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	5	5	lip|production	#FECB68	0.354714233063091
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	6	5	somatotopic	#FECB68	0.331969518586957
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	7	5		#B10026	0.938095952179174
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	8	5		#B10026	0.925019981063254
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	9	5	empathy	#D7141E	0.887766798977639
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	10	5		#D7141E	0.888749878048772
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	11	5	disorder	#F03623	0.742720357630362
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	12	5		#D7141E	0.84337315543806
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	13	5		#D7141E	0.824626720502741
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	14	5		#F03623	0.774582762517787
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	15	5		#F03623	0.772287984384648
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	16	5		#F03623	0.776161812924255
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	17	5		#F03623	0.764441117199491
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	18	5	mental	#F03623	0.723327387356488
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	19	5	go	#F03623	0.79872809393068
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	20	5	object	#FD913D	0.572674268613223
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	21	5		#F03623	0.744901182389388
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	22	5		#FC622F	0.648415311114247
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	23	5	word|words	#FDAD4A	0.490313229448303
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	1	6		#D7141E	0.833641044887756
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	2	6		#D7141E	0.811126078847572
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	3	6		#F03623	0.753524757453919
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	4	6	vocal	#FECB68	0.346568374203894
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	5	6	articulatory	#FEE188	0.280454719195732
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	6	6		#FC622F	0.687822311279114
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	7	6	oddball	#B10026	0.935150489242083
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	8	6	perceived	#F03623	0.726929629212626
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	9	6	errorrelated	#D7141E	0.831187028520337
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	10	6	approach	#FC622F	0.665188420343566
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	11	6	schizophrenia	#F03623	0.706599434711793
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	12	6	acquisition	#FC622F	0.68815741793015
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	13	6		#F03623	0.70752119887749
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	14	6		#FD913D	0.506247075760549
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	15	6		#FD913D	0.512540035369437
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	16	6		#FD913D	0.549137647940044
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	17	6		#FC622F	0.61265646603886
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	18	6		#FC622F	0.644728548734848
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	19	6		#FC622F	0.692483446909981
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	20	6	objects	#FC622F	0.617486028294608
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	21	6		#FC622F	0.700160205455624
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	22	6		#FD913D	0.57865260474447
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	23	6	language|semantic	#FDAD4A	0.454940002979818
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	1	7	dopamine|dopaminergic	#F03623	0.72478280822295
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	2	7		#D7141E	0.827791519919652
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	3	7		#D7141E	0.890891086193522
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	4	7		#D7141E	0.89876308753983
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	5	7		#D7141E	0.894103822341759
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	6	7		#D7141E	0.877474253179873
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	7	7		#B10026	0.911791728531191
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	8	7		#D7141E	0.855325900154378
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	9	7		#D7141E	0.862900028344089
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	10	7		#F03623	0.706487222327073
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	11	7		#FC622F	0.672990196461875
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	12	7		#FC622F	0.651824911125528
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	13	7	linguistic|spoken	#FDAD4A	0.435897000265986
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	14	7		#FDAD4A	0.429485797241436
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	15	7	comprehension|sentence|sentences|syntactic	#FECB68	0.328303195008661
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	16	7		#FDAD4A	0.427970902994618
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	17	7		#FD913D	0.513547803498412
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	18	7	phonological|reading|read	#FDAD4A	0.470153969541691
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	19	7		#FC622F	0.631795144840482
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	20	7	perceptual|recognition	#FC622F	0.671004228076462
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	21	7		#F03623	0.705729782657274
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	22	7		#FC622F	0.616364375506547
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	23	7	verb	#FC622F	0.605101944332261
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	1	8	outcome|reward	#F03623	0.774796266125982
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	2	8	anticipation	#F03623	0.779887114835266
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	3	8	outcomes	#FC622F	0.640053624943848
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	4	8	choice|choices	#FC622F	0.65430422026326
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	5	8	decisions|probability	#D7141E	0.867197892737036
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	6	8	reversal	#F03623	0.757625387018844
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	7	8	classification|incorrect	#FD913D	0.568463010421363
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	8	8		#F03623	0.726987095515913
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	9	8	agerelated|fluency|probes	#FD913D	0.52987091034821
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	10	8	engaged	#FECB68	0.372878003664221
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	11	8	explicit|knowledge	#FDAD4A	0.474801465933475
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	12	8		#FD913D	0.515021565071588
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	13	8		#FDAD4A	0.463509370688434
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	14	8		#FDAD4A	0.407498008946036
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	15	8		#FECB68	0.379775184660446
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	16	8		#FDAD4A	0.400043210489737
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	17	8	lexical	#FECB68	0.370300344473234
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	18	8		#FD913D	0.521636028332109
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	19	8		#FC622F	0.604816892228937
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	20	8		#FC622F	0.676741517504964
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	21	8	encoding	#FC622F	0.677288065998704
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	22	8	retrieval	#FC622F	0.620305977641094
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	23	8	verbal	#FC622F	0.683028937435542
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	1	9	incentive|monetary|money|rewards	#FD913D	0.50637129105462
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	2	9	loss	#F03623	0.723917557165344
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	3	9		#D7141E	0.853271248170286
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	4	9		#D7141E	0.893832423622036
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	5	9	decisionmaking	#F03623	0.73298706281335
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	6	9		#F03623	0.786564456933208
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	7	9		#F03623	0.714711917385935
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	8	9		#FC622F	0.667257361805873
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	9	9		#FC622F	0.602882910173562
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	10	9		#FDAD4A	0.497503797072802
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	11	9		#FDAD4A	0.445957537402577
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	12	9		#FDAD4A	0.439435747132947
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	13	9	noun	#FECB68	0.320370761326323
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	14	9	meaning	#FECB68	0.341646267442444
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	15	9	english	#FEE188	0.297347255717772
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	16	9	pseudoword|pseudowords	#FECB68	0.304027747054471
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	17	9		#FDAD4A	0.459752510409212
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	18	9		#FD913D	0.586987101282424
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	19	9	familiar|judgment	#FD913D	0.541737215286376
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	20	9	pair|pairs	#FC622F	0.623966015189601
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	21	9		#D7141E	0.818662676188078
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	22	9		#F03623	0.786417968939445
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	23	9	letter|working	#F03623	0.704451401930939
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	1	10	losses|reinforcement|win	#FC622F	0.628444109318249
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	2	10	gain	#FD913D	0.534484997127226
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	3	10	expectation	#D7141E	0.837357419091938
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	4	10	risk	#F03623	0.787795538905458
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	5	10	fact	#FD913D	0.58314442227942
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	6	10	associative	#FC622F	0.635901279939586
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	7	10	familiarity|judgments|old	#FDAD4A	0.42023806315513
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	8	10	contextual|text	#FD913D	0.511732154088222
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	9	10	recall|retrieved	#FECB68	0.326149392969952
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	10	10	conceptual|semantically	#FEE188	0.239518695881213
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	11	10	grammatical|speakers	#FECB68	0.364470452326178
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	12	10	nouns	#FEE188	0.244550362883746
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	13	10	japanese	#FECB68	0.32984730513794
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	14	10	languages	#FEE188	0.236022880121587
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	15	10	written	#FEE188	0.22895680374254
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	16	10	chinese|phonology	#FEE188	0.261756317852246
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	17	10	orthographic	#FECB68	0.395260703591555
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	18	10		#FC622F	0.699743922114117
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	19	10		#F03623	0.765676471147429
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	20	10	association|decision	#D7141E	0.813903845728902
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	21	10	selection	#D7141E	0.833772539901878
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	22	10	letters	#FC622F	0.647685285819434
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	23	10	demand|load	#FC622F	0.697093995377147
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	1	11	conditioned|conditioning	#FDAD4A	0.480512668208598
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	2	11		#D7141E	0.858415266933253
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	3	11	drug|placebo	#D7141E	0.833635162688901
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	4	11		#B10026	0.955609393455829
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	5	11	associations	#F03623	0.711587521873088
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	6	11		#FD913D	0.587262828891339
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	7	11	episodic|recollection	#FDAD4A	0.405408652518982
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	8	11		#FD913D	0.506977806775239
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	9	11		#FD913D	0.575170871009427
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	10	11	concepts	#FEE188	0.246123900341028
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	11	11		#FDAD4A	0.471391530119758
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	12	11		#FDAD4A	0.459583716535628
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	13	11	german	#FDAD4A	0.43824195583477
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	14	11	readers	#FECB68	0.381499165029588
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	15	11	character|name|naming	#FEE188	0.261878177584389
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	16	11		#FDAD4A	0.475348143350388
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	17	11	novel	#FD913D	0.596832844098454
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	18	11		#F03623	0.748166128119504
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	19	11	child|children	#F03623	0.800316888244158
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	20	11	adults	#D7141E	0.887703678792268
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	21	11	ability|feedback|learning	#B10026	1
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	22	11	cues|delay	#B10026	0.910869938632382
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	23	11	attentional|difficulty|targets	#F03623	0.790939160503768
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	1	12	aversive|shock	#F03623	0.707401440088168
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	2	12	reactivity	#FD913D	0.593620910717106
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	3	12	males|sex|women	#FC622F	0.679253548834679
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	4	12	animal	#FC622F	0.645628254365027
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	5	12	animals	#FECB68	0.339243469674059
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	6	12		#FDAD4A	0.469488810554162
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	7	12	remember|subsequent	#FFF1A9	0.172155845744537
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	8	12	autobiographical|memories	#FFFFCC	0.0725118372516326
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	9	12		#FD913D	0.579718451281779
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	10	12	violation|violations	#FEE188	0.281108203751318
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	11	12	aphasia	#FD913D	0.502872584988374
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	12	12	nonwords	#FECB68	0.340434449242513
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	13	12	dyslexia	#FECB68	0.386046820899629
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	14	12		#FDAD4A	0.497960429984209
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	15	12	priming	#FEE188	0.242170049290165
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	16	12		#FD913D	0.578416248293834
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	17	12	category|repetition	#FD913D	0.574280688257552
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	18	12		#F03623	0.774478085994004
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	19	12	developmental|development	#F03623	0.703105610293131
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	20	12		#B10026	0.903666059139818
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	21	12	space	#D7141E	0.814462375927838
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	22	12		#D7141E	0.831195570497137
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	23	12	color	#F03623	0.707914385059712
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	1	13	threat	#FDAD4A	0.429815170241323
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	2	13	regulation	#FD913D	0.584370930430329
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	3	13		#F03623	0.77664000123079
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	4	13	masked	#FDAD4A	0.476730971532277
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	5	13	scene|scenes	#FECB68	0.314268408499745
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	6	13		#FECB68	0.390001649869124
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	7	13	confidence|remembered	#FFF1A9	0.118721181267692
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	8	13		#FDAD4A	0.414167993599459
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	9	13		#FD913D	0.591401882290869
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	10	13	ambiguity|ambiguous	#FFF1A9	0.140100948239684
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	11	13		#FD913D	0.566093959502289
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	12	13		#FD913D	0.579376296638486
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	13	13	writing	#FECB68	0.341070591738597
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	14	13		#FC622F	0.602684927249973
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	15	13	categorization|congruency|prime	#FDAD4A	0.424321110463951
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	16	13		#FC622F	0.66087696849087
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	17	13	mask	#FC622F	0.617915956961076
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	18	13		#D7141E	0.878959232514418
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	19	13		#B10026	0.962272746459237
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	20	13		#B10026	0.908891446874295
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	21	13	conflict|congruent|incongruent	#F03623	0.737405207486211
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	22	13	errors	#D7141E	0.864786737770753
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	23	13	maintenance|probe|wm	#FC622F	0.616639531914696
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	1	14	angry|fearful|happy	#FEE188	0.223061413784712
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	2	14		#FDAD4A	0.467996593115014
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	3	14	awareness|conscious|ptsd	#FD913D	0.59543086252121
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	4	14		#FC622F	0.664040211731587
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	5	14	houses|photographs	#FFFFCC	0.0245125373614931
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	6	14		#FD913D	0.500487444813104
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	7	14	hits	#FEE188	0.284192751347275
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	8	14	famous	#FFFFCC	0
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	9	14	names	#FEE188	0.260769672920092
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	10	14	family	#FDAD4A	0.426481142584276
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	11	14	competition|mouth	#FDAD4A	0.412412044852584
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	12	14	abilities	#FDAD4A	0.446075024136785
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	13	14	implicit|unfamiliar	#FDAD4A	0.437934061368366
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	14	14		#FD913D	0.595176958381119
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	15	14	tom	#FC622F	0.616749009796997
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	16	14		#F03623	0.737103914180708
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	17	14		#D7141E	0.805431020302059
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	18	14	stop	#B10026	0.966764208126819
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	19	14	inhibition|inhibitory|nogo	#B10026	0.975566998235304
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	20	14	monitoring|stroop	#F03623	0.734990483760679
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	21	14	interference	#FC622F	0.632568948074068
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	22	14		#F03623	0.750908402635537
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	23	14	demands|executive	#FC622F	0.643682016530478
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	1	15	anger	#FFF1A9	0.156369728380106
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	2	15	stress	#FECB68	0.399494637774086
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	3	15	feelings	#FDAD4A	0.466080004190235
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	4	15	salient	#FC622F	0.672070241220757
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	5	15	novelty	#FDAD4A	0.402938357006002
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	6	15	movie	#FECB68	0.36867313921039
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	7	15		#FC622F	0.662648234701973
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	8	15		#FC622F	0.660732405844689
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	9	15	longterm	#FEE188	0.282988965749142
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	10	15		#FD913D	0.569927086309134
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	11	15	reasoning|relational	#FECB68	0.324909185234034
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	12	15		#FD913D	0.595783729217972
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	13	15	presentations	#FEE188	0.276486794931327
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	14	15		#FC622F	0.613489986721541
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	15	15	identity	#FDAD4A	0.441419352021663
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	16	15		#F03623	0.756232534563193
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	17	15	strategies|strategy	#FC622F	0.678853859033228
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	18	15	card|cards	#FC622F	0.634058062919776
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	19	15	gonogo	#D7141E	0.897597167461851
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	20	15		#D7141E	0.889651310944814
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	21	15	switching|switch	#FC622F	0.658108054823196
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	22	15		#F03623	0.738305809233877
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	23	15	2back|rule	#FD913D	0.535440686099829
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	1	16	emotionally|mood|personality|sadness	#FEE188	0.250573779185687
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	2	16	disgust|sexual	#FECB68	0.389248572651515
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	3	16	olfactory	#FEE188	0.285935645840742
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	4	16	physiological	#D7141E	0.803598251736838
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	5	16	depressed|depressive|habituation	#FDAD4A	0.425561865160404
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	6	16	schizophrenic	#FD913D	0.557908717603551
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	7	16	colors|contexts	#FECB68	0.39735070006703
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	8	16	aging|encoded	#FDAD4A	0.477238261695329
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	9	16	goal	#FEE188	0.234588661472562
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	10	16		#FD913D	0.54166774187256
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	11	16	autism|autistic|nonverbal	#FECB68	0.365350766648181
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	12	16		#FD913D	0.596990218278501
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	13	16	bottomup|repetitions	#FDAD4A	0.442498986053062
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	14	16	adaptation	#FD913D	0.518741614532141
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	15	16	irrelevant	#FD913D	0.581017100579653
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	16	16	distractor|distractors	#FDAD4A	0.469849426048671
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	17	16		#F03623	0.77564060040935
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	18	16	subtraction	#FDAD4A	0.404317773946601
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	19	16	1back|nback	#FDAD4A	0.480810854215302
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	20	16	manipulation|rules	#FD913D	0.559665657760539
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	21	16		#F03623	0.736613915252368
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	22	16		#FC622F	0.635060264634751
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	23	16	digit	#FD913D	0.556082534638774
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	1	17	avoidance	#FECB68	0.307551365729156
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	2	17		#FC622F	0.609836622099782
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	3	17	eating|food	#FDAD4A	0.429176718455758
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	4	17	taste	#FD913D	0.557717009802132
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	5	17	bipolar	#FD913D	0.527980194906081
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	6	17	illness|uncertainty	#D7141E	0.898508380268037
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	7	17	females|probabilistic	#FD913D	0.563646804690324
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	8	17	rejection	#FEE188	0.246314006210424
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	9	17	colour|paired	#FD913D	0.529553905687926
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	10	17		#FC622F	0.654853163019691
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	11	17		#FC622F	0.651758793195161
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	12	17		#FC622F	0.642021438571348
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	13	17	taskirrelevant	#FDAD4A	0.438517397950254
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	14	17		#FC622F	0.609178045203875
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	15	17	suppression	#FDAD4A	0.444134183672125
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	16	17		#FC622F	0.696312722425263
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	17	17	shifting|shortterm	#FD913D	0.532113848015956
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	18	17	digits	#FD913D	0.533575834656359
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	19	17	search	#F03623	0.711670288393968
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	20	17	counting|taskrelated	#FC622F	0.631569671820981
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	21	17	topdown	#FC622F	0.601438047921152
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	22	17	visuospatial	#FDAD4A	0.46289823346917
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	23	17	arithmetic|calculation|solving	#FDAD4A	0.419023546933796
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	1	18	addiction|craving|drugs	#FDAD4A	0.410052277196884
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	2	18	allele|genotype|polymorphism	#FECB68	0.343107566227773
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	3	18	motivation	#FC622F	0.682749895845091
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	4	18	heart	#F03623	0.73201997271065
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	5	18	sleep	#FC622F	0.656360167257704
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	6	18	expectancy	#F03623	0.796678368087762
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	7	18	phasic|salience	#F03623	0.70568699357122
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	8	18	adolescence|adolescents	#FD913D	0.520605689606649
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	9	18	intelligence|tracking	#FC622F	0.61525479184332
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	10	18		#F03623	0.796241564838226
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	11	18	serial	#FDAD4A	0.419572347090605
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	12	18		#FC622F	0.679933003599138
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	13	18	spatially|taskrelevant	#FDAD4A	0.411289296353685
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	14	18		#FC622F	0.611601468313167
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	15	18	attended|attend|unattended	#FECB68	0.33524031419241
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	16	18	rotation|shapes	#FDAD4A	0.482065175033168
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	17	18	rehearsal	#FC622F	0.650947856074461
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	18	18	learned	#F03623	0.756165741056467
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	19	18		#D7141E	0.833538680438357
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	20	18	cued|preparatory	#FC622F	0.684955856164861
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	21	18		#D7141E	0.821365797029881
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	22	18		#FC622F	0.699568423650797
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	23	18	numbers|numerical	#FD913D	0.564507268075895
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	1	19	future	#FECB68	0.378924610653117
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	2	19	negatively	#FDAD4A	0.470379011674322
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	3	19	distress|epilepsy|selfreported	#FECB68	0.37013698913836
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	4	19	anticipatory|cocaine|probabilities|smoking	#FDAD4A	0.496768130367999
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	5	19	alcohol|amount|impulsivity	#FD913D	0.567400322696157
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	6	19	game|success	#FD913D	0.578709803808514
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	7	19	adhd|childhood|engagement	#FC622F	0.615290026860556
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	8	19		#B10026	0.943373196144182
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	9	19		#B10026	0.925897261879946
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	10	19		#F03623	0.79652870096009
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	11	19		#F03623	0.727511455637796
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	12	19	endogenous	#FDAD4A	0.454376228779983
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	13	19	cueing|invalid|orienting	#FD913D	0.503842142090655
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	14	19		#FC622F	0.657422609223916
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	15	19	multisensory	#FDAD4A	0.499540754066059
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	16	19		#FC622F	0.647875435735895
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	17	19	shifts	#FC622F	0.668858696401897
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	18	19	covert	#FD913D	0.567248403258817
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	19	19		#F03623	0.781458566067176
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	20	19	preparation	#F03623	0.747451491977732
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	21	19	discrimination|training	#F03623	0.762909391130078
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	22	19	sequences	#F03623	0.702969533747872
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	23	19		#D7141E	0.860420951746603
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	1	20	personal|self|selfreferential|trait|traits	#FEE188	0.285472097092611
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	2	20	empathic|theory	#FDAD4A	0.401700028688802
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	3	20	attribution|intentional	#FFF1A9	0.108479268046133
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	4	20	elderly|oscillations	#FFF1A9	0.178461029850775
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	5	20	antipsychotic|virtual	#FECB68	0.317934892934707
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	6	20		#B10026	0.969430021275894
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	7	20	experiences	#FD913D	0.577749585495445
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	8	20	categorical|pressure	#FD913D	0.566539584948746
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	9	20	play|skills	#FDAD4A	0.489314720914289
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	10	20	automatic|trained	#FD913D	0.599566893952028
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	11	20		#F03623	0.722142592607119
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	12	20	practice	#FD913D	0.528328679785914
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	13	20	visuomotor	#FD913D	0.582314581256635
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	14	20		#F03623	0.757997858417721
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	15	20	tool	#FDAD4A	0.494117188164768
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	16	20	vision	#FDAD4A	0.412661322905818
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	17	20	visually	#FD913D	0.50989458407748
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	18	20	saccade|saccades|saccadic	#FDAD4A	0.48250130231647
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	19	20	locations	#FC622F	0.634550184617676
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	20	20	imagery|planning	#F03623	0.704258356288438
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	21	20		#D7141E	0.866210472633393
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	22	20	rest	#F03623	0.746514967907334
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	23	20	sequence	#D7141E	0.843416863275624
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	1	21	scenarios	#FFFFCC	0.00676030600223902
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	2	21	intention|intentions	#FFF1A9	0.193224003457103
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	3	21	causality|perspective	#FFF1A9	0.193760444375377
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	4	21	past	#FFF1A9	0.137027811578265
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	5	21		#D7141E	0.814108702500425
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	6	21	episode	#FECB68	0.386254474881603
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	7	21	improvement	#FECB68	0.30460685658548
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	8	21	masking|retention	#FDAD4A	0.401340448821927
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	9	21		#F03623	0.74999996178979
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	10	21	dominant	#FD913D	0.553137938960724
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	11	21		#FC622F	0.645911186408222
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	12	21	sequential	#FD913D	0.512548067688695
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	13	21	fingers	#FDAD4A	0.465099798176831
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	14	21		#FC622F	0.627643434375494
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	15	21	gesture|gestures	#FECB68	0.31824164882132
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	16	21		#FC622F	0.654086286701521
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	17	21	hands	#FD913D	0.502274071227385
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	18	21		#F03623	0.710285729753417
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	19	21		#FC622F	0.696635760222426
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	20	21	eye|position	#FC622F	0.687036512084359
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	21	21	execution	#FC622F	0.690191230848202
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	22	21	finger|sensorimotor	#FC622F	0.65412279395952
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	23	21		#F03623	0.788237257262657
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	1	22	moral|stories|story	#FFFFCC	0.027916212477328
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	2	22	mentalizing|persons	#FFFFCC	0.0233953700204114
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	3	22	default|restingstate	#FFFFCC	0.0636471636716226
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	4	22	thinking|thought|thoughts	#FFF1A9	0.133290719581954
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	5	22	spontaneous	#FDAD4A	0.444347281412892
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	6	22	concentration|sensations	#FC622F	0.670350732280788
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	7	22	hierarchical|preference	#FECB68	0.322132327429223
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	8	22	effort|oral|simulation	#FDAD4A	0.424785617300981
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	9	22	interhemispheric|plasticity	#FEE188	0.299495778055975
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	10	22	imagined|imagine	#FDAD4A	0.45248239037705
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	11	22	tapping	#FD913D	0.535213250277594
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	12	22	foot|muscle|muscles|voluntary	#FECB68	0.386880644536881
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	13	22	limb	#FEE188	0.297962339758693
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	14	22	eyes|velocity	#FDAD4A	0.402239422172438
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	15	22	biological|gaze|videos	#FEE188	0.20387308431582
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	16	22	body	#FC622F	0.627952325713081
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	17	22	grasping|orientation|reaching	#FD913D	0.584375141129447
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	18	22		#F03623	0.721620561215525
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	19	22	mirror|shape	#FD913D	0.509181161719527
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	20	22	actions	#FC622F	0.613367090689001
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	21	22	action	#F03623	0.80045109079414
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	22	22		#F03623	0.785129263317148
+c95fb2cc-8e8c-3c4e-af3c-cb4d3ca4715b	Ridderinkhof KR	23	22	hand|movements|sensory	#FC622F	0.698937846495982

@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	1	1	auditory|speech	#FEE188	0.225459167104083
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	2	1		#FEE188	0.201521821775769
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	3	1	da|integration	#FDAD4A	0.443539037282509
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	4	1		#FECB68	0.361789565813713
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	5	1	physical|psychophysical|tactile	#FEE188	0.279679680934188
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	6	1		#FECB68	0.337551161105301
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	7	1	somatosensory|stimulation	#FEE188	0.260171889370303
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	8	1	painful|pain	#FEE188	0.27979888654041
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	9	1		#FECB68	0.378369310144182
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	10	1	ratings	#FC622F	0.63669156229376
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	11	1	affective|affect	#F03623	0.719096640109408
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	12	1	emotions	#FC622F	0.68179462082599
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	13	1	expression|expressions|facial	#FD913D	0.58410916371053
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	14	1		#F03623	0.727671280979355
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	15	1		#F03623	0.752355236281778
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	16	1	emotion|motion|neutral	#F03623	0.712181999460493
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	17	1	rating	#FC622F	0.662568672560981
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	18	1	negative|positive	#FC622F	0.670870795917949
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	19	1		#FC622F	0.696428222751249
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	20	1	ear|order	#FC622F	0.654451173845366
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	21	1	motor	#FDAD4A	0.409770214991278
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	22	1	visual	#FD913D	0.531361708721131
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	23	1	age|image|response	#FC622F	0.602580183439833
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	1	2	sound|sounds	#FFFFCC	0.0896691905191437
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	2	2		#FFF1A9	0.175517169732608
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	3	2	audiovisual|bimodal|crossmodal	#FFF1A9	0.103381307802145
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	4	2		#FECB68	0.375969854868831
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	5	2		#FECB68	0.374686176115486
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	6	2		#FECB68	0.363477010544251
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	7	2	sensation	#FEE188	0.229492990805748
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	8	2	heat|noxious	#FFF1A9	0.175823816358055
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	9	2		#FDAD4A	0.405826669089444
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	10	2		#FC622F	0.685478846213461
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	11	2		#F03623	0.72813738551523
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	12	2	valence	#F03623	0.750741131856916
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	13	2	person|social	#FC622F	0.603270735530187
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	14	2		#F03623	0.7362503902944
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	15	2	face|faces	#FC622F	0.681194597059981
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	16	2		#F03623	0.7638637388057
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	17	2		#F03623	0.759565935180075
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	18	2		#F03623	0.735518258391699
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	19	2		#FC622F	0.698784330651229
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	20	2		#FC622F	0.629388112935484
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	21	2	images|spatial	#FC622F	0.624340564901725
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	22	2	control	#FC622F	0.604413081160182
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	23	2	time	#FC622F	0.600366511363481
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	1	3	acoustic|listening|musical|music|pitch	#FFFFCC	0.025246915280687
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	2	3	noise|tones	#FFF1A9	0.107631590390248
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	3	3		#FEE188	0.265936338956273
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	4	3		#FECB68	0.352194288895693
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	5	3	frequency	#FDAD4A	0.409559427866459
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	6	3		#FDAD4A	0.416399708750803
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	7	3		#FEE188	0.291527709457282
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	8	3	temperature	#FEE188	0.275598369852497
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	9	3		#FECB68	0.39017603932971
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	10	3	pleasant|unpleasant	#FDAD4A	0.476323032060716
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	11	3	anxiety	#FC622F	0.667728160400477
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	12	3		#F03623	0.755181042376332
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	13	3		#F03623	0.778136673868774
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	14	3		#F03623	0.784848884263168
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	15	3		#F03623	0.78911618853025
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	16	3	picture	#F03623	0.783081857966048
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	17	3		#F03623	0.771961275769404
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	18	3	value	#FC622F	0.694811134435732
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	19	3	cue	#FC622F	0.650135866551172
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	20	3	error|target	#FC622F	0.610339617427163
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	21	3	attention	#FC622F	0.603163124812946
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	22	3		#FC622F	0.671474569444344
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	23	3	number	#FC622F	0.656645689239098
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	1	4	voice	#FFF1A9	0.103767993956956
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	2	4		#FFF1A9	0.172255845639122
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	3	4	hearing	#FFF1A9	0.148306555719823
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	4	4		#FEE188	0.297510729033765
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	5	4	overt	#FECB68	0.303371026953533
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	6	4		#FECB68	0.322435228244108
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	7	4		#FECB68	0.324776097207359
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	8	4	nociceptive|nonpainful|painrelated	#FFF1A9	0.182324777193574
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	9	4	unpleasantness	#FECB68	0.30435269910942
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	10	4	skin|subjective	#FD913D	0.586083421315603
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	11	4	depression	#FC622F	0.655938291740025
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	12	4	experience	#FC622F	0.659916191414495
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	13	4	female	#FC622F	0.687505746022859
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	14	4	male	#F03623	0.768838023312533
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	15	4	pictures	#F03623	0.747987962834757
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	16	4		#F03623	0.759822335718579
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	17	4	perception	#FD913D	0.54783587228582
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	18	4		#FC622F	0.685849629393254
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	19	4		#FC622F	0.677052106337269
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	20	4		#FC622F	0.66332339010407
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	21	4	correct	#F03623	0.711712254723711
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	22	4	work	#FC622F	0.687591434082289
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	23	4	memory	#F03623	0.764223893641716
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	1	5	prosodic|prosody	#FFF1A9	0.168018607313221
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	2	5	phonetic	#FFFFCC	0.0970368699388702
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	3	5	syllable|syllables	#FEE188	0.275210970567365
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	4	5		#FEE188	0.256990277889102
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	5	5	lip|production	#FFF1A9	0.104920152425707
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	6	5	somatotopic	#FFFFCC	0.0639978005529873
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	7	5		#FDAD4A	0.403703805941275
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	8	5		#FDAD4A	0.484683448643561
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	9	5	empathy	#FD913D	0.578404569357145
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	10	5		#F03623	0.719011106464615
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	11	5	disorder	#FC622F	0.663350509984208
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	12	5		#F03623	0.755095855412021
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	13	5		#F03623	0.73353265057415
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	14	5		#F03623	0.729138359052036
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	15	5		#F03623	0.725320406043391
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	16	5		#FC622F	0.681343234380719
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	17	5		#FC622F	0.642048798133775
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	18	5	mental	#FC622F	0.63028150002786
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	19	5	go	#FC622F	0.644813947498975
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	20	5	object	#FD913D	0.535438520599677
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	21	5		#FC622F	0.675591979114198
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	22	5		#FC622F	0.676448696404173
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	23	5	word|words	#FD913D	0.55877431237556
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	1	6		#FECB68	0.397987733327633
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	2	6		#FDAD4A	0.404800547140355
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	3	6		#FECB68	0.370930967275331
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	4	6	vocal	#FFF1A9	0.110351734161902
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	5	6	articulatory	#FFF1A9	0.11821406210726
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	6	6		#FECB68	0.347396054090716
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	7	6	oddball	#FECB68	0.363934349179153
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	8	6	perceived	#FD913D	0.560066899950185
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	9	6	errorrelated	#FDAD4A	0.483802567036791
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	10	6	approach	#FD913D	0.565675932968886
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	11	6	schizophrenia	#FC622F	0.685679156169297
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	12	6	acquisition	#FC622F	0.624985304696955
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	13	6		#FC622F	0.631142601486901
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	14	6		#FDAD4A	0.464987508391057
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	15	6		#FDAD4A	0.477009277806984
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	16	6		#FD913D	0.500891042714883
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	17	6		#FD913D	0.580504097863846
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	18	6		#FC622F	0.601299863864204
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	19	6		#FC622F	0.653671948087186
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	20	6	objects	#FD913D	0.574438547551729
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	21	6		#F03623	0.70089740082196
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	22	6		#FC622F	0.621406955384704
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	23	6	language|semantic	#FD913D	0.522224771310936
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	1	7	dopamine|dopaminergic	#FECB68	0.390285069004262
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	2	7		#FDAD4A	0.403534663429312
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	3	7		#FD913D	0.520344613527759
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	4	7		#FD913D	0.531814245086471
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	5	7		#FD913D	0.581649950772035
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	6	7		#FC622F	0.672752691692199
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	7	7		#F03623	0.708330776380365
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	8	7		#F03623	0.776572517619318
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	9	7		#F03623	0.75320185637132
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	10	7		#F03623	0.785534075029781
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	11	7		#F03623	0.751998773849968
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	12	7		#F03623	0.703125883739883
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	13	7	linguistic|spoken	#FECB68	0.383744056077144
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	14	7		#FDAD4A	0.402282738723365
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	15	7	comprehension|sentence|sentences|syntactic	#FECB68	0.319910020692716
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	16	7		#FDAD4A	0.424344335713721
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	17	7		#FD913D	0.522793401490509
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	18	7	phonological|reading|read	#FDAD4A	0.487604451785028
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	19	7		#FC622F	0.644211116673125
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	20	7	perceptual|recognition	#F03623	0.779551946146566
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	21	7		#F03623	0.754759114745147
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	22	7		#FC622F	0.674220867752685
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	23	7	verb	#FC622F	0.643839588278389
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	1	8	outcome|reward	#FDAD4A	0.429115165787306
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	2	8	anticipation	#FECB68	0.353028219469364
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	3	8	outcomes	#FECB68	0.355780123520067
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	4	8	choice|choices	#FD913D	0.522989279275089
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	5	8	decisions|probability	#FD913D	0.561847622081411
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	6	8	reversal	#FC622F	0.68522032279213
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	7	8	classification|incorrect	#FC622F	0.682720704261604
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	8	8		#D7141E	0.817874208512189
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	9	8	agerelated|fluency|probes	#FC622F	0.6533567273473
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	10	8	engaged	#FC622F	0.656041462790547
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	11	8	explicit|knowledge	#FC622F	0.634098824090984
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	12	8		#FD913D	0.599580997408106
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	13	8		#FDAD4A	0.462639923236183
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	14	8		#FECB68	0.396323127503786
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	15	8		#FECB68	0.386998214797338
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	16	8		#FDAD4A	0.417130399305228
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	17	8	lexical	#FDAD4A	0.4627975432535
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	18	8		#FD913D	0.586599001956341
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	19	8		#FC622F	0.664198010057458
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	20	8		#F03623	0.772490139726882
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	21	8	encoding	#B10026	0.907637328460844
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	22	8	retrieval	#F03623	0.797002985670028
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	23	8	verbal	#F03623	0.7167815835441
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	1	9	incentive|monetary|money|rewards	#FFF1A9	0.110423607197311
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	2	9	loss	#FECB68	0.370303484319459
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	3	9		#FD913D	0.535463324967923
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	4	9		#FC622F	0.611175078359245
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	5	9	decisionmaking	#FDAD4A	0.443351645731371
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	6	9		#D7141E	0.84868092190673
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	7	9		#D7141E	0.881082206032266
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	8	9		#D7141E	0.888883529351234
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	9	9		#D7141E	0.861721921407416
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	10	9		#F03623	0.72890829554935
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	11	9		#FC622F	0.60650649560765
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	12	9		#FD913D	0.544948068680821
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	13	9	noun	#FECB68	0.322954831508075
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	14	9	meaning	#FECB68	0.37607865367153
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	15	9	english	#FECB68	0.358628234831077
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	16	9	pseudoword|pseudowords	#FECB68	0.351756808546059
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	17	9		#FD913D	0.53134343984644
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	18	9		#FC622F	0.648962860497838
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	19	9	familiar|judgment	#F03623	0.718545582553772
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	20	9	pair|pairs	#F03623	0.706760149874209
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	21	9		#F03623	0.794120606724595
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	22	9		#F03623	0.762376198540175
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	23	9	letter|working	#FC622F	0.671379416927451
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	1	10	losses|reinforcement|win	#FECB68	0.371829258847389
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	2	10	gain	#FFF1A9	0.152217357454406
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	3	10	expectation	#FD913D	0.523609260523331
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	4	10	risk	#FD913D	0.576591221292071
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	5	10	fact	#FC622F	0.695264267840733
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	6	10	associative	#F03623	0.725296377817165
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	7	10	familiarity|judgments|old	#D7141E	0.817724220370807
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	8	10	contextual|text	#D7141E	0.804814668471137
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	9	10	recall|retrieved	#D7141E	0.809319045808137
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	10	10	conceptual|semantically	#FDAD4A	0.486816728426428
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	11	10	grammatical|speakers	#FECB68	0.381555899625333
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	12	10	nouns	#FECB68	0.308570890517537
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	13	10	japanese	#FECB68	0.389146491587694
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	14	10	languages	#FECB68	0.350109756373642
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	15	10	written	#FECB68	0.360371400259595
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	16	10	chinese|phonology	#FDAD4A	0.488772251603594
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	17	10	orthographic	#FD913D	0.532291894732686
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	18	10		#F03623	0.705490897844003
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	19	10		#F03623	0.758811468277597
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	20	10	association|decision	#F03623	0.783348758802229
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	21	10	selection	#FC622F	0.660426901987767
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	22	10	letters	#FC622F	0.607876512401742
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	23	10	demand|load	#FC622F	0.653905056952766
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	1	11	conditioned|conditioning	#FECB68	0.346230879613372
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	2	11		#FD913D	0.547353547474577
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	3	11	drug|placebo	#FC622F	0.601244912689964
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	4	11		#D7141E	0.820630560460468
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	5	11	associations	#F03623	0.773760190238661
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	6	11		#B10026	1
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	7	11	episodic|recollection	#D7141E	0.89202537748999
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	8	11		#B10026	0.991317422462487
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	9	11		#F03623	0.70774328795418
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	10	11	concepts	#FFF1A9	0.17719046876116
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	11	11		#FDAD4A	0.453597402769026
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	12	11		#FDAD4A	0.468787144514096
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	13	11	german	#FECB68	0.363698583318487
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	14	11	readers	#FDAD4A	0.454170353575668
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	15	11	character|name|naming	#FECB68	0.381555859857996
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	16	11		#FD913D	0.596005370520365
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	17	11	novel	#FC622F	0.699905829816668
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	18	11		#F03623	0.717832026397296
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	19	11	child|children	#FC622F	0.629154058549161
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	20	11	adults	#F03623	0.756579747010695
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	21	11	ability|feedback|learning	#F03623	0.705099106836741
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	22	11	cues|delay	#FC622F	0.665305141887623
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	23	11	attentional|difficulty|targets	#FC622F	0.681552779504052
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	1	12	aversive|shock	#FDAD4A	0.465932307863662
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	2	12	reactivity	#FDAD4A	0.47904772428494
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	3	12	males|sex|women	#FC622F	0.642282264755343
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	4	12	animal	#FD913D	0.573992039394499
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	5	12	animals	#FECB68	0.355906690312018
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	6	12		#B10026	0.927278080741237
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	7	12	remember|subsequent	#D7141E	0.846516417868188
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	8	12	autobiographical|memories	#FD913D	0.53331347097547
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	9	12		#FC622F	0.613417157929146
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	10	12	violation|violations	#FEE188	0.223289475171064
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	11	12	aphasia	#FECB68	0.342634748144368
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	12	12	nonwords	#FECB68	0.340787224990279
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	13	12	dyslexia	#FDAD4A	0.410923700957425
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	14	12		#FD913D	0.543703550878211
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	15	12	priming	#FDAD4A	0.425913560142806
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	16	12		#FC622F	0.651662735039626
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	17	12	category|repetition	#FC622F	0.652515725978239
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	18	12		#F03623	0.730776599624585
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	19	12	developmental|development	#FC622F	0.636444872954671
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	20	12		#F03623	0.739358596207044
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	21	12	space	#F03623	0.704483384571448
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	22	12		#F03623	0.719827190437987
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	23	12	color	#FC622F	0.67972128291672
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	1	13	threat	#FD913D	0.555178915788832
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	2	13	regulation	#FD913D	0.542192045191882
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	3	13		#F03623	0.732766696308062
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	4	13	masked	#FD913D	0.520528970392991
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	5	13	scene|scenes	#FD913D	0.54394644651609
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	6	13		#D7141E	0.859249836841289
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	7	13	confidence|remembered	#F03623	0.756737868457606
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	8	13		#D7141E	0.895590789258204
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	9	13		#FC622F	0.626348666838079
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	10	13	ambiguity|ambiguous	#FEE188	0.27680676630058
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	11	13		#FDAD4A	0.471633757053983
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	12	13		#FD913D	0.552238970272231
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	13	13	writing	#FECB68	0.330125488490937
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	14	13		#FC622F	0.616917102232595
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	15	13	categorization|congruency|prime	#FDAD4A	0.499876651362242
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	16	13		#F03623	0.703953277501305
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	17	13	mask	#FC622F	0.63749008527055
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	18	13		#F03623	0.752899520593004
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	19	13		#F03623	0.727106683273462
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	20	13		#F03623	0.713170180859951
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	21	13	conflict|congruent|incongruent	#FC622F	0.624553400662969
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	22	13	errors	#FC622F	0.673429586053539
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	23	13	maintenance|probe|wm	#FC622F	0.662313132422855
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	1	14	angry|fearful|happy	#FC622F	0.607994456452036
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	2	14		#FC622F	0.653713465153498
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	3	14	awareness|conscious|ptsd	#FDAD4A	0.487092252205384
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	4	14		#F03623	0.745442186728401
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	5	14	houses|photographs	#FEE188	0.2897835646289
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	6	14		#D7141E	0.834143551257156
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	7	14	hits	#F03623	0.720279412716652
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	8	14	famous	#FDAD4A	0.410478424321365
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	9	14	names	#FECB68	0.385833701058018
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	10	14	family	#FECB68	0.393527509373753
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	11	14	competition|mouth	#FECB68	0.382613567506638
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	12	14	abilities	#FDAD4A	0.492046060040751
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	13	14	implicit|unfamiliar	#FD913D	0.510807977480121
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	14	14		#FC622F	0.630848029367043
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	15	14	tom	#FD913D	0.586038172836879
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	16	14		#F03623	0.720356909272293
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	17	14		#F03623	0.739723124606026
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	18	14	stop	#FC622F	0.634815484079033
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	19	14	inhibition|inhibitory|nogo	#FD913D	0.558967987608751
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	20	14	monitoring|stroop	#FD913D	0.592018197903898
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	21	14	interference	#FC622F	0.620953230794362
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	22	14		#FC622F	0.693652319838199
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	23	14	demands|executive	#FC622F	0.6628626160945
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	1	15	anger	#FDAD4A	0.497196444928651
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	2	15	stress	#FD913D	0.530141476838911
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	3	15	feelings	#FDAD4A	0.428440398367681
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	4	15	salient	#FC622F	0.685217877883234
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	5	15	novelty	#FC622F	0.659851494125032
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	6	15	movie	#FC622F	0.603633377533721
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	7	15		#D7141E	0.848564698370309
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	8	15		#F03623	0.787340377981604
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	9	15	longterm	#FDAD4A	0.440267915487891
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	10	15		#FC622F	0.677485889188497
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	11	15	reasoning|relational	#FC622F	0.696402161827764
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	12	15		#FC622F	0.671233215620066
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	13	15	presentations	#FECB68	0.365179459004335
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	14	15		#FC622F	0.623877369669101
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	15	15	identity	#FD913D	0.574667373928587
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	16	15		#F03623	0.728617174737267
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	17	15	strategies|strategy	#FD913D	0.572399827540569
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	18	15	card|cards	#FD913D	0.583386925193682
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	19	15	gonogo	#FD913D	0.570675258290192
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	20	15		#FC622F	0.692362337946724
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	21	15	switching|switch	#FC622F	0.613267725298125
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	22	15		#FC622F	0.689526905984353
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	23	15	2back|rule	#FC622F	0.637488112668142
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	1	16	emotionally|mood|personality|sadness	#FC622F	0.605952680956957
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	2	16	disgust|sexual	#FECB68	0.302759859339393
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	3	16	olfactory	#FECB68	0.399240238352175
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	4	16	physiological	#FD913D	0.5962010670748
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	5	16	depressed|depressive|habituation	#FDAD4A	0.479060893180657
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	6	16	schizophrenic	#FDAD4A	0.495735585042488
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	7	16	colors|contexts	#FDAD4A	0.410601925783267
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	8	16	aging|encoded	#FD913D	0.555065868220206
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	9	16	goal	#FDAD4A	0.406160141022421
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	10	16		#FC622F	0.678154917471074
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	11	16	autism|autistic|nonverbal	#FD913D	0.540147416767514
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	12	16		#FC622F	0.699982902428316
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	13	16	bottomup|repetitions	#FDAD4A	0.444436231283416
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	14	16	adaptation	#FDAD4A	0.411082914197468
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	15	16	irrelevant	#FD913D	0.595919442151666
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	16	16	distractor|distractors	#FD913D	0.571885177982523
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	17	16		#F03623	0.714024509865153
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	18	16	subtraction	#FC622F	0.66192865211049
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	19	16	1back|nback	#FC622F	0.602165450955059
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	20	16	manipulation|rules	#FD913D	0.560906531559655
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	21	16		#FC622F	0.688857564616668
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	22	16		#FC622F	0.661746064721967
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	23	16	digit	#FD913D	0.538077215125997
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	1	17	avoidance	#FECB68	0.385381482252633
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	2	17		#FC622F	0.635930232605515
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	3	17	eating|food	#FECB68	0.29979402053265
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	4	17	taste	#FECB68	0.332830415802182
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	5	17	bipolar	#FDAD4A	0.423097213102569
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	6	17	illness|uncertainty	#FDAD4A	0.483334123317935
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	7	17	females|probabilistic	#FDAD4A	0.462533934507519
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	8	17	rejection	#FECB68	0.330974193278434
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	9	17	colour|paired	#FD913D	0.516425038267925
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	10	17		#FC622F	0.681724024274554
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	11	17		#FC622F	0.661066733426925
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	12	17		#FC622F	0.678436859043374
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	13	17	taskirrelevant	#FDAD4A	0.488476275959024
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	14	17		#FD913D	0.565651037243834
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	15	17	suppression	#FDAD4A	0.443127127006199
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	16	17		#FD913D	0.598496675938051
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	17	17	shifting|shortterm	#FD913D	0.551607231417437
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	18	17	digits	#FDAD4A	0.471550827578299
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	19	17	search	#FD913D	0.599112194690479
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	20	17	counting|taskrelated	#FD913D	0.572576727202988
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	21	17	topdown	#FC622F	0.639508313228978
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	22	17	visuospatial	#FD913D	0.544734512942537
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	23	17	arithmetic|calculation|solving	#FD913D	0.569328846353318
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	1	18	addiction|craving|drugs	#FDAD4A	0.432765296773346
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	2	18	allele|genotype|polymorphism	#F03623	0.721402206309246
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	3	18	motivation	#FEE188	0.214062966215274
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	4	18	heart	#FD913D	0.560466832760282
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	5	18	sleep	#FD913D	0.508232664422929
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	6	18	expectancy	#FD913D	0.557123223163105
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	7	18	phasic|salience	#FDAD4A	0.452938900862487
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	8	18	adolescence|adolescents	#FECB68	0.34999145161187
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	9	18	intelligence|tracking	#FDAD4A	0.444601232096022
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	10	18		#FC622F	0.620901781374269
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	11	18	serial	#FECB68	0.366300194252395
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	12	18		#FD913D	0.596022824493861
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	13	18	spatially|taskrelevant	#FDAD4A	0.46474418918562
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	14	18		#FD913D	0.541310609489119
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	15	18	attended|attend|unattended	#FECB68	0.381139661662353
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	16	18	rotation|shapes	#FECB68	0.385916958056469
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	17	18	rehearsal	#FDAD4A	0.439310106745557
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	18	18	learned	#FDAD4A	0.430059295459561
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	19	18		#FD913D	0.532448688005451
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	20	18	cued|preparatory	#FD913D	0.558449657095213
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	21	18		#FD913D	0.598568868539797
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	22	18		#FC622F	0.629921390329028
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	23	18	numbers|numerical	#FD913D	0.526351876942234
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	1	19	future	#FD913D	0.524081105068112
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	2	19	negatively	#FDAD4A	0.492620566849352
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	3	19	distress|epilepsy|selfreported	#FDAD4A	0.418302638587046
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	4	19	anticipatory|cocaine|probabilities|smoking	#FEE188	0.274982639265416
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	5	19	alcohol|amount|impulsivity	#FEE188	0.239200438510412
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	6	19	game|success	#FDAD4A	0.468947739942944
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	7	19	adhd|childhood|engagement	#FD913D	0.574230020078001
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	8	19		#F03623	0.740206952024075
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	9	19		#F03623	0.70190593668107
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	10	19		#FC622F	0.612124497284313
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	11	19		#FD913D	0.560529854357905
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	12	19	endogenous	#FDAD4A	0.432538055111494
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	13	19	cueing|invalid|orienting	#FDAD4A	0.427545066063778
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	14	19		#FD913D	0.523068125252303
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	15	19	multisensory	#FECB68	0.370220158642503
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	16	19		#FDAD4A	0.493999119037861
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	17	19	shifts	#FDAD4A	0.440799018425233
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	18	19	covert	#FECB68	0.335925463234224
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	19	19		#FDAD4A	0.460673216605637
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	20	19	preparation	#FECB68	0.35722790486532
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	21	19	discrimination|training	#FD913D	0.576136044986681
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	22	19	sequences	#FECB68	0.353066765992184
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	23	19		#FDAD4A	0.481249037785375
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	1	20	personal|self|selfreferential|trait|traits	#FECB68	0.385421674458613
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	2	20	empathic|theory	#FDAD4A	0.484278600143688
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	3	20	attribution|intentional	#FFF1A9	0.164095966552845
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	4	20	elderly|oscillations	#FECB68	0.35578150332638
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	5	20	antipsychotic|virtual	#FECB68	0.380780554654452
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	6	20		#FC622F	0.6674349803064
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	7	20	experiences	#FD913D	0.524513090922558
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	8	20	categorical|pressure	#FDAD4A	0.45012578762772
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	9	20	play|skills	#FDAD4A	0.482706914625567
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	10	20	automatic|trained	#FDAD4A	0.435043202329379
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	11	20		#FDAD4A	0.414296070825504
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	12	20	practice	#FECB68	0.340792130022091
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	13	20	visuomotor	#FEE188	0.284335910979404
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	14	20		#FDAD4A	0.429345963046057
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	15	20	tool	#FEE188	0.287962577099968
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	16	20	vision	#FFF1A9	0.164269068812972
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	17	20	visually	#FECB68	0.392738720342062
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	18	20	saccade|saccades|saccadic	#FEE188	0.232940950174341
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	19	20	locations	#FDAD4A	0.435754136486824
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	20	20	imagery|planning	#FDAD4A	0.407790364248366
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	21	20		#FDAD4A	0.443778398586946
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	22	20	rest	#FECB68	0.384017537763998
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	23	20	sequence	#FDAD4A	0.434793200242589
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	1	21	scenarios	#FEE188	0.205301856150083
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	2	21	intention|intentions	#FEE188	0.286411897007218
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	3	21	causality|perspective	#FECB68	0.301363240336644
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	4	21	past	#FEE188	0.284394199881871
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	5	21		#FC622F	0.63445424574564
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	6	21	episode	#FEE188	0.281404143209101
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	7	21	improvement	#FEE188	0.286661587121817
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	8	21	masking|retention	#FECB68	0.318911533342707
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	9	21		#FD913D	0.502713421364368
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	10	21	dominant	#FECB68	0.346861202220575
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	11	21		#FEE188	0.246479892484799
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	12	21	sequential	#FEE188	0.238130799097906
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	13	21	fingers	#FFFFCC	0.0742806159479531
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	14	21		#FEE188	0.284644136303107
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	15	21	gesture|gestures	#FEE188	0.222686536214811
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	16	21		#FEE188	0.290126888541721
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	17	21	hands	#FEE188	0.218394708906219
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	18	21		#FECB68	0.356566678928738
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	19	21		#FECB68	0.381846816210954
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	20	21	eye|position	#FECB68	0.37252615030725
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	21	21	execution	#FEE188	0.250471216793296
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	22	21	finger|sensorimotor	#FFF1A9	0.164969443044798
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	23	21		#FEE188	0.292754336195393
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	1	22	moral|stories|story	#FFFFCC	0.0632406850960024
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	2	22	mentalizing|persons	#FFF1A9	0.190240085988285
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	3	22	default|restingstate	#FFF1A9	0.183079008360168
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	4	22	thinking|thought|thoughts	#FECB68	0.358824046977282
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	5	22	spontaneous	#FDAD4A	0.408491944478074
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	6	22	concentration|sensations	#FEE188	0.297991729401121
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	7	22	hierarchical|preference	#FEE188	0.28881121273978
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	8	22	effort|oral|simulation	#FECB68	0.304375575282482
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	9	22	interhemispheric|plasticity	#FECB68	0.339913546917603
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	10	22	imagined|imagine	#FFF1A9	0.149450763659935
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	11	22	tapping	#FFF1A9	0.165415651663337
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	12	22	foot|muscle|muscles|voluntary	#FFFFCC	0.0437767963377993
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	13	22	limb	#FFFFCC	0
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	14	22	eyes|velocity	#FFFFCC	0.0535191870415694
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	15	22	biological|gaze|videos	#FFF1A9	0.12037648857286
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	16	22	body	#FEE188	0.286546109704802
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	17	22	grasping|orientation|reaching	#FFF1A9	0.158732311782804
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	18	22		#FECB68	0.336214957835243
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	19	22	mirror|shape	#FECB68	0.371127599613592
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	20	22	actions	#FEE188	0.286902196210594
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	21	22	action	#FDAD4A	0.455667972651667
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	22	22		#FEE188	0.286292616985183
+669daaa9-f44b-339e-b7cf-47aada1d52ac	Heckers S	23	22	hand|movements|sensory	#FEE188	0.208135792166847

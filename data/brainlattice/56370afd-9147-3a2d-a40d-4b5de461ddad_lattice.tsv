@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	1	1	auditory|speech	#FFF1A9	0.182365943573639
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	2	1		#FEE188	0.200855786017631
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	3	1	da|integration	#FDAD4A	0.464339713093347
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	4	1		#FDAD4A	0.478132057135681
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	5	1	physical|psychophysical|tactile	#FDAD4A	0.428356100553461
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	6	1		#FDAD4A	0.4773728611299
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	7	1	somatosensory|stimulation	#FD913D	0.568781844211179
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	8	1	painful|pain	#FEE188	0.207804140235306
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	9	1		#FEE188	0.257079364993197
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	10	1	ratings	#FEE188	0.262547648091298
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	11	1	affective|affect	#FEE188	0.200332118578654
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	12	1	emotions	#FEE188	0.252624895726416
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	13	1	expression|expressions|facial	#FEE188	0.249433179578365
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	14	1		#FECB68	0.335415078858255
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	15	1		#FECB68	0.337817205110865
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	16	1	emotion|motion|neutral	#FEE188	0.261170880704382
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	17	1	rating	#FEE188	0.262471341445625
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	18	1	negative|positive	#FECB68	0.362691721358522
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	19	1		#FD913D	0.518328388937521
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	20	1	ear|order	#FDAD4A	0.487525811327593
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	21	1	motor	#FC622F	0.627483032849448
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	22	1	visual	#FC622F	0.627262954362794
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	23	1	age|image|response	#FDAD4A	0.494875500369864
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	1	2	sound|sounds	#FFFFCC	0.0724716375623783
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	2	2		#FFF1A9	0.168737182707041
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	3	2	audiovisual|bimodal|crossmodal	#FFF1A9	0.164415764712588
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	4	2		#FD913D	0.523872652345529
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	5	2		#FD913D	0.569775976413787
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	6	2		#FD913D	0.53808297809475
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	7	2	sensation	#FEE188	0.280356791219649
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	8	2	heat|noxious	#FFF1A9	0.128191756702071
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	9	2		#FEE188	0.227989277066354
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	10	2		#FEE188	0.23108504566841
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	11	2		#FEE188	0.247934242664556
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	12	2	valence	#FFF1A9	0.18614530955228
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	13	2	person|social	#FEE188	0.286842018269552
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	14	2		#FECB68	0.362639352023833
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	15	2	face|faces	#FECB68	0.392232761379495
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	16	2		#FECB68	0.393140682319603
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	17	2		#FDAD4A	0.418547870689249
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	18	2		#FDAD4A	0.487075886371192
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	19	2		#FD913D	0.562348159190171
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	20	2		#FC622F	0.610537684814164
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	21	2	images|spatial	#FC622F	0.643599557456988
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	22	2	control	#FDAD4A	0.485039110316083
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	23	2	time	#FD913D	0.549223921394163
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	1	3	acoustic|listening|musical|music|pitch	#FFFFCC	0.0339755641196286
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	2	3	noise|tones	#FFF1A9	0.119411351984793
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	3	3		#FECB68	0.325083787166562
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	4	3		#FD913D	0.521964135055966
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	5	3	frequency	#F03623	0.747636468211122
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	6	3		#FD913D	0.588096395025091
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	7	3		#FEE188	0.271192309978098
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	8	3	temperature	#FFFFCC	0.0653496045154735
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	9	3		#FEE188	0.208713135636487
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	10	3	pleasant|unpleasant	#FFF1A9	0.139518891967007
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	11	3	anxiety	#FEE188	0.228774798455381
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	12	3		#FECB68	0.349492118645346
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	13	3		#FDAD4A	0.432478436490302
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	14	3		#FDAD4A	0.436328040400166
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	15	3		#FDAD4A	0.466959738976281
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	16	3	picture	#FD913D	0.582149125842386
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	17	3		#FD913D	0.508069298700594
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	18	3	value	#FC622F	0.619595518589646
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	19	3	cue	#FC622F	0.623564172812607
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	20	3	error|target	#FD913D	0.581070606377022
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	21	3	attention	#FD913D	0.531808288225462
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	22	3		#FD913D	0.577275212767007
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	23	3	number	#FD913D	0.58610229899614
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	1	4	voice	#FFFFCC	0.0540538222415067
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	2	4		#FFF1A9	0.139383219073528
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	3	4	hearing	#FEE188	0.212130085815016
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	4	4		#FDAD4A	0.458713495546914
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	5	4	overt	#FD913D	0.537309203738457
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	6	4		#FD913D	0.543879287787982
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	7	4		#FECB68	0.339629500775337
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	8	4	nociceptive|nonpainful|painrelated	#FEE188	0.222688134279947
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	9	4	unpleasantness	#FFF1A9	0.121757313481785
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	10	4	skin|subjective	#FEE188	0.209542814644958
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	11	4	depression	#FECB68	0.362636038527096
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	12	4	experience	#FEE188	0.224634168544573
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	13	4	female	#FD913D	0.561725873826587
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	14	4	male	#FD913D	0.525472519675408
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	15	4	pictures	#FD913D	0.509366691339736
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	16	4		#FD913D	0.55436544897789
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	17	4	perception	#FDAD4A	0.441343451386686
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	18	4		#FC622F	0.652200887131316
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	19	4		#FC622F	0.662023141914502
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	20	4		#FC622F	0.632491461274716
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	21	4	correct	#FDAD4A	0.491072181036838
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	22	4	work	#FDAD4A	0.493891449059757
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	23	4	memory	#FD913D	0.555150738779796
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	1	5	prosodic|prosody	#FFFFCC	0.0541081079844607
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	2	5	phonetic	#FFF1A9	0.126205962778213
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	3	5	syllable|syllables	#FEE188	0.2566378791768
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	4	5		#FECB68	0.385584470065616
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	5	5	lip|production	#FDAD4A	0.428015981776984
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	6	5	somatotopic	#FD913D	0.58268574087427
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	7	5		#FECB68	0.396871278418995
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	8	5		#FEE188	0.279856867409943
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	9	5	empathy	#FEE188	0.292310842349001
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	10	5		#FECB68	0.390277117743554
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	11	5	disorder	#FECB68	0.324328474085244
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	12	5		#FDAD4A	0.454669223595616
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	13	5		#FD913D	0.507718411831129
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	14	5		#FD913D	0.541110200178185
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	15	5		#FD913D	0.536457360085369
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	16	5		#FD913D	0.554632736657648
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	17	5		#FC622F	0.614834362464103
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	18	5	mental	#FC622F	0.671641498879687
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	19	5	go	#FC622F	0.623174023410415
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	20	5	object	#FC622F	0.670612563580631
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	21	5		#FC622F	0.603789891016051
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	22	5		#FD913D	0.560722958693277
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	23	5	word|words	#FDAD4A	0.454473696061892
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	1	6		#FEE188	0.290480199111501
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	2	6		#FECB68	0.305768119069046
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	3	6		#FDAD4A	0.404740480996552
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	4	6	vocal	#FFF1A9	0.191904281248868
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	5	6	articulatory	#FFF1A9	0.168907767748211
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	6	6		#FDAD4A	0.455355360777543
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	7	6	oddball	#FECB68	0.308539446721017
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	8	6	perceived	#FFF1A9	0.19546931289892
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	9	6	errorrelated	#FEE188	0.236399375569494
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	10	6	approach	#FD913D	0.512542723731479
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	11	6	schizophrenia	#FECB68	0.351888833885173
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	12	6	acquisition	#FD913D	0.573724247165206
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	13	6		#FDAD4A	0.496621510319271
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	14	6		#FDAD4A	0.441933167956378
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	15	6		#FDAD4A	0.452242592825609
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	16	6		#FDAD4A	0.493835606121135
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	17	6		#FC622F	0.629912368107278
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	18	6		#FC622F	0.692681081653116
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	19	6		#F03623	0.716959950444566
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	20	6	objects	#D7141E	0.814436616436764
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	21	6		#FC622F	0.660580045001123
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	22	6		#FD913D	0.552465257642854
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	23	6	language|semantic	#FD913D	0.503405653393203
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	1	7	dopamine|dopaminergic	#FECB68	0.338313307668315
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	2	7		#FECB68	0.385613370904687
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	3	7		#FD913D	0.501048476271093
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	4	7		#FD913D	0.527824630705919
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	5	7		#FD913D	0.536787498113354
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	6	7		#FDAD4A	0.460601380480283
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	7	7		#FDAD4A	0.414936409561183
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	8	7		#FECB68	0.365388290554753
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	9	7		#FDAD4A	0.4435872634489
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	10	7		#FD913D	0.509340536463552
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	11	7		#FD913D	0.556670325258806
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	12	7		#FD913D	0.531860689596735
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	13	7	linguistic|spoken	#FECB68	0.366251887046876
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	14	7		#FDAD4A	0.408285786253899
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	15	7	comprehension|sentence|sentences|syntactic	#FECB68	0.325591702169245
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	16	7		#FDAD4A	0.473503108630359
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	17	7		#FC622F	0.602188200183312
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	18	7	phonological|reading|read	#FD913D	0.597302617127752
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	19	7		#F03623	0.709924263361257
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	20	7	perceptual|recognition	#F03623	0.785657045208052
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	21	7		#FC622F	0.676582256244769
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	22	7		#FD913D	0.559147530943318
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	23	7	verb	#FDAD4A	0.493455949272438
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	1	8	outcome|reward	#FECB68	0.37333518934778
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	2	8	anticipation	#FECB68	0.349852436424516
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	3	8	outcomes	#FDAD4A	0.422215730524532
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	4	8	choice|choices	#FDAD4A	0.44710074230126
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	5	8	decisions|probability	#FD913D	0.548349061600426
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	6	8	reversal	#FECB68	0.387882617109162
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	7	8	classification|incorrect	#FEE188	0.222410923266695
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	8	8		#FDAD4A	0.464036937184461
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	9	8	agerelated|fluency|probes	#FDAD4A	0.43596131046305
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	10	8	engaged	#FD913D	0.524928764860624
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	11	8	explicit|knowledge	#FDAD4A	0.478918017967081
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	12	8		#FDAD4A	0.497305357128796
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	13	8		#FDAD4A	0.450472152475686
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	14	8		#FDAD4A	0.440225265900758
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	15	8		#FDAD4A	0.455355331304213
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	16	8		#FDAD4A	0.485388252807675
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	17	8	lexical	#FD913D	0.569456362122729
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	18	8		#FC622F	0.629392037285448
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	19	8		#FC622F	0.669975015869253
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	20	8		#FC622F	0.694899276928103
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	21	8	encoding	#F03623	0.70814378060992
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	22	8	retrieval	#FD913D	0.577112707627662
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	23	8	verbal	#FDAD4A	0.480854636257259
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	1	9	incentive|monetary|money|rewards	#FEE188	0.26488848019423
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	2	9	loss	#FDAD4A	0.407733301040822
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	3	9		#FDAD4A	0.464550463400879
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	4	9		#FD913D	0.509176158952173
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	5	9	decisionmaking	#FECB68	0.326548188741856
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	6	9		#FD913D	0.537972771881175
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	7	9		#FD913D	0.523375081040855
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	8	9		#FD913D	0.548298896014025
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	9	9		#FC622F	0.621920516127053
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	10	9		#FD913D	0.553353803481992
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	11	9		#FDAD4A	0.46474222162772
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	12	9		#FDAD4A	0.44360471912128
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	13	9	noun	#FECB68	0.343241303617284
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	14	9	meaning	#FD913D	0.504952769168384
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	15	9	english	#FDAD4A	0.463183105081313
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	16	9	pseudoword|pseudowords	#FDAD4A	0.436456968622378
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	17	9		#FD913D	0.549765267567976
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	18	9		#FC622F	0.62774941274192
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	19	9	familiar|judgment	#FD913D	0.592571075549759
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	20	9	pair|pairs	#FDAD4A	0.483559646123822
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	21	9		#FC622F	0.634219453647771
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	22	9		#FD913D	0.587529711768761
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	23	9	letter|working	#FD913D	0.524317502752158
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	1	10	losses|reinforcement|win	#FECB68	0.300038796800123
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	2	10	gain	#FEE188	0.227522237970704
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	3	10	expectation	#FDAD4A	0.49661745388668
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	4	10	risk	#FDAD4A	0.400561484998599
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	5	10	fact	#FC622F	0.604301540451728
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	6	10	associative	#FC622F	0.699920422361084
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	7	10	familiarity|judgments|old	#FDAD4A	0.444609838622984
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	8	10	contextual|text	#FDAD4A	0.418484038586681
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	9	10	recall|retrieved	#FC622F	0.6425240385238
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	10	10	conceptual|semantically	#FD913D	0.506567718131281
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	11	10	grammatical|speakers	#FFF1A9	0.143194606811406
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	12	10	nouns	#FECB68	0.398739869229014
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	13	10	japanese	#FECB68	0.357261760367716
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	14	10	languages	#FECB68	0.350828513722572
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	15	10	written	#FD913D	0.503660575260527
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	16	10	chinese|phonology	#FECB68	0.336556036747802
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	17	10	orthographic	#FC622F	0.601423361153863
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	18	10		#FC622F	0.629108998029798
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	19	10		#FC622F	0.616151600120744
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	20	10	association|decision	#FD913D	0.594077033273526
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	21	10	selection	#FD913D	0.55809170300229
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	22	10	letters	#F03623	0.708475533510393
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	23	10	demand|load	#FDAD4A	0.44425447473881
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	1	11	conditioned|conditioning	#FEE188	0.220338554427566
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	2	11		#FECB68	0.362127365821639
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	3	11	drug|placebo	#FDAD4A	0.463534106178781
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	4	11		#FC622F	0.690490532412784
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	5	11	associations	#FDAD4A	0.421839238418158
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	6	11		#D7141E	0.864412943784145
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	7	11	episodic|recollection	#FC622F	0.699976821762742
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	8	11		#D7141E	0.882440613989739
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	9	11		#F03623	0.742436349542979
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	10	11	concepts	#FD913D	0.512092066081093
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	11	11		#FDAD4A	0.482729482951854
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	12	11		#FDAD4A	0.468574176244216
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	13	11	german	#FDAD4A	0.496841354483153
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	14	11	readers	#FDAD4A	0.444924731422186
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	15	11	character|name|naming	#FDAD4A	0.48833399725844
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	16	11		#FD913D	0.581179833681455
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	17	11	novel	#FC622F	0.636798299156862
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	18	11		#FC622F	0.679534175311059
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	19	11	child|children	#FD913D	0.545047281020974
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	20	11	adults	#FC622F	0.699906646229975
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	21	11	ability|feedback|learning	#FD913D	0.570631161281115
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	22	11	cues|delay	#FC622F	0.678707045479671
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	23	11	attentional|difficulty|targets	#FD913D	0.595081827685545
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	1	12	aversive|shock	#FFF1A9	0.170301660561501
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	2	12	reactivity	#FECB68	0.327170069842782
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	3	12	males|sex|women	#FDAD4A	0.466413798867871
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	4	12	animal	#D7141E	0.803937193906868
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	5	12	animals	#D7141E	0.832440798624973
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	6	12		#B10026	0.933963984582714
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	7	12	remember|subsequent	#D7141E	0.813389028463651
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	8	12	autobiographical|memories	#D7141E	0.872110934138105
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	9	12		#F03623	0.705643005071222
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	10	12	violation|violations	#FEE188	0.25589608264137
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	11	12	aphasia	#FDAD4A	0.47131376996888
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	12	12	nonwords	#FECB68	0.366620763338229
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	13	12	dyslexia	#F03623	0.704506493367256
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	14	12		#FD913D	0.545126005213885
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	15	12	priming	#F03623	0.732231644264386
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	16	12		#FD913D	0.563986315871848
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	17	12	category|repetition	#FD913D	0.533208984038294
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	18	12		#FC622F	0.645835301909524
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	19	12	developmental|development	#F03623	0.732310703675062
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	20	12		#FC622F	0.650313497508504
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	21	12	space	#D7141E	0.825357987846988
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	22	12		#FD913D	0.542884905883657
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	23	12	color	#FDAD4A	0.446885004948898
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	1	13	threat	#FEE188	0.250341984279807
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	2	13	regulation	#FFF1A9	0.162885636844286
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	3	13		#FDAD4A	0.43844583304412
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	4	13	masked	#FECB68	0.347828452103884
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	5	13	scene|scenes	#F03623	0.737994187742072
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	6	13		#B10026	0.975915747276835
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	7	13	confidence|remembered	#F03623	0.785534783238611
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	8	13		#B10026	0.969877626284398
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	9	13		#F03623	0.734792131050298
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	10	13	ambiguity|ambiguous	#FDAD4A	0.49802980316518
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	11	13		#FD913D	0.563742701119619
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	12	13		#FD913D	0.555737739264076
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	13	13	writing	#FEE188	0.29280358056602
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	14	13		#FD913D	0.52751361249026
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	15	13	categorization|congruency|prime	#FECB68	0.335818282885207
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	16	13		#FD913D	0.544826684026514
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	17	13	mask	#FECB68	0.391825789140312
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	18	13		#FD913D	0.593937113325778
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	19	13		#FD913D	0.58583775079669
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	20	13		#FD913D	0.516184049487897
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	21	13	conflict|congruent|incongruent	#FECB68	0.303422347515038
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	22	13	errors	#FDAD4A	0.433707756188819
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	23	13	maintenance|probe|wm	#FECB68	0.367016381648789
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	1	14	angry|fearful|happy	#FFF1A9	0.152442296660043
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	2	14		#FEE188	0.204876399659303
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	3	14	awareness|conscious|ptsd	#FFF1A9	0.117620242095483
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	4	14		#FC622F	0.68156613341113
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	5	14	houses|photographs	#FD913D	0.580484621477529
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	6	14		#B10026	0.912771758983184
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	7	14	hits	#F03623	0.796333661813188
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	8	14	famous	#FD913D	0.584163791624233
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	9	14	names	#FECB68	0.349843598802037
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	10	14	family	#FC622F	0.622610725054681
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	11	14	competition|mouth	#FDAD4A	0.426977113345302
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	12	14	abilities	#FDAD4A	0.438755634690438
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	13	14	implicit|unfamiliar	#FDAD4A	0.445153215463484
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	14	14		#FD913D	0.500729406186978
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	15	14	tom	#FEE188	0.225440182112283
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	16	14		#FDAD4A	0.417638214999785
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	17	14		#FECB68	0.381823001043704
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	18	14	stop	#FEE188	0.286081553598066
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	19	14	inhibition|inhibitory|nogo	#FECB68	0.383193439612643
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	20	14	monitoring|stroop	#FFF1A9	0.193351576740856
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	21	14	interference	#FECB68	0.339003185774047
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	22	14		#FECB68	0.380133345451422
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	23	14	demands|executive	#FECB68	0.376931461555153
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	1	15	anger	#FFF1A9	0.150262863683151
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	2	15	stress	#FEE188	0.217046901855426
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	3	15	feelings	#FEE188	0.236876433893682
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	4	15	salient	#FECB68	0.393463512895863
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	5	15	novelty	#FD913D	0.5960536302173
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	6	15	movie	#FDAD4A	0.471622010346495
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	7	15		#D7141E	0.84917557525119
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	8	15		#D7141E	0.812096996183907
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	9	15	longterm	#FDAD4A	0.455235024562479
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	10	15		#FD913D	0.568891171093246
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	11	15	reasoning|relational	#FEE188	0.299343739484598
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	12	15		#FD913D	0.527184617749818
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	13	15	presentations	#FC622F	0.607575800808979
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	14	15		#FD913D	0.509838132144651
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	15	15	identity	#FDAD4A	0.404619615342702
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	16	15		#FECB68	0.386592693501452
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	17	15	strategies|strategy	#FECB68	0.310049972629949
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	18	15	card|cards	#FFF1A9	0.179992881524249
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	19	15	gonogo	#FEE188	0.223949406673543
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	20	15		#FECB68	0.354617184523304
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	21	15	switching|switch	#FEE188	0.277450182580062
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	22	15		#FECB68	0.383250564512602
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	23	15	2back|rule	#FDAD4A	0.435589364244178
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	1	16	emotionally|mood|personality|sadness	#FFF1A9	0.148802114790497
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	2	16	disgust|sexual	#FFF1A9	0.18816439701897
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	3	16	olfactory	#FFF1A9	0.135882651176702
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	4	16	physiological	#FFF1A9	0.187644103775287
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	5	16	depressed|depressive|habituation	#FEE188	0.214362922352423
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	6	16	schizophrenic	#FDAD4A	0.464599751944425
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	7	16	colors|contexts	#FDAD4A	0.446391819130937
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	8	16	aging|encoded	#FC622F	0.611227807504996
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	9	16	goal	#FD913D	0.523501772980645
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	10	16		#FD913D	0.506718334325361
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	11	16	autism|autistic|nonverbal	#FEE188	0.218682841319292
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	12	16		#FD913D	0.508265474892852
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	13	16	bottomup|repetitions	#FDAD4A	0.440127755136279
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	14	16	adaptation	#FDAD4A	0.455117814278045
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	15	16	irrelevant	#FEE188	0.266826285328942
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	16	16	distractor|distractors	#FECB68	0.300252365304825
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	17	16		#FDAD4A	0.400481551614101
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	18	16	subtraction	#FECB68	0.369975781339775
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	19	16	1back|nback	#FDAD4A	0.411826989391162
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	20	16	manipulation|rules	#FD913D	0.512288752384288
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	21	16		#FDAD4A	0.436591068079045
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	22	16		#FDAD4A	0.406891298867293
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	23	16	digit	#FDAD4A	0.420504960340516
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	1	17	avoidance	#FEE188	0.273841986682281
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	2	17		#FECB68	0.391917866111831
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	3	17	eating|food	#FFF1A9	0.117395914419365
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	4	17	taste	#FFF1A9	0.124820555805666
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	5	17	bipolar	#FEE188	0.221790310515606
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	6	17	illness|uncertainty	#FFFFCC	0.0678861557111397
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	7	17	females|probabilistic	#FECB68	0.336281211429127
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	8	17	rejection	#FFFFCC	0.0314512904453381
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	9	17	colour|paired	#FD913D	0.553040200806053
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	10	17		#FD913D	0.532218505781637
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	11	17		#FD913D	0.559980424496168
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	12	17		#FD913D	0.502725131552185
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	13	17	taskirrelevant	#FFF1A9	0.191630504909124
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	14	17		#FD913D	0.519739125571852
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	15	17	suppression	#FEE188	0.287436738105449
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	16	17		#FD913D	0.54274786906972
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	17	17	shifting|shortterm	#FECB68	0.330398722297837
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	18	17	digits	#FD913D	0.597527846977812
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	19	17	search	#FD913D	0.54555924698513
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	20	17	counting|taskrelated	#FDAD4A	0.433396174136403
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	21	17	topdown	#FECB68	0.311184459682409
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	22	17	visuospatial	#FD913D	0.585758842012092
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	23	17	arithmetic|calculation|solving	#FECB68	0.338916933654378
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	1	18	addiction|craving|drugs	#FDAD4A	0.417554309672337
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	2	18	allele|genotype|polymorphism	#FDAD4A	0.444460385219884
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	3	18	motivation	#FFF1A9	0.151641477760497
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	4	18	heart	#FEE188	0.250216720454585
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	5	18	sleep	#FC622F	0.610082271574941
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	6	18	expectancy	#FECB68	0.380375095048658
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	7	18	phasic|salience	#FFFFCC	0
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	8	18	adolescence|adolescents	#FDAD4A	0.440577604372606
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	9	18	intelligence|tracking	#FDAD4A	0.475744992471122
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	10	18		#FD913D	0.51288336907816
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	11	18	serial	#FEE188	0.245638216159489
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	12	18		#FDAD4A	0.465810750215137
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	13	18	spatially|taskrelevant	#FDAD4A	0.41754402570439
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	14	18		#FD913D	0.532756385359256
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	15	18	attended|attend|unattended	#FECB68	0.383833169589744
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	16	18	rotation|shapes	#FC622F	0.680621469301202
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	17	18	rehearsal	#FECB68	0.343814768084853
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	18	18	learned	#FEE188	0.28617741859847
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	19	18		#FC622F	0.676455894578697
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	20	18	cued|preparatory	#FC622F	0.645479534336285
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	21	18		#FD913D	0.58710320166688
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	22	18		#FDAD4A	0.474131156456857
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	23	18	numbers|numerical	#FECB68	0.308364924969394
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	1	19	future	#FC622F	0.620436358675375
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	2	19	negatively	#FFF1A9	0.1678337213115
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	3	19	distress|epilepsy|selfreported	#FC622F	0.63896555261801
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	4	19	anticipatory|cocaine|probabilities|smoking	#D7141E	0.863635970521706
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	5	19	alcohol|amount|impulsivity	#FD913D	0.579745301452222
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	6	19	game|success	#FDAD4A	0.416792045509113
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	7	19	adhd|childhood|engagement	#FECB68	0.345189576701798
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	8	19		#FDAD4A	0.448087973437416
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	9	19		#FD913D	0.509031152279621
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	10	19		#FD913D	0.511279343068757
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	11	19		#FD913D	0.526449981987492
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	12	19	endogenous	#FC622F	0.662180067506535
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	13	19	cueing|invalid|orienting	#FEE188	0.286477088811606
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	14	19		#FD913D	0.592128563465656
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	15	19	multisensory	#FC622F	0.654233436011623
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	16	19		#FC622F	0.645506421413719
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	17	19	shifts	#F03623	0.747999332958955
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	18	19	covert	#FC622F	0.681285817577114
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	19	19		#F03623	0.772927651651659
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	20	19	preparation	#F03623	0.705708487045131
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	21	19	discrimination|training	#FDAD4A	0.443223784729328
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	22	19	sequences	#FDAD4A	0.470678983538282
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	23	19		#F03623	0.779252722370035
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	1	20	personal|self|selfreferential|trait|traits	#FEE188	0.25458691453337
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	2	20	empathic|theory	#FFF1A9	0.11114645124757
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	3	20	attribution|intentional	#FFFFCC	0.0637491711720835
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	4	20	elderly|oscillations	#FC622F	0.64216754932993
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	5	20	antipsychotic|virtual	#FDAD4A	0.43612008262365
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	6	20		#FD913D	0.595389258865462
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	7	20	experiences	#FEE188	0.234007915384817
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	8	20	categorical|pressure	#FDAD4A	0.435838764442746
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	9	20	play|skills	#FD913D	0.509086308370934
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	10	20	automatic|trained	#FFF1A9	0.148207598304119
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	11	20		#F03623	0.713138860498042
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	12	20	practice	#FD913D	0.587800079262021
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	13	20	visuomotor	#D7141E	0.88850003304616
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	14	20		#F03623	0.78751048221828
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	15	20	tool	#FECB68	0.365005076583887
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	16	20	vision	#FC622F	0.64373053267878
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	17	20	visually	#D7141E	0.818515643455466
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	18	20	saccade|saccades|saccadic	#F03623	0.769755792482082
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	19	20	locations	#B10026	0.960461496745245
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	20	20	imagery|planning	#F03623	0.716683469408642
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	21	20		#F03623	0.764556191669277
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	22	20	rest	#F03623	0.770868975607987
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	23	20	sequence	#F03623	0.743610776132431
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	1	21	scenarios	#FFFFCC	0.0482150843928446
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	2	21	intention|intentions	#FFF1A9	0.155970669363461
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	3	21	causality|perspective	#FFF1A9	0.138873137579857
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	4	21	past	#FDAD4A	0.472697885193317
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	5	21		#FD913D	0.571913412646481
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	6	21	episode	#FEE188	0.229707931780931
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	7	21	improvement	#FC622F	0.672014878703013
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	8	21	masking|retention	#FFFFCC	0.0845710890201292
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	9	21		#F03623	0.75955152073061
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	10	21	dominant	#FC622F	0.650628284213285
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	11	21		#B10026	0.932152636963724
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	12	21	sequential	#F03623	0.723092644138692
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	13	21	fingers	#D7141E	0.872452560684677
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	14	21		#FC622F	0.606640847061376
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	15	21	gesture|gestures	#FFF1A9	0.121059912886133
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	16	21		#F03623	0.720408159501316
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	17	21	hands	#D7141E	0.834814289034172
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	18	21		#B10026	0.955840818500811
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	19	21		#D7141E	0.869486703419347
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	20	21	eye|position	#B10026	0.9266631559597
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	21	21	execution	#D7141E	0.820756386654436
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	22	21	finger|sensorimotor	#B10026	0.990144428237888
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	23	21		#D7141E	0.869371543768593
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	1	22	moral|stories|story	#FFFFCC	0.0387153504028613
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	2	22	mentalizing|persons	#FFF1A9	0.198258848161283
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	3	22	default|restingstate	#FEE188	0.282158080330245
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	4	22	thinking|thought|thoughts	#FECB68	0.385097550705544
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	5	22	spontaneous	#FEE188	0.232482765299174
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	6	22	concentration|sensations	#FDAD4A	0.404725632856313
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	7	22	hierarchical|preference	#FDAD4A	0.448897850145604
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	8	22	effort|oral|simulation	#FC622F	0.645359876882003
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	9	22	interhemispheric|plasticity	#FD913D	0.591906818846266
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	10	22	imagined|imagine	#F03623	0.769454225614006
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	11	22	tapping	#F03623	0.748479645176894
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	12	22	foot|muscle|muscles|voluntary	#B10026	0.990578299804875
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	13	22	limb	#B10026	0.971134840228469
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	14	22	eyes|velocity	#FC622F	0.610483122713551
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	15	22	biological|gaze|videos	#FEE188	0.274579514747515
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	16	22	body	#FD913D	0.5331737764829
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	17	22	grasping|orientation|reaching	#B10026	1
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	18	22		#B10026	0.934108709497861
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	19	22	mirror|shape	#FC622F	0.611106787987397
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	20	22	actions	#FC622F	0.631612542054236
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	21	22	action	#FC622F	0.639627154085425
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	22	22		#D7141E	0.86792426889697
+56370afd-9147-3a2d-a40d-4b5de461ddad	Bookheimer S	23	22	hand|movements|sensory	#F03623	0.768442756801157

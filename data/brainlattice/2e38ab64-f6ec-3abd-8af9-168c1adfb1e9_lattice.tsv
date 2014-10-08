@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	1	1	auditory|speech	#FECB68	0.376240728703307
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	2	1		#FECB68	0.355132150340202
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	3	1	da|integration	#FDAD4A	0.470450953013757
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	4	1		#FECB68	0.364819524211588
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	5	1	physical|psychophysical|tactile	#FFF1A9	0.157757166888341
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	6	1		#FFF1A9	0.159718300123438
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	7	1	somatosensory|stimulation	#FFF1A9	0.13527000295018
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	8	1	painful|pain	#FFFFCC	0.0101415841872579
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	9	1		#FFFFCC	0.0481474291562728
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	10	1	ratings	#FFF1A9	0.148366995370226
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	11	1	affective|affect	#FEE188	0.238045263647487
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	12	1	emotions	#FEE188	0.210998497071407
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	13	1	expression|expressions|facial	#FFF1A9	0.194794686529879
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	14	1		#FEE188	0.225902882729896
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	15	1		#FEE188	0.23195531007369
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	16	1	emotion|motion|neutral	#FEE188	0.204328972818608
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	17	1	rating	#FFF1A9	0.185823895479679
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	18	1	negative|positive	#FEE188	0.283472828594151
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	19	1		#FDAD4A	0.405979802734344
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	20	1	ear|order	#FD913D	0.506076175328697
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	21	1	motor	#FECB68	0.369424446959907
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	22	1	visual	#FDAD4A	0.470679492769308
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	23	1	age|image|response	#FDAD4A	0.449913324938987
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	1	2	sound|sounds	#FEE188	0.259347891781312
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	2	2		#FECB68	0.340478501949108
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	3	2	audiovisual|bimodal|crossmodal	#FEE188	0.264503536675579
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	4	2		#FECB68	0.388854809335605
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	5	2		#FEE188	0.299064416259224
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	6	2		#FEE188	0.200683239055868
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	7	2	sensation	#FFFFCC	0
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	8	2	heat|noxious	#FFFFCC	0.0188495876942917
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	9	2		#FFFFCC	0.0605827820490095
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	10	2		#FFF1A9	0.160631971825634
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	11	2		#FFF1A9	0.181546005107581
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	12	2	valence	#FFF1A9	0.156507216510517
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	13	2	person|social	#FFF1A9	0.142875138820564
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	14	2		#FEE188	0.247290127255551
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	15	2	face|faces	#FEE188	0.238551730771084
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	16	2		#FEE188	0.273989962424626
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	17	2		#FEE188	0.298902617545318
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	18	2		#FECB68	0.371250839920768
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	19	2		#FDAD4A	0.439674767168779
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	20	2		#FDAD4A	0.470038203108877
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	21	2	images|spatial	#FDAD4A	0.445726978712671
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	22	2	control	#FDAD4A	0.473391663268841
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	23	2	time	#FDAD4A	0.461244248594565
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	1	3	acoustic|listening|musical|music|pitch	#FEE188	0.272796346723775
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	2	3	noise|tones	#FEE188	0.257585050482205
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	3	3		#FDAD4A	0.448096102812455
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	4	3		#FD913D	0.517339411744847
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	5	3	frequency	#FDAD4A	0.449428997059086
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	6	3		#FECB68	0.388054307346923
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	7	3		#FFFFCC	0.0937735391872475
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	8	3	temperature	#FFFFCC	0.0585430518829352
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	9	3		#FFFFCC	0.0821661193979423
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	10	3	pleasant|unpleasant	#FFF1A9	0.116937681177496
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	11	3	anxiety	#FFF1A9	0.146802190380339
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	12	3		#FEE188	0.274937220874916
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	13	3		#FECB68	0.342886171188206
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	14	3		#FECB68	0.330547534174967
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	15	3		#FECB68	0.348983880717314
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	16	3	picture	#FDAD4A	0.409675847858393
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	17	3		#FECB68	0.369733329811883
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	18	3	value	#FDAD4A	0.423450752348763
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	19	3	cue	#FDAD4A	0.4628836107604
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	20	3	error|target	#FD913D	0.509165928469038
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	21	3	attention	#FDAD4A	0.482189648200688
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	22	3		#FD913D	0.568375615832735
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	23	3	number	#FD913D	0.596836268321219
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	1	4	voice	#FEE188	0.227234826652946
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	2	4		#FECB68	0.38237635666476
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	3	4	hearing	#FDAD4A	0.418127111963649
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	4	4		#FD913D	0.527466850544277
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	5	4	overt	#FC622F	0.603711977913595
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	6	4		#FDAD4A	0.43682551369036
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	7	4		#FFF1A9	0.141969185902221
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	8	4	nociceptive|nonpainful|painrelated	#FFFFCC	0.013499200692527
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	9	4	unpleasantness	#FFFFCC	0.0619247113005895
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	10	4	skin|subjective	#FFF1A9	0.180899295828643
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	11	4	depression	#FECB68	0.331987305314939
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	12	4	experience	#FECB68	0.305062044397699
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	13	4	female	#FDAD4A	0.418228698146934
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	14	4	male	#FDAD4A	0.432778309846006
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	15	4	pictures	#FDAD4A	0.405456638104367
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	16	4		#FDAD4A	0.449327215744468
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	17	4	perception	#FECB68	0.373501429285931
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	18	4		#FD913D	0.550510204393153
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	19	4		#FD913D	0.565955844415961
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	20	4		#FD913D	0.578089271084026
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	21	4	correct	#FC622F	0.619195015791838
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	22	4	work	#FC622F	0.633085883351653
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	23	4	memory	#FD913D	0.591597835137833
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	1	5	prosodic|prosody	#FEE188	0.286485626714658
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	2	5	phonetic	#FEE188	0.289991497265335
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	3	5	syllable|syllables	#FC622F	0.629261987953042
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	4	5		#FD913D	0.515754510178089
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	5	5	lip|production	#FECB68	0.340216517306855
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	6	5	somatotopic	#FFF1A9	0.169059268526797
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	7	5		#FEE188	0.20529910182519
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	8	5		#FFF1A9	0.128272192101761
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	9	5	empathy	#FFF1A9	0.163617052423648
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	10	5		#FECB68	0.339606187186873
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	11	5	disorder	#FEE188	0.276659210076014
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	12	5		#FDAD4A	0.471815090779216
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	13	5		#FD913D	0.539330987534135
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	14	5		#FD913D	0.578948659534697
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	15	5		#FD913D	0.573149050452083
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	16	5		#FD913D	0.58635550363078
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	17	5		#FC622F	0.635054180081975
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	18	5	mental	#FC622F	0.605003269626845
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	19	5	go	#FC622F	0.625221140858531
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	20	5	object	#FD913D	0.600009369348392
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	21	5		#F03623	0.702304903082696
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	22	5		#F03623	0.72261493828182
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	23	5	word|words	#F03623	0.724937957674276
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	1	6		#FECB68	0.337012960907513
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	2	6		#FECB68	0.391985336665303
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	3	6		#FDAD4A	0.458003100089216
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	4	6	vocal	#FECB68	0.331526812342604
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	5	6	articulatory	#FECB68	0.352712948171939
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	6	6		#FDAD4A	0.427194676632362
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	7	6	oddball	#FFF1A9	0.1626673827479
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	8	6	perceived	#FFF1A9	0.171661320542016
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	9	6	errorrelated	#FFF1A9	0.180060744379075
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	10	6	approach	#FECB68	0.332141096012612
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	11	6	schizophrenia	#FDAD4A	0.44416101374516
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	12	6	acquisition	#FD913D	0.569492355626397
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	13	6		#FC622F	0.627981039753695
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	14	6		#FC622F	0.629639691362077
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	15	6		#FC622F	0.636949387730748
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	16	6		#FC622F	0.662620530013726
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	17	6		#F03623	0.767645690863728
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	18	6		#F03623	0.766134995724336
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	19	6		#F03623	0.74545677896296
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	20	6	objects	#F03623	0.717514460939006
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	21	6		#F03623	0.753947120326239
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	22	6		#F03623	0.786336711363081
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	23	6	language|semantic	#F03623	0.769148298519668
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	1	7	dopamine|dopaminergic	#FFF1A9	0.158361990725158
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	2	7		#FFF1A9	0.173020873556484
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	3	7		#FECB68	0.347955917156164
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	4	7		#FDAD4A	0.427858635558829
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	5	7		#FDAD4A	0.467802166109467
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	6	7		#FD913D	0.531015290905547
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	7	7		#FDAD4A	0.48284834547404
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	8	7		#FDAD4A	0.458702333991275
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	9	7		#FDAD4A	0.440185555436224
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	10	7		#FC622F	0.640268332153327
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	11	7		#FC622F	0.693242078834051
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	12	7		#F03623	0.726901529139208
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	13	7	linguistic|spoken	#FC622F	0.636733424922805
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	14	7		#FC622F	0.642625039940466
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	15	7	comprehension|sentence|sentences|syntactic	#FD913D	0.567454522036443
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	16	7		#F03623	0.716783872125883
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	17	7		#D7141E	0.807600649604311
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	18	7	phonological|reading|read	#D7141E	0.805172345230092
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	19	7		#F03623	0.775844710404514
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	20	7	perceptual|recognition	#FC622F	0.641360870412755
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	21	7		#F03623	0.769957433832525
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	22	7		#F03623	0.799446440593183
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	23	7	verb	#D7141E	0.803683983540808
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	1	8	outcome|reward	#FFF1A9	0.132505239805551
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	2	8	anticipation	#FFF1A9	0.10134789152722
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	3	8	outcomes	#FFF1A9	0.166837486256258
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	4	8	choice|choices	#FECB68	0.309499485610251
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	5	8	decisions|probability	#FDAD4A	0.415957200512155
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	6	8	reversal	#FDAD4A	0.425606637670297
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	7	8	classification|incorrect	#FDAD4A	0.47102290704358
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	8	8		#FC622F	0.622153532538499
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	9	8	agerelated|fluency|probes	#FC622F	0.646873320090991
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	10	8	engaged	#F03623	0.783399338251909
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	11	8	explicit|knowledge	#FC622F	0.691846779226508
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	12	8		#F03623	0.795715238607777
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	13	8		#F03623	0.723522030731566
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	14	8		#FC622F	0.700061882449505
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	15	8		#F03623	0.722320933805131
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	16	8		#F03623	0.770650354066355
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	17	8	lexical	#D7141E	0.860651450723237
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	18	8		#D7141E	0.801045713754559
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	19	8		#F03623	0.756398047688843
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	20	8		#F03623	0.71958188477282
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	21	8	encoding	#FC622F	0.699482413400006
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	22	8	retrieval	#F03623	0.701728081852659
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	23	8	verbal	#D7141E	0.804290870827924
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	1	9	incentive|monetary|money|rewards	#FFFFCC	0.0574805882928518
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	2	9	loss	#FFF1A9	0.104503670206591
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	3	9		#FEE188	0.250830549301344
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	4	9		#FECB68	0.327376038566648
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	5	9	decisionmaking	#FECB68	0.332247491511233
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	6	9		#FD913D	0.555193318819476
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	7	9		#FD913D	0.597037038520565
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	8	9		#FC622F	0.671394400384169
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	9	9		#D7141E	0.804637223311805
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	10	9		#D7141E	0.862146574142129
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	11	9		#D7141E	0.867934582260012
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	12	9		#D7141E	0.859418494635287
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	13	9	noun	#F03623	0.74736704994503
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	14	9	meaning	#FC622F	0.658894927603918
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	15	9	english	#D7141E	0.856677417157292
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	16	9	pseudoword|pseudowords	#F03623	0.746341164659912
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	17	9		#D7141E	0.833874851506607
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	18	9		#F03623	0.775531920856383
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	19	9	familiar|judgment	#FC622F	0.644748624061449
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	20	9	pair|pairs	#FC622F	0.621305475634551
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	21	9		#FC622F	0.693058814358616
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	22	9		#F03623	0.754094286436799
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	23	9	letter|working	#F03623	0.767209552097457
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	1	10	losses|reinforcement|win	#FFF1A9	0.116951287906552
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	2	10	gain	#FFFFCC	0.0244495193307049
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	3	10	expectation	#FFF1A9	0.188336979927335
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	4	10	risk	#FECB68	0.33910923693024
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	5	10	fact	#FECB68	0.349103266082212
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	6	10	associative	#FDAD4A	0.420130046725001
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	7	10	familiarity|judgments|old	#FC622F	0.661047762829623
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	8	10	contextual|text	#FD913D	0.598487384372571
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	9	10	recall|retrieved	#F03623	0.795981783292407
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	10	10	conceptual|semantically	#B10026	1
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	11	10	grammatical|speakers	#F03623	0.746998395241883
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	12	10	nouns	#D7141E	0.857715755265662
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	13	10	japanese	#F03623	0.793574261329481
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	14	10	languages	#F03623	0.783458648674981
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	15	10	written	#D7141E	0.803048740231122
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	16	10	chinese|phonology	#F03623	0.794376055835266
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	17	10	orthographic	#D7141E	0.865990830505152
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	18	10		#F03623	0.715058192073509
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	19	10		#FC622F	0.64131164322253
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	20	10	association|decision	#FD913D	0.561866850413434
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	21	10	selection	#FC622F	0.670505729805389
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	22	10	letters	#F03623	0.784824810032339
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	23	10	demand|load	#FC622F	0.621808637230546
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	1	11	conditioned|conditioning	#FFFFCC	0.0248901720337886
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	2	11		#FFF1A9	0.117203670187433
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	3	11	drug|placebo	#FFF1A9	0.184449532566481
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	4	11		#FECB68	0.39318699670515
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	5	11	associations	#FECB68	0.322845923772139
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	6	11		#FD913D	0.587878507519958
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	7	11	episodic|recollection	#FDAD4A	0.418971891891791
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	8	11		#F03623	0.701229061438126
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	9	11		#B10026	0.905307654245108
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	10	11	concepts	#B10026	0.922375796103118
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	11	11		#D7141E	0.844534594124916
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	12	11		#D7141E	0.836518584297906
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	13	11	german	#F03623	0.716619945624096
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	14	11	readers	#FD913D	0.554938101607549
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	15	11	character|name|naming	#D7141E	0.846598688594737
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	16	11		#D7141E	0.839350162528051
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	17	11	novel	#F03623	0.766621264060547
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	18	11		#F03623	0.719518535805393
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	19	11	child|children	#FD913D	0.514410352765284
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	20	11	adults	#FC622F	0.638605856195574
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	21	11	ability|feedback|learning	#FD913D	0.534889178334298
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	22	11	cues|delay	#FD913D	0.52570252848905
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	23	11	attentional|difficulty|targets	#FD913D	0.548069622446678
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	1	12	aversive|shock	#FFFFCC	0.0160381553593576
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	2	12	reactivity	#FFFFCC	0.0764617773388573
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	3	12	males|sex|women	#FDAD4A	0.429021021129184
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	4	12	animal	#FEE188	0.274706197699175
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	5	12	animals	#FD913D	0.533389696281486
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	6	12		#FD913D	0.543305408314872
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	7	12	remember|subsequent	#FC622F	0.674341811056595
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	8	12	autobiographical|memories	#FEE188	0.275348527993862
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	9	12		#D7141E	0.8123336052756
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	10	12	violation|violations	#FECB68	0.309428242570978
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	11	12	aphasia	#FC622F	0.657956428531628
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	12	12	nonwords	#FD913D	0.540656648771555
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	13	12	dyslexia	#FD913D	0.517945654807242
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	14	12		#D7141E	0.831008649223364
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	15	12	priming	#D7141E	0.800858520162264
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	16	12		#D7141E	0.834428784812863
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	17	12	category|repetition	#F03623	0.729590874312038
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	18	12		#F03623	0.719878505816828
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	19	12	developmental|development	#FC622F	0.621361744204836
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	20	12		#FC622F	0.668345034250679
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	21	12	space	#FC622F	0.627034418918631
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	22	12		#FC622F	0.660447289736831
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	23	12	color	#FD913D	0.567827099235121
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	1	13	threat	#FFFFCC	0.0528268647788663
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	2	13	regulation	#FFFFCC	0.0950652098856408
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	3	13		#FEE188	0.240690970814152
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	4	13	masked	#FD913D	0.554568190026857
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	5	13	scene|scenes	#FFF1A9	0.1792419297517
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	6	13		#FD913D	0.590600470870388
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	7	13	confidence|remembered	#F03623	0.793750874303114
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	8	13		#F03623	0.74774645075717
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	9	13		#F03623	0.725898960309402
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	10	13	ambiguity|ambiguous	#FDAD4A	0.461931245491756
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	11	13		#FC622F	0.669242955170878
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	12	13		#F03623	0.703985801104217
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	13	13	writing	#FD913D	0.569661828025342
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	14	13		#F03623	0.766767950644521
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	15	13	categorization|congruency|prime	#D7141E	0.885933507577337
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	16	13		#F03623	0.786940220346398
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	17	13	mask	#F03623	0.747752602726364
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	18	13		#FC622F	0.690052461374187
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	19	13		#FD913D	0.592812886225549
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	20	13		#FC622F	0.655471297258324
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	21	13	conflict|congruent|incongruent	#FC622F	0.652249665592019
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	22	13	errors	#FD913D	0.593333405781189
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	23	13	maintenance|probe|wm	#FC622F	0.646694729694804
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	1	14	angry|fearful|happy	#FFF1A9	0.100346410157787
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	2	14		#FFF1A9	0.12627268214317
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	3	14	awareness|conscious|ptsd	#FFF1A9	0.147132858804074
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	4	14		#FECB68	0.315523789611691
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	5	14	houses|photographs	#FFF1A9	0.15933956719423
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	6	14		#FD913D	0.564614499330996
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	7	14	hits	#FC622F	0.699001807912736
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	8	14	famous	#FEE188	0.199476139165235
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	9	14	names	#FDAD4A	0.477740401720506
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	10	14	family	#FDAD4A	0.42015820904517
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	11	14	competition|mouth	#FD913D	0.532089318173983
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	12	14	abilities	#FD913D	0.527776558319257
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	13	14	implicit|unfamiliar	#FD913D	0.58097903735387
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	14	14		#F03623	0.713133841068187
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	15	14	tom	#FD913D	0.513573005799098
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	16	14		#F03623	0.733793986606892
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	17	14		#F03623	0.724954462430218
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	18	14	stop	#FDAD4A	0.494971709880937
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	19	14	inhibition|inhibitory|nogo	#FECB68	0.332407663116419
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	20	14	monitoring|stroop	#FD913D	0.531902614298481
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	21	14	interference	#F03623	0.728648227248606
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	22	14		#FC622F	0.700298128532879
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	23	14	demands|executive	#FC622F	0.698818576841405
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	1	15	anger	#FFFFCC	0.0600541133198733
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	2	15	stress	#FFFFCC	0.0670402695641524
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	3	15	feelings	#FFFFCC	0.095681677079428
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	4	15	salient	#FEE188	0.237389298439379
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	5	15	novelty	#FEE188	0.222736779034033
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	6	15	movie	#FDAD4A	0.457201416964988
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	7	15		#D7141E	0.805063098231275
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	8	15		#D7141E	0.819949205192465
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	9	15	longterm	#FD913D	0.583486894454939
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	10	15		#FC622F	0.659569117253057
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	11	15	reasoning|relational	#FC622F	0.648053350292496
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	12	15		#F03623	0.725304383064192
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	13	15	presentations	#FC622F	0.623728898719812
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	14	15		#FC622F	0.678525476784684
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	15	15	identity	#FECB68	0.39097031397956
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	16	15		#FC622F	0.654983813454709
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	17	15	strategies|strategy	#FC622F	0.67095016632979
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	18	15	card|cards	#FC622F	0.622128820807615
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	19	15	gonogo	#FEE188	0.295928161925841
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	20	15		#FD913D	0.592894449757203
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	21	15	switching|switch	#FD913D	0.576289875680861
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	22	15		#F03623	0.704123678580277
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	23	15	2back|rule	#F03623	0.713340811127237
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	1	16	emotionally|mood|personality|sadness	#FFFFCC	0.00257434293574811
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	2	16	disgust|sexual	#FFFFCC	0.0663032038459168
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	3	16	olfactory	#FFF1A9	0.108900905670484
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	4	16	physiological	#FFF1A9	0.159106745148055
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	5	16	depressed|depressive|habituation	#FFF1A9	0.193806102505534
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	6	16	schizophrenic	#FC622F	0.628431947476179
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	7	16	colors|contexts	#F03623	0.700415441684998
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	8	16	aging|encoded	#D7141E	0.866349362993216
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	9	16	goal	#FD913D	0.500173512605356
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	10	16		#FC622F	0.643555400290224
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	11	16	autism|autistic|nonverbal	#FDAD4A	0.423934847716043
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	12	16		#FC622F	0.698867758363903
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	13	16	bottomup|repetitions	#F03623	0.782262090515733
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	14	16	adaptation	#FDAD4A	0.477421854877362
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	15	16	irrelevant	#FD913D	0.529489370451997
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	16	16	distractor|distractors	#FC622F	0.646770834133516
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	17	16		#F03623	0.731104478533612
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	18	16	subtraction	#FC622F	0.626399802268719
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	19	16	1back|nback	#FDAD4A	0.492132556790144
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	20	16	manipulation|rules	#F03623	0.784119650453252
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	21	16		#F03623	0.704632005029971
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	22	16		#F03623	0.763587063859654
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	23	16	digit	#FC622F	0.691799005769076
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	1	17	avoidance	#FFFFCC	0.0231130623860026
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	2	17		#FFF1A9	0.10503734464976
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	3	17	eating|food	#FFFFCC	0.0646167457847836
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	4	17	taste	#FFFFCC	0.0648930075666955
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	5	17	bipolar	#FFF1A9	0.194611630677055
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	6	17	illness|uncertainty	#FECB68	0.303950439557693
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	7	17	females|probabilistic	#FC622F	0.686573773945173
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	8	17	rejection	#FC622F	0.616868250387544
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	9	17	colour|paired	#FD913D	0.574645136153091
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	10	17		#FC622F	0.667584737342744
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	11	17		#FC622F	0.65124346176538
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	12	17		#F03623	0.70259198230268
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	13	17	taskirrelevant	#FDAD4A	0.435696322052075
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	14	17		#FC622F	0.600841689982093
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	15	17	suppression	#FD913D	0.539426860076579
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	16	17		#FC622F	0.633138439697059
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	17	17	shifting|shortterm	#FC622F	0.654990882711139
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	18	17	digits	#F03623	0.722218390452651
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	19	17	search	#FC622F	0.624695885260089
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	20	17	counting|taskrelated	#FC622F	0.652624502667649
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	21	17	topdown	#FC622F	0.616956064032538
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	22	17	visuospatial	#FC622F	0.629691766140084
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	23	17	arithmetic|calculation|solving	#D7141E	0.859566802948457
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	1	18	addiction|craving|drugs	#FFFFCC	0.092785587555381
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	2	18	allele|genotype|polymorphism	#FFF1A9	0.116899602945295
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	3	18	motivation	#FEE188	0.217307747109194
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	4	18	heart	#FFF1A9	0.1744266305064
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	5	18	sleep	#FFF1A9	0.109086431310743
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	6	18	expectancy	#FEE188	0.283543610512251
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	7	18	phasic|salience	#FFFFCC	0.0915694168247916
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	8	18	adolescence|adolescents	#FECB68	0.318880681826389
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	9	18	intelligence|tracking	#FEE188	0.2465753831164
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	10	18		#FC622F	0.627495801270894
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	11	18	serial	#FC622F	0.660917057582097
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	12	18		#FC622F	0.607235543818506
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	13	18	spatially|taskrelevant	#FD913D	0.509132537774499
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	14	18		#FD913D	0.529343622397523
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	15	18	attended|attend|unattended	#FDAD4A	0.442566791091959
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	16	18	rotation|shapes	#FDAD4A	0.441877818417032
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	17	18	rehearsal	#D7141E	0.845866420115136
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	18	18	learned	#FECB68	0.35597488190846
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	19	18		#FD913D	0.593066706603778
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	20	18	cued|preparatory	#FDAD4A	0.48769183334654
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	21	18		#FC622F	0.627543818579812
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	22	18		#F03623	0.751809665622103
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	23	18	numbers|numerical	#FC622F	0.672035287744635
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	1	19	future	#FFFFCC	0.0577594887323628
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	2	19	negatively	#FEE188	0.199817222841949
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	3	19	distress|epilepsy|selfreported	#FFF1A9	0.167865208155747
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	4	19	anticipatory|cocaine|probabilities|smoking	#FFF1A9	0.148228179851291
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	5	19	alcohol|amount|impulsivity	#FEE188	0.252964739077135
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	6	19	game|success	#FEE188	0.264869108093047
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	7	19	adhd|childhood|engagement	#FFF1A9	0.191009563440712
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	8	19		#FECB68	0.341087007589878
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	9	19		#FECB68	0.390686621631726
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	10	19		#FD913D	0.566133543574494
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	11	19		#FC622F	0.620365908564578
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	12	19	endogenous	#FD913D	0.571715918146088
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	13	19	cueing|invalid|orienting	#FEE188	0.217562669664342
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	14	19		#FD913D	0.555978827793596
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	15	19	multisensory	#FD913D	0.525568492564934
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	16	19		#FD913D	0.594590376912677
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	17	19	shifts	#FD913D	0.508109849637093
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	18	19	covert	#FD913D	0.539665284854342
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	19	19		#FD913D	0.528517825803509
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	20	19	preparation	#FECB68	0.378410278680268
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	21	19	discrimination|training	#FD913D	0.59592760582696
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	22	19	sequences	#FDAD4A	0.460170021906843
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	23	19		#FD913D	0.522266712446176
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	1	20	personal|self|selfreferential|trait|traits	#FFFFCC	0.0377108804520145
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	2	20	empathic|theory	#FFFFCC	0.0977042642482609
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	3	20	attribution|intentional	#FFFFCC	0.0696196013700543
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	4	20	elderly|oscillations	#FFF1A9	0.112345079022864
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	5	20	antipsychotic|virtual	#FEE188	0.227804880591325
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	6	20		#FECB68	0.318357672522983
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	7	20	experiences	#FEE188	0.263842051356732
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	8	20	categorical|pressure	#FEE188	0.203185046252431
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	9	20	play|skills	#FFFFCC	0.0840227017886104
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	10	20	automatic|trained	#FDAD4A	0.454753023830433
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	11	20		#FDAD4A	0.46765844126385
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	12	20	practice	#FECB68	0.375820632015992
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	13	20	visuomotor	#FEE188	0.276031401148537
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	14	20		#FDAD4A	0.487268436580146
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	15	20	tool	#FD913D	0.55937623731865
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	16	20	vision	#FECB68	0.349498146124436
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	17	20	visually	#FDAD4A	0.484401517641046
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	18	20	saccade|saccades|saccadic	#FEE188	0.295045418300182
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	19	20	locations	#FD913D	0.551649025028752
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	20	20	imagery|planning	#FD913D	0.568105704537995
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	21	20		#FDAD4A	0.495354580248689
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	22	20	rest	#FDAD4A	0.411433122385656
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	23	20	sequence	#FDAD4A	0.445063860177521
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	1	21	scenarios	#FFF1A9	0.136048376014203
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	2	21	intention|intentions	#FFF1A9	0.12096211655783
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	3	21	causality|perspective	#FEE188	0.206672792722655
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	4	21	past	#FECB68	0.307513236290589
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	5	21		#FEE188	0.274175788026286
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	6	21	episode	#FFF1A9	0.160274198208164
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	7	21	improvement	#FDAD4A	0.426062615639094
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	8	21	masking|retention	#FDAD4A	0.401294061035372
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	9	21		#FECB68	0.32671342918449
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	10	21	dominant	#FDAD4A	0.470947497878568
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	11	21		#FECB68	0.340542898412742
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	12	21	sequential	#FECB68	0.364830261581347
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	13	21	fingers	#FEE188	0.239279385922982
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	14	21		#FECB68	0.37671312190247
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	15	21	gesture|gestures	#FDAD4A	0.418477470362364
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	16	21		#FECB68	0.385573544553263
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	17	21	hands	#FEE188	0.27788883820764
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	18	21		#FDAD4A	0.466533955407335
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	19	21		#FDAD4A	0.492789764770927
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	20	21	eye|position	#FECB68	0.395574188200467
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	21	21	execution	#FDAD4A	0.446961681871751
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	22	21	finger|sensorimotor	#FEE188	0.272275026910683
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	23	21		#FECB68	0.337089088512379
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	1	22	moral|stories|story	#FFFFCC	0.0881925823591494
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	2	22	mentalizing|persons	#FFF1A9	0.160544402409061
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	3	22	default|restingstate	#FFFFCC	0.04287287796391
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	4	22	thinking|thought|thoughts	#FECB68	0.314053652541431
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	5	22	spontaneous	#FFF1A9	0.108802149081921
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	6	22	concentration|sensations	#FFFFCC	0.00665088209795873
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	7	22	hierarchical|preference	#FFF1A9	0.116065965925552
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	8	22	effort|oral|simulation	#FFF1A9	0.13694108886155
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	9	22	interhemispheric|plasticity	#FEE188	0.246264769231549
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	10	22	imagined|imagine	#FEE188	0.212888108999925
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	11	22	tapping	#FECB68	0.328319453509768
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	12	22	foot|muscle|muscles|voluntary	#FFFFCC	0.0839724186684845
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	13	22	limb	#FFFFCC	0.0874107952218549
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	14	22	eyes|velocity	#FFFFCC	0.0423265118777131
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	15	22	biological|gaze|videos	#FFF1A9	0.114647699818399
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	16	22	body	#FEE188	0.230947025525705
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	17	22	grasping|orientation|reaching	#FECB68	0.313837098995582
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	18	22		#FDAD4A	0.447927685005168
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	19	22	mirror|shape	#FD913D	0.592130882255318
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	20	22	actions	#FDAD4A	0.408613965804984
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	21	22	action	#FDAD4A	0.472306110069284
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	22	22		#FECB68	0.34268066898993
+2e38ab64-f6ec-3abd-8af9-168c1adfb1e9	Dollfus S	23	22	hand|movements|sensory	#FEE188	0.238508238966772

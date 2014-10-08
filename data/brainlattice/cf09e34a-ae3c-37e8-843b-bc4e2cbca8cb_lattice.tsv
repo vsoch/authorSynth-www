@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	1	1	auditory|speech	#F03623	0.743237695696982
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	2	1		#F03623	0.72551129045864
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	3	1	da|integration	#F03623	0.756448006750386
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	4	1		#D7141E	0.855039237937441
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	5	1	physical|psychophysical|tactile	#FD913D	0.511302122947152
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	6	1		#FD913D	0.539324458943026
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	7	1	somatosensory|stimulation	#FDAD4A	0.412759888203151
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	8	1	painful|pain	#FEE188	0.296305664423551
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	9	1		#FECB68	0.39971179439998
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	10	1	ratings	#FD913D	0.527573721600362
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	11	1	affective|affect	#FDAD4A	0.418981222825903
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	12	1	emotions	#FDAD4A	0.489553184836075
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	13	1	expression|expressions|facial	#FECB68	0.337551530131778
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	14	1		#FD913D	0.599263672408648
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	15	1		#FC622F	0.626555552149518
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	16	1	emotion|motion|neutral	#FC622F	0.64398678979896
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	17	1	rating	#FC622F	0.600760739151861
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	18	1	negative|positive	#FC622F	0.647526656666486
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	19	1		#FC622F	0.676990150067041
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	20	1	ear|order	#FD913D	0.599311853962522
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	21	1	motor	#FDAD4A	0.436121874328985
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	22	1	visual	#FD913D	0.551118730262325
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	23	1	age|image|response	#FD913D	0.573014664323182
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	1	2	sound|sounds	#FD913D	0.558495173442344
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	2	2		#F03623	0.7109441918225
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	3	2	audiovisual|bimodal|crossmodal	#F03623	0.722501295091997
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	4	2		#D7141E	0.860976140844872
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	5	2		#F03623	0.724634099274845
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	6	2		#FD913D	0.586841838461136
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	7	2	sensation	#FECB68	0.337878947910657
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	8	2	heat|noxious	#FEE188	0.255089015316623
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	9	2		#FDAD4A	0.404855196952869
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	10	2		#FD913D	0.512051526601674
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	11	2		#FD913D	0.539091100801181
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	12	2	valence	#FD913D	0.563559257485251
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	13	2	person|social	#D7141E	0.888613214873168
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	14	2		#FC622F	0.603235352347469
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	15	2	face|faces	#FD913D	0.526789139154332
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	16	2		#FC622F	0.698020793443522
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	17	2		#F03623	0.731921123639953
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	18	2		#F03623	0.736342342986535
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	19	2		#FC622F	0.699373628763204
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	20	2		#FC622F	0.619748975780689
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	21	2	images|spatial	#FD913D	0.592789955487922
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	22	2	control	#FD913D	0.538927878373403
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	23	2	time	#FD913D	0.590361829467705
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	1	3	acoustic|listening|musical|music|pitch	#FC622F	0.634904494464837
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	2	3	noise|tones	#FD913D	0.537929144825618
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	3	3		#F03623	0.791873025441614
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	4	3		#D7141E	0.810460885241566
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	5	3	frequency	#F03623	0.720447154870774
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	6	3		#FC622F	0.693805044395668
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	7	3		#FDAD4A	0.410894676135713
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	8	3	temperature	#FECB68	0.30606728301371
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	9	3		#FECB68	0.389386885718984
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	10	3	pleasant|unpleasant	#FECB68	0.309150345332925
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	11	3	anxiety	#FECB68	0.390289768743318
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	12	3		#FD913D	0.543392595121324
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	13	3		#FD913D	0.585601091156146
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	14	3		#FC622F	0.624964749688702
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	15	3		#FC622F	0.664035203123997
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	16	3	picture	#FC622F	0.648621597204602
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	17	3		#F03623	0.799406565514214
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	18	3	value	#F03623	0.776709266853242
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	19	3	cue	#FD913D	0.596776881516835
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	20	3	error|target	#FD913D	0.572123152117526
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	21	3	attention	#FD913D	0.588617151566259
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	22	3		#FD913D	0.590498832973486
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	23	3	number	#FD913D	0.584916927517164
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	1	4	voice	#FC622F	0.699892166006618
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	2	4		#F03623	0.723686079939596
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	3	4	hearing	#FC622F	0.654104156856503
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	4	4		#FC622F	0.670360944650634
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	5	4	overt	#FC622F	0.622657004360829
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	6	4		#FC622F	0.628254355935016
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	7	4		#FDAD4A	0.462018741433273
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	8	4	nociceptive|nonpainful|painrelated	#FEE188	0.23878435809594
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	9	4	unpleasantness	#FECB68	0.319030057539079
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	10	4	skin|subjective	#FDAD4A	0.442347384932422
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	11	4	depression	#FD913D	0.513511919801877
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	12	4	experience	#FECB68	0.382434285432783
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	13	4	female	#FECB68	0.376968132085643
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	14	4	male	#FC622F	0.601171028348099
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	15	4	pictures	#FC622F	0.607578829285367
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	16	4		#D7141E	0.805563396326725
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	17	4	perception	#D7141E	0.851139520465307
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	18	4		#F03623	0.777570702770962
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	19	4		#F03623	0.717477588494363
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	20	4		#FC622F	0.666587576859632
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	21	4	correct	#FD913D	0.591478250215238
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	22	4	work	#FD913D	0.545804279600493
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	23	4	memory	#FD913D	0.541295132379307
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	1	5	prosodic|prosody	#D7141E	0.805755864192869
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	2	5	phonetic	#FD913D	0.517590897383482
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	3	5	syllable|syllables	#FD913D	0.515911472462003
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	4	5		#FC622F	0.615103726988571
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	5	5	lip|production	#FDAD4A	0.462699242866727
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	6	5	somatotopic	#FECB68	0.319759210429804
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	7	5		#FDAD4A	0.495096639175516
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	8	5		#FECB68	0.394101289277008
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	9	5	empathy	#FECB68	0.391931332087441
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	10	5		#FD913D	0.517827400126439
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	11	5	disorder	#FDAD4A	0.453910441262814
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	12	5		#FD913D	0.572342345479656
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	13	5		#FC622F	0.67254326774098
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	14	5		#F03623	0.763082622762691
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	15	5		#D7141E	0.81704309750804
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	16	5		#D7141E	0.877817316276906
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	17	5		#D7141E	0.883718007527069
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	18	5	mental	#F03623	0.734155770065877
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	19	5	go	#FC622F	0.694896196574004
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	20	5	object	#FD913D	0.568065273038253
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	21	5		#FC622F	0.633981986814425
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	22	5		#FD913D	0.599654712821403
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	23	5	word|words	#FDAD4A	0.468766461835073
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	1	6		#B10026	0.92110698116592
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	2	6		#D7141E	0.90024668739806
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	3	6		#D7141E	0.813385668510578
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	4	6	vocal	#FDAD4A	0.401591942438728
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	5	6	articulatory	#FEE188	0.289200488392402
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	6	6		#FD913D	0.579305492109071
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	7	6	oddball	#FD913D	0.523744562628895
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	8	6	perceived	#FEE188	0.286373490887214
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	9	6	errorrelated	#FEE188	0.238368324718316
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	10	6	approach	#FDAD4A	0.458126206393564
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	11	6	schizophrenia	#FD913D	0.516496786382922
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	12	6	acquisition	#FDAD4A	0.460722069904981
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	13	6		#F03623	0.7585039220912
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	14	6		#F03623	0.74555824972985
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	15	6		#F03623	0.761845113477774
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	16	6		#F03623	0.777139493186497
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	17	6		#FC622F	0.695295807595651
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	18	6		#FC622F	0.667148516388578
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	19	6		#FC622F	0.679278835173916
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	20	6	objects	#FC622F	0.652105015645917
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	21	6		#FC622F	0.636551579692518
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	22	6		#FD913D	0.56734519898488
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	23	6	language|semantic	#FD913D	0.547015648914483
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	1	7	dopamine|dopaminergic	#FECB68	0.339660709407993
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	2	7		#FDAD4A	0.496419060886413
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	3	7		#FC622F	0.684392565628933
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	4	7		#F03623	0.715975940746439
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	5	7		#FC622F	0.676086201349707
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	6	7		#FC622F	0.645510683885953
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	7	7		#FD913D	0.576147827744474
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	8	7		#FDAD4A	0.494175884080543
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	9	7		#FDAD4A	0.488064922885778
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	10	7		#FD913D	0.559984091332516
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	11	7		#FD913D	0.584377365766897
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	12	7		#FC622F	0.648724740769008
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	13	7	linguistic|spoken	#F03623	0.722120456605482
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	14	7		#F03623	0.701807553926787
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	15	7	comprehension|sentence|sentences|syntactic	#FC622F	0.681010302484815
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	16	7		#FC622F	0.648459005683929
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	17	7		#FD913D	0.584472565601071
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	18	7	phonological|reading|read	#FDAD4A	0.494386340701936
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	19	7		#FC622F	0.619148603383494
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	20	7	perceptual|recognition	#FC622F	0.699036195927179
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	21	7		#FC622F	0.608591401200739
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	22	7		#FD913D	0.552242184519368
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	23	7	verb	#FD913D	0.516375027928807
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	1	8	outcome|reward	#FDAD4A	0.444595944639346
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	2	8	anticipation	#FECB68	0.375481153670851
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	3	8	outcomes	#FD913D	0.542025824501955
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	4	8	choice|choices	#FDAD4A	0.432168140763756
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	5	8	decisions|probability	#FD913D	0.582434647263636
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	6	8	reversal	#FECB68	0.340364226282452
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	7	8	classification|incorrect	#FDAD4A	0.421910019593414
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	8	8		#FD913D	0.534689532447649
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	9	8	agerelated|fluency|probes	#FDAD4A	0.419055738313856
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	10	8	engaged	#FDAD4A	0.417887694860143
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	11	8	explicit|knowledge	#FD913D	0.514921903994987
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	12	8		#FD913D	0.591472321130889
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	13	8		#FC622F	0.63081766277355
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	14	8		#FC622F	0.638168459189459
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	15	8		#FC622F	0.603227643318952
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	16	8		#FD913D	0.580911493021059
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	17	8	lexical	#FECB68	0.312700295111824
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	18	8		#FD913D	0.518566892560094
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	19	8		#FD913D	0.589793316728433
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	20	8		#FC622F	0.604624301989389
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	21	8	encoding	#FDAD4A	0.42335062360212
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	22	8	retrieval	#FDAD4A	0.441912610956945
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	23	8	verbal	#FDAD4A	0.468806739064986
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	1	9	incentive|monetary|money|rewards	#FEE188	0.208037172666219
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	2	9	loss	#FDAD4A	0.411528678223537
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	3	9		#FD913D	0.52316374451405
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	4	9		#FD913D	0.558754564052415
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	5	9	decisionmaking	#FD913D	0.522361512009383
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	6	9		#FD913D	0.504363856822979
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	7	9		#FDAD4A	0.452244544530363
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	8	9		#FDAD4A	0.46714617366003
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	9	9		#FD913D	0.500286816421487
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	10	9		#FD913D	0.533207833574622
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	11	9		#FD913D	0.544122919601195
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	12	9		#FD913D	0.527664457067057
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	13	9	noun	#FECB68	0.358184233336249
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	14	9	meaning	#FDAD4A	0.466258570281359
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	15	9	english	#FECB68	0.378910998920108
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	16	9	pseudoword|pseudowords	#FEE188	0.296815848538083
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	17	9		#FDAD4A	0.476798152692517
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	18	9		#FD913D	0.524589416452404
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	19	9	familiar|judgment	#FD913D	0.532145727096536
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	20	9	pair|pairs	#FDAD4A	0.487317018825078
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	21	9		#FD913D	0.590499640353779
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	22	9		#FD913D	0.544694712583688
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	23	9	letter|working	#FDAD4A	0.484178342740025
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	1	10	losses|reinforcement|win	#FEE188	0.242334259062495
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	2	10	gain	#FECB68	0.347521948154956
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	3	10	expectation	#FDAD4A	0.423312915517767
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	4	10	risk	#FECB68	0.347151889949672
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	5	10	fact	#FDAD4A	0.470302158122182
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	6	10	associative	#FEE188	0.268527803902834
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	7	10	familiarity|judgments|old	#FECB68	0.350331941218652
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	8	10	contextual|text	#FFFFCC	0.0593367455651904
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	9	10	recall|retrieved	#FDAD4A	0.409227815305932
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	10	10	conceptual|semantically	#FECB68	0.391128071473681
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	11	10	grammatical|speakers	#FD913D	0.580113560882959
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	12	10	nouns	#FECB68	0.319863847525379
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	13	10	japanese	#FECB68	0.32555691554609
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	14	10	languages	#FEE188	0.264529713938792
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	15	10	written	#FEE188	0.287602574362282
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	16	10	chinese|phonology	#FEE188	0.266969795826881
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	17	10	orthographic	#FECB68	0.339310421066227
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	18	10		#FD913D	0.578775425132719
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	19	10		#FC622F	0.613059595974924
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	20	10	association|decision	#FD913D	0.536686076483174
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	21	10	selection	#FDAD4A	0.48404353955406
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	22	10	letters	#FDAD4A	0.458683988834498
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	23	10	demand|load	#FD913D	0.517133222908915
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	1	11	conditioned|conditioning	#FFF1A9	0.160211243782604
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	2	11		#FECB68	0.343117719179468
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	3	11	drug|placebo	#FEE188	0.201201768698274
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	4	11		#FDAD4A	0.446912696686541
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	5	11	associations	#FECB68	0.398941627141102
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	6	11		#FECB68	0.397391275519173
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	7	11	episodic|recollection	#FEE188	0.251067940968122
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	8	11		#FECB68	0.384841045588802
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	9	11		#FD913D	0.55337712617837
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	10	11	concepts	#FDAD4A	0.420398823340587
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	11	11		#FD913D	0.569801873267845
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	12	11		#FD913D	0.53403284373798
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	13	11	german	#FDAD4A	0.447374550139072
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	14	11	readers	#FEE188	0.245601364233101
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	15	11	character|name|naming	#FEE188	0.282434143792146
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	16	11		#FDAD4A	0.407582339815761
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	17	11	novel	#FDAD4A	0.450084596699238
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	18	11		#FD913D	0.550959790896688
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	19	11	child|children	#FD913D	0.592319709729568
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	20	11	adults	#FC622F	0.621378072920479
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	21	11	ability|feedback|learning	#FC622F	0.604443730490167
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	22	11	cues|delay	#FD913D	0.592859452052771
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	23	11	attentional|difficulty|targets	#FD913D	0.57758785710033
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	1	12	aversive|shock	#FEE188	0.206769115599978
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	2	12	reactivity	#FFF1A9	0.144474424708642
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	3	12	males|sex|women	#FEE188	0.209483362754202
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	4	12	animal	#FECB68	0.316283987766406
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	5	12	animals	#FFF1A9	0.185509524850634
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	6	12		#FECB68	0.396736663445772
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	7	12	remember|subsequent	#FFF1A9	0.119833026589134
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	8	12	autobiographical|memories	#FDAD4A	0.439027125579153
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	9	12		#FD913D	0.54707095748457
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	10	12	violation|violations	#FECB68	0.335791743337758
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	11	12	aphasia	#FD913D	0.58339629313937
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	12	12	nonwords	#FECB68	0.389577002916809
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	13	12	dyslexia	#FECB68	0.327529663724645
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	14	12		#FD913D	0.514833153837718
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	15	12	priming	#FDAD4A	0.420816368267154
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	16	12		#FD913D	0.540528659594859
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	17	12	category|repetition	#FDAD4A	0.460556745007662
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	18	12		#FD913D	0.580487906948368
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	19	12	developmental|development	#FDAD4A	0.480433012425776
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	20	12		#FC622F	0.624427677910792
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	21	12	space	#FC622F	0.64423238771962
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	22	12		#FD913D	0.576701302488251
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	23	12	color	#FD913D	0.554230444799712
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	1	13	threat	#FFF1A9	0.194523088577961
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	2	13	regulation	#FEE188	0.247271289738012
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	3	13		#FECB68	0.334556304701755
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	4	13	masked	#FECB68	0.350804298265351
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	5	13	scene|scenes	#FECB68	0.379996158056559
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	6	13		#FECB68	0.380704655956734
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	7	13	confidence|remembered	#FFF1A9	0.181214025500279
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	8	13		#FDAD4A	0.414818672160242
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	9	13		#FD913D	0.571590733422107
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	10	13	ambiguity|ambiguous	#FFFFCC	0.0707530372259412
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	11	13		#FC622F	0.607895061797037
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	12	13		#FC622F	0.611325772914288
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	13	13	writing	#FDAD4A	0.400346123409194
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	14	13		#FC622F	0.624245583229904
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	15	13	categorization|congruency|prime	#FD913D	0.564998812396708
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	16	13		#FD913D	0.573272055189406
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	17	13	mask	#FD913D	0.544498290251536
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	18	13		#FD913D	0.568103454745221
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	19	13		#FD913D	0.553665155514763
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	20	13		#FD913D	0.535407698911457
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	21	13	conflict|congruent|incongruent	#FDAD4A	0.469801597765348
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	22	13	errors	#FDAD4A	0.437331799888466
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	23	13	maintenance|probe|wm	#FDAD4A	0.44227588893894
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	1	14	angry|fearful|happy	#FFFFCC	0
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	2	14		#FFF1A9	0.172393649870823
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	3	14	awareness|conscious|ptsd	#FFF1A9	0.184287549370876
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	4	14		#FDAD4A	0.436839152762248
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	5	14	houses|photographs	#FFF1A9	0.139975921755857
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	6	14		#FDAD4A	0.457178666046398
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	7	14	hits	#FEE188	0.217389772707297
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	8	14	famous	#FEE188	0.275079061524948
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	9	14	names	#FFFFCC	0.0782482075260402
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	10	14	family	#FDAD4A	0.450538375598442
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	11	14	competition|mouth	#FC622F	0.621071853015537
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	12	14	abilities	#FD913D	0.544128385097929
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	13	14	implicit|unfamiliar	#FDAD4A	0.418274470808269
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	14	14		#FC622F	0.628113527684364
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	15	14	tom	#D7141E	0.826441402043237
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	16	14		#FD913D	0.530117009254594
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	17	14		#FDAD4A	0.47579990918642
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	18	14	stop	#FDAD4A	0.442407664122895
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	19	14	inhibition|inhibitory|nogo	#FDAD4A	0.458660220105661
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	20	14	monitoring|stroop	#FECB68	0.34427276334279
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	21	14	interference	#FEE188	0.255644984853919
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	22	14		#FDAD4A	0.458493592141475
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	23	14	demands|executive	#FECB68	0.390706720542379
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	1	15	anger	#FFFFCC	0.0729757484279598
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	2	15	stress	#FEE188	0.214134196072338
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	3	15	feelings	#FEE188	0.23931415755954
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	4	15	salient	#FEE188	0.278149936873202
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	5	15	novelty	#FECB68	0.363385285326575
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	6	15	movie	#FECB68	0.356406780667321
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	7	15		#FC622F	0.61237679682026
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	8	15		#FC622F	0.632117700915208
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	9	15	longterm	#FDAD4A	0.411465707949009
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	10	15		#FD913D	0.599995285406913
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	11	15	reasoning|relational	#FECB68	0.303071127381596
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	12	15		#FD913D	0.597636126499525
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	13	15	presentations	#FDAD4A	0.465496126040258
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	14	15		#FD913D	0.54781500508414
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	15	15	identity	#FECB68	0.367654982356261
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	16	15		#FDAD4A	0.422355086008945
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	17	15	strategies|strategy	#FFF1A9	0.1427951672417
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	18	15	card|cards	#FDAD4A	0.461771042087801
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	19	15	gonogo	#FEE188	0.29759209376727
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	20	15		#FDAD4A	0.443346378798631
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	21	15	switching|switch	#FECB68	0.351637863527202
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	22	15		#FDAD4A	0.413094087453543
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	23	15	2back|rule	#FDAD4A	0.442144217519666
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	1	16	emotionally|mood|personality|sadness	#FFF1A9	0.189743761528037
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	2	16	disgust|sexual	#FD913D	0.504803103117356
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	3	16	olfactory	#FDAD4A	0.420546091868344
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	4	16	physiological	#FEE188	0.292477180418882
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	5	16	depressed|depressive|habituation	#FDAD4A	0.445341866627394
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	6	16	schizophrenic	#FC622F	0.692484595239089
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	7	16	colors|contexts	#FFF1A9	0.173467904333035
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	8	16	aging|encoded	#FDAD4A	0.416099535061534
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	9	16	goal	#FDAD4A	0.426663094228698
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	10	16		#FD913D	0.567074454837779
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	11	16	autism|autistic|nonverbal	#FECB68	0.375951905516651
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	12	16		#FD913D	0.532128503691632
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	13	16	bottomup|repetitions	#FECB68	0.322002468799573
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	14	16	adaptation	#FDAD4A	0.443664712237899
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	15	16	irrelevant	#FEE188	0.2803409534845
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	16	16	distractor|distractors	#FEE188	0.237905505644429
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	17	16		#FDAD4A	0.409755627369702
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	18	16	subtraction	#FFF1A9	0.113056608167009
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	19	16	1back|nback	#FDAD4A	0.450410093053661
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	20	16	manipulation|rules	#FDAD4A	0.446959225539616
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	21	16		#FDAD4A	0.444652626383283
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	22	16		#FDAD4A	0.40826393978247
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	23	16	digit	#FDAD4A	0.402704243698876
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	1	17	avoidance	#FFFFCC	0.0292523269656056
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	2	17		#FDAD4A	0.495452934169206
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	3	17	eating|food	#FDAD4A	0.472491934853426
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	4	17	taste	#FC622F	0.613331636307535
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	5	17	bipolar	#FDAD4A	0.413579190105865
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	6	17	illness|uncertainty	#FECB68	0.396393019526746
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	7	17	females|probabilistic	#FFF1A9	0.185985490648317
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	8	17	rejection	#FECB68	0.323490226554633
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	9	17	colour|paired	#FECB68	0.366231449025502
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	10	17		#FD913D	0.521855285155286
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	11	17		#FD913D	0.527201238166569
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	12	17		#FDAD4A	0.489706509602939
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	13	17	taskirrelevant	#FEE188	0.202453722539414
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	14	17		#FDAD4A	0.441640395896847
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	15	17	suppression	#FEE188	0.268299211036397
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	16	17		#FDAD4A	0.491883274653257
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	17	17	shifting|shortterm	#FECB68	0.367806141720215
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	18	17	digits	#FECB68	0.354491192262922
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	19	17	search	#FDAD4A	0.442332174115027
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	20	17	counting|taskrelated	#FD913D	0.50459459429178
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	21	17	topdown	#FECB68	0.354371214221594
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	22	17	visuospatial	#FECB68	0.395953228973534
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	23	17	arithmetic|calculation|solving	#FEE188	0.271305505644354
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	1	18	addiction|craving|drugs	#FEE188	0.206628081477351
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	2	18	allele|genotype|polymorphism	#FECB68	0.347719705395012
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	3	18	motivation	#FD913D	0.561764587080613
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	4	18	heart	#FDAD4A	0.47757647713446
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	5	18	sleep	#FD913D	0.549389804672067
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	6	18	expectancy	#FDAD4A	0.433391456888282
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	7	18	phasic|salience	#FFF1A9	0.105244858457378
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	8	18	adolescence|adolescents	#FEE188	0.200798697045542
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	9	18	intelligence|tracking	#FEE188	0.21370987526379
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	10	18		#FDAD4A	0.481272635159856
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	11	18	serial	#FEE188	0.213133097261533
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	12	18		#FDAD4A	0.474319939168681
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	13	18	spatially|taskrelevant	#FECB68	0.339422860624938
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	14	18		#FD913D	0.501619883607854
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	15	18	attended|attend|unattended	#FEE188	0.275258432108328
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	16	18	rotation|shapes	#FECB68	0.341092701600468
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	17	18	rehearsal	#FDAD4A	0.431095120180579
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	18	18	learned	#FECB68	0.312879447812281
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	19	18		#FC622F	0.607374313825613
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	20	18	cued|preparatory	#FDAD4A	0.461089143699585
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	21	18		#FC622F	0.61969659855297
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	22	18		#FD913D	0.509975975404149
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	23	18	numbers|numerical	#FEE188	0.255302565485658
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	1	19	future	#FECB68	0.341595930059451
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	2	19	negatively	#FDAD4A	0.482042030032283
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	3	19	distress|epilepsy|selfreported	#FFF1A9	0.119371830680558
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	4	19	anticipatory|cocaine|probabilities|smoking	#FECB68	0.321459055664923
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	5	19	alcohol|amount|impulsivity	#FECB68	0.342347190716248
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	6	19	game|success	#FDAD4A	0.480467171492542
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	7	19	adhd|childhood|engagement	#FEE188	0.25063291978794
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	8	19		#FD913D	0.504617932917306
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	9	19		#FDAD4A	0.4933051338148
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	10	19		#FDAD4A	0.493928883382499
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	11	19		#FD913D	0.501909532077356
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	12	19	endogenous	#FDAD4A	0.433427078973342
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	13	19	cueing|invalid|orienting	#FECB68	0.341842872468951
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	14	19		#FD913D	0.554048644263668
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	15	19	multisensory	#F03623	0.714655019769003
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	16	19		#FD913D	0.56024726582052
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	17	19	shifts	#FC622F	0.613446223852789
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	18	19	covert	#FD913D	0.551533912199906
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	19	19		#FC622F	0.642554439247883
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	20	19	preparation	#FD913D	0.552179761474861
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	21	19	discrimination|training	#FC622F	0.605213073555685
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	22	19	sequences	#FC622F	0.640429969913095
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	23	19		#F03623	0.72291436316536
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	1	20	personal|self|selfreferential|trait|traits	#F03623	0.756793238797005
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	2	20	empathic|theory	#FDAD4A	0.422170394504884
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	3	20	attribution|intentional	#FECB68	0.315128720046245
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	4	20	elderly|oscillations	#FECB68	0.338233439932492
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	5	20	antipsychotic|virtual	#FECB68	0.364927905964308
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	6	20		#F03623	0.747549334071702
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	7	20	experiences	#FEE188	0.223298963818225
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	8	20	categorical|pressure	#FECB68	0.381140197183884
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	9	20	play|skills	#FECB68	0.347276803866119
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	10	20	automatic|trained	#FECB68	0.312713525836311
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	11	20		#FD913D	0.548056758386223
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	12	20	practice	#FECB68	0.364917117713334
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	13	20	visuomotor	#FDAD4A	0.486997116552285
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	14	20		#F03623	0.719959935386824
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	15	20	tool	#FEE188	0.269503260376443
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	16	20	vision	#FECB68	0.318070555666399
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	17	20	visually	#FDAD4A	0.438225728215998
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	18	20	saccade|saccades|saccadic	#FD913D	0.517392090403751
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	19	20	locations	#FC622F	0.656541967579226
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	20	20	imagery|planning	#FDAD4A	0.478314572374961
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	21	20		#FC622F	0.683701211918183
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	22	20	rest	#F03623	0.748658907399033
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	23	20	sequence	#F03623	0.704372349188373
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	1	21	scenarios	#FD913D	0.596296329129817
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	2	21	intention|intentions	#D7141E	0.847756804599672
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	3	21	causality|perspective	#F03623	0.715603036210697
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	4	21	past	#FECB68	0.313760799377129
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	5	21		#D7141E	0.865645668027488
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	6	21	episode	#FECB68	0.370477616137005
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	7	21	improvement	#FDAD4A	0.48007675173209
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	8	21	masking|retention	#FEE188	0.262616675340279
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	9	21		#FC622F	0.692739643264472
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	10	21	dominant	#FD913D	0.551266691662805
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	11	21		#FD913D	0.550474671351055
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	12	21	sequential	#FDAD4A	0.417908219515578
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	13	21	fingers	#FDAD4A	0.423701214364819
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	14	21		#F03623	0.782520971456014
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	15	21	gesture|gestures	#FC622F	0.612832402570849
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	16	21		#FC622F	0.678850987522886
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	17	21	hands	#FDAD4A	0.413111400691848
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	18	21		#FC622F	0.640950103407507
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	19	21		#FC622F	0.70018725828507
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	20	21	eye|position	#FC622F	0.659057726191856
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	21	21	execution	#FC622F	0.601192752565602
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	22	21	finger|sensorimotor	#FD913D	0.534924457069192
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	23	21		#FD913D	0.591714158652445
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	1	22	moral|stories|story	#D7141E	0.825971409301209
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	2	22	mentalizing|persons	#B10026	1
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	3	22	default|restingstate	#FD913D	0.569987616796003
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	4	22	thinking|thought|thoughts	#FDAD4A	0.435074601121577
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	5	22	spontaneous	#FC622F	0.606682190933915
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	6	22	concentration|sensations	#FC622F	0.652083295112309
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	7	22	hierarchical|preference	#F03623	0.718916356986673
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	8	22	effort|oral|simulation	#FC622F	0.640423733600085
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	9	22	interhemispheric|plasticity	#FDAD4A	0.460773361877888
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	10	22	imagined|imagine	#FDAD4A	0.436412952140846
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	11	22	tapping	#FDAD4A	0.419361958284748
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	12	22	foot|muscle|muscles|voluntary	#FECB68	0.383218750701564
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	13	22	limb	#FECB68	0.34612786951354
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	14	22	eyes|velocity	#F03623	0.70973832407053
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	15	22	biological|gaze|videos	#FC622F	0.626584793289121
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	16	22	body	#FC622F	0.622403338753402
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	17	22	grasping|orientation|reaching	#FECB68	0.367329903250273
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	18	22		#FC622F	0.624366303242684
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	19	22	mirror|shape	#FD913D	0.554527055526808
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	20	22	actions	#F03623	0.70935791997682
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	21	22	action	#FC622F	0.693578893541423
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	22	22		#FD913D	0.569279637514407
+cf09e34a-ae3c-37e8-843b-bc4e2cbca8cb	Lerman C	23	22	hand|movements|sensory	#FDAD4A	0.424994847122301

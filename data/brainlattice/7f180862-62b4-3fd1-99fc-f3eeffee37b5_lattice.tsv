@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	1	1	auditory|speech	#FDAD4A	0.433496835208622
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	2	1		#FDAD4A	0.417248641511338
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	3	1	da|integration	#FC622F	0.676619774867594
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	4	1		#FD913D	0.527381331735383
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	5	1	physical|psychophysical|tactile	#FEE188	0.249058009267503
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	6	1		#FEE188	0.267091055641087
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	7	1	somatosensory|stimulation	#FFF1A9	0.185822370626242
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	8	1	painful|pain	#FFF1A9	0.171773783444382
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	9	1		#FEE188	0.26924008261345
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	10	1	ratings	#FD913D	0.542735857977905
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	11	1	affective|affect	#F03623	0.703519135185231
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	12	1	emotions	#F03623	0.784294604690154
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	13	1	expression|expressions|facial	#B10026	0.908109167303629
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	14	1		#B10026	0.971391244885234
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	15	1		#B10026	0.935643073033845
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	16	1	emotion|motion|neutral	#D7141E	0.83371931430177
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	17	1	rating	#FC622F	0.629417143791643
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	18	1	negative|positive	#FC622F	0.621256435251496
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	19	1		#FC622F	0.658615035110909
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	20	1	ear|order	#FC622F	0.636113542807731
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	21	1	motor	#FECB68	0.382050167396962
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	22	1	visual	#FC622F	0.650732390377537
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	23	1	age|image|response	#FC622F	0.648059508382801
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	1	2	sound|sounds	#FEE188	0.273370847438455
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	2	2		#FECB68	0.38310687485179
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	3	2	audiovisual|bimodal|crossmodal	#FD913D	0.576063471993832
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	4	2		#FD913D	0.540313906965081
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	5	2		#FDAD4A	0.414578920720799
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	6	2		#FEE188	0.299064289197592
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	7	2	sensation	#FFF1A9	0.115821302665645
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	8	2	heat|noxious	#FFF1A9	0.141593302115784
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	9	2		#FEE188	0.294987724731869
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	10	2		#FD913D	0.586005599687091
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	11	2		#FC622F	0.673910252341349
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	12	2	valence	#FC622F	0.692277347914649
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	13	2	person|social	#D7141E	0.838040824479015
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	14	2		#B10026	0.974578383357126
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	15	2	face|faces	#B10026	0.988191139751621
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	16	2		#D7141E	0.894656400382473
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	17	2		#D7141E	0.803624794988115
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	18	2		#F03623	0.729236415386902
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	19	2		#FC622F	0.666345505123213
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	20	2		#FC622F	0.60548425780906
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	21	2	images|spatial	#FC622F	0.632733914010101
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	22	2	control	#FC622F	0.634918440150254
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	23	2	time	#FC622F	0.614458610571247
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	1	3	acoustic|listening|musical|music|pitch	#FFF1A9	0.176986176470105
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	2	3	noise|tones	#FEE188	0.263480101205812
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	3	3		#FDAD4A	0.484995571534246
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	4	3		#FD913D	0.504440584337084
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	5	3	frequency	#FDAD4A	0.43399996094693
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	6	3		#FECB68	0.369108380511788
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	7	3		#FFF1A9	0.189929848131756
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	8	3	temperature	#FFF1A9	0.194814025014218
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	9	3		#FEE188	0.283945715113107
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	10	3	pleasant|unpleasant	#FDAD4A	0.458931952753177
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	11	3	anxiety	#FD913D	0.555892571999457
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	12	3		#F03623	0.771414373006807
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	13	3		#D7141E	0.86329060681853
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	14	3		#B10026	0.929306777364656
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	15	3		#B10026	0.949256164819305
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	16	3	picture	#B10026	0.90184109633575
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	17	3		#D7141E	0.873865317177678
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	18	3	value	#FC622F	0.616154840720637
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	19	3	cue	#FC622F	0.616632151813837
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	20	3	error|target	#FD913D	0.576759233269664
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	21	3	attention	#FD913D	0.590237543138481
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	22	3		#FC622F	0.667270003275953
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	23	3	number	#FC622F	0.658341218240507
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	1	4	voice	#FECB68	0.326923756445825
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	2	4		#FECB68	0.368404578815407
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	3	4	hearing	#FD913D	0.508472652447393
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	4	4		#FECB68	0.378944628109442
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	5	4	overt	#FECB68	0.304354591943572
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	6	4		#FECB68	0.309281675344405
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	7	4		#FEE188	0.231286034685962
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	8	4	nociceptive|nonpainful|painrelated	#FFF1A9	0.103289843515415
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	9	4	unpleasantness	#FEE188	0.25195753336587
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	10	4	skin|subjective	#FECB68	0.391154112957343
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	11	4	depression	#FC622F	0.608174474626427
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	12	4	experience	#FC622F	0.627171997314019
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	13	4	female	#F03623	0.721175209560087
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	14	4	male	#D7141E	0.826283623797252
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	15	4	pictures	#B10026	0.951961583678985
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	16	4		#B10026	0.967898815341809
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	17	4	perception	#D7141E	0.823928041180096
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	18	4		#F03623	0.783784686143569
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	19	4		#F03623	0.735777772230271
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	20	4		#F03623	0.710224148647948
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	21	4	correct	#FC622F	0.663407121038256
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	22	4	work	#FC622F	0.625831954730609
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	23	4	memory	#FC622F	0.693922057031758
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	1	5	prosodic|prosody	#FDAD4A	0.410332716099303
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	2	5	phonetic	#FECB68	0.312276752571233
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	3	5	syllable|syllables	#FDAD4A	0.419966748830622
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	4	5		#FECB68	0.323304430733834
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	5	5	lip|production	#FFF1A9	0.155973787344473
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	6	5	somatotopic	#FFFFCC	0.0618066101924502
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	7	5		#FECB68	0.305489382881358
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	8	5		#FECB68	0.394223937890066
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	9	5	empathy	#FD913D	0.50505437070588
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	10	5		#FC622F	0.685333325906276
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	11	5	disorder	#F03623	0.748319159602697
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	12	5		#F03623	0.780273189668818
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	13	5		#D7141E	0.863980824058494
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	14	5		#B10026	0.970110183447541
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	15	5		#B10026	1
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	16	5		#B10026	0.991453296260374
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	17	5		#B10026	0.936207003299081
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	18	5	mental	#F03623	0.752108819891756
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	19	5	go	#D7141E	0.805668336096587
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	20	5	object	#F03623	0.754718279251845
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	21	5		#F03623	0.778524484614991
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	22	5		#D7141E	0.802346593913093
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	23	5	word|words	#F03623	0.789242409013103
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	1	6		#FDAD4A	0.447249581210282
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	2	6		#FDAD4A	0.469495491229709
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	3	6		#FDAD4A	0.438079918350215
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	4	6	vocal	#FFF1A9	0.131889729404386
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	5	6	articulatory	#FFFFCC	0.0694847844932097
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	6	6		#FEE188	0.295799857964084
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	7	6	oddball	#FECB68	0.350774540138953
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	8	6	perceived	#FD913D	0.580454256916905
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	9	6	errorrelated	#FECB68	0.376303115800473
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	10	6	approach	#FD913D	0.572887295593108
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	11	6	schizophrenia	#F03623	0.722985151018107
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	12	6	acquisition	#FC622F	0.609895643017092
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	13	6		#D7141E	0.891394401645227
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	14	6		#D7141E	0.872473081588813
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	15	6		#D7141E	0.898669395986365
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	16	6		#B10026	0.90637931480858
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	17	6		#D7141E	0.879901049480173
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	18	6		#D7141E	0.842526420589886
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	19	6		#D7141E	0.843661596643036
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	20	6	objects	#F03623	0.78523281601175
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	21	6		#D7141E	0.837406093883775
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	22	6		#D7141E	0.839932186743933
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	23	6	language|semantic	#D7141E	0.852236742639447
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	1	7	dopamine|dopaminergic	#FFF1A9	0.193197769694722
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	2	7		#FEE188	0.263385570354736
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	3	7		#FECB68	0.374040282286404
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	4	7		#FDAD4A	0.40607871246492
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	5	7		#FDAD4A	0.436920651690439
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	6	7		#FD913D	0.506526833249254
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	7	7		#FD913D	0.522268079641413
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	8	7		#FC622F	0.620961714011216
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	9	7		#FC622F	0.675714749884092
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	10	7		#D7141E	0.835530487535454
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	11	7		#D7141E	0.837195277486268
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	12	7		#D7141E	0.876206375542664
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	13	7	linguistic|spoken	#F03623	0.780941632249552
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	14	7		#D7141E	0.82524832706545
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	15	7	comprehension|sentence|sentences|syntactic	#F03623	0.7999771649165
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	16	7		#D7141E	0.846406523310794
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	17	7		#D7141E	0.839964709760207
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	18	7	phonological|reading|read	#F03623	0.779936940123255
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	19	7		#D7141E	0.834327151506084
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	20	7	perceptual|recognition	#D7141E	0.831511401101671
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	21	7		#D7141E	0.830103464573377
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	22	7		#D7141E	0.830449184645516
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	23	7	verb	#F03623	0.759970150800476
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	1	8	outcome|reward	#FEE188	0.256775442777736
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	2	8	anticipation	#FEE188	0.220308829594463
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	3	8	outcomes	#FEE188	0.243333837728507
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	4	8	choice|choices	#FECB68	0.330460237636874
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	5	8	decisions|probability	#FD913D	0.536544278670883
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	6	8	reversal	#FDAD4A	0.476822425683039
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	7	8	classification|incorrect	#FDAD4A	0.438741178642202
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	8	8		#FC622F	0.637578545019436
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	9	8	agerelated|fluency|probes	#FC622F	0.637792838608417
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	10	8	engaged	#F03623	0.796904037151526
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	11	8	explicit|knowledge	#D7141E	0.842364583858326
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	12	8		#D7141E	0.861797286217263
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	13	8		#D7141E	0.848689509590168
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	14	8		#D7141E	0.823103959110209
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	15	8		#D7141E	0.814692717180779
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	16	8		#D7141E	0.81829958383816
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	17	8	lexical	#F03623	0.773149760720423
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	18	8		#D7141E	0.823638014296185
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	19	8		#D7141E	0.834304519267782
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	20	8		#D7141E	0.838975857131382
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	21	8	encoding	#F03623	0.778083362683945
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	22	8	retrieval	#FC622F	0.694432612018918
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	23	8	verbal	#F03623	0.717793133978524
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	1	9	incentive|monetary|money|rewards	#FFF1A9	0.108485137854669
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	2	9	loss	#FEE188	0.215467537048817
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	3	9		#FECB68	0.343474237436183
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	4	9		#FDAD4A	0.431474672739568
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	5	9	decisionmaking	#FECB68	0.336515004326368
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	6	9		#FC622F	0.622401330055168
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	7	9		#FC622F	0.629164893134418
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	8	9		#FC622F	0.656575396726237
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	9	9		#F03623	0.752910759975664
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	10	9		#D7141E	0.840878245326181
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	11	9		#D7141E	0.857579297781642
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	12	9		#D7141E	0.841610058702912
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	13	9	noun	#FC622F	0.683754433676969
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	14	9	meaning	#D7141E	0.810068081030209
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	15	9	english	#FC622F	0.655031926612125
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	16	9	pseudoword|pseudowords	#FC622F	0.652107338936661
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	17	9		#D7141E	0.815549021018953
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	18	9		#D7141E	0.841578138316019
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	19	9	familiar|judgment	#D7141E	0.822143055314043
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	20	9	pair|pairs	#F03623	0.774050511601293
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	21	9		#F03623	0.765761249261873
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	22	9		#F03623	0.7078690336917
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	23	9	letter|working	#FC622F	0.622603012123757
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	1	10	losses|reinforcement|win	#FFF1A9	0.122052410028603
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	2	10	gain	#FFF1A9	0.165181221492306
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	3	10	expectation	#FECB68	0.348284119610184
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	4	10	risk	#FDAD4A	0.436121627846323
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	5	10	fact	#FD913D	0.59784096909146
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	6	10	associative	#FC622F	0.634324617733514
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	7	10	familiarity|judgments|old	#FC622F	0.609196768288972
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	8	10	contextual|text	#FC622F	0.620559241200201
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	9	10	recall|retrieved	#FD913D	0.564266579741326
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	10	10	conceptual|semantically	#D7141E	0.847258211796392
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	11	10	grammatical|speakers	#FC622F	0.678684576673396
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	12	10	nouns	#FC622F	0.696707340377259
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	13	10	japanese	#FC622F	0.682299818323901
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	14	10	languages	#FC622F	0.631080131576306
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	15	10	written	#F03623	0.710429578619694
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	16	10	chinese|phonology	#FC622F	0.677954989708466
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	17	10	orthographic	#F03623	0.755589136338961
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	18	10		#D7141E	0.84956202345202
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	19	10		#D7141E	0.840656821072957
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	20	10	association|decision	#F03623	0.735552525195343
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	21	10	selection	#FD913D	0.578254359944189
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	22	10	letters	#FD913D	0.526501231548818
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	23	10	demand|load	#FD913D	0.574654521477937
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	1	11	conditioned|conditioning	#FFF1A9	0.186030345922497
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	2	11		#FECB68	0.396409394963841
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	3	11	drug|placebo	#FDAD4A	0.420772202491826
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	4	11		#FC622F	0.695581614065614
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	5	11	associations	#FD913D	0.571065657228085
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	6	11		#F03623	0.781406285228519
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	7	11	episodic|recollection	#FD913D	0.51662004726696
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	8	11		#F03623	0.769218135634019
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	9	11		#B10026	0.918494563226304
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	10	11	concepts	#FC622F	0.692185932403561
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	11	11		#D7141E	0.887076084227681
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	12	11		#D7141E	0.827655966952185
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	13	11	german	#FC622F	0.664601535840499
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	14	11	readers	#F03623	0.72105196317404
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	15	11	character|name|naming	#FC622F	0.659384651337223
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	16	11		#D7141E	0.813459545699761
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	17	11	novel	#D7141E	0.847125573454501
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	18	11		#D7141E	0.852170305942209
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	19	11	child|children	#F03623	0.780979903857857
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	20	11	adults	#F03623	0.783663773552512
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	21	11	ability|feedback|learning	#FD913D	0.540420760212416
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	22	11	cues|delay	#FD913D	0.546520273818872
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	23	11	attentional|difficulty|targets	#FD913D	0.571982352647983
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	1	12	aversive|shock	#FECB68	0.368485433813023
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	2	12	reactivity	#FDAD4A	0.415874955219859
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	3	12	males|sex|women	#FC622F	0.662056586193199
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	4	12	animal	#FC622F	0.689207034493506
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	5	12	animals	#FD913D	0.582092728335876
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	6	12		#D7141E	0.862657270456717
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	7	12	remember|subsequent	#F03623	0.785015514569299
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	8	12	autobiographical|memories	#FDAD4A	0.458352310996759
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	9	12		#B10026	0.956624891469961
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	10	12	violation|violations	#FC622F	0.675885049859427
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	11	12	aphasia	#D7141E	0.811525800892314
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	12	12	nonwords	#FC622F	0.605096498368808
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	13	12	dyslexia	#F03623	0.74972040637845
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	14	12		#D7141E	0.824902829410989
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	15	12	priming	#D7141E	0.802927750242699
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	16	12		#D7141E	0.856248775796902
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	17	12	category|repetition	#F03623	0.796192830542876
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	18	12		#D7141E	0.857308851931878
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	19	12	developmental|development	#F03623	0.768330678170838
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	20	12		#F03623	0.760762112419139
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	21	12	space	#FC622F	0.698766829618756
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	22	12		#FC622F	0.615020348548319
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	23	12	color	#FC622F	0.612718427084479
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	1	13	threat	#FC622F	0.63558381232824
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	2	13	regulation	#FD913D	0.527977025308359
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	3	13		#F03623	0.746241505813587
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	4	13	masked	#D7141E	0.855880411512238
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	5	13	scene|scenes	#F03623	0.741361636432756
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	6	13		#B10026	0.913468591339988
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	7	13	confidence|remembered	#FD913D	0.577848973621645
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	8	13		#B10026	0.902564776360245
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	9	13		#B10026	0.970219503280443
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	10	13	ambiguity|ambiguous	#D7141E	0.854529122387499
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	11	13		#B10026	0.912613476788569
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	12	13		#D7141E	0.821868473713699
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	13	13	writing	#FD913D	0.5066914743169
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	14	13		#D7141E	0.855179148563984
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	15	13	categorization|congruency|prime	#F03623	0.755994523907045
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	16	13		#D7141E	0.866453512033301
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	17	13	mask	#F03623	0.773880209409301
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	18	13		#D7141E	0.802414570887952
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	19	13		#F03623	0.703244898055715
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	20	13		#FC622F	0.685568422025457
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	21	13	conflict|congruent|incongruent	#FD913D	0.571844563890572
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	22	13	errors	#FD913D	0.537016406815904
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	23	13	maintenance|probe|wm	#FD913D	0.516638503988565
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	1	14	angry|fearful|happy	#FC622F	0.677860243664321
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	2	14		#F03623	0.709189939462329
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	3	14	awareness|conscious|ptsd	#FD913D	0.527461022626293
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	4	14		#B10026	0.908516225677632
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	5	14	houses|photographs	#F03623	0.772122120305873
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	6	14		#B10026	0.964490844176972
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	7	14	hits	#F03623	0.727271249659714
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	8	14	famous	#F03623	0.776599075974892
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	9	14	names	#FC622F	0.637274418470253
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	10	14	family	#FC622F	0.694282288284129
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	11	14	competition|mouth	#FC622F	0.672679622955649
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	12	14	abilities	#F03623	0.70965353016775
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	13	14	implicit|unfamiliar	#F03623	0.7755432872343
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	14	14		#D7141E	0.860234525809505
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	15	14	tom	#FC622F	0.693678028865576
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	16	14		#D7141E	0.815864948139491
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	17	14		#F03623	0.733823453933184
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	18	14	stop	#FD913D	0.535138929329233
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	19	14	inhibition|inhibitory|nogo	#FDAD4A	0.442176126850239
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	20	14	monitoring|stroop	#FD913D	0.519698082756897
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	21	14	interference	#FC622F	0.627094462743608
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	22	14		#FD913D	0.584961017569434
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	23	14	demands|executive	#FC622F	0.600571788324556
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	1	15	anger	#FC622F	0.649858074213561
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	2	15	stress	#FD913D	0.517394490745206
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	3	15	feelings	#FD913D	0.559164515962425
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	4	15	salient	#F03623	0.792373783306737
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	5	15	novelty	#FC622F	0.650798560164467
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	6	15	movie	#FC622F	0.642291276634058
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	7	15		#B10026	0.908785814382574
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	8	15		#B10026	0.902902501720468
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	9	15	longterm	#FC622F	0.617921402159383
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	10	15		#D7141E	0.809787561542461
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	11	15	reasoning|relational	#FD913D	0.596457330258475
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	12	15		#F03623	0.794675522226133
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	13	15	presentations	#FD913D	0.512932000914171
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	14	15		#D7141E	0.809390214319764
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	15	15	identity	#D7141E	0.825598116088173
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	16	15		#F03623	0.762679549375723
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	17	15	strategies|strategy	#FD913D	0.555138086938793
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	18	15	card|cards	#FDAD4A	0.49610480984508
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	19	15	gonogo	#FDAD4A	0.483103414370031
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	20	15		#FD913D	0.557146295136767
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	21	15	switching|switch	#FDAD4A	0.418177890678729
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	22	15		#FD913D	0.528669370445753
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	23	15	2back|rule	#FDAD4A	0.46177360507539
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	1	16	emotionally|mood|personality|sadness	#FC622F	0.638534637390475
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	2	16	disgust|sexual	#FDAD4A	0.483855160890778
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	3	16	olfactory	#FDAD4A	0.431662878193244
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	4	16	physiological	#FDAD4A	0.461764270376163
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	5	16	depressed|depressive|habituation	#FD913D	0.583465138197175
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	6	16	schizophrenic	#FC622F	0.614111134114124
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	7	16	colors|contexts	#FD913D	0.552748732208659
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	8	16	aging|encoded	#FDAD4A	0.452959098193054
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	9	16	goal	#FD913D	0.556118886879361
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	10	16		#F03623	0.73425364984466
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	11	16	autism|autistic|nonverbal	#FC622F	0.612069528623462
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	12	16		#F03623	0.76921310123891
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	13	16	bottomup|repetitions	#FD913D	0.513174847661906
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	14	16	adaptation	#FC622F	0.630307695076705
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	15	16	irrelevant	#FC622F	0.6559271333681
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	16	16	distractor|distractors	#FD913D	0.562633947928538
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	17	16		#FC622F	0.626757670685085
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	18	16	subtraction	#FDAD4A	0.458487029263774
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	19	16	1back|nback	#FDAD4A	0.46440901380556
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	20	16	manipulation|rules	#FD913D	0.550127215029207
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	21	16		#FD913D	0.517870696292975
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	22	16		#FDAD4A	0.457825103754048
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	23	16	digit	#FECB68	0.362956526654562
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	1	17	avoidance	#FECB68	0.318403275163188
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	2	17		#FDAD4A	0.49788906569338
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	3	17	eating|food	#FECB68	0.386505696716699
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	4	17	taste	#FECB68	0.38683169212069
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	5	17	bipolar	#FD913D	0.543384717317557
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	6	17	illness|uncertainty	#FD913D	0.54598587660639
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	7	17	females|probabilistic	#FC622F	0.61662946416683
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	8	17	rejection	#FDAD4A	0.449786772230291
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	9	17	colour|paired	#FD913D	0.519679958803284
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	10	17		#FC622F	0.662429883932308
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	11	17		#FC622F	0.622534028057185
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	12	17		#FC622F	0.643537181810944
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	13	17	taskirrelevant	#FD913D	0.583958897213782
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	14	17		#FC622F	0.636368723328093
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	15	17	suppression	#FD913D	0.509424386857866
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	16	17		#FC622F	0.604105461525196
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	17	17	shifting|shortterm	#FDAD4A	0.442064543598
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	18	17	digits	#FECB68	0.333793947257401
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	19	17	search	#FDAD4A	0.430573094417284
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	20	17	counting|taskrelated	#FD913D	0.519823334838742
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	21	17	topdown	#FD913D	0.565254650598971
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	22	17	visuospatial	#FECB68	0.328957563187259
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	23	17	arithmetic|calculation|solving	#FECB68	0.36049634605055
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	1	18	addiction|craving|drugs	#FEE188	0.285623009454695
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	2	18	allele|genotype|polymorphism	#FECB68	0.303509551815964
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	3	18	motivation	#FEE188	0.234015004866332
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	4	18	heart	#FDAD4A	0.438522597076373
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	5	18	sleep	#FECB68	0.309932354072988
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	6	18	expectancy	#FD913D	0.525675831735943
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	7	18	phasic|salience	#FDAD4A	0.444706962181273
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	8	18	adolescence|adolescents	#FDAD4A	0.497226825226253
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	9	18	intelligence|tracking	#FD913D	0.530748748144843
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	10	18		#FD913D	0.565788668857239
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	11	18	serial	#FECB68	0.344270125631023
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	12	18		#FD913D	0.526418190800628
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	13	18	spatially|taskrelevant	#FDAD4A	0.405775251916673
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	14	18		#FD913D	0.593015908399514
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	15	18	attended|attend|unattended	#FD913D	0.574727635940006
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	16	18	rotation|shapes	#FECB68	0.341527840482039
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	17	18	rehearsal	#FECB68	0.385064122828146
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	18	18	learned	#FFF1A9	0.192110515778498
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	19	18		#FECB68	0.354645605335634
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	20	18	cued|preparatory	#FECB68	0.325822047405796
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	21	18		#FDAD4A	0.44385468123178
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	22	18		#FDAD4A	0.466683502528396
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	23	18	numbers|numerical	#FECB68	0.360809396982883
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	1	19	future	#FECB68	0.357508264719981
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	2	19	negatively	#FECB68	0.370093406560606
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	3	19	distress|epilepsy|selfreported	#FECB68	0.346725214492234
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	4	19	anticipatory|cocaine|probabilities|smoking	#FFF1A9	0.179592570364312
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	5	19	alcohol|amount|impulsivity	#FEE188	0.240825545947815
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	6	19	game|success	#FDAD4A	0.403980157369478
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	7	19	adhd|childhood|engagement	#FDAD4A	0.406958098410601
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	8	19		#FC622F	0.645568141982883
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	9	19		#FC622F	0.609815254645747
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	10	19		#FD913D	0.511283015021491
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	11	19		#FDAD4A	0.468824701910248
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	12	19	endogenous	#FECB68	0.381611939816504
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	13	19	cueing|invalid|orienting	#FECB68	0.356300328246628
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	14	19		#FD913D	0.590359915944001
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	15	19	multisensory	#FD913D	0.550785646535487
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	16	19		#FD913D	0.579836534285663
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	17	19	shifts	#FDAD4A	0.413161180536042
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	18	19	covert	#FECB68	0.332223938605504
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	19	19		#FECB68	0.314369226998692
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	20	19	preparation	#FEE188	0.265212219633963
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	21	19	discrimination|training	#FD913D	0.540544068947342
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	22	19	sequences	#FECB68	0.315494834377799
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	23	19		#FDAD4A	0.40699038793218
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	1	20	personal|self|selfreferential|trait|traits	#FECB68	0.377932129821646
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	2	20	empathic|theory	#FC622F	0.686302470268542
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	3	20	attribution|intentional	#FECB68	0.311585542059266
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	4	20	elderly|oscillations	#FECB68	0.301131906381854
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	5	20	antipsychotic|virtual	#FEE188	0.250379205691347
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	6	20		#FDAD4A	0.481515901019414
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	7	20	experiences	#FEE188	0.286235469633404
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	8	20	categorical|pressure	#FD913D	0.50478214327684
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	9	20	play|skills	#FEE188	0.282654082185578
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	10	20	automatic|trained	#FEE188	0.287639054309883
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	11	20		#FECB68	0.320638303072099
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	12	20	practice	#FECB68	0.349807255345142
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	13	20	visuomotor	#FEE188	0.211376466840383
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	14	20		#FD913D	0.503477014447186
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	15	20	tool	#FDAD4A	0.491532620205971
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	16	20	vision	#FECB68	0.30835680635146
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	17	20	visually	#FECB68	0.385244173932201
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	18	20	saccade|saccades|saccadic	#FFF1A9	0.180877143049937
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	19	20	locations	#FECB68	0.339905905041936
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	20	20	imagery|planning	#FEE188	0.23951124777666
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	21	20		#FECB68	0.373031842053638
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	22	20	rest	#FECB68	0.377397455076775
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	23	20	sequence	#FDAD4A	0.402581070474663
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	1	21	scenarios	#FDAD4A	0.409658015486432
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	2	21	intention|intentions	#FDAD4A	0.463707008519854
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	3	21	causality|perspective	#FEE188	0.252269935029077
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	4	21	past	#FEE188	0.225150521201224
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	5	21		#FDAD4A	0.434888476591166
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	6	21	episode	#FEE188	0.227392940243047
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	7	21	improvement	#FEE188	0.297349660886721
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	8	21	masking|retention	#FECB68	0.303086300628587
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	9	21		#FECB68	0.378522363753834
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	10	21	dominant	#FDAD4A	0.435950163222362
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	11	21		#FFF1A9	0.178814330483991
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	12	21	sequential	#FEE188	0.214229656398179
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	13	21	fingers	#FFFFCC	0.0190961653600058
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	14	21		#FD913D	0.547484329124471
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	15	21	gesture|gestures	#FD913D	0.565584153443056
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	16	21		#FDAD4A	0.496814203248705
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	17	21	hands	#FEE188	0.242633092283522
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	18	21		#FECB68	0.386102785031761
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	19	21		#FDAD4A	0.44008739396446
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	20	21	eye|position	#FEE188	0.295133156299751
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	21	21	execution	#FEE188	0.246850571016747
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	22	21	finger|sensorimotor	#FFF1A9	0.152199611850103
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	23	21		#FEE188	0.296321831638232
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	1	22	moral|stories|story	#FEE188	0.296682961820737
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	2	22	mentalizing|persons	#FD913D	0.547589438322266
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	3	22	default|restingstate	#FFF1A9	0.137047039597413
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	4	22	thinking|thought|thoughts	#FDAD4A	0.407136333364469
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	5	22	spontaneous	#FEE188	0.240435960266238
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	6	22	concentration|sensations	#FFF1A9	0.171011824459993
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	7	22	hierarchical|preference	#FEE188	0.257152633590764
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	8	22	effort|oral|simulation	#FECB68	0.354650892978198
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	9	22	interhemispheric|plasticity	#FEE188	0.288990549237283
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	10	22	imagined|imagine	#FFF1A9	0.106639642404205
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	11	22	tapping	#FFF1A9	0.108887340326998
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	12	22	foot|muscle|muscles|voluntary	#FFFFCC	0
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	13	22	limb	#FFFFCC	0.00358040182027499
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	14	22	eyes|velocity	#FEE188	0.231475108999218
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	15	22	biological|gaze|videos	#FD913D	0.540622518976439
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	16	22	body	#FD913D	0.502718594237828
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	17	22	grasping|orientation|reaching	#FEE188	0.209519166307923
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	18	22		#FDAD4A	0.404900524181937
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	19	22	mirror|shape	#FD913D	0.591373717780163
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	20	22	actions	#FC622F	0.619998495701678
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	21	22	action	#FD913D	0.589296096857523
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	22	22		#FEE188	0.298160801298328
+7f180862-62b4-3fd1-99fc-f3eeffee37b5	Yerevanian A	23	22	hand|movements|sensory	#FEE188	0.225218026420345

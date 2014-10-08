@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	1	1	auditory|speech	#FECB68	0.397701064665289
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	2	1		#FECB68	0.382996372674936
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	3	1	da|integration	#FC622F	0.611892293590092
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	4	1		#FC622F	0.68367611488657
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	5	1	physical|psychophysical|tactile	#FC622F	0.663349948144204
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	6	1		#FC622F	0.6895862100781
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	7	1	somatosensory|stimulation	#FC622F	0.693545447533888
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	8	1	painful|pain	#FDAD4A	0.446009091012177
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	9	1		#FDAD4A	0.461675031996983
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	10	1	ratings	#FDAD4A	0.482846262957221
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	11	1	affective|affect	#FDAD4A	0.427065660559863
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	12	1	emotions	#FDAD4A	0.402929866842357
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	13	1	expression|expressions|facial	#FEE188	0.238971431644447
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	14	1		#FECB68	0.354225705344802
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	15	1		#FECB68	0.384524905103273
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	16	1	emotion|motion|neutral	#FDAD4A	0.419972097792677
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	17	1	rating	#FDAD4A	0.467202479990359
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	18	1	negative|positive	#FD913D	0.528116767073248
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	19	1		#FC622F	0.663166638456392
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	20	1	ear|order	#FC622F	0.656770250250159
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	21	1	motor	#F03623	0.769737499255263
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	22	1	visual	#FC622F	0.616845141794193
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	23	1	age|image|response	#FC622F	0.66350271037351
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	1	2	sound|sounds	#FEE188	0.260162593401846
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	2	2		#FECB68	0.348081091411263
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	3	2	audiovisual|bimodal|crossmodal	#FECB68	0.334423708762926
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	4	2		#FC622F	0.699532189037472
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	5	2		#F03623	0.769150618094726
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	6	2		#F03623	0.73237527280609
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	7	2	sensation	#FECB68	0.332205374893651
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	8	2	heat|noxious	#FECB68	0.359437855001486
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	9	2		#FDAD4A	0.467767167329435
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	10	2		#FDAD4A	0.476653268277892
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	11	2		#FDAD4A	0.469384938903523
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	12	2	valence	#FECB68	0.377834637865302
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	13	2	person|social	#FDAD4A	0.446580253937381
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	14	2		#FECB68	0.36629700155998
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	15	2	face|faces	#FEE188	0.241815448468737
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	16	2		#FDAD4A	0.473024532624843
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	17	2		#FD913D	0.542671993684494
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	18	2		#FC622F	0.64381252472977
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	19	2		#F03623	0.701075890310216
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	20	2		#F03623	0.739460631330336
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	21	2	images|spatial	#FC622F	0.671340498626643
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	22	2	control	#F03623	0.723096534866127
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	23	2	time	#FC622F	0.693429555022037
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	1	3	acoustic|listening|musical|music|pitch	#FFF1A9	0.18338182518217
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	2	3	noise|tones	#FEE188	0.267668756753154
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	3	3		#FDAD4A	0.478138773227778
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	4	3		#FC622F	0.631651279672463
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	5	3	frequency	#F03623	0.785516510903192
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	6	3		#F03623	0.746463831090108
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	7	3		#FD913D	0.510813351163824
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	8	3	temperature	#FDAD4A	0.472427509635812
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	9	3		#FDAD4A	0.480267612840995
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	10	3	pleasant|unpleasant	#FECB68	0.366627946926465
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	11	3	anxiety	#FECB68	0.336490855393432
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	12	3		#FDAD4A	0.478940373430431
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	13	3		#FD913D	0.501359250398043
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	14	3		#FDAD4A	0.451259468156687
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	15	3		#FDAD4A	0.477777424456111
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	16	3	picture	#FD913D	0.53418920934579
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	17	3		#FC622F	0.60501448986408
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	18	3	value	#FC622F	0.686566914116869
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	19	3	cue	#F03623	0.717921799149956
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	20	3	error|target	#F03623	0.724267735560967
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	21	3	attention	#F03623	0.727190508914283
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	22	3		#F03623	0.707993950212108
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	23	3	number	#FC622F	0.692358467395106
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	1	4	voice	#FFF1A9	0.188340692372218
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	2	4		#FEE188	0.293309478837189
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	3	4	hearing	#FECB68	0.375819701435607
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	4	4		#FD913D	0.56690449036221
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	5	4	overt	#FD913D	0.585922435500349
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	6	4		#FC622F	0.679192028027184
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	7	4		#FC622F	0.614947882297942
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	8	4	nociceptive|nonpainful|painrelated	#FECB68	0.399361659281465
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	9	4	unpleasantness	#FDAD4A	0.42619325137346
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	10	4	skin|subjective	#FDAD4A	0.474610661588084
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	11	4	depression	#FDAD4A	0.439655534901677
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	12	4	experience	#FD913D	0.544864256566008
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	13	4	female	#FECB68	0.396092933322034
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	14	4	male	#FD913D	0.52633346712234
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	15	4	pictures	#FDAD4A	0.445967986519374
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	16	4		#FC622F	0.612838173140444
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	17	4	perception	#FC622F	0.661725160934905
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	18	4		#F03623	0.779693633579981
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	19	4		#F03623	0.771450435093928
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	20	4		#F03623	0.760702303346389
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	21	4	correct	#FC622F	0.69149102891523
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	22	4	work	#F03623	0.700445869112554
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	23	4	memory	#FC622F	0.657183542789232
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	1	5	prosodic|prosody	#FEE188	0.247403103011163
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	2	5	phonetic	#FEE188	0.262785802565812
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	3	5	syllable|syllables	#FEE188	0.29082557026646
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	4	5		#FD913D	0.504296485424274
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	5	5	lip|production	#FD913D	0.525710811824216
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	6	5	somatotopic	#FD913D	0.535920432309253
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	7	5		#FC622F	0.677609005750551
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	8	5		#FC622F	0.62523401915149
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	9	5	empathy	#FC622F	0.611710609969903
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	10	5		#FC622F	0.656349155210396
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	11	5	disorder	#FD913D	0.53621421540598
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	12	5		#FC622F	0.635908011850891
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	13	5		#FD913D	0.595383235155658
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	14	5		#FD913D	0.571612544166805
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	15	5		#FD913D	0.580213334017989
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	16	5		#FC622F	0.641959139675245
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	17	5		#F03623	0.7200274504244
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	18	5	mental	#F03623	0.771058020194804
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	19	5	go	#F03623	0.742015571518678
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	20	5	object	#F03623	0.704469225241813
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	21	5		#F03623	0.73765119648645
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	22	5		#FC622F	0.678432998309664
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	23	5	word|words	#FD913D	0.553428555635416
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	1	6		#FDAD4A	0.419062763760103
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	2	6		#FDAD4A	0.448830545597031
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	3	6		#FDAD4A	0.499182642414505
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	4	6	vocal	#FECB68	0.304742114057285
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	5	6	articulatory	#FECB68	0.393346806778035
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	6	6		#FC622F	0.642828658500304
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	7	6	oddball	#FC622F	0.675440242517719
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	8	6	perceived	#FD913D	0.529517640385054
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	9	6	errorrelated	#FDAD4A	0.463436670695412
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	10	6	approach	#FDAD4A	0.467043114301823
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	11	6	schizophrenia	#FC622F	0.679009319585556
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	12	6	acquisition	#FC622F	0.626608124677433
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	13	6		#FD913D	0.583992749769826
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	14	6		#FDAD4A	0.486567751752753
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	15	6		#FDAD4A	0.499328363609562
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	16	6		#FD913D	0.538331836481894
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	17	6		#FC622F	0.650026857053327
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	18	6		#F03623	0.706488903322501
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	19	6		#F03623	0.731477162180987
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	20	6	objects	#F03623	0.780783152128253
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	21	6		#F03623	0.739415526014636
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	22	6		#FC622F	0.653170915523607
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	23	6	language|semantic	#FD913D	0.564390568948138
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	1	7	dopamine|dopaminergic	#FEE188	0.279967769937804
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	2	7		#FEE188	0.288947813795407
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	3	7		#FD913D	0.557959034116977
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	4	7		#FC622F	0.672123163900278
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	5	7		#F03623	0.720416005234029
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	6	7		#FC622F	0.680159022751048
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	7	7		#FC622F	0.664352603826029
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	8	7		#FC622F	0.657132472723504
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	9	7		#FC622F	0.676089309638224
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	10	7		#F03623	0.730519190686518
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	11	7		#FC622F	0.695338947393216
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	12	7		#FC622F	0.674659693073926
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	13	7	linguistic|spoken	#FDAD4A	0.425257885120678
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	14	7		#FDAD4A	0.464742106217681
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	15	7	comprehension|sentence|sentences|syntactic	#FECB68	0.388320713871307
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	16	7		#FDAD4A	0.494635073602271
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	17	7		#FD913D	0.599663294589879
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	18	7	phonological|reading|read	#FD913D	0.548482543860889
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	19	7		#FC622F	0.691095770960355
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	20	7	perceptual|recognition	#FC622F	0.684120598983377
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	21	7		#F03623	0.744463014926071
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	22	7		#FC622F	0.673066041420173
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	23	7	verb	#FC622F	0.671009574844465
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	1	8	outcome|reward	#FFF1A9	0.18551221688546
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	2	8	anticipation	#FEE188	0.227350752266876
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	3	8	outcomes	#FEE188	0.216355556847307
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	4	8	choice|choices	#FD913D	0.525634804780675
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	5	8	decisions|probability	#FD913D	0.550205676596341
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	6	8	reversal	#FC622F	0.611511767683204
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	7	8	classification|incorrect	#FDAD4A	0.432247747758971
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	8	8		#FC622F	0.623335694844962
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	9	8	agerelated|fluency|probes	#FC622F	0.665432011349269
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	10	8	engaged	#FC622F	0.621424327482874
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	11	8	explicit|knowledge	#FD913D	0.535296559021318
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	12	8		#FC622F	0.60869029085635
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	13	8		#FD913D	0.544528242745363
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	14	8		#FDAD4A	0.491689324071638
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	15	8		#FDAD4A	0.481408199351159
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	16	8		#FDAD4A	0.491776094774721
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	17	8	lexical	#FD913D	0.512218329338642
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	18	8		#FC622F	0.607499918034096
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	19	8		#FC622F	0.66356450340436
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	20	8		#F03623	0.715266976927775
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	21	8	encoding	#FC622F	0.680306006556271
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	22	8	retrieval	#FC622F	0.685328460707173
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	23	8	verbal	#F03623	0.715980767022178
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	1	9	incentive|monetary|money|rewards	#FFF1A9	0.107439708881051
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	2	9	loss	#FEE188	0.233011114891487
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	3	9		#FDAD4A	0.469217230206055
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	4	9		#FD913D	0.571921803404536
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	5	9	decisionmaking	#FC622F	0.648186625372331
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	6	9		#FD913D	0.593595698424244
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	7	9		#FD913D	0.574479909540514
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	8	9		#FD913D	0.597869757582131
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	9	9		#FC622F	0.643047163792377
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	10	9		#FC622F	0.64818362656027
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	11	9		#FD913D	0.597587841821606
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	12	9		#FD913D	0.578002011423274
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	13	9	noun	#FDAD4A	0.463587458054055
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	14	9	meaning	#FD913D	0.534386002923205
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	15	9	english	#FD913D	0.516651286745459
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	16	9	pseudoword|pseudowords	#FECB68	0.365429044031217
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	17	9		#FD913D	0.555101384960511
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	18	9		#FC622F	0.635705433677239
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	19	9	familiar|judgment	#FC622F	0.617653520732755
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	20	9	pair|pairs	#FC622F	0.652757595734482
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	21	9		#F03623	0.761822718298467
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	22	9		#F03623	0.770309993830973
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	23	9	letter|working	#F03623	0.726828697033667
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	1	10	losses|reinforcement|win	#FFF1A9	0.189289431286536
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	2	10	gain	#FFF1A9	0.140267059010959
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	3	10	expectation	#FECB68	0.318936879890512
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	4	10	risk	#FD913D	0.511496092577212
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	5	10	fact	#FECB68	0.352393779423243
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	6	10	associative	#FDAD4A	0.425996968097923
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	7	10	familiarity|judgments|old	#FD913D	0.55876352010926
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	8	10	contextual|text	#FDAD4A	0.449122402983134
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	9	10	recall|retrieved	#FDAD4A	0.414907693316635
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	10	10	conceptual|semantically	#FDAD4A	0.499013578564671
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	11	10	grammatical|speakers	#FDAD4A	0.428933667944529
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	12	10	nouns	#FDAD4A	0.423235362280014
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	13	10	japanese	#FD913D	0.507097181793946
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	14	10	languages	#FDAD4A	0.41025369986345
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	15	10	written	#FECB68	0.359842485713775
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	16	10	chinese|phonology	#FDAD4A	0.454814263536433
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	17	10	orthographic	#FD913D	0.527818472425766
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	18	10		#FC622F	0.69109554984138
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	19	10		#F03623	0.716443802077294
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	20	10	association|decision	#FC622F	0.66798107446974
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	21	10	selection	#D7141E	0.806239344188469
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	22	10	letters	#F03623	0.717292655218411
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	23	10	demand|load	#F03623	0.744660756074839
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	1	11	conditioned|conditioning	#FEE188	0.208303167134383
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	2	11		#FECB68	0.331732424217365
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	3	11	drug|placebo	#FDAD4A	0.464134244305283
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	4	11		#FDAD4A	0.471868529311782
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	5	11	associations	#FECB68	0.371024324852341
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	6	11		#FDAD4A	0.486216760681858
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	7	11	episodic|recollection	#FDAD4A	0.424755359434392
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	8	11		#FDAD4A	0.496314074068826
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	9	11		#FD913D	0.578280440064625
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	10	11	concepts	#FECB68	0.329609752626529
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	11	11		#FD913D	0.533732369139254
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	12	11		#FD913D	0.544658147968649
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	13	11	german	#FDAD4A	0.46228710736456
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	14	11	readers	#FDAD4A	0.482538354794528
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	15	11	character|name|naming	#FDAD4A	0.404796684847467
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	16	11		#FD913D	0.531612279917268
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	17	11	novel	#FC622F	0.606528749186487
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	18	11		#F03623	0.700980806764657
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	19	11	child|children	#F03623	0.711923335134035
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	20	11	adults	#F03623	0.781055476894373
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	21	11	ability|feedback|learning	#F03623	0.718730943353027
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	22	11	cues|delay	#FC622F	0.69276063079276
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	23	11	attentional|difficulty|targets	#F03623	0.753268738894441
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	1	12	aversive|shock	#FEE188	0.215752925564954
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	2	12	reactivity	#FEE188	0.218139306138335
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	3	12	males|sex|women	#FEE188	0.261328921684075
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	4	12	animal	#FEE188	0.262517433822976
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	5	12	animals	#FFF1A9	0.195234316679962
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	6	12		#FECB68	0.370134996444469
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	7	12	remember|subsequent	#FECB68	0.369606247357603
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	8	12	autobiographical|memories	#FFF1A9	0.158292743599881
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	9	12		#FD913D	0.592477548107403
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	10	12	violation|violations	#FDAD4A	0.417298763991566
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	11	12	aphasia	#FD913D	0.518896589777715
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	12	12	nonwords	#FECB68	0.399284240760858
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	13	12	dyslexia	#FDAD4A	0.431755874501923
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	14	12		#FD913D	0.583941229530501
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	15	12	priming	#FDAD4A	0.399824683262799
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	16	12		#FD913D	0.598352236851676
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	17	12	category|repetition	#FD913D	0.558319436065847
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	18	12		#F03623	0.712278558041531
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	19	12	developmental|development	#FC622F	0.699938447864874
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	20	12		#F03623	0.786173917378107
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	21	12	space	#F03623	0.784774937571062
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	22	12		#F03623	0.76902429125865
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	23	12	color	#FC622F	0.671481282032537
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	1	13	threat	#FFF1A9	0.122990505776371
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	2	13	regulation	#FECB68	0.33105156719801
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	3	13		#FEE188	0.293092249257943
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	4	13	masked	#FEE188	0.232724792883934
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	5	13	scene|scenes	#FFF1A9	0.110188855664932
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	6	13		#FECB68	0.343423575099065
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	7	13	confidence|remembered	#FEE188	0.250437990393288
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	8	13		#FD913D	0.510922221527906
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	9	13		#FC622F	0.663296589317459
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	10	13	ambiguity|ambiguous	#FEE188	0.261913655136423
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	11	13		#FC622F	0.608106988908819
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	12	13		#FC622F	0.620396505283635
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	13	13	writing	#FD913D	0.586074266337848
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	14	13		#FC622F	0.65319922739632
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	15	13	categorization|congruency|prime	#FD913D	0.50630884623174
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	16	13		#FC622F	0.652700926513821
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	17	13	mask	#FC622F	0.607208271299513
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	18	13		#F03623	0.753362159277198
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	19	13		#F03623	0.799945598010275
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	20	13		#F03623	0.761544312995344
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	21	13	conflict|congruent|incongruent	#FC622F	0.646330035909723
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	22	13	errors	#FC622F	0.686502732675545
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	23	13	maintenance|probe|wm	#FC622F	0.695409135012601
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	1	14	angry|fearful|happy	#FFFFCC	0.0679343558683456
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	2	14		#FFF1A9	0.177412185495237
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	3	14	awareness|conscious|ptsd	#FEE188	0.22150826349609
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	4	14		#FEE188	0.276151696980177
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	5	14	houses|photographs	#FFFFCC	0
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	6	14		#FECB68	0.324352787169584
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	7	14	hits	#FECB68	0.386822606786321
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	8	14	famous	#FFF1A9	0.185100400421887
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	9	14	names	#FDAD4A	0.403602407967937
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	10	14	family	#F03623	0.734741233090113
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	11	14	competition|mouth	#FD913D	0.522336028121996
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	12	14	abilities	#FECB68	0.367860371305895
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	13	14	implicit|unfamiliar	#FDAD4A	0.424688879359177
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	14	14		#FC622F	0.663723533197696
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	15	14	tom	#FC622F	0.622907922367374
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	16	14		#F03623	0.703942959531613
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	17	14		#F03623	0.725470621343974
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	18	14	stop	#FC622F	0.635708093487995
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	19	14	inhibition|inhibitory|nogo	#F03623	0.765908555602106
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	20	14	monitoring|stroop	#FDAD4A	0.496244705801889
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	21	14	interference	#FC622F	0.601502527459367
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	22	14		#F03623	0.730035428263843
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	23	14	demands|executive	#F03623	0.729376556391073
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	1	15	anger	#FFFFCC	0.0720772939350911
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	2	15	stress	#FFFFCC	0.0528711706913807
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	3	15	feelings	#FECB68	0.336501042106349
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	4	15	salient	#FEE188	0.234393922771147
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	5	15	novelty	#FFFFCC	0.0985588970827058
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	6	15	movie	#FFF1A9	0.18918795627753
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	7	15		#FDAD4A	0.422177231990163
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	8	15		#FD913D	0.584567959450501
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	9	15	longterm	#FD913D	0.515265544563657
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	10	15		#F03623	0.729424466562101
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	11	15	reasoning|relational	#FD913D	0.577960162027051
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	12	15		#F03623	0.706785156863547
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	13	15	presentations	#FD913D	0.577849003626747
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	14	15		#FC622F	0.686843239821501
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	15	15	identity	#FD913D	0.528189140515358
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	16	15		#FC622F	0.697108650734823
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	17	15	strategies|strategy	#FD913D	0.531877675157377
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	18	15	card|cards	#FC622F	0.643696986299766
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	19	15	gonogo	#D7141E	0.848698407069244
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	20	15		#F03623	0.750326313208856
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	21	15	switching|switch	#F03623	0.730654651933534
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	22	15		#F03623	0.721403816858102
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	23	15	2back|rule	#FC622F	0.634287511771332
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	1	16	emotionally|mood|personality|sadness	#FFF1A9	0.164513773313808
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	2	16	disgust|sexual	#FFF1A9	0.180822893373626
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	3	16	olfactory	#FFFFCC	0.0899194515964493
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	4	16	physiological	#FEE188	0.238502177731229
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	5	16	depressed|depressive|habituation	#FFF1A9	0.154155379476492
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	6	16	schizophrenic	#FEE188	0.26774715973356
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	7	16	colors|contexts	#FFFFCC	0.0907704036994705
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	8	16	aging|encoded	#FECB68	0.36064239084458
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	9	16	goal	#FDAD4A	0.485185824316555
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	10	16		#FC622F	0.679245048338033
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	11	16	autism|autistic|nonverbal	#FD913D	0.523742486112596
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	12	16		#F03623	0.724708789941752
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	13	16	bottomup|repetitions	#FC622F	0.633274422632666
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	14	16	adaptation	#FC622F	0.614289463129041
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	15	16	irrelevant	#FC622F	0.621733204875071
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	16	16	distractor|distractors	#FECB68	0.369656192471214
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	17	16		#F03623	0.730440335219294
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	18	16	subtraction	#FD913D	0.581750285030538
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	19	16	1back|nback	#F03623	0.719404064896311
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	20	16	manipulation|rules	#FD913D	0.58163344540533
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	21	16		#F03623	0.774392369502203
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	22	16		#F03623	0.75550540440975
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	23	16	digit	#F03623	0.742906616133298
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	1	17	avoidance	#FFF1A9	0.105281596763787
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	2	17		#FECB68	0.301880008676283
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	3	17	eating|food	#FFFFCC	0.0854887527395918
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	4	17	taste	#FEE188	0.247326964463908
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	5	17	bipolar	#FEE188	0.287677009777287
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	6	17	illness|uncertainty	#FDAD4A	0.427087320410546
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	7	17	females|probabilistic	#FEE188	0.254993009769976
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	8	17	rejection	#FECB68	0.334815693441741
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	9	17	colour|paired	#FD913D	0.522472754264279
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	10	17		#F03623	0.779542010678595
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	11	17		#F03623	0.762361891699367
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	12	17		#F03623	0.769716101075049
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	13	17	taskirrelevant	#FD913D	0.548415671963998
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	14	17		#FC622F	0.697014428406892
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	15	17	suppression	#FD913D	0.571673436514089
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	16	17		#F03623	0.724852287086187
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	17	17	shifting|shortterm	#F03623	0.771504342556558
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	18	17	digits	#F03623	0.709964759086239
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	19	17	search	#FDAD4A	0.442828196074214
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	20	17	counting|taskrelated	#FC622F	0.676679969601182
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	21	17	topdown	#FC622F	0.647753396379077
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	22	17	visuospatial	#FC622F	0.668865915164952
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	23	17	arithmetic|calculation|solving	#FC622F	0.631719140351945
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	1	18	addiction|craving|drugs	#FEE188	0.210041089379959
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	2	18	allele|genotype|polymorphism	#FEE188	0.244119785643291
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	3	18	motivation	#FECB68	0.302920936505457
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	4	18	heart	#FECB68	0.305931951557479
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	5	18	sleep	#FD913D	0.592039173092108
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	6	18	expectancy	#FC622F	0.623083187215645
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	7	18	phasic|salience	#FECB68	0.392961594739375
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	8	18	adolescence|adolescents	#FDAD4A	0.471915414073697
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	9	18	intelligence|tracking	#F03623	0.748910873495528
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	10	18		#B10026	0.904293227437797
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	11	18	serial	#FC622F	0.641140611326344
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	12	18		#F03623	0.769604817097257
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	13	18	spatially|taskrelevant	#FC622F	0.656493603005011
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	14	18		#FC622F	0.68838330634076
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	15	18	attended|attend|unattended	#FDAD4A	0.478035564235927
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	16	18	rotation|shapes	#FD913D	0.53004753325789
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	17	18	rehearsal	#FD913D	0.563811299758404
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	18	18	learned	#FD913D	0.582820251251059
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	19	18		#F03623	0.763389772865231
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	20	18	cued|preparatory	#FC622F	0.69312806364856
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	21	18		#D7141E	0.876887408717519
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	22	18		#D7141E	0.826152356764777
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	23	18	numbers|numerical	#F03623	0.732872238318118
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	1	19	future	#FECB68	0.33938128600287
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	2	19	negatively	#FECB68	0.357485925982722
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	3	19	distress|epilepsy|selfreported	#FFF1A9	0.170770211620461
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	4	19	anticipatory|cocaine|probabilities|smoking	#FFF1A9	0.185157325491122
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	5	19	alcohol|amount|impulsivity	#FECB68	0.386692834239086
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	6	19	game|success	#FD913D	0.546009363883302
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	7	19	adhd|childhood|engagement	#FD913D	0.523471677839295
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	8	19		#D7141E	0.808926756744983
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	9	19		#B10026	0.910679134646173
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	10	19		#B10026	0.935824921272262
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	11	19		#D7141E	0.857537151727109
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	12	19	endogenous	#FD913D	0.520230682044363
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	13	19	cueing|invalid|orienting	#FDAD4A	0.424557106041887
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	14	19		#D7141E	0.807505020350848
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	15	19	multisensory	#F03623	0.706618273248438
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	16	19		#F03623	0.795596837559786
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	17	19	shifts	#FC622F	0.643685021223821
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	18	19	covert	#FDAD4A	0.473051789051814
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	19	19		#F03623	0.729740300931804
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	20	19	preparation	#F03623	0.716665439801894
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	21	19	discrimination|training	#D7141E	0.854174535370894
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	22	19	sequences	#F03623	0.745240614938403
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	23	19		#B10026	0.967580219515245
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	1	20	personal|self|selfreferential|trait|traits	#FECB68	0.386794287920455
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	2	20	empathic|theory	#FDAD4A	0.466645785725179
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	3	20	attribution|intentional	#FFF1A9	0.140186704323967
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	4	20	elderly|oscillations	#FECB68	0.396985577843548
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	5	20	antipsychotic|virtual	#FECB68	0.359164235803531
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	6	20		#F03623	0.741904616164583
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	7	20	experiences	#FD913D	0.557122595433575
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	8	20	categorical|pressure	#FDAD4A	0.406582185589078
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	9	20	play|skills	#FD913D	0.562734216842834
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	10	20	automatic|trained	#D7141E	0.806347155077328
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	11	20		#D7141E	0.833597887603767
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	12	20	practice	#F03623	0.708096181527389
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	13	20	visuomotor	#F03623	0.771489750297031
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	14	20		#B10026	1
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	15	20	tool	#B10026	0.991910016528914
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	16	20	vision	#F03623	0.75646931176178
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	17	20	visually	#F03623	0.738143244894016
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	18	20	saccade|saccades|saccadic	#FECB68	0.374035617646083
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	19	20	locations	#F03623	0.739307720248236
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	20	20	imagery|planning	#D7141E	0.887097795453629
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	21	20		#B10026	0.933033337620613
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	22	20	rest	#D7141E	0.869426802028408
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	23	20	sequence	#D7141E	0.843203300830711
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	1	21	scenarios	#FDAD4A	0.471276013241077
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	2	21	intention|intentions	#FDAD4A	0.433195628001838
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	3	21	causality|perspective	#FECB68	0.337489449607275
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	4	21	past	#FEE188	0.23554996733393
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	5	21		#FC622F	0.655832483889682
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	6	21	episode	#FDAD4A	0.484634398019605
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	7	21	improvement	#F03623	0.758286437291336
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	8	21	masking|retention	#FD913D	0.570728728781142
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	9	21		#B10026	0.905735766169857
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	10	21	dominant	#F03623	0.729074553072901
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	11	21		#D7141E	0.809191930812116
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	12	21	sequential	#FD913D	0.575791437456196
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	13	21	fingers	#D7141E	0.801722653448743
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	14	21		#B10026	0.929410558491799
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	15	21	gesture|gestures	#F03623	0.786450992387641
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	16	21		#B10026	0.992084212197959
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	17	21	hands	#D7141E	0.811499274964369
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	18	21		#D7141E	0.879134521754005
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	19	21		#F03623	0.797617318862242
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	20	21	eye|position	#F03623	0.708007914630165
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	21	21	execution	#D7141E	0.879011693826301
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	22	21	finger|sensorimotor	#B10026	0.932355491718185
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	23	21		#B10026	0.911448309674656
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	1	22	moral|stories|story	#FFF1A9	0.103475926878027
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	2	22	mentalizing|persons	#FEE188	0.233278179168741
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	3	22	default|restingstate	#FEE188	0.205305249272303
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	4	22	thinking|thought|thoughts	#FECB68	0.308280625560972
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	5	22	spontaneous	#FECB68	0.348293341316754
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	6	22	concentration|sensations	#FECB68	0.321612417904421
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	7	22	hierarchical|preference	#FDAD4A	0.40525512222129
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	8	22	effort|oral|simulation	#F03623	0.7318532716696
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	9	22	interhemispheric|plasticity	#FC622F	0.610380399728296
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	10	22	imagined|imagine	#FC622F	0.654082706716424
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	11	22	tapping	#F03623	0.719351838661672
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	12	22	foot|muscle|muscles|voluntary	#FD913D	0.520069032318668
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	13	22	limb	#F03623	0.709955304586611
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	14	22	eyes|velocity	#FDAD4A	0.479047408490347
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	15	22	biological|gaze|videos	#FDAD4A	0.424983850730077
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	16	22	body	#D7141E	0.880767403546355
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	17	22	grasping|orientation|reaching	#B10026	0.940642402456694
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	18	22		#B10026	0.941940481483799
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	19	22	mirror|shape	#F03623	0.773071949908216
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	20	22	actions	#B10026	0.908453679802756
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	21	22	action	#B10026	0.956924781761
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	22	22		#B10026	0.903380895010048
+0a60be92-6e6b-3a3b-a167-d60fbbce1a56	Drummond SP	23	22	hand|movements|sensory	#F03623	0.788104684362243

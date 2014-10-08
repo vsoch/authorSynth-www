@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	1	1	auditory|speech	#FD913D	0.513444304047163
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	2	1		#FDAD4A	0.492953860194509
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	3	1	da|integration	#FD913D	0.55918193597451
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	4	1		#FDAD4A	0.487074515673223
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	5	1	physical|psychophysical|tactile	#FEE188	0.212041064704547
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	6	1		#FEE188	0.240547553028693
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	7	1	somatosensory|stimulation	#FFF1A9	0.163322226268238
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	8	1	painful|pain	#FFF1A9	0.135451477008192
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	9	1		#FFF1A9	0.184082502816159
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	10	1	ratings	#FEE188	0.278774407763807
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	11	1	affective|affect	#FECB68	0.310511507390958
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	12	1	emotions	#FECB68	0.320421661573564
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	13	1	expression|expressions|facial	#FEE188	0.216918434361389
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	14	1		#FECB68	0.329390777565129
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	15	1		#FECB68	0.346049027162474
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	16	1	emotion|motion|neutral	#FECB68	0.31661494901971
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	17	1	rating	#FECB68	0.312266423029449
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	18	1	negative|positive	#FECB68	0.339645103710089
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	19	1		#FDAD4A	0.416163184928882
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	20	1	ear|order	#FD913D	0.507262536882687
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	21	1	motor	#FECB68	0.302517242433607
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	22	1	visual	#FECB68	0.373592538514355
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	23	1	age|image|response	#FDAD4A	0.454971342816769
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	1	2	sound|sounds	#FDAD4A	0.407000514871068
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	2	2		#FDAD4A	0.469284549095848
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	3	2	audiovisual|bimodal|crossmodal	#FDAD4A	0.415714105797391
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	4	2		#FDAD4A	0.498094758448079
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	5	2		#FECB68	0.386099569940008
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	6	2		#FEE188	0.276200700087503
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	7	2	sensation	#FFF1A9	0.101437026927984
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	8	2	heat|noxious	#FFF1A9	0.161479103383719
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	9	2		#FFF1A9	0.187367954606917
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	10	2		#FEE188	0.265156034894406
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	11	2		#FEE188	0.290037607529391
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	12	2	valence	#FEE188	0.231305257008931
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	13	2	person|social	#FECB68	0.392752115024593
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	14	2		#FECB68	0.345514985328471
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	15	2	face|faces	#FECB68	0.334129146213666
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	16	2		#FECB68	0.374772755827647
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	17	2		#FECB68	0.381988153613658
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	18	2		#FDAD4A	0.412425603856155
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	19	2		#FDAD4A	0.433288647970761
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	20	2		#FDAD4A	0.41311167523597
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	21	2	images|spatial	#FECB68	0.384023058796475
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	22	2	control	#FDAD4A	0.440014933018763
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	23	2	time	#FDAD4A	0.443574139452141
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	1	3	acoustic|listening|musical|music|pitch	#FECB68	0.372816376870397
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	2	3	noise|tones	#FECB68	0.328034689928109
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	3	3		#FD913D	0.539902638522953
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	4	3		#FD913D	0.546524440590234
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	5	3	frequency	#FDAD4A	0.449880106638533
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	6	3		#FDAD4A	0.412948536690006
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	7	3		#FFF1A9	0.197785330221531
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	8	3	temperature	#FFF1A9	0.122894309015452
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	9	3		#FFF1A9	0.194864207771804
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	10	3	pleasant|unpleasant	#FFF1A9	0.18917508930269
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	11	3	anxiety	#FFF1A9	0.16693773797205
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	12	3		#FECB68	0.354669295381758
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	13	3		#FDAD4A	0.430237214273953
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	14	3		#FDAD4A	0.407309277009982
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	15	3		#FDAD4A	0.418199677709796
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	16	3	picture	#FDAD4A	0.415858136687893
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	17	3		#FDAD4A	0.439385487904597
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	18	3	value	#FDAD4A	0.437405019173256
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	19	3	cue	#FDAD4A	0.418448687906488
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	20	3	error|target	#FDAD4A	0.405114470880159
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	21	3	attention	#FECB68	0.37834857395387
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	22	3		#FD913D	0.500956052441038
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	23	3	number	#FDAD4A	0.498986165429247
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	1	4	voice	#FECB68	0.379207405876982
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	2	4		#FDAD4A	0.478698023115378
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	3	4	hearing	#FD913D	0.543109117128439
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	4	4		#FD913D	0.518538812177486
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	5	4	overt	#FDAD4A	0.453713351553847
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	6	4		#FDAD4A	0.423356929110344
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	7	4		#FEE188	0.252786060722303
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	8	4	nociceptive|nonpainful|painrelated	#FFF1A9	0.129121165039219
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	9	4	unpleasantness	#FEE188	0.205251974902128
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	10	4	skin|subjective	#FEE188	0.199915377907301
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	11	4	depression	#FECB68	0.348760867572003
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	12	4	experience	#FECB68	0.364060113965069
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	13	4	female	#FDAD4A	0.43470430435203
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	14	4	male	#FDAD4A	0.490118512019555
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	15	4	pictures	#FDAD4A	0.424139280743787
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	16	4		#FD913D	0.509331407535033
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	17	4	perception	#FDAD4A	0.432596760931298
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	18	4		#FD913D	0.521457311399925
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	19	4		#FD913D	0.503911007049785
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	20	4		#FDAD4A	0.493730508063049
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	21	4	correct	#FD913D	0.541742600953723
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	22	4	work	#FD913D	0.546980518240881
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	23	4	memory	#FD913D	0.574987114395319
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	1	5	prosodic|prosody	#FDAD4A	0.423014956660878
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	2	5	phonetic	#FDAD4A	0.470704362220914
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	3	5	syllable|syllables	#FD913D	0.560301739784041
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	4	5		#FDAD4A	0.49193634838623
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	5	5	lip|production	#FECB68	0.321918605507087
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	6	5	somatotopic	#FEE188	0.225855583872244
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	7	5		#FEE188	0.2940489699063
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	8	5		#FEE188	0.245318613295153
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	9	5	empathy	#FEE188	0.281631038265081
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	10	5		#FDAD4A	0.442065726861066
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	11	5	disorder	#FDAD4A	0.492757926317017
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	12	5		#FD913D	0.56261295380437
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	13	5		#FC622F	0.682749640478304
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	14	5		#F03623	0.742557076907527
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	15	5		#F03623	0.740328773745727
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	16	5		#F03623	0.721369009020572
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	17	5		#F03623	0.729073658325564
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	18	5	mental	#FD913D	0.562440527964258
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	19	5	go	#FD913D	0.55978354742528
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	20	5	object	#FDAD4A	0.458280970618355
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	21	5		#FC622F	0.632475098624703
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	22	5		#F03623	0.724341543326869
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	23	5	word|words	#F03623	0.731857038685697
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	1	6		#FDAD4A	0.439057143352408
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	2	6		#FDAD4A	0.489734682131674
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	3	6		#FD913D	0.533537885201921
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	4	6	vocal	#FECB68	0.322306177425928
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	5	6	articulatory	#FEE188	0.273507340452557
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	6	6		#FDAD4A	0.422779999503369
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	7	6	oddball	#FECB68	0.339097568610531
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	8	6	perceived	#FFF1A9	0.17167236551452
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	9	6	errorrelated	#FFF1A9	0.169966645221054
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	10	6	approach	#FDAD4A	0.411579727335238
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	11	6	schizophrenia	#FD913D	0.538905392655671
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	12	6	acquisition	#FC622F	0.605231730986622
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	13	6		#D7141E	0.822730054438154
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	14	6		#B10026	0.912082581790074
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	15	6		#B10026	0.914504409712772
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	16	6		#B10026	0.904201903560713
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	17	6		#D7141E	0.803022580588763
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	18	6		#F03623	0.714432846241546
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	19	6		#FC622F	0.684109331492635
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	20	6	objects	#FD913D	0.516651227844613
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	21	6		#FC622F	0.697263158744462
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	22	6		#F03623	0.797143907399314
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	23	6	language|semantic	#D7141E	0.850308717530755
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	1	7	dopamine|dopaminergic	#FFF1A9	0.102472835440136
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	2	7		#FFF1A9	0.162600550898715
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	3	7		#FECB68	0.338086510670047
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	4	7		#FDAD4A	0.425127132274317
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	5	7		#FDAD4A	0.45027204918276
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	6	7		#FD913D	0.512350520343913
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	7	7		#FDAD4A	0.450241245849567
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	8	7		#FDAD4A	0.451301471124601
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	9	7		#FDAD4A	0.46277716190391
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	10	7		#FC622F	0.689924459040642
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	11	7		#F03623	0.749586523667277
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	12	7		#D7141E	0.808347630785872
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	13	7	linguistic|spoken	#F03623	0.784916718855894
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	14	7		#B10026	0.925400294035925
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	15	7	comprehension|sentence|sentences|syntactic	#B10026	0.925633690084418
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	16	7		#B10026	0.923433688393579
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	17	7		#D7141E	0.833653989269914
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	18	7	phonological|reading|read	#F03623	0.771242828501735
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	19	7		#F03623	0.719000183306928
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	20	7	perceptual|recognition	#FD913D	0.598226267045019
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	21	7		#F03623	0.719412323572118
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	22	7		#F03623	0.797412392379065
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	23	7	verb	#F03623	0.768581746600679
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	1	8	outcome|reward	#FFF1A9	0.117153975183366
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	2	8	anticipation	#FFFFCC	0.0860953649537791
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	3	8	outcomes	#FFF1A9	0.133802278662639
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	4	8	choice|choices	#FEE188	0.27437987899054
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	5	8	decisions|probability	#FDAD4A	0.483871476130556
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	6	8	reversal	#FECB68	0.398989784449332
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	7	8	classification|incorrect	#FDAD4A	0.406626163375833
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	8	8		#FD913D	0.58102069431875
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	9	8	agerelated|fluency|probes	#FC622F	0.605396832067886
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	10	8	engaged	#F03623	0.727321119262247
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	11	8	explicit|knowledge	#F03623	0.764779731229485
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	12	8		#D7141E	0.887479069116229
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	13	8		#B10026	0.964348959055914
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	14	8		#B10026	0.966999900933039
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	15	8		#B10026	0.956959333559264
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	16	8		#B10026	0.9243378500175
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	17	8	lexical	#F03623	0.797031317889418
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	18	8		#F03623	0.77544071579003
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	19	8		#F03623	0.741279088321167
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	20	8		#F03623	0.709211924820757
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	21	8	encoding	#FC622F	0.62306035038786
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	22	8	retrieval	#FC622F	0.688696861257644
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	23	8	verbal	#F03623	0.701700240570349
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	1	9	incentive|monetary|money|rewards	#FFFFCC	0.0250605031921454
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	2	9	loss	#FFF1A9	0.105370061457694
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	3	9		#FEE188	0.236058438053184
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	4	9		#FECB68	0.326196127164295
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	5	9	decisionmaking	#FEE188	0.251615506070736
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	6	9		#FD913D	0.52913883971385
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	7	9		#FD913D	0.540372439801034
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	8	9		#FC622F	0.601924343546506
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	9	9		#F03623	0.72716645730006
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	10	9		#D7141E	0.826892983729356
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	11	9		#B10026	0.903573347579948
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	12	9		#B10026	0.936250343442177
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	13	9	noun	#B10026	0.968317420266934
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	14	9	meaning	#B10026	0.993534275996067
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	15	9	english	#D7141E	0.865756636283892
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	16	9	pseudoword|pseudowords	#FC622F	0.69958521350206
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	17	9		#D7141E	0.84168521880988
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	18	9		#F03623	0.770909433974173
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	19	9	familiar|judgment	#FC622F	0.680473095102582
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	20	9	pair|pairs	#F03623	0.715351611796228
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	21	9		#FC622F	0.694490244011419
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	22	9		#FC622F	0.667615309231785
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	23	9	letter|working	#FC622F	0.601021968079641
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	1	10	losses|reinforcement|win	#FFFFCC	0
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	2	10	gain	#FFFFCC	0.0305123221750907
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	3	10	expectation	#FFF1A9	0.177169674432417
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	4	10	risk	#FECB68	0.350616862814744
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	5	10	fact	#FECB68	0.370625125222376
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	6	10	associative	#FDAD4A	0.444492784213283
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	7	10	familiarity|judgments|old	#FD913D	0.58022811291308
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	8	10	contextual|text	#FDAD4A	0.473067620434775
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	9	10	recall|retrieved	#FC622F	0.669847306774791
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	10	10	conceptual|semantically	#F03623	0.792496017248705
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	11	10	grammatical|speakers	#B10026	0.919847159839199
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	12	10	nouns	#B10026	0.934883691261499
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	13	10	japanese	#D7141E	0.888699837940206
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	14	10	languages	#D7141E	0.820056512076413
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	15	10	written	#F03623	0.72279488160041
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	16	10	chinese|phonology	#F03623	0.7839309963316
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	17	10	orthographic	#F03623	0.711293603246597
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	18	10		#F03623	0.743508342504503
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	19	10		#F03623	0.723739254034233
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	20	10	association|decision	#FC622F	0.610461449504874
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	21	10	selection	#FC622F	0.637351310904629
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	22	10	letters	#FD913D	0.508473922167868
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	23	10	demand|load	#FD913D	0.574962005722665
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	1	11	conditioned|conditioning	#FFFFCC	0.0296359498979266
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	2	11		#FFF1A9	0.155481025611967
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	3	11	drug|placebo	#FEE188	0.244407424518109
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	4	11		#FECB68	0.396471173276474
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	5	11	associations	#FECB68	0.349704590500736
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	6	11		#FD913D	0.534473266432243
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	7	11	episodic|recollection	#FDAD4A	0.408306022292523
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	8	11		#FD913D	0.582175213012077
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	9	11		#B10026	0.92099811263116
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	10	11	concepts	#D7141E	0.828936435896166
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	11	11		#B10026	1
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	12	11		#B10026	0.942288606870561
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	13	11	german	#D7141E	0.828026800127501
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	14	11	readers	#FC622F	0.688550718412706
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	15	11	character|name|naming	#FC622F	0.60499169976879
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	16	11		#F03623	0.736505316805966
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	17	11	novel	#F03623	0.716293855077909
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	18	11		#FC622F	0.696903200067465
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	19	11	child|children	#FC622F	0.682112354820813
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	20	11	adults	#FC622F	0.650735312471348
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	21	11	ability|feedback|learning	#FD913D	0.516431561959487
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	22	11	cues|delay	#FDAD4A	0.413903293258821
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	23	11	attentional|difficulty|targets	#FDAD4A	0.419064338230089
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	1	12	aversive|shock	#FFFFCC	0.0748874643397276
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	2	12	reactivity	#FFF1A9	0.140096940691974
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	3	12	males|sex|women	#FECB68	0.368615976816088
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	4	12	animal	#FECB68	0.301904154142229
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	5	12	animals	#FEE188	0.275093675070204
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	6	12		#FDAD4A	0.482494422986994
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	7	12	remember|subsequent	#FDAD4A	0.449702062980823
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	8	12	autobiographical|memories	#FECB68	0.354846112736899
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	9	12		#B10026	0.909813542568007
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	10	12	violation|violations	#FD913D	0.527801050057755
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	11	12	aphasia	#B10026	0.902995444057958
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	12	12	nonwords	#FC622F	0.667528776786695
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	13	12	dyslexia	#FD913D	0.581379202669506
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	14	12		#F03623	0.737521869004448
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	15	12	priming	#FD913D	0.595062771850231
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	16	12		#FC622F	0.660831287603947
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	17	12	category|repetition	#FC622F	0.608181905461894
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	18	12		#FC622F	0.660700676929844
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	19	12	developmental|development	#FC622F	0.60123126904848
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	20	12		#FC622F	0.62941168078423
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	21	12	space	#FD913D	0.508385191876325
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	22	12		#FD913D	0.546152058018579
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	23	12	color	#FDAD4A	0.464158856176324
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	1	13	threat	#FFFFCC	0.0840591983351151
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	2	13	regulation	#FFF1A9	0.141153709413183
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	3	13		#FEE188	0.289882647151023
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	4	13	masked	#FDAD4A	0.408042025858052
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	5	13	scene|scenes	#FEE188	0.258598571131708
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	6	13		#FDAD4A	0.484124768771393
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	7	13	confidence|remembered	#FECB68	0.355986117063947
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	8	13		#FC622F	0.624853591207808
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	9	13		#D7141E	0.884592550611426
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	10	13	ambiguity|ambiguous	#F03623	0.795830637495987
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	11	13		#B10026	0.905487710031308
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	12	13		#FC622F	0.695634510212468
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	13	13	writing	#FDAD4A	0.489256588187219
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	14	13		#FC622F	0.622869867833574
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	15	13	categorization|congruency|prime	#FC622F	0.622153281508349
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	16	13		#FC622F	0.620631745040433
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	17	13	mask	#FDAD4A	0.426938412318033
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	18	13		#FD913D	0.590387669749517
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	19	13		#FD913D	0.552093087203189
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	20	13		#FD913D	0.565770338515831
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	21	13	conflict|congruent|incongruent	#FD913D	0.504055072232125
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	22	13	errors	#FDAD4A	0.465488821832441
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	23	13	maintenance|probe|wm	#FD913D	0.538741054479381
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	1	14	angry|fearful|happy	#FFF1A9	0.145667229123145
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	2	14		#FFF1A9	0.187932005188559
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	3	14	awareness|conscious|ptsd	#FEE188	0.207722355461991
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	4	14		#FECB68	0.347106109119849
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	5	14	houses|photographs	#FFF1A9	0.104894971256496
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	6	14		#FDAD4A	0.456792937769676
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	7	14	hits	#FD913D	0.50045987853124
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	8	14	famous	#FECB68	0.334214899227752
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	9	14	names	#FDAD4A	0.489309110850834
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	10	14	family	#FC622F	0.610306776578542
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	11	14	competition|mouth	#FD913D	0.587193382328034
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	12	14	abilities	#FECB68	0.385157660706061
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	13	14	implicit|unfamiliar	#FECB68	0.325099508417176
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	14	14		#FD913D	0.517139444227804
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	15	14	tom	#FDAD4A	0.489975519551797
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	16	14		#FD913D	0.51163377558206
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	17	14		#FDAD4A	0.478189770261426
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	18	14	stop	#FECB68	0.35454527338307
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	19	14	inhibition|inhibitory|nogo	#FECB68	0.341796043368956
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	20	14	monitoring|stroop	#FDAD4A	0.463862422702173
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	21	14	interference	#FD913D	0.546112579606167
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	22	14		#FD913D	0.557941589821959
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	23	14	demands|executive	#FD913D	0.586329485272597
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	1	15	anger	#FFFFCC	0.0840655979627845
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	2	15	stress	#FFFFCC	0.0991030931448485
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	3	15	feelings	#FFF1A9	0.132367754554787
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	4	15	salient	#FECB68	0.322358543069212
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	5	15	novelty	#FFF1A9	0.187583312943713
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	6	15	movie	#FEE188	0.210777590394906
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	7	15		#FD913D	0.590242546986194
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	8	15		#FC622F	0.690468830683023
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	9	15	longterm	#FDAD4A	0.454899383486524
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	10	15		#F03623	0.731456279601229
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	11	15	reasoning|relational	#FC622F	0.61310900525915
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	12	15		#FD913D	0.592757645111728
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	13	15	presentations	#FFF1A9	0.151666745522628
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	14	15		#FDAD4A	0.449487852228798
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	15	15	identity	#FECB68	0.308820143005394
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	16	15		#FDAD4A	0.471767216944236
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	17	15	strategies|strategy	#FECB68	0.35053771843279
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	18	15	card|cards	#FECB68	0.344308217819951
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	19	15	gonogo	#FECB68	0.39312108948436
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	20	15		#FDAD4A	0.498709544460425
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	21	15	switching|switch	#FDAD4A	0.473009524557471
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	22	15		#FD913D	0.509388841744016
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	23	15	2back|rule	#FDAD4A	0.422713905521067
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	1	16	emotionally|mood|personality|sadness	#FFF1A9	0.139762501467317
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	2	16	disgust|sexual	#FFFFCC	0.069348132007359
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	3	16	olfactory	#FFF1A9	0.109012058481381
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	4	16	physiological	#FEE188	0.293194257044052
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	5	16	depressed|depressive|habituation	#FEE188	0.247326797188888
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	6	16	schizophrenic	#FDAD4A	0.451683547307016
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	7	16	colors|contexts	#FDAD4A	0.455474030797806
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	8	16	aging|encoded	#FD913D	0.514867331914845
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	9	16	goal	#FC622F	0.619127346229196
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	10	16		#FC622F	0.647942156113807
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	11	16	autism|autistic|nonverbal	#FDAD4A	0.498985932598372
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	12	16		#FD913D	0.536896875377822
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	13	16	bottomup|repetitions	#FECB68	0.355206862978614
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	14	16	adaptation	#FECB68	0.321945423514594
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	15	16	irrelevant	#FDAD4A	0.454649904160947
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	16	16	distractor|distractors	#FECB68	0.302329831782724
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	17	16		#FDAD4A	0.493240004220937
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	18	16	subtraction	#FEE188	0.29038429204722
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	19	16	1back|nback	#FDAD4A	0.485056059609746
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	20	16	manipulation|rules	#FDAD4A	0.470638094957415
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	21	16		#FDAD4A	0.479665859897926
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	22	16		#FDAD4A	0.44856965374263
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	23	16	digit	#FDAD4A	0.474621181569448
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	1	17	avoidance	#FFFFCC	0.0783398392068509
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	2	17		#FFF1A9	0.186140643985558
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	3	17	eating|food	#FFF1A9	0.129522966727921
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	4	17	taste	#FEE188	0.236735219335095
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	5	17	bipolar	#FEE188	0.258914670286273
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	6	17	illness|uncertainty	#FDAD4A	0.441359697535016
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	7	17	females|probabilistic	#FDAD4A	0.432137679303126
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	8	17	rejection	#FECB68	0.301284227112949
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	9	17	colour|paired	#FEE188	0.235637749444313
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	10	17		#FC622F	0.61290628356079
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	11	17		#FD913D	0.580833198166185
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	12	17		#FD913D	0.553519364068977
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	13	17	taskirrelevant	#FFF1A9	0.196110028168991
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	14	17		#FECB68	0.380292761154701
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	15	17	suppression	#FECB68	0.347679234429102
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	16	17		#FDAD4A	0.439125390332717
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	17	17	shifting|shortterm	#FDAD4A	0.498683147160836
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	18	17	digits	#FDAD4A	0.4666665316745
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	19	17	search	#FECB68	0.370103394837704
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	20	17	counting|taskrelated	#FDAD4A	0.495775927774684
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	21	17	topdown	#FECB68	0.35435683128121
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	22	17	visuospatial	#FECB68	0.345270213121855
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	23	17	arithmetic|calculation|solving	#FECB68	0.364398987382103
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	1	18	addiction|craving|drugs	#FFFFCC	0.0845835231004374
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	2	18	allele|genotype|polymorphism	#FFF1A9	0.142517849544146
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	3	18	motivation	#FFF1A9	0.169104131839847
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	4	18	heart	#FECB68	0.358257507725086
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	5	18	sleep	#FEE188	0.230502475707047
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	6	18	expectancy	#FECB68	0.352572584868206
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	7	18	phasic|salience	#FEE188	0.208112212926831
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	8	18	adolescence|adolescents	#FEE188	0.253874572633105
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	9	18	intelligence|tracking	#FECB68	0.316779338566076
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	10	18		#FDAD4A	0.499618629717084
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	11	18	serial	#FDAD4A	0.414373110442105
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	12	18		#FDAD4A	0.418727125830696
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	13	18	spatially|taskrelevant	#FDAD4A	0.401545227284477
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	14	18		#FECB68	0.350853134504812
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	15	18	attended|attend|unattended	#FEE188	0.283353297931174
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	16	18	rotation|shapes	#FEE188	0.233419342462072
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	17	18	rehearsal	#FD913D	0.556966650408348
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	18	18	learned	#FECB68	0.365571798610444
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	19	18		#FDAD4A	0.40300613851689
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	20	18	cued|preparatory	#FEE188	0.275352695942572
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	21	18		#FDAD4A	0.425045699759807
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	22	18		#FDAD4A	0.438592431963132
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	23	18	numbers|numerical	#FEE188	0.296778403753578
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	1	19	future	#FFF1A9	0.128697013619623
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	2	19	negatively	#FEE188	0.221552782716656
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	3	19	distress|epilepsy|selfreported	#FFF1A9	0.154158563771569
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	4	19	anticipatory|cocaine|probabilities|smoking	#FFF1A9	0.11950079247157
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	5	19	alcohol|amount|impulsivity	#FEE188	0.262219921872218
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	6	19	game|success	#FFF1A9	0.185066606100788
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	7	19	adhd|childhood|engagement	#FFF1A9	0.149466745591239
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	8	19		#FDAD4A	0.459137596370538
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	9	19		#FDAD4A	0.452061629090236
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	10	19		#FDAD4A	0.451890038460349
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	11	19		#FDAD4A	0.431935752379211
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	12	19	endogenous	#FDAD4A	0.412950657683005
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	13	19	cueing|invalid|orienting	#FFF1A9	0.162160445084111
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	14	19		#FECB68	0.392720083466916
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	15	19	multisensory	#FECB68	0.360910240352205
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	16	19		#FECB68	0.39720801723375
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	17	19	shifts	#FECB68	0.335122051638431
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	18	19	covert	#FECB68	0.320067325243357
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	19	19		#FECB68	0.335867311724901
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	20	19	preparation	#FEE188	0.269028704682588
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	21	19	discrimination|training	#FDAD4A	0.411222778981724
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	22	19	sequences	#FECB68	0.368227737547062
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	23	19		#FDAD4A	0.430975417452247
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	1	20	personal|self|selfreferential|trait|traits	#FFF1A9	0.197454450847224
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	2	20	empathic|theory	#FECB68	0.304111082234991
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	3	20	attribution|intentional	#FFF1A9	0.182755442008058
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	4	20	elderly|oscillations	#FEE188	0.273724119119819
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	5	20	antipsychotic|virtual	#FFF1A9	0.134494195245933
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	6	20		#FECB68	0.380533782179813
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	7	20	experiences	#FEE188	0.266494189235069
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	8	20	categorical|pressure	#FDAD4A	0.422633410138175
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	9	20	play|skills	#FECB68	0.323018760783473
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	10	20	automatic|trained	#FECB68	0.327619683742466
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	11	20		#FECB68	0.31762316234382
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	12	20	practice	#FEE188	0.240291375099173
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	13	20	visuomotor	#FFF1A9	0.168277525011458
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	14	20		#FECB68	0.364111070489029
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	15	20	tool	#FDAD4A	0.410455550291434
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	16	20	vision	#FFF1A9	0.13776438637053
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	17	20	visually	#FEE188	0.21849453814316
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	18	20	saccade|saccades|saccadic	#FFF1A9	0.122361182789447
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	19	20	locations	#FEE188	0.28670031687761
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	20	20	imagery|planning	#FECB68	0.370137064701746
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	21	20		#FECB68	0.359366493125691
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	22	20	rest	#FDAD4A	0.406207394197059
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	23	20	sequence	#FDAD4A	0.422462922465034
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	1	21	scenarios	#FECB68	0.347975310714437
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	2	21	intention|intentions	#FEE188	0.24788517701338
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	3	21	causality|perspective	#FFF1A9	0.151522790255164
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	4	21	past	#FEE188	0.284491038926502
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	5	21		#FECB68	0.366354695879887
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	6	21	episode	#FECB68	0.310507910894007
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	7	21	improvement	#FFF1A9	0.131652598810492
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	8	21	masking|retention	#FEE188	0.24265532304563
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	9	21		#FECB68	0.390000159098553
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	10	21	dominant	#FEE188	0.289078889587733
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	11	21		#FEE188	0.251429504703528
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	12	21	sequential	#FEE188	0.203048225945984
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	13	21	fingers	#FFF1A9	0.128010596919954
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	14	21		#FECB68	0.314320069689323
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	15	21	gesture|gestures	#FDAD4A	0.412479255514216
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	16	21		#FEE188	0.289996796900396
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	17	21	hands	#FFF1A9	0.170911443300777
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	18	21		#FEE188	0.290082922102224
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	19	21		#FECB68	0.320193315826574
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	20	21	eye|position	#FEE188	0.22108368211752
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	21	21	execution	#FEE188	0.278687201219667
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	22	21	finger|sensorimotor	#FEE188	0.245911684240411
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	23	21		#FEE188	0.285317571950094
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	1	22	moral|stories|story	#FEE188	0.252129001403906
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	2	22	mentalizing|persons	#FECB68	0.390169875306574
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	3	22	default|restingstate	#FFF1A9	0.169420117671321
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	4	22	thinking|thought|thoughts	#FECB68	0.361245424878328
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	5	22	spontaneous	#FFF1A9	0.11359405614127
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	6	22	concentration|sensations	#FFFFCC	0.0696692964159252
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	7	22	hierarchical|preference	#FFF1A9	0.181670021825821
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	8	22	effort|oral|simulation	#FEE188	0.291892232801377
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	9	22	interhemispheric|plasticity	#FEE188	0.2804242265574
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	10	22	imagined|imagine	#FEE188	0.243494590559732
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	11	22	tapping	#FFF1A9	0.189525646336126
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	12	22	foot|muscle|muscles|voluntary	#FFF1A9	0.134416265056098
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	13	22	limb	#FFFFCC	0.0473517733474482
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	14	22	eyes|velocity	#FFFFCC	0.0312451642937213
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	15	22	biological|gaze|videos	#FFFFCC	0.0608535003868695
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	16	22	body	#FEE188	0.223069993757791
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	17	22	grasping|orientation|reaching	#FFF1A9	0.159006875629044
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	18	22		#FEE188	0.297300942558573
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	19	22	mirror|shape	#FECB68	0.351918744166729
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	20	22	actions	#FECB68	0.381870416249181
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	21	22	action	#FDAD4A	0.416663507596534
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	22	22		#FEE188	0.255050811481491
+83fd950c-20da-3b59-9a57-7e6062fcecab	Grodzinsky Y	23	22	hand|movements|sensory	#FFF1A9	0.164160153107202

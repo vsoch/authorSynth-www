@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	1	1	auditory|speech	#FECB68	0.366185678581508
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	2	1		#FECB68	0.323579762416126
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	3	1	da|integration	#FC622F	0.629633830634005
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	4	1		#FD913D	0.579861524897737
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	5	1	physical|psychophysical|tactile	#FECB68	0.387138763513912
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	6	1		#FC622F	0.618694591080284
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	7	1	somatosensory|stimulation	#FD913D	0.515822859965585
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	8	1	painful|pain	#FC622F	0.638822096640462
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	9	1		#F03623	0.72910804867924
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	10	1	ratings	#F03623	0.798755345962285
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	11	1	affective|affect	#FC622F	0.635554741214477
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	12	1	emotions	#FD913D	0.522851121630164
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	13	1	expression|expressions|facial	#FECB68	0.383625017470478
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	14	1		#FC622F	0.643460147307061
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	15	1		#FC622F	0.689496551602365
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	16	1	emotion|motion|neutral	#FC622F	0.654520274927037
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	17	1	rating	#F03623	0.793236863234521
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	18	1	negative|positive	#F03623	0.794955971597486
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	19	1		#D7141E	0.847056234802615
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	20	1	ear|order	#D7141E	0.806466841727579
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	21	1	motor	#FD913D	0.561421269829247
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	22	1	visual	#FC622F	0.615106239031219
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	23	1	age|image|response	#F03623	0.743119423435199
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	1	2	sound|sounds	#FFF1A9	0.1506229453738
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	2	2		#FEE188	0.283472162290148
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	3	2	audiovisual|bimodal|crossmodal	#FEE188	0.275205642936666
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	4	2		#FD913D	0.598516348986913
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	5	2		#FC622F	0.608798599985781
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	6	2		#FC622F	0.647819175734758
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	7	2	sensation	#FD913D	0.585260080700028
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	8	2	heat|noxious	#FD913D	0.554159042933261
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	9	2		#F03623	0.751430627162374
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	10	2		#D7141E	0.805944713211848
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	11	2		#F03623	0.773352903500797
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	12	2	valence	#FC622F	0.602626831207184
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	13	2	person|social	#FC622F	0.626319971985117
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	14	2		#FC622F	0.666923636406338
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	15	2	face|faces	#FD913D	0.559182347729981
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	16	2		#F03623	0.773822789680087
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	17	2		#D7141E	0.830931048363615
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	18	2		#D7141E	0.891539577876542
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	19	2		#D7141E	0.879359374997648
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	20	2		#F03623	0.794116204034188
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	21	2	images|spatial	#F03623	0.718239963945556
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	22	2	control	#F03623	0.747649529726111
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	23	2	time	#F03623	0.757961268062923
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	1	3	acoustic|listening|musical|music|pitch	#FFFFCC	0.0701639983818982
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	2	3	noise|tones	#FFF1A9	0.162743493213191
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	3	3		#FDAD4A	0.460889588986906
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	4	3		#FD913D	0.591856025517527
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	5	3	frequency	#FC622F	0.636725731423378
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	6	3		#F03623	0.74921075079756
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	7	3		#FC622F	0.678053994675471
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	8	3	temperature	#FD913D	0.506989905113147
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	9	3		#F03623	0.748776714274148
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	10	3	pleasant|unpleasant	#FC622F	0.685593408997093
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	11	3	anxiety	#FC622F	0.641329254194739
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	12	3		#F03623	0.78189941962898
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	13	3		#D7141E	0.812524261114302
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	14	3		#F03623	0.777517075479817
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	15	3		#F03623	0.796563365549454
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	16	3	picture	#F03623	0.786325511501049
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	17	3		#D7141E	0.873889607251293
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	18	3	value	#B10026	0.916631519055814
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	19	3	cue	#D7141E	0.828882283921484
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	20	3	error|target	#D7141E	0.843265003337561
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	21	3	attention	#F03623	0.709507497919902
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	22	3		#F03623	0.798043056952237
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	23	3	number	#D7141E	0.833240756556828
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	1	4	voice	#FFF1A9	0.196421334476076
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	2	4		#FEE188	0.279715116983926
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	3	4	hearing	#FECB68	0.359590437191986
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	4	4		#FDAD4A	0.489468633472964
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	5	4	overt	#FDAD4A	0.49695534453444
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	6	4		#FD913D	0.561538801789979
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	7	4		#F03623	0.704710978414193
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	8	4	nociceptive|nonpainful|painrelated	#FD913D	0.565650429982563
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	9	4	unpleasantness	#FC622F	0.672054180088002
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	10	4	skin|subjective	#D7141E	0.842742908941596
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	11	4	depression	#D7141E	0.833893528860866
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	12	4	experience	#F03623	0.722742928050873
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	13	4	female	#F03623	0.782272055166184
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	14	4	male	#D7141E	0.873563264847951
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	15	4	pictures	#F03623	0.740044736508784
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	16	4		#D7141E	0.869019460244719
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	17	4	perception	#F03623	0.700734279082657
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	18	4		#B10026	0.907509765765555
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	19	4		#D7141E	0.892647564615252
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	20	4		#D7141E	0.864865465884214
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	21	4	correct	#D7141E	0.849670699574404
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	22	4	work	#D7141E	0.809043322365159
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	23	4	memory	#F03623	0.748483547238777
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	1	5	prosodic|prosody	#FEE188	0.261259573402028
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	2	5	phonetic	#FFF1A9	0.151531276167369
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	3	5	syllable|syllables	#FECB68	0.395740837424496
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	4	5		#FDAD4A	0.431401689538839
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	5	5	lip|production	#FEE188	0.234645331919329
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	6	5	somatotopic	#FEE188	0.236056829625833
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	7	5		#F03623	0.735085360015524
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	8	5		#F03623	0.747744260258173
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	9	5	empathy	#D7141E	0.80180395775217
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	10	5		#D7141E	0.869724971057371
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	11	5	disorder	#F03623	0.796934982502696
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	12	5		#D7141E	0.869202796531891
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	13	5		#B10026	0.925090855710998
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	14	5		#B10026	0.913507950255258
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	15	5		#B10026	0.916215200434821
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	16	5		#B10026	0.903297438264386
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	17	5		#D7141E	0.900405773800422
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	18	5	mental	#D7141E	0.814788191009788
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	19	5	go	#B10026	0.901334941295793
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	20	5	object	#FC622F	0.680178015269164
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	21	5		#D7141E	0.891004755055805
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	22	5		#D7141E	0.856304356942657
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	23	5	word|words	#F03623	0.753415173901912
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	1	6		#F03623	0.710475974284609
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	2	6		#F03623	0.705466001021061
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	3	6		#F03623	0.728463630633004
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	4	6	vocal	#FFF1A9	0.174879893027302
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	5	6	articulatory	#FFFFCC	0.0745987457816537
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	6	6		#FD913D	0.57493740852983
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	7	6	oddball	#FDAD4A	0.47208370925409
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	8	6	perceived	#FC622F	0.659531790690378
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	9	6	errorrelated	#FD913D	0.516985780453684
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	10	6	approach	#F03623	0.776028127774931
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	11	6	schizophrenia	#FC622F	0.66048480458204
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	12	6	acquisition	#F03623	0.716062811404711
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	13	6		#D7141E	0.87063264417774
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	14	6		#F03623	0.723300367571735
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	15	6		#F03623	0.740390857433088
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	16	6		#F03623	0.780560888131926
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	17	6		#D7141E	0.869394251049092
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	18	6		#D7141E	0.878512137155794
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	19	6		#B10026	0.900856026790988
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	20	6	objects	#F03623	0.793900921328979
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	21	6		#D7141E	0.898742473967228
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	22	6		#D7141E	0.844089850508367
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	23	6	language|semantic	#F03623	0.783201781092043
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	1	7	dopamine|dopaminergic	#FD913D	0.539922321105838
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	2	7		#F03623	0.793983753178175
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	3	7		#B10026	0.985540551221905
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	4	7		#B10026	0.966531322392152
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	5	7		#B10026	0.976637634445589
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	6	7		#B10026	0.961892073096074
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	7	7		#B10026	0.932448026737683
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	8	7		#B10026	0.931805311530569
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	9	7		#D7141E	0.899841378220714
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	10	7		#B10026	0.904679875702005
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	11	7		#D7141E	0.885291720582029
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	12	7		#D7141E	0.868783468288401
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	13	7	linguistic|spoken	#FC622F	0.615233676497604
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	14	7		#FC622F	0.66201635863961
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	15	7	comprehension|sentence|sentences|syntactic	#FD913D	0.559155694355552
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	16	7		#F03623	0.713091157171183
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	17	7		#D7141E	0.821833733510571
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	18	7	phonological|reading|read	#F03623	0.773231184500445
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	19	7		#D7141E	0.891148470415363
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	20	7	perceptual|recognition	#D7141E	0.844012096110791
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	21	7		#B10026	0.917452445829425
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	22	7		#D7141E	0.869969832329939
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	23	7	verb	#D7141E	0.819585068501341
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	1	8	outcome|reward	#D7141E	0.801362007411808
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	2	8	anticipation	#F03623	0.751171125110781
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	3	8	outcomes	#F03623	0.75738304682275
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	4	8	choice|choices	#D7141E	0.853888678594136
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	5	8	decisions|probability	#B10026	0.992428207261498
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	6	8	reversal	#D7141E	0.805739077561226
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	7	8	classification|incorrect	#D7141E	0.86519133908727
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	8	8		#B10026	0.971059633857091
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	9	8	agerelated|fluency|probes	#D7141E	0.802287104844631
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	10	8	engaged	#F03623	0.733796273934426
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	11	8	explicit|knowledge	#F03623	0.74852227709351
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	12	8		#D7141E	0.812552836069152
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	13	8		#F03623	0.754818014898612
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	14	8		#FC622F	0.696426555518444
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	15	8		#F03623	0.704532573496558
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	16	8		#F03623	0.72893124405595
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	17	8	lexical	#F03623	0.732700268281016
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	18	8		#D7141E	0.849787030329436
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	19	8		#D7141E	0.88815086090781
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	20	8		#B10026	0.920497604875407
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	21	8	encoding	#D7141E	0.827837449066493
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	22	8	retrieval	#F03623	0.757925306720605
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	23	8	verbal	#D7141E	0.836780718779326
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	1	9	incentive|monetary|money|rewards	#FC622F	0.603668407246376
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	2	9	loss	#D7141E	0.81395671387745
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	3	9		#B10026	0.945003767164953
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	4	9		#B10026	0.992684182161194
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	5	9	decisionmaking	#D7141E	0.813977643426479
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	6	9		#B10026	0.988291673798375
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	7	9		#B10026	0.919048324656145
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	8	9		#D7141E	0.895909847379614
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	9	9		#D7141E	0.851040249988454
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	10	9		#D7141E	0.83383681510019
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	11	9		#D7141E	0.803832463110368
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	12	9		#F03623	0.784897889444336
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	13	9	noun	#FD913D	0.566308665532248
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	14	9	meaning	#F03623	0.726999658863694
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	15	9	english	#FC622F	0.673805562592209
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	16	9	pseudoword|pseudowords	#F03623	0.705173058153815
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	17	9		#D7141E	0.818779061155796
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	18	9		#B10026	0.904848444308356
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	19	9	familiar|judgment	#D7141E	0.84981711546839
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	20	9	pair|pairs	#D7141E	0.893143036709485
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	21	9		#B10026	0.965517316766129
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	22	9		#B10026	0.9306765278666
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	23	9	letter|working	#D7141E	0.858130924327276
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	1	10	losses|reinforcement|win	#FC622F	0.63627061293458
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	2	10	gain	#FD913D	0.53136649664561
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	3	10	expectation	#FC622F	0.677731762413111
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	4	10	risk	#D7141E	0.830916238712515
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	5	10	fact	#F03623	0.715895429728089
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	6	10	associative	#F03623	0.758586523411226
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	7	10	familiarity|judgments|old	#FC622F	0.602928487831766
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	8	10	contextual|text	#FD913D	0.587573876694009
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	9	10	recall|retrieved	#FD913D	0.552588280634434
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	10	10	conceptual|semantically	#FD913D	0.545816735094245
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	11	10	grammatical|speakers	#FC622F	0.690367011044313
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	12	10	nouns	#FD913D	0.587164151214157
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	13	10	japanese	#FC622F	0.650294651346487
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	14	10	languages	#FD913D	0.5295420294929
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	15	10	written	#FC622F	0.693441100901846
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	16	10	chinese|phonology	#FD913D	0.591443714693631
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	17	10	orthographic	#D7141E	0.840583540280415
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	18	10		#B10026	0.935081294434144
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	19	10		#B10026	0.948514279271982
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	20	10	association|decision	#B10026	1
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	21	10	selection	#D7141E	0.829316956800655
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	22	10	letters	#F03623	0.758583715319038
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	23	10	demand|load	#D7141E	0.849489726966521
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	1	11	conditioned|conditioning	#FECB68	0.32390063033939
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	2	11		#F03623	0.736635644874157
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	3	11	drug|placebo	#FC622F	0.692697340749851
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	4	11		#B10026	0.933876594908452
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	5	11	associations	#FC622F	0.634358901212087
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	6	11		#FC622F	0.696453182416009
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	7	11	episodic|recollection	#FECB68	0.363416086119034
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	8	11		#FC622F	0.634223467186213
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	9	11		#D7141E	0.866332203062182
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	10	11	concepts	#FD913D	0.525086449298587
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	11	11		#D7141E	0.851569778602565
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	12	11		#D7141E	0.817846656170373
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	13	11	german	#FC622F	0.656024960687989
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	14	11	readers	#FC622F	0.688554535329092
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	15	11	character|name|naming	#FD913D	0.583312631783392
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	16	11		#D7141E	0.87569711734051
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	17	11	novel	#B10026	0.952569543113209
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	18	11		#B10026	0.954441336893855
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	19	11	child|children	#D7141E	0.809109388820699
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	20	11	adults	#B10026	0.946326047468879
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	21	11	ability|feedback|learning	#B10026	0.998751629282388
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	22	11	cues|delay	#D7141E	0.835876735863435
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	23	11	attentional|difficulty|targets	#D7141E	0.820670031315917
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	1	12	aversive|shock	#FD913D	0.511799080857438
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	2	12	reactivity	#FD913D	0.503130239647994
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	3	12	males|sex|women	#FC622F	0.60312873338065
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	4	12	animal	#D7141E	0.811110055104532
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	5	12	animals	#F03623	0.745866512155713
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	6	12		#FC622F	0.608545817456006
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	7	12	remember|subsequent	#FECB68	0.386548498948282
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	8	12	autobiographical|memories	#FFFFCC	0.0828263704826369
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	9	12		#D7141E	0.8665682342236
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	10	12	violation|violations	#FECB68	0.372197789159166
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	11	12	aphasia	#F03623	0.751593123870447
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	12	12	nonwords	#FC622F	0.63654637193497
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	13	12	dyslexia	#FC622F	0.625034846803251
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	14	12		#D7141E	0.831494273547592
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	15	12	priming	#F03623	0.748714443012172
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	16	12		#B10026	0.915721073879149
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	17	12	category|repetition	#D7141E	0.883294254141651
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	18	12		#B10026	0.950671751060614
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	19	12	developmental|development	#F03623	0.777617298116359
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	20	12		#B10026	0.935459933753802
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	21	12	space	#D7141E	0.802257195856535
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	22	12		#D7141E	0.899733831255418
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	23	12	color	#D7141E	0.82409160493892
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	1	13	threat	#FEE188	0.219675602698623
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	2	13	regulation	#FECB68	0.396658989538665
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	3	13		#FC622F	0.667583434534984
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	4	13	masked	#FDAD4A	0.436973187163177
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	5	13	scene|scenes	#FECB68	0.332623005498817
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	6	13		#FD913D	0.556193876782287
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	7	13	confidence|remembered	#FEE188	0.247949297409762
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	8	13		#FC622F	0.609817701982065
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	9	13		#D7141E	0.870907870906001
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	10	13	ambiguity|ambiguous	#F03623	0.721225528742878
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	11	13		#B10026	0.909736567681806
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	12	13		#B10026	0.915961199284415
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	13	13	writing	#FD913D	0.595860982688326
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	14	13		#D7141E	0.897988383167769
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	15	13	categorization|congruency|prime	#FC622F	0.673279485915102
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	16	13		#B10026	0.944097061454864
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	17	13	mask	#F03623	0.800480897951712
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	18	13		#B10026	0.985583852264718
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	19	13		#B10026	0.930445043805959
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	20	13		#D7141E	0.893116639542893
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	21	13	conflict|congruent|incongruent	#F03623	0.747156260982344
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	22	13	errors	#D7141E	0.869341196498252
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	23	13	maintenance|probe|wm	#F03623	0.722854710992602
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	1	14	angry|fearful|happy	#FFFFCC	0.085002366065636
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	2	14		#FECB68	0.308288451411271
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	3	14	awareness|conscious|ptsd	#FECB68	0.33857028684453
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	4	14		#FC622F	0.667125235002419
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	5	14	houses|photographs	#FFF1A9	0.160136073668916
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	6	14		#FC622F	0.621313617378612
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	7	14	hits	#FECB68	0.309358632310733
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	8	14	famous	#FEE188	0.240961865964866
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	9	14	names	#FDAD4A	0.463413113089557
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	10	14	family	#FD913D	0.583435811816058
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	11	14	competition|mouth	#FC622F	0.609736470852508
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	12	14	abilities	#F03623	0.790471407899924
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	13	14	implicit|unfamiliar	#F03623	0.704334614587364
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	14	14		#D7141E	0.858330867131862
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	15	14	tom	#FC622F	0.691524506796904
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	16	14		#D7141E	0.870501830552079
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	17	14		#D7141E	0.895877126151057
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	18	14	stop	#F03623	0.765979959196045
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	19	14	inhibition|inhibitory|nogo	#D7141E	0.803622999100885
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	20	14	monitoring|stroop	#FC622F	0.677024966246859
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	21	14	interference	#F03623	0.731802996250944
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	22	14		#D7141E	0.832696240429887
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	23	14	demands|executive	#D7141E	0.829975243387463
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	1	15	anger	#FFFFCC	0.0267138806252643
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	2	15	stress	#FEE188	0.295407531428559
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	3	15	feelings	#FDAD4A	0.468507735952807
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	4	15	salient	#FDAD4A	0.480199463404999
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	5	15	novelty	#FECB68	0.343737879508484
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	6	15	movie	#FECB68	0.316245520809196
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	7	15		#F03623	0.763135326215326
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	8	15		#D7141E	0.806088689657393
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	9	15	longterm	#FECB68	0.3885949945699
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	10	15		#D7141E	0.840851050836678
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	11	15	reasoning|relational	#F03623	0.704263852383788
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	12	15		#B10026	0.906476283263356
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	13	15	presentations	#FECB68	0.394063564213725
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	14	15		#D7141E	0.81481705791053
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	15	15	identity	#FD913D	0.56181151795963
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	16	15		#D7141E	0.829651337402974
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	17	15	strategies|strategy	#F03623	0.709330878416707
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	18	15	card|cards	#F03623	0.763709823823558
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	19	15	gonogo	#F03623	0.762861630543501
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	20	15		#D7141E	0.83251946847226
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	21	15	switching|switch	#FD913D	0.596775595405113
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	22	15		#F03623	0.786945766996089
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	23	15	2back|rule	#F03623	0.720592631714165
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	1	16	emotionally|mood|personality|sadness	#FFF1A9	0.191274054372132
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	2	16	disgust|sexual	#FECB68	0.345943246548516
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	3	16	olfactory	#FECB68	0.315644705693793
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	4	16	physiological	#FC622F	0.675796523967684
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	5	16	depressed|depressive|habituation	#FDAD4A	0.443406048196727
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	6	16	schizophrenic	#FD913D	0.596049345542058
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	7	16	colors|contexts	#FD913D	0.578742152935156
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	8	16	aging|encoded	#FDAD4A	0.479702354464752
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	9	16	goal	#FDAD4A	0.456211354580712
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	10	16		#F03623	0.778934687474868
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	11	16	autism|autistic|nonverbal	#FC622F	0.623105086656803
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	12	16		#D7141E	0.832781875382862
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	13	16	bottomup|repetitions	#FD913D	0.50225191566869
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	14	16	adaptation	#FD913D	0.578955037730745
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	15	16	irrelevant	#FC622F	0.64875807064343
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	16	16	distractor|distractors	#FD913D	0.553970028038072
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	17	16		#D7141E	0.839347176549267
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	18	16	subtraction	#FC622F	0.616035981657637
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	19	16	1back|nback	#FC622F	0.621355289266878
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	20	16	manipulation|rules	#FC622F	0.658588249125359
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	21	16		#F03623	0.744797139620892
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	22	16		#F03623	0.720588980095302
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	23	16	digit	#FC622F	0.634456850295641
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	1	17	avoidance	#FEE188	0.200082691478178
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	2	17		#FD913D	0.558742141749983
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	3	17	eating|food	#FD913D	0.535447935147915
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	4	17	taste	#FD913D	0.572150757857354
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	5	17	bipolar	#FD913D	0.537100039983201
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	6	17	illness|uncertainty	#F03623	0.790857233083304
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	7	17	females|probabilistic	#FC622F	0.653817945483371
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	8	17	rejection	#FC622F	0.611972971618516
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	9	17	colour|paired	#FDAD4A	0.402324136073336
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	10	17		#D7141E	0.840496365396848
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	11	17		#D7141E	0.819899495186557
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	12	17		#F03623	0.781188770461059
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	13	17	taskirrelevant	#FDAD4A	0.427073983326227
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	14	17		#F03623	0.711124740486723
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	15	17	suppression	#F03623	0.737451571512604
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	16	17		#F03623	0.787338555683852
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	17	17	shifting|shortterm	#FC622F	0.61802011323487
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	18	17	digits	#FD913D	0.553691707749269
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	19	17	search	#F03623	0.753186466836392
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	20	17	counting|taskrelated	#FD913D	0.558514041212345
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	21	17	topdown	#FC622F	0.617428036698239
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	22	17	visuospatial	#FDAD4A	0.492251253214143
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	23	17	arithmetic|calculation|solving	#FC622F	0.629025644030002
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	1	18	addiction|craving|drugs	#FECB68	0.39408261844759
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	2	18	allele|genotype|polymorphism	#FEE188	0.282520013781901
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	3	18	motivation	#FC622F	0.620443751473641
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	4	18	heart	#FDAD4A	0.478032460755347
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	5	18	sleep	#D7141E	0.810937920928829
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	6	18	expectancy	#FC622F	0.619940459283364
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	7	18	phasic|salience	#FD913D	0.553920616078192
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	8	18	adolescence|adolescents	#FDAD4A	0.435933900804829
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	9	18	intelligence|tracking	#F03623	0.752882739355603
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	10	18		#D7141E	0.849879066786224
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	11	18	serial	#FD913D	0.584720938717515
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	12	18		#FC622F	0.671959656739112
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	13	18	spatially|taskrelevant	#FECB68	0.392310320541235
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	14	18		#FC622F	0.688403408446192
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	15	18	attended|attend|unattended	#FD913D	0.579059849055437
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	16	18	rotation|shapes	#FECB68	0.390726204536961
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	17	18	rehearsal	#FD913D	0.513797131840403
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	18	18	learned	#FC622F	0.641056786141643
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	19	18		#F03623	0.70436321302951
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	20	18	cued|preparatory	#FD913D	0.556651395338192
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	21	18		#F03623	0.713131598089772
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	22	18		#F03623	0.730485088092371
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	23	18	numbers|numerical	#FD913D	0.553171774929461
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	1	19	future	#FECB68	0.341452744314058
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	2	19	negatively	#FECB68	0.31311096910106
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	3	19	distress|epilepsy|selfreported	#FECB68	0.354736729171217
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	4	19	anticipatory|cocaine|probabilities|smoking	#FD913D	0.537435405419546
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	5	19	alcohol|amount|impulsivity	#FDAD4A	0.494744188764766
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	6	19	game|success	#FD913D	0.58047498409321
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	7	19	adhd|childhood|engagement	#FC622F	0.645069486753552
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	8	19		#B10026	0.95169236828993
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	9	19		#D7141E	0.864143345554546
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	10	19		#F03623	0.769567474724694
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	11	19		#FC622F	0.683640332372588
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	12	19	endogenous	#FECB68	0.385091943133812
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	13	19	cueing|invalid|orienting	#FDAD4A	0.416696315140926
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	14	19		#FC622F	0.699816155208057
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	15	19	multisensory	#FD913D	0.534964459282723
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	16	19		#F03623	0.723076489726795
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	17	19	shifts	#FC622F	0.632412796335507
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	18	19	covert	#FD913D	0.521639113591554
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	19	19		#FC622F	0.644273362694073
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	20	19	preparation	#FDAD4A	0.474001206043797
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	21	19	discrimination|training	#FC622F	0.62976598873835
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	22	19	sequences	#FD913D	0.587202312033846
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	23	19		#F03623	0.702854605628459
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	1	20	personal|self|selfreferential|trait|traits	#FEE188	0.256834500166702
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	2	20	empathic|theory	#FDAD4A	0.499849232651281
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	3	20	attribution|intentional	#FFFFCC	0.0464149583327209
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	4	20	elderly|oscillations	#FECB68	0.327737127301483
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	5	20	antipsychotic|virtual	#FEE188	0.227154079502667
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	6	20		#B10026	0.922837323686656
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	7	20	experiences	#FDAD4A	0.490632811331142
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	8	20	categorical|pressure	#FDAD4A	0.489732750426399
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	9	20	play|skills	#FEE188	0.269682658520765
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	10	20	automatic|trained	#FDAD4A	0.409215518374005
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	11	20		#FD913D	0.526161581370768
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	12	20	practice	#FDAD4A	0.418317987508767
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	13	20	visuomotor	#FEE188	0.25753198654435
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	14	20		#FD913D	0.598926091710946
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	15	20	tool	#FDAD4A	0.432856513348445
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	16	20	vision	#FEE188	0.284137293570703
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	17	20	visually	#FD913D	0.589149467773946
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	18	20	saccade|saccades|saccadic	#FDAD4A	0.409653712063578
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	19	20	locations	#FD913D	0.511138958697229
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	20	20	imagery|planning	#FD913D	0.551757262873085
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	21	20		#FC622F	0.630496327109042
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	22	20	rest	#FD913D	0.569733242541259
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	23	20	sequence	#FC622F	0.686469889442164
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	1	21	scenarios	#FEE188	0.226070075086162
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	2	21	intention|intentions	#FEE188	0.237401924027363
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	3	21	causality|perspective	#FFF1A9	0.131898599566876
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	4	21	past	#FFFFCC	0.0821829065914116
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	5	21		#F03623	0.75995262195119
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	6	21	episode	#FECB68	0.351081370691587
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	7	21	improvement	#FEE188	0.237256332334106
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	8	21	masking|retention	#FDAD4A	0.437353304323938
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	9	21		#FC622F	0.641053228317534
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	10	21	dominant	#FD913D	0.54007496476187
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	11	21		#FECB68	0.375511083771159
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	12	21	sequential	#FECB68	0.304081924096139
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	13	21	fingers	#FFFFCC	0
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	14	21		#FDAD4A	0.431969981546632
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	15	21	gesture|gestures	#FEE188	0.240264565569585
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	16	21		#FDAD4A	0.461551531180384
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	17	21	hands	#FEE188	0.250624141790997
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	18	21		#FD913D	0.548878547914561
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	19	21		#FD913D	0.57026325372081
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	20	21	eye|position	#FDAD4A	0.474109372208392
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	21	21	execution	#FDAD4A	0.420915116970242
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	22	21	finger|sensorimotor	#FEE188	0.284099528714708
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	23	21		#FDAD4A	0.482661086657163
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	1	22	moral|stories|story	#FFFFCC	0.00971893807434456
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	2	22	mentalizing|persons	#FFF1A9	0.190777895368114
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	3	22	default|restingstate	#FFFFCC	0.0815711864597316
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	4	22	thinking|thought|thoughts	#FECB68	0.360052520317822
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	5	22	spontaneous	#FECB68	0.312156069576433
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	6	22	concentration|sensations	#FDAD4A	0.429747936004985
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	7	22	hierarchical|preference	#FECB68	0.325444573259138
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	8	22	effort|oral|simulation	#FDAD4A	0.484031099463264
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	9	22	interhemispheric|plasticity	#FECB68	0.33078251173976
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	10	22	imagined|imagine	#FEE188	0.278240894659187
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	11	22	tapping	#FEE188	0.203936986054121
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	12	22	foot|muscle|muscles|voluntary	#FFF1A9	0.187668078063985
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	13	22	limb	#FFFFCC	0.0129372376171012
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	14	22	eyes|velocity	#FFFFCC	0.0833053485646891
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	15	22	biological|gaze|videos	#FFF1A9	0.119521626632377
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	16	22	body	#FD913D	0.53873918140931
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	17	22	grasping|orientation|reaching	#FEE188	0.252757076400677
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	18	22		#FD913D	0.522541900641269
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	19	22	mirror|shape	#FD913D	0.523255303360523
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	20	22	actions	#FDAD4A	0.481422786045571
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	21	22	action	#FC622F	0.636078585069528
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	22	22		#FDAD4A	0.463909676772807
+9bd69e1f-7c70-336b-ab7c-feecf9fee44d	Gold BT	23	22	hand|movements|sensory	#FECB68	0.346364288849804

@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	1	1	auditory|speech	#FEE188	0.290123938570568
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	2	1		#FEE188	0.259320760842396
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	3	1	da|integration	#FDAD4A	0.424944666193866
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	4	1		#FD913D	0.551017614267433
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	5	1	physical|psychophysical|tactile	#FC622F	0.628346100979568
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	6	1		#F03623	0.754798357247852
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	7	1	somatosensory|stimulation	#FC622F	0.646851219375078
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	8	1	painful|pain	#D7141E	0.813672559649401
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	9	1		#D7141E	0.803782666736206
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	10	1	ratings	#FD913D	0.525753733218841
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	11	1	affective|affect	#FEE188	0.289051258128295
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	12	1	emotions	#FECB68	0.367566130665291
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	13	1	expression|expressions|facial	#FDAD4A	0.456012986332028
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	14	1		#FD913D	0.504725143125557
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	15	1		#FDAD4A	0.477874848443235
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	16	1	emotion|motion|neutral	#FECB68	0.350792162725191
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	17	1	rating	#FDAD4A	0.481636736703442
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	18	1	negative|positive	#FECB68	0.385442619539238
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	19	1		#FDAD4A	0.442258981252357
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	20	1	ear|order	#FECB68	0.394523175538825
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	21	1	motor	#FDAD4A	0.431652878537269
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	22	1	visual	#FD913D	0.547561285175168
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	23	1	age|image|response	#FDAD4A	0.490256821340053
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	1	2	sound|sounds	#FFF1A9	0.186613884305336
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	2	2		#FEE188	0.222424113263953
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	3	2	audiovisual|bimodal|crossmodal	#FECB68	0.380174222203111
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	4	2		#FD913D	0.517512531179758
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	5	2		#FC622F	0.61128612602235
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	6	2		#F03623	0.716227488748217
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	7	2	sensation	#D7141E	0.885532199652828
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	8	2	heat|noxious	#F03623	0.775648769271368
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	9	2		#F03623	0.770600147326273
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	10	2		#FD913D	0.510316056788963
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	11	2		#FDAD4A	0.440948313513198
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	12	2	valence	#FEE188	0.244142081915001
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	13	2	person|social	#FECB68	0.322803601530996
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	14	2		#FD913D	0.512811895752821
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	15	2	face|faces	#FC622F	0.631146921965234
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	16	2		#FDAD4A	0.488075214483164
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	17	2		#FDAD4A	0.44357165098274
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	18	2		#FDAD4A	0.444471140338832
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	19	2		#FDAD4A	0.441875182532486
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	20	2		#FDAD4A	0.460068205192453
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	21	2	images|spatial	#FD913D	0.523870537144688
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	22	2	control	#FDAD4A	0.439935070143292
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	23	2	time	#FDAD4A	0.465923232973654
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	1	3	acoustic|listening|musical|music|pitch	#FFFFCC	0.0526182673490169
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	2	3	noise|tones	#FFF1A9	0.179780541747247
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	3	3		#FEE188	0.296833382210834
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	4	3		#FECB68	0.38042831234466
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	5	3	frequency	#FECB68	0.370849988204311
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	6	3		#FC622F	0.608773258496502
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	7	3		#D7141E	0.826706323952887
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	8	3	temperature	#F03623	0.749656522913488
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	9	3		#F03623	0.747994927362326
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	10	3	pleasant|unpleasant	#FDAD4A	0.431013010004246
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	11	3	anxiety	#FDAD4A	0.449605008082333
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	12	3		#FDAD4A	0.464708896395693
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	13	3		#FDAD4A	0.486222816934212
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	14	3		#FDAD4A	0.481916757583627
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	15	3		#FD913D	0.519523304863624
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	16	3	picture	#FDAD4A	0.499008215509179
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	17	3		#FD913D	0.510810643152234
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	18	3	value	#FDAD4A	0.406197828076051
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	19	3	cue	#FEE188	0.299102113798351
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	20	3	error|target	#FECB68	0.395215290941268
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	21	3	attention	#FDAD4A	0.448535428194625
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	22	3		#FDAD4A	0.444439705046567
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	23	3	number	#FDAD4A	0.446484322433272
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	1	4	voice	#FFFFCC	0.066174483824104
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	2	4		#FFF1A9	0.119374271957513
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	3	4	hearing	#FDAD4A	0.457375373147437
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	4	4		#FEE188	0.296803609531594
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	5	4	overt	#FECB68	0.344550734079167
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	6	4		#FDAD4A	0.4278359281411
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	7	4		#F03623	0.74314699826892
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	8	4	nociceptive|nonpainful|painrelated	#F03623	0.75818087469139
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	9	4	unpleasantness	#FC622F	0.605088536118916
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	10	4	skin|subjective	#FECB68	0.393474027456191
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	11	4	depression	#FECB68	0.379218209012245
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	12	4	experience	#FDAD4A	0.46629061674918
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	13	4	female	#FD913D	0.504833335033742
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	14	4	male	#FDAD4A	0.438233533651975
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	15	4	pictures	#FD913D	0.540682682977004
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	16	4		#FD913D	0.563156442188758
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	17	4	perception	#FD913D	0.543125333933222
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	18	4		#FDAD4A	0.485582794971071
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	19	4		#FDAD4A	0.463876505683988
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	20	4		#FDAD4A	0.457860242998449
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	21	4	correct	#FECB68	0.32101929203981
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	22	4	work	#FECB68	0.35161013306413
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	23	4	memory	#FECB68	0.354483678415087
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	1	5	prosodic|prosody	#FFF1A9	0.162781062971169
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	2	5	phonetic	#FFF1A9	0.101569062569186
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	3	5	syllable|syllables	#FFFFCC	0.0808468260853663
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	4	5		#FEE188	0.259440412346587
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	5	5	lip|production	#FEE188	0.27775560296692
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	6	5	somatotopic	#FDAD4A	0.431239247620011
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	7	5		#FC622F	0.606014889473202
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	8	5		#FD913D	0.540635312482336
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	9	5	empathy	#FDAD4A	0.439847418370791
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	10	5		#FEE188	0.299445448892549
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	11	5	disorder	#FEE188	0.285703355579665
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	12	5		#FECB68	0.337520886580067
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	13	5		#FECB68	0.386622829034312
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	14	5		#FECB68	0.391319225102228
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	15	5		#FDAD4A	0.439559099362245
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	16	5		#FDAD4A	0.496143696115606
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	17	5		#FDAD4A	0.487512347104547
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	18	5	mental	#FECB68	0.376989362368162
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	19	5	go	#FD913D	0.502336250552627
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	20	5	object	#FC622F	0.611625977752333
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	21	5		#FDAD4A	0.462822892703333
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	22	5		#FDAD4A	0.412944895902233
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	23	5	word|words	#FDAD4A	0.453241751026966
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	1	6		#FFF1A9	0.190998878787883
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	2	6		#FFF1A9	0.17229942771351
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	3	6		#FEE188	0.228249167578587
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	4	6	vocal	#FEE188	0.226775173792589
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	5	6	articulatory	#FFFFCC	0.0838401279101023
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	6	6		#FECB68	0.326800657467262
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	7	6	oddball	#FDAD4A	0.410617580187262
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	8	6	perceived	#FDAD4A	0.436847924700334
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	9	6	errorrelated	#FFF1A9	0.120364231765542
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	10	6	approach	#FFF1A9	0.141850243254752
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	11	6	schizophrenia	#FFF1A9	0.138670084285909
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	12	6	acquisition	#FFF1A9	0.117310521500991
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	13	6		#FECB68	0.324029512047976
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	14	6		#FEE188	0.236064825717138
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	15	6		#FEE188	0.26988789646257
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	16	6		#FECB68	0.314288860048071
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	17	6		#FD913D	0.504293438735216
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	18	6		#FD913D	0.566330918914829
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	19	6		#FD913D	0.587557279901345
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	20	6	objects	#F03623	0.712901644283933
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	21	6		#FD913D	0.528057428313556
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	22	6		#FDAD4A	0.420388020908747
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	23	6	language|semantic	#FDAD4A	0.405887260813337
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	1	7	dopamine|dopaminergic	#FFF1A9	0.120220356449008
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	2	7		#FFF1A9	0.112797792099296
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	3	7		#FFF1A9	0.175500569989122
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	4	7		#FFF1A9	0.199176753140935
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	5	7		#FEE188	0.208102974727781
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	6	7		#FEE188	0.288596399637863
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	7	7		#FECB68	0.315345782594869
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	8	7		#FEE188	0.254887195680858
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	9	7		#FEE188	0.223529731373144
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	10	7		#FFF1A9	0.18084918589478
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	11	7		#FFF1A9	0.179925128577436
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	12	7		#FEE188	0.233704316399165
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	13	7	linguistic|spoken	#FECB68	0.355589654787343
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	14	7		#FFF1A9	0.191631832315814
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	15	7	comprehension|sentence|sentences|syntactic	#FFF1A9	0.118371073705102
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	16	7		#FECB68	0.304081702436494
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	17	7		#FDAD4A	0.49988993110909
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	18	7	phonological|reading|read	#FD913D	0.526497398160497
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	19	7		#FC622F	0.603983910338423
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	20	7	perceptual|recognition	#FC622F	0.683998661140019
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	21	7		#FDAD4A	0.498970643281956
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	22	7		#FECB68	0.391105358084425
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	23	7	verb	#FECB68	0.301782254573546
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	1	8	outcome|reward	#FFF1A9	0.104695410141538
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	2	8	anticipation	#FFF1A9	0.111130385680184
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	3	8	outcomes	#FFFFCC	0.0917304689920677
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	4	8	choice|choices	#FFF1A9	0.105912906059378
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	5	8	decisions|probability	#FFFFCC	0.0913188656371591
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	6	8	reversal	#FFF1A9	0.121479139400666
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	7	8	classification|incorrect	#FEE188	0.255161372874017
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	8	8		#FEE188	0.24469578670433
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	9	8	agerelated|fluency|probes	#FFF1A9	0.140053028402705
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	10	8	engaged	#FFF1A9	0.168232424748931
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	11	8	explicit|knowledge	#FEE188	0.210649140338698
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	12	8		#FEE188	0.232702597724966
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	13	8		#FEE188	0.253183510688319
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	14	8		#FEE188	0.243055718474961
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	15	8		#FEE188	0.270126555910307
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	16	8		#FECB68	0.329981753925392
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	17	8	lexical	#FD913D	0.550747918379597
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	18	8		#FD913D	0.559953715188596
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	19	8		#FD913D	0.570369655915466
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	20	8		#FD913D	0.534962077112192
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	21	8	encoding	#FDAD4A	0.413053107354879
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	22	8	retrieval	#FEE188	0.231382067958426
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	23	8	verbal	#FEE188	0.294303269676938
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	1	9	incentive|monetary|money|rewards	#FFFFCC	0.00149413309082419
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	2	9	loss	#FFFFCC	0.0762013888990738
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	3	9		#FFF1A9	0.133607419834213
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	4	9		#FFF1A9	0.158422347078611
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	5	9	decisionmaking	#FFF1A9	0.147298329043632
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	6	9		#FEE188	0.249396433466951
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	7	9		#FEE188	0.24324851640872
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	8	9		#FEE188	0.23386372526995
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	9	9		#FFF1A9	0.179062595783507
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	10	9		#FFF1A9	0.171950797088079
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	11	9		#FFF1A9	0.17249955184003
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	12	9		#FFF1A9	0.18999249102284
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	13	9	noun	#FFF1A9	0.133809396422028
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	14	9	meaning	#FECB68	0.335729668723498
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	15	9	english	#FECB68	0.359426150704187
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	16	9	pseudoword|pseudowords	#FDAD4A	0.441683299085664
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	17	9		#FDAD4A	0.499264704527603
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	18	9		#FD913D	0.550806782472729
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	19	9	familiar|judgment	#FD913D	0.526251999677652
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	20	9	pair|pairs	#FECB68	0.310042846487291
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	21	9		#FDAD4A	0.400776046317766
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	22	9		#FECB68	0.374176186489951
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	23	9	letter|working	#FDAD4A	0.415180141890846
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	1	10	losses|reinforcement|win	#FFFFCC	0.0738805091813802
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	2	10	gain	#FFFFCC	0.0516490894746183
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	3	10	expectation	#FFF1A9	0.14016228760186
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	4	10	risk	#FFF1A9	0.147660293335212
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	5	10	fact	#FECB68	0.357451882916969
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	6	10	associative	#FECB68	0.34232670509252
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	7	10	familiarity|judgments|old	#FEE188	0.227691004876823
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	8	10	contextual|text	#FFF1A9	0.146966137496644
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	9	10	recall|retrieved	#FFF1A9	0.128786971877079
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	10	10	conceptual|semantically	#FFF1A9	0.122487770205638
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	11	10	grammatical|speakers	#FFF1A9	0.102133950492686
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	12	10	nouns	#FFF1A9	0.170289620304308
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	13	10	japanese	#FEE188	0.229261833333703
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	14	10	languages	#FECB68	0.392560816966658
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	15	10	written	#FC622F	0.603086667584821
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	16	10	chinese|phonology	#FDAD4A	0.448632394064428
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	17	10	orthographic	#FD913D	0.591421173809265
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	18	10		#FD913D	0.503907403358297
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	19	10		#FDAD4A	0.458761839269531
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	20	10	association|decision	#FECB68	0.343364246328876
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	21	10	selection	#FEE188	0.280740381549267
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	22	10	letters	#FD913D	0.543164763438655
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	23	10	demand|load	#FEE188	0.266344686283359
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	1	11	conditioned|conditioning	#FEE188	0.229334733099583
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	2	11		#FEE188	0.258714309047761
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	3	11	drug|placebo	#FEE188	0.265548099187359
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	4	11		#FDAD4A	0.471167148179254
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	5	11	associations	#FECB68	0.363965539560807
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	6	11		#FDAD4A	0.405060933326911
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	7	11	episodic|recollection	#FFF1A9	0.101650914124565
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	8	11		#FECB68	0.367746962413445
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	9	11		#FECB68	0.366983154007565
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	10	11	concepts	#FECB68	0.31496288744749
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	11	11		#FECB68	0.308516660424242
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	12	11		#FECB68	0.333455258619466
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	13	11	german	#FEE188	0.2567486314693
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	14	11	readers	#FDAD4A	0.498330209906084
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	15	11	character|name|naming	#FC622F	0.635153863928144
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	16	11		#FC622F	0.633569308900619
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	17	11	novel	#FD913D	0.583231625344712
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	18	11		#FD913D	0.503953464578616
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	19	11	child|children	#FDAD4A	0.457112110608374
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	20	11	adults	#FECB68	0.370366916705193
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	21	11	ability|feedback|learning	#FECB68	0.302205773293009
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	22	11	cues|delay	#FEE188	0.208751821826673
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	23	11	attentional|difficulty|targets	#FECB68	0.39670067130296
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	1	12	aversive|shock	#FDAD4A	0.402410686031075
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	2	12	reactivity	#FEE188	0.226064892252745
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	3	12	males|sex|women	#FECB68	0.31990142809895
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	4	12	animal	#FC622F	0.692683819828289
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	5	12	animals	#D7141E	0.892065258952845
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	6	12		#FD913D	0.576655568375624
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	7	12	remember|subsequent	#FDAD4A	0.449890649210309
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	8	12	autobiographical|memories	#FFF1A9	0.120356590160313
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	9	12		#FDAD4A	0.44910738356392
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	10	12	violation|violations	#FEE188	0.274501039864545
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	11	12	aphasia	#FECB68	0.377969155413964
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	12	12	nonwords	#FDAD4A	0.485450553233162
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	13	12	dyslexia	#FC622F	0.668492333391471
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	14	12		#FC622F	0.618647630120839
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	15	12	priming	#F03623	0.74138241730825
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	16	12		#FC622F	0.663608557290957
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	17	12	category|repetition	#F03623	0.732296061533482
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	18	12		#FD913D	0.521750618443655
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	19	12	developmental|development	#FECB68	0.327850902474685
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	20	12		#FECB68	0.338432554766934
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	21	12	space	#FECB68	0.334907888171141
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	22	12		#FEE188	0.269216429238209
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	23	12	color	#FDAD4A	0.459976152569619
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	1	13	threat	#FEE188	0.205889832524219
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	2	13	regulation	#FFF1A9	0.169763598882048
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	3	13		#FDAD4A	0.467056914185008
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	4	13	masked	#FD913D	0.553873331886222
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	5	13	scene|scenes	#FC622F	0.669278262044989
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	6	13		#FC622F	0.671426481190856
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	7	13	confidence|remembered	#FD913D	0.545993758564562
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	8	13		#FD913D	0.550770752098376
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	9	13		#FDAD4A	0.471634428236647
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	10	13	ambiguity|ambiguous	#FECB68	0.35627754720846
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	11	13		#FDAD4A	0.484408158957031
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	12	13		#FC622F	0.650171365965256
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	13	13	writing	#FDAD4A	0.495071327868759
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	14	13		#FC622F	0.673062269895221
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	15	13	categorization|congruency|prime	#FDAD4A	0.437733203095092
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	16	13		#FC622F	0.634664903597619
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	17	13	mask	#FC622F	0.639922935975398
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	18	13		#FDAD4A	0.477509852416927
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	19	13		#FECB68	0.315500799448336
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	20	13		#FEE188	0.27282516755897
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	21	13	conflict|congruent|incongruent	#FFF1A9	0.194749707566496
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	22	13	errors	#FFF1A9	0.176349825734488
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	23	13	maintenance|probe|wm	#FFF1A9	0.167628125347455
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	1	14	angry|fearful|happy	#FECB68	0.307497956484128
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	2	14		#FEE188	0.298131181465223
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	3	14	awareness|conscious|ptsd	#FDAD4A	0.457440755033779
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	4	14		#F03623	0.709100349623889
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	5	14	houses|photographs	#FC622F	0.681636098187814
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	6	14		#F03623	0.724194955550117
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	7	14	hits	#FDAD4A	0.497090111239896
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	8	14	famous	#FD913D	0.538922131787611
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	9	14	names	#FEE188	0.298149929678915
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	10	14	family	#FECB68	0.367543608032757
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	11	14	competition|mouth	#FDAD4A	0.446045028364392
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	12	14	abilities	#FEE188	0.265396119688281
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	13	14	implicit|unfamiliar	#B10026	1
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	14	14		#F03623	0.739187005010182
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	15	14	tom	#FECB68	0.327758810260888
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	16	14		#FD913D	0.521916343702018
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	17	14		#FECB68	0.396341363609052
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	18	14	stop	#FEE188	0.285599613899933
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	19	14	inhibition|inhibitory|nogo	#FEE188	0.225731640111815
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	20	14	monitoring|stroop	#FFF1A9	0.132370479330158
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	21	14	interference	#FEE188	0.220263028686068
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	22	14		#FFF1A9	0.171845806298445
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	23	14	demands|executive	#FFFFCC	0.0903564271649798
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	1	15	anger	#FECB68	0.333988244989383
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	2	15	stress	#FEE188	0.267665792180451
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	3	15	feelings	#FEE188	0.23139227639747
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	4	15	salient	#FECB68	0.331294896265152
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	5	15	novelty	#FDAD4A	0.453486109910817
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	6	15	movie	#FFF1A9	0.180529364297163
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	7	15		#FD913D	0.538246801094794
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	8	15		#FD913D	0.51309694587349
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	9	15	longterm	#FECB68	0.316619885509182
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	10	15		#FECB68	0.398893783193117
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	11	15	reasoning|relational	#FECB68	0.319361792394838
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	12	15		#FC622F	0.67886818068483
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	13	15	presentations	#FD913D	0.511064688667755
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	14	15		#D7141E	0.830891645335959
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	15	15	identity	#F03623	0.75581823918871
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	16	15		#FDAD4A	0.448664553066563
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	17	15	strategies|strategy	#FFFFCC	0.057056382407078
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	18	15	card|cards	#FEE188	0.244160106995338
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	19	15	gonogo	#FEE188	0.210187883842839
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	20	15		#FEE188	0.211295758322991
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	21	15	switching|switch	#FFFFCC	0.0744475783869395
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	22	15		#FFF1A9	0.167759609857838
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	23	15	2back|rule	#FFF1A9	0.14223371511019
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	1	16	emotionally|mood|personality|sadness	#FFFFCC	0.0381485972108165
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	2	16	disgust|sexual	#FEE188	0.295440164869948
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	3	16	olfactory	#FC622F	0.654325437217833
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	4	16	physiological	#FD913D	0.572777007481549
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	5	16	depressed|depressive|habituation	#FEE188	0.221660429573338
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	6	16	schizophrenic	#FECB68	0.330998528174163
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	7	16	colors|contexts	#FEE188	0.28230219676375
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	8	16	aging|encoded	#FFF1A9	0.10798998969093
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	9	16	goal	#FFFFCC	0.0712787620901926
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	10	16		#FECB68	0.376762968767604
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	11	16	autism|autistic|nonverbal	#FDAD4A	0.459057295143589
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	12	16		#FC622F	0.632906986956051
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	13	16	bottomup|repetitions	#FC622F	0.625878088426674
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	14	16	adaptation	#B10026	0.939682256912539
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	15	16	irrelevant	#FD913D	0.591148706102074
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	16	16	distractor|distractors	#FFF1A9	0.195473386928155
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	17	16		#FEE188	0.297619121762528
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	18	16	subtraction	#FFF1A9	0.121596273990052
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	19	16	1back|nback	#FEE188	0.213270948658218
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	20	16	manipulation|rules	#FFF1A9	0.17572570209696
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	21	16		#FEE188	0.229754226621438
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	22	16		#FFF1A9	0.187685951111276
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	23	16	digit	#FFF1A9	0.195596664505631
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	1	17	avoidance	#FFFFCC	0.00648400886240835
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	2	17		#FFF1A9	0.12445937709093
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	3	17	eating|food	#FEE188	0.256241665815642
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	4	17	taste	#FD913D	0.526458539546772
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	5	17	bipolar	#FFFFCC	0.0893300968830142
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	6	17	illness|uncertainty	#FEE188	0.224909443777257
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	7	17	females|probabilistic	#FECB68	0.351709520524908
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	8	17	rejection	#FDAD4A	0.426463152134736
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	9	17	colour|paired	#FC622F	0.68135124230253
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	10	17		#FDAD4A	0.445015749059247
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	11	17		#FDAD4A	0.445297387494318
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	12	17		#FD913D	0.508229063755167
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	13	17	taskirrelevant	#FDAD4A	0.435534671559225
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	14	17		#FC622F	0.67964314386451
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	15	17	suppression	#D7141E	0.859242644367316
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	16	17		#FD913D	0.531154556298038
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	17	17	shifting|shortterm	#FEE188	0.261999288197534
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	18	17	digits	#FFF1A9	0.138038114636598
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	19	17	search	#FDAD4A	0.497322716232823
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	20	17	counting|taskrelated	#FFF1A9	0.196749173009543
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	21	17	topdown	#FDAD4A	0.436767450266833
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	22	17	visuospatial	#FEE188	0.219713984263193
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	23	17	arithmetic|calculation|solving	#FFF1A9	0.111335273678938
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	1	18	addiction|craving|drugs	#FFFFCC	0.0184731359115583
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	2	18	allele|genotype|polymorphism	#FFFFCC	0
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	3	18	motivation	#FEE188	0.293016100977857
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	4	18	heart	#FD913D	0.530239016636849
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	5	18	sleep	#FECB68	0.33903092151141
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	6	18	expectancy	#FFF1A9	0.118049120757888
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	7	18	phasic|salience	#FFF1A9	0.113015583121824
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	8	18	adolescence|adolescents	#FFF1A9	0.194098896917814
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	9	18	intelligence|tracking	#FFF1A9	0.116209396519656
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	10	18		#FDAD4A	0.437100207304385
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	11	18	serial	#FC622F	0.645142616048701
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	12	18		#FDAD4A	0.402194450546154
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	13	18	spatially|taskrelevant	#FEE188	0.256204945868888
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	14	18		#FD913D	0.546947273262916
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	15	18	attended|attend|unattended	#FD913D	0.566570362835346
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	16	18	rotation|shapes	#FD913D	0.538065930295912
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	17	18	rehearsal	#FEE188	0.217529720746988
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	18	18	learned	#FFF1A9	0.149807945075661
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	19	18		#FECB68	0.328343490798672
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	20	18	cued|preparatory	#FECB68	0.360583013278261
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	21	18		#FECB68	0.351362101778299
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	22	18		#FEE188	0.285714206653488
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	23	18	numbers|numerical	#FEE188	0.225360510206559
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	1	19	future	#FFF1A9	0.172953421935893
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	2	19	negatively	#FFF1A9	0.142808137668399
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	3	19	distress|epilepsy|selfreported	#FFFFCC	0.0665160863675647
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	4	19	anticipatory|cocaine|probabilities|smoking	#FFFFCC	0.0231782940561645
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	5	19	alcohol|amount|impulsivity	#FFF1A9	0.136750543128108
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	6	19	game|success	#FFF1A9	0.117677985164131
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	7	19	adhd|childhood|engagement	#FFF1A9	0.154011538966634
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	8	19		#FDAD4A	0.403764106990435
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	9	19		#FDAD4A	0.408826725989117
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	10	19		#FECB68	0.360212411814327
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	11	19		#FECB68	0.356386076727902
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	12	19	endogenous	#FFF1A9	0.12497679004441
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	13	19	cueing|invalid|orienting	#FFF1A9	0.180987888396963
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	14	19		#FDAD4A	0.490878546137137
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	15	19	multisensory	#FDAD4A	0.452282300528187
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	16	19		#FD913D	0.559195232258805
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	17	19	shifts	#FECB68	0.399592594181976
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	18	19	covert	#FECB68	0.327070695593806
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	19	19		#FECB68	0.326115241032931
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	20	19	preparation	#FECB68	0.391407296662176
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	21	19	discrimination|training	#FDAD4A	0.436083180738438
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	22	19	sequences	#FEE188	0.271817596678534
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	23	19		#FDAD4A	0.419757650716223
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	1	20	personal|self|selfreferential|trait|traits	#FFFFCC	0.0357341096858594
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	2	20	empathic|theory	#FFFFCC	0.0420971680866464
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	3	20	attribution|intentional	#FFFFCC	0.00566822703000704
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	4	20	elderly|oscillations	#FFFFCC	0.0231209752530313
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	5	20	antipsychotic|virtual	#FFFFCC	0.0537954375058572
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	6	20		#FEE188	0.262153713755999
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	7	20	experiences	#FFFFCC	0.0960464518986606
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	8	20	categorical|pressure	#B10026	0.930369743697409
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	9	20	play|skills	#FFFFCC	0.0848748406904304
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	10	20	automatic|trained	#FFF1A9	0.115214756110784
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	11	20		#FEE188	0.258289313144511
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	12	20	practice	#FFF1A9	0.126669999765876
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	13	20	visuomotor	#FFFFCC	0.0977482475555028
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	14	20		#FECB68	0.386266471235746
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	15	20	tool	#FEE188	0.244927449695123
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	16	20	vision	#FECB68	0.33947763961197
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	17	20	visually	#FC622F	0.645186576976736
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	18	20	saccade|saccades|saccadic	#FEE188	0.293981991380007
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	19	20	locations	#FECB68	0.304035157923588
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	20	20	imagery|planning	#FFF1A9	0.120526948606991
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	21	20		#FECB68	0.381151925841285
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	22	20	rest	#FDAD4A	0.413317485511701
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	23	20	sequence	#FDAD4A	0.434900423417317
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	1	21	scenarios	#FFFFCC	0.00665672734926273
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	2	21	intention|intentions	#FFFFCC	0.0302956787794879
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	3	21	causality|perspective	#FFF1A9	0.121014298272059
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	4	21	past	#FECB68	0.338329083029915
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	5	21		#FECB68	0.334006530100886
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	6	21	episode	#FFFFCC	0.0820197011671321
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	7	21	improvement	#FECB68	0.330734023991777
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	8	21	masking|retention	#FFF1A9	0.137726745129955
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	9	21		#FEE188	0.281010275392666
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	10	21	dominant	#FD913D	0.535936954482912
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	11	21		#FECB68	0.323801978566098
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	12	21	sequential	#FEE188	0.205348232407262
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	13	21	fingers	#FEE188	0.2311712815613
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	14	21		#FECB68	0.337745472997394
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	15	21	gesture|gestures	#FFF1A9	0.153066808834016
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	16	21		#FECB68	0.318694385092478
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	17	21	hands	#FEE188	0.244031898165787
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	18	21		#FECB68	0.325362560966411
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	19	21		#FECB68	0.340917240533643
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	20	21	eye|position	#FECB68	0.304572152440524
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	21	21	execution	#FEE188	0.220072320647686
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	22	21	finger|sensorimotor	#FECB68	0.326612276418863
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	23	21		#FDAD4A	0.43211028425642
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	1	22	moral|stories|story	#FFFFCC	0.0365238789758307
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	2	22	mentalizing|persons	#FFFFCC	0.072527292972411
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	3	22	default|restingstate	#FFFFCC	0.0607933732359354
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	4	22	thinking|thought|thoughts	#FFF1A9	0.163409864967511
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	5	22	spontaneous	#FDAD4A	0.435706976194235
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	6	22	concentration|sensations	#FC622F	0.68120835655187
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	7	22	hierarchical|preference	#FECB68	0.308380527496556
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	8	22	effort|oral|simulation	#FFFFCC	0.07337018783766
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	9	22	interhemispheric|plasticity	#FEE188	0.251363514815013
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	10	22	imagined|imagine	#FFFFCC	0.0623661422596015
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	11	22	tapping	#FDAD4A	0.497348041380596
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	12	22	foot|muscle|muscles|voluntary	#FD913D	0.551169581907463
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	13	22	limb	#FECB68	0.32999239852454
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	14	22	eyes|velocity	#FECB68	0.328329351761982
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	15	22	biological|gaze|videos	#FECB68	0.347471198966803
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	16	22	body	#FECB68	0.304219780722885
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	17	22	grasping|orientation|reaching	#FFF1A9	0.121184589469182
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	18	22		#FEE188	0.289723039649012
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	19	22	mirror|shape	#FDAD4A	0.453943505668563
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	20	22	actions	#FECB68	0.325137108504636
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	21	22	action	#FECB68	0.376576493482733
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	22	22		#FDAD4A	0.410846802308859
+92bece43-4087-3f8f-bbbb-7326daf19b7a	Iosifescu DV	23	22	hand|movements|sensory	#FDAD4A	0.444347094160713

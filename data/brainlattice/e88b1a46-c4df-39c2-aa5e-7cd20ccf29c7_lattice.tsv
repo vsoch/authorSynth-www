@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	1	1	auditory|speech	#FECB68	0.363631412201308
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	2	1		#FECB68	0.355265623055789
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	3	1	da|integration	#FC622F	0.661028379602073
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	4	1		#FDAD4A	0.491778104063464
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	5	1	physical|psychophysical|tactile	#FEE188	0.260203898592503
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	6	1		#FEE188	0.265320058999147
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	7	1	somatosensory|stimulation	#FFF1A9	0.168498914460616
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	8	1	painful|pain	#FFF1A9	0.151527741668128
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	9	1		#FEE188	0.221232145530082
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	10	1	ratings	#FECB68	0.36661551356372
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	11	1	affective|affect	#FDAD4A	0.417194941379589
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	12	1	emotions	#FD913D	0.518005154637233
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	13	1	expression|expressions|facial	#FC622F	0.639015663622982
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	14	1		#F03623	0.732048016253653
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	15	1		#F03623	0.706793739032006
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	16	1	emotion|motion|neutral	#FD913D	0.573848648946248
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	17	1	rating	#FDAD4A	0.456773681505057
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	18	1	negative|positive	#FDAD4A	0.447398724969382
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	19	1		#FD913D	0.562530816855119
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	20	1	ear|order	#FD913D	0.569432208457623
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	21	1	motor	#FECB68	0.381505392956207
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	22	1	visual	#F03623	0.716442192959413
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	23	1	age|image|response	#FD913D	0.588513385450063
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	1	2	sound|sounds	#FEE188	0.212945667539982
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	2	2		#FECB68	0.328117692722188
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	3	2	audiovisual|bimodal|crossmodal	#FD913D	0.547703792738707
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	4	2		#FD913D	0.508874411888632
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	5	2		#FDAD4A	0.421833902435887
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	6	2		#FEE188	0.298557254986729
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	7	2	sensation	#FFF1A9	0.111918646147578
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	8	2	heat|noxious	#FFF1A9	0.161812204643356
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	9	2		#FEE188	0.248501649751034
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	10	2		#FDAD4A	0.413458287131611
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	11	2		#FDAD4A	0.464427734019454
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	12	2	valence	#FDAD4A	0.48126415439673
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	13	2	person|social	#FD913D	0.555462642126909
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	14	2		#F03623	0.743137690598526
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	15	2	face|faces	#D7141E	0.890818239939823
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	16	2		#FC622F	0.695046431183627
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	17	2		#FC622F	0.613084335227335
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	18	2		#FD913D	0.595332363308465
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	19	2		#FD913D	0.589454168788569
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	20	2		#FD913D	0.587328823259024
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	21	2	images|spatial	#FC622F	0.638585887515428
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	22	2	control	#FD913D	0.578672251983628
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	23	2	time	#FD913D	0.591629252972801
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	1	3	acoustic|listening|musical|music|pitch	#FFF1A9	0.148051805338408
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	2	3	noise|tones	#FEE188	0.287473893373708
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	3	3		#FDAD4A	0.45655003730754
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	4	3		#FD913D	0.514305858999103
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	5	3	frequency	#FDAD4A	0.458273933297702
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	6	3		#FECB68	0.39808359274564
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	7	3		#FFF1A9	0.187321659296704
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	8	3	temperature	#FFF1A9	0.151774509313584
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	9	3		#FEE188	0.264130066589467
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	10	3	pleasant|unpleasant	#FDAD4A	0.43708704329175
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	11	3	anxiety	#FECB68	0.307784536685938
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	12	3		#FD913D	0.546079849391206
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	13	3		#FC622F	0.670024667286213
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	14	3		#F03623	0.719982497280084
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	15	3		#F03623	0.762485531236373
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	16	3	picture	#F03623	0.784305202501765
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	17	3		#F03623	0.713461312244817
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	18	3	value	#FD913D	0.554915738398149
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	19	3	cue	#FD913D	0.568204953770995
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	20	3	error|target	#FD913D	0.596245199447509
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	21	3	attention	#FC622F	0.635985701055829
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	22	3		#FC622F	0.647575758077252
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	23	3	number	#FC622F	0.633311883937568
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	1	4	voice	#FEE188	0.296268360630239
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	2	4		#FECB68	0.338869171525956
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	3	4	hearing	#FDAD4A	0.454361537505191
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	4	4		#FDAD4A	0.407891460820336
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	5	4	overt	#FECB68	0.398617722380915
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	6	4		#FECB68	0.35499510590978
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	7	4		#FEE188	0.224904671402815
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	8	4	nociceptive|nonpainful|painrelated	#FFFFCC	0.0960962027753123
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	9	4	unpleasantness	#FEE188	0.251881882954872
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	10	4	skin|subjective	#FECB68	0.381519191623794
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	11	4	depression	#FDAD4A	0.484813098675976
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	12	4	experience	#FD913D	0.540657092658417
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	13	4	female	#FD913D	0.554584154935547
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	14	4	male	#FC622F	0.656435324421495
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	15	4	pictures	#D7141E	0.811716444772715
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	16	4		#D7141E	0.813568436308705
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	17	4	perception	#FC622F	0.693247934531304
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	18	4		#F03623	0.728354111830981
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	19	4		#F03623	0.71681331427686
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	20	4		#F03623	0.711094663300572
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	21	4	correct	#FC622F	0.648764850223063
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	22	4	work	#FD913D	0.585993770718401
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	23	4	memory	#FC622F	0.608192039582636
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	1	5	prosodic|prosody	#FECB68	0.373411726782599
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	2	5	phonetic	#FECB68	0.302666298466942
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	3	5	syllable|syllables	#FDAD4A	0.422022403024953
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	4	5		#FECB68	0.359159341080207
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	5	5	lip|production	#FFF1A9	0.18515472450097
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	6	5	somatotopic	#FFFFCC	0.0578570599509546
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	7	5		#FECB68	0.328896841305352
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	8	5		#FECB68	0.374926488506271
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	9	5	empathy	#FDAD4A	0.450734412442164
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	10	5		#FD913D	0.582150240707246
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	11	5	disorder	#FD913D	0.573509418550728
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	12	5		#FC622F	0.619516295613666
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	13	5		#FC622F	0.653797489223493
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	14	5		#F03623	0.731007436495726
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	15	5		#F03623	0.764225146231045
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	16	5		#F03623	0.794093208174751
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	17	5		#F03623	0.781973685682105
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	18	5	mental	#FC622F	0.679229858549059
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	19	5	go	#F03623	0.79463826018017
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	20	5	object	#D7141E	0.837280835668707
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	21	5		#F03623	0.747117238145085
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	22	5		#F03623	0.702563445505372
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	23	5	word|words	#F03623	0.7157059759978
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	1	6		#FECB68	0.351811851002986
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	2	6		#FECB68	0.383361479090336
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	3	6		#FECB68	0.396392491801805
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	4	6	vocal	#FEE188	0.199573295100152
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	5	6	articulatory	#FFF1A9	0.148279368644904
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	6	6		#FECB68	0.329444785718763
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	7	6	oddball	#FECB68	0.363820199620585
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	8	6	perceived	#FD913D	0.538035587304136
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	9	6	errorrelated	#FDAD4A	0.417788057120523
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	10	6	approach	#FC622F	0.602835339973762
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	11	6	schizophrenia	#FD913D	0.587384082001538
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	12	6	acquisition	#FDAD4A	0.487974765889528
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	13	6		#FC622F	0.654797912854821
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	14	6		#FD913D	0.572322710825332
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	15	6		#FC622F	0.602920820078944
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	16	6		#FC622F	0.638624065618631
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	17	6		#F03623	0.780580907000791
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	18	6		#D7141E	0.8181117772145
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	19	6		#D7141E	0.83541171773784
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	20	6	objects	#D7141E	0.899390268975525
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	21	6		#D7141E	0.80094712234055
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	22	6		#F03623	0.721364220304923
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	23	6	language|semantic	#FC622F	0.69332790455531
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	1	7	dopamine|dopaminergic	#FFF1A9	0.128838638071245
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	2	7		#FFF1A9	0.190486473752422
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	3	7		#FECB68	0.308673394612038
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	4	7		#FECB68	0.368099057799507
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	5	7		#FDAD4A	0.420229312662876
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	6	7		#FD913D	0.533860628905601
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	7	7		#FD913D	0.559549795987432
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	8	7		#FD913D	0.598739435693597
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	9	7		#FC622F	0.640177660167217
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	10	7		#FC622F	0.690558587875715
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	11	7		#FC622F	0.675355620428556
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	12	7		#FC622F	0.674899704071612
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	13	7	linguistic|spoken	#FD913D	0.56507598303027
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	14	7		#FD913D	0.53341819261568
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	15	7	comprehension|sentence|sentences|syntactic	#FDAD4A	0.472319427270509
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	16	7		#FD913D	0.597249743513186
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	17	7		#F03623	0.746433694522695
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	18	7	phonological|reading|read	#F03623	0.754790928542159
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	19	7		#D7141E	0.835527010818829
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	20	7	perceptual|recognition	#D7141E	0.872868390861517
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	21	7		#F03623	0.785930964883004
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	22	7		#F03623	0.704678164275563
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	23	7	verb	#FC622F	0.617566868115242
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	1	8	outcome|reward	#FFF1A9	0.178056592513966
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	2	8	anticipation	#FFF1A9	0.167772731332382
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	3	8	outcomes	#FFF1A9	0.171303088623012
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	4	8	choice|choices	#FEE188	0.29512887992452
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	5	8	decisions|probability	#FD913D	0.520821865224869
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	6	8	reversal	#FD913D	0.585956178594688
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	7	8	classification|incorrect	#FDAD4A	0.466130805926206
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	8	8		#FC622F	0.610718260425333
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	9	8	agerelated|fluency|probes	#FC622F	0.630969026797485
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	10	8	engaged	#FC622F	0.629266363573886
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	11	8	explicit|knowledge	#FC622F	0.613979876841044
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	12	8		#FC622F	0.651552020735727
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	13	8		#FC622F	0.62085486307756
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	14	8		#FD913D	0.575237773785964
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	15	8		#FD913D	0.588619775326558
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	16	8		#FC622F	0.614454746978729
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	17	8	lexical	#FC622F	0.657746442837087
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	18	8		#F03623	0.786579245790657
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	19	8		#D7141E	0.818678771421733
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	20	8		#D7141E	0.820460535213091
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	21	8	encoding	#F03623	0.713367709165162
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	22	8	retrieval	#FD913D	0.595496949978014
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	23	8	verbal	#FD913D	0.594657024241181
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	1	9	incentive|monetary|money|rewards	#FFFFCC	0.0648248465691322
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	2	9	loss	#FFF1A9	0.161276534124217
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	3	9		#FEE188	0.256816731125546
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	4	9		#FECB68	0.342684048209569
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	5	9	decisionmaking	#FEE188	0.240259662811572
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	6	9		#FD913D	0.599172071143817
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	7	9		#FC622F	0.614181601435418
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	8	9		#FC622F	0.613627011792179
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	9	9		#FC622F	0.630826149249301
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	10	9		#FC622F	0.648528481950581
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	11	9		#FC622F	0.649636908853177
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	12	9		#FC622F	0.644516780006267
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	13	9	noun	#FDAD4A	0.473458507915939
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	14	9	meaning	#FC622F	0.655736474697414
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	15	9	english	#FC622F	0.613186609847417
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	16	9	pseudoword|pseudowords	#FC622F	0.623971439634084
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	17	9		#F03623	0.746915572657103
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	18	9		#F03623	0.795198305538581
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	19	9	familiar|judgment	#F03623	0.773026337975964
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	20	9	pair|pairs	#F03623	0.774158046836726
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	21	9		#F03623	0.724618895245757
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	22	9		#FC622F	0.675575024366942
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	23	9	letter|working	#FC622F	0.632325977353299
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	1	10	losses|reinforcement|win	#FFFFCC	0.0675459712972941
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	2	10	gain	#FFF1A9	0.132468615631538
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	3	10	expectation	#FEE188	0.215321968581833
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	4	10	risk	#FECB68	0.334892505402626
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	5	10	fact	#FDAD4A	0.403347401280756
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	6	10	associative	#FD913D	0.580748089133284
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	7	10	familiarity|judgments|old	#FD913D	0.57926653207513
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	8	10	contextual|text	#FD913D	0.587720055590323
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	9	10	recall|retrieved	#FECB68	0.397495748460518
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	10	10	conceptual|semantically	#FD913D	0.525544743132152
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	11	10	grammatical|speakers	#FC622F	0.606859220059166
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	12	10	nouns	#FDAD4A	0.477105547716621
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	13	10	japanese	#FC622F	0.629717240054895
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	14	10	languages	#FD913D	0.596039958372972
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	15	10	written	#F03623	0.748691117282982
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	16	10	chinese|phonology	#F03623	0.750713165894709
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	17	10	orthographic	#D7141E	0.810466627342912
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	18	10		#D7141E	0.804260215132953
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	19	10		#F03623	0.764984049515554
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	20	10	association|decision	#FC622F	0.620890993674241
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	21	10	selection	#FD913D	0.597403686985072
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	22	10	letters	#FC622F	0.603730401087938
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	23	10	demand|load	#FD913D	0.579560453482213
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	1	11	conditioned|conditioning	#FFF1A9	0.10147502678908
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	2	11		#FEE188	0.284926047352658
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	3	11	drug|placebo	#FECB68	0.31413491490808
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	4	11		#FD913D	0.580394070592414
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	5	11	associations	#FD913D	0.506764515524609
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	6	11		#FC622F	0.627680087308816
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	7	11	episodic|recollection	#FECB68	0.366394704896572
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	8	11		#FD913D	0.588125848243701
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	9	11		#FC622F	0.61622459805863
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	10	11	concepts	#FECB68	0.383115301024526
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	11	11		#FC622F	0.639507714113541
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	12	11		#FC622F	0.683473885959008
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	13	11	german	#FD913D	0.576853396471412
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	14	11	readers	#FC622F	0.682695908852959
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	15	11	character|name|naming	#D7141E	0.812114309933536
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	16	11		#D7141E	0.889869428129059
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	17	11	novel	#B10026	0.902798016534792
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	18	11		#D7141E	0.846366646056657
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	19	11	child|children	#FC622F	0.694440468340641
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	20	11	adults	#F03623	0.721181685147382
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	21	11	ability|feedback|learning	#FDAD4A	0.496414565284094
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	22	11	cues|delay	#FD913D	0.570794773633526
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	23	11	attentional|difficulty|targets	#FC622F	0.646162095057789
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	1	12	aversive|shock	#FEE188	0.293888867772271
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	2	12	reactivity	#FEE188	0.240519204837096
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	3	12	males|sex|women	#FD913D	0.534070652192526
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	4	12	animal	#FC622F	0.659776748393722
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	5	12	animals	#F03623	0.708318148350983
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	6	12		#FC622F	0.677931899091643
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	7	12	remember|subsequent	#FD913D	0.542957493126934
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	8	12	autobiographical|memories	#FFF1A9	0.186660302003174
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	9	12		#FC622F	0.613048425047055
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	10	12	violation|violations	#FDAD4A	0.412692327967957
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	11	12	aphasia	#FD913D	0.511514838685007
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	12	12	nonwords	#FD913D	0.564934471824638
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	13	12	dyslexia	#F03623	0.710449982014873
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	14	12		#D7141E	0.885943008494806
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	15	12	priming	#D7141E	0.842287244093622
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	16	12		#B10026	0.933602513328784
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	17	12	category|repetition	#D7141E	0.87573272996857
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	18	12		#D7141E	0.854242976413985
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	19	12	developmental|development	#F03623	0.736505056133934
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	20	12		#F03623	0.732284152434675
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	21	12	space	#FC622F	0.645820894663628
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	22	12		#FC622F	0.647655638983588
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	23	12	color	#F03623	0.713838599003961
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	1	13	threat	#FDAD4A	0.417229660936152
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	2	13	regulation	#FECB68	0.354680115427986
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	3	13		#FD913D	0.561026851949515
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	4	13	masked	#FD913D	0.565290108210554
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	5	13	scene|scenes	#F03623	0.715145065285688
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	6	13		#F03623	0.704849412523768
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	7	13	confidence|remembered	#FECB68	0.361082549695648
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	8	13		#FC622F	0.630210380080912
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	9	13		#FC622F	0.632791343690039
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	10	13	ambiguity|ambiguous	#FD913D	0.599516475545805
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	11	13		#FC622F	0.683250506272948
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	12	13		#D7141E	0.885385196439728
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	13	13	writing	#D7141E	0.85156984520591
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	14	13		#B10026	0.963277390833353
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	15	13	categorization|congruency|prime	#D7141E	0.852905305455786
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	16	13		#B10026	0.926691175869137
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	17	13	mask	#D7141E	0.815938023604949
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	18	13		#D7141E	0.818617858447152
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	19	13		#FC622F	0.683617709890953
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	20	13		#FC622F	0.691025894178012
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	21	13	conflict|congruent|incongruent	#FC622F	0.644218478438013
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	22	13	errors	#FD913D	0.563606251975906
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	23	13	maintenance|probe|wm	#FD913D	0.525479213932575
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	1	14	angry|fearful|happy	#FDAD4A	0.438254063825184
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	2	14		#FDAD4A	0.463868823653014
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	3	14	awareness|conscious|ptsd	#FDAD4A	0.427009794050445
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	4	14		#F03623	0.77748735956656
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	5	14	houses|photographs	#FC622F	0.638331823440159
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	6	14		#D7141E	0.815627759444336
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	7	14	hits	#FD913D	0.536306611360121
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	8	14	famous	#FD913D	0.571303628905844
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	9	14	names	#FD913D	0.550897254808365
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	10	14	family	#FDAD4A	0.440271332006287
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	11	14	competition|mouth	#F03623	0.71201691241641
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	12	14	abilities	#D7141E	0.854964661433736
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	13	14	implicit|unfamiliar	#F03623	0.775542206430612
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	14	14		#B10026	0.975619960981715
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	15	14	tom	#FC622F	0.634332597394198
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	16	14		#B10026	0.900988025605672
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	17	14		#D7141E	0.815779451768137
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	18	14	stop	#FD913D	0.533028128873937
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	19	14	inhibition|inhibitory|nogo	#FDAD4A	0.488653666356322
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	20	14	monitoring|stroop	#FD913D	0.516232577097328
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	21	14	interference	#FC622F	0.693402503358785
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	22	14		#FC622F	0.62249601130635
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	23	14	demands|executive	#FC622F	0.616181784493013
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	1	15	anger	#FEE188	0.288537769977413
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	2	15	stress	#FEE188	0.234139020643091
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	3	15	feelings	#FDAD4A	0.45281958452891
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	4	15	salient	#FC622F	0.615724690883379
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	5	15	novelty	#FD913D	0.506915365537253
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	6	15	movie	#F03623	0.772024573435859
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	7	15		#D7141E	0.80984823825755
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	8	15		#F03623	0.771977257277607
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	9	15	longterm	#FD913D	0.544494185842388
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	10	15		#F03623	0.770100967151826
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	11	15	reasoning|relational	#FC622F	0.650954685017421
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	12	15		#B10026	0.940704382485591
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	13	15	presentations	#FC622F	0.657131270065284
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	14	15		#B10026	1
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	15	15	identity	#B10026	0.912454681821076
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	16	15		#D7141E	0.881531497170887
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	17	15	strategies|strategy	#FC622F	0.643748446939135
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	18	15	card|cards	#FDAD4A	0.49884980195795
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	19	15	gonogo	#FDAD4A	0.470811070342149
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	20	15		#FD913D	0.578033659116246
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	21	15	switching|switch	#FDAD4A	0.469915826197115
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	22	15		#FD913D	0.579810737809015
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	23	15	2back|rule	#FD913D	0.524443146165086
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	1	16	emotionally|mood|personality|sadness	#FEE188	0.284655713384568
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	2	16	disgust|sexual	#FECB68	0.324808730778557
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	3	16	olfactory	#FEE188	0.23797130768783
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	4	16	physiological	#FECB68	0.379991967650318
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	5	16	depressed|depressive|habituation	#FDAD4A	0.456888832007936
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	6	16	schizophrenic	#FD913D	0.588113928775926
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	7	16	colors|contexts	#FD913D	0.575845266863868
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	8	16	aging|encoded	#FDAD4A	0.415183705395487
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	9	16	goal	#FD913D	0.527123189521479
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	10	16		#F03623	0.758658909509634
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	11	16	autism|autistic|nonverbal	#F03623	0.700968671792526
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	12	16		#D7141E	0.882334330007492
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	13	16	bottomup|repetitions	#F03623	0.754737864579959
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	14	16	adaptation	#B10026	0.9547726772191
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	15	16	irrelevant	#D7141E	0.853929758359352
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	16	16	distractor|distractors	#F03623	0.782102814848921
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	17	16		#F03623	0.715296129913075
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	18	16	subtraction	#FD913D	0.547265166169814
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	19	16	1back|nback	#FDAD4A	0.466918216949423
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	20	16	manipulation|rules	#FC622F	0.605597626969071
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	21	16		#FD913D	0.563991471345828
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	22	16		#FD913D	0.524449333084457
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	23	16	digit	#FDAD4A	0.443684019340294
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	1	17	avoidance	#FFFFCC	0.096468279242754
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	2	17		#FEE188	0.23769536624692
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	3	17	eating|food	#FFF1A9	0.186417813781473
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	4	17	taste	#FFF1A9	0.161100719760813
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	5	17	bipolar	#FDAD4A	0.403134197114243
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	6	17	illness|uncertainty	#FDAD4A	0.497552283477014
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	7	17	females|probabilistic	#FC622F	0.656362603138879
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	8	17	rejection	#FC622F	0.617512673172036
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	9	17	colour|paired	#FC622F	0.639123243560352
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	10	17		#FC622F	0.66887185345572
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	11	17		#FC622F	0.639246034641224
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	12	17		#F03623	0.72309040415957
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	13	17	taskirrelevant	#F03623	0.717010265644732
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	14	17		#D7141E	0.859215225558404
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	15	17	suppression	#D7141E	0.804607610426781
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	16	17		#F03623	0.753651482022557
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	17	17	shifting|shortterm	#FDAD4A	0.407500953485759
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	18	17	digits	#FECB68	0.324752048979673
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	19	17	search	#FD913D	0.533488405629099
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	20	17	counting|taskrelated	#FDAD4A	0.443916078803307
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	21	17	topdown	#FC622F	0.638638075665701
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	22	17	visuospatial	#FECB68	0.364511663582416
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	23	17	arithmetic|calculation|solving	#FDAD4A	0.450656659307815
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	1	18	addiction|craving|drugs	#FFF1A9	0.125991871464983
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	2	18	allele|genotype|polymorphism	#FFF1A9	0.111055689734008
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	3	18	motivation	#FFF1A9	0.196470853890162
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	4	18	heart	#FFF1A9	0.186788836867643
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	5	18	sleep	#FEE188	0.214524351221444
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	6	18	expectancy	#FDAD4A	0.421552573615314
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	7	18	phasic|salience	#FD913D	0.505171670805627
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	8	18	adolescence|adolescents	#FD913D	0.563191095409564
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	9	18	intelligence|tracking	#FDAD4A	0.411354151500452
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	10	18		#FD913D	0.52995486248268
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	11	18	serial	#FECB68	0.377955849453382
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	12	18		#FD913D	0.564041183473545
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	13	18	spatially|taskrelevant	#FDAD4A	0.447555167709031
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	14	18		#F03623	0.75523691548381
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	15	18	attended|attend|unattended	#F03623	0.745931991483161
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	16	18	rotation|shapes	#FC622F	0.617923767240638
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	17	18	rehearsal	#FDAD4A	0.426165785923676
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	18	18	learned	#FEE188	0.249013772530719
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	19	18		#FDAD4A	0.424830617802984
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	20	18	cued|preparatory	#FDAD4A	0.435196591560068
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	21	18		#FDAD4A	0.465514081869053
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	22	18		#FD913D	0.509706217152009
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	23	18	numbers|numerical	#FDAD4A	0.421231389618363
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	1	19	future	#FEE188	0.216658589352672
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	2	19	negatively	#FFFFCC	0.095222701949146
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	3	19	distress|epilepsy|selfreported	#FFF1A9	0.133388767284311
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	4	19	anticipatory|cocaine|probabilities|smoking	#FFF1A9	0.196705295988225
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	5	19	alcohol|amount|impulsivity	#FFF1A9	0.164066227595686
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	6	19	game|success	#FDAD4A	0.444017825061859
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	7	19	adhd|childhood|engagement	#FDAD4A	0.437712561502401
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	8	19		#FD913D	0.561388920249407
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	9	19		#FD913D	0.511306267851788
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	10	19		#FDAD4A	0.457307477879394
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	11	19		#FDAD4A	0.460091784167064
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	12	19	endogenous	#FECB68	0.347384154356641
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	13	19	cueing|invalid|orienting	#FDAD4A	0.426161870005451
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	14	19		#F03623	0.717644263194937
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	15	19	multisensory	#FC622F	0.621514674728472
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	16	19		#F03623	0.716412596432217
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	17	19	shifts	#FD913D	0.502417620435303
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	18	19	covert	#FD913D	0.5077883254672
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	19	19		#FECB68	0.384126943286957
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	20	19	preparation	#FECB68	0.311377213060782
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	21	19	discrimination|training	#FD913D	0.507888977213096
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	22	19	sequences	#FEE188	0.289001462782021
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	23	19		#FECB68	0.386496143000126
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	1	20	personal|self|selfreferential|trait|traits	#FFF1A9	0.163090733994169
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	2	20	empathic|theory	#FECB68	0.384827776189972
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	3	20	attribution|intentional	#FEE188	0.223441770143875
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	4	20	elderly|oscillations	#FECB68	0.305849264967805
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	5	20	antipsychotic|virtual	#FEE188	0.25335853629156
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	6	20		#FDAD4A	0.473833924499826
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	7	20	experiences	#FECB68	0.333932433882958
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	8	20	categorical|pressure	#FECB68	0.367522956607794
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	9	20	play|skills	#FFF1A9	0.186455635658083
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	10	20	automatic|trained	#FEE188	0.230825353041128
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	11	20		#FECB68	0.307098818252816
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	12	20	practice	#FEE188	0.296886226034713
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	13	20	visuomotor	#FEE188	0.251287892970405
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	14	20		#FD913D	0.545113617133671
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	15	20	tool	#FD913D	0.532026506729535
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	16	20	vision	#FDAD4A	0.409744815604261
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	17	20	visually	#FDAD4A	0.479162577876052
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	18	20	saccade|saccades|saccadic	#FEE188	0.213620450643879
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	19	20	locations	#FECB68	0.341468552270552
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	20	20	imagery|planning	#FEE188	0.265750331676273
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	21	20		#FECB68	0.366062043415685
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	22	20	rest	#FECB68	0.333801008261309
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	23	20	sequence	#FECB68	0.38089530006346
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	1	21	scenarios	#FEE188	0.220488235106413
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	2	21	intention|intentions	#FEE188	0.272033822363244
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	3	21	causality|perspective	#FEE188	0.200663365614707
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	4	21	past	#FEE188	0.236238248566082
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	5	21		#FECB68	0.396414165873524
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	6	21	episode	#FEE188	0.29321131157888
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	7	21	improvement	#FECB68	0.392922924656327
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	8	21	masking|retention	#FECB68	0.312711934600775
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	9	21		#FECB68	0.370104205600352
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	10	21	dominant	#FDAD4A	0.453055022967907
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	11	21		#FFF1A9	0.176677524460311
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	12	21	sequential	#FFF1A9	0.186442109884837
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	13	21	fingers	#FFFFCC	0.022484760004522
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	14	21		#FD913D	0.506287548445972
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	15	21	gesture|gestures	#FDAD4A	0.465190899743308
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	16	21		#FDAD4A	0.459130766344203
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	17	21	hands	#FEE188	0.227660978297715
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	18	21		#FECB68	0.39287614814782
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	19	21		#FDAD4A	0.439970084984767
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	20	21	eye|position	#FECB68	0.364404501754488
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	21	21	execution	#FEE188	0.224269850021423
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	22	21	finger|sensorimotor	#FFF1A9	0.123416608672941
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	23	21		#FEE188	0.271916558730715
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	1	22	moral|stories|story	#FFF1A9	0.104646737308499
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	2	22	mentalizing|persons	#FECB68	0.360673802526786
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	3	22	default|restingstate	#FFFFCC	0.0970057571700766
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	4	22	thinking|thought|thoughts	#FECB68	0.329678171346791
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	5	22	spontaneous	#FEE188	0.25478216855773
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	6	22	concentration|sensations	#FFF1A9	0.11511474426424
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	7	22	hierarchical|preference	#FECB68	0.316053777721873
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	8	22	effort|oral|simulation	#FEE188	0.289080619017064
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	9	22	interhemispheric|plasticity	#FECB68	0.311179461461865
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	10	22	imagined|imagine	#FEE188	0.202616601697756
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	11	22	tapping	#FFFFCC	0.0671590255664681
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	12	22	foot|muscle|muscles|voluntary	#FFFFCC	0.0372852446299102
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	13	22	limb	#FFFFCC	0
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	14	22	eyes|velocity	#FEE188	0.242905045781888
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	15	22	biological|gaze|videos	#FDAD4A	0.458731407886817
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	16	22	body	#FDAD4A	0.434662480480726
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	17	22	grasping|orientation|reaching	#FEE188	0.25329329551425
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	18	22		#FDAD4A	0.400259499371069
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	19	22	mirror|shape	#FC622F	0.696573624109275
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	20	22	actions	#FDAD4A	0.478057686035851
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	21	22	action	#FDAD4A	0.478470133974425
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	22	22		#FEE188	0.279100986714893
+e88b1a46-c4df-39c2-aa5e-7cd20ccf29c7	Grossman ED	23	22	hand|movements|sensory	#FEE188	0.229432119548768

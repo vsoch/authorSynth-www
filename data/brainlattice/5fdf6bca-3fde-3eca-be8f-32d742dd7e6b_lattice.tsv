@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	1	1	auditory|speech	#FFF1A9	0.19269633472459
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	2	1		#FEE188	0.207818166624311
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	3	1	da|integration	#FDAD4A	0.437372687458843
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	4	1		#FDAD4A	0.475976838751875
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	5	1	physical|psychophysical|tactile	#FD913D	0.581325864571132
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	6	1		#FDAD4A	0.414911594186554
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	7	1	somatosensory|stimulation	#FECB68	0.372259635664096
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	8	1	painful|pain	#FFF1A9	0.114163320601849
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	9	1		#FFF1A9	0.114200178986873
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	10	1	ratings	#FFF1A9	0.124482164294257
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	11	1	affective|affect	#FFFFCC	0.0874814254678666
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	12	1	emotions	#FFFFCC	0.0755003345096402
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	13	1	expression|expressions|facial	#FFFFCC	0.0929977363687357
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	14	1		#FFF1A9	0.145090387338435
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	15	1		#FFF1A9	0.174398191891933
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	16	1	emotion|motion|neutral	#FFF1A9	0.181867477824947
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	17	1	rating	#FFF1A9	0.196498000556749
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	18	1	negative|positive	#FECB68	0.324737846945103
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	19	1		#FDAD4A	0.452066152932986
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	20	1	ear|order	#FDAD4A	0.490550467551096
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	21	1	motor	#FD913D	0.510846091184544
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	22	1	visual	#FD913D	0.526395012248785
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	23	1	age|image|response	#FDAD4A	0.469991026397685
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	1	2	sound|sounds	#FFF1A9	0.147214355478952
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	2	2		#FFF1A9	0.179120887680894
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	3	2	audiovisual|bimodal|crossmodal	#FEE188	0.285522811530178
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	4	2		#FDAD4A	0.477096473020351
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	5	2		#FD913D	0.514643479360626
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	6	2		#FDAD4A	0.440023673601788
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	7	2	sensation	#FFFFCC	0.0743281188355956
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	8	2	heat|noxious	#FFFFCC	0.0969282868772536
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	9	2		#FFF1A9	0.13340533965004
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	10	2		#FFF1A9	0.150552868919354
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	11	2		#FFF1A9	0.148438256089799
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	12	2	valence	#FFF1A9	0.12372633964241
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	13	2	person|social	#FFF1A9	0.161469022916214
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	14	2		#FFF1A9	0.150345826262561
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	15	2	face|faces	#FEE188	0.209141805224277
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	16	2		#FEE188	0.22649335939227
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	17	2		#FEE188	0.281367221199907
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	18	2		#FECB68	0.38854844742552
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	19	2		#FDAD4A	0.478418561237034
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	20	2		#FD913D	0.54527775618447
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	21	2	images|spatial	#FD913D	0.551506479023063
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	22	2	control	#FD913D	0.526815686770647
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	23	2	time	#FDAD4A	0.492141594074466
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	1	3	acoustic|listening|musical|music|pitch	#FFFFCC	0.0355723563240752
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	2	3	noise|tones	#FFFFCC	0.0787434054794636
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	3	3		#FEE188	0.247272472272968
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	4	3		#FECB68	0.342852461599839
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	5	3	frequency	#FDAD4A	0.448395915401858
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	6	3		#FECB68	0.3492361472877
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	7	3		#FFF1A9	0.168457555177852
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	8	3	temperature	#FFF1A9	0.182344055062743
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	9	3		#FFF1A9	0.15834342295238
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	10	3	pleasant|unpleasant	#FFF1A9	0.122633683272488
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	11	3	anxiety	#FFF1A9	0.149551563526352
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	12	3		#FFF1A9	0.158929073021781
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	13	3		#FFF1A9	0.179879325975097
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	14	3		#FFF1A9	0.175017247543888
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	15	3		#FEE188	0.200343245137885
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	16	3	picture	#FEE188	0.245745309730148
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	17	3		#FECB68	0.33564582933833
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	18	3	value	#FDAD4A	0.445475507383889
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	19	3	cue	#FD913D	0.514498092243304
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	20	3	error|target	#FD913D	0.552761631851039
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	21	3	attention	#FC622F	0.625764841487167
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	22	3		#FD913D	0.545794992128526
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	23	3	number	#FD913D	0.523180153222748
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	1	4	voice	#FFFFCC	0.0814784589814472
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	2	4		#FFF1A9	0.106610216247271
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	3	4	hearing	#FFF1A9	0.128543673971685
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	4	4		#FEE188	0.239590161626479
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	5	4	overt	#FEE188	0.290966506257348
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	6	4		#FEE188	0.266550351901558
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	7	4		#FEE188	0.202622525654454
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	8	4	nociceptive|nonpainful|painrelated	#FFFFCC	0.0685389421780432
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	9	4	unpleasantness	#FECB68	0.315606757809932
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	10	4	skin|subjective	#FFF1A9	0.196425369069067
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	11	4	depression	#FFF1A9	0.16219580467926
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	12	4	experience	#FFF1A9	0.162565785572623
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	13	4	female	#FFF1A9	0.146940028414373
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	14	4	male	#FEE188	0.207976828091505
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	15	4	pictures	#FFF1A9	0.180993316638847
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	16	4		#FECB68	0.306030495876082
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	17	4	perception	#FECB68	0.379563785578685
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	18	4		#FD913D	0.534574832650209
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	19	4		#FD913D	0.566928284260309
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	20	4		#FD913D	0.57872368063597
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	21	4	correct	#FD913D	0.541110857044581
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	22	4	work	#FC622F	0.606141386875842
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	23	4	memory	#FD913D	0.5016598762939
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	1	5	prosodic|prosody	#FFFFCC	0.0767046165943725
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	2	5	phonetic	#FFF1A9	0.1078559460707
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	3	5	syllable|syllables	#FFF1A9	0.134533069369869
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	4	5		#FFF1A9	0.179812780541787
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	5	5	lip|production	#FFF1A9	0.150838224511739
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	6	5	somatotopic	#FFFFCC	0.0985833298842915
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	7	5		#FEE188	0.25207866888941
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	8	5		#FEE188	0.262021595328136
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	9	5	empathy	#FEE188	0.257965798214464
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	10	5		#FECB68	0.310033950774465
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	11	5	disorder	#FECB68	0.359377059949037
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	12	5		#FEE188	0.27105108083071
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	13	5		#FEE188	0.232932026671026
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	14	5		#FEE188	0.233458223457397
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	15	5		#FEE188	0.241190327803214
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	16	5		#FECB68	0.314824348474098
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	17	5		#FDAD4A	0.421753738830949
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	18	5	mental	#FD913D	0.590065962550182
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	19	5	go	#FD913D	0.530536389851502
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	20	5	object	#FD913D	0.55685467671502
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	21	5		#FD913D	0.529298076102543
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	22	5		#FDAD4A	0.4502057722978
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	23	5	word|words	#FECB68	0.313066268308699
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	1	6		#FFF1A9	0.132627673277564
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	2	6		#FFF1A9	0.157382492930932
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	3	6		#FFF1A9	0.18404699957283
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	4	6	vocal	#FFFFCC	0.0679773467160699
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	5	6	articulatory	#FFF1A9	0.107022530110168
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	6	6		#FEE188	0.208739209811993
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	7	6	oddball	#FECB68	0.325640011711435
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	8	6	perceived	#FEE188	0.280423897305846
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	9	6	errorrelated	#FEE188	0.244124231647552
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	10	6	approach	#FECB68	0.300440129035081
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	11	6	schizophrenia	#FECB68	0.341344445392113
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	12	6	acquisition	#FECB68	0.342096852116948
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	13	6		#FEE188	0.253087104258255
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	14	6		#FEE188	0.209730152226268
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	15	6		#FEE188	0.213051125927308
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	16	6		#FEE188	0.251235322735506
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	17	6		#FECB68	0.376105341626557
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	18	6		#FDAD4A	0.456413854913816
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	19	6		#FDAD4A	0.485078552344119
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	20	6	objects	#FD913D	0.576101497280349
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	21	6		#FDAD4A	0.483771574607197
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	22	6		#FECB68	0.382652250364252
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	23	6	language|semantic	#FEE188	0.286130933685389
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	1	7	dopamine|dopaminergic	#FFF1A9	0.130906880647466
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	2	7		#FFF1A9	0.132882710602288
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	3	7		#FEE188	0.239646139913106
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	4	7		#FEE188	0.283733484080826
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	5	7		#FECB68	0.316705447955073
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	6	7		#FEE188	0.29243375344089
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	7	7		#FEE188	0.299176702248344
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	8	7		#FEE188	0.279032814624216
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	9	7		#FEE188	0.288226554961141
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	10	7		#FECB68	0.335435618487287
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	11	7		#FECB68	0.353282572922889
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	12	7		#FECB68	0.334523928592823
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	13	7	linguistic|spoken	#FEE188	0.207030412270794
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	14	7		#FEE188	0.207583512164512
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	15	7	comprehension|sentence|sentences|syntactic	#FFF1A9	0.17341213617114
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	16	7		#FEE188	0.230026997139508
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	17	7		#FECB68	0.329816787021096
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	18	7	phonological|reading|read	#FECB68	0.31415298262836
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	19	7		#FDAD4A	0.438573336695591
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	20	7	perceptual|recognition	#FDAD4A	0.463319934656794
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	21	7		#FDAD4A	0.47578469468347
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	22	7		#FECB68	0.398364223517857
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	23	7	verb	#FDAD4A	0.423844505249977
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	1	8	outcome|reward	#FFF1A9	0.117409924463336
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	2	8	anticipation	#FFFFCC	0.0959278835245269
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	3	8	outcomes	#FFFFCC	0.0946386929772994
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	4	8	choice|choices	#FECB68	0.320504991443515
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	5	8	decisions|probability	#FECB68	0.321911759108306
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	6	8	reversal	#FEE188	0.283821265257985
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	7	8	classification|incorrect	#FEE188	0.211829714460801
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	8	8		#FEE188	0.276357221143567
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	9	8	agerelated|fluency|probes	#FFF1A9	0.16989250104223
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	10	8	engaged	#FECB68	0.326819620673805
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	11	8	explicit|knowledge	#FEE188	0.275295269839827
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	12	8		#FEE188	0.280283147568834
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	13	8		#FEE188	0.224191230305353
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	14	8		#FFF1A9	0.197257010258969
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	15	8		#FFF1A9	0.194134257703258
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	16	8		#FEE188	0.210144698684538
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	17	8	lexical	#FEE188	0.223076085141403
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	18	8		#FECB68	0.349151692450092
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	19	8		#FDAD4A	0.404436651126053
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	20	8		#FDAD4A	0.440805815549154
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	21	8	encoding	#FECB68	0.39242253184732
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	22	8	retrieval	#FECB68	0.366615001512331
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	23	8	verbal	#FDAD4A	0.496461415841305
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	1	9	incentive|monetary|money|rewards	#FFFFCC	0.0702927706020963
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	2	9	loss	#FFF1A9	0.0995643245608663
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	3	9		#FEE188	0.218331951838826
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	4	9		#FEE188	0.282090772853936
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	5	9	decisionmaking	#FEE188	0.241200527259046
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	6	9		#FECB68	0.325563119735134
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	7	9		#FECB68	0.315542871497703
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	8	9		#FEE188	0.293584685484331
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	9	9		#FEE188	0.266203621863832
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	10	9		#FEE188	0.273994555662699
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	11	9		#FEE188	0.256411929780318
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	12	9		#FEE188	0.235426478732373
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	13	9	noun	#FFF1A9	0.121450963399552
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	14	9	meaning	#FFF1A9	0.191155142877455
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	15	9	english	#FFF1A9	0.184371359839987
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	16	9	pseudoword|pseudowords	#FFF1A9	0.173695903298412
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	17	9		#FEE188	0.288881566871475
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	18	9		#FECB68	0.360746642954919
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	19	9	familiar|judgment	#FDAD4A	0.406560454011618
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	20	9	pair|pairs	#FECB68	0.364539890195688
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	21	9		#FDAD4A	0.488168067433385
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	22	9		#FD913D	0.561207823311222
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	23	9	letter|working	#FC622F	0.637090759606407
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	1	10	losses|reinforcement|win	#FFF1A9	0.130459766209078
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	2	10	gain	#FFF1A9	0.145372971234036
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	3	10	expectation	#FFF1A9	0.12452008464017
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	4	10	risk	#FFF1A9	0.188601680161255
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	5	10	fact	#FEE188	0.293057878568854
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	6	10	associative	#FECB68	0.394327386664246
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	7	10	familiarity|judgments|old	#FEE188	0.227092174153914
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	8	10	contextual|text	#FEE188	0.236463458581612
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	9	10	recall|retrieved	#FEE188	0.2603801352948
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	10	10	conceptual|semantically	#FFF1A9	0.130670806192723
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	11	10	grammatical|speakers	#FFF1A9	0.172454129763676
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	12	10	nouns	#FFF1A9	0.136458985959146
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	13	10	japanese	#FFF1A9	0.198694125827633
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	14	10	languages	#FFF1A9	0.110908799738323
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	15	10	written	#FFF1A9	0.113880060649338
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	16	10	chinese|phonology	#FECB68	0.315393508362836
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	17	10	orthographic	#FECB68	0.349896450236636
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	18	10		#FECB68	0.397557655305047
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	19	10		#FDAD4A	0.420062818405402
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	20	10	association|decision	#FDAD4A	0.434645491599568
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	21	10	selection	#FDAD4A	0.405951324832257
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	22	10	letters	#FD913D	0.547155462913673
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	23	10	demand|load	#FC622F	0.654174876235721
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	1	11	conditioned|conditioning	#FFFFCC	0.00979341608856258
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	2	11		#FFF1A9	0.137475527375886
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	3	11	drug|placebo	#FECB68	0.306191234982462
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	4	11		#FEE188	0.238719239711205
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	5	11	associations	#FEE188	0.255203568167934
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	6	11		#FEE188	0.249722745505883
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	7	11	episodic|recollection	#FFF1A9	0.139066699372939
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	8	11		#FEE188	0.239829381440874
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	9	11		#FEE188	0.226241439896126
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	10	11	concepts	#FFFFCC	0.0845246815028024
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	11	11		#FEE188	0.214447466394601
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	12	11		#FEE188	0.235955165315189
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	13	11	german	#FFF1A9	0.176341260949136
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	14	11	readers	#FEE188	0.26200075608671
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	15	11	character|name|naming	#FFF1A9	0.145683453869593
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	16	11		#FECB68	0.309347899640463
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	17	11	novel	#FECB68	0.374897733106974
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	18	11		#FDAD4A	0.422508007555781
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	19	11	child|children	#FECB68	0.396215846099656
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	20	11	adults	#FDAD4A	0.471990257761191
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	21	11	ability|feedback|learning	#FDAD4A	0.464448292853582
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	22	11	cues|delay	#FD913D	0.578845736754389
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	23	11	attentional|difficulty|targets	#FC622F	0.684318867413223
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	1	12	aversive|shock	#FFFFCC	0
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	2	12	reactivity	#FFFFCC	0.0538249905601011
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	3	12	males|sex|women	#FFF1A9	0.139827354383352
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	4	12	animal	#FFFFCC	0.0971781117718023
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	5	12	animals	#FFFFCC	0.0780793258324676
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	6	12		#FFF1A9	0.163433245417084
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	7	12	remember|subsequent	#FFF1A9	0.115650729572484
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	8	12	autobiographical|memories	#FFFFCC	0.0428760042966915
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	9	12		#FFF1A9	0.191267045266454
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	10	12	violation|violations	#FFFFCC	0.0806177330720018
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	11	12	aphasia	#FEE188	0.21634641629214
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	12	12	nonwords	#FECB68	0.336010942951799
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	13	12	dyslexia	#FEE188	0.230063668737768
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	14	12		#FECB68	0.315676717931394
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	15	12	priming	#FEE188	0.262118597679494
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	16	12		#FECB68	0.394475766956549
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	17	12	category|repetition	#FECB68	0.381422041356592
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	18	12		#FDAD4A	0.454899131999531
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	19	12	developmental|development	#FDAD4A	0.446085804438326
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	20	12		#FD913D	0.511917027890916
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	21	12	space	#FD913D	0.511984932151907
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	22	12		#FC622F	0.611823131834178
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	23	12	color	#FC622F	0.604205341763936
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	1	13	threat	#FFFFCC	0.0934354378512752
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	2	13	regulation	#FFF1A9	0.10877011258764
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	3	13		#FFF1A9	0.140786991305624
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	4	13	masked	#FFF1A9	0.123099227723691
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	5	13	scene|scenes	#FFFFCC	0.0861415657894403
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	6	13		#FFF1A9	0.125289906684284
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	7	13	confidence|remembered	#FFFFCC	0.0930311440956781
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	8	13		#FFF1A9	0.153899796845765
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	9	13		#FEE188	0.202459618254947
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	10	13	ambiguity|ambiguous	#FFF1A9	0.110749347245959
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	11	13		#FEE188	0.281540520541324
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	12	13		#FECB68	0.397267885311677
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	13	13	writing	#FEE188	0.268075629574606
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	14	13		#FDAD4A	0.432166842649246
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	15	13	categorization|congruency|prime	#FDAD4A	0.424059033330271
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	16	13		#FDAD4A	0.453449623962638
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	17	13	mask	#FD913D	0.520218294120314
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	18	13		#FDAD4A	0.490361269547024
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	19	13		#FD913D	0.502599148755493
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	20	13		#FD913D	0.527210452113611
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	21	13	conflict|congruent|incongruent	#FDAD4A	0.489004696223616
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	22	13	errors	#FDAD4A	0.474829584543511
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	23	13	maintenance|probe|wm	#FD913D	0.53662060199519
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	1	14	angry|fearful|happy	#FFFFCC	0.038077106061305
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	2	14		#FFFFCC	0.0813846535130126
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	3	14	awareness|conscious|ptsd	#FFF1A9	0.126020998959641
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	4	14		#FFF1A9	0.117741261226469
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	5	14	houses|photographs	#FFFFCC	0.050252555050683
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	6	14		#FFF1A9	0.156774991599425
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	7	14	hits	#FFF1A9	0.163590974956488
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	8	14	famous	#FFFFCC	0.0630917794881362
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	9	14	names	#FFFFCC	0.0710383191303824
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	10	14	family	#FEE188	0.250719281609327
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	11	14	competition|mouth	#FEE188	0.244167857425254
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	12	14	abilities	#FDAD4A	0.498174210302462
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	13	14	implicit|unfamiliar	#FDAD4A	0.421829818022464
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	14	14		#FDAD4A	0.454858463993718
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	15	14	tom	#FD913D	0.502242361802696
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	16	14		#FD913D	0.539364340228271
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	17	14		#FC622F	0.607034521995165
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	18	14	stop	#FDAD4A	0.426416232211543
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	19	14	inhibition|inhibitory|nogo	#FDAD4A	0.494615303638956
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	20	14	monitoring|stroop	#FDAD4A	0.430365312762387
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	21	14	interference	#FD913D	0.551899548043129
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	22	14		#FD913D	0.591175151083284
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	23	14	demands|executive	#FC622F	0.620900025164707
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	1	15	anger	#FFFFCC	0.0241762785102243
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	2	15	stress	#FFF1A9	0.129539887596515
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	3	15	feelings	#FFFFCC	0.0841684233523069
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	4	15	salient	#FFF1A9	0.111282046934561
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	5	15	novelty	#FFF1A9	0.100954909585564
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	6	15	movie	#FEE188	0.23557514670161
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	7	15		#FEE188	0.25649616815249
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	8	15		#FEE188	0.270051559995266
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	9	15	longterm	#FEE188	0.212772046542759
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	10	15		#FECB68	0.358183824115202
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	11	15	reasoning|relational	#FECB68	0.385287487883546
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	12	15		#FDAD4A	0.457390426287628
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	13	15	presentations	#FDAD4A	0.415992435946875
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	14	15		#FDAD4A	0.472376577238151
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	15	15	identity	#FECB68	0.311612973577491
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	16	15		#FD913D	0.546218803665763
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	17	15	strategies|strategy	#FDAD4A	0.437193151875209
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	18	15	card|cards	#FD913D	0.534730471572351
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	19	15	gonogo	#FDAD4A	0.455180727237818
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	20	15		#FD913D	0.561963033008378
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	21	15	switching|switch	#FC622F	0.672121508324148
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	22	15		#FC622F	0.635844247222934
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	23	15	2back|rule	#FC622F	0.601028458546073
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	1	16	emotionally|mood|personality|sadness	#FFF1A9	0.122566959300176
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	2	16	disgust|sexual	#FFF1A9	0.113804534876922
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	3	16	olfactory	#FFFFCC	0.073810397302424
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	4	16	physiological	#FFFFCC	0.0571806106177408
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	5	16	depressed|depressive|habituation	#FFF1A9	0.113650734938084
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	6	16	schizophrenic	#FECB68	0.316557689418488
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	7	16	colors|contexts	#FFF1A9	0.146090374893844
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	8	16	aging|encoded	#FFF1A9	0.195548095603452
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	9	16	goal	#FECB68	0.317878842582991
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	10	16		#FDAD4A	0.402118332181344
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	11	16	autism|autistic|nonverbal	#FECB68	0.319637291449079
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	12	16		#FDAD4A	0.47072397285739
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	13	16	bottomup|repetitions	#FECB68	0.36302056249986
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	14	16	adaptation	#FDAD4A	0.463494158358514
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	15	16	irrelevant	#FC622F	0.635628039212291
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	16	16	distractor|distractors	#FDAD4A	0.409834496744442
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	17	16		#FC622F	0.61666778645711
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	18	16	subtraction	#F03623	0.724471753955037
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	19	16	1back|nback	#FD913D	0.502390492809577
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	20	16	manipulation|rules	#F03623	0.714453998523422
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	21	16		#F03623	0.741166285487426
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	22	16		#D7141E	0.817637495401392
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	23	16	digit	#D7141E	0.879027572248684
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	1	17	avoidance	#FFF1A9	0.15120613587285
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	2	17		#FFF1A9	0.129945003423013
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	3	17	eating|food	#FFFFCC	0.0462101729570585
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	4	17	taste	#FFFFCC	0.0257507910547249
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	5	17	bipolar	#FFF1A9	0.153126194442606
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	6	17	illness|uncertainty	#FEE188	0.296271098407001
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	7	17	females|probabilistic	#FEE188	0.21689105342926
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	8	17	rejection	#FFF1A9	0.11489031549543
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	9	17	colour|paired	#FD913D	0.582115721816135
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	10	17		#FDAD4A	0.471692303799815
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	11	17		#FD913D	0.524253813452029
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	12	17		#FDAD4A	0.486763084863666
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	13	17	taskirrelevant	#FECB68	0.347738534086003
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	14	17		#FD913D	0.585212958066784
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	15	17	suppression	#FDAD4A	0.486555124205982
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	16	17		#FC622F	0.648917536200006
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	17	17	shifting|shortterm	#FD913D	0.553970872270243
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	18	17	digits	#F03623	0.77389300637138
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	19	17	search	#FC622F	0.629608788411309
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	20	17	counting|taskrelated	#FC622F	0.662545641165501
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	21	17	topdown	#FC622F	0.655893218405088
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	22	17	visuospatial	#D7141E	0.835383068631957
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	23	17	arithmetic|calculation|solving	#D7141E	0.828365569163709
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	1	18	addiction|craving|drugs	#FFF1A9	0.161139615632698
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	2	18	allele|genotype|polymorphism	#FFFFCC	0.0884757831058698
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	3	18	motivation	#FFF1A9	0.128788861479518
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	4	18	heart	#FFF1A9	0.186438146863298
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	5	18	sleep	#FEE188	0.233614979756748
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	6	18	expectancy	#FDAD4A	0.412623322056825
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	7	18	phasic|salience	#FEE188	0.217967335612593
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	8	18	adolescence|adolescents	#FD913D	0.538504635631531
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	9	18	intelligence|tracking	#FECB68	0.379155086537269
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	10	18		#FD913D	0.535138600634564
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	11	18	serial	#FECB68	0.33728065116784
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	12	18		#FD913D	0.523036915247496
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	13	18	spatially|taskrelevant	#FD913D	0.514974232899868
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	14	18		#FC622F	0.605690310699689
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	15	18	attended|attend|unattended	#FC622F	0.631650919550328
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	16	18	rotation|shapes	#FD913D	0.596945224270154
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	17	18	rehearsal	#FDAD4A	0.440273516074225
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	18	18	learned	#FECB68	0.376845151972513
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	19	18		#FC622F	0.619861728394293
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	20	18	cued|preparatory	#FC622F	0.696914706077271
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	21	18		#F03623	0.746326450275829
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	22	18		#D7141E	0.851739681959322
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	23	18	numbers|numerical	#B10026	1
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	1	19	future	#FFF1A9	0.105866131370374
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	2	19	negatively	#FEE188	0.280048485205348
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	3	19	distress|epilepsy|selfreported	#FFF1A9	0.145748899918955
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	4	19	anticipatory|cocaine|probabilities|smoking	#FFF1A9	0.138528366245162
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	5	19	alcohol|amount|impulsivity	#FD913D	0.522818988524464
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	6	19	game|success	#FEE188	0.228747131487831
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	7	19	adhd|childhood|engagement	#FECB68	0.326412929437719
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	8	19		#FECB68	0.366379172740824
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	9	19		#FDAD4A	0.47511317960103
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	10	19		#FD913D	0.523043508372382
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	11	19		#FD913D	0.551488304547426
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	12	19	endogenous	#FDAD4A	0.483019998495826
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	13	19	cueing|invalid|orienting	#FDAD4A	0.403178566057783
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	14	19		#FC622F	0.652578691933424
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	15	19	multisensory	#FD913D	0.548172845627385
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	16	19		#FC622F	0.650099668906961
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	17	19	shifts	#FD913D	0.54633879700051
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	18	19	covert	#FECB68	0.394756010102222
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	19	19		#FD913D	0.584853773730977
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	20	19	preparation	#FC622F	0.666924441222364
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	21	19	discrimination|training	#FC622F	0.678085862158449
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	22	19	sequences	#FD913D	0.594532529263407
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	23	19		#FC622F	0.682658611300335
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	1	20	personal|self|selfreferential|trait|traits	#FFFFCC	0.0590274751539634
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	2	20	empathic|theory	#FFF1A9	0.18065751447653
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	3	20	attribution|intentional	#FFF1A9	0.149448031946496
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	4	20	elderly|oscillations	#FEE188	0.219332106547466
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	5	20	antipsychotic|virtual	#FEE188	0.293187600553407
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	6	20		#FDAD4A	0.426057596769274
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	7	20	experiences	#FFF1A9	0.172032154305511
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	8	20	categorical|pressure	#FFF1A9	0.197726777713332
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	9	20	play|skills	#FEE188	0.268931840718224
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	10	20	automatic|trained	#FECB68	0.372463817804585
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	11	20		#FD913D	0.521935000065
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	12	20	practice	#FD913D	0.506722885811235
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	13	20	visuomotor	#FC622F	0.629287719881842
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	14	20		#FC622F	0.639158179335839
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	15	20	tool	#FD913D	0.598990088102182
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	16	20	vision	#FD913D	0.55041970706236
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	17	20	visually	#FD913D	0.573768995588057
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	18	20	saccade|saccades|saccadic	#FDAD4A	0.474690387512878
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	19	20	locations	#FD913D	0.535376604182893
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	20	20	imagery|planning	#FD913D	0.544729273169116
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	21	20		#FC622F	0.65624167159317
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	22	20	rest	#FD913D	0.532689796316013
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	23	20	sequence	#FD913D	0.560568923521806
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	1	21	scenarios	#FFFFCC	0.0326824612287038
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	2	21	intention|intentions	#FFF1A9	0.163258228019166
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	3	21	causality|perspective	#FEE188	0.258591310109925
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	4	21	past	#FFF1A9	0.191555158237959
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	5	21		#FECB68	0.384638400306716
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	6	21	episode	#FFF1A9	0.10171556154007
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	7	21	improvement	#FEE188	0.26555648472816
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	8	21	masking|retention	#FECB68	0.357260313029077
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	9	21		#FECB68	0.384068169068301
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	10	21	dominant	#FDAD4A	0.455083806613247
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	11	21		#FDAD4A	0.435199202097278
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	12	21	sequential	#FDAD4A	0.457017872230436
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	13	21	fingers	#FDAD4A	0.43595507514566
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	14	21		#FD913D	0.515094985568112
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	15	21	gesture|gestures	#FDAD4A	0.454854069521027
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	16	21		#FC622F	0.625629171440587
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	17	21	hands	#FC622F	0.681293082336863
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	18	21		#FC622F	0.695248084888646
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	19	21		#FC622F	0.649807355985873
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	20	21	eye|position	#FC622F	0.605992218239743
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	21	21	execution	#FD913D	0.551555214551428
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	22	21	finger|sensorimotor	#FD913D	0.552064281590245
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	23	21		#FD913D	0.580916471940321
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	1	22	moral|stories|story	#FFFFCC	0.0668348027455545
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	2	22	mentalizing|persons	#FFF1A9	0.131487513433052
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	3	22	default|restingstate	#FFFFCC	0.0429209883782761
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	4	22	thinking|thought|thoughts	#FECB68	0.399442879662846
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	5	22	spontaneous	#FECB68	0.334825172761924
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	6	22	concentration|sensations	#FFF1A9	0.139464227529718
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	7	22	hierarchical|preference	#FEE188	0.241673015104696
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	8	22	effort|oral|simulation	#FEE188	0.231115461752941
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	9	22	interhemispheric|plasticity	#FFF1A9	0.185249117492879
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	10	22	imagined|imagine	#FECB68	0.347526310447461
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	11	22	tapping	#FECB68	0.330816615838381
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	12	22	foot|muscle|muscles|voluntary	#FFF1A9	0.144353180665033
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	13	22	limb	#FEE188	0.247384823448181
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	14	22	eyes|velocity	#FECB68	0.313568746374832
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	15	22	biological|gaze|videos	#FFF1A9	0.194045171541478
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	16	22	body	#FDAD4A	0.458685382163399
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	17	22	grasping|orientation|reaching	#F03623	0.730519895917874
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	18	22		#F03623	0.726415362334311
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	19	22	mirror|shape	#F03623	0.722099305845113
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	20	22	actions	#FC622F	0.609867414339626
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	21	22	action	#FC622F	0.629940776523384
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	22	22		#FD913D	0.59746143886961
+5fdf6bca-3fde-3eca-be8f-32d742dd7e6b	Hegarty M	23	22	hand|movements|sensory	#FD913D	0.54157575584558

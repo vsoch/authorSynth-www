@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	1	1	auditory|speech	#FFF1A9	0.198642666429901
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	2	1		#FFF1A9	0.194961340113919
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	3	1	da|integration	#FDAD4A	0.467907067942507
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	4	1		#FECB68	0.362322518197659
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	5	1	physical|psychophysical|tactile	#FECB68	0.325763867621204
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	6	1		#FECB68	0.366806816543051
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	7	1	somatosensory|stimulation	#FECB68	0.378760696877965
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	8	1	painful|pain	#FEE188	0.244591434661296
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	9	1		#FECB68	0.372989606233295
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	10	1	ratings	#FC622F	0.62956322658834
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	11	1	affective|affect	#FDAD4A	0.440788703947299
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	12	1	emotions	#FDAD4A	0.488193332441389
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	13	1	expression|expressions|facial	#FECB68	0.397686707143229
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	14	1		#FD913D	0.527184786130017
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	15	1		#FD913D	0.583759585838801
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	16	1	emotion|motion|neutral	#FD913D	0.579004654864423
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	17	1	rating	#FD913D	0.595736976985484
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	18	1	negative|positive	#FC622F	0.608438913734495
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	19	1		#FC622F	0.647070553582001
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	20	1	ear|order	#FD913D	0.574505321265478
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	21	1	motor	#FD913D	0.500376158206849
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	22	1	visual	#FD913D	0.571190291587251
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	23	1	age|image|response	#FD913D	0.567916460632827
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	1	2	sound|sounds	#FFF1A9	0.112755630010852
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	2	2		#FFF1A9	0.162942770694033
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	3	2	audiovisual|bimodal|crossmodal	#FFF1A9	0.182342018730773
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	4	2		#FECB68	0.370874838488494
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	5	2		#FECB68	0.392464043109831
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	6	2		#FECB68	0.389164728391488
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	7	2	sensation	#FECB68	0.310980733813336
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	8	2	heat|noxious	#FFF1A9	0.16771053926838
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	9	2		#FECB68	0.376392872781734
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	10	2		#FD913D	0.524609268281435
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	11	2		#FD913D	0.539707321562276
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	12	2	valence	#FD913D	0.554677427364161
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	13	2	person|social	#FECB68	0.328426205399795
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	14	2		#FD913D	0.534097063839767
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	15	2	face|faces	#FDAD4A	0.466794118159702
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	16	2		#FC622F	0.620197943647287
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	17	2		#FC622F	0.649016074396872
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	18	2		#FC622F	0.658906499934329
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	19	2		#FC622F	0.653528722743075
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	20	2		#FC622F	0.622382391172213
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	21	2	images|spatial	#FC622F	0.638837645986033
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	22	2	control	#FD913D	0.505041412091387
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	23	2	time	#FD913D	0.573294680971497
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	1	3	acoustic|listening|musical|music|pitch	#FFFFCC	0.0264506771097879
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	2	3	noise|tones	#FFFFCC	0.0837405437272557
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	3	3		#FEE188	0.250182732726679
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	4	3		#FECB68	0.341845295962161
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	5	3	frequency	#FECB68	0.395149134412609
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	6	3		#FDAD4A	0.40286814341816
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	7	3		#FEE188	0.260465548956999
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	8	3	temperature	#FFF1A9	0.191952420820056
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	9	3		#FECB68	0.31618156738659
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	10	3	pleasant|unpleasant	#FDAD4A	0.402744696170897
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	11	3	anxiety	#FECB68	0.348019583928736
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	12	3		#FDAD4A	0.492201721788828
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	13	3		#FD913D	0.550359077533777
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	14	3		#FD913D	0.589113888943786
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	15	3		#FC622F	0.613841997115951
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	16	3	picture	#FC622F	0.638244947771756
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	17	3		#FC622F	0.66931766081689
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	18	3	value	#FC622F	0.623273046214482
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	19	3	cue	#FC622F	0.613038768898637
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	20	3	error|target	#FD913D	0.570531418584436
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	21	3	attention	#FD913D	0.533275328084132
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	22	3		#FD913D	0.585653003629496
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	23	3	number	#FD913D	0.586719315754047
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	1	4	voice	#FFF1A9	0.106164476056
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	2	4		#FFF1A9	0.140120893864649
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	3	4	hearing	#FFF1A9	0.120638368798926
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	4	4		#FEE188	0.29422893239203
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	5	4	overt	#FEE188	0.297675813942184
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	6	4		#FECB68	0.349065945213545
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	7	4		#FEE188	0.266854600077047
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	8	4	nociceptive|nonpainful|painrelated	#FFF1A9	0.102386785629336
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	9	4	unpleasantness	#FFF1A9	0.169205177956685
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	10	4	skin|subjective	#FECB68	0.395368592849566
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	11	4	depression	#FDAD4A	0.427715977372563
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	12	4	experience	#FDAD4A	0.417647311701251
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	13	4	female	#FD913D	0.537184087177258
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	14	4	male	#FD913D	0.558842896321761
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	15	4	pictures	#FD913D	0.584003205382597
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	16	4		#FC622F	0.633625604720168
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	17	4	perception	#FD913D	0.541444354645914
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	18	4		#FC622F	0.643423671300884
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	19	4		#FC622F	0.627706349724653
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	20	4		#FC622F	0.603712978005244
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	21	4	correct	#FD913D	0.547905588139112
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	22	4	work	#FDAD4A	0.498724929130687
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	23	4	memory	#FD913D	0.591399715743921
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	1	5	prosodic|prosody	#FFF1A9	0.137902410173865
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	2	5	phonetic	#FFF1A9	0.181230319391951
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	3	5	syllable|syllables	#FFF1A9	0.13004387686562
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	4	5		#FEE188	0.270278510194999
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	5	5	lip|production	#FEE188	0.257720434503132
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	6	5	somatotopic	#FEE188	0.246729963277706
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	7	5		#FECB68	0.316191296447492
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	8	5		#FEE188	0.260450076600723
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	9	5	empathy	#FEE188	0.277825318965351
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	10	5		#FECB68	0.344843691775398
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	11	5	disorder	#FECB68	0.306656230284232
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	12	5		#FDAD4A	0.428370160037388
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	13	5		#FDAD4A	0.469951737970549
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	14	5		#FDAD4A	0.475845001092757
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	15	5		#FD913D	0.502479703471373
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	16	5		#FD913D	0.524304820044108
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	17	5		#FD913D	0.537677867443686
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	18	5	mental	#FD913D	0.592333645386573
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	19	5	go	#FD913D	0.543236979505352
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	20	5	object	#FD913D	0.531145631793713
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	21	5		#FD913D	0.532483568879884
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	22	5		#FDAD4A	0.473459508163333
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	23	5	word|words	#FECB68	0.326738546843144
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	1	6		#FC622F	0.694162395415193
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	2	6		#FC622F	0.636710378205678
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	3	6		#FDAD4A	0.456899042368364
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	4	6	vocal	#FFF1A9	0.176903448603596
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	5	6	articulatory	#FFF1A9	0.135324845064913
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	6	6		#FECB68	0.327925222076792
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	7	6	oddball	#FEE188	0.218479569397763
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	8	6	perceived	#FECB68	0.301657075714618
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	9	6	errorrelated	#FFF1A9	0.160815810434683
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	10	6	approach	#FECB68	0.313191206854717
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	11	6	schizophrenia	#FEE188	0.247962370504035
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	12	6	acquisition	#FEE188	0.287073884461996
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	13	6		#FECB68	0.333466083028674
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	14	6		#FEE188	0.217912507864221
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	15	6		#FEE188	0.254609370312723
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	16	6		#FECB68	0.3009259327234
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	17	6		#FDAD4A	0.406474973409095
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	18	6		#FDAD4A	0.475783174672914
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	19	6		#FD913D	0.527173198369832
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	20	6	objects	#FC622F	0.623344035206856
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	21	6		#FD913D	0.531858829965347
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	22	6		#FECB68	0.391573661391764
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	23	6	language|semantic	#FEE188	0.279211584381022
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	1	7	dopamine|dopaminergic	#B10026	1
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	2	7		#F03623	0.76947883665581
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	3	7		#FD913D	0.507849131875137
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	4	7		#FDAD4A	0.435547069770979
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	5	7		#FECB68	0.385732832441997
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	6	7		#FDAD4A	0.403904427130365
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	7	7		#FECB68	0.393488782367014
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	8	7		#FECB68	0.367816756868188
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	9	7		#FECB68	0.374014570976199
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	10	7		#FECB68	0.35569018480315
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	11	7		#FECB68	0.342741637692984
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	12	7		#FECB68	0.305126153010993
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	13	7	linguistic|spoken	#FFF1A9	0.151709097984801
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	14	7		#FFF1A9	0.149262303532399
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	15	7	comprehension|sentence|sentences|syntactic	#FFFFCC	0.0950634982402195
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	16	7		#FEE188	0.207356587695851
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	17	7		#FECB68	0.315595266610871
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	18	7	phonological|reading|read	#FEE188	0.283498733597279
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	19	7		#FDAD4A	0.476534455073762
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	20	7	perceptual|recognition	#FC622F	0.637963444144593
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	21	7		#FD913D	0.544034754933248
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	22	7		#FDAD4A	0.417407584850504
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	23	7	verb	#FECB68	0.379307776883461
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	1	8	outcome|reward	#FC622F	0.636815527902665
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	2	8	anticipation	#F03623	0.747774565797829
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	3	8	outcomes	#FDAD4A	0.474485222919443
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	4	8	choice|choices	#FEE188	0.253734725768307
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	5	8	decisions|probability	#FECB68	0.313928942547248
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	6	8	reversal	#FECB68	0.36755676312368
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	7	8	classification|incorrect	#FECB68	0.304013945353014
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	8	8		#FDAD4A	0.434733047037597
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	9	8	agerelated|fluency|probes	#FEE188	0.259710928030466
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	10	8	engaged	#FEE188	0.298861580576514
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	11	8	explicit|knowledge	#FEE188	0.283429549651126
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	12	8		#FEE188	0.22754341962267
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	13	8		#FFF1A9	0.148638782923931
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	14	8		#FFF1A9	0.133028658099455
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	15	8		#FFF1A9	0.136141891973138
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	16	8		#FFF1A9	0.173900703975667
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	17	8	lexical	#FEE188	0.23332165802336
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	18	8		#FECB68	0.344267000808506
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	19	8		#FDAD4A	0.430410119815485
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	20	8		#FD913D	0.523314273667513
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	21	8	encoding	#FC622F	0.661483225591428
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	22	8	retrieval	#FD913D	0.556507748303705
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	23	8	verbal	#FDAD4A	0.43670722839077
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	1	9	incentive|monetary|money|rewards	#FD913D	0.519721382638822
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	2	9	loss	#FC622F	0.608252956129363
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	3	9		#FD913D	0.52259303071988
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	4	9		#FDAD4A	0.487314187392814
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	5	9	decisionmaking	#FECB68	0.313358179093895
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	6	9		#FDAD4A	0.475631332464807
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	7	9		#FDAD4A	0.485255554146036
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	8	9		#FD913D	0.501896245328398
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	9	9		#FDAD4A	0.484686374976216
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	10	9		#FECB68	0.348470586256941
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	11	9		#FEE188	0.231697652776127
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	12	9		#FFF1A9	0.178399288815534
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	13	9	noun	#FFFFCC	0.00770705423263987
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	14	9	meaning	#FFF1A9	0.117527160626217
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	15	9	english	#FFFFCC	0.0590982142134017
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	16	9	pseudoword|pseudowords	#FFF1A9	0.113105112232173
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	17	9		#FEE188	0.235826637415795
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	18	9		#FECB68	0.352658310049634
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	19	9	familiar|judgment	#FECB68	0.396331733405702
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	20	9	pair|pairs	#FECB68	0.333851869894068
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	21	9		#FD913D	0.52251525818221
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	22	9		#FD913D	0.516002087384471
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	23	9	letter|working	#FDAD4A	0.420194947297391
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	1	10	losses|reinforcement|win	#FDAD4A	0.418547617105335
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	2	10	gain	#FDAD4A	0.436245421834705
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	3	10	expectation	#FC622F	0.672148570968801
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	4	10	risk	#FECB68	0.38089761755641
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	5	10	fact	#FDAD4A	0.473131508591947
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	6	10	associative	#FDAD4A	0.489126460267984
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	7	10	familiarity|judgments|old	#FDAD4A	0.437470413031979
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	8	10	contextual|text	#FD913D	0.507109614673276
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	9	10	recall|retrieved	#FD913D	0.549075103091784
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	10	10	conceptual|semantically	#FFF1A9	0.130375371451665
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	11	10	grammatical|speakers	#FFFFCC	0.092472746718779
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	12	10	nouns	#FFFFCC	0.014596811828205
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	13	10	japanese	#FFFFCC	0
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	14	10	languages	#FFFFCC	0.0140664181262941
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	15	10	written	#FFF1A9	0.180746514362768
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	16	10	chinese|phonology	#FFFFCC	0.0913145470948079
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	17	10	orthographic	#FEE188	0.24709182976512
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	18	10		#FECB68	0.363351200320057
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	19	10		#FDAD4A	0.417565444421739
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	20	10	association|decision	#FDAD4A	0.464253306828682
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	21	10	selection	#FDAD4A	0.446904308984057
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	22	10	letters	#FDAD4A	0.433471163005312
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	23	10	demand|load	#FDAD4A	0.462840036279496
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	1	11	conditioned|conditioning	#FD913D	0.50002812573791
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	2	11		#FC622F	0.69181760537602
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	3	11	drug|placebo	#F03623	0.786892399350594
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	4	11		#D7141E	0.813256869673895
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	5	11	associations	#FD913D	0.540375625828223
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	6	11		#F03623	0.725797001001232
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	7	11	episodic|recollection	#FC622F	0.616196689865532
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	8	11		#F03623	0.736228058261146
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	9	11		#FD913D	0.528934391883796
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	10	11	concepts	#FEE188	0.251231972473477
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	11	11		#FEE188	0.267033195928327
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	12	11		#FEE188	0.202390414984961
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	13	11	german	#FFF1A9	0.113610076917085
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	14	11	readers	#FFF1A9	0.15747931512292
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	15	11	character|name|naming	#FEE188	0.214623366936614
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	16	11		#FECB68	0.322248514307296
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	17	11	novel	#FDAD4A	0.414145796078649
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	18	11		#FECB68	0.389188655658803
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	19	11	child|children	#FEE188	0.260429222985239
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	20	11	adults	#FDAD4A	0.470380281887135
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	21	11	ability|feedback|learning	#FD913D	0.584042854039085
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	22	11	cues|delay	#FC622F	0.620536025983515
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	23	11	attentional|difficulty|targets	#FD913D	0.57543377086896
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	1	12	aversive|shock	#FDAD4A	0.474411448823068
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	2	12	reactivity	#FD913D	0.527595225095752
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	3	12	males|sex|women	#FC622F	0.621140824144388
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	4	12	animal	#FC622F	0.645793290405955
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	5	12	animals	#FECB68	0.35855445677156
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	6	12		#F03623	0.751813755198472
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	7	12	remember|subsequent	#F03623	0.774572012541794
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	8	12	autobiographical|memories	#FECB68	0.333979280943451
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	9	12		#FDAD4A	0.496109904513381
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	10	12	violation|violations	#FFFFCC	0.056781110813117
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	11	12	aphasia	#FECB68	0.310070157111724
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	12	12	nonwords	#FECB68	0.31905171078963
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	13	12	dyslexia	#FFF1A9	0.182363460378184
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	14	12		#FECB68	0.311360856110904
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	15	12	priming	#FECB68	0.310890476150921
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	16	12		#FDAD4A	0.432845478985276
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	17	12	category|repetition	#FDAD4A	0.449301365704131
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	18	12		#FDAD4A	0.417072268054343
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	19	12	developmental|development	#FEE188	0.260794713695051
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	20	12		#FDAD4A	0.415558897447412
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	21	12	space	#FD913D	0.555855751920766
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	22	12		#FDAD4A	0.470610562627781
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	23	12	color	#FDAD4A	0.417118756561581
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	1	13	threat	#FECB68	0.352092765322805
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	2	13	regulation	#FECB68	0.31800033035015
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	3	13		#FC622F	0.622726489272625
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	4	13	masked	#FEE188	0.221041631281391
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	5	13	scene|scenes	#FD913D	0.542003430433313
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	6	13		#F03623	0.754898679362028
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	7	13	confidence|remembered	#F03623	0.735987490232739
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	8	13		#F03623	0.764927110121458
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	9	13		#FD913D	0.504096472040897
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	10	13	ambiguity|ambiguous	#FEE188	0.201847591615392
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	11	13		#FECB68	0.378592698549389
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	12	13		#FECB68	0.389198595720212
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	13	13	writing	#FEE188	0.290751214130324
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	14	13		#FDAD4A	0.409863276824965
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	15	13	categorization|congruency|prime	#FECB68	0.30839313192574
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	16	13		#FDAD4A	0.491227047161999
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	17	13	mask	#FDAD4A	0.460521260800836
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	18	13		#FDAD4A	0.471466148145817
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	19	13		#FDAD4A	0.432780788857032
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	20	13		#FECB68	0.360478747572301
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	21	13	conflict|congruent|incongruent	#FFF1A9	0.147538960222954
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	22	13	errors	#FECB68	0.311041979683175
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	23	13	maintenance|probe|wm	#FECB68	0.391042856735404
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	1	14	angry|fearful|happy	#FECB68	0.321448053138777
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	2	14		#FECB68	0.384644538681668
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	3	14	awareness|conscious|ptsd	#FDAD4A	0.442461915207728
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	4	14		#FC622F	0.60994122951182
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	5	14	houses|photographs	#FEE188	0.239242786041709
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	6	14		#F03623	0.7257989465448
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	7	14	hits	#FC622F	0.627264067862104
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	8	14	famous	#FECB68	0.337496760076614
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	9	14	names	#FFF1A9	0.177535391305417
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	10	14	family	#FEE188	0.287618957397073
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	11	14	competition|mouth	#FEE188	0.213679428250212
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	12	14	abilities	#FEE188	0.214496743154219
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	13	14	implicit|unfamiliar	#FECB68	0.304782027147593
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	14	14		#FDAD4A	0.466618096079874
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	15	14	tom	#FECB68	0.370504635148027
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	16	14		#FD913D	0.506829335687646
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	17	14		#FDAD4A	0.480499592063232
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	18	14	stop	#FECB68	0.365941748134687
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	19	14	inhibition|inhibitory|nogo	#FDAD4A	0.450068129041669
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	20	14	monitoring|stroop	#FFF1A9	0.188051101741873
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	21	14	interference	#FEE188	0.244265697049457
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	22	14		#FECB68	0.320227532228184
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	23	14	demands|executive	#FECB68	0.353353828531128
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	1	15	anger	#FEE188	0.243364891706818
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	2	15	stress	#FECB68	0.395601489623784
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	3	15	feelings	#FEE188	0.248971809483714
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	4	15	salient	#FDAD4A	0.426391966093522
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	5	15	novelty	#FD913D	0.530972925285347
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	6	15	movie	#FECB68	0.326340814935456
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	7	15		#FC622F	0.676877585720778
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	8	15		#FC622F	0.610871201025249
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	9	15	longterm	#FECB68	0.300395606481656
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	10	15		#FDAD4A	0.447146115883959
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	11	15	reasoning|relational	#FECB68	0.355058482481986
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	12	15		#FDAD4A	0.453188694246593
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	13	15	presentations	#FEE188	0.279048398275863
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	14	15		#FDAD4A	0.477789960381843
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	15	15	identity	#FD913D	0.528081667987883
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	16	15		#FDAD4A	0.477059067362849
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	17	15	strategies|strategy	#FECB68	0.388136790002221
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	18	15	card|cards	#FECB68	0.301377841367618
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	19	15	gonogo	#FDAD4A	0.442446870240792
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	20	15		#FECB68	0.345388836787961
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	21	15	switching|switch	#FEE188	0.239226153713744
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	22	15		#FECB68	0.324817824065399
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	23	15	2back|rule	#FECB68	0.353268336941694
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	1	16	emotionally|mood|personality|sadness	#FDAD4A	0.457249639426597
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	2	16	disgust|sexual	#FD913D	0.583232733401007
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	3	16	olfactory	#FECB68	0.326776076262586
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	4	16	physiological	#FC622F	0.634328991788801
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	5	16	depressed|depressive|habituation	#FEE188	0.246705702662515
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	6	16	schizophrenic	#FECB68	0.314927810524456
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	7	16	colors|contexts	#FECB68	0.391523670416835
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	8	16	aging|encoded	#FEE188	0.271663990045022
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	9	16	goal	#FEE188	0.216102129691049
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	10	16		#FDAD4A	0.457831192748873
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	11	16	autism|autistic|nonverbal	#FECB68	0.314879933134305
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	12	16		#FDAD4A	0.451713512877713
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	13	16	bottomup|repetitions	#FECB68	0.352566823703357
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	14	16	adaptation	#FDAD4A	0.46404127424492
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	15	16	irrelevant	#FECB68	0.31153541326987
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	16	16	distractor|distractors	#FEE188	0.283497304006343
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	17	16		#FDAD4A	0.454182570496975
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	18	16	subtraction	#FECB68	0.347697789265578
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	19	16	1back|nback	#FEE188	0.266543363997817
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	20	16	manipulation|rules	#FECB68	0.376059044400293
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	21	16		#FDAD4A	0.420206868059268
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	22	16		#FDAD4A	0.446371008230624
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	23	16	digit	#FDAD4A	0.427910676283961
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	1	17	avoidance	#FDAD4A	0.457290980101631
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	2	17		#D7141E	0.861467062249559
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	3	17	eating|food	#FDAD4A	0.461200605065065
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	4	17	taste	#FDAD4A	0.451754494430385
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	5	17	bipolar	#FECB68	0.356928421269639
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	6	17	illness|uncertainty	#FFF1A9	0.118070217139719
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	7	17	females|probabilistic	#FEE188	0.246956930534016
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	8	17	rejection	#FFFFCC	0.0802131917837997
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	9	17	colour|paired	#FD913D	0.526504373819571
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	10	17		#FD913D	0.546246216297885
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	11	17		#FD913D	0.569577319592203
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	12	17		#FDAD4A	0.497999626900719
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	13	17	taskirrelevant	#FFF1A9	0.163344591099492
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	14	17		#FDAD4A	0.466830601391722
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	15	17	suppression	#FECB68	0.339619947063105
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	16	17		#FD913D	0.508982629582237
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	17	17	shifting|shortterm	#FECB68	0.367368028995349
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	18	17	digits	#FECB68	0.343901227422446
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	19	17	search	#FD913D	0.517879019421048
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	20	17	counting|taskrelated	#FFF1A9	0.181690576413769
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	21	17	topdown	#FECB68	0.357282493270792
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	22	17	visuospatial	#FD913D	0.590756100051826
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	23	17	arithmetic|calculation|solving	#FDAD4A	0.477635572992586
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	1	18	addiction|craving|drugs	#F03623	0.742675331927188
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	2	18	allele|genotype|polymorphism	#D7141E	0.859882682461563
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	3	18	motivation	#FDAD4A	0.45750200902304
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	4	18	heart	#D7141E	0.866184619652673
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	5	18	sleep	#FD913D	0.568158191056406
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	6	18	expectancy	#FECB68	0.394799930506895
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	7	18	phasic|salience	#FECB68	0.340601327432767
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	8	18	adolescence|adolescents	#FFF1A9	0.192313322755569
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	9	18	intelligence|tracking	#FECB68	0.380355800574376
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	10	18		#FD913D	0.564959321590712
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	11	18	serial	#FECB68	0.391564917633564
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	12	18		#FDAD4A	0.489116514083684
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	13	18	spatially|taskrelevant	#FEE188	0.261607333991551
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	14	18		#FDAD4A	0.4794794838856
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	15	18	attended|attend|unattended	#FECB68	0.311263404040447
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	16	18	rotation|shapes	#FC622F	0.643234697918893
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	17	18	rehearsal	#FEE188	0.267707495370952
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	18	18	learned	#FEE188	0.287459119338238
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	19	18		#FD913D	0.50625866739813
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	20	18	cued|preparatory	#FDAD4A	0.487989228059198
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	21	18		#FD913D	0.528868525609983
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	22	18		#FD913D	0.526339790099689
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	23	18	numbers|numerical	#FDAD4A	0.42499078957328
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	1	19	future	#FECB68	0.337355749804702
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	2	19	negatively	#FDAD4A	0.458650610187129
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	3	19	distress|epilepsy|selfreported	#FDAD4A	0.457832075555663
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	4	19	anticipatory|cocaine|probabilities|smoking	#FDAD4A	0.477204087307802
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	5	19	alcohol|amount|impulsivity	#FDAD4A	0.433705693823442
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	6	19	game|success	#FECB68	0.369944524625647
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	7	19	adhd|childhood|engagement	#FECB68	0.337518000567706
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	8	19		#FD913D	0.5169769603677
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	9	19		#FD913D	0.560238003764446
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	10	19		#FD913D	0.563264440478178
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	11	19		#FD913D	0.567472961844616
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	12	19	endogenous	#FDAD4A	0.460652589385751
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	13	19	cueing|invalid|orienting	#FDAD4A	0.420545874303116
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	14	19		#FDAD4A	0.496211058976458
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	15	19	multisensory	#FDAD4A	0.440389200302068
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	16	19		#FD913D	0.512107761693343
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	17	19	shifts	#FD913D	0.568762659649666
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	18	19	covert	#FECB68	0.382637670547095
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	19	19		#FD913D	0.585279728418607
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	20	19	preparation	#FDAD4A	0.492332282577589
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	21	19	discrimination|training	#FDAD4A	0.451039803191097
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	22	19	sequences	#FECB68	0.367963047502053
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	23	19		#FC622F	0.63329682074941
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	1	20	personal|self|selfreferential|trait|traits	#FEE188	0.289860936912318
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	2	20	empathic|theory	#FEE188	0.259297721442011
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	3	20	attribution|intentional	#FFF1A9	0.118304140587549
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	4	20	elderly|oscillations	#FEE188	0.28254245211762
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	5	20	antipsychotic|virtual	#FEE188	0.280651788231858
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	6	20		#FC622F	0.675731365344578
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	7	20	experiences	#FECB68	0.389153801421352
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	8	20	categorical|pressure	#FDAD4A	0.406668652485748
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	9	20	play|skills	#FEE188	0.254613294253494
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	10	20	automatic|trained	#FEE188	0.278616756483328
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	11	20		#FD913D	0.562050470096808
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	12	20	practice	#FD913D	0.584824481736857
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	13	20	visuomotor	#FDAD4A	0.48849513934097
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	14	20		#FD913D	0.558440800244324
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	15	20	tool	#FEE188	0.222889247429619
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	16	20	vision	#FDAD4A	0.445833997471141
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	17	20	visually	#FD913D	0.508157455999668
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	18	20	saccade|saccades|saccadic	#FC622F	0.628786974777083
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	19	20	locations	#FC622F	0.667586728240206
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	20	20	imagery|planning	#FDAD4A	0.487453333117482
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	21	20		#FD913D	0.569578829342625
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	22	20	rest	#FD913D	0.53171865387252
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	23	20	sequence	#FC622F	0.62489643481718
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	1	21	scenarios	#FFFFCC	0.0925418755640902
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	2	21	intention|intentions	#FEE188	0.207138672466414
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	3	21	causality|perspective	#FEE188	0.226789156625624
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	4	21	past	#FFF1A9	0.113065179526994
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	5	21		#FC622F	0.661930820748995
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	6	21	episode	#FDAD4A	0.48170067281507
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	7	21	improvement	#FFF1A9	0.188315259993288
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	8	21	masking|retention	#FEE188	0.289746966027932
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	9	21		#FD913D	0.595687920364562
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	10	21	dominant	#FDAD4A	0.43052776131496
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	11	21		#FD913D	0.581717628187741
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	12	21	sequential	#FDAD4A	0.448997687273905
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	13	21	fingers	#FD913D	0.50118880540321
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	14	21		#FECB68	0.38471063362905
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	15	21	gesture|gestures	#FFFFCC	0.0531406116464014
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	16	21		#FDAD4A	0.446746751149565
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	17	21	hands	#FC622F	0.613137523984812
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	18	21		#FC622F	0.672202166244937
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	19	21		#FC622F	0.657835106413588
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	20	21	eye|position	#FC622F	0.685419581223543
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	21	21	execution	#FDAD4A	0.497144581402683
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	22	21	finger|sensorimotor	#FD913D	0.56709101164659
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	23	21		#FD913D	0.560651257864687
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	1	22	moral|stories|story	#FFFFCC	0.0451308368584085
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	2	22	mentalizing|persons	#FFF1A9	0.104887474179982
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	3	22	default|restingstate	#FEE188	0.26160157638984
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	4	22	thinking|thought|thoughts	#FEE188	0.252557029188392
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	5	22	spontaneous	#FD913D	0.578429523961247
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	6	22	concentration|sensations	#FD913D	0.548528055927025
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	7	22	hierarchical|preference	#FECB68	0.303213813285988
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	8	22	effort|oral|simulation	#FECB68	0.353970633633361
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	9	22	interhemispheric|plasticity	#FDAD4A	0.453347324772758
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	10	22	imagined|imagine	#FDAD4A	0.414265543969175
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	11	22	tapping	#FD913D	0.501460890898264
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	12	22	foot|muscle|muscles|voluntary	#FDAD4A	0.40795308585845
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	13	22	limb	#FDAD4A	0.436863471216859
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	14	22	eyes|velocity	#FECB68	0.334963021589539
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	15	22	biological|gaze|videos	#FFF1A9	0.130431118641693
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	16	22	body	#FEE188	0.299217344301329
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	17	22	grasping|orientation|reaching	#FDAD4A	0.457042922499817
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	18	22		#FC622F	0.640426649791093
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	19	22	mirror|shape	#FD913D	0.556769539522104
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	20	22	actions	#FDAD4A	0.424471873440538
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	21	22	action	#FD913D	0.507180571649046
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	22	22		#FD913D	0.552752809546466
+ac9b101e-75fb-35a4-b7b4-abbd3cb006ec	Schott BH	23	22	hand|movements|sensory	#FDAD4A	0.451540786194891

@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	1	1	auditory|speech	#F03623	0.731841945130736
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	2	1		#F03623	0.708709237675714
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	3	1	da|integration	#F03623	0.759783327065031
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	4	1		#D7141E	0.897690566983788
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	5	1	physical|psychophysical|tactile	#FC622F	0.632916534860619
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	6	1		#D7141E	0.843915637681828
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	7	1	somatosensory|stimulation	#FC622F	0.684079113340069
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	8	1	painful|pain	#F03623	0.754822962106067
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	9	1		#D7141E	0.825581469021482
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	10	1	ratings	#FC622F	0.65909335931038
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	11	1	affective|affect	#FC622F	0.606854611745423
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	12	1	emotions	#FC622F	0.603183496900119
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	13	1	expression|expressions|facial	#FECB68	0.32448794733666
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	14	1		#FD913D	0.58369870764543
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	15	1		#FC622F	0.623306460718103
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	16	1	emotion|motion|neutral	#FD913D	0.57136841699187
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	17	1	rating	#FC622F	0.61785320364833
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	18	1	negative|positive	#FD913D	0.54862055693688
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	19	1		#FC622F	0.636300157956447
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	20	1	ear|order	#FC622F	0.638202795719362
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	21	1	motor	#FDAD4A	0.449354399620932
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	22	1	visual	#FD913D	0.506469828388279
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	23	1	age|image|response	#FD913D	0.565605712126773
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	1	2	sound|sounds	#FD913D	0.585306013392933
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	2	2		#FC622F	0.697531397300432
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	3	2	audiovisual|bimodal|crossmodal	#FD913D	0.551163152053149
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	4	2		#B10026	0.904969743185416
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	5	2		#B10026	0.904847198860004
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	6	2		#D7141E	0.880331640172531
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	7	2	sensation	#F03623	0.741495689431332
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	8	2	heat|noxious	#FC622F	0.666311188847511
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	9	2		#D7141E	0.8431239013875
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	10	2		#F03623	0.7721570935014
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	11	2		#F03623	0.716203394575173
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	12	2	valence	#FDAD4A	0.497196814210197
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	13	2	person|social	#FD913D	0.555406273815727
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	14	2		#FC622F	0.609979675343981
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	15	2	face|faces	#FD913D	0.530515113341094
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	16	2		#FC622F	0.68947877806805
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	17	2		#FC622F	0.694305736553661
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	18	2		#FC622F	0.693445681048759
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	19	2		#FC622F	0.671671562563019
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	20	2		#FC622F	0.609811484472573
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	21	2	images|spatial	#FD913D	0.559537354466482
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	22	2	control	#FD913D	0.566348486670325
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	23	2	time	#FD913D	0.568193422186528
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	1	3	acoustic|listening|musical|music|pitch	#FD913D	0.574424298494931
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	2	3	noise|tones	#FD913D	0.581370554816283
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	3	3		#D7141E	0.822607520868787
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	4	3		#D7141E	0.883501708616828
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	5	3	frequency	#D7141E	0.884262260847193
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	6	3		#B10026	1
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	7	3		#D7141E	0.8536430782321
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	8	3	temperature	#FC622F	0.618983335163805
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	9	3		#D7141E	0.873563755029444
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	10	3	pleasant|unpleasant	#F03623	0.731966562360257
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	11	3	anxiety	#FD913D	0.505060645422973
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	12	3		#F03623	0.714199492719043
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	13	3		#F03623	0.769942764191521
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	14	3		#F03623	0.73180696454284
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	15	3		#F03623	0.766257222631116
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	16	3	picture	#F03623	0.782354969645697
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	17	3		#D7141E	0.804007425008713
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	18	3	value	#F03623	0.771792630964517
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	19	3	cue	#FD913D	0.586503921555345
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	20	3	error|target	#FC622F	0.607287601312341
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	21	3	attention	#FD913D	0.541542686681364
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	22	3		#FC622F	0.617412707126547
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	23	3	number	#FC622F	0.617671793887049
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	1	4	voice	#FD913D	0.558312500838384
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	2	4		#FC622F	0.693206323677084
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	3	4	hearing	#FD913D	0.57828392356702
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	4	4		#D7141E	0.816493497988616
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	5	4	overt	#F03623	0.723447199520596
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	6	4		#D7141E	0.893941074115857
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	7	4		#B10026	0.90838726434498
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	8	4	nociceptive|nonpainful|painrelated	#F03623	0.705073391369493
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	9	4	unpleasantness	#F03623	0.76708090529525
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	10	4	skin|subjective	#F03623	0.75366512862652
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	11	4	depression	#FC622F	0.699163296616976
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	12	4	experience	#F03623	0.754861509713724
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	13	4	female	#F03623	0.725308370035835
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	14	4	male	#D7141E	0.802563601450305
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	15	4	pictures	#F03623	0.776782518681993
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	16	4		#D7141E	0.889488592132852
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	17	4	perception	#D7141E	0.829419924498499
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	18	4		#F03623	0.785175432465005
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	19	4		#F03623	0.72037823631229
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	20	4		#FC622F	0.681484897334153
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	21	4	correct	#F03623	0.710253500643077
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	22	4	work	#FC622F	0.602318251036418
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	23	4	memory	#FD913D	0.568806740235865
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	1	5	prosodic|prosody	#FD913D	0.565391289143558
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	2	5	phonetic	#FDAD4A	0.491252197856116
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	3	5	syllable|syllables	#FC622F	0.62458434531778
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	4	5		#F03623	0.769886432995057
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	5	5	lip|production	#FD913D	0.541053549629049
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	6	5	somatotopic	#FD913D	0.555754737492916
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	7	5		#B10026	0.971679408497784
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	8	5		#B10026	0.922338553866191
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	9	5	empathy	#D7141E	0.894109054035325
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	10	5		#D7141E	0.85130285770858
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	11	5	disorder	#F03623	0.701980262576411
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	12	5		#D7141E	0.850068863698897
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	13	5		#B10026	0.926155413196734
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	14	5		#B10026	0.937260424773343
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	15	5		#B10026	0.945444939956131
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	16	5		#B10026	0.966079362785985
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	17	5		#B10026	0.925365710243674
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	18	5	mental	#FC622F	0.692844882315257
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	19	5	go	#F03623	0.717613063018895
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	20	5	object	#FD913D	0.555391662947904
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	21	5		#F03623	0.735801174953256
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	22	5		#F03623	0.734970381652097
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	23	5	word|words	#FC622F	0.679477698040195
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	1	6		#F03623	0.764538108904128
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	2	6		#F03623	0.793996730801982
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	3	6		#D7141E	0.860958871934718
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	4	6	vocal	#FD913D	0.573253998548391
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	5	6	articulatory	#FC622F	0.615501499132967
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	6	6		#D7141E	0.884966450504996
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	7	6	oddball	#FC622F	0.647463922018119
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	8	6	perceived	#D7141E	0.842736170717052
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	9	6	errorrelated	#FC622F	0.651225192772516
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	10	6	approach	#FD913D	0.543401484118284
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	11	6	schizophrenia	#FC622F	0.653411083423209
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	12	6	acquisition	#F03623	0.77043386158074
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	13	6		#B10026	0.93777675614924
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	14	6		#D7141E	0.810360669348055
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	15	6		#D7141E	0.8124456579911
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	16	6		#D7141E	0.836356224444858
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	17	6		#D7141E	0.875428143905429
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	18	6		#D7141E	0.834278696624945
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	19	6		#D7141E	0.845944077140384
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	20	6	objects	#F03623	0.714763291429213
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	21	6		#D7141E	0.804311218151189
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	22	6		#F03623	0.76522108776769
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	23	6	language|semantic	#F03623	0.7507698687246
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	1	7	dopamine|dopaminergic	#FEE188	0.22663458582862
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	2	7		#FDAD4A	0.429564342357927
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	3	7		#F03623	0.756683451386938
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	4	7		#D7141E	0.870198710487561
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	5	7		#B10026	0.902787898441446
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	6	7		#B10026	0.982000054737121
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	7	7		#B10026	0.974317984746551
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	8	7		#B10026	0.937710357240084
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	9	7		#D7141E	0.896955567437469
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	10	7		#D7141E	0.831710758214457
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	11	7		#F03623	0.785087384031386
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	12	7		#D7141E	0.841885556758175
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	13	7	linguistic|spoken	#F03623	0.765027880290678
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	14	7		#F03623	0.749592006744794
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	15	7	comprehension|sentence|sentences|syntactic	#FC622F	0.650611306015982
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	16	7		#F03623	0.751880984439875
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	17	7		#D7141E	0.820687428937824
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	18	7	phonological|reading|read	#F03623	0.79796113679794
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	19	7		#D7141E	0.856226993146107
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	20	7	perceptual|recognition	#D7141E	0.825501462312899
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	21	7		#D7141E	0.834206654117977
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	22	7		#F03623	0.783373450654003
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	23	7	verb	#FC622F	0.693760901746219
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	1	8	outcome|reward	#FECB68	0.394557825360543
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	2	8	anticipation	#FECB68	0.38084306933641
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	3	8	outcomes	#FECB68	0.362095530858842
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	4	8	choice|choices	#FC622F	0.600734933726803
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	5	8	decisions|probability	#FC622F	0.700089139367369
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	6	8	reversal	#F03623	0.765337582513737
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	7	8	classification|incorrect	#F03623	0.714703164949085
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	8	8		#D7141E	0.849536535573317
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	9	8	agerelated|fluency|probes	#F03623	0.745258654304736
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	10	8	engaged	#FD913D	0.572011158853906
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	11	8	explicit|knowledge	#F03623	0.703558910388658
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	12	8		#F03623	0.772608730585489
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	13	8		#F03623	0.777998451647823
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	14	8		#F03623	0.741275848238814
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	15	8		#F03623	0.732543924895938
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	16	8		#F03623	0.743113583685432
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	17	8	lexical	#FC622F	0.692627985103612
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	18	8		#D7141E	0.809723527518072
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	19	8		#D7141E	0.855117376608438
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	20	8		#D7141E	0.855265757719288
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	21	8	encoding	#F03623	0.729720038891646
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	22	8	retrieval	#FC622F	0.654330605030869
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	23	8	verbal	#F03623	0.711075561670751
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	1	9	incentive|monetary|money|rewards	#FFFFCC	0.0797726032881394
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	2	9	loss	#FECB68	0.362082474230021
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	3	9		#FD913D	0.566521149617189
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	4	9		#FC622F	0.665671830337282
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	5	9	decisionmaking	#FD913D	0.557990149498848
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	6	9		#F03623	0.796655551983352
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	7	9		#F03623	0.767682109561605
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	8	9		#F03623	0.772326339557879
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	9	9		#F03623	0.79617701735937
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	10	9		#F03623	0.757613775214439
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	11	9		#F03623	0.733310858911457
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	12	9		#F03623	0.705431112096439
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	13	9	noun	#FD913D	0.544626749387371
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	14	9	meaning	#FC622F	0.693047654638613
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	15	9	english	#FC622F	0.605209301512135
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	16	9	pseudoword|pseudowords	#F03623	0.715339482860035
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	17	9		#F03623	0.772235726510801
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	18	9		#D7141E	0.82029677972783
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	19	9	familiar|judgment	#F03623	0.740202318625173
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	20	9	pair|pairs	#F03623	0.794275190817829
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	21	9		#D7141E	0.846104067053232
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	22	9		#F03623	0.768950178127938
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	23	9	letter|working	#FC622F	0.660355697442444
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	1	10	losses|reinforcement|win	#FECB68	0.346054281540778
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	2	10	gain	#FFF1A9	0.158275319241123
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	3	10	expectation	#FECB68	0.369613870827938
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	4	10	risk	#FDAD4A	0.468810422479284
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	5	10	fact	#FD913D	0.582496901159079
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	6	10	associative	#FDAD4A	0.481239303977118
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	7	10	familiarity|judgments|old	#FD913D	0.58798375577889
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	8	10	contextual|text	#FD913D	0.540256297810278
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	9	10	recall|retrieved	#FDAD4A	0.490876265474846
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	10	10	conceptual|semantically	#FC622F	0.66924906891126
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	11	10	grammatical|speakers	#FC622F	0.630370696377009
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	12	10	nouns	#FD913D	0.508253784567846
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	13	10	japanese	#FDAD4A	0.466172721165045
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	14	10	languages	#FD913D	0.519352526034668
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	15	10	written	#FD913D	0.596195051059436
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	16	10	chinese|phonology	#FD913D	0.539446825910264
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	17	10	orthographic	#FC622F	0.684463240819141
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	18	10		#D7141E	0.865616640108502
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	19	10		#D7141E	0.886878089191252
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	20	10	association|decision	#D7141E	0.811631142551179
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	21	10	selection	#FC622F	0.67426330900385
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	22	10	letters	#FD913D	0.593515949247964
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	23	10	demand|load	#FC622F	0.62520376830312
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	1	11	conditioned|conditioning	#FFF1A9	0.100124863426055
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	2	11		#FDAD4A	0.454522609426235
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	3	11	drug|placebo	#FDAD4A	0.406590581029018
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	4	11		#FC622F	0.641094721014933
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	5	11	associations	#FDAD4A	0.409611310427903
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	6	11		#FD913D	0.552622352004021
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	7	11	episodic|recollection	#FECB68	0.344831801089332
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	8	11		#FD913D	0.536240749182973
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	9	11		#D7141E	0.803777524015029
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	10	11	concepts	#FECB68	0.381756147531359
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	11	11		#F03623	0.77081575566229
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	12	11		#F03623	0.730823259322845
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	13	11	german	#FC622F	0.67497005663985
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	14	11	readers	#FC622F	0.659682977283834
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	15	11	character|name|naming	#FC622F	0.614076192119922
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	16	11		#F03623	0.762581537767518
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	17	11	novel	#D7141E	0.804527639564824
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	18	11		#D7141E	0.873076243316093
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	19	11	child|children	#D7141E	0.849571845050258
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	20	11	adults	#D7141E	0.877604770329481
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	21	11	ability|feedback|learning	#F03623	0.757631639576975
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	22	11	cues|delay	#FC622F	0.642766481672269
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	23	11	attentional|difficulty|targets	#FC622F	0.655770143801701
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	1	12	aversive|shock	#FD913D	0.509669180228973
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	2	12	reactivity	#FEE188	0.218314624108996
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	3	12	males|sex|women	#FD913D	0.527466283997902
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	4	12	animal	#FDAD4A	0.473795833056566
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	5	12	animals	#FECB68	0.384296676829121
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	6	12		#FDAD4A	0.482402727415995
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	7	12	remember|subsequent	#FEE188	0.286240986517532
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	8	12	autobiographical|memories	#FFFFCC	0
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	9	12		#D7141E	0.837833744480516
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	10	12	violation|violations	#FC622F	0.674271296885911
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	11	12	aphasia	#FC622F	0.697331074118571
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	12	12	nonwords	#FDAD4A	0.475015388263557
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	13	12	dyslexia	#FC622F	0.655523937222314
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	14	12		#F03623	0.788356908780612
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	15	12	priming	#FC622F	0.635358514499794
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	16	12		#F03623	0.795814604338955
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	17	12	category|repetition	#F03623	0.78640444888833
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	18	12		#D7141E	0.874034912896729
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	19	12	developmental|development	#F03623	0.767169062716843
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	20	12		#D7141E	0.876086871498009
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	21	12	space	#D7141E	0.820137912512822
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	22	12		#F03623	0.724722657782762
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	23	12	color	#FC622F	0.656443585392345
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	1	13	threat	#FEE188	0.250319685805025
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	2	13	regulation	#FDAD4A	0.484276779628208
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	3	13		#FD913D	0.593837656677945
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	4	13	masked	#FECB68	0.390429556436374
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	5	13	scene|scenes	#FEE188	0.257033585949385
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	6	13		#FDAD4A	0.423389517282325
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	7	13	confidence|remembered	#FFFFCC	0.0919466037528749
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	8	13		#FDAD4A	0.474293527062594
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	9	13		#D7141E	0.829341631475365
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	10	13	ambiguity|ambiguous	#FD913D	0.5128517652756
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	11	13		#D7141E	0.844802591630566
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	12	13		#D7141E	0.824586384084208
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	13	13	writing	#FDAD4A	0.470864669830275
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	14	13		#D7141E	0.83900193502434
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	15	13	categorization|congruency|prime	#FC622F	0.607569626409681
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	16	13		#D7141E	0.823242802463753
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	17	13	mask	#FC622F	0.691916248058018
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	18	13		#D7141E	0.867151149724554
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	19	13		#D7141E	0.840944132201171
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	20	13		#D7141E	0.804048965599408
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	21	13	conflict|congruent|incongruent	#F03623	0.70082031316111
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	22	13	errors	#FC622F	0.680768722331796
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	23	13	maintenance|probe|wm	#FD913D	0.554294354162326
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	1	14	angry|fearful|happy	#FEE188	0.215154420955075
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	2	14		#FECB68	0.379751349121912
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	3	14	awareness|conscious|ptsd	#FDAD4A	0.412575060933574
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	4	14		#FC622F	0.675858428338834
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	5	14	houses|photographs	#FEE188	0.273751192873225
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	6	14		#FD913D	0.520332425739923
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	7	14	hits	#FFF1A9	0.157765561478193
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	8	14	famous	#FEE188	0.260771422358766
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	9	14	names	#FDAD4A	0.481377696797448
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	10	14	family	#FDAD4A	0.406643590256894
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	11	14	competition|mouth	#FC622F	0.623367004855664
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	12	14	abilities	#FC622F	0.646824971477472
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	13	14	implicit|unfamiliar	#F03623	0.783088150937731
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	14	14		#D7141E	0.818651838925745
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	15	14	tom	#FC622F	0.662582571208999
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	16	14		#F03623	0.772615919364264
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	17	14		#F03623	0.760729973532664
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	18	14	stop	#FC622F	0.636887924341273
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	19	14	inhibition|inhibitory|nogo	#FC622F	0.63094242087168
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	20	14	monitoring|stroop	#FDAD4A	0.495373969998235
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	21	14	interference	#FD913D	0.569701106648568
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	22	14		#FC622F	0.653501748407502
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	23	14	demands|executive	#FC622F	0.658950730529539
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	1	15	anger	#FFFFCC	0.0540289944591195
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	2	15	stress	#FEE188	0.225254698755872
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	3	15	feelings	#FC622F	0.606609014996248
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	4	15	salient	#FD913D	0.549863559763357
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	5	15	novelty	#FDAD4A	0.408337065885944
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	6	15	movie	#FECB68	0.314159052273516
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	7	15		#FC622F	0.642021774463716
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	8	15		#FC622F	0.680198234798848
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	9	15	longterm	#FECB68	0.335613334990265
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	10	15		#F03623	0.710893375609896
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	11	15	reasoning|relational	#FD913D	0.518374291601298
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	12	15		#D7141E	0.843987320357601
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	13	15	presentations	#FD913D	0.515108661179974
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	14	15		#F03623	0.78709010711809
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	15	15	identity	#FD913D	0.531193278181334
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	16	15		#F03623	0.731632101791748
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	17	15	strategies|strategy	#FD913D	0.517686118556739
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	18	15	card|cards	#FD913D	0.565239826598694
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	19	15	gonogo	#FC622F	0.657083463876949
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	20	15		#FC622F	0.655417598026163
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	21	15	switching|switch	#FDAD4A	0.404580888263114
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	22	15		#FD913D	0.579158237493214
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	23	15	2back|rule	#FDAD4A	0.497451211820843
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	1	16	emotionally|mood|personality|sadness	#FFF1A9	0.193905858687829
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	2	16	disgust|sexual	#FEE188	0.271510827770889
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	3	16	olfactory	#FECB68	0.342814059706506
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	4	16	physiological	#FC622F	0.613042171396468
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	5	16	depressed|depressive|habituation	#FDAD4A	0.408102202061443
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	6	16	schizophrenic	#F03623	0.728883438034448
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	7	16	colors|contexts	#FEE188	0.280335042722234
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	8	16	aging|encoded	#FECB68	0.343518477357413
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	9	16	goal	#FECB68	0.312955849732035
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	10	16		#FC622F	0.656335280459584
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	11	16	autism|autistic|nonverbal	#FD913D	0.509565246719509
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	12	16		#D7141E	0.802371998514534
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	13	16	bottomup|repetitions	#FD913D	0.507389349265116
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	14	16	adaptation	#FD913D	0.564804088159625
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	15	16	irrelevant	#FD913D	0.576643969469219
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	16	16	distractor|distractors	#FDAD4A	0.457598514273985
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	17	16		#FC622F	0.699370269754752
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	18	16	subtraction	#FD913D	0.552233975152814
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	19	16	1back|nback	#FDAD4A	0.443969319583992
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	20	16	manipulation|rules	#FD913D	0.571774963152259
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	21	16		#FD913D	0.566338651565939
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	22	16		#FD913D	0.505936325804421
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	23	16	digit	#FECB68	0.370655781466968
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	1	17	avoidance	#FFFFCC	0.00718161831969007
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	2	17		#FECB68	0.33371716121563
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	3	17	eating|food	#FEE188	0.216191542483066
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	4	17	taste	#FDAD4A	0.485692127656198
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	5	17	bipolar	#FD913D	0.513972465364282
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	6	17	illness|uncertainty	#FD913D	0.587483778205543
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	7	17	females|probabilistic	#FD913D	0.5590990552478
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	8	17	rejection	#FEE188	0.27704719646049
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	9	17	colour|paired	#FDAD4A	0.481993099954225
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	10	17		#FC622F	0.671206682243148
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	11	17		#FC622F	0.666396347356185
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	12	17		#FC622F	0.670137385048007
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	13	17	taskirrelevant	#FD913D	0.507283325731326
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	14	17		#FC622F	0.656897084355528
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	15	17	suppression	#FC622F	0.644344542359691
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	16	17		#FC622F	0.668104333962492
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	17	17	shifting|shortterm	#FECB68	0.395243170176878
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	18	17	digits	#FECB68	0.350852880823675
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	19	17	search	#FC622F	0.630926149137061
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	20	17	counting|taskrelated	#FDAD4A	0.413795234943039
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	21	17	topdown	#FD913D	0.580786245439034
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	22	17	visuospatial	#FEE188	0.261649448641553
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	23	17	arithmetic|calculation|solving	#FDAD4A	0.401150917110779
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	1	18	addiction|craving|drugs	#FFFFCC	0.0821869189260078
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	2	18	allele|genotype|polymorphism	#FFF1A9	0.185766845053117
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	3	18	motivation	#FDAD4A	0.415690718821834
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	4	18	heart	#FD913D	0.537685134864604
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	5	18	sleep	#FD913D	0.542114961597574
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	6	18	expectancy	#FC622F	0.674428499538977
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	7	18	phasic|salience	#FD913D	0.512401208385182
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	8	18	adolescence|adolescents	#FDAD4A	0.444857115172686
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	9	18	intelligence|tracking	#FD913D	0.559581445199688
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	10	18		#F03623	0.727673860088584
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	11	18	serial	#FECB68	0.322983820793415
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	12	18		#FC622F	0.627063362832566
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	13	18	spatially|taskrelevant	#FEE188	0.222572917134184
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	14	18		#FC622F	0.652591276563465
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	15	18	attended|attend|unattended	#FDAD4A	0.452087226192945
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	16	18	rotation|shapes	#FECB68	0.353751574873624
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	17	18	rehearsal	#FD913D	0.555753746792036
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	18	18	learned	#FECB68	0.380178356840093
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	19	18		#FD913D	0.537171110715276
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	20	18	cued|preparatory	#FDAD4A	0.49714817831494
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	21	18		#FD913D	0.592503221933078
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	22	18		#FD913D	0.580221348659061
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	23	18	numbers|numerical	#FECB68	0.35898348517347
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	1	19	future	#FECB68	0.396942260103068
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	2	19	negatively	#FEE188	0.26714179003956
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	3	19	distress|epilepsy|selfreported	#FECB68	0.302700530797985
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	4	19	anticipatory|cocaine|probabilities|smoking	#FEE188	0.294025918608683
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	5	19	alcohol|amount|impulsivity	#FEE188	0.271556003845843
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	6	19	game|success	#FDAD4A	0.430531948240885
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	7	19	adhd|childhood|engagement	#FC622F	0.601918662681545
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	8	19		#D7141E	0.882606403167629
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	9	19		#D7141E	0.890808424995818
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	10	19		#F03623	0.717951304541467
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	11	19		#FC622F	0.635881306706902
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	12	19	endogenous	#FECB68	0.342314112540295
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	13	19	cueing|invalid|orienting	#FDAD4A	0.475438201951306
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	14	19		#FC622F	0.644262740466488
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	15	19	multisensory	#FD913D	0.58668199420397
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	16	19		#FC622F	0.643589613924644
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	17	19	shifts	#FDAD4A	0.465136108688627
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	18	19	covert	#FDAD4A	0.468388323696486
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	19	19		#FDAD4A	0.450418373484126
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	20	19	preparation	#FECB68	0.369280696852428
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	21	19	discrimination|training	#F03623	0.743999628746577
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	22	19	sequences	#FDAD4A	0.401328459716777
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	23	19		#FC622F	0.657279434012966
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	1	20	personal|self|selfreferential|trait|traits	#FEE188	0.277106555678074
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	2	20	empathic|theory	#FDAD4A	0.486315478198041
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	3	20	attribution|intentional	#FFFFCC	0.0928824080462276
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	4	20	elderly|oscillations	#FFF1A9	0.130302374993602
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	5	20	antipsychotic|virtual	#FEE188	0.267615143153287
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	6	20		#D7141E	0.833469711456512
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	7	20	experiences	#FDAD4A	0.406034056695099
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	8	20	categorical|pressure	#FD913D	0.568759266058118
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	9	20	play|skills	#FDAD4A	0.474651734913663
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	10	20	automatic|trained	#FD913D	0.564681124444259
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	11	20		#FDAD4A	0.45462914069022
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	12	20	practice	#FEE188	0.264514208477203
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	13	20	visuomotor	#FFF1A9	0.134899456960718
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	14	20		#FD913D	0.586516101039163
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	15	20	tool	#FECB68	0.359354354344475
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	16	20	vision	#FFF1A9	0.117473757701882
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	17	20	visually	#FDAD4A	0.47726382504474
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	18	20	saccade|saccades|saccadic	#FFF1A9	0.100295186119744
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	19	20	locations	#FECB68	0.32390031524532
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	20	20	imagery|planning	#FECB68	0.312464579669762
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	21	20		#FD913D	0.559625335265361
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	22	20	rest	#FC622F	0.621490162905728
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	23	20	sequence	#FC622F	0.605626208970503
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	1	21	scenarios	#FEE188	0.281536919312233
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	2	21	intention|intentions	#FFF1A9	0.188388389630292
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	3	21	causality|perspective	#FFF1A9	0.160776405472111
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	4	21	past	#FFFFCC	0.0864762522346328
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	5	21		#D7141E	0.837263264695905
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	6	21	episode	#FECB68	0.398900302647011
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	7	21	improvement	#FEE188	0.246483205997845
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	8	21	masking|retention	#FEE188	0.289465038301851
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	9	21		#FC622F	0.68150383723183
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	10	21	dominant	#FDAD4A	0.494017433757209
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	11	21		#FECB68	0.356045752889033
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	12	21	sequential	#FFFFCC	0.0972574791094964
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	13	21	fingers	#FFFFCC	0.05336841460341
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	14	21		#FDAD4A	0.448174523348045
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	15	21	gesture|gestures	#FECB68	0.319647836346512
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	16	21		#FDAD4A	0.418907766617594
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	17	21	hands	#FFF1A9	0.135451904829171
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	18	21		#FECB68	0.38556034343008
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	19	21		#FDAD4A	0.405455640901693
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	20	21	eye|position	#FECB68	0.356737500404025
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	21	21	execution	#FECB68	0.356775850240399
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	22	21	finger|sensorimotor	#FEE188	0.297876503732557
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	23	21		#FDAD4A	0.456016420922553
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	1	22	moral|stories|story	#FFF1A9	0.16452769869115
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	2	22	mentalizing|persons	#FFFFCC	0.0691689261923439
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	3	22	default|restingstate	#FFFFCC	0.0988841395574305
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	4	22	thinking|thought|thoughts	#FEE188	0.290895256701197
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	5	22	spontaneous	#FC622F	0.618811420064901
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	6	22	concentration|sensations	#FD913D	0.595415928216812
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	7	22	hierarchical|preference	#FDAD4A	0.404478561312473
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	8	22	effort|oral|simulation	#FDAD4A	0.463110606040615
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	9	22	interhemispheric|plasticity	#FDAD4A	0.417930390651828
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	10	22	imagined|imagine	#FEE188	0.217109741951099
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	11	22	tapping	#FEE188	0.282386193350338
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	12	22	foot|muscle|muscles|voluntary	#FDAD4A	0.40681991051337
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	13	22	limb	#FFF1A9	0.10901927354718
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	14	22	eyes|velocity	#FFF1A9	0.157847028354828
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	15	22	biological|gaze|videos	#FFF1A9	0.167010638480565
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	16	22	body	#FD913D	0.558233972760346
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	17	22	grasping|orientation|reaching	#FFF1A9	0.124345145326263
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	18	22		#FECB68	0.387201371868383
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	19	22	mirror|shape	#FDAD4A	0.421717604034229
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	20	22	actions	#FECB68	0.389819580737231
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	21	22	action	#FD913D	0.514998453380019
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	22	22		#FDAD4A	0.409544882344381
+2fa48b1a-5f0e-3e41-8ac0-e8fdb38f72fe	Tagamets MA	23	22	hand|movements|sensory	#FECB68	0.315542377869998

@@ -1,0 +1,84 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+     <div id='cssmenu'>
+      <ul>
+        <li><a href='network.html'><span>Network</span></a></li>
+       <li><a href='lattice.html'><span>Brain Lattice</span></a></li>
+       <li><a href='authors.html'><span>Authors</span></a></li>
+       <li class='last'><a href='about.html'><span>About</span></a></li>
+       <li class="right"><form id ="searchForm" action="author.php" method="get">
+    <input id="searchField" name="uid">
+    <input type="submit">
+       </form></li>  
+    </ul>
+     </div>
+
+<head>
+
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>AuthorSynth: Collaboration Network of Neuroscience Authors</title>
+  <link rel="stylesheet" type="text/css" href="css/portal.css" media="screen" />
+  <meta name="description" content="Interative Network of Brain Activation Publications.">
+  <meta name="author" content="Vanessa Sochat">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+
+  <!-- CSS concatenated and minified via ant build script-->
+  <link rel="stylesheet" href="css/reset.css">
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/style.css">
+  <!-- end CSS-->
+ <link rel="stylesheet" href="//code.jquery.com/ui/1.11.1/themes/smoothness/jquery-ui.css">
+  <script src="//code.jquery.com/jquery-1.10.2.js"></script>
+  <script src="//code.jquery.com/ui/1.11.1/jquery-ui.js"></script>
+
+</head>
+
+<body>
+  
+<!-- Here is how to do the search-->
+
+<script type="text/javascript">
+
+$(function() {
+    // Read in the authors.json file
+    var json = (function () {
+        var json = null;
+        $.ajax({
+            'async': false,
+            'global': false,
+            'url': "data/authors.json",
+            'dataType': "json",
+            'success': function (data) {
+                json = data;
+            }
+        });
+        return json;
+    })(); 
+
+    $( "#searchField" ).autocomplete({
+      source: json,
+      select: function(event, ui) {
+        console.log(ui); 
+        $("#searchField").val(ui.item.label);
+        }
+    });
+  });
+
+</script>
+
+<div id="header">
+  <h1 style="font-size:60px;">Welcome to AuthorSynth!</h1>
+  <h2>Neuroscience Author Collaboration Network</h2>
+ </div>
+  <div id="cfleft">
+	<a href="lattice.html"><img class="bottom" src="img/asFeature.png" alt="Network"/></a>
+	<a href="lattice.html"><img src="img/asFeaturePurple.png" alt="Collaborator Network" class="top" /></a>
+</div>
+<div id="cfright">
+	<a href="network.html"><img class="bottom" src="img/asNetwork.png" alt="Network"/></a>
+	<a href="network.html"><img src="img/asNetworkPurple.png" alt="Brain Lattice" class="top" /></a>
+</div>
+
+</body>
+</html>

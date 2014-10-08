@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	1	1	auditory|speech	#FDAD4A	0.401569750283069
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	2	1		#FECB68	0.349452883971422
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	3	1	da|integration	#FDAD4A	0.448586809579297
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	4	1		#FDAD4A	0.418202565164731
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	5	1	physical|psychophysical|tactile	#FECB68	0.315573742039651
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	6	1		#FDAD4A	0.409428402378478
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	7	1	somatosensory|stimulation	#FECB68	0.36261011782605
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	8	1	painful|pain	#FECB68	0.362913572855635
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	9	1		#FDAD4A	0.405596841755121
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	10	1	ratings	#FDAD4A	0.489202403506404
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	11	1	affective|affect	#FD913D	0.589485643785105
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	12	1	emotions	#FDAD4A	0.453966199963536
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	13	1	expression|expressions|facial	#FECB68	0.372734174932184
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	14	1		#FD913D	0.514083167393712
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	15	1		#FD913D	0.509377554937567
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	16	1	emotion|motion|neutral	#FDAD4A	0.482975101245615
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	17	1	rating	#FD913D	0.526746730730096
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	18	1	negative|positive	#FD913D	0.591220822600237
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	19	1		#FC622F	0.642901208153851
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	20	1	ear|order	#FC622F	0.651251589669417
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	21	1	motor	#FD913D	0.512738503925179
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	22	1	visual	#FDAD4A	0.490945700796472
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	23	1	age|image|response	#FD913D	0.588071573764379
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	1	2	sound|sounds	#FEE188	0.265348645071929
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	2	2		#FECB68	0.315925253374494
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	3	2	audiovisual|bimodal|crossmodal	#FFF1A9	0.159133450603239
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	4	2		#FDAD4A	0.428345354039522
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	5	2		#FDAD4A	0.429511629607808
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	6	2		#FDAD4A	0.429359978907379
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	7	2	sensation	#FECB68	0.315131433851641
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	8	2	heat|noxious	#FEE188	0.279093389359185
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	9	2		#FDAD4A	0.422398379623009
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	10	2		#FD913D	0.512279792968002
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	11	2		#FD913D	0.54259574846356
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	12	2	valence	#FDAD4A	0.484551887644791
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	13	2	person|social	#F03623	0.772960276608574
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	14	2		#FD913D	0.527597664931636
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	15	2	face|faces	#FDAD4A	0.425165752057455
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	16	2		#FD913D	0.54777159089868
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	17	2		#FD913D	0.589489636544302
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	18	2		#FC622F	0.639865025737977
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	19	2		#FC622F	0.655031632507938
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	20	2		#FC622F	0.617234814917638
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	21	2	images|spatial	#FD913D	0.542698111458562
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	22	2	control	#FC622F	0.617634047023006
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	23	2	time	#FC622F	0.611807688588338
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	1	3	acoustic|listening|musical|music|pitch	#FEE188	0.204742603224651
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	2	3	noise|tones	#FEE188	0.208704779795538
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	3	3		#FDAD4A	0.405067096663523
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	4	3		#FD913D	0.504297729658087
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	5	3	frequency	#FDAD4A	0.492184894094472
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	6	3		#FD913D	0.578690612358247
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	7	3		#FDAD4A	0.474777249056364
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	8	3	temperature	#FDAD4A	0.439150777409093
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	9	3		#FDAD4A	0.457795257654374
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	10	3	pleasant|unpleasant	#FEE188	0.213941881793606
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	11	3	anxiety	#FD913D	0.518873211506105
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	12	3		#FC622F	0.672404167376919
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	13	3		#FC622F	0.686111404651526
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	14	3		#FD913D	0.589605004808651
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	15	3		#FD913D	0.583737085172772
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	16	3	picture	#FD913D	0.573715460667174
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	17	3		#FC622F	0.611768975432938
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	18	3	value	#FC622F	0.618613359067671
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	19	3	cue	#FC622F	0.634829296347922
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	20	3	error|target	#FC622F	0.675370880295247
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	21	3	attention	#FD913D	0.588039116552863
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	22	3		#FC622F	0.663153599428473
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	23	3	number	#FC622F	0.659418606455054
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	1	4	voice	#FFF1A9	0.158321956675093
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	2	4		#FEE188	0.293812825752752
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	3	4	hearing	#FDAD4A	0.49431351233501
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	4	4		#FD913D	0.524463569761105
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	5	4	overt	#FD913D	0.591790536757532
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	6	4		#FD913D	0.565267320444613
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	7	4		#FD913D	0.573083445682203
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	8	4	nociceptive|nonpainful|painrelated	#FDAD4A	0.443924180936102
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	9	4	unpleasantness	#FECB68	0.390108473081232
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	10	4	skin|subjective	#FD913D	0.527372220737747
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	11	4	depression	#FD913D	0.560465709003613
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	12	4	experience	#F03623	0.79672043606887
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	13	4	female	#FC622F	0.627523716007716
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	14	4	male	#FC622F	0.644868178107641
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	15	4	pictures	#FD913D	0.560894453048088
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	16	4		#FC622F	0.622174294064768
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	17	4	perception	#FDAD4A	0.486660987635346
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	18	4		#FC622F	0.684408125569929
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	19	4		#FC622F	0.688790682729378
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	20	4		#FC622F	0.677845424644672
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	21	4	correct	#F03623	0.748572351414706
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	22	4	work	#F03623	0.720473429684407
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	23	4	memory	#F03623	0.718272713508028
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	1	5	prosodic|prosody	#FFF1A9	0.120759828348916
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	2	5	phonetic	#FECB68	0.383341340620634
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	3	5	syllable|syllables	#FDAD4A	0.468619523726736
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	4	5		#FD913D	0.519618891252872
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	5	5	lip|production	#FECB68	0.399694177411525
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	6	5	somatotopic	#FECB68	0.317099105738586
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	7	5		#FC622F	0.691040266429406
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	8	5		#F03623	0.72203289594832
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	9	5	empathy	#F03623	0.771611163046793
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	10	5		#D7141E	0.872141644124315
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	11	5	disorder	#FC622F	0.636827660709347
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	12	5		#D7141E	0.874941934876777
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	13	5		#F03623	0.788999531832682
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	14	5		#F03623	0.730859962305295
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	15	5		#F03623	0.702944965115817
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	16	5		#FC622F	0.676107306421632
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	17	5		#FC622F	0.694457707864676
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	18	5	mental	#F03623	0.775335038475463
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	19	5	go	#FC622F	0.691427888479907
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	20	5	object	#FD913D	0.508937028933767
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	21	5		#F03623	0.724443773729733
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	22	5		#F03623	0.739652419598482
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	23	5	word|words	#FC622F	0.671885114576071
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	1	6		#FDAD4A	0.492322996059614
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	2	6		#FD913D	0.533046559944351
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	3	6		#FD913D	0.589315153781441
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	4	6	vocal	#FECB68	0.362363529352084
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	5	6	articulatory	#FECB68	0.382993959703843
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	6	6		#FC622F	0.610291288358571
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	7	6	oddball	#F03623	0.707263802668037
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	8	6	perceived	#FD913D	0.57075676436888
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	9	6	errorrelated	#D7141E	0.879860467250315
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	10	6	approach	#F03623	0.76785081434498
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	11	6	schizophrenia	#B10026	0.947568781051273
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	12	6	acquisition	#D7141E	0.820755918982611
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	13	6		#F03623	0.784090540387181
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	14	6		#FC622F	0.647440012631318
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	15	6		#FC622F	0.631019343215294
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	16	6		#FC622F	0.645111655300577
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	17	6		#F03623	0.723847043525339
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	18	6		#F03623	0.72202836797208
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	19	6		#F03623	0.733375370041455
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	20	6	objects	#FD913D	0.585362447566179
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	21	6		#F03623	0.745163188289081
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	22	6		#F03623	0.731363370621094
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	23	6	language|semantic	#FC622F	0.677349991498974
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	1	7	dopamine|dopaminergic	#FDAD4A	0.466935008083517
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	2	7		#FDAD4A	0.462893297297604
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	3	7		#FC622F	0.689884793062479
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	4	7		#F03623	0.754675060361174
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	5	7		#F03623	0.773474008390646
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	6	7		#D7141E	0.824394072819987
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	7	7		#D7141E	0.889778674279123
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	8	7		#B10026	0.936237974911666
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	9	7		#B10026	0.949632388907752
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	10	7		#B10026	1
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	11	7		#B10026	0.97261166371991
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	12	7		#B10026	0.940311300546837
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	13	7	linguistic|spoken	#FC622F	0.681461994206226
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	14	7		#FC622F	0.630006061713793
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	15	7	comprehension|sentence|sentences|syntactic	#FD913D	0.520428054654531
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	16	7		#FC622F	0.63355881628713
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	17	7		#F03623	0.70723522130769
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	18	7	phonological|reading|read	#FC622F	0.671954546940665
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	19	7		#F03623	0.735739777684897
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	20	7	perceptual|recognition	#F03623	0.721592759001213
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	21	7		#F03623	0.78594390384154
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	22	7		#F03623	0.763600566857867
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	23	7	verb	#F03623	0.761207041609602
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	1	8	outcome|reward	#FECB68	0.357782474707541
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	2	8	anticipation	#FECB68	0.388694573495534
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	3	8	outcomes	#FD913D	0.568267281731353
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	4	8	choice|choices	#FC622F	0.635786190634128
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	5	8	decisions|probability	#FC622F	0.642959267783095
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	6	8	reversal	#FC622F	0.680451492545325
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	7	8	classification|incorrect	#F03623	0.726912868023621
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	8	8		#B10026	0.91105940441307
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	9	8	agerelated|fluency|probes	#D7141E	0.877508841523005
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	10	8	engaged	#D7141E	0.817707929177445
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	11	8	explicit|knowledge	#B10026	0.903063760565206
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	12	8		#D7141E	0.862473639368669
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	13	8		#F03623	0.731534092342138
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	14	8		#FC622F	0.652360674943485
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	15	8		#FC622F	0.638582843034233
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	16	8		#FC622F	0.653346039152552
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	17	8	lexical	#FC622F	0.664384475062782
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	18	8		#F03623	0.759800282349675
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	19	8		#F03623	0.780353623929497
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	20	8		#D7141E	0.820221175839357
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	21	8	encoding	#F03623	0.742730830958131
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	22	8	retrieval	#D7141E	0.815814993426847
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	23	8	verbal	#F03623	0.781911893035442
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	1	9	incentive|monetary|money|rewards	#FFF1A9	0.193056674772592
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	2	9	loss	#FECB68	0.393810011770186
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	3	9		#FC622F	0.631277060250008
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	4	9		#F03623	0.719462680363164
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	5	9	decisionmaking	#F03623	0.731848864611087
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	6	9		#D7141E	0.821702213139338
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	7	9		#D7141E	0.838267865379713
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	8	9		#D7141E	0.880874861840317
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	9	9		#B10026	0.930007478200093
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	10	9		#B10026	0.923788464286178
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	11	9		#D7141E	0.827292324453808
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	12	9		#F03623	0.800460683141802
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	13	9	noun	#FC622F	0.631507495919485
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	14	9	meaning	#FC622F	0.64387383624954
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	15	9	english	#F03623	0.715387217342915
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	16	9	pseudoword|pseudowords	#FD913D	0.536482639829827
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	17	9		#F03623	0.767124617412164
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	18	9		#D7141E	0.823915861279303
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	19	9	familiar|judgment	#D7141E	0.860792718841062
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	20	9	pair|pairs	#D7141E	0.827800691570896
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	21	9		#D7141E	0.850609803639671
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	22	9		#D7141E	0.828781776376675
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	23	9	letter|working	#F03623	0.768439136622793
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	1	10	losses|reinforcement|win	#FDAD4A	0.437504544369022
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	2	10	gain	#FECB68	0.304933407946245
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	3	10	expectation	#FDAD4A	0.417054852059767
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	4	10	risk	#F03623	0.752337963619184
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	5	10	fact	#FD913D	0.557568365221895
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	6	10	associative	#FD913D	0.583240065231773
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	7	10	familiarity|judgments|old	#B10026	0.935253109597298
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	8	10	contextual|text	#FC622F	0.676694517902645
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	9	10	recall|retrieved	#D7141E	0.800705256384182
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	10	10	conceptual|semantically	#F03623	0.782616224336366
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	11	10	grammatical|speakers	#FD913D	0.503786596604909
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	12	10	nouns	#FD913D	0.562489897192731
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	13	10	japanese	#F03623	0.787402601965497
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	14	10	languages	#F03623	0.781713756527292
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	15	10	written	#FC622F	0.632027345773084
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	16	10	chinese|phonology	#D7141E	0.855234016922564
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	17	10	orthographic	#F03623	0.745981666167007
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	18	10		#D7141E	0.883861880008045
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	19	10		#D7141E	0.883465946882037
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	20	10	association|decision	#D7141E	0.849565694086726
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	21	10	selection	#D7141E	0.892996784870274
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	22	10	letters	#D7141E	0.828823542703883
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	23	10	demand|load	#D7141E	0.816408070637209
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	1	11	conditioned|conditioning	#FFFFCC	0.0675616537724277
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	2	11		#FECB68	0.392361720844007
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	3	11	drug|placebo	#FD913D	0.533372851081419
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	4	11		#FC622F	0.608339841327827
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	5	11	associations	#FD913D	0.558426678507232
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	6	11		#FC622F	0.690148364012793
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	7	11	episodic|recollection	#FC622F	0.606983928973237
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	8	11		#F03623	0.721272047165789
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	9	11		#F03623	0.786247378249784
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	10	11	concepts	#FD913D	0.513840239410314
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	11	11		#FC622F	0.657174083176968
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	12	11		#FC622F	0.661690020404021
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	13	11	german	#FDAD4A	0.476149307404628
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	14	11	readers	#FC622F	0.648907999538836
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	15	11	character|name|naming	#F03623	0.727392318338001
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	16	11		#F03623	0.782507419650512
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	17	11	novel	#D7141E	0.806397570634571
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	18	11		#D7141E	0.850877506808621
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	19	11	child|children	#D7141E	0.832972718021181
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	20	11	adults	#D7141E	0.870610721113035
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	21	11	ability|feedback|learning	#F03623	0.71152448175479
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	22	11	cues|delay	#FC622F	0.678155649936438
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	23	11	attentional|difficulty|targets	#F03623	0.7058448333815
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	1	12	aversive|shock	#FEE188	0.276315593474054
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	2	12	reactivity	#FECB68	0.308316115474157
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	3	12	males|sex|women	#FDAD4A	0.419758988393661
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	4	12	animal	#FECB68	0.341212449988689
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	5	12	animals	#FEE188	0.2767295951761
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	6	12		#FD913D	0.521292207089112
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	7	12	remember|subsequent	#FDAD4A	0.477872400988633
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	8	12	autobiographical|memories	#FDAD4A	0.469828080677036
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	9	12		#FC622F	0.694302655229158
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	10	12	violation|violations	#FECB68	0.350101585719952
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	11	12	aphasia	#FD913D	0.559233511387655
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	12	12	nonwords	#FDAD4A	0.463988087051753
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	13	12	dyslexia	#FDAD4A	0.47394291081421
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	14	12		#F03623	0.785990066953857
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	15	12	priming	#FC622F	0.623213918737542
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	16	12		#F03623	0.790063553133501
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	17	12	category|repetition	#FC622F	0.676026719504656
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	18	12		#D7141E	0.845493549992167
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	19	12	developmental|development	#D7141E	0.826411222542405
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	20	12		#D7141E	0.88663522029019
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	21	12	space	#F03623	0.737407489134202
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	22	12		#D7141E	0.847583375321646
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	23	12	color	#D7141E	0.816953342967729
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	1	13	threat	#FFF1A9	0.165407081814945
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	2	13	regulation	#FDAD4A	0.453388875325492
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	3	13		#FDAD4A	0.413434511324262
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	4	13	masked	#FEE188	0.267222900064477
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	5	13	scene|scenes	#FFF1A9	0.19932727585155
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	6	13		#FDAD4A	0.428519672067366
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	7	13	confidence|remembered	#FECB68	0.360396101737916
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	8	13		#FD913D	0.594141431865073
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	9	13		#F03623	0.710025991547181
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	10	13	ambiguity|ambiguous	#FDAD4A	0.442211157709859
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	11	13		#FC622F	0.639725654981262
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	12	13		#FC622F	0.644439943499764
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	13	13	writing	#FD913D	0.552077421409385
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	14	13		#F03623	0.73917918178467
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	15	13	categorization|congruency|prime	#F03623	0.776787003135072
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	16	13		#F03623	0.794319041045929
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	17	13	mask	#FC622F	0.677869425629306
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	18	13		#D7141E	0.853136010787244
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	19	13		#D7141E	0.883579541842871
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	20	13		#B10026	0.908906920475151
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	21	13	conflict|congruent|incongruent	#D7141E	0.893829457844478
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	22	13	errors	#B10026	0.932114518037809
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	23	13	maintenance|probe|wm	#D7141E	0.85953544344738
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	1	14	angry|fearful|happy	#FFF1A9	0.173928022589389
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	2	14		#FEE188	0.286920034659341
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	3	14	awareness|conscious|ptsd	#FECB68	0.386276693813589
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	4	14		#FDAD4A	0.413471315973665
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	5	14	houses|photographs	#FFFFCC	0.0905456524265278
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	6	14		#FECB68	0.386227804474027
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	7	14	hits	#FECB68	0.32830094843523
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	8	14	famous	#FECB68	0.358753880821186
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	9	14	names	#FC622F	0.661385824337195
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	10	14	family	#FDAD4A	0.483061639831369
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	11	14	competition|mouth	#FD913D	0.596726988665297
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	12	14	abilities	#FECB68	0.347199562371637
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	13	14	implicit|unfamiliar	#FDAD4A	0.443098103679636
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	14	14		#FC622F	0.681800352250457
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	15	14	tom	#F03623	0.794581058232056
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	16	14		#D7141E	0.803520034754262
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	17	14		#D7141E	0.816523250940998
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	18	14	stop	#D7141E	0.808237162980968
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	19	14	inhibition|inhibitory|nogo	#FC622F	0.687331329176612
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	20	14	monitoring|stroop	#B10026	0.936010047103353
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	21	14	interference	#D7141E	0.817324902331118
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	22	14		#B10026	0.906749107095548
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	23	14	demands|executive	#D7141E	0.810027088299096
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	1	15	anger	#FFFFCC	0.0265051342726028
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	2	15	stress	#FFF1A9	0.150799747091803
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	3	15	feelings	#FEE188	0.231527284388122
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	4	15	salient	#FDAD4A	0.489202179772163
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	5	15	novelty	#FEE188	0.221099082119683
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	6	15	movie	#FECB68	0.345388902432503
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	7	15		#FC622F	0.619659455758403
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	8	15		#F03623	0.772374643485852
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	9	15	longterm	#F03623	0.720415969552599
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	10	15		#B10026	0.915259155392483
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	11	15	reasoning|relational	#D7141E	0.872102693270225
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	12	15		#F03623	0.760589309389014
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	13	15	presentations	#FECB68	0.331355616048775
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	14	15		#FC622F	0.612870280917422
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	15	15	identity	#FDAD4A	0.49835783362789
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	16	15		#F03623	0.77340770705113
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	17	15	strategies|strategy	#F03623	0.767529877322617
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	18	15	card|cards	#F03623	0.71270244222035
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	19	15	gonogo	#FC622F	0.677217116630022
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	20	15		#B10026	0.900853382779289
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	21	15	switching|switch	#D7141E	0.835091331138754
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	22	15		#D7141E	0.898876193254365
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	23	15	2back|rule	#F03623	0.720877247945078
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	1	16	emotionally|mood|personality|sadness	#FFFFCC	0.0638841971323104
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	2	16	disgust|sexual	#FFFFCC	0
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	3	16	olfactory	#FFFFCC	0.0518268215072857
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	4	16	physiological	#FECB68	0.323272059439372
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	5	16	depressed|depressive|habituation	#FFF1A9	0.155967894846761
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	6	16	schizophrenic	#FDAD4A	0.469228529718453
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	7	16	colors|contexts	#FC622F	0.618010049176743
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	8	16	aging|encoded	#FC622F	0.692649584177186
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	9	16	goal	#FC622F	0.694139671611033
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	10	16		#B10026	0.907323674555844
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	11	16	autism|autistic|nonverbal	#F03623	0.754565191094097
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	12	16		#F03623	0.786986378870106
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	13	16	bottomup|repetitions	#FDAD4A	0.499297762215207
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	14	16	adaptation	#FDAD4A	0.484012975022223
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	15	16	irrelevant	#F03623	0.724083471025135
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	16	16	distractor|distractors	#FDAD4A	0.43779193840201
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	17	16		#F03623	0.761932816984338
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	18	16	subtraction	#FC622F	0.649930080245136
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	19	16	1back|nback	#FC622F	0.651335789998745
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	20	16	manipulation|rules	#FC622F	0.64093868844436
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	21	16		#D7141E	0.839808379451661
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	22	16		#F03623	0.777443014340674
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	23	16	digit	#FC622F	0.673920034767056
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	1	17	avoidance	#FEE188	0.231068017423116
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	2	17		#FEE188	0.226239649884476
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	3	17	eating|food	#FFFFCC	0.00408189699945961
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	4	17	taste	#FFFFCC	0.0164694587179386
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	5	17	bipolar	#FFF1A9	0.18514696878768
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	6	17	illness|uncertainty	#FDAD4A	0.404337993313663
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	7	17	females|probabilistic	#FD913D	0.555471338258482
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	8	17	rejection	#FECB68	0.310637711404762
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	9	17	colour|paired	#FECB68	0.354945970196834
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	10	17		#D7141E	0.881915746202044
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	11	17		#D7141E	0.818229080591522
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	12	17		#D7141E	0.818841071846064
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	13	17	taskirrelevant	#FD913D	0.568898547328792
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	14	17		#FC622F	0.629835540198223
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	15	17	suppression	#FD913D	0.543350157272577
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	16	17		#FC622F	0.650601347379687
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	17	17	shifting|shortterm	#FDAD4A	0.479889052233497
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	18	17	digits	#FD913D	0.582252585371874
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	19	17	search	#FC622F	0.689048889658325
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	20	17	counting|taskrelated	#D7141E	0.886767296415499
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	21	17	topdown	#FC622F	0.657967263296685
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	22	17	visuospatial	#FC622F	0.652589545839432
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	23	17	arithmetic|calculation|solving	#FC622F	0.656175826467215
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	1	18	addiction|craving|drugs	#FFF1A9	0.182458048905567
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	2	18	allele|genotype|polymorphism	#FECB68	0.36921896939192
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	3	18	motivation	#FFF1A9	0.18756666207627
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	4	18	heart	#FECB68	0.379522689314055
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	5	18	sleep	#FEE188	0.264531766835694
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	6	18	expectancy	#FD913D	0.586574594436388
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	7	18	phasic|salience	#FC622F	0.628905216759571
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	8	18	adolescence|adolescents	#FD913D	0.585796159233392
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	9	18	intelligence|tracking	#FDAD4A	0.412345467912724
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	10	18		#F03623	0.764430219285355
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	11	18	serial	#FD913D	0.553365352653725
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	12	18		#F03623	0.718168592890558
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	13	18	spatially|taskrelevant	#FC622F	0.614160983070082
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	14	18		#FC622F	0.610010811205001
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	15	18	attended|attend|unattended	#FDAD4A	0.423323569528652
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	16	18	rotation|shapes	#FD913D	0.536260072612061
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	17	18	rehearsal	#F03623	0.750907903223814
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	18	18	learned	#FC622F	0.634172048518674
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	19	18		#FC622F	0.675071247322889
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	20	18	cued|preparatory	#FC622F	0.608042417100299
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	21	18		#F03623	0.711711315882448
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	22	18		#F03623	0.716400353156918
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	23	18	numbers|numerical	#FD913D	0.576615081717301
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	1	19	future	#FD913D	0.545498146122964
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	2	19	negatively	#FD913D	0.511883731460472
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	3	19	distress|epilepsy|selfreported	#FEE188	0.25439252495696
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	4	19	anticipatory|cocaine|probabilities|smoking	#FFF1A9	0.130885174559066
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	5	19	alcohol|amount|impulsivity	#FC622F	0.647173501191992
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	6	19	game|success	#FECB68	0.353197019779704
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	7	19	adhd|childhood|engagement	#FD913D	0.547510326820743
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	8	19		#D7141E	0.809188142369515
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	9	19		#D7141E	0.807342200576077
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	10	19		#F03623	0.789287064980468
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	11	19		#F03623	0.718636621041616
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	12	19	endogenous	#FC622F	0.602431497026781
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	13	19	cueing|invalid|orienting	#FDAD4A	0.433622555811003
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	14	19		#FC622F	0.605327358487575
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	15	19	multisensory	#FDAD4A	0.430720393834723
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	16	19		#FD913D	0.579381766795994
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	17	19	shifts	#FDAD4A	0.482333357948723
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	18	19	covert	#FDAD4A	0.451611775843683
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	19	19		#FD913D	0.554927318888265
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	20	19	preparation	#FDAD4A	0.45642260598244
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	21	19	discrimination|training	#FC622F	0.663680014853378
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	22	19	sequences	#FDAD4A	0.499345106508541
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	23	19		#FD913D	0.591095895855787
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	1	20	personal|self|selfreferential|trait|traits	#FC622F	0.63776583224212
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	2	20	empathic|theory	#D7141E	0.807780667084164
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	3	20	attribution|intentional	#FECB68	0.317999815834248
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	4	20	elderly|oscillations	#FC622F	0.625656701909347
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	5	20	antipsychotic|virtual	#FECB68	0.39537268811092
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	6	20		#F03623	0.754468642557536
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	7	20	experiences	#FC622F	0.626357617867115
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	8	20	categorical|pressure	#FDAD4A	0.481546336503531
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	9	20	play|skills	#F03623	0.791181729264214
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	10	20	automatic|trained	#F03623	0.755699119684761
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	11	20		#FC622F	0.637846760260712
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	12	20	practice	#FD913D	0.511006889415457
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	13	20	visuomotor	#FDAD4A	0.452232824185882
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	14	20		#FD913D	0.536101152023133
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	15	20	tool	#FDAD4A	0.453616576855243
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	16	20	vision	#FFF1A9	0.189831660878097
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	17	20	visually	#FDAD4A	0.443237400414715
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	18	20	saccade|saccades|saccadic	#FEE188	0.202049247134013
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	19	20	locations	#FD913D	0.536205262737355
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	20	20	imagery|planning	#FC622F	0.641299813598979
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	21	20		#FD913D	0.556111188891492
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	22	20	rest	#FD913D	0.530601165208331
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	23	20	sequence	#FD913D	0.510667107365045
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	1	21	scenarios	#FDAD4A	0.424597390363307
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	2	21	intention|intentions	#FD913D	0.539861008832746
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	3	21	causality|perspective	#F03623	0.700525690330674
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	4	21	past	#FC622F	0.687062269650025
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	5	21		#D7141E	0.824556536156267
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	6	21	episode	#FECB68	0.356108174710521
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	7	21	improvement	#FC622F	0.614051318438417
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	8	21	masking|retention	#FDAD4A	0.459760045991466
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	9	21		#F03623	0.728257770968343
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	10	21	dominant	#FDAD4A	0.442827495487031
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	11	21		#FDAD4A	0.456328343639064
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	12	21	sequential	#FDAD4A	0.417183395674586
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	13	21	fingers	#FEE188	0.252545755163283
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	14	21		#FDAD4A	0.403574478818182
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	15	21	gesture|gestures	#FDAD4A	0.480200673834815
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	16	21		#FECB68	0.367722511136252
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	17	21	hands	#FEE188	0.28189583673048
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	18	21		#FDAD4A	0.410159295708272
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	19	21		#FDAD4A	0.437309368495592
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	20	21	eye|position	#FECB68	0.393546630580845
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	21	21	execution	#FECB68	0.37562768956965
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	22	21	finger|sensorimotor	#FECB68	0.322950793909163
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	23	21		#FDAD4A	0.413348504656678
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	1	22	moral|stories|story	#FDAD4A	0.454039429522525
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	2	22	mentalizing|persons	#FD913D	0.580238664252564
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	3	22	default|restingstate	#FDAD4A	0.460358663363931
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	4	22	thinking|thought|thoughts	#D7141E	0.833257459987453
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	5	22	spontaneous	#FD913D	0.533691771500985
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	6	22	concentration|sensations	#FDAD4A	0.419340694948731
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	7	22	hierarchical|preference	#FC622F	0.633384600016557
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	8	22	effort|oral|simulation	#FECB68	0.30586767133812
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	9	22	interhemispheric|plasticity	#FDAD4A	0.454566740099035
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	10	22	imagined|imagine	#FDAD4A	0.47553913703844
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	11	22	tapping	#FECB68	0.304465525908696
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	12	22	foot|muscle|muscles|voluntary	#FFF1A9	0.18411376259445
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	13	22	limb	#FFF1A9	0.106900258715177
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	14	22	eyes|velocity	#FFF1A9	0.192654417303994
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	15	22	biological|gaze|videos	#FFFFCC	0.0942505661119433
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	16	22	body	#FECB68	0.327390242580287
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	17	22	grasping|orientation|reaching	#FEE188	0.217168988780277
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	18	22		#FDAD4A	0.404136825624755
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	19	22	mirror|shape	#FDAD4A	0.446138248660676
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	20	22	actions	#FDAD4A	0.418667208743321
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	21	22	action	#FD913D	0.54334040726947
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	22	22		#FECB68	0.396627286768763
+e4feebfb-e62c-3ea4-b60d-236781c4002b	Britton B	23	22	hand|movements|sensory	#FECB68	0.320526671008262

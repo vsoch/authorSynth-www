@@ -1,0 +1,158 @@
+<!doctype html>
+<html xmlns:xlink="http://www.w3.org/1999/xlink">
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+  <title>AuthorSynth: Interative Network of Brain Activation Publications</title>
+  <meta name="description" content="Interative Network of Brain Activation Publications.">
+  <meta name="author" content="Vanessa Sochat">
+
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+
+  <!-- CSS concatenated and minified via ant build script-->
+  <link rel="stylesheet" href="css/reset.css">
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/style.css">
+  <!-- end CSS-->
+
+  <script src="js/libs/modernizr-2.0.6.min.js"></script>
+
+  <!-- Jquery -->
+  <link rel="stylesheet" href="//code.jquery.com/ui/1.11.1/themes/smoothness/jquery-ui.css">
+  <script src="//code.jquery.com/jquery-1.10.2.js"></script>
+  <script src="//code.jquery.com/ui/1.11.1/jquery-ui.js"></script>
+
+</head>
+
+<body>
+
+<script type="text/javascript">
+
+$(function() {
+    // Read in the authors.json file
+    var json = (function () {
+        var json = null;
+        $.ajax({
+            'async': false,
+            'global': false,
+            'url': "data/authors.json",
+            'dataType': "json",
+            'success': function (data) {
+                json = data;
+            }
+        });
+        return json;
+    })(); 
+
+    $( "#searchField" ).autocomplete({
+      source: json,
+      select: function(event, ui) {
+        console.log(ui); 
+        $("#searchField").val(ui.item.label);
+        }
+    });
+  });
+
+</script>
+
+
+    <div id='cssmenu'>
+      <ul>
+        <li class='active'><a href='network.html'><span>Network</span></a></li>
+       <li><a href='lattice.html'><span>Brain Lattice</span></a></li>
+       <li><a href='authors.html'><span>Authors</span></a></li>
+       <li class='last'><a href='about.html'><span>About</span></a></li>
+       <li class="right"><form id ="searchForm" action="author.php" method="get">
+       <input id="searchField" name="uid">
+       <input type="submit">
+       </form></li>
+      </ul>
+    </div>
+
+
+  <div id="container" class="container">
+    <header>
+
+    </header>
+
+    <h1>Neuroscience Author Collaboration Network</h1>
+    <p>This network shows neuroscience author collaboration based on publications in the <a href="http://www.neurosynth.org" target="_blank">NeuroSynth</a> database for PIs, defined by being last author on a paper and having at least two publications.  Links are defined between PIs with at least 2 publications together.  Coloring of the network is determined by similarity based on comparison of actual activation reports (x y z voxel values).  To adjust the threshold of this coloring, use the box below, and click on the nodes to view details for a specific author.  The widespread coloring across the map indicates that many authors working on similar things are not actually working together.</p>
+
+      <div id="song_selection" class="control">
+        <h3>Color Based on Regional Similarity</h3>
+        <select id="song_select">
+          <option value="PInetwork_3383h_1.json">Height Threshold: 1</option>
+          <option value="PInetwork_3383h_2.json">Height Threshold: 2</option>
+          <option value="PInetwork_3383h_2_5.json">Height Threshold: 2.5</option>
+          <option value="PInetwork_3383h_3.json">Height Threshold: 3</option>
+          <option value="PInetwork_3383h_3_5.json">Height Threshold: 3.5</option>
+          <option value="PInetwork_3383h_4.json">Height Threshold: 4</option>
+          <option value="PInetwork_3383level_10.json">Group Threshold: 10</option>
+          <option value="PInetwork_3383level_15.json">Group Threshold: 15</option>
+          <option value="PInetwork_3383level_20.json">Group Threshold: 20</option>
+          <option value="PInetwork_3383level_25.json">Group Threshold: 25</option>
+          <option value="PInetwork_3383level_30.json">Group Threshold: 30</option>
+          <option value="PInetwork_3383level_50.json">Group Threshold: 50</option>
+          <option value="PInetwork_3383level_60.json">Group Threshold: 60</option>
+          <option value="PInetwork_3383level_70.json">Group Threshold: 70</option>
+          <option value="PInetwork_3383level_80.json">Group Threshold: 80</option>
+          <option value="PInetwork_3383level_100.json">Group Threshold: 100</option>
+        </select>
+      </div>
+    <div id="controls">
+      <div id="layouts" class="control">
+        <h3>Layout</h3>
+        <a id="force" class="active">Force Directed</a>
+        <a id="radial">Publications</a>
+      </div>
+      <div id="filters" class="control">
+        <h3>Filter</h3>
+        <a id="all" class="active">All</a>
+        <a id="popular">Popular</a>
+        <a id="obscure">Obscure</a>
+      </div>
+      <div id="search_section" class="control">
+        <form id="search_form" action=""  method="post">
+          <p class="search_title">Search <input type="text" class="text-input" id="search" value="" /></p>
+        </form>
+      </div>
+    <div id="main" role="main">
+      <div id="vis"></div>
+    </div>
+    <footer>
+    <p></p>
+    </footer>
+  </div> <!--! end of #container -->
+
+
+  <!-- <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script> -->
+  <script>window.jQuery || document.write('<script src="js/libs/jquery-1.7.2.min.js"><\/script>')</script>
+
+
+  <script defer src="js/plugins.js"></script>
+  <script defer src="js/script.js"></script>
+  <script src="js/libs/coffee-script.js"></script>
+  <script src="js/libs/d3.v2.js"></script>
+  <script src="js/Tooltip.js"></script>
+  <script type="text/coffeescript" src="coffee/vis.coffee"></script>
+
+  <script> // TO DO: Need to change UA-XXXXX-X to be site's ID if we want to track
+    window._gaq = [['_setAccount','UAXXXXXXXX1'],['_trackPageview'],['_trackPageLoadTime']];
+    Modernizr.load({
+      load: ('https:' == location.protocol ? '//ssl' : '//www') + '.google-analytics.com/ga.js'
+    });
+  </script>
+
+
+  <!--[if lt IE 7 ]>
+    <script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+    <script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+  <![endif]-->
+  
+</body>
+</html>

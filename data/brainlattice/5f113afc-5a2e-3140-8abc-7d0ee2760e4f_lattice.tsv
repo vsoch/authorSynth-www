@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	1	1	auditory|speech	#FECB68	0.321493250326755
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	2	1		#FECB68	0.317548651726877
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	3	1	da|integration	#FC622F	0.62955583906939
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	4	1		#FC622F	0.677250441405017
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	5	1	physical|psychophysical|tactile	#F03623	0.704611970746213
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	6	1		#FC622F	0.639331976996359
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	7	1	somatosensory|stimulation	#FD913D	0.550392778972952
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	8	1	painful|pain	#FECB68	0.387851078969197
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	9	1		#FDAD4A	0.444051192384243
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	10	1	ratings	#FD913D	0.507365761003238
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	11	1	affective|affect	#FDAD4A	0.479329952240346
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	12	1	emotions	#FD913D	0.539261498800475
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	13	1	expression|expressions|facial	#FC622F	0.644606776812992
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	14	1		#F03623	0.728903480409277
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	15	1		#F03623	0.731780849005946
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	16	1	emotion|motion|neutral	#FC622F	0.672436614481671
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	17	1	rating	#FD913D	0.569321557906041
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	18	1	negative|positive	#FD913D	0.572735087646937
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	19	1		#F03623	0.748701688115644
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	20	1	ear|order	#F03623	0.715888327960079
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	21	1	motor	#FC622F	0.676666917694041
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	22	1	visual	#D7141E	0.852998520319809
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	23	1	age|image|response	#F03623	0.735165136454408
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	1	2	sound|sounds	#FFF1A9	0.184762250281417
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	2	2		#FEE188	0.27601904953985
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	3	2	audiovisual|bimodal|crossmodal	#FECB68	0.395916974902324
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	4	2		#FC622F	0.676967037188495
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	5	2		#F03623	0.717770392629539
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	6	2		#FC622F	0.663969279889598
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	7	2	sensation	#FECB68	0.352580462564145
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	8	2	heat|noxious	#FECB68	0.306484845111467
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	9	2		#FDAD4A	0.457807321192979
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	10	2		#FD913D	0.543636196767098
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	11	2		#FD913D	0.559932505368166
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	12	2	valence	#FD913D	0.533869140265035
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	13	2	person|social	#FD913D	0.511041754930506
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	14	2		#F03623	0.743818344940274
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	15	2	face|faces	#F03623	0.78071390562595
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	16	2		#F03623	0.768705658073748
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	17	2		#F03623	0.734459593661088
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	18	2		#F03623	0.767713125841105
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	19	2		#F03623	0.789811544172953
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	20	2		#D7141E	0.820913323854551
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	21	2	images|spatial	#D7141E	0.838486156904771
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	22	2	control	#F03623	0.756761927349698
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	23	2	time	#F03623	0.750104449805776
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	1	3	acoustic|listening|musical|music|pitch	#FFFFCC	0.0488744431165462
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	2	3	noise|tones	#FFF1A9	0.187395749650099
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	3	3		#FDAD4A	0.420018867234089
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	4	3		#FD913D	0.574030418748599
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	5	3	frequency	#FC622F	0.6248002901845
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	6	3		#FC622F	0.651816964523572
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	7	3		#FDAD4A	0.425009633877125
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	8	3	temperature	#FECB68	0.339366523037888
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	9	3		#FDAD4A	0.446447105245456
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	10	3	pleasant|unpleasant	#FDAD4A	0.433172347906069
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	11	3	anxiety	#FECB68	0.398081539111322
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	12	3		#FC622F	0.62148371442954
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	13	3		#F03623	0.730806386853725
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	14	3		#F03623	0.759483188376453
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	15	3		#D7141E	0.805290466822763
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	16	3	picture	#D7141E	0.820971264754199
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	17	3		#D7141E	0.847791554461493
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	18	3	value	#F03623	0.764906241378572
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	19	3	cue	#D7141E	0.811093503126445
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	20	3	error|target	#D7141E	0.804388852190891
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	21	3	attention	#D7141E	0.8605247004154
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	22	3		#F03623	0.777297798711672
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	23	3	number	#F03623	0.736810599457468
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	1	4	voice	#FFFFCC	0.09342542772888
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	2	4		#FFF1A9	0.185685187714328
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	3	4	hearing	#FECB68	0.350845135827206
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	4	4		#FDAD4A	0.461223591924032
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	5	4	overt	#FD913D	0.538212476108395
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	6	4		#FD913D	0.548029981768604
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	7	4		#FDAD4A	0.472172374148491
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	8	4	nociceptive|nonpainful|painrelated	#FEE188	0.259037320688626
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	9	4	unpleasantness	#FECB68	0.367348822242094
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	10	4	skin|subjective	#FD913D	0.517407744392011
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	11	4	depression	#FDAD4A	0.479596791633489
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	12	4	experience	#FD913D	0.571703663275624
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	13	4	female	#FC622F	0.698567322996208
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	14	4	male	#F03623	0.725645505980681
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	15	4	pictures	#D7141E	0.812622245534461
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	16	4		#B10026	0.904311119739523
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	17	4	perception	#B10026	0.906523664473197
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	18	4		#B10026	0.914247460421437
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	19	4		#D7141E	0.88738376099967
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	20	4		#D7141E	0.868213065974848
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	21	4	correct	#F03623	0.725258292494566
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	22	4	work	#F03623	0.723566495967805
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	23	4	memory	#FC622F	0.660787272237242
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	1	5	prosodic|prosody	#FFFFCC	0.0142455234762273
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	2	5	phonetic	#FFF1A9	0.145651993222285
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	3	5	syllable|syllables	#FEE188	0.271792918281294
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	4	5		#FDAD4A	0.402880673727066
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	5	5	lip|production	#FECB68	0.362496899823724
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	6	5	somatotopic	#FECB68	0.309921305049645
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	7	5		#FD913D	0.559850255827081
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	8	5		#FD913D	0.557860064149847
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	9	5	empathy	#FD913D	0.590414850663497
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	10	5		#FC622F	0.660121136315904
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	11	5	disorder	#FDAD4A	0.490458554896361
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	12	5		#FC622F	0.660571624112472
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	13	5		#FC622F	0.650245367306475
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	14	5		#FC622F	0.670631994999668
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	15	5		#F03623	0.709559776078935
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	16	5		#F03623	0.790092814538472
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	17	5		#D7141E	0.815086974345771
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	18	5	mental	#D7141E	0.833249836449151
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	19	5	go	#D7141E	0.812229490412635
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	20	5	object	#D7141E	0.88035249682508
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	21	5		#F03623	0.770516860300386
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	22	5		#FC622F	0.643125839835451
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	23	5	word|words	#FDAD4A	0.487980931965848
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	1	6		#FECB68	0.374454965907719
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	2	6		#FECB68	0.393065572380158
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	3	6		#FDAD4A	0.462626872066078
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	4	6	vocal	#FEE188	0.23225311490224
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	5	6	articulatory	#FFF1A9	0.191949250019373
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	6	6		#FD913D	0.500207506780739
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	7	6	oddball	#FD913D	0.508381433991435
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	8	6	perceived	#F03623	0.72618418454499
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	9	6	errorrelated	#FDAD4A	0.436255578960197
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	10	6	approach	#FD913D	0.521101860239626
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	11	6	schizophrenia	#FC622F	0.601922503074576
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	12	6	acquisition	#FDAD4A	0.499124965843741
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	13	6		#FD913D	0.528237536507384
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	14	6		#FECB68	0.346260609782
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	15	6		#FECB68	0.384847393010661
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	16	6		#FDAD4A	0.450450864502012
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	17	6		#FC622F	0.66289145743409
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	18	6		#F03623	0.761963472972417
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	19	6		#F03623	0.794699415737889
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	20	6	objects	#B10026	0.941838964708155
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	21	6		#F03623	0.747960862863521
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	22	6		#FD913D	0.575497935872386
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	23	6	language|semantic	#FDAD4A	0.446168265931262
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	1	7	dopamine|dopaminergic	#FECB68	0.349891561327313
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	2	7		#FECB68	0.375854673772335
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	3	7		#FD913D	0.514780598600321
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	4	7		#FD913D	0.563015322306259
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	5	7		#FD913D	0.599604726895045
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	6	7		#FC622F	0.656140593093143
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	7	7		#FC622F	0.686455607904593
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	8	7		#FC622F	0.666249031676939
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	9	7		#FC622F	0.660659946570154
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	10	7		#FC622F	0.678478122179378
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	11	7		#FC622F	0.645492620878895
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	12	7		#FC622F	0.607695085775697
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	13	7	linguistic|spoken	#FECB68	0.329562410599042
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	14	7		#FEE188	0.272582087180604
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	15	7	comprehension|sentence|sentences|syntactic	#FFF1A9	0.172411794135667
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	16	7		#FECB68	0.335857751842455
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	17	7		#FD913D	0.548487505565322
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	18	7	phonological|reading|read	#FD913D	0.538732475272142
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	19	7		#F03623	0.733515395480068
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	20	7	perceptual|recognition	#D7141E	0.80240022492298
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	21	7		#F03623	0.742352096196267
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	22	7		#FD913D	0.591146548838312
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	23	7	verb	#FD913D	0.553254790768804
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	1	8	outcome|reward	#FECB68	0.346047038725505
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	2	8	anticipation	#FECB68	0.339883732103259
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	3	8	outcomes	#FECB68	0.299649797609915
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	4	8	choice|choices	#FDAD4A	0.409249480870097
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	5	8	decisions|probability	#FD913D	0.522070489668482
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	6	8	reversal	#FD913D	0.554184766369221
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	7	8	classification|incorrect	#FD913D	0.520689113816048
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	8	8		#FC622F	0.615181822370866
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	9	8	agerelated|fluency|probes	#FDAD4A	0.431559252016283
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	10	8	engaged	#FC622F	0.64124534757996
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	11	8	explicit|knowledge	#FDAD4A	0.484487878683981
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	12	8		#FDAD4A	0.49727383270956
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	13	8		#FECB68	0.347884586931924
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	14	8		#FEE188	0.285161061199185
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	15	8		#FEE188	0.292610472934356
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	16	8		#FECB68	0.336653801256229
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	17	8	lexical	#FECB68	0.395828966479507
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	18	8		#FC622F	0.601458524524029
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	19	8		#FC622F	0.683950480848652
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	20	8		#F03623	0.744365372613229
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	21	8	encoding	#F03623	0.722444706656847
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	22	8	retrieval	#FD913D	0.552255213676393
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	23	8	verbal	#FC622F	0.628644812401642
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	1	9	incentive|monetary|money|rewards	#FFF1A9	0.168875447067925
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	2	9	loss	#FECB68	0.31585459566929
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	3	9		#FDAD4A	0.470373327131552
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	4	9		#FD913D	0.541636664159954
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	5	9	decisionmaking	#FDAD4A	0.490085265875708
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	6	9		#FC622F	0.626532238368623
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	7	9		#FC622F	0.607681018184151
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	8	9		#FD913D	0.58453562614718
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	9	9		#FD913D	0.543520565044118
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	10	9		#FD913D	0.547107916029625
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	11	9		#FDAD4A	0.483254178991315
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	12	9		#FDAD4A	0.436626030059305
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	13	9	noun	#FFF1A9	0.15463408870709
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	14	9	meaning	#FECB68	0.303071163511366
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	15	9	english	#FECB68	0.347063825674907
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	16	9	pseudoword|pseudowords	#FECB68	0.32913557424555
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	17	9		#FD913D	0.503965878476229
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	18	9		#FC622F	0.619442314249361
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	19	9	familiar|judgment	#FC622F	0.651884118968398
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	20	9	pair|pairs	#FC622F	0.630389881791646
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	21	9		#F03623	0.755916998070492
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	22	9		#F03623	0.76394501891232
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	23	9	letter|working	#F03623	0.74879684482132
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	1	10	losses|reinforcement|win	#FEE188	0.223565003393342
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	2	10	gain	#FECB68	0.314625926547073
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	3	10	expectation	#FDAD4A	0.440908439345511
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	4	10	risk	#FD913D	0.514815029420062
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	5	10	fact	#FD913D	0.556910619667666
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	6	10	associative	#FD913D	0.532690746775786
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	7	10	familiarity|judgments|old	#FDAD4A	0.47484537689734
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	8	10	contextual|text	#FDAD4A	0.408158425484659
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	9	10	recall|retrieved	#FECB68	0.381174665926419
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	10	10	conceptual|semantically	#FECB68	0.319412710073093
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	11	10	grammatical|speakers	#FEE188	0.297680620258124
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	12	10	nouns	#FFF1A9	0.169188700093172
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	13	10	japanese	#FECB68	0.322784384350248
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	14	10	languages	#FECB68	0.358543240632692
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	15	10	written	#FDAD4A	0.426311727262338
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	16	10	chinese|phonology	#FDAD4A	0.485245963302562
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	17	10	orthographic	#FD913D	0.552627467291593
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	18	10		#FC622F	0.668526958818796
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	19	10		#FC622F	0.687138946465397
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	20	10	association|decision	#FC622F	0.646030574273935
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	21	10	selection	#FC622F	0.641385689619458
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	22	10	letters	#F03623	0.763148373840107
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	23	10	demand|load	#F03623	0.737390089939789
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	1	11	conditioned|conditioning	#FEE188	0.216360813300815
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	2	11		#FDAD4A	0.462238497931821
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	3	11	drug|placebo	#FD913D	0.515335074939398
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	4	11		#FC622F	0.687849773247079
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	5	11	associations	#FD913D	0.582854147223347
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	6	11		#FD913D	0.576308523924667
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	7	11	episodic|recollection	#FEE188	0.272315631300791
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	8	11		#FD913D	0.522048643573279
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	9	11		#FD913D	0.517838798245009
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	10	11	concepts	#FFF1A9	0.159404237473394
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	11	11		#FDAD4A	0.407673843665469
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	12	11		#FECB68	0.388313247032273
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	13	11	german	#FEE188	0.256838467624769
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	14	11	readers	#FECB68	0.388440960399906
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	15	11	character|name|naming	#FD913D	0.551172492569557
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	16	11		#FC622F	0.65116906832118
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	17	11	novel	#F03623	0.711912067153492
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	18	11		#F03623	0.71623800267521
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	19	11	child|children	#FD913D	0.592799004038822
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	20	11	adults	#F03623	0.744462538468707
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	21	11	ability|feedback|learning	#F03623	0.729899306287713
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	22	11	cues|delay	#D7141E	0.858316175030699
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	23	11	attentional|difficulty|targets	#D7141E	0.883175812953641
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	1	12	aversive|shock	#FEE188	0.29091624975289
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	2	12	reactivity	#FECB68	0.333985740834607
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	3	12	males|sex|women	#FD913D	0.529632385386205
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	4	12	animal	#FDAD4A	0.469367791237432
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	5	12	animals	#FDAD4A	0.410164700969403
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	6	12		#FD913D	0.577107801655467
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	7	12	remember|subsequent	#FDAD4A	0.411664083583711
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	8	12	autobiographical|memories	#FFFFCC	0.0747697721002396
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	9	12		#FDAD4A	0.485859294376412
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	10	12	violation|violations	#FEE188	0.217158467876693
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	11	12	aphasia	#FDAD4A	0.435106865310099
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	12	12	nonwords	#FECB68	0.299890992999667
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	13	12	dyslexia	#FECB68	0.38347004907949
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	14	12		#FC622F	0.644810974873742
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	15	12	priming	#FC622F	0.622715014544045
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	16	12		#F03623	0.773584156531236
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	17	12	category|repetition	#F03623	0.749801589991277
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	18	12		#F03623	0.75609704731062
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	19	12	developmental|development	#FC622F	0.617460023417474
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	20	12		#F03623	0.755008265200885
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	21	12	space	#D7141E	0.803833037723786
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	22	12		#D7141E	0.807215951834524
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	23	12	color	#D7141E	0.889620962368547
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	1	13	threat	#FECB68	0.350913780427927
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	2	13	regulation	#FECB68	0.330451573182925
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	3	13		#FD913D	0.585297897037697
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	4	13	masked	#FD913D	0.546075198526181
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	5	13	scene|scenes	#FDAD4A	0.496790114122157
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	6	13		#FD913D	0.582566715481236
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	7	13	confidence|remembered	#FECB68	0.369367786410724
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	8	13		#FD913D	0.554423781396374
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	9	13		#FD913D	0.538971888333706
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	10	13	ambiguity|ambiguous	#FEE188	0.237912434718021
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	11	13		#FD913D	0.532187399760581
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	12	13		#FC622F	0.653713235967205
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	13	13	writing	#FD913D	0.530731434507637
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	14	13		#F03623	0.772682876062184
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	15	13	categorization|congruency|prime	#FC622F	0.64800213921946
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	16	13		#D7141E	0.821399354584499
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	17	13	mask	#F03623	0.790240873488032
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	18	13		#F03623	0.781707859122084
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	19	13		#F03623	0.709772588404662
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	20	13		#FC622F	0.695185537309619
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	21	13	conflict|congruent|incongruent	#FD913D	0.577174662307039
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	22	13	errors	#FC622F	0.691211330397987
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	23	13	maintenance|probe|wm	#FC622F	0.677249350585593
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	1	14	angry|fearful|happy	#FDAD4A	0.460828511833892
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	2	14		#FDAD4A	0.483562369272079
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	3	14	awareness|conscious|ptsd	#FECB68	0.336486647407195
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	4	14		#FC622F	0.643014326069149
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	5	14	houses|photographs	#FDAD4A	0.426856298954419
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	6	14		#FC622F	0.674322567270554
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	7	14	hits	#FDAD4A	0.467196579641494
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	8	14	famous	#FECB68	0.393943879845175
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	9	14	names	#FEE188	0.203252806799425
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	10	14	family	#FDAD4A	0.469038257041697
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	11	14	competition|mouth	#FC622F	0.669545605061391
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	12	14	abilities	#FD913D	0.565409273946244
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	13	14	implicit|unfamiliar	#FC622F	0.681787481961184
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	14	14		#D7141E	0.840692118569256
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	15	14	tom	#F03623	0.713978448111506
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	16	14		#D7141E	0.89101843282989
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	17	14		#D7141E	0.855697019280449
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	18	14	stop	#FC622F	0.633101580491524
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	19	14	inhibition|inhibitory|nogo	#FD913D	0.522191397135228
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	20	14	monitoring|stroop	#FDAD4A	0.486336120919151
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	21	14	interference	#FC622F	0.601619054217215
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	22	14		#FC622F	0.698430365723043
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	23	14	demands|executive	#FC622F	0.675876084461962
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	1	15	anger	#FECB68	0.329432033490547
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	2	15	stress	#FECB68	0.39845111401824
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	3	15	feelings	#FDAD4A	0.412377655811104
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	4	15	salient	#FD913D	0.51417594753595
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	5	15	novelty	#FDAD4A	0.401081495564629
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	6	15	movie	#FD913D	0.574937612750423
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	7	15		#FC622F	0.686174964073698
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	8	15		#FC622F	0.675770421692944
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	9	15	longterm	#FDAD4A	0.433098597405816
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	10	15		#F03623	0.705245240515028
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	11	15	reasoning|relational	#FDAD4A	0.483919832484273
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	12	15		#D7141E	0.824715312324746
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	13	15	presentations	#FD913D	0.540769552154162
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	14	15		#D7141E	0.883866052194428
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	15	15	identity	#D7141E	0.814077491253918
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	16	15		#D7141E	0.882744579682566
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	17	15	strategies|strategy	#F03623	0.75547509588745
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	18	15	card|cards	#FD913D	0.509660960583339
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	19	15	gonogo	#FD913D	0.552523510504564
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	20	15		#FC622F	0.651033472299355
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	21	15	switching|switch	#FC622F	0.6385614544334
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	22	15		#F03623	0.700623238759683
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	23	15	2back|rule	#FC622F	0.661574758502737
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	1	16	emotionally|mood|personality|sadness	#FECB68	0.37834426012779
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	2	16	disgust|sexual	#FDAD4A	0.408668470305442
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	3	16	olfactory	#FECB68	0.329835438298501
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	4	16	physiological	#FECB68	0.338967938054604
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	5	16	depressed|depressive|habituation	#FECB68	0.332759684981765
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	6	16	schizophrenic	#FEE188	0.295433182608813
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	7	16	colors|contexts	#FDAD4A	0.480890798481046
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	8	16	aging|encoded	#FECB68	0.359532350177498
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	9	16	goal	#FDAD4A	0.484676884576299
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	10	16		#F03623	0.725344849227935
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	11	16	autism|autistic|nonverbal	#FD913D	0.591462309676728
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	12	16		#D7141E	0.868786732827004
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	13	16	bottomup|repetitions	#F03623	0.770705171536735
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	14	16	adaptation	#F03623	0.792903784904598
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	15	16	irrelevant	#D7141E	0.807048985181733
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	16	16	distractor|distractors	#FD913D	0.563041508027657
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	17	16		#D7141E	0.824176382675306
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	18	16	subtraction	#FC622F	0.645190945362494
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	19	16	1back|nback	#FD913D	0.575554150500818
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	20	16	manipulation|rules	#F03623	0.724840729625886
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	21	16		#D7141E	0.802120556507788
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	22	16		#F03623	0.789667004066883
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	23	16	digit	#FC622F	0.695480060031303
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	1	17	avoidance	#FEE188	0.244194623164034
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	2	17		#FDAD4A	0.465642581771967
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	3	17	eating|food	#FEE188	0.237641678984651
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	4	17	taste	#FEE188	0.237636198428041
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	5	17	bipolar	#FEE188	0.257255707446126
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	6	17	illness|uncertainty	#FECB68	0.30438467351077
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	7	17	females|probabilistic	#FDAD4A	0.411754651311474
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	8	17	rejection	#FEE188	0.26112402852252
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	9	17	colour|paired	#F03623	0.715190298358394
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	10	17		#D7141E	0.805516646261746
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	11	17		#D7141E	0.832176379659464
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	12	17		#D7141E	0.874590436289515
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	13	17	taskirrelevant	#F03623	0.794274614562318
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	14	17		#B10026	0.963411940686425
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	15	17	suppression	#F03623	0.717783722000236
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	16	17		#B10026	0.948754218852644
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	17	17	shifting|shortterm	#FC622F	0.692679196429331
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	18	17	digits	#FC622F	0.607840448338033
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	19	17	search	#FC622F	0.673230204973145
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	20	17	counting|taskrelated	#FC622F	0.627141345186802
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	21	17	topdown	#D7141E	0.833501294779043
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	22	17	visuospatial	#D7141E	0.841375694036993
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	23	17	arithmetic|calculation|solving	#FC622F	0.68023138986901
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	1	18	addiction|craving|drugs	#FECB68	0.312441239899233
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	2	18	allele|genotype|polymorphism	#FECB68	0.304626108620613
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	3	18	motivation	#FEE188	0.201060257891616
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	4	18	heart	#FDAD4A	0.403147637924273
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	5	18	sleep	#FECB68	0.302650461074134
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	6	18	expectancy	#FDAD4A	0.406546361005691
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	7	18	phasic|salience	#FDAD4A	0.427884126819015
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	8	18	adolescence|adolescents	#FECB68	0.338365125584095
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	9	18	intelligence|tracking	#FC622F	0.637515351941036
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	10	18		#D7141E	0.871312201214331
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	11	18	serial	#FC622F	0.61950879027494
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	12	18		#D7141E	0.881542919980474
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	13	18	spatially|taskrelevant	#FC622F	0.658695873438448
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	14	18		#B10026	0.972720670208357
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	15	18	attended|attend|unattended	#F03623	0.768083835501088
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	16	18	rotation|shapes	#B10026	0.917442662614028
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	17	18	rehearsal	#FC622F	0.601041147608011
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	18	18	learned	#FD913D	0.503902093675892
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	19	18		#F03623	0.779232314002373
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	20	18	cued|preparatory	#F03623	0.73592664232174
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	21	18		#D7141E	0.861890536844808
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	22	18		#D7141E	0.870847588116094
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	23	18	numbers|numerical	#F03623	0.78822212052611
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	1	19	future	#FECB68	0.346305557583908
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	2	19	negatively	#FEE188	0.299120566288603
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	3	19	distress|epilepsy|selfreported	#FEE188	0.257360048087794
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	4	19	anticipatory|cocaine|probabilities|smoking	#FEE188	0.224501126878672
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	5	19	alcohol|amount|impulsivity	#FDAD4A	0.42722522015551
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	6	19	game|success	#FECB68	0.308848582458705
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	7	19	adhd|childhood|engagement	#FDAD4A	0.490923737301367
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	8	19		#F03623	0.709837508095029
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	9	19		#D7141E	0.811124012132132
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	10	19		#D7141E	0.828796213215171
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	11	19		#D7141E	0.837639881704601
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	12	19	endogenous	#FC622F	0.612802220200742
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	13	19	cueing|invalid|orienting	#F03623	0.716138067012021
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	14	19		#B10026	0.979353350578164
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	15	19	multisensory	#D7141E	0.865664931539995
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	16	19		#B10026	0.970402941659484
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	17	19	shifts	#D7141E	0.862698676263296
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	18	19	covert	#F03623	0.706680163021716
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	19	19		#D7141E	0.810544715682362
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	20	19	preparation	#FC622F	0.647861610710407
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	21	19	discrimination|training	#D7141E	0.874019789248047
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	22	19	sequences	#FC622F	0.688395213376198
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	23	19		#D7141E	0.828759998296855
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	1	20	personal|self|selfreferential|trait|traits	#FFF1A9	0.193135943730924
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	2	20	empathic|theory	#FDAD4A	0.430810002780314
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	3	20	attribution|intentional	#FFF1A9	0.158542929310067
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	4	20	elderly|oscillations	#FFF1A9	0.144217734131048
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	5	20	antipsychotic|virtual	#FEE188	0.286891109776436
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	6	20		#FC622F	0.647130775716604
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	7	20	experiences	#FECB68	0.356003462926823
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	8	20	categorical|pressure	#FDAD4A	0.46814625879069
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	9	20	play|skills	#FECB68	0.375737622531765
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	10	20	automatic|trained	#FD913D	0.588519420141043
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	11	20		#FC622F	0.66764117133546
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	12	20	practice	#FD913D	0.59186634884682
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	13	20	visuomotor	#FC622F	0.675177620283425
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	14	20		#B10026	0.976465991563413
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	15	20	tool	#F03623	0.720128727212228
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	16	20	vision	#F03623	0.724139847815921
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	17	20	visually	#F03623	0.786113191444535
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	18	20	saccade|saccades|saccadic	#F03623	0.708168558800576
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	19	20	locations	#F03623	0.800365723178281
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	20	20	imagery|planning	#FC622F	0.679761500497264
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	21	20		#D7141E	0.849375982631739
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	22	20	rest	#FC622F	0.683981598402262
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	23	20	sequence	#F03623	0.743983639883265
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	1	21	scenarios	#FFFFCC	0.0671769307281652
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	2	21	intention|intentions	#FDAD4A	0.400886178722234
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	3	21	causality|perspective	#FFF1A9	0.179936901674027
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	4	21	past	#FFFFCC	0.00164568281936862
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	5	21		#FD913D	0.574268974028776
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	6	21	episode	#FECB68	0.300321542367733
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	7	21	improvement	#FDAD4A	0.411781635440238
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	8	21	masking|retention	#FD913D	0.56168023858912
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	9	21		#FC622F	0.629985587241909
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	10	21	dominant	#FD913D	0.506862034827127
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	11	21		#FD913D	0.508978147024749
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	12	21	sequential	#FDAD4A	0.476005824324341
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	13	21	fingers	#FECB68	0.326873836721995
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	14	21		#B10026	0.907331986160126
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	15	21	gesture|gestures	#FC622F	0.649216948593124
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	16	21		#B10026	0.951563295729516
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	17	21	hands	#D7141E	0.843291913107044
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	18	21		#B10026	0.951202803517308
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	19	21		#B10026	0.951425786073792
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	20	21	eye|position	#B10026	0.913114381982685
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	21	21	execution	#F03623	0.713006173628618
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	22	21	finger|sensorimotor	#FD913D	0.56497960644689
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	23	21		#F03623	0.726180270636092
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	1	22	moral|stories|story	#FFFFCC	0
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	2	22	mentalizing|persons	#FEE188	0.253587563769136
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	3	22	default|restingstate	#FFFFCC	0.0176329142476147
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	4	22	thinking|thought|thoughts	#FDAD4A	0.453506406155093
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	5	22	spontaneous	#FEE188	0.291811282965269
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	6	22	concentration|sensations	#FECB68	0.373243511053641
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	7	22	hierarchical|preference	#FDAD4A	0.481218977527139
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	8	22	effort|oral|simulation	#FDAD4A	0.401726961293974
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	9	22	interhemispheric|plasticity	#FECB68	0.339076453711379
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	10	22	imagined|imagine	#FECB68	0.33309555335793
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	11	22	tapping	#FECB68	0.370159497605818
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	12	22	foot|muscle|muscles|voluntary	#FEE188	0.236992122624623
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	13	22	limb	#FEE188	0.277100858652545
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	14	22	eyes|velocity	#FC622F	0.666362263522148
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	15	22	biological|gaze|videos	#F03623	0.706184913788394
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	16	22	body	#D7141E	0.867239786553827
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	17	22	grasping|orientation|reaching	#F03623	0.771020980964581
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	18	22		#B10026	0.964278253056786
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	19	22	mirror|shape	#B10026	1
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	20	22	actions	#D7141E	0.875887048139248
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	21	22	action	#D7141E	0.892169261405385
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	22	22		#F03623	0.766514412439199
+5f113afc-5a2e-3140-8abc-7d0ee2760e4f	Matsumura M	23	22	hand|movements|sensory	#FC622F	0.672753294324088

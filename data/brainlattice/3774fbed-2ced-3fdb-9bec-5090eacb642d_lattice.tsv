@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	1	1	auditory|speech	#FDAD4A	0.485281842873468
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	2	1		#FDAD4A	0.451906965569186
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	3	1	da|integration	#FC622F	0.644687029130304
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	4	1		#FD913D	0.577850285456772
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	5	1	physical|psychophysical|tactile	#FECB68	0.337898349645047
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	6	1		#FECB68	0.344603271833415
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	7	1	somatosensory|stimulation	#FEE188	0.262181599802844
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	8	1	painful|pain	#FFF1A9	0.137665986121042
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	9	1		#FFF1A9	0.196620624912726
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	10	1	ratings	#FECB68	0.345826298786316
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	11	1	affective|affect	#FECB68	0.388025499065576
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	12	1	emotions	#FDAD4A	0.415131102621107
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	13	1	expression|expressions|facial	#FECB68	0.359188351219528
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	14	1		#FD913D	0.55098550397153
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	15	1		#FD913D	0.553778393635112
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	16	1	emotion|motion|neutral	#FDAD4A	0.49282082096463
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	17	1	rating	#FDAD4A	0.44899338466208
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	18	1	negative|positive	#FD913D	0.513553749342119
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	19	1		#FC622F	0.632596375735355
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	20	1	ear|order	#FC622F	0.658301484056111
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	21	1	motor	#FDAD4A	0.471837279120558
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	22	1	visual	#FC622F	0.64894505508558
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	23	1	age|image|response	#FC622F	0.656788382079272
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	1	2	sound|sounds	#FEE188	0.29719789358665
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	2	2		#FDAD4A	0.414988624461292
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	3	2	audiovisual|bimodal|crossmodal	#FECB68	0.369371245251796
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	4	2		#FC622F	0.602968126925701
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	5	2		#FD913D	0.523107631229317
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	6	2		#FDAD4A	0.400379665080866
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	7	2	sensation	#FFFFCC	0.0899465874913608
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	8	2	heat|noxious	#FFFFCC	0.0655426167077725
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	9	2		#FEE188	0.201767651051515
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	10	2		#FECB68	0.34439095263133
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	11	2		#FDAD4A	0.400646935683904
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	12	2	valence	#FDAD4A	0.401059428349423
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	13	2	person|social	#F03623	0.721258944438568
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	14	2		#FD913D	0.568782494937512
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	15	2	face|faces	#FD913D	0.58077295279209
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	16	2		#FC622F	0.602805159889054
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	17	2		#FC622F	0.602357432787507
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	18	2		#FC622F	0.646197881093619
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	19	2		#FC622F	0.666464964591395
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	20	2		#FC622F	0.651251597334796
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	21	2	images|spatial	#FC622F	0.644595945041646
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	22	2	control	#FC622F	0.646820653353927
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	23	2	time	#FC622F	0.660473710269778
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	1	3	acoustic|listening|musical|music|pitch	#FEE188	0.211088647933266
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	2	3	noise|tones	#FECB68	0.307743073688775
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	3	3		#FD913D	0.533987715422548
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	4	3		#FC622F	0.617846551285583
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	5	3	frequency	#FC622F	0.627186540396155
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	6	3		#FD913D	0.542376120483192
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	7	3		#FEE188	0.218187163337064
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	8	3	temperature	#FFFFCC	0.0985373639706339
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	9	3		#FEE188	0.216026820837108
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	10	3	pleasant|unpleasant	#FFF1A9	0.172597198761943
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	11	3	anxiety	#FEE188	0.236325078624471
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	12	3		#FD913D	0.534968353190418
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	13	3		#FC622F	0.644902621765469
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	14	3		#FC622F	0.609108648573038
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	15	3		#FC622F	0.643380750456094
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	16	3	picture	#FC622F	0.681140048965853
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	17	3		#F03623	0.700485015599774
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	18	3	value	#FC622F	0.653861496854913
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	19	3	cue	#FC622F	0.641107424131815
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	20	3	error|target	#FC622F	0.658564793529025
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	21	3	attention	#FC622F	0.648866231133786
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	22	3		#F03623	0.724042330942301
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	23	3	number	#F03623	0.714260495753041
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	1	4	voice	#FECB68	0.350422924712889
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	2	4		#FDAD4A	0.412918647911049
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	3	4	hearing	#FDAD4A	0.461652259064544
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	4	4		#FD913D	0.547185893560427
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	5	4	overt	#FD913D	0.539401531351535
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	6	4		#FD913D	0.518007182771483
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	7	4		#FECB68	0.304901905564059
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	8	4	nociceptive|nonpainful|painrelated	#FFF1A9	0.135493518115854
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	9	4	unpleasantness	#FFF1A9	0.147282813430712
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	10	4	skin|subjective	#FECB68	0.305318258412315
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	11	4	depression	#FDAD4A	0.486794050327876
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	12	4	experience	#FD913D	0.56469366398341
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	13	4	female	#FD913D	0.59436562611198
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	14	4	male	#FC622F	0.660065239498962
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	15	4	pictures	#FC622F	0.630191615713938
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	16	4		#F03623	0.77679964685613
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	17	4	perception	#FC622F	0.700140642559619
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	18	4		#D7141E	0.816863920828107
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	19	4		#F03623	0.786797042953099
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	20	4		#F03623	0.76379536728599
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	21	4	correct	#F03623	0.742081095731117
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	22	4	work	#F03623	0.712055154537965
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	23	4	memory	#F03623	0.75365432157905
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	1	5	prosodic|prosody	#FDAD4A	0.401406031461529
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	2	5	phonetic	#FECB68	0.368176153332032
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	3	5	syllable|syllables	#FDAD4A	0.477754480206605
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	4	5		#FDAD4A	0.492097983981746
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	5	5	lip|production	#FECB68	0.300451988017751
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	6	5	somatotopic	#FEE188	0.228995913926391
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	7	5		#FDAD4A	0.433290888715939
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	8	5		#FDAD4A	0.418627143079339
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	9	5	empathy	#FDAD4A	0.481041348895796
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	10	5		#FC622F	0.617568614105421
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	11	5	disorder	#FDAD4A	0.485433598536741
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	12	5		#F03623	0.722749518780102
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	13	5		#D7141E	0.837475521475291
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	14	5		#D7141E	0.890255504238927
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	15	5		#B10026	0.911093897045524
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	16	5		#B10026	0.930542743050473
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	17	5		#B10026	0.973017877694378
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	18	5	mental	#D7141E	0.896542319268656
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	19	5	go	#F03623	0.791488380220234
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	20	5	object	#F03623	0.753095348144628
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	21	5		#D7141E	0.844648758125607
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	22	5		#D7141E	0.87942822977463
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	23	5	word|words	#D7141E	0.845343121258283
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	1	6		#FD913D	0.506857832688392
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	2	6		#FD913D	0.550682790573466
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	3	6		#FD913D	0.570118466843899
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	4	6	vocal	#FEE188	0.271822127748905
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	5	6	articulatory	#FEE188	0.253965534251631
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	6	6		#FD913D	0.520053083479729
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	7	6	oddball	#FDAD4A	0.422186854724163
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	8	6	perceived	#FD913D	0.50457592594919
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	9	6	errorrelated	#FDAD4A	0.400034151414936
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	10	6	approach	#FD913D	0.541278086119602
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	11	6	schizophrenia	#FC622F	0.642895680385157
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	12	6	acquisition	#FC622F	0.65820964252521
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	13	6		#B10026	0.9242012422286
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	14	6		#B10026	0.960649660065557
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	15	6		#B10026	0.983825662386285
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	16	6		#B10026	1
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	17	6		#B10026	0.968628762693224
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	18	6		#B10026	0.932977359736359
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	19	6		#B10026	0.915278696258276
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	20	6	objects	#D7141E	0.8291921459421
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	21	6		#B10026	0.900805068197721
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	22	6		#B10026	0.921588847433074
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	23	6	language|semantic	#B10026	0.916633302012932
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	1	7	dopamine|dopaminergic	#FFF1A9	0.169766652685282
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	2	7		#FEE188	0.271580408546151
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	3	7		#FD913D	0.53265271011657
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	4	7		#FC622F	0.619097379081207
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	5	7		#FC622F	0.672633959920807
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	6	7		#F03623	0.772382077733015
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	7	7		#F03623	0.759580020228564
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	8	7		#F03623	0.770420012057534
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	9	7		#F03623	0.744948593379997
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	10	7		#B10026	0.909620965254011
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	11	7		#B10026	0.915397806569873
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	12	7		#B10026	0.950572759143733
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	13	7	linguistic|spoken	#F03623	0.794966112143708
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	14	7		#B10026	0.941849167940299
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	15	7	comprehension|sentence|sentences|syntactic	#B10026	0.919930536535317
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	16	7		#B10026	0.979502861501496
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	17	7		#B10026	0.951478803875171
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	18	7	phonological|reading|read	#D7141E	0.862249794823755
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	19	7		#B10026	0.915034429828604
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	20	7	perceptual|recognition	#D7141E	0.833484464176702
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	21	7		#B10026	0.915724711767017
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	22	7		#B10026	0.919770169440109
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	23	7	verb	#D7141E	0.877533596697463
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	1	8	outcome|reward	#FEE188	0.218294644371732
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	2	8	anticipation	#FFF1A9	0.188566896052172
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	3	8	outcomes	#FEE188	0.295917973615708
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	4	8	choice|choices	#FDAD4A	0.499101032881502
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	5	8	decisions|probability	#FC622F	0.655997942871428
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	6	8	reversal	#FC622F	0.692218043172676
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	7	8	classification|incorrect	#FC622F	0.692737825157826
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	8	8		#D7141E	0.853407524195662
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	9	8	agerelated|fluency|probes	#F03623	0.79078717957459
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	10	8	engaged	#B10026	0.934637666340184
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	11	8	explicit|knowledge	#B10026	0.914267530889352
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	12	8		#B10026	0.978451559816242
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	13	8		#B10026	0.958801272737984
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	14	8		#B10026	0.951771213408596
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	15	8		#B10026	0.946812952837924
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	16	8		#B10026	0.948449988223882
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	17	8	lexical	#D7141E	0.879308003424708
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	18	8		#B10026	0.918832001070598
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	19	8		#B10026	0.924523183518863
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	20	8		#B10026	0.925978677542139
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	21	8	encoding	#D7141E	0.803091883295943
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	22	8	retrieval	#D7141E	0.842665592813027
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	23	8	verbal	#D7141E	0.823746699215935
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	1	9	incentive|monetary|money|rewards	#FFFFCC	0.0655950805103836
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	2	9	loss	#FFF1A9	0.176984179791351
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	3	9		#FDAD4A	0.416902122107127
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	4	9		#FD913D	0.536130104971006
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	5	9	decisionmaking	#FDAD4A	0.438037474400045
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	6	9		#D7141E	0.832110963813141
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	7	9		#D7141E	0.851723491861542
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	8	9		#D7141E	0.8721821973612
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	9	9		#B10026	0.929331923433632
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	10	9		#B10026	0.989372629671584
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	11	9		#B10026	0.985715379758171
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	12	9		#B10026	0.967918534783309
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	13	9	noun	#D7141E	0.852694373213641
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	14	9	meaning	#B10026	0.91503487475585
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	15	9	english	#F03623	0.756024264467068
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	16	9	pseudoword|pseudowords	#F03623	0.740171632315687
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	17	9		#B10026	0.916470588341876
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	18	9		#B10026	0.927968738231472
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	19	9	familiar|judgment	#B10026	0.902284645962462
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	20	9	pair|pairs	#D7141E	0.900191778574019
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	21	9		#D7141E	0.871631221147244
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	22	9		#D7141E	0.829493720466219
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	23	9	letter|working	#F03623	0.73629969721495
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	1	10	losses|reinforcement|win	#FFF1A9	0.109825726736875
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	2	10	gain	#FFFFCC	0.0795302351912546
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	3	10	expectation	#FEE188	0.279110071104727
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	4	10	risk	#FDAD4A	0.475340446363013
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	5	10	fact	#FD913D	0.554518716403701
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	6	10	associative	#FC622F	0.6897126543577
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	7	10	familiarity|judgments|old	#F03623	0.772158935734476
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	8	10	contextual|text	#F03623	0.737174169470761
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	9	10	recall|retrieved	#F03623	0.735093081515506
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	10	10	conceptual|semantically	#D7141E	0.880317596237362
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	11	10	grammatical|speakers	#F03623	0.766373831879909
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	12	10	nouns	#D7141E	0.826627412910849
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	13	10	japanese	#F03623	0.757711871809452
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	14	10	languages	#F03623	0.752781180463024
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	15	10	written	#F03623	0.721621255314028
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	16	10	chinese|phonology	#F03623	0.760504051426977
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	17	10	orthographic	#D7141E	0.839591424073256
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	18	10		#B10026	0.915769131856596
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	19	10		#B10026	0.908820950928386
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	20	10	association|decision	#D7141E	0.821544244598162
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	21	10	selection	#F03623	0.738648135594444
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	22	10	letters	#FC622F	0.684570999859564
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	23	10	demand|load	#F03623	0.730680064539476
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	1	11	conditioned|conditioning	#FFFFCC	0
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	2	11		#FEE188	0.227809509440363
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	3	11	drug|placebo	#FEE188	0.290184257852325
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	4	11		#FD913D	0.556150268394507
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	5	11	associations	#FD913D	0.526247205192681
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	6	11		#F03623	0.75233086285312
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	7	11	episodic|recollection	#FD913D	0.587511661912886
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	8	11		#F03623	0.760694869188628
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	9	11		#B10026	0.986964479140926
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	10	11	concepts	#F03623	0.773833139585652
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	11	11		#B10026	0.971799364825699
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	12	11		#B10026	0.921523952019401
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	13	11	german	#F03623	0.72072462262572
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	14	11	readers	#F03623	0.771591636783232
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	15	11	character|name|naming	#FC622F	0.651167209098668
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	16	11		#D7141E	0.822832468581008
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	17	11	novel	#D7141E	0.829984159480311
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	18	11		#D7141E	0.867753779193411
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	19	11	child|children	#F03623	0.785570896611528
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	20	11	adults	#D7141E	0.853731216145959
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	21	11	ability|feedback|learning	#FC622F	0.650401250198979
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	22	11	cues|delay	#FC622F	0.623820235863886
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	23	11	attentional|difficulty|targets	#FC622F	0.69531634255395
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	1	12	aversive|shock	#FFF1A9	0.101736313459502
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	2	12	reactivity	#FFF1A9	0.168892550236914
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	3	12	males|sex|women	#FDAD4A	0.43166868884566
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	4	12	animal	#FECB68	0.395050479613213
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	5	12	animals	#FECB68	0.393085585727431
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	6	12		#FC622F	0.656343108345665
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	7	12	remember|subsequent	#FDAD4A	0.491472785447284
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	8	12	autobiographical|memories	#FDAD4A	0.479734520845049
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	9	12		#B10026	0.956370223682487
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	10	12	violation|violations	#FD913D	0.536684263679986
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	11	12	aphasia	#D7141E	0.844667914088501
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	12	12	nonwords	#FC622F	0.65702892174235
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	13	12	dyslexia	#F03623	0.744745497466277
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	14	12		#D7141E	0.86972869207817
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	15	12	priming	#F03623	0.757085375108096
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	16	12		#D7141E	0.81401210192116
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	17	12	category|repetition	#F03623	0.729760657277518
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	18	12		#D7141E	0.844740882255604
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	19	12	developmental|development	#F03623	0.788924840072307
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	20	12		#D7141E	0.825492288869914
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	21	12	space	#F03623	0.747945362948873
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	22	12		#F03623	0.746099231342798
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	23	12	color	#F03623	0.703838412844243
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	1	13	threat	#FFF1A9	0.133080325851117
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	2	13	regulation	#FEE188	0.213904606083547
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	3	13		#FDAD4A	0.413970225436777
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	4	13	masked	#FDAD4A	0.43362329995651
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	5	13	scene|scenes	#FDAD4A	0.40398663264619
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	6	13		#FC622F	0.616179210458632
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	7	13	confidence|remembered	#FEE188	0.278065780707113
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	8	13		#FC622F	0.694943603196637
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	9	13		#B10026	0.939635921554042
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	10	13	ambiguity|ambiguous	#F03623	0.772663165026365
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	11	13		#B10026	0.946085990678874
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	12	13		#D7141E	0.863297159363893
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	13	13	writing	#FD913D	0.545440815902049
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	14	13		#D7141E	0.870576716765084
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	15	13	categorization|congruency|prime	#F03623	0.725561123256375
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	16	13		#D7141E	0.815593795627796
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	17	13	mask	#FC622F	0.63186640744749
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	18	13		#F03623	0.785238598753211
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	19	13		#F03623	0.743318836831336
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	20	13		#F03623	0.734085883821717
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	21	13	conflict|congruent|incongruent	#FC622F	0.646906781130516
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	22	13	errors	#FC622F	0.646758502923109
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	23	13	maintenance|probe|wm	#FC622F	0.689267056333344
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	1	14	angry|fearful|happy	#FFF1A9	0.156969883130469
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	2	14		#FEE188	0.256078797398286
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	3	14	awareness|conscious|ptsd	#FECB68	0.344904697122081
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	4	14		#FD913D	0.570763222216887
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	5	14	houses|photographs	#FDAD4A	0.403165223099063
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	6	14		#FC622F	0.620210858610839
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	7	14	hits	#FDAD4A	0.440751486901254
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	8	14	famous	#FDAD4A	0.496948777136315
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	9	14	names	#FD913D	0.538873797071213
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	10	14	family	#FD913D	0.597825921348198
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	11	14	competition|mouth	#FC622F	0.648983273689021
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	12	14	abilities	#FC622F	0.608202662716845
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	13	14	implicit|unfamiliar	#FC622F	0.688616604071581
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	14	14		#D7141E	0.833068716261278
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	15	14	tom	#F03623	0.790979092722989
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	16	14		#F03623	0.778789872000948
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	17	14		#F03623	0.70770852933701
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	18	14	stop	#FD913D	0.524219967348403
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	19	14	inhibition|inhibitory|nogo	#FDAD4A	0.441304830029197
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	20	14	monitoring|stroop	#FD913D	0.541477172563084
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	21	14	interference	#FC622F	0.617647419498742
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	22	14		#FC622F	0.700219511993356
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	23	14	demands|executive	#F03623	0.736574147290795
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	1	15	anger	#FFF1A9	0.158425521487098
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	2	15	stress	#FFFFCC	0.0803420331125454
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	3	15	feelings	#FEE188	0.291574646365993
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	4	15	salient	#FECB68	0.387391690866933
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	5	15	novelty	#FEE188	0.280771472802007
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	6	15	movie	#FDAD4A	0.421517816088999
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	7	15		#F03623	0.783034329723885
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	8	15		#D7141E	0.868753002136799
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	9	15	longterm	#FD913D	0.591887748526126
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	10	15		#D7141E	0.896181793204741
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	11	15	reasoning|relational	#FC622F	0.674415723782132
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	12	15		#D7141E	0.847807230862918
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	13	15	presentations	#FDAD4A	0.484115443254201
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	14	15		#F03623	0.768114005672195
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	15	15	identity	#FC622F	0.62437392233591
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	16	15		#F03623	0.738241512869867
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	17	15	strategies|strategy	#FD913D	0.570618150668153
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	18	15	card|cards	#FDAD4A	0.418295463957091
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	19	15	gonogo	#FDAD4A	0.431005513058584
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	20	15		#FC622F	0.610592726356898
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	21	15	switching|switch	#FD913D	0.523298098327342
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	22	15		#FC622F	0.645368145125627
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	23	15	2back|rule	#FC622F	0.604262991264439
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	1	16	emotionally|mood|personality|sadness	#FFF1A9	0.133268559689152
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	2	16	disgust|sexual	#FFFFCC	0.0923155200813842
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	3	16	olfactory	#FFFFCC	0.0330996715503584
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	4	16	physiological	#FEE188	0.215674275178529
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	5	16	depressed|depressive|habituation	#FECB68	0.334571242552441
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	6	16	schizophrenic	#F03623	0.710064207687524
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	7	16	colors|contexts	#FD913D	0.565331747486678
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	8	16	aging|encoded	#FDAD4A	0.486472893553981
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	9	16	goal	#FC622F	0.641990708770243
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	10	16		#D7141E	0.860185841270767
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	11	16	autism|autistic|nonverbal	#F03623	0.74485288036206
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	12	16		#D7141E	0.821379448398763
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	13	16	bottomup|repetitions	#FDAD4A	0.477575653828165
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	14	16	adaptation	#FD913D	0.595001530189985
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	15	16	irrelevant	#FC622F	0.66644133426518
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	16	16	distractor|distractors	#FDAD4A	0.47504725673365
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	17	16		#FC622F	0.677123169945127
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	18	16	subtraction	#FD913D	0.53119862543769
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	19	16	1back|nback	#FDAD4A	0.484480951413595
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	20	16	manipulation|rules	#FC622F	0.630847043592681
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	21	16		#FC622F	0.6463517888152
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	22	16		#FC622F	0.618103628991843
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	23	16	digit	#FD913D	0.550653216734366
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	1	17	avoidance	#FFFFCC	0.0204453040624689
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	2	17		#FFF1A9	0.180065609558795
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	3	17	eating|food	#FFFFCC	0.0308866857180952
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	4	17	taste	#FFF1A9	0.133361836305802
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	5	17	bipolar	#FEE188	0.208039872641795
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	6	17	illness|uncertainty	#FEE188	0.274647063067182
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	7	17	females|probabilistic	#FECB68	0.392951824064894
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	8	17	rejection	#FDAD4A	0.481248839854777
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	9	17	colour|paired	#FC622F	0.609089159195446
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	10	17		#D7141E	0.815671923561722
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	11	17		#F03623	0.792606067584172
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	12	17		#F03623	0.756895979885403
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	13	17	taskirrelevant	#FDAD4A	0.467441029276474
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	14	17		#FC622F	0.635903743702875
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	15	17	suppression	#FD913D	0.517970610682798
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	16	17		#FC622F	0.657807941270043
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	17	17	shifting|shortterm	#FD913D	0.503961970563654
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	18	17	digits	#FD913D	0.552660142357477
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	19	17	search	#FD913D	0.579650909335546
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	20	17	counting|taskrelated	#FC622F	0.670121000946609
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	21	17	topdown	#FC622F	0.601999501874289
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	22	17	visuospatial	#FDAD4A	0.491945759463875
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	23	17	arithmetic|calculation|solving	#FD913D	0.51338341657664
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	1	18	addiction|craving|drugs	#FFF1A9	0.100501768851733
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	2	18	allele|genotype|polymorphism	#FFFFCC	0.0656975272612444
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	3	18	motivation	#FFF1A9	0.102075087014516
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	4	18	heart	#FEE188	0.272150895143391
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	5	18	sleep	#FEE188	0.254739960633869
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	6	18	expectancy	#FECB68	0.35719019803214
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	7	18	phasic|salience	#FEE188	0.285105836218359
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	8	18	adolescence|adolescents	#FDAD4A	0.469608543299417
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	9	18	intelligence|tracking	#FD913D	0.532114430662313
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	10	18		#F03623	0.745153456061024
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	11	18	serial	#FDAD4A	0.440068896532933
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	12	18		#FC622F	0.669036730261115
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	13	18	spatially|taskrelevant	#FD913D	0.512640447090924
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	14	18		#FC622F	0.619062969207757
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	15	18	attended|attend|unattended	#FDAD4A	0.404906606106112
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	16	18	rotation|shapes	#FD913D	0.507658691494717
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	17	18	rehearsal	#FC622F	0.622246137719889
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	18	18	learned	#FDAD4A	0.498093867147581
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	19	18		#FC622F	0.651447640906483
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	20	18	cued|preparatory	#FDAD4A	0.489907158149687
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	21	18		#FC622F	0.654902946320761
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	22	18		#FC622F	0.645994114099736
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	23	18	numbers|numerical	#FD913D	0.500286006548103
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	1	19	future	#FDAD4A	0.437674228775165
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	2	19	negatively	#FECB68	0.365001919064369
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	3	19	distress|epilepsy|selfreported	#FFF1A9	0.191094316963886
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	4	19	anticipatory|cocaine|probabilities|smoking	#FFFFCC	0.084343965127405
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	5	19	alcohol|amount|impulsivity	#FECB68	0.328310952593514
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	6	19	game|success	#FECB68	0.342751215100142
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	7	19	adhd|childhood|engagement	#FDAD4A	0.407766287024905
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	8	19		#FC622F	0.698082175960418
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	9	19		#F03623	0.7136030406731
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	10	19		#F03623	0.704837481041447
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	11	19		#FC622F	0.681485791543084
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	12	19	endogenous	#FDAD4A	0.491612621325388
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	13	19	cueing|invalid|orienting	#FDAD4A	0.481826497536845
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	14	19		#FC622F	0.641200335070684
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	15	19	multisensory	#FD913D	0.538446233119019
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	16	19		#FC622F	0.639641870631429
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	17	19	shifts	#FC622F	0.607540063533068
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	18	19	covert	#FC622F	0.609094520945072
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	19	19		#FC622F	0.606591699817301
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	20	19	preparation	#FDAD4A	0.456814684998813
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	21	19	discrimination|training	#FC622F	0.634198150040721
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	22	19	sequences	#FD913D	0.502108125385924
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	23	19		#FC622F	0.623452615800275
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	1	20	personal|self|selfreferential|trait|traits	#FD913D	0.558509486551547
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	2	20	empathic|theory	#FD913D	0.567042734047213
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	3	20	attribution|intentional	#FEE188	0.199777390968966
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	4	20	elderly|oscillations	#FEE188	0.239529606022958
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	5	20	antipsychotic|virtual	#FECB68	0.343357019545485
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	6	20		#FC622F	0.652451289534842
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	7	20	experiences	#FDAD4A	0.482881366125937
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	8	20	categorical|pressure	#FDAD4A	0.421692967167226
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	9	20	play|skills	#FECB68	0.351944682415814
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	10	20	automatic|trained	#FD913D	0.541837787849365
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	11	20		#FD913D	0.575819265897824
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	12	20	practice	#FD913D	0.542695793566924
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	13	20	visuomotor	#FECB68	0.373477201411226
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	14	20		#FC622F	0.633884723464179
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	15	20	tool	#FDAD4A	0.493452289630148
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	16	20	vision	#FECB68	0.311761835463318
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	17	20	visually	#FD913D	0.543406110331472
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	18	20	saccade|saccades|saccadic	#FECB68	0.372683959194058
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	19	20	locations	#FD913D	0.579616303205427
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	20	20	imagery|planning	#FD913D	0.538395648959661
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	21	20		#FD913D	0.589171881827903
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	22	20	rest	#FD913D	0.596257312019742
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	23	20	sequence	#FD913D	0.585710179219126
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	1	21	scenarios	#FC622F	0.607734022415138
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	2	21	intention|intentions	#FD913D	0.558670718780333
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	3	21	causality|perspective	#FD913D	0.500639304904382
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	4	21	past	#FDAD4A	0.476439233134269
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	5	21		#FC622F	0.637591906374055
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	6	21	episode	#FEE188	0.283971324212886
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	7	21	improvement	#FECB68	0.380986840003026
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	8	21	masking|retention	#FDAD4A	0.409865104815732
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	9	21		#FC622F	0.651953446229667
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	10	21	dominant	#FDAD4A	0.468195270689557
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	11	21		#FDAD4A	0.433110648963192
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	12	21	sequential	#FECB68	0.360564179689519
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	13	21	fingers	#FEE188	0.234794574515586
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	14	21		#FD913D	0.573958828909376
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	15	21	gesture|gestures	#FD913D	0.516528951639101
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	16	21		#FD913D	0.549130251904177
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	17	21	hands	#FECB68	0.323673830789225
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	18	21		#FD913D	0.572633918211287
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	19	21		#FC622F	0.622942471733794
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	20	21	eye|position	#FD913D	0.515826694503485
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	21	21	execution	#FDAD4A	0.448249049730561
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	22	21	finger|sensorimotor	#FECB68	0.346767778112189
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	23	21		#FDAD4A	0.468199911152807
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	1	22	moral|stories|story	#FDAD4A	0.46851418352514
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	2	22	mentalizing|persons	#FD913D	0.577324424547169
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	3	22	default|restingstate	#FECB68	0.385103497453984
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	4	22	thinking|thought|thoughts	#FC622F	0.613899359070278
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	5	22	spontaneous	#FECB68	0.366690504378653
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	6	22	concentration|sensations	#FFF1A9	0.122483204967566
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	7	22	hierarchical|preference	#FECB68	0.365061642745693
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	8	22	effort|oral|simulation	#FDAD4A	0.495280606650958
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	9	22	interhemispheric|plasticity	#FDAD4A	0.433352685951288
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	10	22	imagined|imagine	#FDAD4A	0.409975795738759
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	11	22	tapping	#FEE188	0.294257009882515
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	12	22	foot|muscle|muscles|voluntary	#FFF1A9	0.159873522008095
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	13	22	limb	#FFF1A9	0.135217290063945
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	14	22	eyes|velocity	#FEE188	0.260254526520444
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	15	22	biological|gaze|videos	#FECB68	0.344770649958621
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	16	22	body	#FD913D	0.530830925345315
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	17	22	grasping|orientation|reaching	#FECB68	0.314479286626079
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	18	22		#FD913D	0.567031441726925
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	19	22	mirror|shape	#FC622F	0.648129560406407
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	20	22	actions	#FC622F	0.670175508758999
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	21	22	action	#F03623	0.704212410673433
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	22	22		#FDAD4A	0.46223137573664
+3774fbed-2ced-3fdb-9bec-5090eacb642d	Papagno C	23	22	hand|movements|sensory	#FECB68	0.336182403083547

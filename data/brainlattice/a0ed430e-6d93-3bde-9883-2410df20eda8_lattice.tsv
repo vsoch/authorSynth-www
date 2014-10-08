@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	1	1	auditory|speech	#D7141E	0.881518529181774
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	2	1		#B10026	0.947720462735448
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	3	1	da|integration	#F03623	0.712386064364414
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	4	1		#D7141E	0.898351836017147
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	5	1	physical|psychophysical|tactile	#FC622F	0.673586154297194
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	6	1		#F03623	0.723245237529976
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	7	1	somatosensory|stimulation	#FC622F	0.601106167034086
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	8	1	painful|pain	#FC622F	0.614867469187111
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	9	1		#FC622F	0.654799906809041
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	10	1	ratings	#FC622F	0.627368441489463
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	11	1	affective|affect	#FD913D	0.553460208510808
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	12	1	emotions	#FD913D	0.59446189900138
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	13	1	expression|expressions|facial	#FDAD4A	0.411642979993846
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	14	1		#FD913D	0.529650049560019
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	15	1		#FD913D	0.52806826350942
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	16	1	emotion|motion|neutral	#FD913D	0.551013513026206
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	17	1	rating	#FD913D	0.584571386333074
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	18	1	negative|positive	#FDAD4A	0.466879986927721
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	19	1		#FECB68	0.392604012007554
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	20	1	ear|order	#FECB68	0.344763780840567
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	21	1	motor	#FEE188	0.232681920823086
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	22	1	visual	#FFF1A9	0.195033119015808
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	23	1	age|image|response	#FECB68	0.347715724532889
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	1	2	sound|sounds	#B10026	1
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	2	2		#B10026	0.965340488908087
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	3	2	audiovisual|bimodal|crossmodal	#D7141E	0.81878606465236
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	4	2		#D7141E	0.88218854280674
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	5	2		#D7141E	0.816551917596855
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	6	2		#F03623	0.738088574328945
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	7	2	sensation	#FD913D	0.589912681829715
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	8	2	heat|noxious	#FD913D	0.58963187549417
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	9	2		#FC622F	0.661563110754301
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	10	2		#FC622F	0.652475852537541
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	11	2		#FC622F	0.637338599444832
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	12	2	valence	#FD913D	0.570496662113029
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	13	2	person|social	#F03623	0.733851141471195
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	14	2		#FD913D	0.529501727112715
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	15	2	face|faces	#FECB68	0.349235561381255
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	16	2		#FD913D	0.535741234705916
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	17	2		#FD913D	0.522940557654129
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	18	2		#FDAD4A	0.454091260451812
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	19	2		#FECB68	0.373062468964651
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	20	2		#FEE188	0.290608529992808
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	21	2	images|spatial	#FEE188	0.266879151960478
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	22	2	control	#FEE188	0.258548838826509
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	23	2	time	#FECB68	0.308754877315667
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	1	3	acoustic|listening|musical|music|pitch	#B10026	0.982320476259048
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	2	3	noise|tones	#B10026	0.928921766120358
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	3	3		#B10026	0.918231445455069
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	4	3		#F03623	0.793697537150521
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	5	3	frequency	#FC622F	0.670610828167457
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	6	3		#F03623	0.70489776728717
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	7	3		#FC622F	0.641919318506265
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	8	3	temperature	#FD913D	0.566910713940187
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	9	3		#FC622F	0.634075483292743
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	10	3	pleasant|unpleasant	#FD913D	0.580179434883391
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	11	3	anxiety	#FDAD4A	0.498504081201152
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	12	3		#FD913D	0.586726666308291
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	13	3		#FD913D	0.575880678746544
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	14	3		#FD913D	0.552376825829401
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	15	3		#FD913D	0.534746604386476
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	16	3	picture	#FDAD4A	0.444188478619539
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	17	3		#FD913D	0.521284947068219
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	18	3	value	#FECB68	0.360859550037142
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	19	3	cue	#FEE188	0.255765334172392
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	20	3	error|target	#FEE188	0.239431370003017
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	21	3	attention	#FFF1A9	0.190651064197924
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	22	3		#FEE188	0.24276338402339
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	23	3	number	#FEE188	0.25749469247006
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	1	4	voice	#B10026	0.914383328614159
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	2	4		#B10026	0.939551204163692
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	3	4	hearing	#F03623	0.736673622794774
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	4	4		#F03623	0.720029064990895
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	5	4	overt	#FDAD4A	0.441003740392102
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	6	4		#FC622F	0.661452717018967
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	7	4		#FC622F	0.661110816534314
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	8	4	nociceptive|nonpainful|painrelated	#FD913D	0.510281244063277
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	9	4	unpleasantness	#FC622F	0.626214676096243
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	10	4	skin|subjective	#FDAD4A	0.460881193017752
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	11	4	depression	#FDAD4A	0.490102740634257
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	12	4	experience	#FDAD4A	0.491617607040447
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	13	4	female	#FDAD4A	0.493833316800684
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	14	4	male	#FD913D	0.566229559131161
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	15	4	pictures	#FDAD4A	0.457341311224574
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	16	4		#FD913D	0.540728628758235
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	17	4	perception	#FD913D	0.567788697489905
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	18	4		#FECB68	0.373702957613004
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	19	4		#FECB68	0.301397971136125
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	20	4		#FEE188	0.260007584629032
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	21	4	correct	#FEE188	0.203625319310742
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	22	4	work	#FFF1A9	0.188131801491711
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	23	4	memory	#FEE188	0.212940602289774
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	1	5	prosodic|prosody	#F03623	0.777577720699217
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	2	5	phonetic	#D7141E	0.822365539432915
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	3	5	syllable|syllables	#FC622F	0.676935958817215
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	4	5		#FC622F	0.686044824246788
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	5	5	lip|production	#FD913D	0.583600704731304
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	6	5	somatotopic	#FC622F	0.608597344803513
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	7	5		#FC622F	0.625907990444633
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	8	5		#FD913D	0.554515797644522
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	9	5	empathy	#FD913D	0.53089166323646
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	10	5		#FDAD4A	0.490404435426284
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	11	5	disorder	#FDAD4A	0.484504698096661
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	12	5		#FD913D	0.535808794558399
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	13	5		#FC622F	0.619517930706989
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	14	5		#FC622F	0.618382883832592
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	15	5		#FC622F	0.616261914519261
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	16	5		#FD913D	0.588454318511019
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	17	5		#FD913D	0.527749594901729
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	18	5	mental	#FECB68	0.343803218156144
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	19	5	go	#FEE188	0.272064021148857
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	20	5	object	#FFF1A9	0.16233554083712
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	21	5		#FEE188	0.266396789634916
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	22	5		#FECB68	0.30051810906745
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	23	5	word|words	#FECB68	0.331669482840942
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	1	6		#F03623	0.73669883946354
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	2	6		#F03623	0.750942090934817
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	3	6		#F03623	0.786201870130236
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	4	6	vocal	#FC622F	0.687116602528468
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	5	6	articulatory	#FDAD4A	0.47462657471284
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	6	6		#FC622F	0.622779869217984
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	7	6	oddball	#FD913D	0.515945173299843
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	8	6	perceived	#FECB68	0.393268035134916
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	9	6	errorrelated	#FECB68	0.381818486650028
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	10	6	approach	#FECB68	0.344616543972982
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	11	6	schizophrenia	#FECB68	0.355798188988345
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	12	6	acquisition	#FD913D	0.526884567635501
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	13	6		#FC622F	0.612534715588026
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	14	6		#FD913D	0.594976725171288
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	15	6		#FD913D	0.58922827851442
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	16	6		#FD913D	0.570167988789168
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	17	6		#FDAD4A	0.416890941642256
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	18	6		#FECB68	0.337481210158803
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	19	6		#FECB68	0.330044983841995
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	20	6	objects	#FEE188	0.22194337705008
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	21	6		#FECB68	0.311006939649521
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	22	6		#FECB68	0.338025162928296
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	23	6	language|semantic	#FECB68	0.378441244865931
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	1	7	dopamine|dopaminergic	#FFF1A9	0.136738365112365
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	2	7		#FEE188	0.268183744713645
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	3	7		#FDAD4A	0.416212201218908
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	4	7		#FDAD4A	0.476382913894603
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	5	7		#FDAD4A	0.430688365789268
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	6	7		#FDAD4A	0.423360572644248
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	7	7		#FDAD4A	0.400446841075153
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	8	7		#FECB68	0.361588102420493
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	9	7		#FDAD4A	0.401414394343393
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	10	7		#FECB68	0.38647473953097
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	11	7		#FDAD4A	0.400427159284629
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	12	7		#FDAD4A	0.453364939140469
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	13	7	linguistic|spoken	#FD913D	0.543895707315165
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	14	7		#FD913D	0.558607287210987
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	15	7	comprehension|sentence|sentences|syntactic	#FD913D	0.555062619584719
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	16	7		#FD913D	0.50179981073844
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	17	7		#FECB68	0.378380973131045
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	18	7	phonological|reading|read	#FECB68	0.309089110756883
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	19	7		#FECB68	0.321098641467775
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	20	7	perceptual|recognition	#FECB68	0.330440495240267
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	21	7		#FECB68	0.318248967343332
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	22	7		#FECB68	0.337908584476667
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	23	7	verb	#FECB68	0.308691041871074
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	1	8	outcome|reward	#FEE188	0.226553428012555
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	2	8	anticipation	#FFF1A9	0.19552484001133
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	3	8	outcomes	#FEE188	0.206091519331044
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	4	8	choice|choices	#FEE188	0.225366682203613
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	5	8	decisions|probability	#FEE188	0.284824748973161
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	6	8	reversal	#FFF1A9	0.138111053413857
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	7	8	classification|incorrect	#FFF1A9	0.185153321407652
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	8	8		#FEE188	0.272937371102252
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	9	8	agerelated|fluency|probes	#FEE188	0.253591832456114
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	10	8	engaged	#FEE188	0.295118744001549
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	11	8	explicit|knowledge	#FECB68	0.333133610925467
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	12	8		#FDAD4A	0.405702759284045
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	13	8		#FDAD4A	0.467048512854106
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	14	8		#FDAD4A	0.488237391304054
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	15	8		#FDAD4A	0.466043484330607
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	16	8		#FDAD4A	0.449329995756154
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	17	8	lexical	#FECB68	0.320109679299299
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	18	8		#FECB68	0.318766299307502
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	19	8		#FECB68	0.332627780273179
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	20	8		#FECB68	0.330265724694664
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	21	8	encoding	#FEE188	0.265102674676223
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	22	8	retrieval	#FEE188	0.221463917932523
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	23	8	verbal	#FEE188	0.293039667514245
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	1	9	incentive|monetary|money|rewards	#FFF1A9	0.145898150031082
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	2	9	loss	#FEE188	0.228116445069113
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	3	9		#FEE188	0.266846026961556
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	4	9		#FEE188	0.289397095459049
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	5	9	decisionmaking	#FEE188	0.268961394648459
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	6	9		#FEE188	0.250553929253594
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	7	9		#FEE188	0.231839115811604
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	8	9		#FEE188	0.246131263534647
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	9	9		#FECB68	0.29998295054032
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	10	9		#FECB68	0.328811952026668
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	11	9		#FECB68	0.362544771688113
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	12	9		#FECB68	0.358145151386463
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	13	9	noun	#FEE188	0.267756765936603
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	14	9	meaning	#FECB68	0.365017241302715
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	15	9	english	#FEE188	0.232838846127876
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	16	9	pseudoword|pseudowords	#FECB68	0.320261528125346
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	17	9		#FECB68	0.330196710590608
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	18	9		#FECB68	0.328820618976587
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	19	9	familiar|judgment	#FEE188	0.295063934501788
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	20	9	pair|pairs	#FECB68	0.334123056601098
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	21	9		#FECB68	0.302308601379462
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	22	9		#FEE188	0.236436008413349
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	23	9	letter|working	#FFF1A9	0.14651688379421
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	1	10	losses|reinforcement|win	#FEE188	0.249166188373322
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	2	10	gain	#FFF1A9	0.127006270089328
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	3	10	expectation	#FFF1A9	0.157998796926335
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	4	10	risk	#FEE188	0.284726878416062
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	5	10	fact	#FECB68	0.360720833877654
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	6	10	associative	#FFF1A9	0.171262584392851
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	7	10	familiarity|judgments|old	#FFF1A9	0.184368725184492
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	8	10	contextual|text	#FEE188	0.289868004078029
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	9	10	recall|retrieved	#FEE188	0.225811332787615
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	10	10	conceptual|semantically	#FECB68	0.355098616823767
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	11	10	grammatical|speakers	#FECB68	0.377527096318777
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	12	10	nouns	#FEE188	0.233337379117752
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	13	10	japanese	#FEE188	0.269887038336184
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	14	10	languages	#FFF1A9	0.174657608833527
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	15	10	written	#FEE188	0.293933870108552
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	16	10	chinese|phonology	#FFF1A9	0.165665809301733
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	17	10	orthographic	#FFF1A9	0.195822376717747
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	18	10		#FECB68	0.353529682416562
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	19	10		#FECB68	0.378333904191099
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	20	10	association|decision	#FECB68	0.303744180196676
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	21	10	selection	#FFF1A9	0.164087728588351
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	22	10	letters	#FFF1A9	0.104048768864497
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	23	10	demand|load	#FFF1A9	0.119538876151016
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	1	11	conditioned|conditioning	#FEE188	0.228237315396013
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	2	11		#FECB68	0.334300636443805
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	3	11	drug|placebo	#FEE188	0.256359232326117
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	4	11		#FECB68	0.338383412362999
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	5	11	associations	#FEE188	0.227979538795451
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	6	11		#FEE188	0.291459407440935
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	7	11	episodic|recollection	#FEE188	0.247996967699918
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	8	11		#FEE188	0.284745483294505
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	9	11		#FECB68	0.397173612217036
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	10	11	concepts	#FECB68	0.355955084828152
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	11	11		#FDAD4A	0.432227927732049
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	12	11		#FECB68	0.388587886848802
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	13	11	german	#FECB68	0.325608384256835
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	14	11	readers	#FEE188	0.201621046902018
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	15	11	character|name|naming	#FFF1A9	0.131777658643299
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	16	11		#FEE188	0.261228991596581
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	17	11	novel	#FEE188	0.285712818503545
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	18	11		#FECB68	0.34043718490256
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	19	11	child|children	#FECB68	0.39303888444077
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	20	11	adults	#FECB68	0.350965936380048
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	21	11	ability|feedback|learning	#FEE188	0.279793123675156
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	22	11	cues|delay	#FEE188	0.199975899887299
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	23	11	attentional|difficulty|targets	#FFF1A9	0.168233988549172
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	1	12	aversive|shock	#FDAD4A	0.462983259484237
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	2	12	reactivity	#FECB68	0.331214709169649
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	3	12	males|sex|women	#FECB68	0.311750973690524
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	4	12	animal	#FECB68	0.335244797653667
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	5	12	animals	#FFF1A9	0.155528979603569
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	6	12		#FECB68	0.313121096358385
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	7	12	remember|subsequent	#FEE188	0.243776649129359
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	8	12	autobiographical|memories	#FEE188	0.297363480660726
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	9	12		#FDAD4A	0.472613050589139
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	10	12	violation|violations	#FD913D	0.537317460589118
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	11	12	aphasia	#FDAD4A	0.461923910518783
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	12	12	nonwords	#FECB68	0.371136977407679
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	13	12	dyslexia	#FEE188	0.262106773684019
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	14	12		#FEE188	0.287815626537916
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	15	12	priming	#FFF1A9	0.198936181266833
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	16	12		#FECB68	0.301696149857915
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	17	12	category|repetition	#FECB68	0.31088722503853
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	18	12		#FECB68	0.346974958018498
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	19	12	developmental|development	#FECB68	0.302340409031397
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	20	12		#FECB68	0.350035530731095
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	21	12	space	#FECB68	0.322016835391454
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	22	12		#FFF1A9	0.186492444058989
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	23	12	color	#FFF1A9	0.121709440082442
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	1	13	threat	#FDAD4A	0.449591928199736
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	2	13	regulation	#FD913D	0.536383914178534
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	3	13		#FDAD4A	0.445893191739073
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	4	13	masked	#FEE188	0.282943128706962
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	5	13	scene|scenes	#FECB68	0.300729448091459
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	6	13		#FECB68	0.304136700224608
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	7	13	confidence|remembered	#FFF1A9	0.158304403195297
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	8	13		#FECB68	0.320787367412449
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	9	13		#FDAD4A	0.478421466288823
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	10	13	ambiguity|ambiguous	#FEE188	0.231006451099333
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	11	13		#FDAD4A	0.489386167199176
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	12	13		#FECB68	0.332869101653387
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	13	13	writing	#FFFFCC	0.0916824544679988
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	14	13		#FEE188	0.299269261031613
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	15	13	categorization|congruency|prime	#FECB68	0.365943121281168
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	16	13		#FECB68	0.324474376995158
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	17	13	mask	#FEE188	0.269413323556378
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	18	13		#FECB68	0.331892990589857
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	19	13		#FECB68	0.325345634263363
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	20	13		#FECB68	0.304409919860527
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	21	13	conflict|congruent|incongruent	#FEE188	0.278301140258476
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	22	13	errors	#FFF1A9	0.166652520202497
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	23	13	maintenance|probe|wm	#FFFFCC	0.0770588049559789
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	1	14	angry|fearful|happy	#FDAD4A	0.45351753381672
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	2	14		#FD913D	0.512347446006821
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	3	14	awareness|conscious|ptsd	#FDAD4A	0.417796546478949
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	4	14		#FDAD4A	0.474443738196013
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	5	14	houses|photographs	#FEE188	0.203082951673155
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	6	14		#FECB68	0.340598038220337
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	7	14	hits	#FFF1A9	0.143117440175726
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	8	14	famous	#FEE188	0.255551215647325
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	9	14	names	#FEE188	0.281512494464842
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	10	14	family	#FECB68	0.377905790779042
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	11	14	competition|mouth	#FECB68	0.337220933259138
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	12	14	abilities	#FEE188	0.234564136250907
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	13	14	implicit|unfamiliar	#FEE188	0.272603422610365
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	14	14		#FEE188	0.295971757582077
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	15	14	tom	#FDAD4A	0.436954876111953
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	16	14		#FEE188	0.26746474130106
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	17	14		#FEE188	0.233933299062982
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	18	14	stop	#FEE188	0.241030343051823
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	19	14	inhibition|inhibitory|nogo	#FEE188	0.274055091053323
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	20	14	monitoring|stroop	#FFF1A9	0.173617654098722
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	21	14	interference	#FFF1A9	0.151649994498508
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	22	14		#FFF1A9	0.156553189377902
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	23	14	demands|executive	#FFF1A9	0.102077229441865
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	1	15	anger	#FDAD4A	0.421133744851778
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	2	15	stress	#FDAD4A	0.40671327610429
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	3	15	feelings	#FD913D	0.514374351780258
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	4	15	salient	#FD913D	0.530699418921995
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	5	15	novelty	#FDAD4A	0.478118233087291
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	6	15	movie	#FEE188	0.206154085397599
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	7	15		#FEE188	0.299472610490869
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	8	15		#FEE188	0.295741871270807
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	9	15	longterm	#FFF1A9	0.124418737811241
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	10	15		#FECB68	0.312287660160298
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	11	15	reasoning|relational	#FFF1A9	0.144339858297921
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	12	15		#FEE188	0.27943609889299
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	13	15	presentations	#FEE188	0.269245174941996
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	14	15		#FEE188	0.247292838301737
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	15	15	identity	#FFF1A9	0.165603862557591
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	16	15		#FEE188	0.206910418918966
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	17	15	strategies|strategy	#FFF1A9	0.12871479811984
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	18	15	card|cards	#FEE188	0.221006150474433
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	19	15	gonogo	#FECB68	0.30901349336704
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	20	15		#FEE188	0.206296770294916
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	21	15	switching|switch	#FFFFCC	0.077875411175462
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	22	15		#FFF1A9	0.121033591591471
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	23	15	2back|rule	#FFFFCC	0.0615314412006718
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	1	16	emotionally|mood|personality|sadness	#FC622F	0.605325177557395
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	2	16	disgust|sexual	#FEE188	0.283580003001539
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	3	16	olfactory	#FDAD4A	0.479217561852655
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	4	16	physiological	#FDAD4A	0.470449150573742
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	5	16	depressed|depressive|habituation	#FDAD4A	0.476565039670372
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	6	16	schizophrenic	#FECB68	0.337292781396587
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	7	16	colors|contexts	#FFF1A9	0.130191884744305
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	8	16	aging|encoded	#FFF1A9	0.140378865685166
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	9	16	goal	#FFFFCC	0.043854369989016
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	10	16		#FEE188	0.237423746281763
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	11	16	autism|autistic|nonverbal	#FEE188	0.228826945590642
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	12	16		#FEE188	0.263857453823909
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	13	16	bottomup|repetitions	#FFF1A9	0.120323563733386
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	14	16	adaptation	#FEE188	0.266420456864102
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	15	16	irrelevant	#FFF1A9	0.154632811353341
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	16	16	distractor|distractors	#FFFFCC	0.0584670607348164
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	17	16		#FFF1A9	0.167239880393949
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	18	16	subtraction	#FFFFCC	0.0730985042829698
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	19	16	1back|nback	#FFFFCC	0.0891935865181192
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	20	16	manipulation|rules	#FFF1A9	0.119807095841199
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	21	16		#FFF1A9	0.113301536909223
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	22	16		#FFFFCC	0.0641644621108205
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	23	16	digit	#FFFFCC	0.0597579580987668
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	1	17	avoidance	#FEE188	0.263544981693238
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	2	17		#FDAD4A	0.452586135406119
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	3	17	eating|food	#FDAD4A	0.460005976956957
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	4	17	taste	#FD913D	0.522020038879026
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	5	17	bipolar	#FDAD4A	0.404466970665103
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	6	17	illness|uncertainty	#FDAD4A	0.449330017447259
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	7	17	females|probabilistic	#FEE188	0.226722915430871
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	8	17	rejection	#FFF1A9	0.135735634260161
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	9	17	colour|paired	#FFF1A9	0.139855131016973
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	10	17		#FEE188	0.224032626590488
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	11	17		#FEE188	0.213053819298032
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	12	17		#FEE188	0.202729157482764
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	13	17	taskirrelevant	#FFF1A9	0.148697354420818
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	14	17		#FFF1A9	0.183605905650619
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	15	17	suppression	#FEE188	0.241934042591251
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	16	17		#FFF1A9	0.165562014258048
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	17	17	shifting|shortterm	#FFFFCC	0.0785859629507713
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	18	17	digits	#FFFFCC	0.0796400688581586
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	19	17	search	#FFF1A9	0.118993257363822
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	20	17	counting|taskrelated	#FFF1A9	0.142660132424615
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	21	17	topdown	#FFF1A9	0.125081889729429
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	22	17	visuospatial	#FFFFCC	0.0101322287126807
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	23	17	arithmetic|calculation|solving	#FFFFCC	0.00338805225494308
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	1	18	addiction|craving|drugs	#FEE188	0.236844709684339
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	2	18	allele|genotype|polymorphism	#FEE188	0.278544209046688
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	3	18	motivation	#FEE188	0.287768983153051
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	4	18	heart	#FDAD4A	0.455462577554369
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	5	18	sleep	#FECB68	0.372273566205996
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	6	18	expectancy	#FECB68	0.319884807090956
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	7	18	phasic|salience	#FECB68	0.398755000820596
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	8	18	adolescence|adolescents	#FEE188	0.220289583092222
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	9	18	intelligence|tracking	#FECB68	0.342771027818224
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	10	18		#FEE188	0.253542242299181
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	11	18	serial	#FFFFCC	0.0968081105951833
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	12	18		#FFF1A9	0.182096681983245
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	13	18	spatially|taskrelevant	#FFF1A9	0.141851496411447
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	14	18		#FEE188	0.204879467384877
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	15	18	attended|attend|unattended	#FFF1A9	0.106032283519928
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	16	18	rotation|shapes	#FFFFCC	0.0361119976218391
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	17	18	rehearsal	#FEE188	0.2067279893427
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	18	18	learned	#FFFFCC	0.0969818221769091
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	19	18		#FFF1A9	0.138356262101928
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	20	18	cued|preparatory	#FFF1A9	0.143926683828289
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	21	18		#FFF1A9	0.190786180179403
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	22	18		#FFF1A9	0.140356505263039
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	23	18	numbers|numerical	#FFFFCC	0.0166493664033101
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	1	19	future	#FDAD4A	0.465324819411556
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	2	19	negatively	#FDAD4A	0.425243708796845
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	3	19	distress|epilepsy|selfreported	#FECB68	0.336398812718947
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	4	19	anticipatory|cocaine|probabilities|smoking	#FEE188	0.254575953169124
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	5	19	alcohol|amount|impulsivity	#FFF1A9	0.124014159279166
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	6	19	game|success	#FFF1A9	0.188900328197752
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	7	19	adhd|childhood|engagement	#FEE188	0.25630602740793
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	8	19		#FDAD4A	0.447056578079159
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	9	19		#FECB68	0.395980201726559
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	10	19		#FEE188	0.255169262641563
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	11	19		#FFF1A9	0.197686956804855
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	12	19	endogenous	#FFF1A9	0.148259809978906
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	13	19	cueing|invalid|orienting	#FFF1A9	0.101106004534255
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	14	19		#FEE188	0.217148279696651
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	15	19	multisensory	#FDAD4A	0.401960273707153
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	16	19		#FEE188	0.219615940367549
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	17	19	shifts	#FFF1A9	0.124148056682783
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	18	19	covert	#FFF1A9	0.106775114253614
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	19	19		#FFF1A9	0.122746512292215
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	20	19	preparation	#FFF1A9	0.139621147323269
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	21	19	discrimination|training	#FEE188	0.290005368393119
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	22	19	sequences	#FEE188	0.297712860886004
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	23	19		#FECB68	0.34697652187886
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	1	20	personal|self|selfreferential|trait|traits	#FD913D	0.582756048195628
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	2	20	empathic|theory	#FD913D	0.542600572119549
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	3	20	attribution|intentional	#FEE188	0.251718591722148
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	4	20	elderly|oscillations	#FFF1A9	0.116223958402701
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	5	20	antipsychotic|virtual	#FFF1A9	0.18391852221922
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	6	20		#FDAD4A	0.402850056833552
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	7	20	experiences	#FDAD4A	0.411659645715373
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	8	20	categorical|pressure	#FECB68	0.374127492831708
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	9	20	play|skills	#FEE188	0.229837633087491
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	10	20	automatic|trained	#FEE188	0.208381696932375
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	11	20		#FFF1A9	0.177391057537018
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	12	20	practice	#FFFFCC	0.0551018034832227
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	13	20	visuomotor	#FFFFCC	0.0254574909729674
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	14	20		#FEE188	0.257694350357921
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	15	20	tool	#FFF1A9	0.146908489973443
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	16	20	vision	#FFFFCC	0.0976663419574597
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	17	20	visually	#FFF1A9	0.132583496726876
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	18	20	saccade|saccades|saccadic	#FFFFCC	0
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	19	20	locations	#FFF1A9	0.156320485933678
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	20	20	imagery|planning	#FFFFCC	0.0865838544547744
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	21	20		#FEE188	0.245331566315805
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	22	20	rest	#FECB68	0.387535716949642
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	23	20	sequence	#FECB68	0.381608591246
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	1	21	scenarios	#FD913D	0.58589823302348
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	2	21	intention|intentions	#FD913D	0.567905526624018
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	3	21	causality|perspective	#FEE188	0.264507750865911
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	4	21	past	#FECB68	0.342251905251311
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	5	21		#FDAD4A	0.496646396854305
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	6	21	episode	#FEE188	0.252955202151151
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	7	21	improvement	#FFF1A9	0.128254109848216
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	8	21	masking|retention	#FFF1A9	0.17511238171359
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	9	21		#FECB68	0.308493675199725
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	10	21	dominant	#FFF1A9	0.178858836947644
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	11	21		#FFF1A9	0.197099900011882
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	12	21	sequential	#FFFFCC	0.0949053071011567
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	13	21	fingers	#FFF1A9	0.157678623552466
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	14	21		#FEE188	0.234141897713227
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	15	21	gesture|gestures	#FEE188	0.2370440528257
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	16	21		#FFF1A9	0.191284209655402
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	17	21	hands	#FFFFCC	0.0518422726739991
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	18	21		#FFF1A9	0.134588086207907
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	19	21		#FFF1A9	0.137191567276454
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	20	21	eye|position	#FFF1A9	0.110020797998498
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	21	21	execution	#FFF1A9	0.123457258283898
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	22	21	finger|sensorimotor	#FEE188	0.231434502369149
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	23	21		#FECB68	0.308049968448731
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	1	22	moral|stories|story	#FC622F	0.685653265024318
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	2	22	mentalizing|persons	#FD913D	0.539739080201971
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	3	22	default|restingstate	#FECB68	0.370107865407403
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	4	22	thinking|thought|thoughts	#FEE188	0.223668209008869
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	5	22	spontaneous	#FECB68	0.370557822207001
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	6	22	concentration|sensations	#FDAD4A	0.476654908263275
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	7	22	hierarchical|preference	#FECB68	0.337259163836266
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	8	22	effort|oral|simulation	#FECB68	0.322869146587529
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	9	22	interhemispheric|plasticity	#FEE188	0.242270179636452
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	10	22	imagined|imagine	#FFF1A9	0.112810924475893
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	11	22	tapping	#FFF1A9	0.144777870028777
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	12	22	foot|muscle|muscles|voluntary	#FECB68	0.319273171893201
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	13	22	limb	#FFF1A9	0.145114138617857
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	14	22	eyes|velocity	#FFFFCC	0.0781715464196926
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	15	22	biological|gaze|videos	#FFF1A9	0.162146477613197
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	16	22	body	#FEE188	0.243291326973884
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	17	22	grasping|orientation|reaching	#FFFFCC	0.0560014794510663
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	18	22		#FFF1A9	0.141766550352763
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	19	22	mirror|shape	#FFF1A9	0.104873470546007
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	20	22	actions	#FFF1A9	0.177098190692681
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	21	22	action	#FFF1A9	0.194319362291982
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	22	22		#FEE188	0.247798818864923
+a0ed430e-6d93-3bde-9883-2410df20eda8	Stephen Miller L	23	22	hand|movements|sensory	#FEE188	0.255006019695724

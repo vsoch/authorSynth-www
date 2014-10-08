@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	1	1	auditory|speech	#FFF1A9	0.164415273267205
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	2	1		#FFF1A9	0.167250255268916
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	3	1	da|integration	#FDAD4A	0.433305582827032
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	4	1		#FDAD4A	0.44845907157961
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	5	1	physical|psychophysical|tactile	#FD913D	0.524275247025371
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	6	1		#FDAD4A	0.44888645431388
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	7	1	somatosensory|stimulation	#FECB68	0.361201859209817
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	8	1	painful|pain	#FEE188	0.228598302070137
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	9	1		#FECB68	0.305304838068895
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	10	1	ratings	#FD913D	0.508361685214278
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	11	1	affective|affect	#FDAD4A	0.461966332599102
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	12	1	emotions	#FDAD4A	0.470096501889139
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	13	1	expression|expressions|facial	#FECB68	0.371807904354483
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	14	1		#FD913D	0.545545871168548
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	15	1		#FD913D	0.593496461600791
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	16	1	emotion|motion|neutral	#FC622F	0.609592084176995
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	17	1	rating	#FD913D	0.588657044121741
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	18	1	negative|positive	#FC622F	0.642624220227921
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	19	1		#F03623	0.736074262180184
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	20	1	ear|order	#FC622F	0.68796158977889
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	21	1	motor	#FC622F	0.608309792888849
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	22	1	visual	#F03623	0.701023888545319
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	23	1	age|image|response	#FC622F	0.67449884565072
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	1	2	sound|sounds	#FFFFCC	0.0771603549394034
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	2	2		#FFF1A9	0.140645122375309
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	3	2	audiovisual|bimodal|crossmodal	#FEE188	0.216746932631151
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	4	2		#FDAD4A	0.458286821232155
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	5	2		#FD913D	0.511162969217742
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	6	2		#FDAD4A	0.475838556103207
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	7	2	sensation	#FFF1A9	0.197905503075436
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	8	2	heat|noxious	#FEE188	0.201306706955904
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	9	2		#FECB68	0.336783119835829
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	10	2		#FDAD4A	0.494545993908486
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	11	2		#FD913D	0.519682362053725
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	12	2	valence	#FD913D	0.533619037834855
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	13	2	person|social	#FD913D	0.578267446688752
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	14	2		#FD913D	0.551606658312939
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	15	2	face|faces	#FD913D	0.542979592226756
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	16	2		#FC622F	0.650913309713956
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	17	2		#FC622F	0.682703604302592
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	18	2		#F03623	0.739184459732417
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	19	2		#F03623	0.762206529411863
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	20	2		#F03623	0.766739292942849
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	21	2	images|spatial	#F03623	0.762690159501866
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	22	2	control	#F03623	0.702642840831507
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	23	2	time	#F03623	0.706721792288169
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	1	3	acoustic|listening|musical|music|pitch	#FFFFCC	0
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	2	3	noise|tones	#FFFFCC	0.0771860422516716
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	3	3		#FEE188	0.236698439190615
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	4	3		#FECB68	0.356872645354522
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	5	3	frequency	#FDAD4A	0.480898899714607
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	6	3		#FDAD4A	0.430108978283625
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	7	3		#FECB68	0.305971719527501
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	8	3	temperature	#FECB68	0.320138111530793
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	9	3		#FECB68	0.355481386501919
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	10	3	pleasant|unpleasant	#FECB68	0.305407837202781
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	11	3	anxiety	#FDAD4A	0.415400855770176
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	12	3		#FD913D	0.544524308029686
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	13	3		#FD913D	0.587158658197785
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	14	3		#FD913D	0.583046628939515
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	15	3		#FC622F	0.616542388181552
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	16	3	picture	#FC622F	0.661762368735141
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	17	3		#F03623	0.715217125043581
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	18	3	value	#F03623	0.724227810650557
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	19	3	cue	#D7141E	0.826404523220069
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	20	3	error|target	#F03623	0.782525300875382
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	21	3	attention	#D7141E	0.815583372044885
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	22	3		#F03623	0.746594380967542
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	23	3	number	#F03623	0.709432893671224
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	1	4	voice	#FFFFCC	0.00903810548170326
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	2	4		#FFF1A9	0.099230568041454
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	3	4	hearing	#FEE188	0.227612134999069
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	4	4		#FEE188	0.249567854593718
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	5	4	overt	#FECB68	0.317501638767633
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	6	4		#FECB68	0.303894722792324
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	7	4		#FECB68	0.34623881786865
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	8	4	nociceptive|nonpainful|painrelated	#FEE188	0.226648150201434
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	9	4	unpleasantness	#FECB68	0.375885819266099
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	10	4	skin|subjective	#FD913D	0.54482964648648
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	11	4	depression	#FD913D	0.519859329703623
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	12	4	experience	#FD913D	0.555331422422013
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	13	4	female	#FD913D	0.522380055347058
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	14	4	male	#FD913D	0.560647345842982
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	15	4	pictures	#FD913D	0.579868192352243
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	16	4		#FC622F	0.674320317884643
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	17	4	perception	#FC622F	0.644763345876936
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	18	4		#F03623	0.779581786017561
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	19	4		#F03623	0.794284393238687
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	20	4		#F03623	0.787984050783319
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	21	4	correct	#F03623	0.713876874037833
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	22	4	work	#F03623	0.751627261467716
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	23	4	memory	#F03623	0.76017844806424
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	1	5	prosodic|prosody	#FFFFCC	0.0620419970626808
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	2	5	phonetic	#FFF1A9	0.113846793923436
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	3	5	syllable|syllables	#FFF1A9	0.148319147626839
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	4	5		#FFF1A9	0.189684324058222
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	5	5	lip|production	#FFF1A9	0.125546958437045
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	6	5	somatotopic	#FFFFCC	0.0697258849400925
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	7	5		#FECB68	0.399546820503145
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	8	5		#FDAD4A	0.452471846589924
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	9	5	empathy	#FDAD4A	0.492674415360526
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	10	5		#FD913D	0.570985814291824
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	11	5	disorder	#FD913D	0.534435211702586
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	12	5		#FD913D	0.567369356845159
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	13	5		#FD913D	0.515160994281077
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	14	5		#FDAD4A	0.493728122910031
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	15	5		#FD913D	0.519266402018192
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	16	5		#FD913D	0.561895152625699
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	17	5		#FC622F	0.604510450872127
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	18	5	mental	#F03623	0.733293829425644
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	19	5	go	#F03623	0.704783819904081
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	20	5	object	#FC622F	0.667326055847133
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	21	5		#FC622F	0.6694555029717
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	22	5		#FD913D	0.583614986835475
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	23	5	word|words	#FECB68	0.382872267258831
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	1	6		#FECB68	0.357782183072369
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	2	6		#FECB68	0.362938719100962
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	3	6		#FECB68	0.353891268972974
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	4	6	vocal	#FFFFCC	0.0735930864587217
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	5	6	articulatory	#FFFFCC	0.027913391680982
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	6	6		#FEE188	0.269136857011087
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	7	6	oddball	#FDAD4A	0.418420219549925
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	8	6	perceived	#FDAD4A	0.460932741978256
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	9	6	errorrelated	#FDAD4A	0.439924241221816
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	10	6	approach	#FDAD4A	0.48963930940257
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	11	6	schizophrenia	#FD913D	0.525425548255928
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	12	6	acquisition	#FECB68	0.39882337757175
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	13	6		#FDAD4A	0.404293679695984
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	14	6		#FEE188	0.253858729970035
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	15	6		#FEE188	0.276825626969128
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	16	6		#FECB68	0.320607971926991
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	17	6		#FDAD4A	0.441373482484859
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	18	6		#FD913D	0.5317370566894
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	19	6		#FD913D	0.590727674535927
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	20	6	objects	#FC622F	0.685063971496476
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	21	6		#FC622F	0.604144921122731
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	22	6		#FDAD4A	0.442080177383042
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	23	6	language|semantic	#FECB68	0.313118639394536
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	1	7	dopamine|dopaminergic	#FECB68	0.388921549782508
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	2	7		#FDAD4A	0.459476177394087
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	3	7		#FD913D	0.567288346380063
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	4	7		#FD913D	0.560905024582487
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	5	7		#FD913D	0.572385890445311
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	6	7		#FDAD4A	0.478389936251438
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	7	7		#FDAD4A	0.498983310155341
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	8	7		#FD913D	0.518753528816778
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	9	7		#FD913D	0.573062340694069
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	10	7		#FD913D	0.599317012377738
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	11	7		#FD913D	0.571292687136073
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	12	7		#FD913D	0.512005522465969
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	13	7	linguistic|spoken	#FEE188	0.224606878614218
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	14	7		#FEE188	0.200402741782157
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	15	7	comprehension|sentence|sentences|syntactic	#FFF1A9	0.138397889150804
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	16	7		#FEE188	0.221508605328635
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	17	7		#FECB68	0.33727895081053
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	18	7	phonological|reading|read	#FEE188	0.288721903527419
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	19	7		#FD913D	0.520780029779235
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	20	7	perceptual|recognition	#FC622F	0.67884676036153
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	21	7		#FC622F	0.608702356814382
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	22	7		#FDAD4A	0.470301565028614
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	23	7	verb	#FDAD4A	0.43136665722173
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	1	8	outcome|reward	#FDAD4A	0.459972579894662
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	2	8	anticipation	#FDAD4A	0.408494884293139
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	3	8	outcomes	#FDAD4A	0.482378490132552
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	4	8	choice|choices	#FD913D	0.572123931152967
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	5	8	decisions|probability	#FC622F	0.613110589950656
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	6	8	reversal	#FDAD4A	0.491364680834686
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	7	8	classification|incorrect	#FECB68	0.308766853852109
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	8	8		#FD913D	0.529849231901524
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	9	8	agerelated|fluency|probes	#FDAD4A	0.437493428807724
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	10	8	engaged	#FD913D	0.577919385162851
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	11	8	explicit|knowledge	#FDAD4A	0.469289431892765
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	12	8		#FDAD4A	0.40414634097206
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	13	8		#FEE188	0.24217523919125
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	14	8		#FFF1A9	0.181426602013691
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	15	8		#FFF1A9	0.172037725398491
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	16	8		#FFF1A9	0.194627754116382
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	17	8	lexical	#FFF1A9	0.193332466615229
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	18	8		#FECB68	0.388054570248937
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	19	8		#FDAD4A	0.489540806591221
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	20	8		#FC622F	0.603651678460268
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	21	8	encoding	#FC622F	0.675654729499834
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	22	8	retrieval	#FC622F	0.65030600888698
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	23	8	verbal	#FD913D	0.526495413769279
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	1	9	incentive|monetary|money|rewards	#FECB68	0.338013161688939
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	2	9	loss	#FDAD4A	0.423714635823324
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	3	9		#FD913D	0.584335758629036
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	4	9		#FC622F	0.63780247165108
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	5	9	decisionmaking	#FD913D	0.579682139039587
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	6	9		#FC622F	0.622503331416987
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	7	9		#FC622F	0.614572839231965
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	8	9		#FD913D	0.589088649837588
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	9	9		#FD913D	0.5849757610943
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	10	9		#FD913D	0.515680095427021
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	11	9		#FDAD4A	0.409142705421627
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	12	9		#FECB68	0.337785482818226
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	13	9	noun	#FFFFCC	0.0876659030726759
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	14	9	meaning	#FFF1A9	0.168012100599787
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	15	9	english	#FFF1A9	0.147460142556631
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	16	9	pseudoword|pseudowords	#FFF1A9	0.164802242181332
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	17	9		#FECB68	0.306191637231168
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	18	9		#FDAD4A	0.450987321843964
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	19	9	familiar|judgment	#FD913D	0.562191159810897
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	20	9	pair|pairs	#FDAD4A	0.485075462937543
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	21	9		#FC622F	0.662011917662361
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	22	9		#FC622F	0.68108967297245
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	23	9	letter|working	#FC622F	0.678584438461103
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	1	10	losses|reinforcement|win	#FECB68	0.312617256951767
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	2	10	gain	#FDAD4A	0.412353274435042
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	3	10	expectation	#FECB68	0.381380499832998
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	4	10	risk	#FC622F	0.624219883639233
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	5	10	fact	#FDAD4A	0.459353434640376
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	6	10	associative	#FC622F	0.693461756391666
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	7	10	familiarity|judgments|old	#FD913D	0.576020621740562
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	8	10	contextual|text	#FD913D	0.582070778709604
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	9	10	recall|retrieved	#FD913D	0.551761693580354
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	10	10	conceptual|semantically	#FEE188	0.22907092512786
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	11	10	grammatical|speakers	#FEE188	0.205612672297449
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	12	10	nouns	#FFF1A9	0.107258928826911
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	13	10	japanese	#FFF1A9	0.150816637254468
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	14	10	languages	#FFF1A9	0.118561052297164
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	15	10	written	#FEE188	0.2000898750554
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	16	10	chinese|phonology	#FEE188	0.238860068798095
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	17	10	orthographic	#FECB68	0.34188072307011
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	18	10		#FD913D	0.536370700058493
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	19	10		#FD913D	0.582105268739546
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	20	10	association|decision	#FC622F	0.641525142441137
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	21	10	selection	#FC622F	0.6349019353284
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	22	10	letters	#FC622F	0.632896512555829
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	23	10	demand|load	#F03623	0.711840063731538
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	1	11	conditioned|conditioning	#FEE188	0.272439929283034
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	2	11		#FDAD4A	0.490970712002937
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	3	11	drug|placebo	#FD913D	0.507174743523239
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	4	11		#FC622F	0.655856679139623
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	5	11	associations	#FC622F	0.637226910608496
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	6	11		#F03623	0.778179676449492
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	7	11	episodic|recollection	#F03623	0.704680972973502
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	8	11		#F03623	0.776612676322421
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	9	11		#FD913D	0.555112625511436
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	10	11	concepts	#FEE188	0.220813847692024
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	11	11		#FEE188	0.292304432155593
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	12	11		#FEE188	0.239746920367515
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	13	11	german	#FFF1A9	0.114825045962279
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	14	11	readers	#FEE188	0.211651968900332
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	15	11	character|name|naming	#FEE188	0.24579443773048
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	16	11		#FDAD4A	0.413679363162226
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	17	11	novel	#FD913D	0.539448215175376
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	18	11		#FD913D	0.587377932637608
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	19	11	child|children	#FD913D	0.510429842973958
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	20	11	adults	#FC622F	0.676546338181256
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	21	11	ability|feedback|learning	#FC622F	0.686790493881548
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	22	11	cues|delay	#D7141E	0.862393859156764
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	23	11	attentional|difficulty|targets	#B10026	0.923924865889572
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	1	12	aversive|shock	#FECB68	0.311235593666375
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	2	12	reactivity	#FDAD4A	0.439327800279344
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	3	12	males|sex|women	#FDAD4A	0.455858040215338
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	4	12	animal	#FDAD4A	0.437183825071115
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	5	12	animals	#FECB68	0.359176741653007
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	6	12		#F03623	0.730276598852181
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	7	12	remember|subsequent	#FD913D	0.570831399072078
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	8	12	autobiographical|memories	#FD913D	0.587465771977531
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	9	12		#FDAD4A	0.496750904787676
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	10	12	violation|violations	#FFF1A9	0.123794059606519
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	11	12	aphasia	#FECB68	0.306816230782495
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	12	12	nonwords	#FEE188	0.228183793152618
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	13	12	dyslexia	#FFF1A9	0.169462019368861
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	14	12		#FECB68	0.378301784612856
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	15	12	priming	#FECB68	0.377695599598623
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	16	12		#FD913D	0.547582593640121
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	17	12	category|repetition	#FD913D	0.520756180582586
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	18	12		#FC622F	0.627502128486053
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	19	12	developmental|development	#FD913D	0.56714892694815
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	20	12		#FC622F	0.686174968945255
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	21	12	space	#F03623	0.76359521726937
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	22	12		#F03623	0.763510712322986
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	23	12	color	#F03623	0.763152649937857
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	1	13	threat	#FECB68	0.352723516157543
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	2	13	regulation	#FECB68	0.385725312530859
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	3	13		#FD913D	0.534448090452926
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	4	13	masked	#FDAD4A	0.405602519021172
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	5	13	scene|scenes	#FD913D	0.565293124510963
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	6	13		#FC622F	0.653376505036304
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	7	13	confidence|remembered	#FC622F	0.639213807543573
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	8	13		#FC622F	0.661571245902738
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	9	13		#FDAD4A	0.494438847889961
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	10	13	ambiguity|ambiguous	#FFF1A9	0.195367385200421
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	11	13		#FECB68	0.370474188326051
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	12	13		#FDAD4A	0.403641253094678
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	13	13	writing	#FEE188	0.223640912044336
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	14	13		#FDAD4A	0.497467235692587
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	15	13	categorization|congruency|prime	#FDAD4A	0.434611514870031
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	16	13		#FC622F	0.62181631759176
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	17	13	mask	#FC622F	0.626775162897111
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	18	13		#FC622F	0.674660247829901
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	19	13		#FC622F	0.676798490248805
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	20	13		#FC622F	0.674447152235713
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	21	13	conflict|congruent|incongruent	#FD913D	0.566583397433986
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	22	13	errors	#FC622F	0.638513797327912
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	23	13	maintenance|probe|wm	#FD913D	0.599566228468721
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	1	14	angry|fearful|happy	#FEE188	0.281886028055465
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	2	14		#FECB68	0.375774668510626
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	3	14	awareness|conscious|ptsd	#FECB68	0.338882159588923
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	4	14		#FC622F	0.611203013808738
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	5	14	houses|photographs	#FEE188	0.270817294468006
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	6	14		#FC622F	0.674139940203146
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	7	14	hits	#FDAD4A	0.460303596528303
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	8	14	famous	#FEE188	0.280576033304695
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	9	14	names	#FEE188	0.221479957830472
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	10	14	family	#FEE188	0.290241564891124
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	11	14	competition|mouth	#FECB68	0.377697582644131
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	12	14	abilities	#FDAD4A	0.441028261839662
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	13	14	implicit|unfamiliar	#FDAD4A	0.430774413937873
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	14	14		#FD913D	0.542084814757931
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	15	14	tom	#F03623	0.70058540445378
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	16	14		#FC622F	0.696210576506335
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	17	14		#F03623	0.742267427471288
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	18	14	stop	#FC622F	0.605239191496018
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	19	14	inhibition|inhibitory|nogo	#FD913D	0.579832406608876
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	20	14	monitoring|stroop	#FC622F	0.617678732977382
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	21	14	interference	#FC622F	0.610770699617291
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	22	14		#FC622F	0.670288121414963
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	23	14	demands|executive	#FC622F	0.617927075304655
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	1	15	anger	#FEE188	0.249103722462556
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	2	15	stress	#FECB68	0.370390957192709
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	3	15	feelings	#FEE188	0.293396961994613
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	4	15	salient	#FD913D	0.554373353919104
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	5	15	novelty	#FC622F	0.629757356768165
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	6	15	movie	#FC622F	0.697485535070532
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	7	15		#FC622F	0.674720904312193
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	8	15		#FC622F	0.611758384246879
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	9	15	longterm	#FD913D	0.5042236494894
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	10	15		#FC622F	0.601706066844296
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	11	15	reasoning|relational	#FD913D	0.51832376963639
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	12	15		#FD913D	0.596775426130874
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	13	15	presentations	#FECB68	0.36672782420598
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	14	15		#FD913D	0.576560895235776
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	15	15	identity	#FDAD4A	0.479256973227252
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	16	15		#F03623	0.711020274916073
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	17	15	strategies|strategy	#FC622F	0.630212818534416
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	18	15	card|cards	#FC622F	0.622148667864718
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	19	15	gonogo	#FD913D	0.538577364972948
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	20	15		#FC622F	0.677812227685985
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	21	15	switching|switch	#FC622F	0.659645489454668
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	22	15		#F03623	0.70503377287753
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	23	15	2back|rule	#FC622F	0.679601385279486
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	1	16	emotionally|mood|personality|sadness	#FECB68	0.326122981874054
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	2	16	disgust|sexual	#FECB68	0.320128117993859
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	3	16	olfactory	#FFF1A9	0.183596098381327
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	4	16	physiological	#FDAD4A	0.477454507016122
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	5	16	depressed|depressive|habituation	#FECB68	0.346572562379919
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	6	16	schizophrenic	#FECB68	0.36720726522236
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	7	16	colors|contexts	#FDAD4A	0.451793880598246
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	8	16	aging|encoded	#FDAD4A	0.444589080070736
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	9	16	goal	#FDAD4A	0.484952247406955
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	10	16		#FC622F	0.66702657897759
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	11	16	autism|autistic|nonverbal	#FD913D	0.504052661523736
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	12	16		#FC622F	0.684141018641196
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	13	16	bottomup|repetitions	#FD913D	0.572542611079214
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	14	16	adaptation	#FDAD4A	0.499282561356084
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	15	16	irrelevant	#FC622F	0.652524252118287
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	16	16	distractor|distractors	#FC622F	0.624775162922936
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	17	16		#F03623	0.732230032444544
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	18	16	subtraction	#FDAD4A	0.481707080525251
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	19	16	1back|nback	#FC622F	0.62547626702819
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	20	16	manipulation|rules	#FC622F	0.666134771308276
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	21	16		#F03623	0.770221255653411
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	22	16		#F03623	0.749768826933864
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	23	16	digit	#FC622F	0.688702178608597
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	1	17	avoidance	#FECB68	0.308945489287101
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	2	17		#FD913D	0.537047331922718
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	3	17	eating|food	#FEE188	0.258193096282645
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	4	17	taste	#FFF1A9	0.153014747913258
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	5	17	bipolar	#FECB68	0.336389476193536
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	6	17	illness|uncertainty	#FDAD4A	0.406959326505873
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	7	17	females|probabilistic	#FDAD4A	0.427825828613852
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	8	17	rejection	#FEE188	0.232007905610431
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	9	17	colour|paired	#FD913D	0.53757430505656
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	10	17		#F03623	0.714391563687612
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	11	17		#F03623	0.715234515164367
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	12	17		#F03623	0.717251020755084
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	13	17	taskirrelevant	#FD913D	0.592380501099832
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	14	17		#F03623	0.769357671230109
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	15	17	suppression	#FD913D	0.512072381861366
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	16	17		#D7141E	0.815480230100604
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	17	17	shifting|shortterm	#FC622F	0.650723189760178
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	18	17	digits	#FC622F	0.630267842418809
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	19	17	search	#F03623	0.737553976182504
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	20	17	counting|taskrelated	#FD913D	0.581202538707551
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	21	17	topdown	#F03623	0.783660369935134
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	22	17	visuospatial	#F03623	0.778702998361082
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	23	17	arithmetic|calculation|solving	#FC622F	0.623255321053566
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	1	18	addiction|craving|drugs	#FDAD4A	0.429660663924444
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	2	18	allele|genotype|polymorphism	#FC622F	0.668781960540165
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	3	18	motivation	#FEE188	0.228245407234069
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	4	18	heart	#FDAD4A	0.449480118682631
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	5	18	sleep	#FDAD4A	0.452126280838776
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	6	18	expectancy	#FC622F	0.607079230936311
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	7	18	phasic|salience	#FDAD4A	0.46168172577964
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	8	18	adolescence|adolescents	#FD913D	0.579205345758583
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	9	18	intelligence|tracking	#FC622F	0.666119606727315
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	10	18		#F03623	0.74102817057658
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	11	18	serial	#FDAD4A	0.419734637730365
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	12	18		#F03623	0.75043853697342
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	13	18	spatially|taskrelevant	#FC622F	0.68981853577536
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	14	18		#D7141E	0.814766264883627
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	15	18	attended|attend|unattended	#F03623	0.705217594439605
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	16	18	rotation|shapes	#F03623	0.712116804983516
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	17	18	rehearsal	#FD913D	0.522165209076576
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	18	18	learned	#FD913D	0.548124090950044
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	19	18		#D7141E	0.819419829103566
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	20	18	cued|preparatory	#F03623	0.795931727448895
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	21	18		#D7141E	0.827396353889968
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	22	18		#F03623	0.773349474986499
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	23	18	numbers|numerical	#F03623	0.709961458496812
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	1	19	future	#FD913D	0.535516285647307
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	2	19	negatively	#FDAD4A	0.476289396277225
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	3	19	distress|epilepsy|selfreported	#FECB68	0.343355811962118
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	4	19	anticipatory|cocaine|probabilities|smoking	#FDAD4A	0.408679643972658
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	5	19	alcohol|amount|impulsivity	#FD913D	0.529638122738122
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	6	19	game|success	#FD913D	0.552445251537815
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	7	19	adhd|childhood|engagement	#FDAD4A	0.439225700760017
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	8	19		#FC622F	0.666973110744114
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	9	19		#F03623	0.731261065315095
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	10	19		#F03623	0.72183554519979
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	11	19		#F03623	0.711717363604898
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	12	19	endogenous	#FD913D	0.559239471190435
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	13	19	cueing|invalid|orienting	#F03623	0.783242686104259
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	14	19		#D7141E	0.832530310051069
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	15	19	multisensory	#FD913D	0.592796420185892
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	16	19		#D7141E	0.815881095507088
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	17	19	shifts	#B10026	0.966102070005464
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	18	19	covert	#FC622F	0.652371452904408
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	19	19		#B10026	0.91365583416625
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	20	19	preparation	#F03623	0.764102424664124
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	21	19	discrimination|training	#F03623	0.700584862541929
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	22	19	sequences	#FD913D	0.596789736439659
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	23	19		#F03623	0.713588135172482
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	1	20	personal|self|selfreferential|trait|traits	#FDAD4A	0.410783678964302
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	2	20	empathic|theory	#FD913D	0.543830549694773
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	3	20	attribution|intentional	#FECB68	0.371784618464704
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	4	20	elderly|oscillations	#FD913D	0.535563253135421
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	5	20	antipsychotic|virtual	#FDAD4A	0.445012823961147
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	6	20		#F03623	0.715570241059718
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	7	20	experiences	#FECB68	0.395676390387816
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	8	20	categorical|pressure	#FEE188	0.28719169047337
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	9	20	play|skills	#FECB68	0.346545081697709
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	10	20	automatic|trained	#FDAD4A	0.482540501499131
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	11	20		#FC622F	0.651766204023757
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	12	20	practice	#FC622F	0.65220487964457
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	13	20	visuomotor	#F03623	0.766585213281845
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	14	20		#D7141E	0.83784183895217
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	15	20	tool	#FD913D	0.567012731121688
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	16	20	vision	#F03623	0.734975787160302
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	17	20	visually	#F03623	0.774965543633593
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	18	20	saccade|saccades|saccadic	#B10026	0.978936606754932
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	19	20	locations	#B10026	0.939987973977067
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	20	20	imagery|planning	#F03623	0.728902268053816
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	21	20		#F03623	0.786731153230086
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	22	20	rest	#FC622F	0.623236190541036
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	23	20	sequence	#FC622F	0.618725661924153
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	1	21	scenarios	#FFF1A9	0.111706630118865
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	2	21	intention|intentions	#FECB68	0.383466969058335
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	3	21	causality|perspective	#FD913D	0.514093060768294
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	4	21	past	#FDAD4A	0.492678081135494
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	5	21		#F03623	0.740310127909463
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	6	21	episode	#FECB68	0.380105192783141
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	7	21	improvement	#FEE188	0.289531179007042
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	8	21	masking|retention	#FC622F	0.61847423501825
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	9	21		#FC622F	0.641438376442856
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	10	21	dominant	#FDAD4A	0.489061885302206
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	11	21		#FD913D	0.507569153954666
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	12	21	sequential	#FDAD4A	0.472521218934529
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	13	21	fingers	#FECB68	0.380895231186
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	14	21		#F03623	0.78649511860405
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	15	21	gesture|gestures	#FDAD4A	0.477177581169669
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	16	21		#D7141E	0.836507912159905
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	17	21	hands	#D7141E	0.877651689542951
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	18	21		#B10026	0.955178841151736
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	19	21		#B10026	0.967525046427282
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	20	21	eye|position	#B10026	1
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	21	21	execution	#FC622F	0.669121711285384
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	22	21	finger|sensorimotor	#FD913D	0.532164881945959
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	23	21		#FC622F	0.62417210806244
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	1	22	moral|stories|story	#FFF1A9	0.161579032335703
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	2	22	mentalizing|persons	#FECB68	0.312717981378925
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	3	22	default|restingstate	#FDAD4A	0.478186186512008
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	4	22	thinking|thought|thoughts	#FD913D	0.570252101722038
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	5	22	spontaneous	#F03623	0.738640224703466
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	6	22	concentration|sensations	#FEE188	0.265646211288921
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	7	22	hierarchical|preference	#FC622F	0.639342722873975
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	8	22	effort|oral|simulation	#FECB68	0.350129425003086
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	9	22	interhemispheric|plasticity	#FECB68	0.350737464669173
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	10	22	imagined|imagine	#FD913D	0.548590280267938
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	11	22	tapping	#FECB68	0.387849817406157
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	12	22	foot|muscle|muscles|voluntary	#FFF1A9	0.107828556492335
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	13	22	limb	#FEE188	0.280751618056237
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	14	22	eyes|velocity	#F03623	0.736783327551997
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	15	22	biological|gaze|videos	#FC622F	0.658918241442255
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	16	22	body	#FC622F	0.672980420234813
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	17	22	grasping|orientation|reaching	#F03623	0.705109803755857
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	18	22		#B10026	0.904964524233754
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	19	22	mirror|shape	#F03623	0.739808536180536
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	20	22	actions	#F03623	0.746714513903772
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	21	22	action	#F03623	0.784814101612766
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	22	22		#FC622F	0.674709212020423
+46c912e2-bed9-391c-aadc-a05807a6cbdc	Snyder AZ	23	22	hand|movements|sensory	#FD913D	0.561358546371913

@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	1	1	auditory|speech	#FC622F	0.616011360531589
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	2	1		#FD913D	0.569136695079472
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	3	1	da|integration	#FD913D	0.529396529076005
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	4	1		#FD913D	0.531287763735667
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	5	1	physical|psychophysical|tactile	#FEE188	0.297356095240888
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	6	1		#FECB68	0.370576649960865
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	7	1	somatosensory|stimulation	#FECB68	0.332638377890751
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	8	1	painful|pain	#FECB68	0.350116022647938
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	9	1		#FECB68	0.392352681088502
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	10	1	ratings	#FD913D	0.529041611618082
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	11	1	affective|affect	#FD913D	0.531818061037456
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	12	1	emotions	#FC622F	0.60858870150221
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	13	1	expression|expressions|facial	#FD913D	0.538824967611877
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	14	1		#FC622F	0.66146281528861
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	15	1		#FC622F	0.630829364802971
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	16	1	emotion|motion|neutral	#FC622F	0.606387715147799
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	17	1	rating	#FD913D	0.559640079214611
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	18	1	negative|positive	#FD913D	0.559440901733691
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	19	1		#FD913D	0.560539403938696
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	20	1	ear|order	#FD913D	0.555176268568284
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	21	1	motor	#FECB68	0.37365549773901
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	22	1	visual	#FDAD4A	0.474916367499242
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	23	1	age|image|response	#FD913D	0.559590592025196
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	1	2	sound|sounds	#FDAD4A	0.485192199223968
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	2	2		#FD913D	0.559534059597449
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	3	2	audiovisual|bimodal|crossmodal	#FDAD4A	0.480452313899734
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	4	2		#FD913D	0.532734877016553
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	5	2		#FDAD4A	0.434880410218666
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	6	2		#FECB68	0.386611298851416
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	7	2	sensation	#FEE188	0.258661044514493
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	8	2	heat|noxious	#FEE188	0.276612569833965
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	9	2		#FDAD4A	0.402430380372064
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	10	2		#FD913D	0.510388353857548
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	11	2		#FD913D	0.557957678591733
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	12	2	valence	#FD913D	0.530350612060087
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	13	2	person|social	#B10026	0.966517382336552
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	14	2		#FC622F	0.655639092097505
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	15	2	face|faces	#FD913D	0.53638720026742
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	16	2		#FC622F	0.632586343018639
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	17	2		#FC622F	0.624141456805737
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	18	2		#FC622F	0.601523405088411
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	19	2		#FD913D	0.56353697444927
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	20	2		#FD913D	0.509948340572665
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	21	2	images|spatial	#FD913D	0.515451709532499
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	22	2	control	#FD913D	0.533327046886609
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	23	2	time	#FD913D	0.545042816225682
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	1	3	acoustic|listening|musical|music|pitch	#FDAD4A	0.499511793646336
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	2	3	noise|tones	#FDAD4A	0.438009427321858
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	3	3		#FD913D	0.586413511647293
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	4	3		#FD913D	0.552226526744421
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	5	3	frequency	#FDAD4A	0.423527127698154
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	6	3		#FDAD4A	0.475202943958843
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	7	3		#FECB68	0.374706157413551
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	8	3	temperature	#FECB68	0.310252726065181
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	9	3		#FECB68	0.397411628088299
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	10	3	pleasant|unpleasant	#FEE188	0.289439038819698
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	11	3	anxiety	#FECB68	0.359553312577787
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	12	3		#FD913D	0.585025819296576
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	13	3		#FC622F	0.641540460816509
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	14	3		#FC622F	0.622421620664431
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	15	3		#FC622F	0.627142479826814
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	16	3	picture	#FD913D	0.549844155039375
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	17	3		#FC622F	0.663550837687803
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	18	3	value	#FD913D	0.58235483557602
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	19	3	cue	#FDAD4A	0.461137539269302
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	20	3	error|target	#FDAD4A	0.496529930498342
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	21	3	attention	#FDAD4A	0.496677177565852
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	22	3		#FD913D	0.547057948005542
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	23	3	number	#FD913D	0.556282436240472
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	1	4	voice	#FC622F	0.643771344849411
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	2	4		#FC622F	0.600366385558223
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	3	4	hearing	#FD913D	0.514156869263293
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	4	4		#FD913D	0.510646876307163
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	5	4	overt	#FDAD4A	0.437474680552618
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	6	4		#FDAD4A	0.467846938237795
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	7	4		#FDAD4A	0.44601471880722
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	8	4	nociceptive|nonpainful|painrelated	#FEE188	0.299537982610371
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	9	4	unpleasantness	#FDAD4A	0.493482421813567
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	10	4	skin|subjective	#FDAD4A	0.411309952333594
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	11	4	depression	#FDAD4A	0.453866278432697
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	12	4	experience	#FD913D	0.580083034455253
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	13	4	female	#FECB68	0.385045149547187
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	14	4	male	#FC622F	0.609480463332453
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	15	4	pictures	#FD913D	0.532356832270555
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	16	4		#FC622F	0.690492876210583
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	17	4	perception	#FC622F	0.683693819015172
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	18	4		#FC622F	0.632221224260279
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	19	4		#FD913D	0.59188239233251
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	20	4		#FD913D	0.564013064771933
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	21	4	correct	#FD913D	0.567990403051264
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	22	4	work	#FDAD4A	0.48970363356708
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	23	4	memory	#FD913D	0.568284080180479
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	1	5	prosodic|prosody	#F03623	0.741525113517254
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	2	5	phonetic	#FD913D	0.508401172484991
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	3	5	syllable|syllables	#FD913D	0.514706266469639
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	4	5		#FD913D	0.502378295694572
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	5	5	lip|production	#FECB68	0.309615246360805
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	6	5	somatotopic	#FECB68	0.341270164251124
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	7	5		#FD913D	0.530742086989548
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	8	5		#FC622F	0.604689658086663
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	9	5	empathy	#FC622F	0.677757746810559
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	10	5		#FC622F	0.642875182412025
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	11	5	disorder	#FD913D	0.555566970953105
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	12	5		#FC622F	0.63350184877962
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	13	5		#F03623	0.739719132323443
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	14	5		#F03623	0.785842079178371
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	15	5		#D7141E	0.812262251240674
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	16	5		#D7141E	0.813456593808879
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	17	5		#D7141E	0.805747857512342
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	18	5	mental	#FC622F	0.679667907710319
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	19	5	go	#FC622F	0.610781098970448
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	20	5	object	#FDAD4A	0.478187239533479
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	21	5		#FC622F	0.611058127617409
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	22	5		#FC622F	0.660415255794743
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	23	5	word|words	#FC622F	0.650362331430803
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	1	6		#FC622F	0.65803301305146
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	2	6		#FC622F	0.6685021469952
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	3	6		#FD913D	0.598322504846711
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	4	6	vocal	#FDAD4A	0.467872812507141
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	5	6	articulatory	#FECB68	0.32800361184278
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	6	6		#FD913D	0.509235355532585
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	7	6	oddball	#FD913D	0.527093544795077
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	8	6	perceived	#FD913D	0.57823607569107
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	9	6	errorrelated	#FD913D	0.543102269008655
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	10	6	approach	#FD913D	0.526886453021695
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	11	6	schizophrenia	#FD913D	0.540537070408201
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	12	6	acquisition	#FD913D	0.569693216677505
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	13	6		#D7141E	0.819345075533372
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	14	6		#D7141E	0.893856581001482
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	15	6		#B10026	0.905339278697399
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	16	6		#D7141E	0.89420837063346
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	17	6		#F03623	0.723764058728208
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	18	6		#FC622F	0.654515372758765
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	19	6		#FC622F	0.649580935002724
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	20	6	objects	#FDAD4A	0.496021088949029
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	21	6		#FC622F	0.654440659605121
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	22	6		#FC622F	0.690217096705772
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	23	6	language|semantic	#F03623	0.718260808359631
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	1	7	dopamine|dopaminergic	#FEE188	0.263279294752711
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	2	7		#FECB68	0.317061522589968
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	3	7		#FD913D	0.529441445169829
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	4	7		#FD913D	0.594793732294232
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	5	7		#FC622F	0.607754505068369
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	6	7		#FC622F	0.61494530753466
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	7	7		#FC622F	0.613029245934455
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	8	7		#F03623	0.720456475165968
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	9	7		#F03623	0.741164472938177
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	10	7		#D7141E	0.825274173345706
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	11	7		#F03623	0.762687632195779
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	12	7		#F03623	0.798554713037076
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	13	7	linguistic|spoken	#F03623	0.746247333541696
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	14	7		#D7141E	0.881400605772578
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	15	7	comprehension|sentence|sentences|syntactic	#D7141E	0.899438283196839
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	16	7		#D7141E	0.834813275755079
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	17	7		#FC622F	0.684456195487313
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	18	7	phonological|reading|read	#FD913D	0.587105070865411
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	19	7		#FC622F	0.637753195784297
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	20	7	perceptual|recognition	#FC622F	0.662521738638599
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	21	7		#FC622F	0.654834100590335
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	22	7		#FC622F	0.680947312947249
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	23	7	verb	#FC622F	0.656402194629489
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	1	8	outcome|reward	#FEE188	0.219401570885484
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	2	8	anticipation	#FEE188	0.241251852052795
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	3	8	outcomes	#FEE188	0.282250943017031
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	4	8	choice|choices	#FDAD4A	0.450647747638574
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	5	8	decisions|probability	#FD913D	0.573663272366213
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	6	8	reversal	#FDAD4A	0.454856088216581
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	7	8	classification|incorrect	#FD913D	0.511999176838741
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	8	8		#FC622F	0.651551904865505
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	9	8	agerelated|fluency|probes	#FC622F	0.676743303288569
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	10	8	engaged	#F03623	0.752158618104324
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	11	8	explicit|knowledge	#D7141E	0.845281789236898
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	12	8		#D7141E	0.823226995773445
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	13	8		#D7141E	0.825920943830426
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	14	8		#D7141E	0.835109642060415
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	15	8		#D7141E	0.803464661085836
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	16	8		#F03623	0.767161407914386
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	17	8	lexical	#FD913D	0.545876977393381
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	18	8		#FC622F	0.621855838779712
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	19	8		#FC622F	0.654333919231247
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	20	8		#FC622F	0.663614129908179
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	21	8	encoding	#FD913D	0.53196800674239
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	22	8	retrieval	#FD913D	0.597220819064348
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	23	8	verbal	#FD913D	0.589082650762212
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	1	9	incentive|monetary|money|rewards	#FFF1A9	0.14760535559783
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	2	9	loss	#FEE188	0.251587516788684
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	3	9		#FDAD4A	0.42248133166012
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	4	9		#FD913D	0.504449061526765
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	5	9	decisionmaking	#FC622F	0.638655775907962
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	6	9		#FD913D	0.577966751634767
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	7	9		#FD913D	0.571117434220486
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	8	9		#FC622F	0.613363038687456
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	9	9		#F03623	0.714993171390025
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	10	9		#D7141E	0.83220522143673
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	11	9		#D7141E	0.836248214917543
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	12	9		#F03623	0.791215872523212
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	13	9	noun	#FC622F	0.665153196385786
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	14	9	meaning	#F03623	0.733411589482177
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	15	9	english	#FD913D	0.520979995527117
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	16	9	pseudoword|pseudowords	#FD913D	0.515834364284488
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	17	9		#FC622F	0.626636928879503
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	18	9		#FC622F	0.651039231569998
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	19	9	familiar|judgment	#FC622F	0.652456323327546
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	20	9	pair|pairs	#FC622F	0.694856887181268
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	21	9		#FC622F	0.627940566422223
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	22	9		#FD913D	0.556568618774086
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	23	9	letter|working	#FDAD4A	0.462664454066944
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	1	10	losses|reinforcement|win	#FDAD4A	0.42658476150275
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	2	10	gain	#FFF1A9	0.16184921285167
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	3	10	expectation	#FEE188	0.254017410808641
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	4	10	risk	#FECB68	0.367201536541432
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	5	10	fact	#FECB68	0.396262783195493
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	6	10	associative	#FECB68	0.365270454453056
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	7	10	familiarity|judgments|old	#FD913D	0.600010665649242
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	8	10	contextual|text	#FDAD4A	0.428470865899482
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	9	10	recall|retrieved	#FD913D	0.548348833810166
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	10	10	conceptual|semantically	#D7141E	0.810264313583216
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	11	10	grammatical|speakers	#FC622F	0.679379518925814
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	12	10	nouns	#FC622F	0.628343169744031
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	13	10	japanese	#FD913D	0.54176805639107
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	14	10	languages	#FDAD4A	0.466951325444585
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	15	10	written	#FD913D	0.526174294302192
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	16	10	chinese|phonology	#FDAD4A	0.422962889800169
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	17	10	orthographic	#FDAD4A	0.474158246028458
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	18	10		#FC622F	0.675514227615875
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	19	10		#F03623	0.703808600751005
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	20	10	association|decision	#FC622F	0.640703827000918
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	21	10	selection	#FD913D	0.505569103819867
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	22	10	letters	#FECB68	0.371850667201683
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	23	10	demand|load	#FDAD4A	0.458912467321125
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	1	11	conditioned|conditioning	#FFFFCC	0
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	2	11		#FEE188	0.241749677993364
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	3	11	drug|placebo	#FECB68	0.301935184228428
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	4	11		#FECB68	0.372069469300742
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	5	11	associations	#FDAD4A	0.428939859853391
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	6	11		#FDAD4A	0.493430580480406
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	7	11	episodic|recollection	#FDAD4A	0.444672938131152
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	8	11		#FD913D	0.522483052756739
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	9	11		#F03623	0.769465700880102
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	10	11	concepts	#B10026	0.907745489116799
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	11	11		#D7141E	0.813347609105823
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	12	11		#F03623	0.743550158416841
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	13	11	german	#FDAD4A	0.4293567404208
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	14	11	readers	#FC622F	0.604465281993726
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	15	11	character|name|naming	#FDAD4A	0.403123947721321
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	16	11		#FDAD4A	0.498795082962572
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	17	11	novel	#FD913D	0.521302952542235
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	18	11		#FC622F	0.621708397168275
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	19	11	child|children	#FC622F	0.683600088316621
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	20	11	adults	#FC622F	0.63795898170608
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	21	11	ability|feedback|learning	#FDAD4A	0.459010984909011
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	22	11	cues|delay	#FECB68	0.395756745986578
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	23	11	attentional|difficulty|targets	#FD913D	0.503259497747456
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	1	12	aversive|shock	#FEE188	0.210207958047113
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	2	12	reactivity	#FFF1A9	0.187191260490064
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	3	12	males|sex|women	#FEE188	0.224846237480169
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	4	12	animal	#FFF1A9	0.175958995136786
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	5	12	animals	#FFF1A9	0.137637431519596
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	6	12		#FDAD4A	0.431909665581604
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	7	12	remember|subsequent	#FECB68	0.371615465657077
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	8	12	autobiographical|memories	#FDAD4A	0.471317640671239
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	9	12		#F03623	0.781989862554847
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	10	12	violation|violations	#FD913D	0.590614597458191
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	11	12	aphasia	#F03623	0.756728724664639
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	12	12	nonwords	#FC622F	0.630024554264737
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	13	12	dyslexia	#FC622F	0.617622264581823
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	14	12		#FC622F	0.622921101706216
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	15	12	priming	#FDAD4A	0.45866882822179
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	16	12		#FD913D	0.559388603392007
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	17	12	category|repetition	#FDAD4A	0.45847873257438
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	18	12		#FC622F	0.623490820497282
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	19	12	developmental|development	#FD913D	0.59900827770795
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	20	12		#FC622F	0.616374968316845
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	21	12	space	#FDAD4A	0.472614971947991
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	22	12		#FD913D	0.508879412868395
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	23	12	color	#FDAD4A	0.473060165872679
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	1	13	threat	#FEE188	0.230623471284681
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	2	13	regulation	#FECB68	0.325618413432084
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	3	13		#FECB68	0.351219463185375
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	4	13	masked	#FEE188	0.277379191524748
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	5	13	scene|scenes	#FEE188	0.275795669037403
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	6	13		#FECB68	0.379303936598758
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	7	13	confidence|remembered	#FECB68	0.300687842055817
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	8	13		#FD913D	0.510398471979641
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	9	13		#F03623	0.743274521749936
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	10	13	ambiguity|ambiguous	#FECB68	0.386474928448782
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	11	13		#F03623	0.772804639883417
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	12	13		#FC622F	0.67148111750438
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	13	13	writing	#FECB68	0.318125729817279
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	14	13		#FC622F	0.637942507582663
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	15	13	categorization|congruency|prime	#FC622F	0.613086668469002
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	16	13		#FD913D	0.590807631938785
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	17	13	mask	#FD913D	0.513455701614778
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	18	13		#FC622F	0.60640820203629
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	19	13		#FC622F	0.613278714561672
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	20	13		#FD913D	0.570447881326861
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	21	13	conflict|congruent|incongruent	#FDAD4A	0.490442220554146
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	22	13	errors	#FD913D	0.536616003030522
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	23	13	maintenance|probe|wm	#FDAD4A	0.492235681620576
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	1	14	angry|fearful|happy	#FEE188	0.296375667923952
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	2	14		#FECB68	0.371179675384726
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	3	14	awareness|conscious|ptsd	#FD913D	0.553831394412548
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	4	14		#FDAD4A	0.431593393982103
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	5	14	houses|photographs	#FFF1A9	0.150442572178465
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	6	14		#FECB68	0.363168790722692
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	7	14	hits	#FEE188	0.22042149977984
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	8	14	famous	#FD913D	0.501249729065057
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	9	14	names	#FD913D	0.528067110747559
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	10	14	family	#FDAD4A	0.426786740033504
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	11	14	competition|mouth	#FC622F	0.679276613205839
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	12	14	abilities	#FDAD4A	0.47774256579803
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	13	14	implicit|unfamiliar	#FD913D	0.574289633610515
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	14	14		#FC622F	0.604083550985874
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	15	14	tom	#D7141E	0.893571121679615
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	16	14		#FD913D	0.576759190736362
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	17	14		#FD913D	0.538563144083903
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	18	14	stop	#FD913D	0.523192550568008
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	19	14	inhibition|inhibitory|nogo	#FDAD4A	0.454852303590594
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	20	14	monitoring|stroop	#FDAD4A	0.454128162978312
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	21	14	interference	#FDAD4A	0.410513550766206
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	22	14		#FDAD4A	0.482836375947266
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	23	14	demands|executive	#FDAD4A	0.46417598071225
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	1	15	anger	#FFF1A9	0.173248658686918
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	2	15	stress	#FEE188	0.27339080983579
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	3	15	feelings	#FDAD4A	0.486733946202067
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	4	15	salient	#FDAD4A	0.399976948351711
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	5	15	novelty	#FECB68	0.302199796689227
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	6	15	movie	#FEE188	0.297588094161408
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	7	15		#FECB68	0.386805391586507
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	8	15		#FDAD4A	0.467970744995979
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	9	15	longterm	#FDAD4A	0.460229237107416
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	10	15		#FC622F	0.689020237282084
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	11	15	reasoning|relational	#FDAD4A	0.424797019111124
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	12	15		#FC622F	0.62770229733392
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	13	15	presentations	#FEE188	0.256508633258452
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	14	15		#FD913D	0.515573442433759
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	15	15	identity	#FDAD4A	0.424106239228484
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	16	15		#FD913D	0.50041136184205
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	17	15	strategies|strategy	#FECB68	0.325973962785952
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	18	15	card|cards	#FC622F	0.609342123040246
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	19	15	gonogo	#FD913D	0.575652635652052
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	20	15		#FDAD4A	0.483490143479258
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	21	15	switching|switch	#FEE188	0.282642266376721
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	22	15		#FDAD4A	0.423240767429429
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	23	15	2back|rule	#FECB68	0.377915106377983
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	1	16	emotionally|mood|personality|sadness	#FECB68	0.355034432448907
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	2	16	disgust|sexual	#FFF1A9	0.100954781068406
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	3	16	olfactory	#FFFFCC	0.0923147443291556
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	4	16	physiological	#FEE188	0.246404022117318
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	5	16	depressed|depressive|habituation	#FECB68	0.307213111378465
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	6	16	schizophrenic	#FEE188	0.258533166822213
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	7	16	colors|contexts	#FFF1A9	0.122670490602369
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	8	16	aging|encoded	#FECB68	0.39288393779886
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	9	16	goal	#FECB68	0.348849699531644
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	10	16		#FC622F	0.670887136264468
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	11	16	autism|autistic|nonverbal	#F03623	0.732837412305599
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	12	16		#FC622F	0.622525408568269
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	13	16	bottomup|repetitions	#FECB68	0.391213848043607
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	14	16	adaptation	#FECB68	0.32532462961467
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	15	16	irrelevant	#FECB68	0.353576947486405
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	16	16	distractor|distractors	#FEE188	0.242088388888156
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	17	16		#FDAD4A	0.454022980023123
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	18	16	subtraction	#FECB68	0.303062493341968
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	19	16	1back|nback	#FECB68	0.326440385632795
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	20	16	manipulation|rules	#FDAD4A	0.409610578474943
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	21	16		#FDAD4A	0.430772955300004
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	22	16		#FDAD4A	0.413510226407137
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	23	16	digit	#FECB68	0.315242991467464
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	1	17	avoidance	#FFFFCC	0.0813974389587855
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	2	17		#FEE188	0.282816862720543
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	3	17	eating|food	#FFF1A9	0.164352964360621
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	4	17	taste	#FFFFCC	0.0937903877088512
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	5	17	bipolar	#FECB68	0.310723809136618
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	6	17	illness|uncertainty	#FECB68	0.396728467997022
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	7	17	females|probabilistic	#FECB68	0.335606860636281
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	8	17	rejection	#FEE188	0.267789607840476
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	9	17	colour|paired	#FDAD4A	0.41165173315943
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	10	17		#FC622F	0.636506917976174
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	11	17		#FC622F	0.674366726089831
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	12	17		#FC622F	0.650138062930958
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	13	17	taskirrelevant	#FECB68	0.36647483267014
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	14	17		#FDAD4A	0.459865303755761
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	15	17	suppression	#FECB68	0.318662292499663
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	16	17		#FDAD4A	0.434782530270058
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	17	17	shifting|shortterm	#FECB68	0.33108298183305
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	18	17	digits	#FECB68	0.332524639716253
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	19	17	search	#FECB68	0.323741425333905
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	20	17	counting|taskrelated	#FD913D	0.508262545339118
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	21	17	topdown	#FDAD4A	0.460190862809334
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	22	17	visuospatial	#FECB68	0.326859003293373
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	23	17	arithmetic|calculation|solving	#FDAD4A	0.409995637764765
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	1	18	addiction|craving|drugs	#FFF1A9	0.175724459388291
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	2	18	allele|genotype|polymorphism	#FEE188	0.274684318581534
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	3	18	motivation	#FECB68	0.329112590012898
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	4	18	heart	#FECB68	0.328500005213479
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	5	18	sleep	#FEE188	0.23008144069026
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	6	18	expectancy	#FDAD4A	0.416991195016586
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	7	18	phasic|salience	#FECB68	0.369280390554528
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	8	18	adolescence|adolescents	#FECB68	0.303948914398146
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	9	18	intelligence|tracking	#FECB68	0.356062662868267
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	10	18		#FC622F	0.613004329762521
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	11	18	serial	#FDAD4A	0.451135672507684
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	12	18		#FC622F	0.636807527115417
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	13	18	spatially|taskrelevant	#FD913D	0.541053960029304
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	14	18		#FD913D	0.500128402090189
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	15	18	attended|attend|unattended	#FECB68	0.371345564738393
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	16	18	rotation|shapes	#FEE188	0.274812086482281
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	17	18	rehearsal	#FECB68	0.316436071425685
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	18	18	learned	#FEE188	0.293224516607509
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	19	18		#FECB68	0.37388942092037
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	20	18	cued|preparatory	#FDAD4A	0.410636125940764
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	21	18		#FDAD4A	0.444659759734503
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	22	18		#FDAD4A	0.450982512838772
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	23	18	numbers|numerical	#FECB68	0.382813877928288
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	1	19	future	#FECB68	0.396686439155027
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	2	19	negatively	#F03623	0.77171203529027
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	3	19	distress|epilepsy|selfreported	#FECB68	0.348789672310224
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	4	19	anticipatory|cocaine|probabilities|smoking	#FFF1A9	0.133519481969398
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	5	19	alcohol|amount|impulsivity	#FEE188	0.279124112665833
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	6	19	game|success	#FFF1A9	0.173652536292772
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	7	19	adhd|childhood|engagement	#FDAD4A	0.438952768291485
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	8	19		#FD913D	0.571806546766686
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	9	19		#FD913D	0.563908864014316
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	10	19		#FD913D	0.574389064600753
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	11	19		#FC622F	0.611080474181011
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	12	19	endogenous	#FD913D	0.565149168403339
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	13	19	cueing|invalid|orienting	#FD913D	0.580259937983739
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	14	19		#FDAD4A	0.485700472837704
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	15	19	multisensory	#FDAD4A	0.419904586403399
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	16	19		#FDAD4A	0.401051691504142
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	17	19	shifts	#FECB68	0.343730177785707
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	18	19	covert	#FEE188	0.233590075590044
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	19	19		#FECB68	0.326805496892251
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	20	19	preparation	#FECB68	0.322828161691904
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	21	19	discrimination|training	#FECB68	0.382194116487794
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	22	19	sequences	#FDAD4A	0.425838233859434
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	23	19		#FDAD4A	0.47741723185219
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	1	20	personal|self|selfreferential|trait|traits	#F03623	0.763337566892028
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	2	20	empathic|theory	#B10026	1
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	3	20	attribution|intentional	#FECB68	0.354821948162614
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	4	20	elderly|oscillations	#FDAD4A	0.411093571270831
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	5	20	antipsychotic|virtual	#FDAD4A	0.454294688260626
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	6	20		#FC622F	0.647462831022869
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	7	20	experiences	#FC622F	0.632484853311558
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	8	20	categorical|pressure	#FD913D	0.526227626103883
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	9	20	play|skills	#FDAD4A	0.428309881985019
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	10	20	automatic|trained	#FD913D	0.534528717530582
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	11	20		#FDAD4A	0.493315826078012
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	12	20	practice	#FDAD4A	0.407118862795732
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	13	20	visuomotor	#FEE188	0.253617052268706
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	14	20		#FDAD4A	0.447015688770344
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	15	20	tool	#FFF1A9	0.199292630002234
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	16	20	vision	#FFF1A9	0.107387344727594
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	17	20	visually	#FECB68	0.305202025893564
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	18	20	saccade|saccades|saccadic	#FFF1A9	0.157667367017496
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	19	20	locations	#FEE188	0.254549502849953
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	20	20	imagery|planning	#FECB68	0.312860523222223
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	21	20		#FECB68	0.391084519446188
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	22	20	rest	#FD913D	0.570399568401173
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	23	20	sequence	#FDAD4A	0.470693793078796
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	1	21	scenarios	#D7141E	0.841804761229722
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	2	21	intention|intentions	#FC622F	0.671682583358791
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	3	21	causality|perspective	#F03623	0.783091436297376
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	4	21	past	#FC622F	0.627475122643772
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	5	21		#F03623	0.761156087853568
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	6	21	episode	#FDAD4A	0.417622653673811
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	7	21	improvement	#FDAD4A	0.410814061414603
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	8	21	masking|retention	#FECB68	0.38042961683945
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	9	21		#FD913D	0.516835286229969
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	10	21	dominant	#FDAD4A	0.407564297662951
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	11	21		#FECB68	0.332566229821377
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	12	21	sequential	#FECB68	0.373928845167726
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	13	21	fingers	#FFF1A9	0.13153993655243
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	14	21		#FDAD4A	0.42354666346741
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	15	21	gesture|gestures	#FD913D	0.597421952749122
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	16	21		#FECB68	0.372899616790653
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	17	21	hands	#FEE188	0.201242093113442
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	18	21		#FECB68	0.329061125438318
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	19	21		#FECB68	0.37644068949998
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	20	21	eye|position	#FECB68	0.310309230397245
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	21	21	execution	#FEE188	0.251356349341307
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	22	21	finger|sensorimotor	#FEE188	0.232073838940852
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	23	21		#FECB68	0.37205509542791
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	1	22	moral|stories|story	#D7141E	0.823651593108318
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	2	22	mentalizing|persons	#F03623	0.770266383366973
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	3	22	default|restingstate	#FC622F	0.607818064122903
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	4	22	thinking|thought|thoughts	#FC622F	0.604883650338325
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	5	22	spontaneous	#FD913D	0.530540102428323
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	6	22	concentration|sensations	#FECB68	0.302994094278435
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	7	22	hierarchical|preference	#FECB68	0.351419992862168
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	8	22	effort|oral|simulation	#FD913D	0.579183681138003
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	9	22	interhemispheric|plasticity	#FDAD4A	0.417559325100711
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	10	22	imagined|imagine	#FEE188	0.236334063843868
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	11	22	tapping	#FFF1A9	0.195986696911896
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	12	22	foot|muscle|muscles|voluntary	#FFF1A9	0.153403549139405
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	13	22	limb	#FFF1A9	0.162924601058169
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	14	22	eyes|velocity	#FFF1A9	0.142987572111277
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	15	22	biological|gaze|videos	#FECB68	0.365583309964208
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	16	22	body	#FECB68	0.39259352156409
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	17	22	grasping|orientation|reaching	#FFF1A9	0.148329042985863
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	18	22		#FECB68	0.344535478541193
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	19	22	mirror|shape	#FDAD4A	0.454627441862873
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	20	22	actions	#FD913D	0.502736563042315
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	21	22	action	#FD913D	0.533879396842988
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	22	22		#FECB68	0.3406297111127
+7cef348d-3ebc-3ad1-bc11-bf0908b711cb	Roepke S	23	22	hand|movements|sensory	#FEE188	0.284830904429018

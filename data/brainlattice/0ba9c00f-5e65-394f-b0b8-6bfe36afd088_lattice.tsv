@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	1	1	auditory|speech	#FECB68	0.373418904382525
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	2	1		#FECB68	0.36813724470978
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	3	1	da|integration	#FD913D	0.5462520572995
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	4	1		#FDAD4A	0.486886799354971
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	5	1	physical|psychophysical|tactile	#FECB68	0.328871537117259
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	6	1		#FECB68	0.34611572780854
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	7	1	somatosensory|stimulation	#FEE188	0.274220845948603
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	8	1	painful|pain	#FFF1A9	0.190739398565139
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	9	1		#FEE188	0.226797193540781
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	10	1	ratings	#FECB68	0.321163517973812
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	11	1	affective|affect	#FEE188	0.24918628249769
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	12	1	emotions	#FEE188	0.293267517119182
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	13	1	expression|expressions|facial	#FECB68	0.364790753520109
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	14	1		#FD913D	0.50962988322084
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	15	1		#FD913D	0.551388997757474
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	16	1	emotion|motion|neutral	#FDAD4A	0.499581662282166
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	17	1	rating	#FECB68	0.391874998658117
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	18	1	negative|positive	#FDAD4A	0.407603033310522
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	19	1		#FD913D	0.576436070882155
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	20	1	ear|order	#FD913D	0.585655510471648
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	21	1	motor	#FD913D	0.520287269456099
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	22	1	visual	#F03623	0.762856086095311
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	23	1	age|image|response	#FC622F	0.625821131538193
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	1	2	sound|sounds	#FEE188	0.269785484005594
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	2	2		#FECB68	0.339691666743517
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	3	2	audiovisual|bimodal|crossmodal	#FD913D	0.510251221099915
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	4	2		#FD913D	0.505492693955086
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	5	2		#FDAD4A	0.477544776062872
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	6	2		#FECB68	0.381941856731073
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	7	2	sensation	#FFF1A9	0.154287146741215
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	8	2	heat|noxious	#FFF1A9	0.17669616074307
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	9	2		#FEE188	0.253337179259136
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	10	2		#FECB68	0.307510853394408
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	11	2		#FECB68	0.328160946382599
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	12	2	valence	#FECB68	0.333762124765259
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	13	2	person|social	#FECB68	0.396836497058004
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	14	2		#FD913D	0.529143092133299
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	15	2	face|faces	#FC622F	0.684560457160848
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	16	2		#FD913D	0.598041570681121
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	17	2		#FD913D	0.562858839465898
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	18	2		#FD913D	0.593231909684698
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	19	2		#FC622F	0.624514301507198
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	20	2		#FC622F	0.661322817744291
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	21	2	images|spatial	#FC622F	0.676820586033258
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	22	2	control	#FC622F	0.624177357783944
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	23	2	time	#FC622F	0.624956335087842
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	1	3	acoustic|listening|musical|music|pitch	#FFF1A9	0.180258377188295
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	2	3	noise|tones	#FECB68	0.30548619998214
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	3	3		#FDAD4A	0.430105696206951
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	4	3		#FD913D	0.502876283799905
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	5	3	frequency	#FD913D	0.506033378803265
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	6	3		#FDAD4A	0.444485973847856
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	7	3		#FEE188	0.272695143581144
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	8	3	temperature	#FEE188	0.28951928779682
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	9	3		#FEE188	0.279075399567848
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	10	3	pleasant|unpleasant	#FEE188	0.230357055166848
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	11	3	anxiety	#FEE188	0.199930803633917
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	12	3		#FECB68	0.375980577094563
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	13	3		#FD913D	0.508792214108559
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	14	3		#FD913D	0.580722628812129
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	15	3		#FC622F	0.652014659396395
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	16	3	picture	#F03623	0.745376904374738
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	17	3		#FC622F	0.693075524939973
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	18	3	value	#FC622F	0.612929697088098
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	19	3	cue	#FC622F	0.677528347672673
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	20	3	error|target	#FC622F	0.670409692216241
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	21	3	attention	#F03623	0.743366978765047
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	22	3		#FC622F	0.6963168331673
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	23	3	number	#FC622F	0.659608667245919
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	1	4	voice	#FEE188	0.235710776951263
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	2	4		#FEE188	0.293830914733262
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	3	4	hearing	#FD913D	0.52181911756542
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	4	4		#FDAD4A	0.416414745155183
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	5	4	overt	#FECB68	0.383914498119771
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	6	4		#FDAD4A	0.408353513340845
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	7	4		#FECB68	0.326884196393876
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	8	4	nociceptive|nonpainful|painrelated	#FFF1A9	0.198515966272808
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	9	4	unpleasantness	#FEE188	0.238179998259551
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	10	4	skin|subjective	#FDAD4A	0.407206701704548
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	11	4	depression	#FEE188	0.254103737858426
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	12	4	experience	#FECB68	0.383537710998696
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	13	4	female	#FDAD4A	0.44511162995262
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	14	4	male	#FD913D	0.546404479515471
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	15	4	pictures	#F03623	0.749155139436325
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	16	4		#F03623	0.786622634179718
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	17	4	perception	#F03623	0.800106115456402
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	18	4		#F03623	0.793958313198195
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	19	4		#F03623	0.766031366377757
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	20	4		#F03623	0.760574585524026
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	21	4	correct	#F03623	0.712569780406069
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	22	4	work	#FC622F	0.656300541111257
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	23	4	memory	#FC622F	0.645127796713274
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	1	5	prosodic|prosody	#FFF1A9	0.128613029407765
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	2	5	phonetic	#FECB68	0.385299114477488
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	3	5	syllable|syllables	#FECB68	0.357121426754605
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	4	5		#FECB68	0.371566013890311
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	5	5	lip|production	#FEE188	0.282053556406738
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	6	5	somatotopic	#FFF1A9	0.16833254146224
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	7	5		#FDAD4A	0.40201121471674
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	8	5		#FECB68	0.394972867037822
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	9	5	empathy	#FECB68	0.394395062407329
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	10	5		#FECB68	0.38507248155303
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	11	5	disorder	#FEE188	0.224347859388353
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	12	5		#FDAD4A	0.409924172248388
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	13	5		#FDAD4A	0.499896611015299
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	14	5		#FD913D	0.598101369834032
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	15	5		#FC622F	0.655099551623772
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	16	5		#F03623	0.750383672997075
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	17	5		#F03623	0.776562491320649
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	18	5	mental	#F03623	0.767372789113024
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	19	5	go	#F03623	0.736044465210499
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	20	5	object	#D7141E	0.829623638112543
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	21	5		#F03623	0.736742245005134
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	22	5		#FC622F	0.672193754571211
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	23	5	word|words	#FC622F	0.616964117333933
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	1	6		#FECB68	0.329685746474995
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	2	6		#FECB68	0.372810400262533
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	3	6		#FDAD4A	0.437676206486593
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	4	6	vocal	#FEE188	0.217513984530257
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	5	6	articulatory	#FEE188	0.213738190494717
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	6	6		#FECB68	0.374927459471283
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	7	6	oddball	#FECB68	0.35341209270516
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	8	6	perceived	#FD913D	0.564627731948576
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	9	6	errorrelated	#FECB68	0.366748943252652
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	10	6	approach	#FECB68	0.356002174244303
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	11	6	schizophrenia	#FEE188	0.299286198659701
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	12	6	acquisition	#FECB68	0.341700427870751
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	13	6		#FDAD4A	0.497335747799001
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	14	6		#FDAD4A	0.430544334063048
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	15	6		#FDAD4A	0.469917481317155
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	16	6		#FD913D	0.523474945671713
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	17	6		#F03623	0.712860242494477
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	18	6		#F03623	0.781682017625156
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	19	6		#D7141E	0.80260335184625
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	20	6	objects	#D7141E	0.900494102571783
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	21	6		#F03623	0.752845380507877
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	22	6		#FC622F	0.633633547318505
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	23	6	language|semantic	#FD913D	0.576513208567317
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	1	7	dopamine|dopaminergic	#FFF1A9	0.195759352302433
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	2	7		#FEE188	0.20672059395864
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	3	7		#FECB68	0.338425979324698
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	4	7		#FECB68	0.398116004751037
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	5	7		#FDAD4A	0.421775877970396
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	6	7		#FDAD4A	0.493472264398664
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	7	7		#FD913D	0.527689064153068
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	8	7		#FD913D	0.503927707439185
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	9	7		#FDAD4A	0.491220142457958
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	10	7		#FDAD4A	0.49960835176867
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	11	7		#FDAD4A	0.482322127393567
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	12	7		#FD913D	0.503519149097564
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	13	7	linguistic|spoken	#FDAD4A	0.489480591103594
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	14	7		#FECB68	0.389872078844192
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	15	7	comprehension|sentence|sentences|syntactic	#FECB68	0.308398027404559
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	16	7		#FDAD4A	0.459798750956361
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	17	7		#FC622F	0.642200240214174
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	18	7	phonological|reading|read	#FC622F	0.647686629899878
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	19	7		#F03623	0.781261886088576
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	20	7	perceptual|recognition	#D7141E	0.859046247715887
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	21	7		#F03623	0.743104305606271
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	22	7		#FC622F	0.621412802012975
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	23	7	verb	#FD913D	0.542307964381549
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	1	8	outcome|reward	#FFF1A9	0.145568349671143
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	2	8	anticipation	#FFF1A9	0.170782784278641
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	3	8	outcomes	#FFF1A9	0.153615305022736
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	4	8	choice|choices	#FECB68	0.303916699810549
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	5	8	decisions|probability	#FECB68	0.387247892115284
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	6	8	reversal	#FDAD4A	0.431585715988349
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	7	8	classification|incorrect	#FDAD4A	0.408624669480678
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	8	8		#FDAD4A	0.492803926276556
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	9	8	agerelated|fluency|probes	#FECB68	0.32705361894227
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	10	8	engaged	#FDAD4A	0.479806356825859
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	11	8	explicit|knowledge	#FD913D	0.568802209650191
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	12	8		#FD913D	0.523640958031005
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	13	8		#FDAD4A	0.488003732835599
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	14	8		#FDAD4A	0.443091651007691
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	15	8		#FDAD4A	0.451544432620174
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	16	8		#FDAD4A	0.470272481685121
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	17	8	lexical	#FD913D	0.521498112601048
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	18	8		#FC622F	0.696889179802104
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	19	8		#F03623	0.755319371155557
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	20	8		#F03623	0.776723638956056
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	21	8	encoding	#FC622F	0.665184784762934
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	22	8	retrieval	#FD913D	0.560650185939763
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	23	8	verbal	#FD913D	0.553868366677366
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	1	9	incentive|monetary|money|rewards	#FFFFCC	0.0541843006038718
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	2	9	loss	#FFF1A9	0.15503886806494
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	3	9		#FEE188	0.269670055540439
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	4	9		#FECB68	0.333990186155275
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	5	9	decisionmaking	#FECB68	0.326986069324456
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	6	9		#FDAD4A	0.488300117644452
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	7	9		#FDAD4A	0.491815729241488
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	8	9		#FDAD4A	0.482420450246693
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	9	9		#FDAD4A	0.492947816611794
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	10	9		#FD913D	0.527098213373023
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	11	9		#FD913D	0.517533829913968
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	12	9		#FD913D	0.500581693284836
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	13	9	noun	#FECB68	0.36388548426264
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	14	9	meaning	#FD913D	0.558571783114237
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	15	9	english	#FD913D	0.501603832363888
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	16	9	pseudoword|pseudowords	#FDAD4A	0.447155467353335
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	17	9		#FC622F	0.61258560544204
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	18	9		#F03623	0.70444018296693
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	19	9	familiar|judgment	#F03623	0.749400449975317
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	20	9	pair|pairs	#FC622F	0.648845217924233
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	21	9		#F03623	0.702192348717334
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	22	9		#FC622F	0.671185105167063
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	23	9	letter|working	#FC622F	0.67265992532917
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	1	10	losses|reinforcement|win	#FFF1A9	0.19145626443314
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	2	10	gain	#FFF1A9	0.13874430017752
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	3	10	expectation	#FEE188	0.200809035098423
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	4	10	risk	#FEE188	0.267662977641034
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	5	10	fact	#FEE188	0.295760333645486
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	6	10	associative	#FDAD4A	0.457395609991576
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	7	10	familiarity|judgments|old	#FD913D	0.528676996833021
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	8	10	contextual|text	#FECB68	0.340566842637143
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	9	10	recall|retrieved	#FECB68	0.365462362412862
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	10	10	conceptual|semantically	#FDAD4A	0.486682916634622
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	11	10	grammatical|speakers	#FECB68	0.399614701091455
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	12	10	nouns	#FECB68	0.339565912502226
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	13	10	japanese	#FDAD4A	0.413639895229393
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	14	10	languages	#FDAD4A	0.434556995064968
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	15	10	written	#FC622F	0.697828480280425
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	16	10	chinese|phonology	#FD913D	0.599835019812965
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	17	10	orthographic	#FC622F	0.634187991625778
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	18	10		#F03623	0.725342803319678
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	19	10		#F03623	0.716663550762424
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	20	10	association|decision	#FD913D	0.582471307475787
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	21	10	selection	#FD913D	0.584187455877663
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	22	10	letters	#FC622F	0.694543381438843
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	23	10	demand|load	#FD913D	0.592563491435813
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	1	11	conditioned|conditioning	#FFFFCC	0
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	2	11		#FEE188	0.199709262564724
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	3	11	drug|placebo	#FEE188	0.265549416315239
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	4	11		#FDAD4A	0.431427431473752
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	5	11	associations	#FD913D	0.562486253229475
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	6	11		#FD913D	0.544798387117721
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	7	11	episodic|recollection	#FECB68	0.388569952035186
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	8	11		#FD913D	0.502180013143335
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	9	11		#FD913D	0.51233425295277
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	10	11	concepts	#FECB68	0.30462576659737
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	11	11		#FD913D	0.501531904153406
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	12	11		#FD913D	0.513314381380846
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	13	11	german	#FECB68	0.373902553452169
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	14	11	readers	#FC622F	0.613451628343575
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	15	11	character|name|naming	#FC622F	0.685580566587343
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	16	11		#F03623	0.704741719554162
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	17	11	novel	#F03623	0.713262333651014
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	18	11		#F03623	0.714180170934889
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	19	11	child|children	#FC622F	0.693681277963866
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	20	11	adults	#FC622F	0.678971189806547
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	21	11	ability|feedback|learning	#FDAD4A	0.485905173183069
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	22	11	cues|delay	#FC622F	0.649438233436585
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	23	11	attentional|difficulty|targets	#F03623	0.743976826460291
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	1	12	aversive|shock	#FFF1A9	0.118394860301929
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	2	12	reactivity	#FFF1A9	0.149031357234255
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	3	12	males|sex|women	#FEE188	0.297383103690278
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	4	12	animal	#FECB68	0.369971666777395
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	5	12	animals	#FDAD4A	0.490573486739371
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	6	12		#FD913D	0.566945123747522
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	7	12	remember|subsequent	#FDAD4A	0.47391919368177
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	8	12	autobiographical|memories	#FFF1A9	0.122809186021304
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	9	12		#FDAD4A	0.497184429216968
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	10	12	violation|violations	#FEE188	0.268806728771334
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	11	12	aphasia	#FDAD4A	0.436503162864879
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	12	12	nonwords	#FD913D	0.503401294716466
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	13	12	dyslexia	#FD913D	0.525706617841062
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	14	12		#F03623	0.763296852249393
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	15	12	priming	#F03623	0.783850314522878
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	16	12		#F03623	0.787804393121572
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	17	12	category|repetition	#FC622F	0.699290596099807
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	18	12		#F03623	0.734043247026039
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	19	12	developmental|development	#FC622F	0.649888933242436
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	20	12		#F03623	0.703035116238435
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	21	12	space	#FC622F	0.657659900620058
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	22	12		#FC622F	0.675931641267155
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	23	12	color	#D7141E	0.804203315411156
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	1	13	threat	#FFF1A9	0.143177854459161
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	2	13	regulation	#FFF1A9	0.133806420030061
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	3	13		#FECB68	0.340942738947692
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	4	13	masked	#FDAD4A	0.421523174553272
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	5	13	scene|scenes	#FECB68	0.351510929077791
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	6	13		#FD913D	0.521225855824118
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	7	13	confidence|remembered	#FDAD4A	0.403708944857879
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	8	13		#FDAD4A	0.472658918335727
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	9	13		#FDAD4A	0.483252927121355
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	10	13	ambiguity|ambiguous	#FDAD4A	0.452622978830417
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	11	13		#FD913D	0.552474748068156
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	12	13		#FC622F	0.683800883441637
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	13	13	writing	#FD913D	0.579354089834973
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	14	13		#D7141E	0.807675390125466
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	15	13	categorization|congruency|prime	#F03623	0.772217143012567
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	16	13		#F03623	0.798245950508303
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	17	13	mask	#F03623	0.707972611198124
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	18	13		#F03623	0.7079995362386
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	19	13		#FC622F	0.638508400210039
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	20	13		#FC622F	0.652724100805285
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	21	13	conflict|congruent|incongruent	#FC622F	0.64797087939399
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	22	13	errors	#FD913D	0.580787713352529
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	23	13	maintenance|probe|wm	#FD913D	0.551706092910976
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	1	14	angry|fearful|happy	#FFF1A9	0.190251125955015
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	2	14		#FEE188	0.206351358615232
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	3	14	awareness|conscious|ptsd	#FEE188	0.205442738149345
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	4	14		#FDAD4A	0.477947762397711
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	5	14	houses|photographs	#FD913D	0.522738452257035
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	6	14		#FD913D	0.514042886946591
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	7	14	hits	#FEE188	0.284283302806421
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	8	14	famous	#FDAD4A	0.466913542956995
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	9	14	names	#FFF1A9	0.166449400018339
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	10	14	family	#FEE188	0.280888719580863
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	11	14	competition|mouth	#FD913D	0.505561268928957
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	12	14	abilities	#FDAD4A	0.470284437020612
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	13	14	implicit|unfamiliar	#F03623	0.712693012815437
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	14	14		#D7141E	0.858230196759618
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	15	14	tom	#F03623	0.765391461957759
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	16	14		#D7141E	0.810173494744467
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	17	14		#F03623	0.704688200363845
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	18	14	stop	#FD913D	0.517104209155316
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	19	14	inhibition|inhibitory|nogo	#FDAD4A	0.453187839455
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	20	14	monitoring|stroop	#FD913D	0.520204068212471
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	21	14	interference	#FD913D	0.551484283837202
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	22	14		#FC622F	0.606271302058111
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	23	14	demands|executive	#FD913D	0.582802200108005
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	1	15	anger	#FFF1A9	0.139790209275727
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	2	15	stress	#FFFFCC	0.0729499699894743
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	3	15	feelings	#FEE188	0.222037839507774
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	4	15	salient	#FECB68	0.348833032290995
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	5	15	novelty	#FEE188	0.279115392302347
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	6	15	movie	#FDAD4A	0.422715034392702
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	7	15		#FDAD4A	0.452033135974889
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	8	15		#FDAD4A	0.41979197692942
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	9	15	longterm	#FEE188	0.284371823784585
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	10	15		#FDAD4A	0.485431552218807
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	11	15	reasoning|relational	#FDAD4A	0.452271418988163
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	12	15		#F03623	0.776662907659098
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	13	15	presentations	#F03623	0.746940035161985
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	14	15		#B10026	0.911524902299395
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	15	15	identity	#F03623	0.796037437091237
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	16	15		#F03623	0.784018993688278
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	17	15	strategies|strategy	#FDAD4A	0.458707596468683
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	18	15	card|cards	#FECB68	0.398802988056798
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	19	15	gonogo	#FD913D	0.513332403626746
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	20	15		#FD913D	0.557229454050634
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	21	15	switching|switch	#FD913D	0.533483075289541
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	22	15		#FD913D	0.577499289331904
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	23	15	2back|rule	#FDAD4A	0.467263621824716
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	1	16	emotionally|mood|personality|sadness	#FFF1A9	0.132261424424272
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	2	16	disgust|sexual	#FECB68	0.310510668087667
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	3	16	olfactory	#FFFFCC	0.0505751173068242
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	4	16	physiological	#FFF1A9	0.12480356521621
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	5	16	depressed|depressive|habituation	#FFFFCC	0.0980861691183433
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	6	16	schizophrenic	#FEE188	0.247850976038085
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	7	16	colors|contexts	#FEE188	0.260557328942528
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	8	16	aging|encoded	#FFF1A9	0.158275517379367
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	9	16	goal	#FECB68	0.312582799400798
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	10	16		#FD913D	0.519876482316906
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	11	16	autism|autistic|nonverbal	#FDAD4A	0.406306129168757
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	12	16		#D7141E	0.837484063904004
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	13	16	bottomup|repetitions	#B10026	0.910384237377571
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	14	16	adaptation	#D7141E	0.812445206145934
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	15	16	irrelevant	#D7141E	0.874700061330012
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	16	16	distractor|distractors	#FDAD4A	0.46778096828521
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	17	16		#FC622F	0.661628638083285
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	18	16	subtraction	#FD913D	0.513074575681486
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	19	16	1back|nback	#FDAD4A	0.451686469390681
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	20	16	manipulation|rules	#FD913D	0.526024166519096
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	21	16		#FC622F	0.668820783638945
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	22	16		#FC622F	0.619358263060504
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	23	16	digit	#FDAD4A	0.480105712320506
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	1	17	avoidance	#FFFFCC	0.0907157368881814
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	2	17		#FEE188	0.257941796409885
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	3	17	eating|food	#FFFFCC	0.0640560723878585
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	4	17	taste	#FFFFCC	0.0628148373929789
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	5	17	bipolar	#FFF1A9	0.144420058625414
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	6	17	illness|uncertainty	#FEE188	0.2175808507919
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	7	17	females|probabilistic	#FEE188	0.239499729109921
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	8	17	rejection	#FFF1A9	0.157502980323581
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	9	17	colour|paired	#FC622F	0.638415621168567
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	10	17		#FD913D	0.555407006069495
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	11	17		#FD913D	0.598202312806014
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	12	17		#F03623	0.749308698584419
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	13	17	taskirrelevant	#D7141E	0.890132721945088
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	14	17		#B10026	1
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	15	17	suppression	#F03623	0.776452935709615
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	16	17		#D7141E	0.877619090690985
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	17	17	shifting|shortterm	#FD913D	0.531321983471501
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	18	17	digits	#FECB68	0.390283325850963
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	19	17	search	#FD913D	0.574319250709413
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	20	17	counting|taskrelated	#FDAD4A	0.464715309425465
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	21	17	topdown	#B10026	0.914829382168487
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	22	17	visuospatial	#FC622F	0.649520022915727
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	23	17	arithmetic|calculation|solving	#FD913D	0.514989056791119
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	1	18	addiction|craving|drugs	#FEE188	0.261252438244032
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	2	18	allele|genotype|polymorphism	#FFF1A9	0.122063300087135
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	3	18	motivation	#FFF1A9	0.150436926178572
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	4	18	heart	#FFF1A9	0.172303704143904
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	5	18	sleep	#FFF1A9	0.190091103878368
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	6	18	expectancy	#FDAD4A	0.428368889399598
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	7	18	phasic|salience	#FECB68	0.330010554230923
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	8	18	adolescence|adolescents	#FECB68	0.320325166343875
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	9	18	intelligence|tracking	#FD913D	0.500908226786962
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	10	18		#FC622F	0.648654779321603
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	11	18	serial	#FECB68	0.361445421632136
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	12	18		#F03623	0.741702455281222
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	13	18	spatially|taskrelevant	#FC622F	0.612281767194924
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	14	18		#B10026	0.951048587330266
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	15	18	attended|attend|unattended	#D7141E	0.851005823291166
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	16	18	rotation|shapes	#D7141E	0.857950531931426
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	17	18	rehearsal	#FD913D	0.523416139218454
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	18	18	learned	#FECB68	0.388409686858956
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	19	18		#FD913D	0.565183394605463
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	20	18	cued|preparatory	#F03623	0.709840965645292
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	21	18		#FC622F	0.675660679066347
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	22	18		#FC622F	0.676442608720399
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	23	18	numbers|numerical	#FD913D	0.522353930888159
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	1	19	future	#FEE188	0.226743246518707
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	2	19	negatively	#FEE188	0.202790057653873
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	3	19	distress|epilepsy|selfreported	#FFFFCC	0.0395941646375904
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	4	19	anticipatory|cocaine|probabilities|smoking	#FFF1A9	0.169590760920436
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	5	19	alcohol|amount|impulsivity	#FEE188	0.230609897484606
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	6	19	game|success	#FECB68	0.352588007124619
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	7	19	adhd|childhood|engagement	#FEE188	0.278964340291424
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	8	19		#FD913D	0.512255188797649
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	9	19		#FC622F	0.646938107960358
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	10	19		#FC622F	0.644093451159439
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	11	19		#FC622F	0.631843706289737
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	12	19	endogenous	#FDAD4A	0.447896115818492
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	13	19	cueing|invalid|orienting	#FC622F	0.694514764903732
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	14	19		#B10026	0.924346443784026
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	15	19	multisensory	#F03623	0.772592900069143
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	16	19		#D7141E	0.900400194982765
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	17	19	shifts	#F03623	0.713051616549269
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	18	19	covert	#FDAD4A	0.46932049223422
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	19	19		#FD913D	0.579132217122274
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	20	19	preparation	#FDAD4A	0.437914039436053
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	21	19	discrimination|training	#F03623	0.770463735567429
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	22	19	sequences	#FDAD4A	0.399810031230055
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	23	19		#FD913D	0.56158859771431
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	1	20	personal|self|selfreferential|trait|traits	#FEE188	0.229134514518164
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	2	20	empathic|theory	#FECB68	0.33689426373826
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	3	20	attribution|intentional	#FFF1A9	0.104575312058605
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	4	20	elderly|oscillations	#FEE188	0.2290676918626
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	5	20	antipsychotic|virtual	#FEE188	0.232068650489799
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	6	20		#FECB68	0.388676737814288
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	7	20	experiences	#FFF1A9	0.163755027580717
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	8	20	categorical|pressure	#FECB68	0.32866571025778
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	9	20	play|skills	#FD913D	0.515973582874103
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	10	20	automatic|trained	#FD913D	0.54888456299628
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	11	20		#FDAD4A	0.468744452729229
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	12	20	practice	#FECB68	0.381623137421768
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	13	20	visuomotor	#FD913D	0.579952967355794
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	14	20		#D7141E	0.81848144011114
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	15	20	tool	#FC622F	0.672821668334347
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	16	20	vision	#FC622F	0.65752723017842
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	17	20	visually	#F03623	0.705431161776371
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	18	20	saccade|saccades|saccadic	#FDAD4A	0.451213663119385
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	19	20	locations	#FC622F	0.602748608242784
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	20	20	imagery|planning	#FD913D	0.518044081596937
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	21	20		#FC622F	0.60587986858016
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	22	20	rest	#FDAD4A	0.467773702380723
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	23	20	sequence	#FDAD4A	0.491020009885998
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	1	21	scenarios	#FEE188	0.276793354377912
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	2	21	intention|intentions	#FDAD4A	0.405068406738878
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	3	21	causality|perspective	#FEE188	0.281980124401477
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	4	21	past	#FFFFCC	0.0506754030354432
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	5	21		#FDAD4A	0.430579956134966
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	6	21	episode	#FEE188	0.277740300124678
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	7	21	improvement	#FEE188	0.264389072654738
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	8	21	masking|retention	#FDAD4A	0.416378556892803
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	9	21		#FD913D	0.518054372656111
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	10	21	dominant	#FD913D	0.516873659417759
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	11	21		#FECB68	0.309371800015117
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	12	21	sequential	#FEE188	0.252644456994699
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	13	21	fingers	#FEE188	0.200047112493202
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	14	21		#F03623	0.734132148628669
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	15	21	gesture|gestures	#FC622F	0.626538534179811
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	16	21		#F03623	0.759385949278611
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	17	21	hands	#FC622F	0.632163101429873
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	18	21		#F03623	0.713388823242908
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	19	21		#F03623	0.715984879085193
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	20	21	eye|position	#F03623	0.735143294857664
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	21	21	execution	#FDAD4A	0.497544025180108
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	22	21	finger|sensorimotor	#FECB68	0.361161540712574
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	23	21		#FDAD4A	0.470192909414906
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	1	22	moral|stories|story	#FEE188	0.270702594709698
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	2	22	mentalizing|persons	#FECB68	0.33554797651829
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	3	22	default|restingstate	#FFF1A9	0.112003506589889
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	4	22	thinking|thought|thoughts	#FDAD4A	0.44758550228395
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	5	22	spontaneous	#FECB68	0.348517723544854
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	6	22	concentration|sensations	#FFF1A9	0.180364056529809
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	7	22	hierarchical|preference	#FD913D	0.529789487946558
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	8	22	effort|oral|simulation	#FDAD4A	0.419612382207413
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	9	22	interhemispheric|plasticity	#FEE188	0.288050236065196
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	10	22	imagined|imagine	#FEE188	0.286136759324406
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	11	22	tapping	#FEE188	0.224581777757402
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	12	22	foot|muscle|muscles|voluntary	#FFFFCC	0.0971804457359015
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	13	22	limb	#FFF1A9	0.167280526516551
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	14	22	eyes|velocity	#FD913D	0.538850274574396
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	15	22	biological|gaze|videos	#FD913D	0.57992466753576
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	16	22	body	#FC622F	0.640240497271357
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	17	22	grasping|orientation|reaching	#FC622F	0.631297668882301
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	18	22		#F03623	0.729653787159962
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	19	22	mirror|shape	#D7141E	0.826751938417718
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	20	22	actions	#FC622F	0.666103495357355
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	21	22	action	#FC622F	0.67946833615409
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	22	22		#FD913D	0.509867803769296
+0ba9c00f-5e65-394f-b0b8-6bfe36afd088	Hamalainen H	23	22	hand|movements|sensory	#FDAD4A	0.434060342481317

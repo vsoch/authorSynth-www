@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	1	1	auditory|speech	#FEE188	0.277148675384072
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	2	1		#FEE188	0.256310142284062
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	3	1	da|integration	#FD913D	0.551811498948859
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	4	1		#FD913D	0.574065251110587
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	5	1	physical|psychophysical|tactile	#FDAD4A	0.493826734275364
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	6	1		#FC622F	0.607531527080698
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	7	1	somatosensory|stimulation	#FD913D	0.539598564542937
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	8	1	painful|pain	#FDAD4A	0.431825529510134
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	9	1		#FD913D	0.561943855183756
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	10	1	ratings	#F03623	0.708077340319852
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	11	1	affective|affect	#FDAD4A	0.480709885440771
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	12	1	emotions	#FDAD4A	0.48623028624049
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	13	1	expression|expressions|facial	#FECB68	0.333369743765059
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	14	1		#FC622F	0.629921759898699
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	15	1		#FC622F	0.685356398518059
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	16	1	emotion|motion|neutral	#FC622F	0.622567046115494
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	17	1	rating	#FC622F	0.700162918628281
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	18	1	negative|positive	#FC622F	0.679545093678389
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	19	1		#F03623	0.724281718089751
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	20	1	ear|order	#FC622F	0.610841123205643
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	21	1	motor	#FDAD4A	0.437929540485436
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	22	1	visual	#FD913D	0.560753409204204
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	23	1	age|image|response	#FC622F	0.606540681404371
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	1	2	sound|sounds	#FFF1A9	0.116112630633861
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	2	2		#FEE188	0.229606537797885
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	3	2	audiovisual|bimodal|crossmodal	#FEE188	0.221491388020052
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	4	2		#FD913D	0.580247628679413
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	5	2		#FC622F	0.64019418291287
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	6	2		#FC622F	0.639224878138361
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	7	2	sensation	#FDAD4A	0.443564140758588
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	8	2	heat|noxious	#FECB68	0.334263041609063
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	9	2		#FD913D	0.579860401157417
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	10	2		#FC622F	0.69427154860318
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	11	2		#FC622F	0.694106927722368
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	12	2	valence	#FDAD4A	0.496384950218019
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	13	2	person|social	#FC622F	0.639534118694443
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	14	2		#FC622F	0.644090978730119
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	15	2	face|faces	#FC622F	0.646099667353077
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	16	2		#F03623	0.756825972032304
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	17	2		#F03623	0.779063203416161
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	18	2		#F03623	0.790648883679639
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	19	2		#F03623	0.752131274473178
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	20	2		#FC622F	0.665371860898479
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	21	2	images|spatial	#FC622F	0.686615882171413
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	22	2	control	#FD913D	0.52839882746527
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	23	2	time	#FC622F	0.615702441453388
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	1	3	acoustic|listening|musical|music|pitch	#FFFFCC	0.0624711361017436
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	2	3	noise|tones	#FFF1A9	0.173646187913885
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	3	3		#FECB68	0.379387571923065
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	4	3		#FDAD4A	0.492640108514941
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	5	3	frequency	#FD913D	0.579468785978428
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	6	3		#FC622F	0.635973110695717
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	7	3		#FDAD4A	0.487862617983626
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	8	3	temperature	#FEE188	0.264474420619298
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	9	3		#FD913D	0.56570027781283
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	10	3	pleasant|unpleasant	#FC622F	0.615195000767662
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	11	3	anxiety	#FD913D	0.545563786679452
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	12	3		#FC622F	0.693678384481969
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	13	3		#F03623	0.723778469911209
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	14	3		#F03623	0.70665139599049
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	15	3		#F03623	0.755270752909868
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	16	3	picture	#D7141E	0.81271462043851
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	17	3		#D7141E	0.842559085063445
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	18	3	value	#F03623	0.7930023772428
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	19	3	cue	#F03623	0.712980388640354
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	20	3	error|target	#FD913D	0.591773903237982
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	21	3	attention	#FD913D	0.530770006884757
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	22	3		#FC622F	0.607144145056706
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	23	3	number	#FD913D	0.594522577444273
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	1	4	voice	#FFFFCC	0.0909470271138251
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	2	4		#FFF1A9	0.196669531408828
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	3	4	hearing	#FFF1A9	0.180327633406918
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	4	4		#FECB68	0.389202319106056
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	5	4	overt	#FECB68	0.334921331049498
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	6	4		#FDAD4A	0.498917666269789
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	7	4		#FD913D	0.524684417782152
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	8	4	nociceptive|nonpainful|painrelated	#FECB68	0.31900487215339
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	9	4	unpleasantness	#FD913D	0.529967843650647
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	10	4	skin|subjective	#FC622F	0.610436916836109
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	11	4	depression	#F03623	0.700767822228634
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	12	4	experience	#FC622F	0.657472153156628
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	13	4	female	#FD913D	0.597135228061706
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	14	4	male	#FC622F	0.695508036181045
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	15	4	pictures	#FC622F	0.699793567230348
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	16	4		#D7141E	0.830360346887401
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	17	4	perception	#F03623	0.706014393153732
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	18	4		#D7141E	0.801062360952208
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	19	4		#F03623	0.754193595633727
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	20	4		#FC622F	0.69759795579721
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	21	4	correct	#FD913D	0.558010759773289
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	22	4	work	#FDAD4A	0.495844135674814
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	23	4	memory	#FD913D	0.590232361387429
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	1	5	prosodic|prosody	#FFF1A9	0.138869011576153
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	2	5	phonetic	#FFFFCC	0.0566373808374665
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	3	5	syllable|syllables	#FFF1A9	0.193479329645152
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	4	5		#FECB68	0.329708717044622
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	5	5	lip|production	#FEE188	0.26830721773518
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	6	5	somatotopic	#FECB68	0.366889877455468
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	7	5		#FD913D	0.59314619196632
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	8	5		#FD913D	0.538903946313997
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	9	5	empathy	#FD913D	0.563451966004587
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	10	5		#FC622F	0.64045839500844
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	11	5	disorder	#FD913D	0.578364129331905
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	12	5		#FC622F	0.69776753449275
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	13	5		#F03623	0.722368824620038
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	14	5		#F03623	0.715500213379845
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	15	5		#F03623	0.741391684506454
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	16	5		#F03623	0.761085681048884
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	17	5		#F03623	0.768464293396652
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	18	5	mental	#FC622F	0.646629996749205
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	19	5	go	#F03623	0.705241817551497
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	20	5	object	#FC622F	0.636756220178001
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	21	5		#FC622F	0.640797697508761
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	22	5		#FD913D	0.585414191754647
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	23	5	word|words	#FDAD4A	0.436649556553651
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	1	6		#FC622F	0.610988831759079
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	2	6		#FD913D	0.578700008713451
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	3	6		#FC622F	0.614366528854014
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	4	6	vocal	#FFF1A9	0.191980850700809
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	5	6	articulatory	#FFFFCC	0.0402393244675845
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	6	6		#FDAD4A	0.48918831071076
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	7	6	oddball	#FECB68	0.304639676032808
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	8	6	perceived	#FDAD4A	0.448606047196605
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	9	6	errorrelated	#FEE188	0.293028874316575
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	10	6	approach	#FD913D	0.508779345130212
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	11	6	schizophrenia	#FDAD4A	0.480472724283278
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	12	6	acquisition	#FD913D	0.53933243922914
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	13	6		#FC622F	0.616297535387857
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	14	6		#FDAD4A	0.450601280892261
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	15	6		#FDAD4A	0.487968329245741
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	16	6		#FD913D	0.532625425827839
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	17	6		#FC622F	0.606509248877038
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	18	6		#FC622F	0.648178310646608
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	19	6		#F03623	0.701175353744738
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	20	6	objects	#D7141E	0.835181732951031
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	21	6		#FC622F	0.681804045533921
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	22	6		#FD913D	0.535226575625903
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	23	6	language|semantic	#FDAD4A	0.474567302761878
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	1	7	dopamine|dopaminergic	#FDAD4A	0.460620576626577
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	2	7		#F03623	0.714536242493255
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	3	7		#F03623	0.797277736987809
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	4	7		#F03623	0.740208005728871
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	5	7		#F03623	0.708039434931302
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	6	7		#FC622F	0.68657551057966
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	7	7		#FC622F	0.659947326056365
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	8	7		#FC622F	0.615120448978253
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	9	7		#FD913D	0.598488717666125
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	10	7		#FD913D	0.576086167421479
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	11	7		#FD913D	0.574677202508081
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	12	7		#FD913D	0.549319669008201
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	13	7	linguistic|spoken	#FECB68	0.300708472429543
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	14	7		#FECB68	0.368617199777034
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	15	7	comprehension|sentence|sentences|syntactic	#FEE188	0.292517659822103
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	16	7		#FDAD4A	0.413782042393579
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	17	7		#FD913D	0.513097267345602
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	18	7	phonological|reading|read	#FDAD4A	0.416750184674005
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	19	7		#FC622F	0.670740534587848
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	20	7	perceptual|recognition	#D7141E	0.825365400127371
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	21	7		#FC622F	0.692971226769537
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	22	7		#FD913D	0.549113241440413
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	23	7	verb	#FDAD4A	0.423985203185504
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	1	8	outcome|reward	#F03623	0.72301932368602
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	2	8	anticipation	#FC622F	0.671825009161806
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	3	8	outcomes	#FC622F	0.691120096894732
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	4	8	choice|choices	#FD913D	0.561049215263322
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	5	8	decisions|probability	#FC622F	0.61351058254896
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	6	8	reversal	#FD913D	0.539846460877876
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	7	8	classification|incorrect	#FD913D	0.522547018388608
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	8	8		#FC622F	0.656580584885489
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	9	8	agerelated|fluency|probes	#FECB68	0.386936220833404
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	10	8	engaged	#FECB68	0.3461621531047
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	11	8	explicit|knowledge	#FDAD4A	0.471983310068142
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	12	8		#FDAD4A	0.434331777882386
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	13	8		#FECB68	0.381040574763267
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	14	8		#FECB68	0.353752451996965
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	15	8		#FECB68	0.354260586395282
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	16	8		#FECB68	0.389993784679403
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	17	8	lexical	#FECB68	0.375933496944002
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	18	8		#FD913D	0.549377613173262
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	19	8		#FC622F	0.640667305243551
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	20	8		#F03623	0.734564451693263
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	21	8	encoding	#F03623	0.755679333745854
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	22	8	retrieval	#FC622F	0.6061273964357
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	23	8	verbal	#FDAD4A	0.443524983935353
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	1	9	incentive|monetary|money|rewards	#FC622F	0.614734783166306
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	2	9	loss	#F03623	0.713083588721006
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	3	9		#F03623	0.747546021823619
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	4	9		#F03623	0.730221322320546
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	5	9	decisionmaking	#FD913D	0.517188084809906
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	6	9		#F03623	0.747360475079439
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	7	9		#F03623	0.720892481541952
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	8	9		#FC622F	0.686867478888634
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	9	9		#FC622F	0.651053378696655
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	10	9		#FD913D	0.510967733490522
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	11	9		#FDAD4A	0.451371602589186
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	12	9		#FDAD4A	0.400058721229813
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	13	9	noun	#FFF1A9	0.151686824831625
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	14	9	meaning	#FECB68	0.31529651326352
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	15	9	english	#FEE188	0.255101068949938
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	16	9	pseudoword|pseudowords	#FEE188	0.281113883139509
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	17	9		#FDAD4A	0.451729481011661
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	18	9		#FC622F	0.600364411698177
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	19	9	familiar|judgment	#FC622F	0.689092018586848
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	20	9	pair|pairs	#FD913D	0.531571385179278
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	21	9		#FC622F	0.652955137535102
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	22	9		#FD913D	0.564990416708023
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	23	9	letter|working	#FDAD4A	0.416892800196275
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	1	10	losses|reinforcement|win	#FD913D	0.55835285307498
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	2	10	gain	#FD913D	0.520355438747809
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	3	10	expectation	#FD913D	0.520205693736021
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	4	10	risk	#FD913D	0.566257239428347
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	5	10	fact	#FD913D	0.556684679802779
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	6	10	associative	#FC622F	0.673077886288827
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	7	10	familiarity|judgments|old	#FD913D	0.521640194245374
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	8	10	contextual|text	#FDAD4A	0.474600380029056
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	9	10	recall|retrieved	#FD913D	0.519234882027471
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	10	10	conceptual|semantically	#FECB68	0.308563203164967
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	11	10	grammatical|speakers	#FECB68	0.395212550609824
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	12	10	nouns	#FFF1A9	0.181176805567167
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	13	10	japanese	#FFF1A9	0.125416496394049
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	14	10	languages	#FFF1A9	0.158644315719047
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	15	10	written	#FEE188	0.294142154913524
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	16	10	chinese|phonology	#FFF1A9	0.146972374163298
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	17	10	orthographic	#FDAD4A	0.438914975328578
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	18	10		#FC622F	0.634848660084926
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	19	10		#FC622F	0.665887502066347
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	20	10	association|decision	#FC622F	0.666880104049935
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	21	10	selection	#FDAD4A	0.472459194446734
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	22	10	letters	#FECB68	0.38918588680277
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	23	10	demand|load	#FDAD4A	0.400186059771767
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	1	11	conditioned|conditioning	#FEE188	0.282363165444658
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	2	11		#FC622F	0.653022301073963
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	3	11	drug|placebo	#FDAD4A	0.484277349016071
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	4	11		#D7141E	0.885609205518647
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	5	11	associations	#F03623	0.743399873015195
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	6	11		#B10026	0.92775641780349
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	7	11	episodic|recollection	#F03623	0.755337028712616
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	8	11		#D7141E	0.869514893366241
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	9	11		#F03623	0.770202828497222
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	10	11	concepts	#FEE188	0.230546885527403
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	11	11		#FD913D	0.539382788199172
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	12	11		#FDAD4A	0.454551672330326
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	13	11	german	#FDAD4A	0.486112636824065
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	14	11	readers	#FECB68	0.321007443240184
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	15	11	character|name|naming	#FEE188	0.298092329604577
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	16	11		#FD913D	0.57480840823251
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	17	11	novel	#F03623	0.713851176577046
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	18	11		#FC622F	0.64965713383183
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	19	11	child|children	#FDAD4A	0.485979635693096
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	20	11	adults	#FC622F	0.645448599327448
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	21	11	ability|feedback|learning	#F03623	0.767727791015133
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	22	11	cues|delay	#F03623	0.722410877322316
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	23	11	attentional|difficulty|targets	#FD913D	0.561387831116216
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	1	12	aversive|shock	#FECB68	0.398424402889242
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	2	12	reactivity	#FECB68	0.363881206402259
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	3	12	males|sex|women	#FD913D	0.564264103771388
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	4	12	animal	#D7141E	0.806262940086753
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	5	12	animals	#F03623	0.791682172330436
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	6	12		#B10026	1
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	7	12	remember|subsequent	#FC622F	0.606715531787848
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	8	12	autobiographical|memories	#FC622F	0.670262276049413
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	9	12		#F03623	0.779727509853009
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	10	12	violation|violations	#FEE188	0.294907735557204
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	11	12	aphasia	#FD913D	0.547605593986977
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	12	12	nonwords	#FECB68	0.309229067696923
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	13	12	dyslexia	#FECB68	0.305350291570832
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	14	12		#FDAD4A	0.499133787195555
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	15	12	priming	#FD913D	0.502748032630149
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	16	12		#FC622F	0.690084587279107
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	17	12	category|repetition	#F03623	0.749575698847382
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	18	12		#FC622F	0.668245381263709
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	19	12	developmental|development	#FECB68	0.355432480449329
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	20	12		#FD913D	0.583909705590701
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	21	12	space	#FC622F	0.674960454164476
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	22	12		#FD913D	0.521134896509173
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	23	12	color	#FDAD4A	0.475419715556341
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	1	13	threat	#FFF1A9	0.162063366717286
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	2	13	regulation	#FEE188	0.227062688632144
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	3	13		#FC622F	0.61925110409795
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	4	13	masked	#FD913D	0.544823033300141
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	5	13	scene|scenes	#D7141E	0.820774978761476
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	6	13		#B10026	0.955730812678855
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	7	13	confidence|remembered	#FC622F	0.636207741237566
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	8	13		#D7141E	0.856257969189204
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	9	13		#F03623	0.750288375054584
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	10	13	ambiguity|ambiguous	#FECB68	0.335549666783885
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	11	13		#FC622F	0.631735269575198
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	12	13		#FC622F	0.610255691418818
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	13	13	writing	#FECB68	0.363184278324639
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	14	13		#FC622F	0.620261497195011
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	15	13	categorization|congruency|prime	#FECB68	0.390011694088562
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	16	13		#F03623	0.732145844502103
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	17	13	mask	#FC622F	0.60544301186694
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	18	13		#FC622F	0.669586686805132
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	19	13		#FD913D	0.522675281477621
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	20	13		#FDAD4A	0.42419702254529
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	21	13	conflict|congruent|incongruent	#FFF1A9	0.190574212014477
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	22	13	errors	#FECB68	0.399224765490154
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	23	13	maintenance|probe|wm	#FECB68	0.304353864327534
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	1	14	angry|fearful|happy	#FFF1A9	0.0996585644464804
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	2	14		#FEE188	0.24379479172258
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	3	14	awareness|conscious|ptsd	#FEE188	0.213516807939619
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	4	14		#D7141E	0.900440457586706
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	5	14	houses|photographs	#FDAD4A	0.492162432057059
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	6	14		#B10026	0.946578340079638
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	7	14	hits	#FDAD4A	0.48281768449442
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	8	14	famous	#FDAD4A	0.408701466061013
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	9	14	names	#FEE188	0.238421972273089
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	10	14	family	#FEE188	0.238804603774231
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	11	14	competition|mouth	#FDAD4A	0.485320260133184
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	12	14	abilities	#FD913D	0.537334044908852
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	13	14	implicit|unfamiliar	#FD913D	0.56707762988044
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	14	14		#FC622F	0.670759081224512
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	15	14	tom	#FDAD4A	0.463098093367128
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	16	14		#FD913D	0.575984766928386
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	17	14		#FD913D	0.536539185993991
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	18	14	stop	#FECB68	0.39957599877981
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	19	14	inhibition|inhibitory|nogo	#FECB68	0.350564381021032
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	20	14	monitoring|stroop	#FFF1A9	0.113067258815584
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	21	14	interference	#FFF1A9	0.160039802980995
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	22	14		#FECB68	0.309449525744461
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	23	14	demands|executive	#FECB68	0.311037145870914
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	1	15	anger	#FFFFCC	0
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	2	15	stress	#FEE188	0.21492646781895
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	3	15	feelings	#FECB68	0.346114226742129
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	4	15	salient	#FDAD4A	0.403537133909251
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	5	15	novelty	#F03623	0.721812922782827
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	6	15	movie	#FEE188	0.216977776065995
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	7	15		#F03623	0.777974305814688
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	8	15		#FC622F	0.672995390737523
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	9	15	longterm	#FFF1A9	0.16475064412186
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	10	15		#FDAD4A	0.462646206730483
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	11	15	reasoning|relational	#FEE188	0.298783458133159
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	12	15		#FC622F	0.642584670614957
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	13	15	presentations	#FD913D	0.526064731644905
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	14	15		#FC622F	0.672990896727018
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	15	15	identity	#FDAD4A	0.476477409034593
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	16	15		#FD913D	0.503057579709547
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	17	15	strategies|strategy	#FEE188	0.297148213163625
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	18	15	card|cards	#FECB68	0.379541757332862
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	19	15	gonogo	#FECB68	0.352934674090531
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	20	15		#FECB68	0.325305019977066
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	21	15	switching|switch	#FFF1A9	0.138477307728716
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	22	15		#FEE188	0.260679209883468
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	23	15	2back|rule	#FEE188	0.265127513397537
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	1	16	emotionally|mood|personality|sadness	#FECB68	0.36694514931186
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	2	16	disgust|sexual	#FDAD4A	0.434344792444081
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	3	16	olfactory	#FEE188	0.244176985385779
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	4	16	physiological	#FC622F	0.602364751120599
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	5	16	depressed|depressive|habituation	#FECB68	0.399732136058044
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	6	16	schizophrenic	#FDAD4A	0.421701485609576
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	7	16	colors|contexts	#FECB68	0.353083015257929
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	8	16	aging|encoded	#FEE188	0.210929366215482
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	9	16	goal	#FFFFCC	0.0185876748106219
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	10	16		#FDAD4A	0.407922889686699
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	11	16	autism|autistic|nonverbal	#FFF1A9	0.194364486680748
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	12	16		#FD913D	0.570059450761348
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	13	16	bottomup|repetitions	#FECB68	0.372914473717125
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	14	16	adaptation	#FC622F	0.661564377210322
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	15	16	irrelevant	#FECB68	0.333585031021865
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	16	16	distractor|distractors	#FEE188	0.255314550920785
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	17	16		#FDAD4A	0.447840991671633
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	18	16	subtraction	#FFF1A9	0.114863026249409
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	19	16	1back|nback	#FFF1A9	0.160025828886522
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	20	16	manipulation|rules	#FECB68	0.360455928775325
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	21	16		#FECB68	0.324937110473298
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	22	16		#FEE188	0.267448407553358
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	23	16	digit	#FFF1A9	0.185930430992308
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	1	17	avoidance	#FECB68	0.360656474922348
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	2	17		#D7141E	0.810842166630426
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	3	17	eating|food	#FD913D	0.591033930773597
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	4	17	taste	#FC622F	0.601470993849186
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	5	17	bipolar	#FDAD4A	0.434346823962454
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	6	17	illness|uncertainty	#FDAD4A	0.423563331421503
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	7	17	females|probabilistic	#FEE188	0.271737917825289
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	8	17	rejection	#FFF1A9	0.193088223840282
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	9	17	colour|paired	#FDAD4A	0.432764524677868
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	10	17		#FD913D	0.500106712302582
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	11	17		#FD913D	0.506530066266842
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	12	17		#FDAD4A	0.487044045867933
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	13	17	taskirrelevant	#FEE188	0.254400010320254
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	14	17		#FD913D	0.549155396232918
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	15	17	suppression	#FD913D	0.523722511113077
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	16	17		#FD913D	0.552812133164721
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	17	17	shifting|shortterm	#FECB68	0.302008305573837
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	18	17	digits	#FEE188	0.207333685039534
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	19	17	search	#FD913D	0.528575110903267
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	20	17	counting|taskrelated	#FDAD4A	0.400813469546967
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	21	17	topdown	#FEE188	0.243722997275378
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	22	17	visuospatial	#FEE188	0.242086688249763
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	23	17	arithmetic|calculation|solving	#FFF1A9	0.15701841489495
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	1	18	addiction|craving|drugs	#FC622F	0.610591742812402
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	2	18	allele|genotype|polymorphism	#FD913D	0.510177968316826
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	3	18	motivation	#FDAD4A	0.451806622062204
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	4	18	heart	#FD913D	0.578321746659068
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	5	18	sleep	#FD913D	0.583009878114735
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	6	18	expectancy	#FDAD4A	0.409905185528703
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	7	18	phasic|salience	#FFF1A9	0.146484039696571
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	8	18	adolescence|adolescents	#FFFFCC	0.0345234550435646
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	9	18	intelligence|tracking	#FDAD4A	0.460043111335758
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	10	18		#FD913D	0.588104455490485
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	11	18	serial	#FECB68	0.367330853341514
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	12	18		#FDAD4A	0.45436345615712
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	13	18	spatially|taskrelevant	#FEE188	0.239665345226645
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	14	18		#FD913D	0.525923209817644
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	15	18	attended|attend|unattended	#FECB68	0.356480270110117
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	16	18	rotation|shapes	#FDAD4A	0.421798150267452
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	17	18	rehearsal	#FEE188	0.284727669101686
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	18	18	learned	#FD913D	0.530125603086881
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	19	18		#FD913D	0.569931722778741
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	20	18	cued|preparatory	#FECB68	0.39615162737628
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	21	18		#FD913D	0.520783615927004
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	22	18		#FDAD4A	0.404700629444787
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	23	18	numbers|numerical	#FEE188	0.227092071041575
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	1	19	future	#FD913D	0.53559311413062
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	2	19	negatively	#FDAD4A	0.478408095122123
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	3	19	distress|epilepsy|selfreported	#FD913D	0.527585229198625
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	4	19	anticipatory|cocaine|probabilities|smoking	#FC622F	0.606646669420064
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	5	19	alcohol|amount|impulsivity	#FDAD4A	0.490422823361272
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	6	19	game|success	#FECB68	0.382028497291984
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	7	19	adhd|childhood|engagement	#FDAD4A	0.447993920071707
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	8	19		#FC622F	0.643675854347372
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	9	19		#FD913D	0.592060536620753
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	10	19		#FD913D	0.553684327687558
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	11	19		#FDAD4A	0.494092200227543
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	12	19	endogenous	#FEE188	0.228542424509792
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	13	19	cueing|invalid|orienting	#FFF1A9	0.183818854023683
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	14	19		#FD913D	0.58418338240711
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	15	19	multisensory	#FDAD4A	0.499621439960908
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	16	19		#FC622F	0.627884703664774
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	17	19	shifts	#FD913D	0.576122898234519
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	18	19	covert	#FDAD4A	0.439216091423007
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	19	19		#FD913D	0.577888430873458
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	20	19	preparation	#FECB68	0.382980440602405
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	21	19	discrimination|training	#FD913D	0.518252657452034
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	22	19	sequences	#FDAD4A	0.488659618120362
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	23	19		#FC622F	0.656581956406214
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	1	20	personal|self|selfreferential|trait|traits	#FECB68	0.334758254508576
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	2	20	empathic|theory	#FDAD4A	0.436003747411296
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	3	20	attribution|intentional	#FECB68	0.307935336581731
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	4	20	elderly|oscillations	#FEE188	0.227224227809992
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	5	20	antipsychotic|virtual	#FDAD4A	0.443196124257254
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	6	20		#B10026	0.927704920573159
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	7	20	experiences	#FDAD4A	0.484315324432571
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	8	20	categorical|pressure	#FECB68	0.383478250445839
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	9	20	play|skills	#FFF1A9	0.145079555957957
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	10	20	automatic|trained	#FFF1A9	0.174500263307014
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	11	20		#FD913D	0.567538493463637
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	12	20	practice	#FECB68	0.336552905789143
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	13	20	visuomotor	#FDAD4A	0.445351735146611
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	14	20		#FC622F	0.665636349276005
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	15	20	tool	#FDAD4A	0.443528183714313
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	16	20	vision	#FEE188	0.222305453602683
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	17	20	visually	#FD913D	0.559149994396226
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	18	20	saccade|saccades|saccadic	#FECB68	0.342857407900255
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	19	20	locations	#FC622F	0.616565409410807
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	20	20	imagery|planning	#FDAD4A	0.497413286352992
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	21	20		#FC622F	0.62127418611795
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	22	20	rest	#FC622F	0.603919462178928
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	23	20	sequence	#FC622F	0.684592511945228
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	1	21	scenarios	#FFF1A9	0.189303221291252
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	2	21	intention|intentions	#FECB68	0.324257926399308
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	3	21	causality|perspective	#FFF1A9	0.178014021718139
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	4	21	past	#FDAD4A	0.402074378783364
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	5	21		#D7141E	0.876101078258645
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	6	21	episode	#FDAD4A	0.468558878912107
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	7	21	improvement	#FECB68	0.381410639648812
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	8	21	masking|retention	#FECB68	0.394493255580845
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	9	21		#FD913D	0.559120204365166
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	10	21	dominant	#FDAD4A	0.483765595811259
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	11	21		#FD913D	0.583318014069955
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	12	21	sequential	#FDAD4A	0.495332604791934
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	13	21	fingers	#FECB68	0.365643083822193
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	14	21		#FD913D	0.577746514257906
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	15	21	gesture|gestures	#FEE188	0.219633283275852
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	16	21		#FD913D	0.599353411049007
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	17	21	hands	#FECB68	0.335885706581017
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	18	21		#FC622F	0.625303299360178
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	19	21		#FD913D	0.597750037717547
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	20	21	eye|position	#FD913D	0.577797620810415
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	21	21	execution	#FDAD4A	0.485784411857262
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	22	21	finger|sensorimotor	#FD913D	0.502688550300352
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	23	21		#FD913D	0.571696306759819
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	1	22	moral|stories|story	#FFFFCC	0.0476555534454134
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	2	22	mentalizing|persons	#FEE188	0.240063027999816
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	3	22	default|restingstate	#FECB68	0.39876968970156
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	4	22	thinking|thought|thoughts	#FEE188	0.276062836973255
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	5	22	spontaneous	#FD913D	0.582364672995851
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	6	22	concentration|sensations	#FDAD4A	0.466068167205322
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	7	22	hierarchical|preference	#FEE188	0.277197341631678
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	8	22	effort|oral|simulation	#FDAD4A	0.44529953616193
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	9	22	interhemispheric|plasticity	#FFF1A9	0.195324463168434
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	10	22	imagined|imagine	#FEE188	0.285087401044363
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	11	22	tapping	#FDAD4A	0.441908687197945
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	12	22	foot|muscle|muscles|voluntary	#FDAD4A	0.431104241643383
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	13	22	limb	#FECB68	0.32913323232547
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	14	22	eyes|velocity	#FECB68	0.319385328013991
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	15	22	biological|gaze|videos	#FEE188	0.215330022244269
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	16	22	body	#FD913D	0.51630048246455
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	17	22	grasping|orientation|reaching	#FD913D	0.540305467931362
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	18	22		#FC622F	0.621475626361315
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	19	22	mirror|shape	#FD913D	0.516320327778332
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	20	22	actions	#FDAD4A	0.498275410673857
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	21	22	action	#FD913D	0.549098200946636
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	22	22		#FD913D	0.548610755630857
+4a2c9acb-0a4a-3af7-9b7a-74e844cb3d07	Kononen M	23	22	hand|movements|sensory	#FDAD4A	0.415400777883536

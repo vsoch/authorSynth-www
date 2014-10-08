@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	1	1	auditory|speech	#FEE188	0.273826649616131
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	2	1		#FEE188	0.249693480390145
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	3	1	da|integration	#FDAD4A	0.406540913873512
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	4	1		#FDAD4A	0.43034479992809
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	5	1	physical|psychophysical|tactile	#FDAD4A	0.408117731561865
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	6	1		#FC622F	0.625962357439049
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	7	1	somatosensory|stimulation	#FD913D	0.586252053307364
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	8	1	painful|pain	#F03623	0.762588899778667
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	9	1		#D7141E	0.818846324369813
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	10	1	ratings	#B10026	0.987413463732975
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	11	1	affective|affect	#FC622F	0.655332736742297
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	12	1	emotions	#FDAD4A	0.43530600912639
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	13	1	expression|expressions|facial	#FECB68	0.327172267523531
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	14	1		#FC622F	0.606608206375859
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	15	1		#FC622F	0.686699981991427
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	16	1	emotion|motion|neutral	#FC622F	0.69323990060071
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	17	1	rating	#B10026	0.94415451830417
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	18	1	negative|positive	#B10026	0.919997524419125
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	19	1		#F03623	0.782278813073744
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	20	1	ear|order	#FC622F	0.626821229930522
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	21	1	motor	#FDAD4A	0.466400636014637
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	22	1	visual	#FDAD4A	0.44429022814225
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	23	1	age|image|response	#FC622F	0.618012500603324
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	1	2	sound|sounds	#FFF1A9	0.157358981195676
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	2	2		#FEE188	0.213925621356505
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	3	2	audiovisual|bimodal|crossmodal	#FFF1A9	0.12381126974927
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	4	2		#FDAD4A	0.441571601385328
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	5	2		#FDAD4A	0.498701191087337
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	6	2		#FC622F	0.632203111348937
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	7	2	sensation	#FC622F	0.658879082971802
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	8	2	heat|noxious	#FC622F	0.669138122281863
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	9	2		#D7141E	0.852035101902167
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	10	2		#D7141E	0.84055943496059
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	11	2		#D7141E	0.801965954129017
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	12	2	valence	#F03623	0.78595082954165
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	13	2	person|social	#F03623	0.702626809821771
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	14	2		#FC622F	0.612366513412594
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	15	2	face|faces	#FD913D	0.503080656909068
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	16	2		#F03623	0.753629206263395
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	17	2		#D7141E	0.845047920623343
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	18	2		#D7141E	0.842789489284529
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	19	2		#F03623	0.770569837405555
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	20	2		#FC622F	0.623756392988892
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	21	2	images|spatial	#FD913D	0.566514082280319
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	22	2	control	#FC622F	0.605736600089418
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	23	2	time	#FC622F	0.622724459905655
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	1	3	acoustic|listening|musical|music|pitch	#FFFFCC	0.0628225365851962
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	2	3	noise|tones	#FFF1A9	0.143255117180244
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	3	3		#FECB68	0.308402503816201
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	4	3		#FDAD4A	0.457136431324412
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	5	3	frequency	#FD913D	0.540461649177004
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	6	3		#F03623	0.734920486032271
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	7	3		#D7141E	0.812204758996707
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	8	3	temperature	#B10026	0.935364902923373
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	9	3		#D7141E	0.811766042348581
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	10	3	pleasant|unpleasant	#FD913D	0.566975408749914
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	11	3	anxiety	#F03623	0.726806062528989
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	12	3		#F03623	0.748488556762075
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	13	3		#F03623	0.716064980241839
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	14	3		#F03623	0.700971225003512
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	15	3		#F03623	0.703086837340675
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	16	3	picture	#FC622F	0.690144483040383
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	17	3		#F03623	0.795298134852349
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	18	3	value	#D7141E	0.83060638809792
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	19	3	cue	#FC622F	0.691953714124582
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	20	3	error|target	#FD913D	0.597065235598294
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	21	3	attention	#FD913D	0.513373897489496
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	22	3		#FD913D	0.588971787412751
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	23	3	number	#FD913D	0.599247112269178
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	1	4	voice	#FFF1A9	0.115078519743239
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	2	4		#FFF1A9	0.168742422256486
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	3	4	hearing	#FEE188	0.234491485054464
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	4	4		#FDAD4A	0.43627272030548
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	5	4	overt	#FD913D	0.562412368861893
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	6	4		#FD913D	0.596838418842576
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	7	4		#D7141E	0.878121113011068
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	8	4	nociceptive|nonpainful|painrelated	#F03623	0.711439985623501
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	9	4	unpleasantness	#FC622F	0.689286741233494
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	10	4	skin|subjective	#D7141E	0.82723475007465
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	11	4	depression	#F03623	0.774432096417008
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	12	4	experience	#D7141E	0.806779523289895
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	13	4	female	#FC622F	0.607347986593795
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	14	4	male	#FC622F	0.683337366699023
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	15	4	pictures	#FC622F	0.656254038152328
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	16	4		#FC622F	0.679749582608264
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	17	4	perception	#FD913D	0.512597551109087
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	18	4		#FC622F	0.657711240294171
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	19	4		#FC622F	0.639008527593103
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	20	4		#FD913D	0.597802678959251
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	21	4	correct	#FC622F	0.64666182929
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	22	4	work	#FD913D	0.535487460129974
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	23	4	memory	#FC622F	0.635875812058465
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	1	5	prosodic|prosody	#FFF1A9	0.146864928691674
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	2	5	phonetic	#FEE188	0.239668944998838
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	3	5	syllable|syllables	#FEE188	0.235279448346928
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	4	5		#FDAD4A	0.416043285032966
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	5	5	lip|production	#FECB68	0.300048427703343
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	6	5	somatotopic	#FDAD4A	0.461367620374797
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	7	5		#D7141E	0.869531404275869
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	8	5		#D7141E	0.855054473791431
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	9	5	empathy	#D7141E	0.800850673604607
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	10	5		#D7141E	0.818437382493784
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	11	5	disorder	#F03623	0.789477175603572
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	12	5		#F03623	0.782356376264963
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	13	5		#FC622F	0.676169005877035
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	14	5		#FC622F	0.613925551520269
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	15	5		#FC622F	0.600795802882815
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	16	5		#FD913D	0.573962266106848
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	17	5		#FD913D	0.540397829277764
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	18	5	mental	#FC622F	0.630345503674255
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	19	5	go	#FD913D	0.560314402032427
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	20	5	object	#FECB68	0.323148999018035
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	21	5		#FD913D	0.53472675386078
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	22	5		#FD913D	0.517367370923485
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	23	5	word|words	#FECB68	0.387893554352645
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	1	6		#FC622F	0.662007029982278
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	2	6		#FC622F	0.631714629077125
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	3	6		#FC622F	0.617409032431651
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	4	6	vocal	#FECB68	0.374802470347843
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	5	6	articulatory	#FEE188	0.219075352937312
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	6	6		#FD913D	0.572894689855767
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	7	6	oddball	#F03623	0.782472613730411
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	8	6	perceived	#F03623	0.705018683257238
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	9	6	errorrelated	#F03623	0.791346868948452
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	10	6	approach	#FDAD4A	0.464294897065437
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	11	6	schizophrenia	#F03623	0.774721818411294
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	12	6	acquisition	#FD913D	0.568951662410096
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	13	6		#FD913D	0.525297583767322
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	14	6		#FECB68	0.351480756600761
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	15	6		#FECB68	0.356320569324867
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	16	6		#FECB68	0.380470247819857
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	17	6		#FDAD4A	0.408897365511776
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	18	6		#FDAD4A	0.429042583674365
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	19	6		#FDAD4A	0.485691748271322
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	20	6	objects	#FECB68	0.382482303089622
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	21	6		#FD913D	0.522890073743037
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	22	6		#FDAD4A	0.435057195923076
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	23	6	language|semantic	#FECB68	0.332192814132017
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	1	7	dopamine|dopaminergic	#D7141E	0.802835227791128
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	2	7		#D7141E	0.886292717798275
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	3	7		#D7141E	0.877252353866722
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	4	7		#F03623	0.799219671808936
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	5	7		#F03623	0.730861719506238
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	6	7		#F03623	0.724379543679328
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	7	7		#D7141E	0.802462939659337
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	8	7		#F03623	0.750003530383297
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	9	7		#F03623	0.708956021439668
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	10	7		#FC622F	0.650607936212068
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	11	7		#FC622F	0.642823847320688
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	12	7		#FD913D	0.597738247348334
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	13	7	linguistic|spoken	#FEE188	0.262974441224455
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	14	7		#FEE188	0.287888045825255
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	15	7	comprehension|sentence|sentences|syntactic	#FEE188	0.22603539896469
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	16	7		#FEE188	0.274195798716914
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	17	7		#FECB68	0.313926558539942
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	18	7	phonological|reading|read	#FEE188	0.276012700732796
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	19	7		#FDAD4A	0.447049873549659
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	20	7	perceptual|recognition	#FD913D	0.566328288679428
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	21	7		#FD913D	0.575124868127919
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	22	7		#FDAD4A	0.495140721647695
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	23	7	verb	#FDAD4A	0.452118622831876
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	1	8	outcome|reward	#D7141E	0.891267160237663
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	2	8	anticipation	#D7141E	0.808746734688717
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	3	8	outcomes	#B10026	0.925376682978339
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	4	8	choice|choices	#F03623	0.733690436932275
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	5	8	decisions|probability	#FD913D	0.549610384658946
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	6	8	reversal	#FD913D	0.580711636581016
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	7	8	classification|incorrect	#FC622F	0.606557165134025
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	8	8		#FC622F	0.664809518640885
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	9	8	agerelated|fluency|probes	#FECB68	0.335137345292678
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	10	8	engaged	#FD913D	0.541753063780951
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	11	8	explicit|knowledge	#FDAD4A	0.468522587125586
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	12	8		#FDAD4A	0.430593729464765
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	13	8		#FECB68	0.31285383714182
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	14	8		#FEE188	0.253777535190654
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	15	8		#FEE188	0.239275854163015
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	16	8		#FEE188	0.243673670748104
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	17	8	lexical	#FFF1A9	0.189457758390113
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	18	8		#FECB68	0.37046658167383
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	19	8		#FDAD4A	0.464549453260065
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	20	8		#FD913D	0.588428520234917
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	21	8	encoding	#F03623	0.708313455983281
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	22	8	retrieval	#FC622F	0.635737888219981
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	23	8	verbal	#FD913D	0.571645410333674
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	1	9	incentive|monetary|money|rewards	#F03623	0.777781160312963
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	2	9	loss	#FC622F	0.694629214255264
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	3	9		#D7141E	0.851898376928923
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	4	9		#D7141E	0.827659346991248
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	5	9	decisionmaking	#FC622F	0.645327377135484
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	6	9		#F03623	0.768843816740401
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	7	9		#F03623	0.779291851168576
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	8	9		#F03623	0.738016446705586
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	9	9		#FC622F	0.688599415928427
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	10	9		#FD913D	0.554187687931834
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	11	9		#FDAD4A	0.444801978358035
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	12	9		#FECB68	0.368137335671561
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	13	9	noun	#FFF1A9	0.118548833187873
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	14	9	meaning	#FEE188	0.250109503303528
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	15	9	english	#FFF1A9	0.147302151557418
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	16	9	pseudoword|pseudowords	#FFF1A9	0.195193403224668
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	17	9		#FECB68	0.308899438888019
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	18	9		#FDAD4A	0.449718576862429
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	19	9	familiar|judgment	#FD913D	0.549046269175941
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	20	9	pair|pairs	#FC622F	0.605749388046064
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	21	9		#FC622F	0.668030041646833
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	22	9		#FC622F	0.629202953196272
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	23	9	letter|working	#FD913D	0.516088579550795
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	1	10	losses|reinforcement|win	#FDAD4A	0.447996701247541
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	2	10	gain	#FDAD4A	0.452976930001633
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	3	10	expectation	#F03623	0.761251055889993
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	4	10	risk	#FC622F	0.622816251400501
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	5	10	fact	#FD913D	0.580003537880346
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	6	10	associative	#F03623	0.769768241076297
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	7	10	familiarity|judgments|old	#FC622F	0.652084611578854
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	8	10	contextual|text	#F03623	0.731152698243797
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	9	10	recall|retrieved	#F03623	0.744315117851651
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	10	10	conceptual|semantically	#FD913D	0.516896093251374
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	11	10	grammatical|speakers	#FFF1A9	0.141097996742066
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	12	10	nouns	#FFF1A9	0.128188067620029
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	13	10	japanese	#FEE188	0.26758254773448
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	14	10	languages	#FEE188	0.209291527426492
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	15	10	written	#FEE188	0.239256647069049
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	16	10	chinese|phonology	#FEE188	0.282472850718609
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	17	10	orthographic	#FEE188	0.269177399794326
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	18	10		#FD913D	0.538472103845754
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	19	10		#FC622F	0.625269934820927
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	20	10	association|decision	#F03623	0.792846071735364
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	21	10	selection	#FC622F	0.613385356471226
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	22	10	letters	#FDAD4A	0.480031990704534
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	23	10	demand|load	#FC622F	0.612437796849836
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	1	11	conditioned|conditioning	#FD913D	0.504199451269964
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	2	11		#FC622F	0.675613837547212
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	3	11	drug|placebo	#F03623	0.774068633762437
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	4	11		#D7141E	0.810626796760581
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	5	11	associations	#F03623	0.73528392805151
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	6	11		#D7141E	0.886411006413174
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	7	11	episodic|recollection	#D7141E	0.870010781941206
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	8	11		#D7141E	0.88075139041364
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	9	11		#FD913D	0.581029384398178
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	10	11	concepts	#FEE188	0.296881888291317
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	11	11		#FEE188	0.272807013911933
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	12	11		#FEE188	0.24857582352483
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	13	11	german	#FFF1A9	0.118428208009027
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	14	11	readers	#FECB68	0.35021466880333
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	15	11	character|name|naming	#FEE188	0.26074838760824
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	16	11		#FDAD4A	0.44064611795472
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	17	11	novel	#FD913D	0.562296634860758
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	18	11		#FD913D	0.568969789819186
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	19	11	child|children	#FD913D	0.509499081634695
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	20	11	adults	#FC622F	0.643408661075643
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	21	11	ability|feedback|learning	#F03623	0.73607336470273
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	22	11	cues|delay	#FD913D	0.543941568574056
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	23	11	attentional|difficulty|targets	#FD913D	0.583029583418814
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	1	12	aversive|shock	#FD913D	0.535203734889292
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	2	12	reactivity	#FDAD4A	0.467878502943102
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	3	12	males|sex|women	#FDAD4A	0.488076768604926
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	4	12	animal	#FD913D	0.587923491557761
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	5	12	animals	#FFF1A9	0.192965243665933
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	6	12		#F03623	0.778864284438889
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	7	12	remember|subsequent	#F03623	0.734063486608559
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	8	12	autobiographical|memories	#FC622F	0.656530663477508
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	9	12		#FDAD4A	0.493714232137426
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	10	12	violation|violations	#FFF1A9	0.152333805743013
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	11	12	aphasia	#FEE188	0.217711938534059
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	12	12	nonwords	#FFF1A9	0.114239314410832
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	13	12	dyslexia	#FFF1A9	0.16022063100279
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	14	12		#FDAD4A	0.435220796829875
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	15	12	priming	#FDAD4A	0.42057188780601
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	16	12		#FD913D	0.574020183062424
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	17	12	category|repetition	#FD913D	0.554429144295086
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	18	12		#FD913D	0.595156748025953
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	19	12	developmental|development	#FDAD4A	0.496270955320422
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	20	12		#FC622F	0.662386823311054
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	21	12	space	#FC622F	0.60409402164142
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	22	12		#FC622F	0.621875640745663
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	23	12	color	#FD913D	0.551757665082931
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	1	13	threat	#FEE188	0.299525457292896
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	2	13	regulation	#FC622F	0.625454528264767
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	3	13		#FC622F	0.665217881236923
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	4	13	masked	#FEE188	0.297013517633421
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	5	13	scene|scenes	#FECB68	0.392030851636758
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	6	13		#FC622F	0.628997726555908
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	7	13	confidence|remembered	#FD913D	0.590238559441697
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	8	13		#FC622F	0.670838959176442
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	9	13		#FDAD4A	0.445941227513846
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	10	13	ambiguity|ambiguous	#FFFFCC	0
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	11	13		#FEE188	0.26303072759369
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	12	13		#FECB68	0.323004916565683
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	13	13	writing	#FFF1A9	0.111894386435871
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	14	13		#FD913D	0.531953939627319
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	15	13	categorization|congruency|prime	#FD913D	0.593728681700237
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	16	13		#FC622F	0.656610017663696
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	17	13	mask	#FD913D	0.507070508073328
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	18	13		#FC622F	0.642177059187078
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	19	13		#FC622F	0.654189576235999
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	20	13		#FC622F	0.683383221016373
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	21	13	conflict|congruent|incongruent	#FC622F	0.643685220072802
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	22	13	errors	#FC622F	0.692690899999936
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	23	13	maintenance|probe|wm	#FDAD4A	0.494048618099306
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	1	14	angry|fearful|happy	#FFF1A9	0.105921801837733
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	2	14		#FECB68	0.364414432584857
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	3	14	awareness|conscious|ptsd	#FC622F	0.697583633286165
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	4	14		#FC622F	0.647371645562141
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	5	14	houses|photographs	#FFF1A9	0.139806611323365
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	6	14		#FD913D	0.546362257724864
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	7	14	hits	#FEE188	0.278450363670446
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	8	14	famous	#FECB68	0.398643725625711
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	9	14	names	#FECB68	0.355399232793781
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	10	14	family	#FFF1A9	0.133008520154569
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	11	14	competition|mouth	#FEE188	0.2314140080415
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	12	14	abilities	#FECB68	0.36779462737346
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	13	14	implicit|unfamiliar	#FDAD4A	0.471520722066423
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	14	14		#FD913D	0.555006979865938
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	15	14	tom	#F03623	0.787100327468659
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	16	14		#FC622F	0.638815556328315
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	17	14		#FC622F	0.6158337400666
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	18	14	stop	#FD913D	0.553760073052676
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	19	14	inhibition|inhibitory|nogo	#F03623	0.715957122589142
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	20	14	monitoring|stroop	#FC622F	0.68313268454997
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	21	14	interference	#FC622F	0.663446040744214
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	22	14		#FC622F	0.665596589357611
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	23	14	demands|executive	#FD913D	0.541459463560073
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	1	15	anger	#FEE188	0.2464660084308
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	2	15	stress	#FECB68	0.385780978576609
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	3	15	feelings	#FECB68	0.388471912286179
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	4	15	salient	#FC622F	0.617222388150666
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	5	15	novelty	#FD913D	0.561201813885427
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	6	15	movie	#FEE188	0.253469772111844
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	7	15		#F03623	0.707925015629514
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	8	15		#FC622F	0.683475408399023
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	9	15	longterm	#FECB68	0.350692215130609
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	10	15		#FD913D	0.511827617485329
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	11	15	reasoning|relational	#FD913D	0.574536566363997
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	12	15		#FD913D	0.503317807931936
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	13	15	presentations	#FFF1A9	0.164941839951809
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	14	15		#FDAD4A	0.492932054123908
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	15	15	identity	#FDAD4A	0.454530180811962
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	16	15		#FC622F	0.609894596042605
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	17	15	strategies|strategy	#FD913D	0.510714332230441
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	18	15	card|cards	#FD913D	0.526700882926965
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	19	15	gonogo	#FD913D	0.594291792034722
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	20	15		#F03623	0.700998946287296
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	21	15	switching|switch	#FC622F	0.678353469449863
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	22	15		#FC622F	0.693583820646331
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	23	15	2back|rule	#FC622F	0.604943969895749
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	1	16	emotionally|mood|personality|sadness	#FEE188	0.225695277279491
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	2	16	disgust|sexual	#FECB68	0.39467447732204
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	3	16	olfactory	#FEE188	0.234767507568429
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	4	16	physiological	#F03623	0.789037654705434
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	5	16	depressed|depressive|habituation	#FEE188	0.287287652057252
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	6	16	schizophrenic	#D7141E	0.829766695927963
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	7	16	colors|contexts	#FC622F	0.615809848025857
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	8	16	aging|encoded	#FDAD4A	0.426129589119902
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	9	16	goal	#FFF1A9	0.1214285600308
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	10	16		#FD913D	0.579463008709356
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	11	16	autism|autistic|nonverbal	#FD913D	0.55739101853344
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	12	16		#FD913D	0.586191774334209
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	13	16	bottomup|repetitions	#FECB68	0.375569928168408
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	14	16	adaptation	#FECB68	0.392040211340448
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	15	16	irrelevant	#FDAD4A	0.490679246923552
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	16	16	distractor|distractors	#FDAD4A	0.42005832730785
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	17	16		#FD913D	0.585187111447075
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	18	16	subtraction	#FDAD4A	0.426853589884721
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	19	16	1back|nback	#FDAD4A	0.400594596416413
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	20	16	manipulation|rules	#FD913D	0.581464257513597
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	21	16		#FC622F	0.677094204175318
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	22	16		#FC622F	0.602076237342553
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	23	16	digit	#FD913D	0.567177476945739
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	1	17	avoidance	#FECB68	0.322274882653335
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	2	17		#F03623	0.73016671538644
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	3	17	eating|food	#FC622F	0.620187521907352
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	4	17	taste	#FC622F	0.643318334507741
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	5	17	bipolar	#FECB68	0.337126937407766
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	6	17	illness|uncertainty	#FEE188	0.228402060589873
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	7	17	females|probabilistic	#FFF1A9	0.129234526423032
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	8	17	rejection	#FFF1A9	0.175648465737875
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	9	17	colour|paired	#D7141E	0.894252608033988
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	10	17		#FC622F	0.658404148945695
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	11	17		#FC622F	0.688434880195922
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	12	17		#FC622F	0.668473330180992
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	13	17	taskirrelevant	#FD913D	0.535313093693948
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	14	17		#FD913D	0.508700754561715
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	15	17	suppression	#FDAD4A	0.438009543835618
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	16	17		#FD913D	0.543124011026228
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	17	17	shifting|shortterm	#FDAD4A	0.433593304913922
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	18	17	digits	#FECB68	0.393524514373596
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	19	17	search	#FD913D	0.549458370974298
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	20	17	counting|taskrelated	#FC622F	0.608055948779266
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	21	17	topdown	#FC622F	0.670245700264149
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	22	17	visuospatial	#FDAD4A	0.423427680496836
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	23	17	arithmetic|calculation|solving	#FECB68	0.364549948414455
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	1	18	addiction|craving|drugs	#FC622F	0.682584691746549
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	2	18	allele|genotype|polymorphism	#D7141E	0.853058683845782
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	3	18	motivation	#FEE188	0.222492959560678
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	4	18	heart	#B10026	0.942021759411153
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	5	18	sleep	#FDAD4A	0.457517020095855
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	6	18	expectancy	#B10026	0.949809485938946
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	7	18	phasic|salience	#F03623	0.711476357247633
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	8	18	adolescence|adolescents	#FC622F	0.678062962667095
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	9	18	intelligence|tracking	#FEE188	0.246166551774112
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	10	18		#FC622F	0.668683988092267
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	11	18	serial	#FDAD4A	0.45958622862548
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	12	18		#FC622F	0.686255898358739
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	13	18	spatially|taskrelevant	#FDAD4A	0.405792572545243
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	14	18		#FD913D	0.505523112627021
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	15	18	attended|attend|unattended	#FECB68	0.355554299925082
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	16	18	rotation|shapes	#FECB68	0.34192271756119
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	17	18	rehearsal	#FDAD4A	0.449341790535602
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	18	18	learned	#FDAD4A	0.440675918169353
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	19	18		#FC622F	0.607583992109572
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	20	18	cued|preparatory	#FD913D	0.595247344713136
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	21	18		#FC622F	0.609020717741488
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	22	18		#FD913D	0.554610922394051
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	23	18	numbers|numerical	#FD913D	0.552734784260828
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	1	19	future	#F03623	0.787941272694637
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	2	19	negatively	#FDAD4A	0.452754649983359
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	3	19	distress|epilepsy|selfreported	#FC622F	0.65879963018631
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	4	19	anticipatory|cocaine|probabilities|smoking	#FDAD4A	0.460468751176
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	5	19	alcohol|amount|impulsivity	#F03623	0.73313573471116
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	6	19	game|success	#FDAD4A	0.485723551074616
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	7	19	adhd|childhood|engagement	#D7141E	0.842429264277201
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	8	19		#F03623	0.716727660738829
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	9	19		#FC622F	0.697271871412681
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	10	19		#FC622F	0.674850917903609
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	11	19		#F03623	0.716584923909666
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	12	19	endogenous	#FC622F	0.688591463271165
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	13	19	cueing|invalid|orienting	#FD913D	0.57824846617789
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	14	19		#FDAD4A	0.465618679578504
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	15	19	multisensory	#FEE188	0.282145198019299
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	16	19		#FDAD4A	0.421164631321575
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	17	19	shifts	#FD913D	0.526301415118946
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	18	19	covert	#FDAD4A	0.496948754120474
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	19	19		#FD913D	0.553920679279872
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	20	19	preparation	#FD913D	0.522563354742386
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	21	19	discrimination|training	#FD913D	0.519253287902182
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	22	19	sequences	#FECB68	0.366021744281942
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	23	19		#FD913D	0.583436988668019
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	1	20	personal|self|selfreferential|trait|traits	#F03623	0.70820933487075
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	2	20	empathic|theory	#FDAD4A	0.493346270341971
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	3	20	attribution|intentional	#FEE188	0.282024535893131
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	4	20	elderly|oscillations	#FEE188	0.236113068272841
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	5	20	antipsychotic|virtual	#FD913D	0.519504756037941
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	6	20		#B10026	0.937253731621682
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	7	20	experiences	#FD913D	0.539591277140335
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	8	20	categorical|pressure	#FEE188	0.27138247409919
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	9	20	play|skills	#FDAD4A	0.444578719661938
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	10	20	automatic|trained	#FC622F	0.603892825695855
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	11	20		#FC622F	0.659506548685779
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	12	20	practice	#FC622F	0.663914871657149
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	13	20	visuomotor	#FDAD4A	0.482013199408493
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	14	20		#FDAD4A	0.446802957957199
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	15	20	tool	#FFF1A9	0.166860406198718
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	16	20	vision	#FFFFCC	0.0586790060657171
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	17	20	visually	#FECB68	0.334513448445285
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	18	20	saccade|saccades|saccadic	#FECB68	0.378180078335433
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	19	20	locations	#FECB68	0.38115149045491
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	20	20	imagery|planning	#FD913D	0.517885756316657
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	21	20		#FD913D	0.547122798692729
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	22	20	rest	#FD913D	0.589573406379766
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	23	20	sequence	#FDAD4A	0.47937721515096
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	1	21	scenarios	#FFF1A9	0.179397622554033
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	2	21	intention|intentions	#FDAD4A	0.435536254501519
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	3	21	causality|perspective	#FEE188	0.210687517931123
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	4	21	past	#B10026	0.938726509922586
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	5	21		#B10026	1
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	6	21	episode	#FECB68	0.376454978743422
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	7	21	improvement	#FD913D	0.555196741727093
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	8	21	masking|retention	#B10026	0.97825402495924
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	9	21		#FD913D	0.5210654711033
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	10	21	dominant	#FECB68	0.314588327546002
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	11	21		#FDAD4A	0.479912725828701
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	12	21	sequential	#FC622F	0.61028196565606
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	13	21	fingers	#FEE188	0.241183870677207
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	14	21		#FEE188	0.295016482396028
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	15	21	gesture|gestures	#FECB68	0.328545791228292
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	16	21		#FEE188	0.254938524820244
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	17	21	hands	#FEE188	0.257350994867724
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	18	21		#FECB68	0.363971096271614
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	19	21		#FECB68	0.378119336432926
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	20	21	eye|position	#FECB68	0.38415146891255
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	21	21	execution	#FDAD4A	0.432595367896201
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	22	21	finger|sensorimotor	#FDAD4A	0.43124702513613
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	23	21		#FDAD4A	0.460803442571497
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	1	22	moral|stories|story	#FEE188	0.283018786109225
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	2	22	mentalizing|persons	#FDAD4A	0.44644431889016
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	3	22	default|restingstate	#D7141E	0.838934389201526
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	4	22	thinking|thought|thoughts	#D7141E	0.89968069524063
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	5	22	spontaneous	#B10026	0.913919473141512
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	6	22	concentration|sensations	#FC622F	0.673993568576074
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	7	22	hierarchical|preference	#FDAD4A	0.492900508686046
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	8	22	effort|oral|simulation	#FEE188	0.200958948974317
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	9	22	interhemispheric|plasticity	#FD913D	0.523331270840247
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	10	22	imagined|imagine	#FFFFCC	0.0602022512356299
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	11	22	tapping	#FDAD4A	0.429175108766147
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	12	22	foot|muscle|muscles|voluntary	#FECB68	0.341280179890556
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	13	22	limb	#FFF1A9	0.187315688800602
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	14	22	eyes|velocity	#FEE188	0.203714426140497
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	15	22	biological|gaze|videos	#FFFFCC	0.0280604601606753
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	16	22	body	#FEE188	0.292018197790537
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	17	22	grasping|orientation|reaching	#FFF1A9	0.123971518376566
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	18	22		#FECB68	0.326742194885115
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	19	22	mirror|shape	#FECB68	0.323294612464987
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	20	22	actions	#FFF1A9	0.190553285737775
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	21	22	action	#FECB68	0.38803047301662
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	22	22		#FDAD4A	0.42851681966105
+baee15d4-da23-3b6d-bed0-7808aaadc9b3	Katsarava Z	23	22	hand|movements|sensory	#FECB68	0.370261668408808

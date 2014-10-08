@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	1	1	auditory|speech	#D7141E	0.806978022854209
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	2	1		#F03623	0.78625293910686
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	3	1	da|integration	#D7141E	0.880896284780403
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	4	1		#B10026	0.923926376563667
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	5	1	physical|psychophysical|tactile	#F03623	0.717285507594107
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	6	1		#D7141E	0.830481307570102
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	7	1	somatosensory|stimulation	#F03623	0.781717145344651
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	8	1	painful|pain	#FD913D	0.598599756604028
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	9	1		#FC622F	0.644172760864627
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	10	1	ratings	#FC622F	0.609015257437545
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	11	1	affective|affect	#FD913D	0.506565680824743
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	12	1	emotions	#FD913D	0.593507321355987
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	13	1	expression|expressions|facial	#FDAD4A	0.448043628385897
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	14	1		#FC622F	0.616923365744986
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	15	1		#FC622F	0.687175053747215
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	16	1	emotion|motion|neutral	#FC622F	0.699145463259421
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	17	1	rating	#F03623	0.72030107983995
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	18	1	negative|positive	#F03623	0.721682992005091
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	19	1		#D7141E	0.884834235761743
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	20	1	ear|order	#B10026	0.913254673404044
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	21	1	motor	#D7141E	0.881829893115849
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	22	1	visual	#F03623	0.796658155076137
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	23	1	age|image|response	#B10026	0.904344907049301
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	1	2	sound|sounds	#FC622F	0.671543455137784
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	2	2		#F03623	0.754281267896756
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	3	2	audiovisual|bimodal|crossmodal	#FD913D	0.559459415054231
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	4	2		#B10026	0.929186734113399
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	5	2		#B10026	0.927432927984384
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	6	2		#D7141E	0.878404731595973
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	7	2	sensation	#FDAD4A	0.495054068866062
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	8	2	heat|noxious	#FD913D	0.553242597075342
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	9	2		#FC622F	0.670801649451547
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	10	2		#FC622F	0.692900468384421
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	11	2		#FC622F	0.670053950933727
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	12	2	valence	#FD913D	0.558992777963176
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	13	2	person|social	#FD913D	0.540037846904946
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	14	2		#FC622F	0.626029554080375
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	15	2	face|faces	#FC622F	0.603600734871288
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	16	2		#F03623	0.755079798351088
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	17	2		#F03623	0.79692046978106
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	18	2		#D7141E	0.846091760997928
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	19	2		#D7141E	0.889361697075457
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	20	2		#B10026	0.906613355270585
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	21	2	images|spatial	#D7141E	0.890313726752767
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	22	2	control	#D7141E	0.887154433136615
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	23	2	time	#B10026	0.901874233969029
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	1	3	acoustic|listening|musical|music|pitch	#FD913D	0.560036698771209
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	2	3	noise|tones	#FC622F	0.670175652594963
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	3	3		#D7141E	0.809537687057659
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	4	3		#D7141E	0.889700772409319
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	5	3	frequency	#B10026	0.956414637867649
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	6	3		#B10026	0.960424235780031
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	7	3		#FC622F	0.674297366654518
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	8	3	temperature	#FD913D	0.517976675349315
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	9	3		#FC622F	0.679465913004588
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	10	3	pleasant|unpleasant	#FD913D	0.548803037540869
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	11	3	anxiety	#FD913D	0.521868720746202
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	12	3		#FC622F	0.676438623002981
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	13	3		#F03623	0.708329089031507
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	14	3		#FC622F	0.695607082421468
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	15	3		#F03623	0.720366054737078
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	16	3	picture	#F03623	0.712900138343445
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	17	3		#D7141E	0.857595108717244
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	18	3	value	#D7141E	0.871153767653306
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	19	3	cue	#D7141E	0.802723140354267
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	20	3	error|target	#D7141E	0.819403138387004
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	21	3	attention	#D7141E	0.839090329401595
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	22	3		#D7141E	0.891901020287446
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	23	3	number	#D7141E	0.877415064838006
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	1	4	voice	#FD913D	0.511029385763077
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	2	4		#FC622F	0.656511530853991
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	3	4	hearing	#FDAD4A	0.493701492131948
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	4	4		#D7141E	0.832354389752838
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	5	4	overt	#F03623	0.798137542173929
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	6	4		#D7141E	0.878978657366076
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	7	4		#F03623	0.753944578131134
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	8	4	nociceptive|nonpainful|painrelated	#FD913D	0.532507366099368
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	9	4	unpleasantness	#FC622F	0.605809687380298
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	10	4	skin|subjective	#FC622F	0.652451726025959
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	11	4	depression	#F03623	0.700938115473879
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	12	4	experience	#FC622F	0.689861620695282
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	13	4	female	#FC622F	0.65292567565857
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	14	4	male	#FC622F	0.682171812102414
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	15	4	pictures	#FC622F	0.688219512540571
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	16	4		#D7141E	0.843193232985047
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	17	4	perception	#D7141E	0.835324680860668
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	18	4		#D7141E	0.884111766403321
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	19	4		#D7141E	0.867018240794508
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	20	4		#D7141E	0.85334160880764
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	21	4	correct	#D7141E	0.802144859748478
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	22	4	work	#D7141E	0.854960680991616
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	23	4	memory	#D7141E	0.881709413157167
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	1	5	prosodic|prosody	#FD913D	0.550303706200436
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	2	5	phonetic	#FC622F	0.628323193831506
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	3	5	syllable|syllables	#FD913D	0.535259554248921
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	4	5		#F03623	0.770797686136445
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	5	5	lip|production	#FD913D	0.577738179586202
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	6	5	somatotopic	#FD913D	0.526862515749371
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	7	5		#F03623	0.732542679443206
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	8	5		#FC622F	0.650655236085063
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	9	5	empathy	#FC622F	0.659609297899821
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	10	5		#F03623	0.733615599334545
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	11	5	disorder	#F03623	0.712027982570326
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	12	5		#F03623	0.795779698178323
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	13	5		#D7141E	0.85413827525983
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	14	5		#D7141E	0.856648046810362
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	15	5		#D7141E	0.855597820336693
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	16	5		#B10026	0.904274336397582
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	17	5		#B10026	0.913123231688835
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	18	5	mental	#D7141E	0.804150644751442
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	19	5	go	#D7141E	0.804395653014548
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	20	5	object	#FC622F	0.678670086132687
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	21	5		#D7141E	0.858307326987902
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	22	5		#D7141E	0.874329489764977
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	23	5	word|words	#F03623	0.79739533103723
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	1	6		#F03623	0.702599118724808
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	2	6		#F03623	0.740753484827187
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	3	6		#F03623	0.797876805244721
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	4	6	vocal	#FD913D	0.598866753384422
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	5	6	articulatory	#FC622F	0.636576221780847
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	6	6		#D7141E	0.80284923017064
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	7	6	oddball	#F03623	0.72432066744938
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	8	6	perceived	#FDAD4A	0.410613644717061
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	9	6	errorrelated	#FECB68	0.363340025506366
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	10	6	approach	#FD913D	0.573798554189443
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	11	6	schizophrenia	#FD913D	0.58678650877257
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	12	6	acquisition	#B10026	0.913248628690555
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	13	6		#D7141E	0.878380121814206
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	14	6		#F03623	0.772969360728123
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	15	6		#F03623	0.780442472845364
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	16	6		#F03623	0.799880567447577
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	17	6		#F03623	0.790425340570688
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	18	6		#F03623	0.776124513155968
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	19	6		#D7141E	0.806750376108119
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	20	6	objects	#FC622F	0.683999963415056
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	21	6		#D7141E	0.863315166141858
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	22	6		#D7141E	0.83689125161359
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	23	6	language|semantic	#F03623	0.779335948719749
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	1	7	dopamine|dopaminergic	#FEE188	0.290704515753963
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	2	7		#FECB68	0.364731434210837
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	3	7		#FD913D	0.574418300211545
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	4	7		#FC622F	0.694579300325827
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	5	7		#F03623	0.720633756012636
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	6	7		#F03623	0.795926654514638
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	7	7		#F03623	0.716281778759395
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	8	7		#FC622F	0.644231079947394
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	9	7		#FC622F	0.652812838480468
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	10	7		#F03623	0.748992608191941
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	11	7		#F03623	0.797174518227894
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	12	7		#D7141E	0.808127865879014
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	13	7	linguistic|spoken	#FC622F	0.611170128242216
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	14	7		#F03623	0.737600690288697
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	15	7	comprehension|sentence|sentences|syntactic	#FC622F	0.693218672336263
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	16	7		#F03623	0.715656930834434
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	17	7		#F03623	0.71655667766315
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	18	7	phonological|reading|read	#FC622F	0.642898254043254
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	19	7		#F03623	0.767563381244738
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	20	7	perceptual|recognition	#D7141E	0.820815691058474
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	21	7		#D7141E	0.883537773489743
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	22	7		#D7141E	0.864669183858515
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	23	7	verb	#D7141E	0.831779936041338
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	1	8	outcome|reward	#FEE188	0.282887228263888
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	2	8	anticipation	#FEE188	0.265470271033965
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	3	8	outcomes	#FEE188	0.228372900881015
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	4	8	choice|choices	#FECB68	0.339300212181124
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	5	8	decisions|probability	#FC622F	0.635785453123176
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	6	8	reversal	#FC622F	0.629822779523028
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	7	8	classification|incorrect	#FD913D	0.505336279321115
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	8	8		#FC622F	0.694549075036278
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	9	8	agerelated|fluency|probes	#FD913D	0.558217054210982
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	10	8	engaged	#FC622F	0.610963155091525
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	11	8	explicit|knowledge	#F03623	0.721390535890596
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	12	8		#F03623	0.758809730664153
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	13	8		#F03623	0.764949187858664
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	14	8		#F03623	0.714037996195667
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	15	8		#FC622F	0.684493924303688
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	16	8		#FC622F	0.673946792027789
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	17	8	lexical	#FD913D	0.580816305787968
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	18	8		#FC622F	0.697352609774255
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	19	8		#F03623	0.761934021122524
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	20	8		#D7141E	0.841263603977254
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	21	8	encoding	#B10026	0.936188362524059
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	22	8	retrieval	#D7141E	0.872392176717797
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	23	8	verbal	#D7141E	0.860665122262835
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	1	9	incentive|monetary|money|rewards	#FFF1A9	0.114017195416342
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	2	9	loss	#FECB68	0.299806044958148
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	3	9		#FDAD4A	0.425888960402153
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	4	9		#FD913D	0.501895890750956
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	5	9	decisionmaking	#FECB68	0.385504664470716
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	6	9		#F03623	0.71974547600464
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	7	9		#F03623	0.728042000765303
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	8	9		#F03623	0.736573564751231
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	9	9		#F03623	0.776180745257861
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	10	9		#F03623	0.731706106040057
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	11	9		#F03623	0.726553057087583
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	12	9		#F03623	0.714936918521605
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	13	9	noun	#FC622F	0.64210501334567
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	14	9	meaning	#F03623	0.704287533815468
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	15	9	english	#FD913D	0.512435472340093
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	16	9	pseudoword|pseudowords	#FD913D	0.571457372660324
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	17	9		#FC622F	0.662567675226246
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	18	9		#F03623	0.730172654932609
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	19	9	familiar|judgment	#F03623	0.731820279874375
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	20	9	pair|pairs	#F03623	0.700879816773411
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	21	9		#D7141E	0.875748061738057
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	22	9		#D7141E	0.868979956386937
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	23	9	letter|working	#F03623	0.79963930905155
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	1	10	losses|reinforcement|win	#FEE188	0.239303313837795
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	2	10	gain	#FECB68	0.330622152245463
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	3	10	expectation	#FECB68	0.392485758624134
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	4	10	risk	#FDAD4A	0.451621886504799
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	5	10	fact	#FDAD4A	0.496424351043264
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	6	10	associative	#F03623	0.752286837623466
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	7	10	familiarity|judgments|old	#FD913D	0.558710646996682
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	8	10	contextual|text	#FC622F	0.603288332197434
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	9	10	recall|retrieved	#FC622F	0.69158462782755
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	10	10	conceptual|semantically	#FD913D	0.546165657005171
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	11	10	grammatical|speakers	#FC622F	0.635741017176405
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	12	10	nouns	#FC622F	0.61650072787434
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	13	10	japanese	#FD913D	0.535215072618514
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	14	10	languages	#FD913D	0.522425954560424
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	15	10	written	#FD913D	0.503705508234102
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	16	10	chinese|phonology	#FDAD4A	0.491143833251546
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	17	10	orthographic	#FD913D	0.527078209741654
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	18	10		#F03623	0.79176534441206
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	19	10		#D7141E	0.844928018754775
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	20	10	association|decision	#F03623	0.773959897002573
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	21	10	selection	#F03623	0.750770965760859
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	22	10	letters	#FC622F	0.642218158378423
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	23	10	demand|load	#F03623	0.727332474577421
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	1	11	conditioned|conditioning	#FD913D	0.527225344575644
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	2	11		#FC622F	0.608272799316291
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	3	11	drug|placebo	#FD913D	0.523795557758017
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	4	11		#FC622F	0.695793399323207
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	5	11	associations	#FD913D	0.569656244578764
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	6	11		#D7141E	0.833182303152691
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	7	11	episodic|recollection	#FC622F	0.671790351931932
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	8	11		#D7141E	0.857365647286488
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	9	11		#D7141E	0.851404371060293
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	10	11	concepts	#FEE188	0.292969190854008
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	11	11		#F03623	0.761983532797713
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	12	11		#F03623	0.752000296068014
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	13	11	german	#FC622F	0.691116358373121
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	14	11	readers	#FD913D	0.525399495583028
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	15	11	character|name|naming	#FDAD4A	0.411087797055204
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	16	11		#FC622F	0.677502964379514
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	17	11	novel	#F03623	0.785414550332138
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	18	11		#D7141E	0.821610505881263
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	19	11	child|children	#F03623	0.771036260650145
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	20	11	adults	#D7141E	0.882538148692374
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	21	11	ability|feedback|learning	#D7141E	0.813154848500523
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	22	11	cues|delay	#F03623	0.72347162326194
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	23	11	attentional|difficulty|targets	#F03623	0.724289909649366
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	1	12	aversive|shock	#FD913D	0.533047541676101
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	2	12	reactivity	#FDAD4A	0.486272573374946
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	3	12	males|sex|women	#FD913D	0.524601525231171
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	4	12	animal	#FD913D	0.533745063308008
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	5	12	animals	#FEE188	0.201302958541402
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	6	12		#F03623	0.77163948308581
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	7	12	remember|subsequent	#FC622F	0.673348858974772
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	8	12	autobiographical|memories	#FD913D	0.585657362858525
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	9	12		#D7141E	0.866160658624715
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	10	12	violation|violations	#FC622F	0.664729115973288
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	11	12	aphasia	#F03623	0.70171289121667
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	12	12	nonwords	#F03623	0.710288477018416
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	13	12	dyslexia	#FD913D	0.538255075020431
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	14	12		#FC622F	0.634432177746711
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	15	12	priming	#FDAD4A	0.405931055765417
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	16	12		#F03623	0.70662536724318
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	17	12	category|repetition	#F03623	0.780231867221677
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	18	12		#D7141E	0.819539995564533
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	19	12	developmental|development	#F03623	0.712523750879859
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	20	12		#D7141E	0.876760736976751
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	21	12	space	#B10026	0.938689934019267
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	22	12		#F03623	0.77792976794803
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	23	12	color	#F03623	0.73008614156069
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	1	13	threat	#FECB68	0.356317391277569
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	2	13	regulation	#FDAD4A	0.424045709436503
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	3	13		#FC622F	0.614210351010327
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	4	13	masked	#FEE188	0.27627242409383
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	5	13	scene|scenes	#FDAD4A	0.414221289495447
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	6	13		#F03623	0.746349229231974
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	7	13	confidence|remembered	#FD913D	0.56912618308087
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	8	13		#D7141E	0.868004359514425
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	9	13		#D7141E	0.878813204683222
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	10	13	ambiguity|ambiguous	#FECB68	0.38144865577003
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	11	13		#D7141E	0.809399236353238
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	12	13		#FC622F	0.672534380712716
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	13	13	writing	#FECB68	0.308959912929377
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	14	13		#FC622F	0.606502647605238
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	15	13	categorization|congruency|prime	#FD913D	0.599503217406534
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	16	13		#F03623	0.743210328692836
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	17	13	mask	#FD913D	0.539871057283164
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	18	13		#F03623	0.783235835476369
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	19	13		#F03623	0.773130854003375
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	20	13		#D7141E	0.812027017389657
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	21	13	conflict|congruent|incongruent	#F03623	0.728692572096036
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	22	13	errors	#FC622F	0.636029939200205
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	23	13	maintenance|probe|wm	#FD913D	0.589784818679566
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	1	14	angry|fearful|happy	#FDAD4A	0.415279625862488
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	2	14		#FDAD4A	0.477618660318564
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	3	14	awareness|conscious|ptsd	#FECB68	0.389397931426079
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	4	14		#FC622F	0.646300709458855
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	5	14	houses|photographs	#FEE188	0.277841448314371
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	6	14		#F03623	0.749683474252818
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	7	14	hits	#FC622F	0.674515893147107
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	8	14	famous	#FDAD4A	0.463510276676579
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	9	14	names	#FD913D	0.531633410396107
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	10	14	family	#FD913D	0.528485750669412
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	11	14	competition|mouth	#FDAD4A	0.435234483924692
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	12	14	abilities	#FDAD4A	0.406113507321755
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	13	14	implicit|unfamiliar	#FECB68	0.34425688878453
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	14	14		#FD913D	0.56100038049158
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	15	14	tom	#FC622F	0.615937731062076
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	16	14		#FC622F	0.641109624569083
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	17	14		#FC622F	0.638277502747328
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	18	14	stop	#FDAD4A	0.449814865228101
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	19	14	inhibition|inhibitory|nogo	#FD913D	0.558795642161521
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	20	14	monitoring|stroop	#FC622F	0.693753682077815
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	21	14	interference	#F03623	0.748314323426884
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	22	14		#F03623	0.724873065282324
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	23	14	demands|executive	#FC622F	0.646202152504396
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	1	15	anger	#FECB68	0.329377418015513
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	2	15	stress	#FECB68	0.365486503944079
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	3	15	feelings	#FECB68	0.392247799594201
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	4	15	salient	#FD913D	0.562477302516626
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	5	15	novelty	#FC622F	0.658809008170214
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	6	15	movie	#FD913D	0.545718485014689
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	7	15		#F03623	0.79126306342493
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	8	15		#F03623	0.797380883023706
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	9	15	longterm	#FDAD4A	0.467259501363529
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	10	15		#F03623	0.70935703683202
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	11	15	reasoning|relational	#FECB68	0.312508146795748
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	12	15		#FC622F	0.607836223662714
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	13	15	presentations	#FECB68	0.337861293159756
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	14	15		#FD913D	0.543984854610716
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	15	15	identity	#FECB68	0.38462858020723
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	16	15		#FC622F	0.622143778443056
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	17	15	strategies|strategy	#FDAD4A	0.409679314586282
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	18	15	card|cards	#FDAD4A	0.425522188244346
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	19	15	gonogo	#FC622F	0.609212048282839
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	20	15		#F03623	0.712658251602926
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	21	15	switching|switch	#FD913D	0.560619138497779
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	22	15		#FC622F	0.692760392696099
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	23	15	2back|rule	#FC622F	0.620653667100996
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	1	16	emotionally|mood|personality|sadness	#FDAD4A	0.477375413170504
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	2	16	disgust|sexual	#FFF1A9	0.161751522633266
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	3	16	olfactory	#FEE188	0.242617517463127
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	4	16	physiological	#FD913D	0.578719723218399
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	5	16	depressed|depressive|habituation	#FD913D	0.551538459167001
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	6	16	schizophrenic	#FECB68	0.378489324031991
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	7	16	colors|contexts	#FDAD4A	0.47295210920481
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	8	16	aging|encoded	#FDAD4A	0.414978934494597
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	9	16	goal	#FDAD4A	0.4809663438485
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	10	16		#FC622F	0.64136682134796
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	11	16	autism|autistic|nonverbal	#FC622F	0.671182028445148
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	12	16		#FC622F	0.612025790876926
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	13	16	bottomup|repetitions	#FDAD4A	0.477748458339623
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	14	16	adaptation	#FDAD4A	0.402345783602058
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	15	16	irrelevant	#FC622F	0.60990750937367
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	16	16	distractor|distractors	#FECB68	0.34673135434746
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	17	16		#FC622F	0.631581777581068
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	18	16	subtraction	#FECB68	0.331467304677991
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	19	16	1back|nback	#FC622F	0.680616186378967
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	20	16	manipulation|rules	#FC622F	0.629699261858411
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	21	16		#FC622F	0.672856016353502
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	22	16		#FD913D	0.587143158766791
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	23	16	digit	#FD913D	0.575670463485191
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	1	17	avoidance	#FECB68	0.397399091258976
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	2	17		#FD913D	0.540341271972263
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	3	17	eating|food	#FEE188	0.215237656742265
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	4	17	taste	#FFF1A9	0.101173350017393
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	5	17	bipolar	#FDAD4A	0.421869850766218
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	6	17	illness|uncertainty	#FECB68	0.397085614525948
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	7	17	females|probabilistic	#FEE188	0.271163414819177
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	8	17	rejection	#FFFFCC	0
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	9	17	colour|paired	#FEE188	0.29634658355119
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	10	17		#FC622F	0.6594715077117
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	11	17		#FC622F	0.615598588355963
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	12	17		#FC622F	0.613067994891415
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	13	17	taskirrelevant	#FECB68	0.305226238517634
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	14	17		#FD913D	0.531518145987222
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	15	17	suppression	#FD913D	0.504617882799182
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	16	17		#FC622F	0.61094225553535
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	17	17	shifting|shortterm	#FD913D	0.505314631110691
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	18	17	digits	#FD913D	0.538401833755605
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	19	17	search	#FC622F	0.678017970774835
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	20	17	counting|taskrelated	#F03623	0.729204289583435
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	21	17	topdown	#FD913D	0.514547767069991
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	22	17	visuospatial	#FD913D	0.598355629312607
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	23	17	arithmetic|calculation|solving	#FECB68	0.345948813666587
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	1	18	addiction|craving|drugs	#FDAD4A	0.413929255877164
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	2	18	allele|genotype|polymorphism	#FD913D	0.52406305621291
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	3	18	motivation	#FFFFCC	0.0562119794071141
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	4	18	heart	#FDAD4A	0.43884223156265
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	5	18	sleep	#FECB68	0.343524509239646
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	6	18	expectancy	#F03623	0.746101330697236
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	7	18	phasic|salience	#FD913D	0.550810795326203
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	8	18	adolescence|adolescents	#FECB68	0.398214337983288
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	9	18	intelligence|tracking	#FDAD4A	0.442613390154703
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	10	18		#F03623	0.714545707054914
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	11	18	serial	#FDAD4A	0.492362706932771
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	12	18		#FD913D	0.565730764199024
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	13	18	spatially|taskrelevant	#FDAD4A	0.468454066269508
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	14	18		#FD913D	0.509308248250021
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	15	18	attended|attend|unattended	#FECB68	0.331111962076653
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	16	18	rotation|shapes	#FECB68	0.336716620781054
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	17	18	rehearsal	#FC622F	0.651877068034255
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	18	18	learned	#FC622F	0.680625106311397
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	19	18		#D7141E	0.806503043241356
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	20	18	cued|preparatory	#FC622F	0.651983967172969
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	21	18		#D7141E	0.806590315419029
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	22	18		#FC622F	0.680904267569069
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	23	18	numbers|numerical	#FDAD4A	0.450277566277397
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	1	19	future	#FD913D	0.562141366808401
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	2	19	negatively	#FD913D	0.577190881276284
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	3	19	distress|epilepsy|selfreported	#FD913D	0.531529081962885
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	4	19	anticipatory|cocaine|probabilities|smoking	#FEE188	0.276661145849308
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	5	19	alcohol|amount|impulsivity	#FECB68	0.396326691997135
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	6	19	game|success	#FECB68	0.312845183595377
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	7	19	adhd|childhood|engagement	#FDAD4A	0.490387417537769
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	8	19		#F03623	0.733275064488204
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	9	19		#D7141E	0.803461392954089
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	10	19		#F03623	0.73741121448722
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	11	19		#FC622F	0.678758659750465
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	12	19	endogenous	#FECB68	0.360151480378772
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	13	19	cueing|invalid|orienting	#FEE188	0.270887788555003
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	14	19		#FD913D	0.580142282016452
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	15	19	multisensory	#FD913D	0.518834400245873
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	16	19		#FC622F	0.628306026403745
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	17	19	shifts	#F03623	0.710306203418621
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	18	19	covert	#F03623	0.75389906522104
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	19	19		#F03623	0.774367316559537
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	20	19	preparation	#F03623	0.731975630087357
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	21	19	discrimination|training	#F03623	0.787636344629911
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	22	19	sequences	#D7141E	0.856042686141989
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	23	19		#B10026	0.968456383703302
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	1	20	personal|self|selfreferential|trait|traits	#FECB68	0.387255284575589
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	2	20	empathic|theory	#FD913D	0.567531581383443
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	3	20	attribution|intentional	#FFFFCC	0.0259194145723755
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	4	20	elderly|oscillations	#FFFFCC	0.0795486737484792
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	5	20	antipsychotic|virtual	#FFF1A9	0.117261033934784
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	6	20		#FC622F	0.641608816899521
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	7	20	experiences	#FDAD4A	0.417110773882359
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	8	20	categorical|pressure	#FDAD4A	0.499822473645162
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	9	20	play|skills	#FDAD4A	0.444694516081622
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	10	20	automatic|trained	#F03623	0.702613405717891
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	11	20		#D7141E	0.841222428257962
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	12	20	practice	#FC622F	0.64709373980226
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	13	20	visuomotor	#FD913D	0.519531148363477
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	14	20		#F03623	0.705839431590238
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	15	20	tool	#FD913D	0.520752042150078
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	16	20	vision	#FECB68	0.32434500074168
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	17	20	visually	#FD913D	0.551896798290223
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	18	20	saccade|saccades|saccadic	#FDAD4A	0.469702457337491
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	19	20	locations	#F03623	0.796054444272041
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	20	20	imagery|planning	#FC622F	0.636608515261449
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	21	20		#D7141E	0.877332484297723
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	22	20	rest	#D7141E	0.89580125721507
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	23	20	sequence	#B10026	1
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	1	21	scenarios	#FEE188	0.260194857095955
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	2	21	intention|intentions	#FFF1A9	0.152786140142884
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	3	21	causality|perspective	#FEE188	0.239960793632341
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	4	21	past	#FFF1A9	0.186087089452798
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	5	21		#FC622F	0.636911297838682
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	6	21	episode	#FECB68	0.304487597812896
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	7	21	improvement	#FEE188	0.29303871182121
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	8	21	masking|retention	#FD913D	0.532175687852296
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	9	21		#D7141E	0.807818320472794
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	10	21	dominant	#FC622F	0.691627763175016
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	11	21		#D7141E	0.84054250318142
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	12	21	sequential	#F03623	0.741987400832792
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	13	21	fingers	#FD913D	0.554940185474026
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	14	21		#FC622F	0.612999577540711
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	15	21	gesture|gestures	#FECB68	0.306218699589732
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	16	21		#FC622F	0.639006431242974
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	17	21	hands	#FC622F	0.637296823968425
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	18	21		#F03623	0.758080141123992
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	19	21		#F03623	0.73327727937245
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	20	21	eye|position	#FC622F	0.676747309364464
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	21	21	execution	#FC622F	0.689659689774409
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	22	21	finger|sensorimotor	#D7141E	0.878843946706974
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	23	21		#B10026	0.923492444377811
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	1	22	moral|stories|story	#FFF1A9	0.149791904549849
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	2	22	mentalizing|persons	#FEE188	0.217493321519338
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	3	22	default|restingstate	#FFF1A9	0.128061934863165
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	4	22	thinking|thought|thoughts	#FECB68	0.364935723403314
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	5	22	spontaneous	#FC622F	0.662604885547657
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	6	22	concentration|sensations	#FD913D	0.516791032739309
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	7	22	hierarchical|preference	#FEE188	0.230973363538639
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	8	22	effort|oral|simulation	#FDAD4A	0.466130608941732
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	9	22	interhemispheric|plasticity	#FD913D	0.575815544396047
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	10	22	imagined|imagine	#FD913D	0.526408930425254
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	11	22	tapping	#F03623	0.761178743584421
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	12	22	foot|muscle|muscles|voluntary	#FC622F	0.61868508250942
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	13	22	limb	#FD913D	0.557304850261879
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	14	22	eyes|velocity	#FD913D	0.502590572402461
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	15	22	biological|gaze|videos	#FEE188	0.226261184456918
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	16	22	body	#FC622F	0.606333374437116
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	17	22	grasping|orientation|reaching	#FD913D	0.501165667504457
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	18	22		#F03623	0.758565240345899
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	19	22	mirror|shape	#FC622F	0.613882500116956
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	20	22	actions	#FC622F	0.609336754310669
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	21	22	action	#F03623	0.774996811766261
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	22	22		#D7141E	0.876377872508011
+45d1cdeb-ac1e-3d4c-b153-ef09cc5f13a0	Karakas HM	23	22	hand|movements|sensory	#D7141E	0.814788226896631

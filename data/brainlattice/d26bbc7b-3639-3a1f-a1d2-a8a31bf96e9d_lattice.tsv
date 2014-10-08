@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	1	1	auditory|speech	#FEE188	0.20860349643725
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	2	1		#FEE188	0.241903628306405
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	3	1	da|integration	#FDAD4A	0.443889258694979
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	4	1		#FDAD4A	0.451763319099658
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	5	1	physical|psychophysical|tactile	#FECB68	0.352516800394067
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	6	1		#FEE188	0.260217473546426
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	7	1	somatosensory|stimulation	#FFF1A9	0.168577969983569
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	8	1	painful|pain	#FFFFCC	0.0357559430733787
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	9	1		#FFFFCC	0.0599083571524327
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	10	1	ratings	#FFF1A9	0.141266559709515
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	11	1	affective|affect	#FFFFCC	0.0462445429976386
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	12	1	emotions	#FFF1A9	0.173594008461078
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	13	1	expression|expressions|facial	#FEE188	0.296152309204578
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	14	1		#FECB68	0.375071915585115
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	15	1		#FECB68	0.394698906300017
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	16	1	emotion|motion|neutral	#FECB68	0.378005794260929
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	17	1	rating	#FFF1A9	0.198376224675759
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	18	1	negative|positive	#FEE188	0.228063320087073
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	19	1		#FECB68	0.389570889445244
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	20	1	ear|order	#FECB68	0.367600340119535
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	21	1	motor	#FECB68	0.333709944514648
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	22	1	visual	#F03623	0.77836177957736
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	23	1	age|image|response	#FDAD4A	0.465759358955101
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	1	2	sound|sounds	#FFF1A9	0.149652668386469
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	2	2		#FEE188	0.212092988726038
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	3	2	audiovisual|bimodal|crossmodal	#FD913D	0.569369526765613
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	4	2		#FDAD4A	0.475591462164775
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	5	2		#FDAD4A	0.449874117281898
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	6	2		#FECB68	0.304194890644925
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	7	2	sensation	#FFFFCC	0.0336306552831146
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	8	2	heat|noxious	#FFFFCC	0.0422143798918467
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	9	2		#FFFFCC	0.0650942618038856
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	10	2		#FFF1A9	0.112149022497561
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	11	2		#FFF1A9	0.13626473930755
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	12	2	valence	#FFF1A9	0.186273325802689
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	13	2	person|social	#FEE188	0.256108028495605
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	14	2		#FECB68	0.386482435187838
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	15	2	face|faces	#FD913D	0.526775779182749
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	16	2		#FDAD4A	0.437603719307233
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	17	2		#FECB68	0.390388910016538
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	18	2		#FDAD4A	0.417161330604528
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	19	2		#FDAD4A	0.445274206548493
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	20	2		#FD913D	0.51195367788071
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	21	2	images|spatial	#FD913D	0.595009006082058
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	22	2	control	#FDAD4A	0.439190841597214
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	23	2	time	#FD913D	0.507452653517234
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	1	3	acoustic|listening|musical|music|pitch	#FFFFCC	0.0529571903034117
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	2	3	noise|tones	#FFF1A9	0.14933788997539
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	3	3		#FECB68	0.319177491158154
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	4	3		#FDAD4A	0.426666331399933
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	5	3	frequency	#FDAD4A	0.488588454408561
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	6	3		#FECB68	0.328075701739529
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	7	3		#FFFFCC	0.0858348029095983
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	8	3	temperature	#FFFFCC	0.0426729408634816
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	9	3		#FFFFCC	0.0703008539680834
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	10	3	pleasant|unpleasant	#FFFFCC	0.0679100099862091
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	11	3	anxiety	#FFFFCC	0.0414103320413359
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	12	3		#FEE188	0.200115447921946
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	13	3		#FECB68	0.315042148811508
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	14	3		#FECB68	0.383787031916149
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	15	3		#FDAD4A	0.45534126049468
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	16	3	picture	#FD913D	0.57040069992879
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	17	3		#FD913D	0.509623893435929
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	18	3	value	#FDAD4A	0.437372637880563
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	19	3	cue	#FD913D	0.522554332411068
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	20	3	error|target	#FD913D	0.520992959754463
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	21	3	attention	#FC622F	0.653478679750937
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	22	3		#FD913D	0.534942948237578
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	23	3	number	#FD913D	0.510777458162644
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	1	4	voice	#FFF1A9	0.100981766296168
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	2	4		#FFF1A9	0.134276300774065
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	3	4	hearing	#FECB68	0.363161490759891
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	4	4		#FEE188	0.283405248083309
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	5	4	overt	#FECB68	0.337691812794973
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	6	4		#FEE188	0.288337955857651
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	7	4		#FFF1A9	0.117939321248135
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	8	4	nociceptive|nonpainful|painrelated	#FFFFCC	0.0377697657385784
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	9	4	unpleasantness	#FFFFCC	0.055959430708545
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	10	4	skin|subjective	#FFF1A9	0.162099456570978
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	11	4	depression	#FFFFCC	0.093678682044032
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	12	4	experience	#FFF1A9	0.196631324101128
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	13	4	female	#FECB68	0.322286900831179
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	14	4	male	#FECB68	0.324192383092621
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	15	4	pictures	#FD913D	0.53223701585417
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	16	4		#FD913D	0.599686418722271
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	17	4	perception	#FC622F	0.68055319563736
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	18	4		#FC622F	0.647616895865389
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	19	4		#FC622F	0.629412479807013
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	20	4		#FC622F	0.623714517078964
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	21	4	correct	#FDAD4A	0.450543836984214
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	22	4	work	#FDAD4A	0.452223503904928
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	23	4	memory	#FDAD4A	0.416463092250477
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	1	5	prosodic|prosody	#FFFFCC	0.0369800764498767
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	2	5	phonetic	#FFF1A9	0.14603451067912
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	3	5	syllable|syllables	#FFF1A9	0.146616442233174
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	4	5		#FEE188	0.216435742013384
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	5	5	lip|production	#FEE188	0.232401523021076
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	6	5	somatotopic	#FFFFCC	0.085600595835206
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	7	5		#FFF1A9	0.185990782517902
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	8	5		#FFF1A9	0.155011769975991
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	9	5	empathy	#FFF1A9	0.142758307908653
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	10	5		#FFF1A9	0.177120193463894
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	11	5	disorder	#FFFFCC	0.0834025264224983
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	12	5		#FEE188	0.227968204733775
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	13	5		#FEE188	0.271788805028432
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	14	5		#FECB68	0.349075014123809
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	15	5		#FDAD4A	0.412291750861019
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	16	5		#FD913D	0.536215468856872
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	17	5		#FC622F	0.604060978171225
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	18	5	mental	#FC622F	0.640595294435217
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	19	5	go	#FD913D	0.584305062232287
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	20	5	object	#F03623	0.798785669991296
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	21	5		#FD913D	0.549460358226867
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	22	5		#FDAD4A	0.439491666899189
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	23	5	word|words	#FECB68	0.399114480269822
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	1	6		#FFF1A9	0.132637214907554
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	2	6		#FFF1A9	0.151810395708064
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	3	6		#FEE188	0.223334045462211
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	4	6	vocal	#FFFFCC	0.0913384187262904
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	5	6	articulatory	#FFFFCC	0.0578643885034007
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	6	6		#FFF1A9	0.19890209739793
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	7	6	oddball	#FEE188	0.210053329895993
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	8	6	perceived	#FECB68	0.309601312061063
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	9	6	errorrelated	#FFF1A9	0.14554025332224
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	10	6	approach	#FFF1A9	0.135488848101523
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	11	6	schizophrenia	#FEE188	0.200814070116985
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	12	6	acquisition	#FFF1A9	0.143591894064768
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	13	6		#FEE188	0.263410138911024
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	14	6		#FEE188	0.222407697384475
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	15	6		#FEE188	0.263146108596983
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	16	6		#FECB68	0.320825742193998
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	17	6		#FD913D	0.51994250668554
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	18	6		#FC622F	0.620407495584256
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	19	6		#FC622F	0.634588776894544
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	20	6	objects	#D7141E	0.878092456060796
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	21	6		#FD913D	0.560461998610283
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	22	6		#FDAD4A	0.41168618366448
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	23	6	language|semantic	#FECB68	0.346770907798245
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	1	7	dopamine|dopaminergic	#FFFFCC	0.0418134839856281
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	2	7		#FFFFCC	0.0705937555838122
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	3	7		#FFF1A9	0.174202944502848
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	4	7		#FEE188	0.21566930181729
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	5	7		#FEE188	0.249167672826744
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	6	7		#FEE188	0.272878757431816
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	7	7		#FEE188	0.29121415361896
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	8	7		#FEE188	0.225820856960535
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	9	7		#FEE188	0.210902710035372
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	10	7		#FEE188	0.237357360547421
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	11	7		#FEE188	0.240577233712871
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	12	7		#FEE188	0.268645093252451
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	13	7	linguistic|spoken	#FEE188	0.284366231347782
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	14	7		#FFF1A9	0.190624401478096
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	15	7	comprehension|sentence|sentences|syntactic	#FFF1A9	0.131245472305832
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	16	7		#FEE188	0.267065619806924
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	17	7		#FDAD4A	0.44648740099697
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	18	7	phonological|reading|read	#FDAD4A	0.453826384878329
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	19	7		#FD913D	0.591533372046467
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	20	7	perceptual|recognition	#FC622F	0.66909261208397
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	21	7		#FD913D	0.533964866654883
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	22	7		#FECB68	0.389706224759682
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	23	7	verb	#FECB68	0.318167484284914
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	1	8	outcome|reward	#FFFFCC	0.0488035616739108
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	2	8	anticipation	#FFFFCC	0.0438397911759635
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	3	8	outcomes	#FFFFCC	0.0867130977820184
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	4	8	choice|choices	#FFF1A9	0.158165243823067
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	5	8	decisions|probability	#FEE188	0.22894282002077
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	6	8	reversal	#FDAD4A	0.452764782914166
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	7	8	classification|incorrect	#FFF1A9	0.182136226670203
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	8	8		#FEE188	0.225303303596583
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	9	8	agerelated|fluency|probes	#FFF1A9	0.117678256766798
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	10	8	engaged	#FEE188	0.295996954161453
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	11	8	explicit|knowledge	#FEE188	0.222685132781693
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	12	8		#FEE188	0.26527299782002
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	13	8		#FEE188	0.229568870164848
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	14	8		#FEE188	0.226485428717317
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	15	8		#FEE188	0.241203655108039
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	16	8		#FEE188	0.280182748444641
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	17	8	lexical	#FECB68	0.33573351687664
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	18	8		#FDAD4A	0.46914402520926
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	19	8		#FD913D	0.519865647553073
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	20	8		#FD913D	0.536194162072621
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	21	8	encoding	#FD913D	0.504748482198245
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	22	8	retrieval	#FECB68	0.338653198096621
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	23	8	verbal	#FECB68	0.322259613800132
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	1	9	incentive|monetary|money|rewards	#FFFFCC	0.0331724574255692
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	2	9	loss	#FFFFCC	0.0586529372880214
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	3	9		#FFF1A9	0.128733650450655
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	4	9		#FFF1A9	0.174146201227098
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	5	9	decisionmaking	#FEE188	0.20239548385215
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	6	9		#FEE188	0.256806399460726
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	7	9		#FEE188	0.255320636611752
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	8	9		#FEE188	0.223297926496097
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	9	9		#FEE188	0.224226858074124
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	10	9		#FEE188	0.248995676839743
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	11	9		#FEE188	0.251558954250731
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	12	9		#FEE188	0.249679397921154
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	13	9	noun	#FFF1A9	0.139098166447758
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	14	9	meaning	#FEE188	0.239370031368423
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	15	9	english	#FECB68	0.328491570515266
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	16	9	pseudoword|pseudowords	#FEE188	0.268175669472985
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	17	9		#FDAD4A	0.400318945711129
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	18	9		#FDAD4A	0.448553519504708
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	19	9	familiar|judgment	#FDAD4A	0.420989351715968
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	20	9	pair|pairs	#FECB68	0.37482423168612
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	21	9		#FDAD4A	0.454207575694157
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	22	9		#FDAD4A	0.45576740154783
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	23	9	letter|working	#FDAD4A	0.471474641119337
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	1	10	losses|reinforcement|win	#FFFFCC	0.0573936139923526
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	2	10	gain	#FFFFCC	0.0952984377090348
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	3	10	expectation	#FFFFCC	0.0728883441551287
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	4	10	risk	#FFF1A9	0.131445360862467
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	5	10	fact	#FEE188	0.214553353494401
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	6	10	associative	#FEE188	0.208053691537514
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	7	10	familiarity|judgments|old	#FEE188	0.241115581348429
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	8	10	contextual|text	#FFF1A9	0.197863553287084
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	9	10	recall|retrieved	#FFF1A9	0.168366623941387
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	10	10	conceptual|semantically	#FEE188	0.221258037245116
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	11	10	grammatical|speakers	#FEE188	0.204136002618995
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	12	10	nouns	#FFF1A9	0.157958477285394
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	13	10	japanese	#FEE188	0.273715697593716
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	14	10	languages	#FEE188	0.249947670195716
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	15	10	written	#FDAD4A	0.445713896443301
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	16	10	chinese|phonology	#FECB68	0.392569892437306
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	17	10	orthographic	#FD913D	0.527884590912553
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	18	10		#FDAD4A	0.448996142337909
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	19	10		#FDAD4A	0.412931818642094
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	20	10	association|decision	#FEE188	0.29737632938776
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	21	10	selection	#FECB68	0.317139996929198
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	22	10	letters	#FD913D	0.513237961264088
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	23	10	demand|load	#FDAD4A	0.431807624852727
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	1	11	conditioned|conditioning	#FFFFCC	0.0117540587716586
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	2	11		#FFF1A9	0.11623103235965
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	3	11	drug|placebo	#FFF1A9	0.104326519311958
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	4	11		#FEE188	0.289844426969822
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	5	11	associations	#FEE188	0.299330099447723
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	6	11		#FECB68	0.347723843908357
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	7	11	episodic|recollection	#FFF1A9	0.171488662599943
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	8	11		#FECB68	0.344220995992835
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	9	11		#FECB68	0.329312302123351
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	10	11	concepts	#FEE188	0.202285900489315
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	11	11		#FEE188	0.287190235786699
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	12	11		#FEE188	0.294876961787747
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	13	11	german	#FEE188	0.203265774890096
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	14	11	readers	#FECB68	0.317682927153329
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	15	11	character|name|naming	#FDAD4A	0.442380831382567
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	16	11		#FD913D	0.50471308991206
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	17	11	novel	#FDAD4A	0.499746226379644
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	18	11		#FD913D	0.508941371971538
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	19	11	child|children	#FECB68	0.385518943396543
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	20	11	adults	#FDAD4A	0.448052078430953
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	21	11	ability|feedback|learning	#FEE188	0.286233205661174
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	22	11	cues|delay	#FD913D	0.548781175655818
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	23	11	attentional|difficulty|targets	#FC622F	0.65503097535872
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	1	12	aversive|shock	#FFFFCC	0.0709090432296078
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	2	12	reactivity	#FFF1A9	0.133251029153269
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	3	12	males|sex|women	#FEE188	0.215477264531164
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	4	12	animal	#FEE188	0.26452490719982
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	5	12	animals	#FDAD4A	0.428674180351264
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	6	12		#FDAD4A	0.461161455145826
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	7	12	remember|subsequent	#FECB68	0.375992409183824
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	8	12	autobiographical|memories	#FFF1A9	0.10072863581816
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	9	12		#FECB68	0.354304417098969
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	10	12	violation|violations	#FFF1A9	0.120392361393285
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	11	12	aphasia	#FEE188	0.286684474849234
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	12	12	nonwords	#FECB68	0.338047050419928
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	13	12	dyslexia	#FECB68	0.33292550157652
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	14	12		#FDAD4A	0.487069151341462
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	15	12	priming	#FC622F	0.618455663035745
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	16	12		#FD913D	0.565132049032411
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	17	12	category|repetition	#FD913D	0.547157785788354
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	18	12		#FD913D	0.521957007929792
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	19	12	developmental|development	#FD913D	0.525528732608149
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	20	12		#FDAD4A	0.457391010062157
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	21	12	space	#FDAD4A	0.477196273110029
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	22	12		#FDAD4A	0.459398627667081
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	23	12	color	#FD913D	0.584118845063298
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	1	13	threat	#FFF1A9	0.104972972472841
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	2	13	regulation	#FFFFCC	0.0488434398518551
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	3	13		#FEE188	0.200021330676051
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	4	13	masked	#FDAD4A	0.404790709190971
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	5	13	scene|scenes	#FD913D	0.578385639599985
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	6	13		#FD913D	0.55686627579412
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	7	13	confidence|remembered	#FDAD4A	0.494514030474463
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	8	13		#FD913D	0.502784323149131
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	9	13		#FECB68	0.35815693146922
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	10	13	ambiguity|ambiguous	#FEE188	0.291769229771455
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	11	13		#FECB68	0.376597761445446
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	12	13		#FDAD4A	0.493757780076131
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	13	13	writing	#FDAD4A	0.41592507357024
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	14	13		#FD913D	0.554891170785356
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	15	13	categorization|congruency|prime	#FDAD4A	0.485176462668344
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	16	13		#FD913D	0.567001922808621
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	17	13	mask	#FD913D	0.548921914934602
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	18	13		#FDAD4A	0.499752869017619
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	19	13		#FDAD4A	0.416954433217336
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	20	13		#FECB68	0.388733693857446
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	21	13	conflict|congruent|incongruent	#FEE188	0.298230321228301
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	22	13	errors	#FECB68	0.322625459681715
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	23	13	maintenance|probe|wm	#FECB68	0.334276906775586
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	1	14	angry|fearful|happy	#FFF1A9	0.135590982065996
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	2	14		#FFF1A9	0.116201717649561
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	3	14	awareness|conscious|ptsd	#FFF1A9	0.129882167322067
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	4	14		#FDAD4A	0.409175443761839
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	5	14	houses|photographs	#FDAD4A	0.462789709903995
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	6	14		#FC622F	0.614654318742057
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	7	14	hits	#FC622F	0.636851196347255
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	8	14	famous	#FECB68	0.311379509751578
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	9	14	names	#FFF1A9	0.175071692751726
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	10	14	family	#FEE188	0.206906282363922
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	11	14	competition|mouth	#FD913D	0.516929269534467
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	12	14	abilities	#FDAD4A	0.409737689907275
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	13	14	implicit|unfamiliar	#FD913D	0.548927228040548
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	14	14		#FC622F	0.620035354896899
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	15	14	tom	#FDAD4A	0.469520025332004
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	16	14		#FC622F	0.609854141183822
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	17	14		#FD913D	0.555148290286672
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	18	14	stop	#FEE188	0.297130602319474
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	19	14	inhibition|inhibitory|nogo	#FEE188	0.201021491152171
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	20	14	monitoring|stroop	#FFF1A9	0.190395786734638
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	21	14	interference	#FECB68	0.337863904515852
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	22	14		#FECB68	0.360088710871377
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	23	14	demands|executive	#FECB68	0.37376878571106
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	1	15	anger	#FFF1A9	0.117419369998968
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	2	15	stress	#FFFFCC	0.0241357868690012
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	3	15	feelings	#FFF1A9	0.127631078176763
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	4	15	salient	#FFF1A9	0.165661590545318
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	5	15	novelty	#FEE188	0.211088924526584
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	6	15	movie	#FDAD4A	0.429789116876531
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	7	15		#FD913D	0.572441187194223
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	8	15		#FDAD4A	0.499125606272629
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	9	15	longterm	#FEE188	0.29918869157072
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	10	15		#FECB68	0.37224610672067
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	11	15	reasoning|relational	#FEE188	0.25922280242708
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	12	15		#FD913D	0.557908059809878
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	13	15	presentations	#FC622F	0.620186619412487
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	14	15		#FC622F	0.651592384048838
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	15	15	identity	#FD913D	0.593573259930267
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	16	15		#FC622F	0.603875088118284
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	17	15	strategies|strategy	#FDAD4A	0.448977147240133
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	18	15	card|cards	#FEE188	0.27235221655855
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	19	15	gonogo	#FEE188	0.238730329379229
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	20	15		#FEE188	0.292566136626362
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	21	15	switching|switch	#FECB68	0.335669832434006
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	22	15		#FECB68	0.370487945003632
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	23	15	2back|rule	#FDAD4A	0.406489093325413
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	1	16	emotionally|mood|personality|sadness	#FFFFCC	0.0913585976145168
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	2	16	disgust|sexual	#FEE188	0.238513237609259
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	3	16	olfactory	#FFFFCC	0.0635465475788038
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	4	16	physiological	#FFFFCC	0.0755186310236865
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	5	16	depressed|depressive|habituation	#FFFFCC	0.0714922452040753
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	6	16	schizophrenic	#FFF1A9	0.177639037510178
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	7	16	colors|contexts	#FEE188	0.290795499204827
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	8	16	aging|encoded	#FEE188	0.253607951539386
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	9	16	goal	#FECB68	0.324828083882967
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	10	16		#FECB68	0.377841527094242
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	11	16	autism|autistic|nonverbal	#FEE188	0.279744070999965
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	12	16		#FD913D	0.564178553065756
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	13	16	bottomup|repetitions	#FD913D	0.558264272354543
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	14	16	adaptation	#FC622F	0.605069228115373
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	15	16	irrelevant	#FD913D	0.595085336601137
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	16	16	distractor|distractors	#FD913D	0.586193096586138
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	17	16		#FD913D	0.549607853382011
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	18	16	subtraction	#FDAD4A	0.475395595513716
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	19	16	1back|nback	#FEE188	0.278134642621301
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	20	16	manipulation|rules	#FDAD4A	0.44461164944143
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	21	16		#FDAD4A	0.450953390783706
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	22	16		#FDAD4A	0.48128406216969
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	23	16	digit	#FD913D	0.502552059674689
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	1	17	avoidance	#FFFFCC	0.0637380240399524
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	2	17		#FFF1A9	0.161217419332146
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	3	17	eating|food	#FFF1A9	0.119024141931159
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	4	17	taste	#FFFFCC	0
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	5	17	bipolar	#FFFFCC	0.0733616282074421
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	6	17	illness|uncertainty	#FFFFCC	0.0913952417733159
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	7	17	females|probabilistic	#FFF1A9	0.170019391270249
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	8	17	rejection	#FFF1A9	0.143760642441971
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	9	17	colour|paired	#FDAD4A	0.480676881584155
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	10	17		#FECB68	0.39740329463528
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	11	17		#FDAD4A	0.411758245834101
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	12	17		#FDAD4A	0.474253017064414
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	13	17	taskirrelevant	#FD913D	0.554497233740266
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	14	17		#D7141E	0.850582456167437
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	15	17	suppression	#FC622F	0.641177954270124
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	16	17		#D7141E	0.822772504115941
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	17	17	shifting|shortterm	#FDAD4A	0.444673499680606
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	18	17	digits	#FDAD4A	0.461783952461575
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	19	17	search	#FDAD4A	0.459847513244358
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	20	17	counting|taskrelated	#FEE188	0.266559682391928
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	21	17	topdown	#FDAD4A	0.493408806649872
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	22	17	visuospatial	#FD913D	0.583126975246378
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	23	17	arithmetic|calculation|solving	#FDAD4A	0.471645594997454
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	1	18	addiction|craving|drugs	#FFF1A9	0.166880293451896
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	2	18	allele|genotype|polymorphism	#FFFFCC	0.0383635142185697
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	3	18	motivation	#FFFFCC	0.0429491030664102
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	4	18	heart	#FFFFCC	0.0674226782263081
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	5	18	sleep	#FFF1A9	0.128854486349375
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	6	18	expectancy	#FFF1A9	0.198941214017124
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	7	18	phasic|salience	#FFF1A9	0.143522904696754
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	8	18	adolescence|adolescents	#FD913D	0.57687506451926
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	9	18	intelligence|tracking	#FDAD4A	0.428478646361779
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	10	18		#FDAD4A	0.421020978139616
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	11	18	serial	#FEE188	0.25059658906637
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	12	18		#FDAD4A	0.464759820234435
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	13	18	spatially|taskrelevant	#FD913D	0.520622976364054
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	14	18		#D7141E	0.859116110776973
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	15	18	attended|attend|unattended	#B10026	1
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	16	18	rotation|shapes	#B10026	0.901761916820341
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	17	18	rehearsal	#FECB68	0.370833994669638
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	18	18	learned	#FEE188	0.28885958505135
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	19	18		#FDAD4A	0.484101822115761
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	20	18	cued|preparatory	#FDAD4A	0.451684737979819
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	21	18		#FDAD4A	0.472407721728979
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	22	18		#FD913D	0.517661534594678
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	23	18	numbers|numerical	#FDAD4A	0.495049473166508
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	1	19	future	#FFFFCC	0.0833292225145915
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	2	19	negatively	#FFF1A9	0.126891569111359
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	3	19	distress|epilepsy|selfreported	#FFFFCC	0.0156385444158099
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	4	19	anticipatory|cocaine|probabilities|smoking	#FFF1A9	0.120653601739356
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	5	19	alcohol|amount|impulsivity	#FFF1A9	0.165906383776223
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	6	19	game|success	#FEE188	0.228150828210017
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	7	19	adhd|childhood|engagement	#FECB68	0.318216542203195
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	8	19		#FECB68	0.320005579103533
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	9	19		#FECB68	0.392180596690696
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	10	19		#FECB68	0.38707517153302
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	11	19		#FECB68	0.397497946671511
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	12	19	endogenous	#FEE188	0.277407614298158
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	13	19	cueing|invalid|orienting	#FECB68	0.332792468425262
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	14	19		#D7141E	0.872151402250344
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	15	19	multisensory	#D7141E	0.84409226025701
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	16	19		#B10026	0.925115806166679
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	17	19	shifts	#FC622F	0.696906485827705
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	18	19	covert	#FC622F	0.60616454470279
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	19	19		#FD913D	0.561904226319992
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	20	19	preparation	#FDAD4A	0.415661010725325
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	21	19	discrimination|training	#FDAD4A	0.487202996232725
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	22	19	sequences	#FEE188	0.249823023313312
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	23	19		#FDAD4A	0.419133237099397
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	1	20	personal|self|selfreferential|trait|traits	#FFFFCC	0.0627520267356905
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	2	20	empathic|theory	#FFF1A9	0.139868793645701
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	3	20	attribution|intentional	#FFF1A9	0.126328653902486
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	4	20	elderly|oscillations	#FFF1A9	0.105737995681365
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	5	20	antipsychotic|virtual	#FECB68	0.321029685580266
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	6	20		#FECB68	0.328937788180152
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	7	20	experiences	#FFF1A9	0.12660950741068
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	8	20	categorical|pressure	#FEE188	0.261056988222111
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	9	20	play|skills	#FFF1A9	0.182978723709228
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	10	20	automatic|trained	#FEE188	0.252861798429465
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	11	20		#FEE188	0.269881328871402
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	12	20	practice	#FEE188	0.239832287469004
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	13	20	visuomotor	#FDAD4A	0.473799835339134
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	14	20		#F03623	0.780402847261313
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	15	20	tool	#FC622F	0.697387218562028
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	16	20	vision	#F03623	0.796442749454055
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	17	20	visually	#FC622F	0.671003917207235
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	18	20	saccade|saccades|saccadic	#FC622F	0.643854019501302
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	19	20	locations	#FC622F	0.620458717738199
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	20	20	imagery|planning	#FECB68	0.355712441294031
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	21	20		#FDAD4A	0.453014020104875
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	22	20	rest	#FECB68	0.352952803990931
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	23	20	sequence	#FECB68	0.345313037441398
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	1	21	scenarios	#FFFFCC	0.0697495897567105
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	2	21	intention|intentions	#FDAD4A	0.429928401480838
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	3	21	causality|perspective	#FFF1A9	0.176198239416294
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	4	21	past	#FFFFCC	0.0472542853343693
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	5	21		#FEE188	0.267069854648107
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	6	21	episode	#FEE188	0.21905994665752
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	7	21	improvement	#FFF1A9	0.178128125926366
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	8	21	masking|retention	#FECB68	0.343911143017036
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	9	21		#FECB68	0.310213091931224
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	10	21	dominant	#FEE188	0.225513699684349
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	11	21		#FFF1A9	0.186520265589538
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	12	21	sequential	#FFF1A9	0.153500820036601
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	13	21	fingers	#FFF1A9	0.159164313175013
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	14	21		#D7141E	0.845834418977494
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	15	21	gesture|gestures	#FD913D	0.54536630691721
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	16	21		#D7141E	0.845740542955153
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	17	21	hands	#FC622F	0.692945817308876
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	18	21		#F03623	0.766718409741214
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	19	21		#F03623	0.762393431003164
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	20	21	eye|position	#D7141E	0.83799214136579
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	21	21	execution	#FECB68	0.345950435653793
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	22	21	finger|sensorimotor	#FEE188	0.254493164296152
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	23	21		#FECB68	0.36003715582077
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	1	22	moral|stories|story	#FFF1A9	0.161886801216238
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	2	22	mentalizing|persons	#FEE188	0.297195883111339
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	3	22	default|restingstate	#FFFFCC	0.0697368577289031
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	4	22	thinking|thought|thoughts	#FFF1A9	0.174716606950636
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	5	22	spontaneous	#FFF1A9	0.154586876788635
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	6	22	concentration|sensations	#FFF1A9	0.124609848467657
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	7	22	hierarchical|preference	#FECB68	0.358505426383769
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	8	22	effort|oral|simulation	#FEE188	0.213509115426599
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	9	22	interhemispheric|plasticity	#FEE188	0.225103116980014
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	10	22	imagined|imagine	#FFF1A9	0.178668449691928
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	11	22	tapping	#FFF1A9	0.108458566015381
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	12	22	foot|muscle|muscles|voluntary	#FFFFCC	0.0443933668395947
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	13	22	limb	#FFF1A9	0.188645227217432
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	14	22	eyes|velocity	#B10026	0.918961292883861
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	15	22	biological|gaze|videos	#D7141E	0.818355581409075
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	16	22	body	#FC622F	0.617029970562601
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	17	22	grasping|orientation|reaching	#FC622F	0.686356040227398
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	18	22		#F03623	0.776722619854622
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	19	22	mirror|shape	#D7141E	0.896776583175182
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	20	22	actions	#FC622F	0.604863895437089
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	21	22	action	#FD913D	0.547630951533296
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	22	22		#FDAD4A	0.411932896105836
+d26bbc7b-3639-3a1f-a1d2-a8a31bf96e9d	Hillyard SA	23	22	hand|movements|sensory	#FECB68	0.34176596722755

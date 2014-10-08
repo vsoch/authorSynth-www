@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	1	1	auditory|speech	#FDAD4A	0.479945202520343
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	2	1		#FDAD4A	0.447597044192151
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	3	1	da|integration	#F03623	0.716977292679344
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	4	1		#D7141E	0.80217643767814
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	5	1	physical|psychophysical|tactile	#F03623	0.779609308546865
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	6	1		#D7141E	0.854803315624686
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	7	1	somatosensory|stimulation	#F03623	0.787100365303909
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	8	1	painful|pain	#FC622F	0.64775968863388
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	9	1		#FC622F	0.685003109777267
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	10	1	ratings	#FD913D	0.571545538688418
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	11	1	affective|affect	#FD913D	0.511861199662693
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	12	1	emotions	#FECB68	0.39290291189691
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	13	1	expression|expressions|facial	#FDAD4A	0.462720587428827
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	14	1		#FD913D	0.593225896799629
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	15	1		#FD913D	0.591323854553405
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	16	1	emotion|motion|neutral	#FD913D	0.510739543797579
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	17	1	rating	#FD913D	0.566148551800437
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	18	1	negative|positive	#FD913D	0.579129024823922
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	19	1		#F03623	0.782175492477989
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	20	1	ear|order	#F03623	0.78803479166092
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	21	1	motor	#F03623	0.791298018119868
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	22	1	visual	#FC622F	0.672870180461663
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	23	1	age|image|response	#F03623	0.705283412433228
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	1	2	sound|sounds	#FECB68	0.303802414000828
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	2	2		#FECB68	0.398008634955588
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	3	2	audiovisual|bimodal|crossmodal	#FECB68	0.363471146803598
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	4	2		#F03623	0.792022985905028
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	5	2		#D7141E	0.853588683519095
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	6	2		#D7141E	0.867263443917053
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	7	2	sensation	#FD913D	0.578744676216164
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	8	2	heat|noxious	#FD913D	0.597684783237504
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	9	2		#F03623	0.705732783198475
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	10	2		#FC622F	0.618993966392
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	11	2		#FD913D	0.583002617768536
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	12	2	valence	#FDAD4A	0.468865725021804
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	13	2	person|social	#FD913D	0.504708703869685
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	14	2		#FC622F	0.615210629997298
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	15	2	face|faces	#FD913D	0.589530961663084
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	16	2		#FC622F	0.648684118612419
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	17	2		#FC622F	0.670793846972738
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	18	2		#F03623	0.752507318279081
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	19	2		#D7141E	0.816645727801282
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	20	2		#D7141E	0.840306615704757
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	21	2	images|spatial	#F03623	0.785869038426418
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	22	2	control	#F03623	0.754958409975057
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	23	2	time	#F03623	0.734552931834649
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	1	3	acoustic|listening|musical|music|pitch	#FFF1A9	0.144122632338491
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	2	3	noise|tones	#FEE188	0.222660795391576
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	3	3		#FD913D	0.55682509539816
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	4	3		#FC622F	0.697560289368654
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	5	3	frequency	#F03623	0.708148490879637
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	6	3		#D7141E	0.884154531302363
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	7	3		#F03623	0.750933773583612
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	8	3	temperature	#FC622F	0.695343318872904
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	9	3		#F03623	0.720027056236055
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	10	3	pleasant|unpleasant	#FD913D	0.54842831363003
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	11	3	anxiety	#FECB68	0.378832668536929
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	12	3		#FC622F	0.614296459006641
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	13	3		#F03623	0.706853715163648
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	14	3		#FC622F	0.675579174781933
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	15	3		#F03623	0.703697050218557
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	16	3	picture	#FC622F	0.679571950979519
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	17	3		#F03623	0.783064336161133
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	18	3	value	#D7141E	0.827232104617269
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	19	3	cue	#D7141E	0.81487329616571
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	20	3	error|target	#D7141E	0.843295828063536
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	21	3	attention	#D7141E	0.807750054981734
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	22	3		#F03623	0.781581909314821
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	23	3	number	#F03623	0.751216201485851
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	1	4	voice	#FFF1A9	0.194897779607683
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	2	4		#FECB68	0.31611114396651
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	3	4	hearing	#FECB68	0.339800304296919
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	4	4		#FC622F	0.629992595806215
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	5	4	overt	#FC622F	0.61513214235653
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	6	4		#F03623	0.775608498386889
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	7	4		#D7141E	0.83861635510079
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	8	4	nociceptive|nonpainful|painrelated	#FD913D	0.521655359836798
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	9	4	unpleasantness	#FC622F	0.652361286694993
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	10	4	skin|subjective	#FC622F	0.601516656813717
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	11	4	depression	#FD913D	0.547794215979005
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	12	4	experience	#FD913D	0.587637874833088
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	13	4	female	#FC622F	0.689030995048384
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	14	4	male	#F03623	0.740274169059809
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	15	4	pictures	#FC622F	0.670741270762851
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	16	4		#D7141E	0.814429237359408
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	17	4	perception	#F03623	0.782909503843434
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	18	4		#D7141E	0.877857219260251
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	19	4		#D7141E	0.863098119329646
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	20	4		#D7141E	0.840998450484137
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	21	4	correct	#D7141E	0.804249284492396
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	22	4	work	#F03623	0.783271095505159
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	23	4	memory	#F03623	0.718911676741322
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	1	5	prosodic|prosody	#FEE188	0.225842695625166
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	2	5	phonetic	#FEE188	0.297631298229842
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	3	5	syllable|syllables	#FECB68	0.372439900741606
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	4	5		#FD913D	0.583386260403452
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	5	5	lip|production	#FD913D	0.514015849274312
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	6	5	somatotopic	#FC622F	0.65288005588841
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	7	5		#D7141E	0.894133185014533
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	8	5		#D7141E	0.806317305486598
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	9	5	empathy	#F03623	0.752245823120713
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	10	5		#F03623	0.755113462615188
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	11	5	disorder	#FC622F	0.628024001183727
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	12	5		#F03623	0.733006063856758
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	13	5		#F03623	0.73051969854884
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	14	5		#F03623	0.715801527571108
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	15	5		#F03623	0.736244132971343
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	16	5		#F03623	0.781045725354338
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	17	5		#D7141E	0.801238216119099
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	18	5	mental	#D7141E	0.817132000411502
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	19	5	go	#F03623	0.781789199064445
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	20	5	object	#FC622F	0.634854569428715
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	21	5		#F03623	0.772383530933942
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	22	5		#FC622F	0.681577173346237
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	23	5	word|words	#FDAD4A	0.498729496741252
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	1	6		#FD913D	0.536765454735443
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	2	6		#FD913D	0.576139787718886
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	3	6		#FC622F	0.635826702061047
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	4	6	vocal	#FDAD4A	0.464643171862186
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	5	6	articulatory	#FECB68	0.329592147046353
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	6	6		#F03623	0.765595755340725
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	7	6	oddball	#F03623	0.722650976343564
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	8	6	perceived	#F03623	0.783506112145631
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	9	6	errorrelated	#FC622F	0.608225306815668
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	10	6	approach	#FDAD4A	0.496701252669949
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	11	6	schizophrenia	#FC622F	0.652445013019002
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	12	6	acquisition	#FD913D	0.598483627091673
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	13	6		#FC622F	0.646417231131461
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	14	6		#FDAD4A	0.454915946349359
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	15	6		#FDAD4A	0.474164377093391
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	16	6		#FD913D	0.529130502080961
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	17	6		#FC622F	0.684653434165165
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	18	6		#F03623	0.735730197330717
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	19	6		#F03623	0.781600963566746
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	20	6	objects	#F03623	0.737754661322591
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	21	6		#F03623	0.76393925835035
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	22	6		#FC622F	0.61079855727022
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	23	6	language|semantic	#FDAD4A	0.456641829325062
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	1	7	dopamine|dopaminergic	#FECB68	0.348902511343888
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	2	7		#FECB68	0.381548002965312
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	3	7		#FC622F	0.664213023240213
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	4	7		#F03623	0.774372037901163
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	5	7		#D7141E	0.827935463465099
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	6	7		#D7141E	0.857028076445374
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	7	7		#D7141E	0.89452543547411
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	8	7		#D7141E	0.803560249479085
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	9	7		#F03623	0.782631945979391
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	10	7		#FC622F	0.673720186294869
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	11	7		#FC622F	0.620817671266792
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	12	7		#FC622F	0.621474216902144
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	13	7	linguistic|spoken	#FDAD4A	0.482698806402518
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	14	7		#FECB68	0.384003107339518
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	15	7	comprehension|sentence|sentences|syntactic	#FEE188	0.266181440490768
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	16	7		#FDAD4A	0.420699277977779
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	17	7		#FD913D	0.582952396128564
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	18	7	phonological|reading|read	#FD913D	0.560943771357428
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	19	7		#F03623	0.737786371551286
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	20	7	perceptual|recognition	#D7141E	0.828178189221144
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	21	7		#F03623	0.799166704007545
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	22	7		#FC622F	0.666419159144419
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	23	7	verb	#FC622F	0.665058264576864
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	1	8	outcome|reward	#FECB68	0.313651916085444
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	2	8	anticipation	#FEE188	0.278824006252578
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	3	8	outcomes	#FECB68	0.329092758336027
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	4	8	choice|choices	#FD913D	0.580027136804513
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	5	8	decisions|probability	#FC622F	0.637951561768947
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	6	8	reversal	#D7141E	0.807030591523239
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	7	8	classification|incorrect	#FD913D	0.550820520671502
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	8	8		#F03623	0.737994935810283
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	9	8	agerelated|fluency|probes	#FD913D	0.589105374021704
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	10	8	engaged	#FDAD4A	0.456494842767592
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	11	8	explicit|knowledge	#FECB68	0.376940509333106
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	12	8		#FDAD4A	0.499097562639454
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	13	8		#FDAD4A	0.432930215433144
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	14	8		#FECB68	0.382553574052447
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	15	8		#FECB68	0.373624373967171
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	16	8		#FDAD4A	0.414379546900289
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	17	8	lexical	#FDAD4A	0.42563714033262
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	18	8		#FC622F	0.621743600195236
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	19	8		#F03623	0.717229740415119
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	20	8		#F03623	0.794138648362776
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	21	8	encoding	#F03623	0.78963472662633
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	22	8	retrieval	#F03623	0.719761463139626
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	23	8	verbal	#F03623	0.785768661559116
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	1	9	incentive|monetary|money|rewards	#FFFFCC	0.0217967042403919
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	2	9	loss	#FEE188	0.244074605873726
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	3	9		#FD913D	0.539407368122487
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	4	9		#FC622F	0.663661029804287
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	5	9	decisionmaking	#FD913D	0.55710586272112
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	6	9		#F03623	0.781969033571194
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	7	9		#F03623	0.759953601762666
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	8	9		#F03623	0.720720852488754
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	9	9		#FC622F	0.66889806808661
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	10	9		#FD913D	0.53668500497878
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	11	9		#FDAD4A	0.455457005090942
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	12	9		#FDAD4A	0.433049727956688
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	13	9	noun	#FEE188	0.247966647026396
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	14	9	meaning	#FECB68	0.321891389370238
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	15	9	english	#FECB68	0.394888252955558
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	16	9	pseudoword|pseudowords	#FECB68	0.348285127370034
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	17	9		#FD913D	0.544189611573512
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	18	9		#FC622F	0.653102093203391
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	19	9	familiar|judgment	#FC622F	0.657457675195149
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	20	9	pair|pairs	#F03623	0.726952605123016
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	21	9		#D7141E	0.872460571430268
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	22	9		#D7141E	0.887941838593671
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	23	9	letter|working	#D7141E	0.826485004307493
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	1	10	losses|reinforcement|win	#FEE188	0.219871016758603
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	2	10	gain	#FFF1A9	0.158150882414492
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	3	10	expectation	#FECB68	0.348204617488754
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	4	10	risk	#FD913D	0.572449371517899
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	5	10	fact	#FC622F	0.671783624374875
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	6	10	associative	#FC622F	0.691711965969029
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	7	10	familiarity|judgments|old	#FD913D	0.574003966074064
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	8	10	contextual|text	#FDAD4A	0.478628863515286
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	9	10	recall|retrieved	#FD913D	0.502903464452138
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	10	10	conceptual|semantically	#FECB68	0.311977604728562
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	11	10	grammatical|speakers	#FECB68	0.357219014295261
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	12	10	nouns	#FEE188	0.220599466388469
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	13	10	japanese	#FECB68	0.351762119076251
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	14	10	languages	#FECB68	0.332998644945827
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	15	10	written	#FECB68	0.388294778470762
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	16	10	chinese|phonology	#FDAD4A	0.495768503112888
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	17	10	orthographic	#FD913D	0.542442184963253
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	18	10		#F03623	0.714242325310784
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	19	10		#F03623	0.763749137858516
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	20	10	association|decision	#F03623	0.75005107082903
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	21	10	selection	#D7141E	0.811102450326405
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	22	10	letters	#F03623	0.782346461614651
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	23	10	demand|load	#D7141E	0.881620539363783
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	1	11	conditioned|conditioning	#FEE188	0.264457365567082
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	2	11		#FDAD4A	0.463756977087176
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	3	11	drug|placebo	#FD913D	0.547400333257774
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	4	11		#FC622F	0.699195035750699
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	5	11	associations	#FC622F	0.610728656726876
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	6	11		#FC622F	0.632085486972123
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	7	11	episodic|recollection	#FECB68	0.390381401054758
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	8	11		#FD913D	0.574961382705614
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	9	11		#FD913D	0.57892421044622
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	10	11	concepts	#FFF1A9	0.101856395911152
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	11	11		#FDAD4A	0.464852731784993
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	12	11		#FDAD4A	0.454598421319005
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	13	11	german	#FECB68	0.397192538695813
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	14	11	readers	#FDAD4A	0.435910659004788
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	15	11	character|name|naming	#FDAD4A	0.470680485289126
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	16	11		#FC622F	0.625287344344341
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	17	11	novel	#FC622F	0.686677127383261
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	18	11		#F03623	0.741707744832224
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	19	11	child|children	#FC622F	0.64464795459307
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	20	11	adults	#D7141E	0.828545975388103
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	21	11	ability|feedback|learning	#D7141E	0.870897764415755
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	22	11	cues|delay	#D7141E	0.829745433049868
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	23	11	attentional|difficulty|targets	#B10026	0.918491682158206
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	1	12	aversive|shock	#FECB68	0.313343190370706
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	2	12	reactivity	#FEE188	0.294477108162852
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	3	12	males|sex|women	#FDAD4A	0.457779668432155
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	4	12	animal	#FDAD4A	0.445261623863462
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	5	12	animals	#FEE188	0.244405643767649
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	6	12		#FD913D	0.503323570768416
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	7	12	remember|subsequent	#FEE188	0.220796750083291
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	8	12	autobiographical|memories	#FFFFCC	0.0143863209223047
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	9	12		#FD913D	0.53834181717595
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	10	12	violation|violations	#FFF1A9	0.130710418624549
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	11	12	aphasia	#FD913D	0.5276629857666
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	12	12	nonwords	#FECB68	0.379559509618736
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	13	12	dyslexia	#FECB68	0.34877972812408
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	14	12		#FC622F	0.672286345583132
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	15	12	priming	#FDAD4A	0.485105630505389
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	16	12		#F03623	0.729276313362008
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	17	12	category|repetition	#FC622F	0.689524958791845
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	18	12		#F03623	0.766358675745632
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	19	12	developmental|development	#FC622F	0.674805359084262
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	20	12		#D7141E	0.851599812835132
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	21	12	space	#D7141E	0.86203360512572
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	22	12		#B10026	0.921273205231096
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	23	12	color	#D7141E	0.807687197790082
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	1	13	threat	#FEE188	0.280863300423465
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	2	13	regulation	#FECB68	0.341291267210864
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	3	13		#FD913D	0.511940552393363
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	4	13	masked	#FECB68	0.370426041941274
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	5	13	scene|scenes	#FECB68	0.361180530017637
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	6	13		#FDAD4A	0.437053835578286
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	7	13	confidence|remembered	#FFF1A9	0.175211099463568
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	8	13		#FDAD4A	0.490956705657404
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	9	13		#FC622F	0.607660095963552
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	10	13	ambiguity|ambiguous	#FFF1A9	0.123824402251701
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	11	13		#FC622F	0.611489305056123
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	12	13		#FC622F	0.697599226640075
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	13	13	writing	#FDAD4A	0.490806645348669
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	14	13		#F03623	0.783401142564873
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	15	13	categorization|congruency|prime	#FC622F	0.683873793805097
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	16	13		#F03623	0.792609446451221
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	17	13	mask	#FC622F	0.688624063676904
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	18	13		#D7141E	0.830600366749022
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	19	13		#D7141E	0.838389038954877
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	20	13		#D7141E	0.842668046444421
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	21	13	conflict|congruent|incongruent	#F03623	0.755033839523412
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	22	13	errors	#F03623	0.785529772948252
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	23	13	maintenance|probe|wm	#D7141E	0.899287120508662
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	1	14	angry|fearful|happy	#FEE188	0.267165728372412
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	2	14		#FECB68	0.363317775462334
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	3	14	awareness|conscious|ptsd	#FEE188	0.272727061186608
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	4	14		#FD913D	0.532399637052169
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	5	14	houses|photographs	#FFF1A9	0.193455151429054
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	6	14		#FD913D	0.55114960180671
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	7	14	hits	#FECB68	0.327789677188923
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	8	14	famous	#FEE188	0.25611481289739
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	9	14	names	#FECB68	0.344585956816379
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	10	14	family	#FD913D	0.54465716765856
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	11	14	competition|mouth	#F03623	0.780122415354048
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	12	14	abilities	#FD913D	0.533121819358178
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	13	14	implicit|unfamiliar	#FD913D	0.537680954950497
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	14	14		#D7141E	0.825016942005031
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	15	14	tom	#F03623	0.711220890722438
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	16	14		#D7141E	0.8768388989964
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	17	14		#D7141E	0.868875336781918
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	18	14	stop	#F03623	0.755251844649276
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	19	14	inhibition|inhibitory|nogo	#F03623	0.740764850157741
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	20	14	monitoring|stroop	#FD913D	0.595279327233052
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	21	14	interference	#F03623	0.728553389799937
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	22	14		#D7141E	0.869540986500713
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	23	14	demands|executive	#D7141E	0.822176411128415
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	1	15	anger	#FEE188	0.200072751374649
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	2	15	stress	#FEE188	0.221101062938077
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	3	15	feelings	#FEE188	0.259426446569481
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	4	15	salient	#FDAD4A	0.455578610478297
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	5	15	novelty	#FEE188	0.244773470216728
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	6	15	movie	#FD913D	0.558638370002484
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	7	15		#F03623	0.732689657804075
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	8	15		#F03623	0.738352310348466
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	9	15	longterm	#FECB68	0.390245956876997
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	10	15		#D7141E	0.824884807172174
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	11	15	reasoning|relational	#F03623	0.765751476700741
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	12	15		#D7141E	0.835840628306598
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	13	15	presentations	#FDAD4A	0.426300179379872
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	14	15		#D7141E	0.80661604937575
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	15	15	identity	#F03623	0.75638330068647
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	16	15		#D7141E	0.888161314431738
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	17	15	strategies|strategy	#FC622F	0.635109967556862
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	18	15	card|cards	#FC622F	0.68650552934069
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	19	15	gonogo	#F03623	0.740866196415062
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	20	15		#D7141E	0.834290687501556
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	21	15	switching|switch	#F03623	0.736527678071332
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	22	15		#D7141E	0.849870821708026
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	23	15	2back|rule	#D7141E	0.855918845817336
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	1	16	emotionally|mood|personality|sadness	#FFF1A9	0.136264143411465
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	2	16	disgust|sexual	#FECB68	0.300404101537606
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	3	16	olfactory	#FEE188	0.291213198937553
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	4	16	physiological	#FD913D	0.549924230966236
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	5	16	depressed|depressive|habituation	#FDAD4A	0.488663185650619
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	6	16	schizophrenic	#FDAD4A	0.433755081684021
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	7	16	colors|contexts	#FDAD4A	0.491164075744726
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	8	16	aging|encoded	#FD913D	0.581146122776747
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	9	16	goal	#FDAD4A	0.413021907912679
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	10	16		#D7141E	0.804430432855411
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	11	16	autism|autistic|nonverbal	#FC622F	0.655423254764066
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	12	16		#D7141E	0.853083418753837
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	13	16	bottomup|repetitions	#FDAD4A	0.492260495880212
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	14	16	adaptation	#FC622F	0.665426460555494
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	15	16	irrelevant	#F03623	0.777530766841951
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	16	16	distractor|distractors	#FD913D	0.554867552655804
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	17	16		#B10026	0.915718221719037
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	18	16	subtraction	#F03623	0.793712599834397
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	19	16	1back|nback	#D7141E	0.83359175354693
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	20	16	manipulation|rules	#F03623	0.722036544972117
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	21	16		#D7141E	0.882637857419808
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	22	16		#B10026	0.907124920749875
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	23	16	digit	#D7141E	0.833491542840073
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	1	17	avoidance	#FFF1A9	0.109878985580559
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	2	17		#FECB68	0.383907100221947
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	3	17	eating|food	#FEE188	0.288531454675422
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	4	17	taste	#FC622F	0.601549894664487
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	5	17	bipolar	#FDAD4A	0.465117613436432
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	6	17	illness|uncertainty	#FD913D	0.535350314346874
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	7	17	females|probabilistic	#FD913D	0.576279869082075
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	8	17	rejection	#FEE188	0.218132208114795
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	9	17	colour|paired	#FC622F	0.680803326006897
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	10	17		#D7141E	0.888541662333654
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	11	17		#B10026	0.915638598300826
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	12	17		#D7141E	0.882947596549257
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	13	17	taskirrelevant	#FD913D	0.590277680140922
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	14	17		#D7141E	0.843593837485418
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	15	17	suppression	#FC622F	0.644796064370642
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	16	17		#B10026	0.94643098241769
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	17	17	shifting|shortterm	#F03623	0.79578867406307
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	18	17	digits	#F03623	0.713516181693344
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	19	17	search	#D7141E	0.835939898855938
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	20	17	counting|taskrelated	#F03623	0.72051614061781
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	21	17	topdown	#F03623	0.784885080066714
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	22	17	visuospatial	#F03623	0.737710396993812
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	23	17	arithmetic|calculation|solving	#D7141E	0.829271819025377
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	1	18	addiction|craving|drugs	#FFF1A9	0.16812736316723
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	2	18	allele|genotype|polymorphism	#FEE188	0.289969515838152
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	3	18	motivation	#FFF1A9	0.159210278695431
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	4	18	heart	#FC622F	0.663508391537255
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	5	18	sleep	#FD913D	0.587185505575431
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	6	18	expectancy	#FC622F	0.641408148574803
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	7	18	phasic|salience	#FD913D	0.590828886170074
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	8	18	adolescence|adolescents	#FDAD4A	0.498744281316449
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	9	18	intelligence|tracking	#FC622F	0.601622101910674
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	10	18		#B10026	0.94752737330171
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	11	18	serial	#FC622F	0.684753551041531
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	12	18		#D7141E	0.889301440773816
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	13	18	spatially|taskrelevant	#F03623	0.728365163698831
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	14	18		#D7141E	0.863238201189598
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	15	18	attended|attend|unattended	#F03623	0.722590413360656
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	16	18	rotation|shapes	#FD913D	0.588368286945279
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	17	18	rehearsal	#FC622F	0.653189567676379
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	18	18	learned	#F03623	0.759776205713642
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	19	18		#B10026	0.925385102104682
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	20	18	cued|preparatory	#D7141E	0.828322253725121
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	21	18		#B10026	0.966427612251013
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	22	18		#B10026	0.963197577920312
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	23	18	numbers|numerical	#F03623	0.768424991127781
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	1	19	future	#FFF1A9	0.182998089608305
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	2	19	negatively	#FECB68	0.397942919721946
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	3	19	distress|epilepsy|selfreported	#FEE188	0.254272156986574
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	4	19	anticipatory|cocaine|probabilities|smoking	#FEE188	0.201243911731375
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	5	19	alcohol|amount|impulsivity	#FDAD4A	0.423464447127081
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	6	19	game|success	#FDAD4A	0.404503052222929
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	7	19	adhd|childhood|engagement	#FD913D	0.554700503882291
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	8	19		#D7141E	0.843897150138986
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	9	19		#B10026	0.925823093662617
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	10	19		#B10026	0.9459944707671
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	11	19		#B10026	0.916491959459548
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	12	19	endogenous	#FD913D	0.577613664009877
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	13	19	cueing|invalid|orienting	#FD913D	0.589026997419325
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	14	19		#D7141E	0.859305785559433
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	15	19	multisensory	#FC622F	0.615609480785809
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	16	19		#D7141E	0.846099503164471
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	17	19	shifts	#D7141E	0.898673231230843
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	18	19	covert	#FC622F	0.681397406481262
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	19	19		#B10026	0.906551795820043
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	20	19	preparation	#D7141E	0.833801781199195
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	21	19	discrimination|training	#B10026	0.918341184208095
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	22	19	sequences	#F03623	0.757988101456945
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	23	19		#B10026	1
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	1	20	personal|self|selfreferential|trait|traits	#FFF1A9	0.148175854524386
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	2	20	empathic|theory	#FECB68	0.316708244314654
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	3	20	attribution|intentional	#FFF1A9	0.126911957354176
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	4	20	elderly|oscillations	#FFFFCC	0.0916874032590635
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	5	20	antipsychotic|virtual	#FDAD4A	0.431800324188475
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	6	20		#D7141E	0.822114657900868
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	7	20	experiences	#FD913D	0.509199054439866
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	8	20	categorical|pressure	#FDAD4A	0.410257971346969
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	9	20	play|skills	#FD913D	0.57367263296412
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	10	20	automatic|trained	#FC622F	0.615625128027613
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	11	20		#D7141E	0.876484845322643
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	12	20	practice	#F03623	0.7099054090659
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	13	20	visuomotor	#FC622F	0.668478285632913
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	14	20		#D7141E	0.855690838631897
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	15	20	tool	#FECB68	0.39553359565589
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	16	20	vision	#FDAD4A	0.423581649397059
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	17	20	visually	#F03623	0.742902129112668
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	18	20	saccade|saccades|saccadic	#FC622F	0.664656085166147
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	19	20	locations	#F03623	0.776429800858458
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	20	20	imagery|planning	#F03623	0.702341742662112
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	21	20		#B10026	0.957475395878436
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	22	20	rest	#D7141E	0.80835921332641
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	23	20	sequence	#D7141E	0.900086512050718
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	1	21	scenarios	#FFFFCC	0.0280477032587147
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	2	21	intention|intentions	#FECB68	0.369175368101585
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	3	21	causality|perspective	#FEE188	0.246854304173506
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	4	21	past	#FFFFCC	0
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	5	21		#F03623	0.755331124786181
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	6	21	episode	#FECB68	0.316957693093016
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	7	21	improvement	#FD913D	0.596094982674974
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	8	21	masking|retention	#FD913D	0.537730410658319
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	9	21		#D7141E	0.819580032088216
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	10	21	dominant	#FD913D	0.571653259633413
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	11	21		#F03623	0.790789848411139
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	12	21	sequential	#FC622F	0.669244905934193
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	13	21	fingers	#FD913D	0.566440889090841
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	14	21		#F03623	0.724788930284072
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	15	21	gesture|gestures	#FDAD4A	0.458170844339989
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	16	21		#FC622F	0.677703813402955
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	17	21	hands	#FD913D	0.536159752340904
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	18	21		#D7141E	0.803851955880459
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	19	21		#D7141E	0.841373943276412
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	20	21	eye|position	#F03623	0.786968314524835
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	21	21	execution	#D7141E	0.806745941074334
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	22	21	finger|sensorimotor	#D7141E	0.817479602742262
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	23	21		#D7141E	0.877705797024415
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	1	22	moral|stories|story	#FFF1A9	0.115438089902489
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	2	22	mentalizing|persons	#FECB68	0.309370437656472
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	3	22	default|restingstate	#FFFFCC	0.0372763948925292
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	4	22	thinking|thought|thoughts	#FEE188	0.212198634133599
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	5	22	spontaneous	#FECB68	0.376318117565091
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	6	22	concentration|sensations	#FC622F	0.625267304857496
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	7	22	hierarchical|preference	#FDAD4A	0.456871598510468
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	8	22	effort|oral|simulation	#FDAD4A	0.479203932792295
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	9	22	interhemispheric|plasticity	#FD913D	0.564993282639187
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	10	22	imagined|imagine	#FDAD4A	0.41665183921068
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	11	22	tapping	#FC622F	0.671284550582536
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	12	22	foot|muscle|muscles|voluntary	#FD913D	0.546202508426314
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	13	22	limb	#FDAD4A	0.489341534746393
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	14	22	eyes|velocity	#FD913D	0.545106839012788
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	15	22	biological|gaze|videos	#FECB68	0.377024582839577
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	16	22	body	#FC622F	0.668521253440974
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	17	22	grasping|orientation|reaching	#FDAD4A	0.402785981877607
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	18	22		#F03623	0.763915799077185
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	19	22	mirror|shape	#FC622F	0.673695798828787
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	20	22	actions	#F03623	0.735699523858633
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	21	22	action	#D7141E	0.852921062126677
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	22	22		#D7141E	0.87872433819512
+3e6e8b82-ffb3-35ec-b1cb-589fa234b02d	Schlosser R	23	22	hand|movements|sensory	#F03623	0.787290407112735

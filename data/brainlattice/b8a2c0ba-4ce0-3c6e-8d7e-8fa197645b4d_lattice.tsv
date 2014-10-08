@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	1	1	auditory|speech	#FDAD4A	0.424545568188701
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	2	1		#FECB68	0.385470298849168
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	3	1	da|integration	#FC622F	0.606640856738177
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	4	1		#FD913D	0.552291705212769
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	5	1	physical|psychophysical|tactile	#FECB68	0.370503098716178
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	6	1		#FDAD4A	0.449304871787557
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	7	1	somatosensory|stimulation	#FDAD4A	0.440991535927174
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	8	1	painful|pain	#FEE188	0.276704207808592
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	9	1		#FECB68	0.359221685424121
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	10	1	ratings	#FD913D	0.505245783759579
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	11	1	affective|affect	#FDAD4A	0.499922806529348
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	12	1	emotions	#FC622F	0.611688654109652
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	13	1	expression|expressions|facial	#D7141E	0.805193542983952
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	14	1		#B10026	0.913704562952956
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	15	1		#D7141E	0.894815620722205
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	16	1	emotion|motion|neutral	#F03623	0.771122514775097
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	17	1	rating	#FD913D	0.578276980342446
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	18	1	negative|positive	#FD913D	0.557513806126372
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	19	1		#FC622F	0.665029112505967
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	20	1	ear|order	#FD913D	0.589893074484112
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	21	1	motor	#FD913D	0.521883219659219
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	22	1	visual	#F03623	0.709783395036146
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	23	1	age|image|response	#FC622F	0.626832285878613
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	1	2	sound|sounds	#FEE188	0.253566224429386
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	2	2		#FECB68	0.345333974534573
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	3	2	audiovisual|bimodal|crossmodal	#FDAD4A	0.460430502965627
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	4	2		#FD913D	0.564218023039621
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	5	2		#FD913D	0.555277679489701
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	6	2		#FDAD4A	0.481920343744409
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	7	2	sensation	#FFF1A9	0.198457718094328
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	8	2	heat|noxious	#FEE188	0.265352175004507
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	9	2		#FECB68	0.385501420177923
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	10	2		#FD913D	0.542741551540902
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	11	2		#FC622F	0.601035752688527
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	12	2	valence	#FC622F	0.624311969777312
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	13	2	person|social	#F03623	0.753632969127528
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	14	2		#B10026	0.923223724758515
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	15	2	face|faces	#B10026	0.994756624490056
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	16	2		#D7141E	0.875437723637894
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	17	2		#F03623	0.785377312426827
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	18	2		#F03623	0.721711728028181
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	19	2		#FC622F	0.683887104610217
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	20	2		#FC622F	0.657477980608029
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	21	2	images|spatial	#FC622F	0.694887544543946
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	22	2	control	#FD913D	0.595825343272259
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	23	2	time	#FC622F	0.627897098134254
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	1	3	acoustic|listening|musical|music|pitch	#FFF1A9	0.14206994530078
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	2	3	noise|tones	#FEE188	0.224028965967446
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	3	3		#FD913D	0.509019272628497
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	4	3		#FC622F	0.620131382319211
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	5	3	frequency	#FD913D	0.571311783885551
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	6	3		#FC622F	0.617991042996451
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	7	3		#FECB68	0.361373140150863
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	8	3	temperature	#FECB68	0.324447519911764
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	9	3		#FECB68	0.38177426156551
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	10	3	pleasant|unpleasant	#FDAD4A	0.493854777117607
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	11	3	anxiety	#FDAD4A	0.422617587916963
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	12	3		#FC622F	0.679163335297144
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	13	3		#D7141E	0.804998751263812
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	14	3		#D7141E	0.88870795440386
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	15	3		#B10026	0.932254330207458
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	16	3	picture	#B10026	0.928366448951849
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	17	3		#D7141E	0.891603579868964
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	18	3	value	#FC622F	0.686425163474477
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	19	3	cue	#FC622F	0.635162324332356
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	20	3	error|target	#FD913D	0.573142315556849
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	21	3	attention	#FC622F	0.627739995314333
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	22	3		#FC622F	0.640329425150944
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	23	3	number	#FC622F	0.602921526624896
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	1	4	voice	#FEE188	0.237793332505769
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	2	4		#FECB68	0.306339681170745
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	3	4	hearing	#FECB68	0.372994386251533
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	4	4		#FD913D	0.584352251543613
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	5	4	overt	#FD913D	0.567896150285092
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	6	4		#FC622F	0.640625274835814
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	7	4		#FDAD4A	0.476554410030679
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	8	4	nociceptive|nonpainful|painrelated	#FFF1A9	0.196945989122354
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	9	4	unpleasantness	#FECB68	0.357313367604634
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	10	4	skin|subjective	#FECB68	0.360704951941289
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	11	4	depression	#FD913D	0.522087711702029
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	12	4	experience	#FD913D	0.517151202877156
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	13	4	female	#FC622F	0.679259655358834
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	14	4	male	#F03623	0.768391506608349
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	15	4	pictures	#B10026	0.952555449571559
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	16	4		#B10026	0.975996736697235
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	17	4	perception	#D7141E	0.873959606375847
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	18	4		#F03623	0.795793991007246
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	19	4		#F03623	0.738114122201086
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	20	4		#FC622F	0.695849855534569
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	21	4	correct	#FD913D	0.524669885724184
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	22	4	work	#FD913D	0.560469706645643
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	23	4	memory	#FC622F	0.624128040733829
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	1	5	prosodic|prosody	#FFF1A9	0.13440317767362
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	2	5	phonetic	#FEE188	0.250380394707796
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	3	5	syllable|syllables	#FDAD4A	0.441960706415917
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	4	5		#FD913D	0.554288084105104
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	5	5	lip|production	#FD913D	0.548894521199762
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	6	5	somatotopic	#FD913D	0.50768519977912
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	7	5		#FD913D	0.546495299595812
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	8	5		#FDAD4A	0.473405750312594
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	9	5	empathy	#FD913D	0.505365308461091
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	10	5		#FD913D	0.56683539441171
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	11	5	disorder	#FD913D	0.50816680866525
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	12	5		#FC622F	0.627820448448618
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	13	5		#FC622F	0.679484538382097
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	14	5		#F03623	0.766760990262289
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	15	5		#D7141E	0.810021457796555
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	16	5		#D7141E	0.856776721206135
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	17	5		#D7141E	0.811049002591193
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	18	5	mental	#FC622F	0.680871023455785
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	19	5	go	#F03623	0.727667842873929
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	20	5	object	#F03623	0.750160201830823
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	21	5		#FC622F	0.671086117654956
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	22	5		#FC622F	0.618971564340819
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	23	5	word|words	#FD913D	0.54909611287523
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	1	6		#FECB68	0.357079493670139
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	2	6		#FECB68	0.399617002795692
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	3	6		#FD913D	0.515490202768189
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	4	6	vocal	#FDAD4A	0.464352353132928
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	5	6	articulatory	#FEE188	0.287899981944151
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	6	6		#FC622F	0.603696236801871
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	7	6	oddball	#FD913D	0.500126450701942
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	8	6	perceived	#FDAD4A	0.499797486909571
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	9	6	errorrelated	#FECB68	0.347905769412268
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	10	6	approach	#FDAD4A	0.430269857830206
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	11	6	schizophrenia	#FDAD4A	0.484840696521043
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	12	6	acquisition	#FDAD4A	0.484693546115348
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	13	6		#FD913D	0.577892381293553
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	14	6		#FDAD4A	0.447447457287023
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	15	6		#FDAD4A	0.49873416698982
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	16	6		#FD913D	0.548754876138086
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	17	6		#FC622F	0.694367807928054
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	18	6		#F03623	0.739942671975051
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	19	6		#F03623	0.771024313478584
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	20	6	objects	#D7141E	0.844379347916203
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	21	6		#F03623	0.7315503608873
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	22	6		#FC622F	0.602134088454671
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	23	6	language|semantic	#FD913D	0.525568994823131
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	1	7	dopamine|dopaminergic	#FFF1A9	0.159665995052639
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	2	7		#FEE188	0.202201482375845
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	3	7		#FECB68	0.376933847356246
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	4	7		#FDAD4A	0.471372953242319
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	5	7		#FD913D	0.50338709362448
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	6	7		#FD913D	0.542143200330101
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	7	7		#FD913D	0.529343829121416
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	8	7		#FDAD4A	0.491673477720648
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	9	7		#FD913D	0.557639629909947
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	10	7		#FD913D	0.593302121087929
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	11	7		#FD913D	0.576161014711352
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	12	7		#FD913D	0.56015477569379
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	13	7	linguistic|spoken	#FECB68	0.337742962486839
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	14	7		#FECB68	0.363644590280471
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	15	7	comprehension|sentence|sentences|syntactic	#FEE188	0.293478167968561
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	16	7		#FDAD4A	0.433639670481553
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	17	7		#FD913D	0.597882676809996
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	18	7	phonological|reading|read	#FD913D	0.594696379509829
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	19	7		#F03623	0.747611068363846
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	20	7	perceptual|recognition	#D7141E	0.851676633197014
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	21	7		#F03623	0.737049096220647
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	22	7		#FC622F	0.615483184715936
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	23	7	verb	#FD913D	0.538113702748394
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	1	8	outcome|reward	#FFF1A9	0.161263780103336
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	2	8	anticipation	#FFF1A9	0.124875610988365
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	3	8	outcomes	#FFF1A9	0.135924235309579
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	4	8	choice|choices	#FEE188	0.237475539024755
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	5	8	decisions|probability	#FECB68	0.379239440638176
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	6	8	reversal	#FDAD4A	0.469249544977553
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	7	8	classification|incorrect	#FEE188	0.2319291371255
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	8	8		#FDAD4A	0.462240341593142
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	9	8	agerelated|fluency|probes	#FECB68	0.394154992726119
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	10	8	engaged	#FD913D	0.513089433985768
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	11	8	explicit|knowledge	#FD913D	0.522249704576057
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	12	8		#FDAD4A	0.472188654116022
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	13	8		#FDAD4A	0.408233309409064
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	14	8		#FECB68	0.382157315950744
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	15	8		#FDAD4A	0.404815003690709
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	16	8		#FDAD4A	0.435748653355934
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	17	8	lexical	#FDAD4A	0.470408719032283
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	18	8		#FC622F	0.656893441709059
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	19	8		#F03623	0.723365667869699
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	20	8		#F03623	0.772310545625281
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	21	8	encoding	#D7141E	0.813047588211549
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	22	8	retrieval	#FD913D	0.578528176584928
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	23	8	verbal	#FD913D	0.576608584151879
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	1	9	incentive|monetary|money|rewards	#FFFFCC	0
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	2	9	loss	#FFFFCC	0.0985461417302566
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	3	9		#FEE188	0.26073313079901
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	4	9		#FECB68	0.349248976778736
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	5	9	decisionmaking	#FEE188	0.24967022251255
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	6	9		#FD913D	0.502170225058503
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	7	9		#FD913D	0.504556206539323
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	8	9		#FD913D	0.508355530304748
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	9	9		#FD913D	0.550021086186557
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	10	9		#FD913D	0.532419281675907
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	11	9		#FDAD4A	0.476771769618645
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	12	9		#FDAD4A	0.433398761378401
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	13	9	noun	#FFF1A9	0.17804333351203
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	14	9	meaning	#FDAD4A	0.453391457864155
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	15	9	english	#FDAD4A	0.402117444037604
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	16	9	pseudoword|pseudowords	#FDAD4A	0.442551010621086
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	17	9		#FD913D	0.559531493659897
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	18	9		#FC622F	0.659760178315853
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	19	9	familiar|judgment	#F03623	0.747479275263201
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	20	9	pair|pairs	#FD913D	0.561070148678011
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	21	9		#FC622F	0.676052970230261
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	22	9		#FC622F	0.635916147201892
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	23	9	letter|working	#FD913D	0.545811591662106
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	1	10	losses|reinforcement|win	#FFFFCC	0.080281218143151
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	2	10	gain	#FFFFCC	0.087934488361394
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	3	10	expectation	#FECB68	0.320671578735912
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	4	10	risk	#FEE188	0.277790696390114
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	5	10	fact	#FECB68	0.397463019718164
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	6	10	associative	#FD913D	0.583924974494479
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	7	10	familiarity|judgments|old	#FD913D	0.567891712898202
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	8	10	contextual|text	#FECB68	0.382534423597908
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	9	10	recall|retrieved	#FDAD4A	0.442348907572734
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	10	10	conceptual|semantically	#FDAD4A	0.415897328526651
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	11	10	grammatical|speakers	#FECB68	0.306624091842847
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	12	10	nouns	#FEE188	0.216307622527514
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	13	10	japanese	#FEE188	0.285363650085231
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	14	10	languages	#FDAD4A	0.401220840631864
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	15	10	written	#FD913D	0.5203137183187
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	16	10	chinese|phonology	#FD913D	0.501569320896317
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	17	10	orthographic	#FD913D	0.523524590824329
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	18	10		#FC622F	0.669605020452456
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	19	10		#FC622F	0.681755400650288
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	20	10	association|decision	#FD913D	0.552390211300061
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	21	10	selection	#FDAD4A	0.474958852415956
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	22	10	letters	#FD913D	0.525311836673213
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	23	10	demand|load	#FDAD4A	0.488925265782951
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	1	11	conditioned|conditioning	#FFF1A9	0.126372572454262
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	2	11		#FECB68	0.356037699403854
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	3	11	drug|placebo	#FDAD4A	0.450072181574975
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	4	11		#F03623	0.705243597639217
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	5	11	associations	#FC622F	0.627588697309908
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	6	11		#D7141E	0.830078131091999
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	7	11	episodic|recollection	#FD913D	0.561569400295307
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	8	11		#F03623	0.797787699521127
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	9	11		#FC622F	0.682870592410282
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	10	11	concepts	#FECB68	0.319125239038294
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	11	11		#FD913D	0.534141691827233
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	12	11		#FDAD4A	0.497197406518286
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	13	11	german	#FDAD4A	0.400250872612775
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	14	11	readers	#FD913D	0.545765875589034
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	15	11	character|name|naming	#FC622F	0.6775539813178
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	16	11		#FC622F	0.684745266934126
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	17	11	novel	#F03623	0.708581932691514
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	18	11		#FC622F	0.671613177381667
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	19	11	child|children	#FD913D	0.558959835468944
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	20	11	adults	#FC622F	0.648123887963619
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	21	11	ability|feedback|learning	#FD913D	0.535714983482126
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	22	11	cues|delay	#FD913D	0.584370060645986
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	23	11	attentional|difficulty|targets	#FD913D	0.559678601410298
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	1	12	aversive|shock	#FEE188	0.297784500202965
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	2	12	reactivity	#FECB68	0.316910290603429
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	3	12	males|sex|women	#FDAD4A	0.465289163829621
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	4	12	animal	#F03623	0.719980053092952
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	5	12	animals	#FD913D	0.56033232321247
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	6	12		#B10026	0.950032822708641
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	7	12	remember|subsequent	#D7141E	0.881358285062342
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	8	12	autobiographical|memories	#FDAD4A	0.470946525572607
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	9	12		#F03623	0.705332086999922
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	10	12	violation|violations	#FECB68	0.375757613092353
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	11	12	aphasia	#FC622F	0.641110179742662
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	12	12	nonwords	#FD913D	0.52398959927483
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	13	12	dyslexia	#FD913D	0.543166165324271
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	14	12		#F03623	0.712670329551384
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	15	12	priming	#FC622F	0.658845200104829
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	16	12		#F03623	0.761901530139706
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	17	12	category|repetition	#F03623	0.736157271606653
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	18	12		#FC622F	0.698175339507211
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	19	12	developmental|development	#FD913D	0.540557409673284
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	20	12		#FC622F	0.632443061823386
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	21	12	space	#F03623	0.710695921449764
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	22	12		#FD913D	0.555229060602871
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	23	12	color	#FC622F	0.630456736537028
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	1	13	threat	#FD913D	0.518236213685447
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	2	13	regulation	#FEE188	0.253937380469577
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	3	13		#FC622F	0.679435588538368
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	4	13	masked	#FC622F	0.655490813764183
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	5	13	scene|scenes	#D7141E	0.806594278368246
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	6	13		#B10026	0.987658102235151
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	7	13	confidence|remembered	#FC622F	0.656991166055302
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	8	13		#B10026	0.910191278277474
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	9	13		#F03623	0.741118318388798
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	10	13	ambiguity|ambiguous	#FFF1A9	0.192724746978357
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	11	13		#FC622F	0.688238287476375
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	12	13		#F03623	0.752686143156995
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	13	13	writing	#FD913D	0.551155499507213
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	14	13		#F03623	0.782397802683093
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	15	13	categorization|congruency|prime	#FC622F	0.602518355790885
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	16	13		#F03623	0.778105805413092
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	17	13	mask	#FC622F	0.684774162234495
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	18	13		#F03623	0.704976380002498
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	19	13		#FC622F	0.614753431410809
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	20	13		#FD913D	0.579765447526668
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	21	13	conflict|congruent|incongruent	#FECB68	0.394534504169575
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	22	13	errors	#FDAD4A	0.443634228027678
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	23	13	maintenance|probe|wm	#FECB68	0.384233522101161
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	1	14	angry|fearful|happy	#FD913D	0.553683779639392
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	2	14		#FD913D	0.561772808265511
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	3	14	awareness|conscious|ptsd	#FECB68	0.344094353129539
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	4	14		#B10026	0.901457736196263
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	5	14	houses|photographs	#D7141E	0.816258702798558
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	6	14		#B10026	1
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	7	14	hits	#FC622F	0.670323148608916
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	8	14	famous	#FC622F	0.662173738253356
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	9	14	names	#FDAD4A	0.41470216439316
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	10	14	family	#FDAD4A	0.49636440355291
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	11	14	competition|mouth	#F03623	0.717801989105886
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	12	14	abilities	#FD913D	0.547557138309801
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	13	14	implicit|unfamiliar	#F03623	0.70177461821813
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	14	14		#D7141E	0.851383714691682
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	15	14	tom	#FD913D	0.564168419733906
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	16	14		#F03623	0.757070305369082
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	17	14		#FC622F	0.651589903389769
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	18	14	stop	#FD913D	0.519152029541338
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	19	14	inhibition|inhibitory|nogo	#FDAD4A	0.473085218035524
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	20	14	monitoring|stroop	#FECB68	0.346169955618103
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	21	14	interference	#FDAD4A	0.49522206115295
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	22	14		#FDAD4A	0.467883301852242
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	23	14	demands|executive	#FDAD4A	0.433139750635626
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	1	15	anger	#FC622F	0.640037531311348
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	2	15	stress	#FDAD4A	0.478221156831859
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	3	15	feelings	#FDAD4A	0.437029506493435
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	4	15	salient	#FD913D	0.56033532763789
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	5	15	novelty	#FC622F	0.68346627914205
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	6	15	movie	#FDAD4A	0.466732865613387
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	7	15		#F03623	0.792123401757477
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	8	15		#F03623	0.732949991821924
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	9	15	longterm	#FECB68	0.30362634900269
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	10	15		#FC622F	0.606369174262849
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	11	15	reasoning|relational	#FECB68	0.388159110097723
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	12	15		#F03623	0.737126683802289
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	13	15	presentations	#FD913D	0.597029330316702
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	14	15		#D7141E	0.851758068687834
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	15	15	identity	#D7141E	0.897755521076403
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	16	15		#F03623	0.719800457430936
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	17	15	strategies|strategy	#FDAD4A	0.404024482275016
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	18	15	card|cards	#FECB68	0.323125984905376
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	19	15	gonogo	#FD913D	0.507275067675128
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	20	15		#FD913D	0.513004754922952
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	21	15	switching|switch	#FECB68	0.374793531718493
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	22	15		#FDAD4A	0.450649357328668
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	23	15	2back|rule	#FDAD4A	0.412330774571212
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	1	16	emotionally|mood|personality|sadness	#FDAD4A	0.475159025159985
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	2	16	disgust|sexual	#FDAD4A	0.438800564558576
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	3	16	olfactory	#FEE188	0.252442417527772
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	4	16	physiological	#FD913D	0.557663826118701
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	5	16	depressed|depressive|habituation	#FECB68	0.301629912522877
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	6	16	schizophrenic	#FEE188	0.291665184982689
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	7	16	colors|contexts	#FECB68	0.339104077032236
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	8	16	aging|encoded	#FECB68	0.361471082919612
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	9	16	goal	#FEE188	0.262725249312795
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	10	16		#FD913D	0.535075528030857
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	11	16	autism|autistic|nonverbal	#FDAD4A	0.408595619028035
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	12	16		#F03623	0.703866218200504
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	13	16	bottomup|repetitions	#FD913D	0.540795888170564
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	14	16	adaptation	#F03623	0.744793004239566
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	15	16	irrelevant	#FD913D	0.599481349041564
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	16	16	distractor|distractors	#FDAD4A	0.42183252855093
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	17	16		#FD913D	0.571979506449875
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	18	16	subtraction	#FECB68	0.309987606043142
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	19	16	1back|nback	#FDAD4A	0.452444844623559
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	20	16	manipulation|rules	#FDAD4A	0.489760675848401
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	21	16		#FD913D	0.502811676799941
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	22	16		#FDAD4A	0.446715986297753
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	23	16	digit	#FDAD4A	0.401667438900101
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	1	17	avoidance	#FEE188	0.259266119373655
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	2	17		#FD913D	0.517956637145282
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	3	17	eating|food	#FEE188	0.260153443806493
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	4	17	taste	#FFF1A9	0.184250657237658
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	5	17	bipolar	#FEE188	0.298922920304379
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	6	17	illness|uncertainty	#FECB68	0.35904653820057
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	7	17	females|probabilistic	#FECB68	0.363675913894887
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	8	17	rejection	#FFFFCC	0.0555834145209333
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	9	17	colour|paired	#F03623	0.704695186020522
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	10	17		#FD913D	0.595473799571421
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	11	17		#FC622F	0.603512635564807
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	12	17		#FC622F	0.630299904401821
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	13	17	taskirrelevant	#FD913D	0.573158866211242
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	14	17		#FC622F	0.691422947417367
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	15	17	suppression	#FD913D	0.581342077039454
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	16	17		#FC622F	0.65704689129567
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	17	17	shifting|shortterm	#FDAD4A	0.472581449070783
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	18	17	digits	#FECB68	0.375613258642303
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	19	17	search	#FDAD4A	0.43762752210753
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	20	17	counting|taskrelated	#FDAD4A	0.499074853356219
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	21	17	topdown	#FD913D	0.524645841053711
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	22	17	visuospatial	#FDAD4A	0.404769873820203
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	23	17	arithmetic|calculation|solving	#FECB68	0.324786851464787
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	1	18	addiction|craving|drugs	#FECB68	0.363203903719107
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	2	18	allele|genotype|polymorphism	#FECB68	0.362409816054721
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	3	18	motivation	#FFF1A9	0.119613023295574
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	4	18	heart	#FD913D	0.513178057323895
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	5	18	sleep	#FECB68	0.346063466301027
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	6	18	expectancy	#FD913D	0.560871651274775
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	7	18	phasic|salience	#FEE188	0.283187255882537
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	8	18	adolescence|adolescents	#FEE188	0.260866235482892
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	9	18	intelligence|tracking	#FD913D	0.591138186728723
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	10	18		#FC622F	0.674580524420603
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	11	18	serial	#FDAD4A	0.430928604181704
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	12	18		#FC622F	0.604080404750706
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	13	18	spatially|taskrelevant	#FDAD4A	0.472386154074309
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	14	18		#FC622F	0.642681135871271
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	15	18	attended|attend|unattended	#FD913D	0.522986553297698
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	16	18	rotation|shapes	#FD913D	0.5463695441685
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	17	18	rehearsal	#FECB68	0.380150150798296
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	18	18	learned	#FEE188	0.210717395436424
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	19	18		#FD913D	0.537794671481506
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	20	18	cued|preparatory	#FDAD4A	0.488438955517235
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	21	18		#FD913D	0.599677508947994
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	22	18		#FD913D	0.531977652989482
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	23	18	numbers|numerical	#FECB68	0.362416802965948
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	1	19	future	#FECB68	0.332563397041455
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	2	19	negatively	#FD913D	0.52620346950654
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	3	19	distress|epilepsy|selfreported	#FECB68	0.38904626138908
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	4	19	anticipatory|cocaine|probabilities|smoking	#FEE188	0.272451673488816
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	5	19	alcohol|amount|impulsivity	#FEE188	0.258733321915914
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	6	19	game|success	#FFF1A9	0.167275266575354
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	7	19	adhd|childhood|engagement	#FEE188	0.270360616895393
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	8	19		#FD913D	0.593807557271648
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	9	19		#F03623	0.71016378730119
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	10	19		#FC622F	0.680055446035618
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	11	19		#FC622F	0.629435303785287
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	12	19	endogenous	#FDAD4A	0.439802888112379
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	13	19	cueing|invalid|orienting	#FEE188	0.263580561850921
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	14	19		#FC622F	0.664968310128166
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	15	19	multisensory	#FD913D	0.585939426807355
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	16	19		#FC622F	0.674192299841441
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	17	19	shifts	#FD913D	0.564923349768445
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	18	19	covert	#FDAD4A	0.478738576593723
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	19	19		#FD913D	0.533467555572047
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	20	19	preparation	#FD913D	0.515217064624245
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	21	19	discrimination|training	#FD913D	0.593904923225394
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	22	19	sequences	#FD913D	0.565941412778694
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	23	19		#FC622F	0.697009433788968
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	1	20	personal|self|selfreferential|trait|traits	#FECB68	0.363252214149551
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	2	20	empathic|theory	#FD913D	0.599504437552139
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	3	20	attribution|intentional	#FECB68	0.316948753926341
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	4	20	elderly|oscillations	#FFF1A9	0.132575921602341
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	5	20	antipsychotic|virtual	#FECB68	0.351408943790481
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	6	20		#FD913D	0.531650864129374
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	7	20	experiences	#FEE188	0.203466085033428
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	8	20	categorical|pressure	#FDAD4A	0.410881607262869
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	9	20	play|skills	#FDAD4A	0.43436900396378
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	10	20	automatic|trained	#FECB68	0.379200943238131
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	11	20		#FC622F	0.618695348609794
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	12	20	practice	#FDAD4A	0.470810596969606
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	13	20	visuomotor	#FD913D	0.547350711261783
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	14	20		#F03623	0.729912621887619
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	15	20	tool	#FD913D	0.524483781605885
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	16	20	vision	#FDAD4A	0.456357962535404
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	17	20	visually	#FC622F	0.642280832274851
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	18	20	saccade|saccades|saccadic	#FECB68	0.36417193635923
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	19	20	locations	#FDAD4A	0.454088114098984
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	20	20	imagery|planning	#FDAD4A	0.455995837393926
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	21	20		#FC622F	0.66374485163627
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	22	20	rest	#FC622F	0.657490983068585
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	23	20	sequence	#FC622F	0.644309036470414
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	1	21	scenarios	#FEE188	0.232779623097571
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	2	21	intention|intentions	#FDAD4A	0.481773977568855
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	3	21	causality|perspective	#FEE188	0.217338886026977
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	4	21	past	#FEE188	0.206078333967243
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	5	21		#FD913D	0.547817419484604
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	6	21	episode	#FEE188	0.230865639539301
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	7	21	improvement	#FECB68	0.344118135748601
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	8	21	masking|retention	#FDAD4A	0.453725001096713
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	9	21		#FC622F	0.669935639169501
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	10	21	dominant	#FC622F	0.663051154174372
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	11	21		#FC622F	0.622379266165839
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	12	21	sequential	#FDAD4A	0.481918303239387
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	13	21	fingers	#FDAD4A	0.485641187693584
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	14	21		#F03623	0.757383260753322
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	15	21	gesture|gestures	#FD913D	0.514939087441322
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	16	21		#FC622F	0.698146122863409
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	17	21	hands	#FDAD4A	0.450650392743326
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	18	21		#FC622F	0.642331263819936
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	19	21		#FC622F	0.654935112175495
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	20	21	eye|position	#FC622F	0.607801216263814
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	21	21	execution	#FC622F	0.611953846841024
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	22	21	finger|sensorimotor	#FC622F	0.615157946134635
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	23	21		#FC622F	0.630713368340678
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	1	22	moral|stories|story	#FFF1A9	0.198249055280399
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	2	22	mentalizing|persons	#FD913D	0.515403471771571
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	3	22	default|restingstate	#FEE188	0.245397374701814
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	4	22	thinking|thought|thoughts	#FECB68	0.371411662243527
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	5	22	spontaneous	#FEE188	0.286142950866681
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	6	22	concentration|sensations	#FECB68	0.322488669962739
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	7	22	hierarchical|preference	#FECB68	0.357203967177648
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	8	22	effort|oral|simulation	#FD913D	0.515118027350021
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	9	22	interhemispheric|plasticity	#FDAD4A	0.433007855890778
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	10	22	imagined|imagine	#FDAD4A	0.420307196051926
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	11	22	tapping	#FD913D	0.526858446488163
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	12	22	foot|muscle|muscles|voluntary	#FD913D	0.504452535367986
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	13	22	limb	#FECB68	0.379115396906961
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	14	22	eyes|velocity	#FD913D	0.551046701816059
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	15	22	biological|gaze|videos	#FD913D	0.571420714773751
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	16	22	body	#FC622F	0.689798191925991
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	17	22	grasping|orientation|reaching	#FDAD4A	0.444648164338768
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	18	22		#FC622F	0.657420595556928
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	19	22	mirror|shape	#F03623	0.719907287370964
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	20	22	actions	#F03623	0.70190389103431
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	21	22	action	#FC622F	0.656719666116364
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	22	22		#FC622F	0.619273687775911
+b8a2c0ba-4ce0-3c6e-8d7e-8fa197645b4d	Pascual-Leone A	23	22	hand|movements|sensory	#FD913D	0.510982407709714

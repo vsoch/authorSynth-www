@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	1	1	auditory|speech	#FFF1A9	0.174886583832014
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	2	1		#FFF1A9	0.168911966647285
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	3	1	da|integration	#FDAD4A	0.481610870457897
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	4	1		#FDAD4A	0.406706068945298
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	5	1	physical|psychophysical|tactile	#FDAD4A	0.418162252487658
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	6	1		#FECB68	0.355003563228417
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	7	1	somatosensory|stimulation	#FECB68	0.310455666379536
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	8	1	painful|pain	#FFF1A9	0.191936310400968
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	9	1		#FEE188	0.250770733506047
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	10	1	ratings	#FDAD4A	0.491582884280691
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	11	1	affective|affect	#FDAD4A	0.418320407793058
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	12	1	emotions	#FDAD4A	0.435965346299129
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	13	1	expression|expressions|facial	#FDAD4A	0.414816750713852
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	14	1		#FC622F	0.61376431646482
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	15	1		#FC622F	0.616291564306063
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	16	1	emotion|motion|neutral	#FD913D	0.52201721615862
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	17	1	rating	#FD913D	0.575446640591538
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	18	1	negative|positive	#FD913D	0.559925351865095
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	19	1		#FD913D	0.583947105394289
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	20	1	ear|order	#FDAD4A	0.486574205336897
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	21	1	motor	#FDAD4A	0.467199669627276
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	22	1	visual	#FC622F	0.681457107885953
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	23	1	age|image|response	#FD913D	0.526312026161295
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	1	2	sound|sounds	#FFFFCC	0.0715046282928487
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	2	2		#FFF1A9	0.140287413111907
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	3	2	audiovisual|bimodal|crossmodal	#FECB68	0.346448917584816
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	4	2		#FDAD4A	0.403582931860561
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	5	2		#FDAD4A	0.426911352346654
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	6	2		#FECB68	0.366392007778205
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	7	2	sensation	#FFF1A9	0.124784150153575
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	8	2	heat|noxious	#FFFFCC	0.0862684895751147
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	9	2		#FEE188	0.256855777136621
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	10	2		#FDAD4A	0.453694080868256
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	11	2		#FDAD4A	0.498452686335974
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	12	2	valence	#FD913D	0.596813629048861
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	13	2	person|social	#FC622F	0.680261199863242
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	14	2		#FC622F	0.617545872826871
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	15	2	face|faces	#F03623	0.713495070423903
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	16	2		#FC622F	0.643176042595781
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	17	2		#FC622F	0.619866570049024
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	18	2		#FC622F	0.606242676709234
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	19	2		#FD913D	0.587550726645981
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	20	2		#FD913D	0.562681980151556
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	21	2	images|spatial	#FD913D	0.586939569115662
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	22	2	control	#FDAD4A	0.483998906113331
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	23	2	time	#FD913D	0.528825054753383
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	1	3	acoustic|listening|musical|music|pitch	#FFFFCC	0
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	2	3	noise|tones	#FFF1A9	0.105002258408874
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	3	3		#FEE188	0.240338002193715
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	4	3		#FECB68	0.352097431178255
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	5	3	frequency	#FECB68	0.364221607697996
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	6	3		#FECB68	0.378228548016227
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	7	3		#FEE188	0.241486602578021
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	8	3	temperature	#FFFFCC	0.0901316763148318
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	9	3		#FEE188	0.26755300374708
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	10	3	pleasant|unpleasant	#FEE188	0.260942159348629
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	11	3	anxiety	#FDAD4A	0.434425432837649
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	12	3		#FD913D	0.54617547481518
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	13	3		#FD913D	0.59399812321388
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	14	3		#FC622F	0.601979061809252
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	15	3		#FC622F	0.642160231196121
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	16	3	picture	#F03623	0.741071572340133
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	17	3		#FC622F	0.657473993310845
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	18	3	value	#FD913D	0.531081790948215
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	19	3	cue	#FDAD4A	0.477732274341801
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	20	3	error|target	#FD913D	0.512819651399647
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	21	3	attention	#FD913D	0.563460162005985
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	22	3		#FD913D	0.517316976932952
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	23	3	number	#FDAD4A	0.479183797700454
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	1	4	voice	#FFFFCC	0.04001156453593
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	2	4		#FFFFCC	0.0753973496139959
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	3	4	hearing	#FEE188	0.264904760987725
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	4	4		#FEE188	0.277536849838789
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	5	4	overt	#FECB68	0.392022138017897
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	6	4		#FECB68	0.366556831798025
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	7	4		#FECB68	0.318607803937165
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	8	4	nociceptive|nonpainful|painrelated	#FEE188	0.285613348130584
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	9	4	unpleasantness	#FEE188	0.251032574368774
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	10	4	skin|subjective	#FECB68	0.385006596576792
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	11	4	depression	#FD913D	0.511424710981622
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	12	4	experience	#FD913D	0.527418567573221
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	13	4	female	#FDAD4A	0.490386643748255
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	14	4	male	#FD913D	0.536117837181626
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	15	4	pictures	#FC622F	0.625709468612543
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	16	4		#FC622F	0.657550144006264
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	17	4	perception	#FD913D	0.539012107244109
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	18	4		#FC622F	0.642299265508187
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	19	4		#FC622F	0.635435671553283
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	20	4		#FC622F	0.605692987345636
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	21	4	correct	#FDAD4A	0.45257136714566
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	22	4	work	#FDAD4A	0.422879319297974
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	23	4	memory	#FDAD4A	0.404732253135047
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	1	5	prosodic|prosody	#FFFFCC	0.016361256710203
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	2	5	phonetic	#FFFFCC	0.0632709256647003
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	3	5	syllable|syllables	#FFFFCC	0.0810764216226868
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	4	5		#FEE188	0.251928337524959
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	5	5	lip|production	#FEE188	0.255246554289659
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	6	5	somatotopic	#FEE188	0.227752645182757
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	7	5		#FDAD4A	0.428284044727867
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	8	5		#FDAD4A	0.407148070192069
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	9	5	empathy	#FDAD4A	0.404303355934548
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	10	5		#FDAD4A	0.410057177320025
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	11	5	disorder	#FECB68	0.331228647755842
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	12	5		#FDAD4A	0.471549273854963
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	13	5		#FDAD4A	0.439712888246308
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	14	5		#FDAD4A	0.436700344538493
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	15	5		#FDAD4A	0.457295644765004
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	16	5		#FDAD4A	0.498428464004523
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	17	5		#FD913D	0.538506010192078
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	18	5	mental	#FC622F	0.677564465320782
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	19	5	go	#FC622F	0.621055771601702
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	20	5	object	#F03623	0.783035603563098
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	21	5		#FD913D	0.532112416882103
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	22	5		#FDAD4A	0.407595708329492
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	23	5	word|words	#FECB68	0.373127456744324
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	1	6		#FEE188	0.255277109062578
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	2	6		#FEE188	0.248184657026568
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	3	6		#FECB68	0.339645454178597
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	4	6	vocal	#FEE188	0.204869919634001
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	5	6	articulatory	#FFF1A9	0.173004879692397
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	6	6		#FECB68	0.346739896882049
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	7	6	oddball	#FECB68	0.336684288277163
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	8	6	perceived	#FDAD4A	0.42408734941143
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	9	6	errorrelated	#FECB68	0.397354467898231
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	10	6	approach	#FEE188	0.284008872534841
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	11	6	schizophrenia	#FECB68	0.344975073672187
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	12	6	acquisition	#FECB68	0.328994070105523
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	13	6		#FECB68	0.303711489172014
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	14	6		#FFF1A9	0.15385783000473
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	15	6		#FFF1A9	0.186148566821897
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	16	6		#FEE188	0.24622185662098
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	17	6		#FDAD4A	0.478013357843083
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	18	6		#FC622F	0.600615769497252
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	19	6		#FC622F	0.618804691905582
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	20	6	objects	#D7141E	0.832788685068117
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	21	6		#FD913D	0.537131656656723
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	22	6		#FECB68	0.366313294354274
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	23	6	language|semantic	#FEE188	0.279745389382469
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	1	7	dopamine|dopaminergic	#FFF1A9	0.158592431644852
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	2	7		#FECB68	0.366670241714421
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	3	7		#FD913D	0.530679431893283
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	4	7		#FD913D	0.508285957042886
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	5	7		#FDAD4A	0.496262666960453
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	6	7		#FDAD4A	0.405303537611705
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	7	7		#FDAD4A	0.437547370028328
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	8	7		#FECB68	0.361711244875322
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	9	7		#FECB68	0.377744626057759
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	10	7		#FECB68	0.330468965708495
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	11	7		#FECB68	0.335571792508883
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	12	7		#FECB68	0.307871506926987
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	13	7	linguistic|spoken	#FFF1A9	0.138361331122276
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	14	7		#FFFFCC	0.0939598778498382
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	15	7	comprehension|sentence|sentences|syntactic	#FFFFCC	0.0141510723031214
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	16	7		#FFF1A9	0.183099637421308
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	17	7		#FDAD4A	0.403380582156983
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	18	7	phonological|reading|read	#FDAD4A	0.411355836150028
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	19	7		#FD913D	0.577884888865707
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	20	7	perceptual|recognition	#FC622F	0.636443992688553
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	21	7		#FD913D	0.503460818234003
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	22	7		#FECB68	0.342257512786572
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	23	7	verb	#FEE188	0.257877900995669
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	1	8	outcome|reward	#FDAD4A	0.412031443545628
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	2	8	anticipation	#FECB68	0.32959559151418
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	3	8	outcomes	#FD913D	0.569537210147453
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	4	8	choice|choices	#FD913D	0.558311334135062
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	5	8	decisions|probability	#FECB68	0.353514601960052
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	6	8	reversal	#FECB68	0.378019937029635
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	7	8	classification|incorrect	#FEE188	0.229985921008292
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	8	8		#FECB68	0.317883050378452
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	9	8	agerelated|fluency|probes	#FFF1A9	0.178575276055975
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	10	8	engaged	#FECB68	0.30550455830313
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	11	8	explicit|knowledge	#FEE188	0.226562566009416
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	12	8		#FEE188	0.226726697139591
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	13	8		#FFF1A9	0.178032196830643
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	14	8		#FFF1A9	0.148572651715376
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	15	8		#FFF1A9	0.170191729079133
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	16	8		#FEE188	0.201163422564008
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	17	8	lexical	#FEE188	0.296466217591265
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	18	8		#FDAD4A	0.49302546259048
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	19	8		#FD913D	0.546739187958188
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	20	8		#FD913D	0.571645966216989
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	21	8	encoding	#FDAD4A	0.443785246710628
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	22	8	retrieval	#FECB68	0.329517045659924
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	23	8	verbal	#FEE188	0.277995463012666
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	1	9	incentive|monetary|money|rewards	#FECB68	0.361428198782232
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	2	9	loss	#FECB68	0.397100388344848
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	3	9		#FD913D	0.513898494258797
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	4	9		#FD913D	0.510366746857552
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	5	9	decisionmaking	#FECB68	0.369716006758837
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	6	9		#FDAD4A	0.401293706122499
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	7	9		#FDAD4A	0.415128408378233
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	8	9		#FECB68	0.364147534026494
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	9	9		#FECB68	0.33878404902651
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	10	9		#FEE188	0.280990379484176
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	11	9		#FEE188	0.239035578290719
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	12	9		#FEE188	0.203516246113973
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	13	9	noun	#FFFFCC	0.0705358012751538
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	14	9	meaning	#FECB68	0.3042287109173
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	15	9	english	#FEE188	0.290486070699286
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	16	9	pseudoword|pseudowords	#FFF1A9	0.195968283258753
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	17	9		#FECB68	0.379938676227955
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	18	9		#FD913D	0.511414641553717
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	19	9	familiar|judgment	#FC622F	0.622922512599106
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	20	9	pair|pairs	#FDAD4A	0.453032817296603
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	21	9		#FDAD4A	0.473505648442727
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	22	9		#FDAD4A	0.413429684633535
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	23	9	letter|working	#FDAD4A	0.411788271350133
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	1	10	losses|reinforcement|win	#FFF1A9	0.188675219156595
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	2	10	gain	#FD913D	0.510543825261799
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	3	10	expectation	#FECB68	0.32311393483855
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	4	10	risk	#FDAD4A	0.47900934460763
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	5	10	fact	#FFF1A9	0.189270331636142
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	6	10	associative	#FECB68	0.368678565213509
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	7	10	familiarity|judgments|old	#FECB68	0.387574470086423
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	8	10	contextual|text	#FDAD4A	0.469549647700788
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	9	10	recall|retrieved	#FDAD4A	0.435177785113106
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	10	10	conceptual|semantically	#FFF1A9	0.191646687045985
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	11	10	grammatical|speakers	#FFF1A9	0.136032565726358
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	12	10	nouns	#FFFFCC	0.0964262291606618
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	13	10	japanese	#FFF1A9	0.138011926615672
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	14	10	languages	#FEE188	0.275378310860962
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	15	10	written	#FDAD4A	0.467915792837028
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	16	10	chinese|phonology	#FECB68	0.39206451549242
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	17	10	orthographic	#FDAD4A	0.448692064635343
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	18	10		#FD913D	0.53695915514468
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	19	10		#FD913D	0.530462271144127
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	20	10	association|decision	#FDAD4A	0.499559518174598
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	21	10	selection	#FECB68	0.389814493264091
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	22	10	letters	#FD913D	0.535928209722196
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	23	10	demand|load	#FECB68	0.33597272676057
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	1	11	conditioned|conditioning	#FFF1A9	0.151257159512766
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	2	11		#FDAD4A	0.417107937082084
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	3	11	drug|placebo	#FECB68	0.372811270941447
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	4	11		#FDAD4A	0.457607017526799
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	5	11	associations	#FECB68	0.335340878784524
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	6	11		#FDAD4A	0.457701539604394
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	7	11	episodic|recollection	#FEE188	0.29920342580083
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	8	11		#FDAD4A	0.453206701848774
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	9	11		#FECB68	0.34012118700195
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	10	11	concepts	#FFF1A9	0.195611639489217
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	11	11		#FEE188	0.211398124314255
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	12	11		#FFF1A9	0.195930205589932
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	13	11	german	#FFF1A9	0.176019493714116
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	14	11	readers	#FECB68	0.318154370906692
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	15	11	character|name|naming	#FC622F	0.600591482622961
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	16	11		#FD913D	0.517063127074651
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	17	11	novel	#FD913D	0.518357413125474
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	18	11		#FD913D	0.526829778835438
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	19	11	child|children	#FDAD4A	0.476682946983274
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	20	11	adults	#FDAD4A	0.486722668724276
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	21	11	ability|feedback|learning	#FECB68	0.390182964237275
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	22	11	cues|delay	#FECB68	0.370019739700933
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	23	11	attentional|difficulty|targets	#FDAD4A	0.494362446249002
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	1	12	aversive|shock	#FECB68	0.372838812764886
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	2	12	reactivity	#FECB68	0.337081902996767
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	3	12	males|sex|women	#FEE188	0.286197253932767
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	4	12	animal	#FDAD4A	0.474811692312618
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	5	12	animals	#FDAD4A	0.493423050306679
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	6	12		#FDAD4A	0.496903939970081
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	7	12	remember|subsequent	#FECB68	0.308733752239905
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	8	12	autobiographical|memories	#FD913D	0.502311226859455
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	9	12		#FEE188	0.299062148103173
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	10	12	violation|violations	#FFFFCC	0.0281757992515896
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	11	12	aphasia	#FFF1A9	0.176758364494032
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	12	12	nonwords	#FFF1A9	0.15094289801352
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	13	12	dyslexia	#FEE188	0.247555415257051
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	14	12		#FD913D	0.527107536300044
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	15	12	priming	#FC622F	0.613632153073961
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	16	12		#FC622F	0.616393516018457
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	17	12	category|repetition	#FD913D	0.592786616651002
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	18	12		#FD913D	0.558803837618983
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	19	12	developmental|development	#FDAD4A	0.437212257038138
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	20	12		#FDAD4A	0.479360262271078
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	21	12	space	#FDAD4A	0.429164410796017
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	22	12		#FDAD4A	0.419164053800516
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	23	12	color	#FD913D	0.528042593380988
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	1	13	threat	#FECB68	0.302139375645551
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	2	13	regulation	#FDAD4A	0.48389976292682
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	3	13		#FDAD4A	0.459853879865147
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	4	13	masked	#FECB68	0.357647645385891
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	5	13	scene|scenes	#FECB68	0.372988930072313
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	6	13		#FD913D	0.52737112884407
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	7	13	confidence|remembered	#FECB68	0.312032602839571
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	8	13		#FDAD4A	0.42594355047447
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	9	13		#FEE188	0.287360178282785
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	10	13	ambiguity|ambiguous	#FECB68	0.3121436598689
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	11	13		#FEE188	0.274673347801358
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	12	13		#FDAD4A	0.43452095435403
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	13	13	writing	#FD913D	0.512761106136161
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	14	13		#FD913D	0.599576086517775
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	15	13	categorization|congruency|prime	#FDAD4A	0.459320593188634
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	16	13		#FC622F	0.621801341513411
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	17	13	mask	#FC622F	0.612483449777228
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	18	13		#FD913D	0.514748377358451
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	19	13		#FDAD4A	0.411779540406301
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	20	13		#FDAD4A	0.426454387871553
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	21	13	conflict|congruent|incongruent	#FECB68	0.391519129308099
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	22	13	errors	#FEE188	0.278473563414645
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	23	13	maintenance|probe|wm	#FECB68	0.314889853235529
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	1	14	angry|fearful|happy	#FEE188	0.25995702429957
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	2	14		#FECB68	0.331688021347428
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	3	14	awareness|conscious|ptsd	#FECB68	0.399733470129534
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	4	14		#FD913D	0.549446903573016
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	5	14	houses|photographs	#F03623	0.740631085072329
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	6	14		#FD913D	0.526790823119854
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	7	14	hits	#FECB68	0.342816469091015
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	8	14	famous	#FDAD4A	0.415765099444689
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	9	14	names	#FFF1A9	0.143523789430786
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	10	14	family	#FFFFCC	0.0963348332686794
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	11	14	competition|mouth	#FDAD4A	0.438753351540031
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	12	14	abilities	#FECB68	0.303963580638644
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	13	14	implicit|unfamiliar	#FC622F	0.682587877190567
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	14	14		#F03623	0.703931013003084
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	15	14	tom	#FC622F	0.622453432380867
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	16	14		#FC622F	0.641095719353791
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	17	14		#FD913D	0.542963793590965
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	18	14	stop	#FEE188	0.256867536292482
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	19	14	inhibition|inhibitory|nogo	#FEE188	0.261730806632467
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	20	14	monitoring|stroop	#FECB68	0.386934098184035
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	21	14	interference	#FDAD4A	0.405658578157816
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	22	14		#FECB68	0.367374139124739
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	23	14	demands|executive	#FECB68	0.328424383393224
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	1	15	anger	#FECB68	0.393996255025986
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	2	15	stress	#FEE188	0.248329919213424
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	3	15	feelings	#FEE188	0.266247137491225
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	4	15	salient	#FECB68	0.332335044977669
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	5	15	novelty	#FECB68	0.312536144377297
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	6	15	movie	#FEE188	0.246989441699275
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	7	15		#FDAD4A	0.478781932065139
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	8	15		#FDAD4A	0.420845483232234
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	9	15	longterm	#FEE188	0.223243215851891
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	10	15		#FEE188	0.288545739428929
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	11	15	reasoning|relational	#FFFFCC	0.0880583692783164
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	12	15		#FD913D	0.561914311053206
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	13	15	presentations	#FD913D	0.571375801046621
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	14	15		#F03623	0.800386751157753
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	15	15	identity	#F03623	0.785163368846911
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	16	15		#FC622F	0.625774678876259
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	17	15	strategies|strategy	#FECB68	0.316918363945601
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	18	15	card|cards	#FEE188	0.219357950290176
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	19	15	gonogo	#FECB68	0.31820139067459
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	20	15		#FECB68	0.343615713329545
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	21	15	switching|switch	#FEE188	0.283922023826132
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	22	15		#FECB68	0.367128192314518
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	23	15	2back|rule	#FEE188	0.297943999075568
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	1	16	emotionally|mood|personality|sadness	#FECB68	0.343147729497912
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	2	16	disgust|sexual	#FEE188	0.281424592763356
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	3	16	olfactory	#FFFFCC	0.0634091067074201
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	4	16	physiological	#FEE188	0.27032443780112
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	5	16	depressed|depressive|habituation	#FEE188	0.219393626838303
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	6	16	schizophrenic	#FECB68	0.326580394360399
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	7	16	colors|contexts	#FECB68	0.305272499874964
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	8	16	aging|encoded	#FECB68	0.387237251340256
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	9	16	goal	#FFF1A9	0.171106870360315
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	10	16		#FECB68	0.31738683146139
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	11	16	autism|autistic|nonverbal	#FECB68	0.349445309669629
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	12	16		#FD913D	0.557264400366693
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	13	16	bottomup|repetitions	#FC622F	0.646685654647507
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	14	16	adaptation	#B10026	1
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	15	16	irrelevant	#F03623	0.731736645204424
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	16	16	distractor|distractors	#FDAD4A	0.444581272853841
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	17	16		#FDAD4A	0.43523760962872
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	18	16	subtraction	#FEE188	0.293975152606111
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	19	16	1back|nback	#FEE188	0.239939160292043
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	20	16	manipulation|rules	#FDAD4A	0.409284705854388
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	21	16		#FDAD4A	0.43498732203975
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	22	16		#FDAD4A	0.41039998376142
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	23	16	digit	#FDAD4A	0.432592026278958
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	1	17	avoidance	#FEE188	0.266214122797848
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	2	17		#FEE188	0.276463465404089
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	3	17	eating|food	#FEE188	0.2264992142104
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	4	17	taste	#FFF1A9	0.12053385705421
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	5	17	bipolar	#FFF1A9	0.184296611091754
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	6	17	illness|uncertainty	#FFF1A9	0.118492998983694
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	7	17	females|probabilistic	#FEE188	0.204925401737577
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	8	17	rejection	#FECB68	0.307115938777961
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	9	17	colour|paired	#FD913D	0.588162398213525
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	10	17		#FECB68	0.395163551566434
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	11	17		#FDAD4A	0.423614191284744
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	12	17		#FDAD4A	0.495855172159948
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	13	17	taskirrelevant	#FC622F	0.628644372070926
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	14	17		#F03623	0.72213678254648
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	15	17	suppression	#FC622F	0.613895165724144
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	16	17		#FD913D	0.570484280322949
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	17	17	shifting|shortterm	#FFF1A9	0.191579546691684
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	18	17	digits	#FECB68	0.382656537230987
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	19	17	search	#FDAD4A	0.438579749414032
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	20	17	counting|taskrelated	#FECB68	0.359163432163928
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	21	17	topdown	#FC622F	0.615236570418356
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	22	17	visuospatial	#FDAD4A	0.411939395245474
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	23	17	arithmetic|calculation|solving	#FEE188	0.291257249465109
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	1	18	addiction|craving|drugs	#FEE188	0.216291804376734
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	2	18	allele|genotype|polymorphism	#FFF1A9	0.117057132442473
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	3	18	motivation	#FFFFCC	0.0905944667142869
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	4	18	heart	#FEE188	0.253359737762653
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	5	18	sleep	#FFF1A9	0.123620525575488
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	6	18	expectancy	#FECB68	0.33891437185472
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	7	18	phasic|salience	#FDAD4A	0.407062988757442
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	8	18	adolescence|adolescents	#FECB68	0.392794716449747
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	9	18	intelligence|tracking	#FECB68	0.374215023405791
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	10	18		#FD913D	0.521266506569977
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	11	18	serial	#FECB68	0.375810034238428
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	12	18		#FD913D	0.513543191164686
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	13	18	spatially|taskrelevant	#FDAD4A	0.425965154231689
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	14	18		#FC622F	0.61662995749589
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	15	18	attended|attend|unattended	#FDAD4A	0.42033095258256
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	16	18	rotation|shapes	#D7141E	0.808280562881913
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	17	18	rehearsal	#FEE188	0.242970723450885
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	18	18	learned	#FECB68	0.309965082798992
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	19	18		#FDAD4A	0.487400117804409
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	20	18	cued|preparatory	#FDAD4A	0.460067966745286
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	21	18		#FD913D	0.516717788351302
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	22	18		#FDAD4A	0.486068003185946
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	23	18	numbers|numerical	#FD913D	0.522871708290114
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	1	19	future	#FD913D	0.5120197758393
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	2	19	negatively	#FECB68	0.339524298397542
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	3	19	distress|epilepsy|selfreported	#FFFFCC	0.0738270260234945
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	4	19	anticipatory|cocaine|probabilities|smoking	#FFF1A9	0.171005308704239
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	5	19	alcohol|amount|impulsivity	#FDAD4A	0.425991144341384
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	6	19	game|success	#FEE188	0.299391407579673
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	7	19	adhd|childhood|engagement	#FDAD4A	0.425928155398369
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	8	19		#FD913D	0.529820314070149
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	9	19		#FD913D	0.564839909105201
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	10	19		#FD913D	0.526372168181056
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	11	19		#FD913D	0.522083989590506
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	12	19	endogenous	#FECB68	0.325396794913772
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	13	19	cueing|invalid|orienting	#FEE188	0.284044945239455
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	14	19		#FC622F	0.632649667923669
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	15	19	multisensory	#FD913D	0.544373891965748
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	16	19		#FC622F	0.628004662262692
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	17	19	shifts	#FDAD4A	0.493955220466776
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	18	19	covert	#FD913D	0.554375393231826
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	19	19		#FDAD4A	0.482112391775427
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	20	19	preparation	#FDAD4A	0.487783709474287
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	21	19	discrimination|training	#FD913D	0.510680572472296
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	22	19	sequences	#FECB68	0.375552537367585
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	23	19		#FD913D	0.529518366583939
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	1	20	personal|self|selfreferential|trait|traits	#FC622F	0.609651291993071
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	2	20	empathic|theory	#FECB68	0.353023450446091
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	3	20	attribution|intentional	#FEE188	0.23841409361173
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	4	20	elderly|oscillations	#FEE188	0.212641287870715
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	5	20	antipsychotic|virtual	#FEE188	0.29711488873285
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	6	20		#FD913D	0.561270392466911
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	7	20	experiences	#FDAD4A	0.432672971223986
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	8	20	categorical|pressure	#FDAD4A	0.476518286376593
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	9	20	play|skills	#FEE188	0.23560417388198
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	10	20	automatic|trained	#FDAD4A	0.430982884719404
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	11	20		#FD913D	0.546649149536601
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	12	20	practice	#FDAD4A	0.490640326641799
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	13	20	visuomotor	#FC622F	0.644275825574607
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	14	20		#FC622F	0.700204397313027
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	15	20	tool	#FC622F	0.692121767358901
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	16	20	vision	#FD913D	0.545540412615829
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	17	20	visually	#FDAD4A	0.499136760031086
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	18	20	saccade|saccades|saccadic	#FECB68	0.326315027780444
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	19	20	locations	#FDAD4A	0.480418980635229
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	20	20	imagery|planning	#FDAD4A	0.411090947584034
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	21	20		#FD913D	0.536932842641535
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	22	20	rest	#FDAD4A	0.471400123538552
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	23	20	sequence	#FD913D	0.500681386227622
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	1	21	scenarios	#FFF1A9	0.142634192640406
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	2	21	intention|intentions	#FD913D	0.500113273213326
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	3	21	causality|perspective	#FD913D	0.547857988489064
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	4	21	past	#FDAD4A	0.451180122965222
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	5	21		#FD913D	0.58792449604337
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	6	21	episode	#FECB68	0.373962524997338
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	7	21	improvement	#FEE188	0.285374380641676
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	8	21	masking|retention	#FC622F	0.666510622481693
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	9	21		#FDAD4A	0.463245087495609
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	10	21	dominant	#FD913D	0.536863499774454
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	11	21		#FDAD4A	0.475330733081933
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	12	21	sequential	#FD913D	0.523447968017914
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	13	21	fingers	#FDAD4A	0.42360818101378
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	14	21		#FC622F	0.667470459494369
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	15	21	gesture|gestures	#FDAD4A	0.465566889442684
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	16	21		#FC622F	0.672151459977627
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	17	21	hands	#FD913D	0.546864493858375
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	18	21		#FD913D	0.580537429247355
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	19	21		#FD913D	0.551145384913654
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	20	21	eye|position	#FD913D	0.594814417894476
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	21	21	execution	#FDAD4A	0.497763664324327
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	22	21	finger|sensorimotor	#FD913D	0.519450485944935
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	23	21		#FD913D	0.525049073398518
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	1	22	moral|stories|story	#FEE188	0.273308049282162
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	2	22	mentalizing|persons	#FECB68	0.392267931518224
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	3	22	default|restingstate	#FD913D	0.572269635472858
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	4	22	thinking|thought|thoughts	#F03623	0.741192544744477
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	5	22	spontaneous	#FECB68	0.388714317425738
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	6	22	concentration|sensations	#FFF1A9	0.195924279262465
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	7	22	hierarchical|preference	#FC622F	0.628683433963987
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	8	22	effort|oral|simulation	#FEE188	0.264982028719822
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	9	22	interhemispheric|plasticity	#FFF1A9	0.163066679411255
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	10	22	imagined|imagine	#FEE188	0.287243945343341
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	11	22	tapping	#FECB68	0.349075111506987
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	12	22	foot|muscle|muscles|voluntary	#FEE188	0.211323362512178
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	13	22	limb	#FECB68	0.323585046092011
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	14	22	eyes|velocity	#FD913D	0.595649823193742
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	15	22	biological|gaze|videos	#FECB68	0.375529408193649
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	16	22	body	#FDAD4A	0.464983833804332
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	17	22	grasping|orientation|reaching	#F03623	0.70732732100734
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	18	22		#FC622F	0.620190992675726
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	19	22	mirror|shape	#FC622F	0.643818782197043
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	20	22	actions	#FD913D	0.541455373864714
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	21	22	action	#FD913D	0.53281941698722
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	22	22		#FD913D	0.540278751271344
+48ff4c99-c779-30e1-b36a-aabc4be210ea	Brownell KD	23	22	hand|movements|sensory	#FDAD4A	0.483474069547685

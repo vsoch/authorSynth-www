@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	1	1	auditory|speech	#FFF1A9	0.119703291453694
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	2	1		#FFF1A9	0.101911259573386
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	3	1	da|integration	#FEE188	0.229426149068065
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	4	1		#FEE188	0.216264635877016
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	5	1	physical|psychophysical|tactile	#FEE188	0.237351411901743
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	6	1		#FDAD4A	0.411227022689206
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	7	1	somatosensory|stimulation	#FECB68	0.384229037776184
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	8	1	painful|pain	#FD913D	0.555898045682462
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	9	1		#FC622F	0.601124904507971
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	10	1	ratings	#FC622F	0.645354104952555
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	11	1	affective|affect	#FD913D	0.503629985951408
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	12	1	emotions	#FDAD4A	0.409843688498103
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	13	1	expression|expressions|facial	#FEE188	0.246917156203904
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	14	1		#FECB68	0.381642286056926
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	15	1		#FDAD4A	0.42381535977022
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	16	1	emotion|motion|neutral	#FDAD4A	0.430558266593766
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	17	1	rating	#FD913D	0.599386429440455
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	18	1	negative|positive	#FD913D	0.542488908063974
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	19	1		#FDAD4A	0.468824157731989
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	20	1	ear|order	#FDAD4A	0.407191030315318
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	21	1	motor	#FEE188	0.264295415296814
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	22	1	visual	#FFF1A9	0.19854561955312
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	23	1	age|image|response	#FECB68	0.348746924474263
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	1	2	sound|sounds	#FFFFCC	0.065540652494389
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	2	2		#FFFFCC	0.0894894019220592
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	3	2	audiovisual|bimodal|crossmodal	#FFFFCC	0
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	4	2		#FEE188	0.20939985340794
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	5	2		#FEE188	0.265969390962589
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	6	2		#FECB68	0.395898706060076
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	7	2	sensation	#FD913D	0.531274341441245
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	8	2	heat|noxious	#FD913D	0.527375905624224
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	9	2		#FC622F	0.600993837199418
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	10	2		#FC622F	0.60154679445861
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	11	2		#FD913D	0.570694181780675
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	12	2	valence	#FDAD4A	0.478380913091137
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	13	2	person|social	#FDAD4A	0.425052815111271
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	14	2		#FECB68	0.387206139823673
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	15	2	face|faces	#FEE188	0.283794999511898
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	16	2		#FDAD4A	0.457929989951319
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	17	2		#FD913D	0.512240296590069
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	18	2		#FD913D	0.512349135218255
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	19	2		#FDAD4A	0.466435814282029
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	20	2		#FECB68	0.362527821258312
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	21	2	images|spatial	#FEE188	0.293101190970485
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	22	2	control	#FECB68	0.337642902513214
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	23	2	time	#FECB68	0.344249914648404
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	1	3	acoustic|listening|musical|music|pitch	#FFFFCC	0.0380395721499517
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	2	3	noise|tones	#FFFFCC	0.0427834951538508
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	3	3		#FFF1A9	0.131292562653928
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	4	3		#FFF1A9	0.193764532143883
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	5	3	frequency	#FEE188	0.23252183106787
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	6	3		#FDAD4A	0.414632913694011
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	7	3		#FD913D	0.554523410160055
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	8	3	temperature	#FDAD4A	0.461412978437852
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	9	3		#FD913D	0.588360745810957
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	10	3	pleasant|unpleasant	#FDAD4A	0.458047411905367
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	11	3	anxiety	#FD913D	0.520871666572231
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	12	3		#FD913D	0.540766828524564
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	13	3		#FD913D	0.502517954105928
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	14	3		#FDAD4A	0.450472527218586
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	15	3		#FDAD4A	0.440167468988818
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	16	3	picture	#FDAD4A	0.422392398303029
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	17	3		#FDAD4A	0.467909023391631
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	18	3	value	#FD913D	0.524688525229679
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	19	3	cue	#FDAD4A	0.443127734221874
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	20	3	error|target	#FECB68	0.388801656052666
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	21	3	attention	#FEE188	0.256305784189979
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	22	3		#FECB68	0.315160064824445
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	23	3	number	#FECB68	0.331840640655595
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	1	4	voice	#FFFFCC	0.0336183085022412
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	2	4		#FFFFCC	0.0737888316874829
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	3	4	hearing	#FFFFCC	0.0890493119862119
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	4	4		#FEE188	0.201790375684932
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	5	4	overt	#FEE188	0.263302914183026
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	6	4		#FECB68	0.311614152631603
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	7	4		#FD913D	0.545900887868998
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	8	4	nociceptive|nonpainful|painrelated	#FD913D	0.56858444172595
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	9	4	unpleasantness	#FDAD4A	0.465655982891576
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	10	4	skin|subjective	#FC622F	0.642166245571115
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	11	4	depression	#FD913D	0.569577136650006
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	12	4	experience	#FD913D	0.591959209349303
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	13	4	female	#FDAD4A	0.488743750641527
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	14	4	male	#FDAD4A	0.465199157831435
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	15	4	pictures	#FDAD4A	0.405380015325858
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	16	4		#FDAD4A	0.400142859040414
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	17	4	perception	#FEE188	0.270972980869117
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	18	4		#FECB68	0.369315097449178
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	19	4		#FECB68	0.362248027828048
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	20	4		#FECB68	0.337685756082375
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	21	4	correct	#FECB68	0.38023338717902
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	22	4	work	#FEE188	0.29755613920786
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	23	4	memory	#FECB68	0.306713017928312
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	1	5	prosodic|prosody	#FFFFCC	0.0569445883412477
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	2	5	phonetic	#FFFFCC	0.0946668594823695
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	3	5	syllable|syllables	#FFF1A9	0.100967995256283
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	4	5		#FEE188	0.21581547948987
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	5	5	lip|production	#FFF1A9	0.125978005551384
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	6	5	somatotopic	#FEE188	0.218209020783911
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	7	5		#FD913D	0.551075749699828
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	8	5		#FD913D	0.570368637015201
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	9	5	empathy	#FD913D	0.568572868139279
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	10	5		#FD913D	0.568840385730477
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	11	5	disorder	#FD913D	0.539768345274675
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	12	5		#FD913D	0.536358171793303
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	13	5		#FDAD4A	0.462474038991118
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	14	5		#FECB68	0.384083601402957
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	15	5		#FECB68	0.364180387676468
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	16	5		#FECB68	0.322764075464936
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	17	5		#FEE188	0.279676678000197
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	18	5	mental	#FEE188	0.272275314034691
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	19	5	go	#FECB68	0.3188636084382
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	20	5	object	#FFF1A9	0.142491473341626
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	21	5		#FEE188	0.294026898158998
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	22	5		#FEE188	0.265832559836764
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	23	5	word|words	#FFF1A9	0.189844150326272
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	1	6		#FC622F	0.649406448503163
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	2	6		#FD913D	0.587006417395038
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	3	6		#FDAD4A	0.497052582648196
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	4	6	vocal	#FEE188	0.227109107348874
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	5	6	articulatory	#FFF1A9	0.176929033930975
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	6	6		#FECB68	0.366745389540397
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	7	6	oddball	#FDAD4A	0.418953700043199
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	8	6	perceived	#FDAD4A	0.420353792988547
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	9	6	errorrelated	#FDAD4A	0.498918933887847
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	10	6	approach	#FD913D	0.505427021797234
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	11	6	schizophrenia	#FDAD4A	0.461336751733011
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	12	6	acquisition	#FECB68	0.396844315457994
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	13	6		#FECB68	0.329347953193033
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	14	6		#FFF1A9	0.183186303091765
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	15	6		#FFF1A9	0.18673365525222
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	16	6		#FFF1A9	0.19727841989467
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	17	6		#FEE188	0.222525182836552
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	18	6		#FEE188	0.22689457903681
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	19	6		#FEE188	0.254958930354127
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	20	6	objects	#FFF1A9	0.188129098258535
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	21	6		#FEE188	0.266523165839753
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	22	6		#FEE188	0.219276324308028
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	23	6	language|semantic	#FFF1A9	0.164233043172961
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	1	7	dopamine|dopaminergic	#B10026	0.92617345031619
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	2	7		#B10026	1
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	3	7		#D7141E	0.856017336834758
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	4	7		#F03623	0.718155465535765
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	5	7		#FC622F	0.655954423360611
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	6	7		#FD913D	0.573037539135263
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	7	7		#FD913D	0.569398509578771
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	8	7		#FD913D	0.53751930719468
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	9	7		#FD913D	0.506419974711025
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	10	7		#FECB68	0.391343787634812
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	11	7		#FECB68	0.377313829925548
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	12	7		#FECB68	0.31500244389478
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	13	7	linguistic|spoken	#FFF1A9	0.113124300266498
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	14	7		#FFF1A9	0.138105410277353
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	15	7	comprehension|sentence|sentences|syntactic	#FFF1A9	0.099669216698274
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	16	7		#FFF1A9	0.147430429808262
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	17	7		#FFF1A9	0.189938631427576
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	18	7	phonological|reading|read	#FFF1A9	0.171819456612794
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	19	7		#FEE188	0.247776474444841
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	20	7	perceptual|recognition	#FEE188	0.296024044925346
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	21	7		#FEE188	0.293913988483383
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	22	7		#FEE188	0.24985405471834
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	23	7	verb	#FEE188	0.23696977360003
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	1	8	outcome|reward	#B10026	0.994853068622989
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	2	8	anticipation	#B10026	0.982606486686213
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	3	8	outcomes	#B10026	0.934413972108564
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	4	8	choice|choices	#F03623	0.738776719389196
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	5	8	decisions|probability	#FC622F	0.608977103202142
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	6	8	reversal	#FD913D	0.578613019667524
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	7	8	classification|incorrect	#FD913D	0.544836724374543
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	8	8		#FD913D	0.509528396828038
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	9	8	agerelated|fluency|probes	#FECB68	0.317027451281808
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	10	8	engaged	#FEE188	0.20769450460479
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	11	8	explicit|knowledge	#FEE188	0.237977529221091
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	12	8		#FEE188	0.213489767313241
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	13	8		#FFF1A9	0.157863212166201
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	14	8		#FFF1A9	0.131992502017953
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	15	8		#FFF1A9	0.126809150180336
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	16	8		#FFF1A9	0.147505573447433
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	17	8	lexical	#FFF1A9	0.18948951554276
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	18	8		#FEE188	0.233204066835249
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	19	8		#FEE188	0.265796804360921
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	20	8		#FECB68	0.321511717727531
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	21	8	encoding	#FECB68	0.356169619985897
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	22	8	retrieval	#FECB68	0.342995547690122
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	23	8	verbal	#FEE188	0.274148977304839
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	1	9	incentive|monetary|money|rewards	#B10026	0.92116036090128
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	2	9	loss	#B10026	0.95313538117218
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	3	9		#B10026	0.924040576132491
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	4	9		#D7141E	0.817134376717523
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	5	9	decisionmaking	#FC622F	0.604487645931602
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	6	9		#FD913D	0.591838041339875
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	7	9		#FD913D	0.532025639151118
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	8	9		#FDAD4A	0.479125482745266
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	9	9		#FECB68	0.376755672848576
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	10	9		#FEE188	0.266550751140157
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	11	9		#FEE188	0.203233133334204
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	12	9		#FFF1A9	0.184672694493912
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	13	9	noun	#FFF1A9	0.119833789395954
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	14	9	meaning	#FFF1A9	0.117161638372098
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	15	9	english	#FFF1A9	0.15630330289955
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	16	9	pseudoword|pseudowords	#FFFFCC	0.0896677483919578
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	17	9		#FEE188	0.204595214361063
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	18	9		#FEE188	0.289193441611529
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	19	9	familiar|judgment	#FECB68	0.318921933291447
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	20	9	pair|pairs	#FECB68	0.374702383920159
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	21	9		#FECB68	0.385214551404137
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	22	9		#FECB68	0.332879771583125
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	23	9	letter|working	#FEE188	0.266336105966588
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	1	10	losses|reinforcement|win	#B10026	0.903045972370099
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	2	10	gain	#D7141E	0.849344241496281
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	3	10	expectation	#F03623	0.76325318627731
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	4	10	risk	#FC622F	0.651100678425835
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	5	10	fact	#FDAD4A	0.471253901243243
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	6	10	associative	#FDAD4A	0.428727878017241
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	7	10	familiarity|judgments|old	#FDAD4A	0.432706158715378
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	8	10	contextual|text	#FECB68	0.349894603509052
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	9	10	recall|retrieved	#FEE188	0.299195844690727
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	10	10	conceptual|semantically	#FFF1A9	0.127239827211847
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	11	10	grammatical|speakers	#FFF1A9	0.145202402420043
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	12	10	nouns	#FFF1A9	0.121374802511612
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	13	10	japanese	#FFF1A9	0.107269093856708
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	14	10	languages	#FFF1A9	0.150515793826333
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	15	10	written	#FFF1A9	0.114187018639342
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	16	10	chinese|phonology	#FFF1A9	0.162155645378162
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	17	10	orthographic	#FFF1A9	0.192948234217405
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	18	10		#FECB68	0.330895560603276
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	19	10		#FECB68	0.375843108745982
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	20	10	association|decision	#FD913D	0.535191662126632
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	21	10	selection	#FDAD4A	0.411472771249422
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	22	10	letters	#FEE188	0.286449680526083
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	23	10	demand|load	#FEE188	0.275769295658518
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	1	11	conditioned|conditioning	#B10026	0.914367810010348
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	2	11		#D7141E	0.893970329125908
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	3	11	drug|placebo	#FC622F	0.631354727847299
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	4	11		#FC622F	0.620034334832566
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	5	11	associations	#FECB68	0.396614103016437
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	6	11		#FECB68	0.390682687377807
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	7	11	episodic|recollection	#FECB68	0.344497640630047
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	8	11		#FECB68	0.360234468045183
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	9	11		#FECB68	0.331474133435071
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	10	11	concepts	#FFF1A9	0.107121895050713
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	11	11		#FFF1A9	0.194285398769955
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	12	11		#FFF1A9	0.16739199175636
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	13	11	german	#FEE188	0.280869850379814
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	14	11	readers	#FFF1A9	0.177936797276366
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	15	11	character|name|naming	#FEE188	0.205951597744966
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	16	11		#FEE188	0.247937389330792
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	17	11	novel	#FECB68	0.310509109686729
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	18	11		#FECB68	0.328513077566931
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	19	11	child|children	#FECB68	0.308489551776037
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	20	11	adults	#FDAD4A	0.403636263871017
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	21	11	ability|feedback|learning	#FD913D	0.594820012815168
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	22	11	cues|delay	#FDAD4A	0.455744693864126
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	23	11	attentional|difficulty|targets	#FEE188	0.278568195816236
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	1	12	aversive|shock	#FC622F	0.690054734074932
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	2	12	reactivity	#FC622F	0.628799046994699
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	3	12	males|sex|women	#FECB68	0.383905789782993
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	4	12	animal	#FDAD4A	0.468307852398416
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	5	12	animals	#FEE188	0.253128869491278
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	6	12		#FEE188	0.298023721633922
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	7	12	remember|subsequent	#FEE188	0.203554760276366
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	8	12	autobiographical|memories	#FFF1A9	0.155047017664213
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	9	12		#FECB68	0.312059489875825
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	10	12	violation|violations	#FFF1A9	0.180342735851042
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	11	12	aphasia	#FEE188	0.213958922559941
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	12	12	nonwords	#FFFFCC	0.0973098970133844
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	13	12	dyslexia	#FFF1A9	0.109408523610926
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	14	12		#FEE188	0.220590025873089
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	15	12	priming	#FFF1A9	0.169227825961649
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	16	12		#FEE188	0.295913964701226
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	17	12	category|repetition	#FEE188	0.274616323592323
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	18	12		#FECB68	0.342830343025917
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	19	12	developmental|development	#FEE188	0.254363986183685
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	20	12		#FDAD4A	0.400299132768445
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	21	12	space	#FECB68	0.357514816392755
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	22	12		#FECB68	0.38611059847476
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	23	12	color	#FECB68	0.335759793167204
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	1	13	threat	#FEE188	0.270546235351524
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	2	13	regulation	#FECB68	0.388182027219208
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	3	13		#FDAD4A	0.463312290152676
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	4	13	masked	#FEE188	0.234743872418511
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	5	13	scene|scenes	#FFF1A9	0.131480199273447
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	6	13		#FEE188	0.267825960091895
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	7	13	confidence|remembered	#FEE188	0.23812039044226
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	8	13		#FEE188	0.290194873578518
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	9	13		#FECB68	0.306345816553587
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	10	13	ambiguity|ambiguous	#FFF1A9	0.160651792715957
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	11	13		#FEE188	0.226878724401444
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	12	13		#FFF1A9	0.184418194728524
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	13	13	writing	#FFF1A9	0.105347109928937
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	14	13		#FEE188	0.227337936270693
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	15	13	categorization|congruency|prime	#FFF1A9	0.187465115116626
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	16	13		#FECB68	0.324005558914919
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	17	13	mask	#FECB68	0.326772611508567
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	18	13		#FECB68	0.376628905706525
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	19	13		#FECB68	0.385483986362636
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	20	13		#FECB68	0.391229677192256
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	21	13	conflict|congruent|incongruent	#FECB68	0.380312285750011
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	22	13	errors	#FDAD4A	0.46272324921682
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	23	13	maintenance|probe|wm	#FECB68	0.323534976089827
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	1	14	angry|fearful|happy	#FFF1A9	0.176715674353928
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	2	14		#FEE188	0.270601478482494
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	3	14	awareness|conscious|ptsd	#FECB68	0.311385140774592
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	4	14		#FECB68	0.342325849957415
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	5	14	houses|photographs	#FFF1A9	0.149410026966766
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	6	14		#FEE188	0.290510463006076
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	7	14	hits	#FEE188	0.250411937446751
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	8	14	famous	#FFF1A9	0.191201541515506
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	9	14	names	#FFF1A9	0.190135684762629
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	10	14	family	#FFF1A9	0.125190283768954
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	11	14	competition|mouth	#FFF1A9	0.133500700463922
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	12	14	abilities	#FFF1A9	0.165402324501549
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	13	14	implicit|unfamiliar	#FFF1A9	0.189674065483346
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	14	14		#FEE188	0.231270022096795
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	15	14	tom	#FECB68	0.317058389843807
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	16	14		#FECB68	0.325179226253589
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	17	14		#FECB68	0.360827312304853
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	18	14	stop	#FECB68	0.38322822487106
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	19	14	inhibition|inhibitory|nogo	#FECB68	0.384618884304575
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	20	14	monitoring|stroop	#FDAD4A	0.442539310208315
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	21	14	interference	#FECB68	0.302677371455565
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	22	14		#FECB68	0.361575535101808
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	23	14	demands|executive	#FEE188	0.255909870614307
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	1	15	anger	#FFF1A9	0.144097564142783
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	2	15	stress	#FEE188	0.261735301567584
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	3	15	feelings	#FECB68	0.313815286558917
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	4	15	salient	#FEE188	0.268769215242041
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	5	15	novelty	#FECB68	0.312730102343314
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	6	15	movie	#FFF1A9	0.169412109265709
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	7	15		#FECB68	0.389029598778835
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	8	15		#FECB68	0.393938205244017
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	9	15	longterm	#FEE188	0.294243940573242
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	10	15		#FEE188	0.285958230796797
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	11	15	reasoning|relational	#FEE188	0.201688495488485
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	12	15		#FEE188	0.229145882546076
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	13	15	presentations	#FFF1A9	0.125802478199695
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	14	15		#FEE188	0.217355131458457
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	15	15	identity	#FEE188	0.210675539194082
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	16	15		#FECB68	0.318766890397063
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	17	15	strategies|strategy	#FECB68	0.351532496175237
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	18	15	card|cards	#FECB68	0.330939919512012
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	19	15	gonogo	#FECB68	0.382904219155836
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	20	15		#FECB68	0.390052363592691
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	21	15	switching|switch	#FEE188	0.290938638261414
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	22	15		#FECB68	0.348817493140276
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	23	15	2back|rule	#FEE188	0.246810510936219
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	1	16	emotionally|mood|personality|sadness	#FEE188	0.236624761976851
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	2	16	disgust|sexual	#FECB68	0.382763671385656
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	3	16	olfactory	#FECB68	0.327752943414357
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	4	16	physiological	#FDAD4A	0.432410549230849
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	5	16	depressed|depressive|habituation	#FEE188	0.237280362871018
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	6	16	schizophrenic	#FEE188	0.279957512191079
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	7	16	colors|contexts	#FECB68	0.396764336970184
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	8	16	aging|encoded	#FECB68	0.321308591771942
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	9	16	goal	#FEE188	0.234876007466218
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	10	16		#FECB68	0.30623313000039
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	11	16	autism|autistic|nonverbal	#FEE188	0.212596163253479
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	12	16		#FEE188	0.242458641456215
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	13	16	bottomup|repetitions	#FFF1A9	0.108073351889802
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	14	16	adaptation	#FFF1A9	0.192084600424721
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	15	16	irrelevant	#FEE188	0.219445188699587
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	16	16	distractor|distractors	#FEE188	0.244071150286513
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	17	16		#FECB68	0.307746468065409
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	18	16	subtraction	#FEE188	0.235360085650905
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	19	16	1back|nback	#FEE188	0.231532549099641
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	20	16	manipulation|rules	#FEE188	0.223721803847097
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	21	16		#FEE188	0.298470576819924
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	22	16		#FEE188	0.25210133720194
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	23	16	digit	#FEE188	0.221143929763881
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	1	17	avoidance	#FD913D	0.542750883057865
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	2	17		#FD913D	0.593006391458502
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	3	17	eating|food	#FD913D	0.511353428259715
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	4	17	taste	#FDAD4A	0.447658632225474
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	5	17	bipolar	#FECB68	0.350081275762308
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	6	17	illness|uncertainty	#FECB68	0.330241901416671
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	7	17	females|probabilistic	#FECB68	0.381434616785226
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	8	17	rejection	#FECB68	0.339617263040284
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	9	17	colour|paired	#FEE188	0.228636618402846
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	10	17		#FECB68	0.364734730786099
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	11	17		#FECB68	0.33212720839182
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	12	17		#FEE188	0.291820546687182
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	13	17	taskirrelevant	#FFF1A9	0.176684133150234
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	14	17		#FFF1A9	0.176408932751159
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	15	17	suppression	#FFF1A9	0.153862635947775
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	16	17		#FEE188	0.201557364141252
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	17	17	shifting|shortterm	#FFF1A9	0.150592507354646
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	18	17	digits	#FEE188	0.239713037277342
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	19	17	search	#FECB68	0.312783742716704
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	20	17	counting|taskrelated	#FEE188	0.243454140382252
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	21	17	topdown	#FEE188	0.214773671994323
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	22	17	visuospatial	#FFF1A9	0.150953067823737
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	23	17	arithmetic|calculation|solving	#FFF1A9	0.18092693662186
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	1	18	addiction|craving|drugs	#FD913D	0.583496289938883
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	2	18	allele|genotype|polymorphism	#FDAD4A	0.473896670167263
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	3	18	motivation	#FC622F	0.605785685629291
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	4	18	heart	#FD913D	0.51066346739298
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	5	18	sleep	#FDAD4A	0.484672336515276
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	6	18	expectancy	#FDAD4A	0.451333646657964
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	7	18	phasic|salience	#FD913D	0.54460963968036
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	8	18	adolescence|adolescents	#FEE188	0.288914663456755
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	9	18	intelligence|tracking	#FEE188	0.264080278381197
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	10	18		#FECB68	0.362247245543279
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	11	18	serial	#FECB68	0.340576636035519
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	12	18		#FEE188	0.283350196122249
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	13	18	spatially|taskrelevant	#FFF1A9	0.190174707573443
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	14	18		#FFF1A9	0.165456596734782
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	15	18	attended|attend|unattended	#FFFFCC	0.0605320449769897
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	16	18	rotation|shapes	#FFF1A9	0.151970137093415
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	17	18	rehearsal	#FFF1A9	0.156691301087143
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	18	18	learned	#FECB68	0.370895318527604
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	19	18		#FEE188	0.285878154764831
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	20	18	cued|preparatory	#FEE188	0.228458385325458
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	21	18		#FEE188	0.25489662536022
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	22	18		#FEE188	0.230156518473653
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	23	18	numbers|numerical	#FFF1A9	0.198883043105301
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	1	19	future	#FDAD4A	0.451322509965359
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	2	19	negatively	#FECB68	0.379266169785708
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	3	19	distress|epilepsy|selfreported	#FECB68	0.345745079074491
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	4	19	anticipatory|cocaine|probabilities|smoking	#FD913D	0.576338921603369
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	5	19	alcohol|amount|impulsivity	#FC622F	0.695280819734871
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	6	19	game|success	#FD913D	0.574214500058944
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	7	19	adhd|childhood|engagement	#FECB68	0.376688798366924
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	8	19		#FDAD4A	0.495299516688518
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	9	19		#FECB68	0.386887893826233
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	10	19		#FECB68	0.350117853962426
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	11	19		#FECB68	0.308515726685785
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	12	19	endogenous	#FEE188	0.231061534327326
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	13	19	cueing|invalid|orienting	#FFF1A9	0.161326744948725
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	14	19		#FFF1A9	0.153431935606859
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	15	19	multisensory	#FFFFCC	0.0697799511620355
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	16	19		#FFF1A9	0.141582899852581
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	17	19	shifts	#FFF1A9	0.176514404486776
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	18	19	covert	#FEE188	0.227514351540348
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	19	19		#FEE188	0.236471645400533
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	20	19	preparation	#FFF1A9	0.173769296761911
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	21	19	discrimination|training	#FEE188	0.232433640452152
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	22	19	sequences	#FFF1A9	0.162745980676963
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	23	19		#FEE188	0.254052171364018
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	1	20	personal|self|selfreferential|trait|traits	#FECB68	0.389365458595847
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	2	20	empathic|theory	#FECB68	0.358758474448754
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	3	20	attribution|intentional	#FFFFCC	0.0922309909752781
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	4	20	elderly|oscillations	#FFF1A9	0.145835056191429
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	5	20	antipsychotic|virtual	#FEE188	0.281719293267176
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	6	20		#FC622F	0.648443460213242
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	7	20	experiences	#FDAD4A	0.418213630468566
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	8	20	categorical|pressure	#FEE188	0.202573188972109
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	9	20	play|skills	#FEE188	0.275247491417264
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	10	20	automatic|trained	#FEE188	0.257561873036205
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	11	20		#FEE188	0.27505714785466
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	12	20	practice	#FEE188	0.202467689503461
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	13	20	visuomotor	#FFF1A9	0.120869739084467
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	14	20		#FFF1A9	0.151957396692858
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	15	20	tool	#FFFFCC	0.0866817398059581
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	16	20	vision	#FFFFCC	0.0143488569005027
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	17	20	visually	#FFF1A9	0.114150763976854
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	18	20	saccade|saccades|saccadic	#FFF1A9	0.122272317871464
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	19	20	locations	#FFF1A9	0.142804000813177
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	20	20	imagery|planning	#FEE188	0.220342896555085
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	21	20		#FEE188	0.230682621999399
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	22	20	rest	#FFF1A9	0.192065060539205
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	23	20	sequence	#FEE188	0.268689637553319
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	1	21	scenarios	#FFF1A9	0.11784953260826
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	2	21	intention|intentions	#FFF1A9	0.176479391794447
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	3	21	causality|perspective	#FFF1A9	0.162568664059076
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	4	21	past	#FFF1A9	0.135871637823674
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	5	21		#FD913D	0.519645208245456
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	6	21	episode	#FEE188	0.272054712012893
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	7	21	improvement	#FEE188	0.243451992366325
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	8	21	masking|retention	#FECB68	0.302745219992904
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	9	21		#FEE188	0.270766307552248
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	10	21	dominant	#FFF1A9	0.130524398274757
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	11	21		#FEE188	0.224540788873924
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	12	21	sequential	#FEE188	0.248950389520654
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	13	21	fingers	#FFFFCC	0.0669638335293722
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	14	21		#FFFFCC	0.0983048419320269
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	15	21	gesture|gestures	#FFFFCC	0.00439336889655159
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	16	21		#FFFFCC	0.0797567993485613
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	17	21	hands	#FFFFCC	0.00271379662327498
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	18	21		#FFF1A9	0.117663545958204
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	19	21		#FFF1A9	0.12471533324237
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	20	21	eye|position	#FFF1A9	0.154544663903497
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	21	21	execution	#FFF1A9	0.15328288582796
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	22	21	finger|sensorimotor	#FFF1A9	0.143390109797024
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	23	21		#FFF1A9	0.19151134266077
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	1	22	moral|stories|story	#FFFFCC	0.0920330957485712
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	2	22	mentalizing|persons	#FFF1A9	0.10663689049298
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	3	22	default|restingstate	#FEE188	0.278373483292621
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	4	22	thinking|thought|thoughts	#FFF1A9	0.191777705729814
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	5	22	spontaneous	#FDAD4A	0.401341785372737
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	6	22	concentration|sensations	#FDAD4A	0.499680022503706
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	7	22	hierarchical|preference	#FECB68	0.378774075956872
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	8	22	effort|oral|simulation	#FFF1A9	0.142086640395141
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	9	22	interhemispheric|plasticity	#FFF1A9	0.139087072665808
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	10	22	imagined|imagine	#FFF1A9	0.115957264106183
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	11	22	tapping	#FFF1A9	0.199069837548219
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	12	22	foot|muscle|muscles|voluntary	#FEE188	0.230035489178193
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	13	22	limb	#FFFFCC	0.0987740249568646
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	14	22	eyes|velocity	#FFFFCC	0.0496052032241591
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	15	22	biological|gaze|videos	#FFFFCC	0.0369638880695973
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	16	22	body	#FEE188	0.21366136801887
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	17	22	grasping|orientation|reaching	#FFFFCC	0.0278774441884653
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	18	22		#FFF1A9	0.108758351741991
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	19	22	mirror|shape	#FFFFCC	0.0731220271518864
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	20	22	actions	#FFFFCC	0.0466498117364187
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	21	22	action	#FFF1A9	0.193132996997682
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	22	22		#FFF1A9	0.176259640993127
+170fd8fd-edf0-3fcc-ac21-0dd13aa3c10f	Kapur S	23	22	hand|movements|sensory	#FFF1A9	0.158513271982093

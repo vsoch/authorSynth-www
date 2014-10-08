@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	1	1	auditory|speech	#FEE188	0.289891423928779
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	2	1		#FEE188	0.285876152811862
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	3	1	da|integration	#FD913D	0.591812117892439
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	4	1		#FDAD4A	0.494609845199891
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	5	1	physical|psychophysical|tactile	#FECB68	0.362539965873272
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	6	1		#FECB68	0.379805298050657
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	7	1	somatosensory|stimulation	#FECB68	0.322572490420954
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	8	1	painful|pain	#FEE188	0.225111301186193
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	9	1		#FEE188	0.269901385597994
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	10	1	ratings	#FECB68	0.367204784382993
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	11	1	affective|affect	#FD913D	0.558914763417212
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	12	1	emotions	#FDAD4A	0.420987852529009
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	13	1	expression|expressions|facial	#FECB68	0.327562237749263
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	14	1		#FDAD4A	0.471964599695414
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	15	1		#FDAD4A	0.480538071984578
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	16	1	emotion|motion|neutral	#FDAD4A	0.433616149656338
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	17	1	rating	#FDAD4A	0.450721269334778
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	18	1	negative|positive	#FD913D	0.583056719525299
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	19	1		#FC622F	0.672340682080659
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	20	1	ear|order	#FC622F	0.677940057525487
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	21	1	motor	#FD913D	0.504890927281593
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	22	1	visual	#FD913D	0.532049492632534
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	23	1	age|image|response	#FD913D	0.582200203309352
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	1	2	sound|sounds	#FFF1A9	0.158273462748073
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	2	2		#FEE188	0.235885528666811
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	3	2	audiovisual|bimodal|crossmodal	#FEE188	0.248923190639913
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	4	2		#FD913D	0.520048411111194
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	5	2		#FD913D	0.50436228792954
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	6	2		#FDAD4A	0.429716394150782
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	7	2	sensation	#FFF1A9	0.136275840792212
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	8	2	heat|noxious	#FFF1A9	0.133314029737979
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	9	2		#FEE188	0.291761262120382
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	10	2		#FDAD4A	0.453641071311593
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	11	2		#FDAD4A	0.487234981073379
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	12	2	valence	#FDAD4A	0.44591988554657
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	13	2	person|social	#FD913D	0.557313096309654
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	14	2		#FDAD4A	0.485335195932121
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	15	2	face|faces	#FDAD4A	0.446522055127005
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	16	2		#FD913D	0.528716061843403
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	17	2		#FD913D	0.586587664641119
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	18	2		#FC622F	0.665204001779587
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	19	2		#F03623	0.70634253106447
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	20	2		#FC622F	0.67389441007877
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	21	2	images|spatial	#FC622F	0.616991177529277
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	22	2	control	#FC622F	0.665080193900705
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	23	2	time	#FC622F	0.607146902377755
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	1	3	acoustic|listening|musical|music|pitch	#FFFFCC	0
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	2	3	noise|tones	#FFF1A9	0.107109038585256
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	3	3		#FECB68	0.373656481538525
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	4	3		#FD913D	0.549828411109333
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	5	3	frequency	#FC622F	0.620641477531567
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	6	3		#FD913D	0.592367826084956
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	7	3		#FECB68	0.312172224826061
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	8	3	temperature	#FEE188	0.264371211216904
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	9	3		#FECB68	0.333697250046716
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	10	3	pleasant|unpleasant	#FECB68	0.310166344092015
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	11	3	anxiety	#FDAD4A	0.46488875184554
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	12	3		#FD913D	0.585551091859064
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	13	3		#FD913D	0.596580975209602
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	14	3		#FD913D	0.542146891685804
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	15	3		#FD913D	0.557448523011697
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	16	3	picture	#FD913D	0.598036461855909
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	17	3		#FC622F	0.644007798591435
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	18	3	value	#F03623	0.721538949749774
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	19	3	cue	#F03623	0.700979279074163
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	20	3	error|target	#F03623	0.775239251246319
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	21	3	attention	#FC622F	0.688630474789982
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	22	3		#FC622F	0.69362509020925
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	23	3	number	#FC622F	0.674563208732204
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	1	4	voice	#FFFFCC	0.0748193862660427
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	2	4		#FFF1A9	0.171531799219019
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	3	4	hearing	#FEE188	0.292562097016995
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	4	4		#FDAD4A	0.491769610135313
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	5	4	overt	#FC622F	0.621472103969478
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	6	4		#FD913D	0.550733303671573
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	7	4		#FDAD4A	0.439990671185471
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	8	4	nociceptive|nonpainful|painrelated	#FEE188	0.222308437448848
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	9	4	unpleasantness	#FECB68	0.33974595902616
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	10	4	skin|subjective	#FDAD4A	0.418958400085428
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	11	4	depression	#FD913D	0.52731176468562
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	12	4	experience	#FC622F	0.62061661859746
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	13	4	female	#FD913D	0.560779107305518
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	14	4	male	#FD913D	0.558923703287944
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	15	4	pictures	#FD913D	0.552556345054705
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	16	4		#FC622F	0.639476306901147
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	17	4	perception	#FD913D	0.519974953050404
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	18	4		#F03623	0.76649511490038
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	19	4		#F03623	0.782862888947371
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	20	4		#F03623	0.765848753953224
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	21	4	correct	#F03623	0.77025537869932
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	22	4	work	#F03623	0.778707947921714
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	23	4	memory	#F03623	0.702967468187066
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	1	5	prosodic|prosody	#FFFFCC	0.0320545538444359
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	2	5	phonetic	#FEE188	0.240034314388734
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	3	5	syllable|syllables	#FECB68	0.328764317981406
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	4	5		#FDAD4A	0.443220302925865
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	5	5	lip|production	#FEE188	0.295216195104139
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	6	5	somatotopic	#FFF1A9	0.157717053869832
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	7	5		#FC622F	0.624724602623718
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	8	5		#FC622F	0.664411220111821
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	9	5	empathy	#F03623	0.709640971585988
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	10	5		#D7141E	0.801211689692746
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	11	5	disorder	#FC622F	0.698060843443455
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	12	5		#F03623	0.752470104125023
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	13	5		#FC622F	0.660925116823111
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	14	5		#FC622F	0.632599256347707
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	15	5		#FC622F	0.624517542082161
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	16	5		#FC622F	0.656911132352925
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	17	5		#F03623	0.705755398791349
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	18	5	mental	#D7141E	0.818728021361567
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	19	5	go	#F03623	0.791095194895269
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	20	5	object	#FC622F	0.611101550885851
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	21	5		#F03623	0.777932401856913
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	22	5		#F03623	0.730807932744254
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	23	5	word|words	#FD913D	0.594945053337693
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	1	6		#FDAD4A	0.432218526339715
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	2	6		#FDAD4A	0.470859061747601
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	3	6		#FD913D	0.533179655368863
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	4	6	vocal	#FEE188	0.262719359102858
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	5	6	articulatory	#FEE188	0.254537182998809
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	6	6		#FD913D	0.557621007784314
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	7	6	oddball	#F03623	0.774085489466025
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	8	6	perceived	#FC622F	0.605646823600276
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	9	6	errorrelated	#D7141E	0.82905936168024
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	10	6	approach	#F03623	0.714937813523363
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	11	6	schizophrenia	#D7141E	0.825092930394285
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	12	6	acquisition	#FC622F	0.650119239011948
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	13	6		#FC622F	0.662799050935628
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	14	6		#FD913D	0.523678249717752
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	15	6		#FD913D	0.516878955593777
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	16	6		#FD913D	0.559212539448191
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	17	6		#F03623	0.72539185182369
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	18	6		#F03623	0.771583758146395
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	19	6		#F03623	0.790327721568743
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	20	6	objects	#F03623	0.703699028429563
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	21	6		#F03623	0.777262195189089
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	22	6		#F03623	0.706052717273531
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	23	6	language|semantic	#FC622F	0.604491030399102
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	1	7	dopamine|dopaminergic	#FECB68	0.395077172197943
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	2	7		#FDAD4A	0.481414450588071
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	3	7		#F03623	0.748104045788645
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	4	7		#D7141E	0.811343451254959
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	5	7		#D7141E	0.8505085430571
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	6	7		#D7141E	0.830872254619441
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	7	7		#D7141E	0.88950100918909
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	8	7		#B10026	0.919368117347051
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	9	7		#B10026	0.928459592152089
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	10	7		#B10026	0.91803272670607
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	11	7		#D7141E	0.861283641542922
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	12	7		#D7141E	0.825950538889119
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	13	7	linguistic|spoken	#FD913D	0.532706873008805
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	14	7		#FDAD4A	0.494465305234453
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	15	7	comprehension|sentence|sentences|syntactic	#FECB68	0.376063209665689
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	16	7		#FD913D	0.533440992467562
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	17	7		#FC622F	0.684643520303834
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	18	7	phonological|reading|read	#FC622F	0.685268685494429
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	19	7		#F03623	0.771730500386746
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	20	7	perceptual|recognition	#F03623	0.724171500248072
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	21	7		#D7141E	0.805757044564604
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	22	7		#F03623	0.747592829456782
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	23	7	verb	#F03623	0.755216703275683
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	1	8	outcome|reward	#FDAD4A	0.428930557447988
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	2	8	anticipation	#FDAD4A	0.41957234847577
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	3	8	outcomes	#FD913D	0.516624587630226
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	4	8	choice|choices	#F03623	0.741826529900852
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	5	8	decisions|probability	#F03623	0.742405982508097
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	6	8	reversal	#F03623	0.720199115702196
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	7	8	classification|incorrect	#FC622F	0.671837437873846
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	8	8		#D7141E	0.865745006878682
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	9	8	agerelated|fluency|probes	#D7141E	0.853561739812492
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	10	8	engaged	#F03623	0.784380416980992
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	11	8	explicit|knowledge	#FC622F	0.672725147818641
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	12	8		#F03623	0.719959160820204
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	13	8		#FD913D	0.573772711997246
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	14	8		#FD913D	0.512916350735781
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	15	8		#FD913D	0.518091751356263
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	16	8		#FD913D	0.557132779461001
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	17	8	lexical	#FC622F	0.602313153397791
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	18	8		#F03623	0.741745701468281
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	19	8		#F03623	0.776015135790307
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	20	8		#D7141E	0.809637305327932
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	21	8	encoding	#F03623	0.73155754315296
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	22	8	retrieval	#F03623	0.737923791751678
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	23	8	verbal	#D7141E	0.825496067526166
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	1	9	incentive|monetary|money|rewards	#FEE188	0.250022539908015
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	2	9	loss	#FDAD4A	0.411585237726228
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	3	9		#FC622F	0.697423885267835
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	4	9		#D7141E	0.802716862476051
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	5	9	decisionmaking	#D7141E	0.816217346032175
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	6	9		#D7141E	0.820991536648234
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	7	9		#D7141E	0.820825872208551
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	8	9		#D7141E	0.835167732999171
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	9	9		#D7141E	0.849779446121208
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	10	9		#D7141E	0.803812175151491
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	11	9		#FC622F	0.700176158266745
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	12	9		#FC622F	0.644001130390094
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	13	9	noun	#FECB68	0.375345185125583
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	14	9	meaning	#FDAD4A	0.488197387350922
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	15	9	english	#FD913D	0.590614296982944
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	16	9	pseudoword|pseudowords	#FD913D	0.53965028727834
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	17	9		#FC622F	0.693644318506291
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	18	9		#F03623	0.78829298096343
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	19	9	familiar|judgment	#F03623	0.774354701124773
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	20	9	pair|pairs	#F03623	0.772408830721348
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	21	9		#D7141E	0.893369792499633
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	22	9		#B10026	0.916315665861937
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	23	9	letter|working	#D7141E	0.900296477982735
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	1	10	losses|reinforcement|win	#FECB68	0.373914941953999
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	2	10	gain	#FECB68	0.34186474187034
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	3	10	expectation	#FDAD4A	0.428202645091579
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	4	10	risk	#F03623	0.710274990586667
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	5	10	fact	#FC622F	0.61197993524666
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	6	10	associative	#FD913D	0.589438139162425
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	7	10	familiarity|judgments|old	#FC622F	0.639230250699995
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	8	10	contextual|text	#F03623	0.708602626201031
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	9	10	recall|retrieved	#F03623	0.758544323480776
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	10	10	conceptual|semantically	#FD913D	0.548966339565066
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	11	10	grammatical|speakers	#FDAD4A	0.45602173885215
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	12	10	nouns	#FECB68	0.367250489979327
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	13	10	japanese	#FC622F	0.625017390470501
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	14	10	languages	#FC622F	0.636725137321125
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	15	10	written	#FD913D	0.57464397019231
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	16	10	chinese|phonology	#FC622F	0.65493529613965
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	17	10	orthographic	#F03623	0.72871626542897
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	18	10		#D7141E	0.848828396250066
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	19	10		#D7141E	0.859226256522136
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	20	10	association|decision	#D7141E	0.889990068259267
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	21	10	selection	#D7141E	0.873803349928339
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	22	10	letters	#D7141E	0.879106861939964
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	23	10	demand|load	#B10026	0.956273603591263
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	1	11	conditioned|conditioning	#FFF1A9	0.182799454151914
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	2	11		#FDAD4A	0.476031358588567
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	3	11	drug|placebo	#FC622F	0.62704931662291
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	4	11		#FC622F	0.654710581716136
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	5	11	associations	#FD913D	0.519385884170881
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	6	11		#FD913D	0.524288341393267
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	7	11	episodic|recollection	#FEE188	0.289557820014321
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	8	11		#FD913D	0.525334050384493
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	9	11		#FC622F	0.655989593482256
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	10	11	concepts	#FECB68	0.308913086983088
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	11	11		#FD913D	0.54683816663059
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	12	11		#FD913D	0.526269251550065
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	13	11	german	#FECB68	0.332916378812774
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	14	11	readers	#FC622F	0.611732192836241
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	15	11	character|name|naming	#FC622F	0.643063221280833
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	16	11		#F03623	0.76209140609976
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	17	11	novel	#D7141E	0.831827457652735
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	18	11		#D7141E	0.870823303951738
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	19	11	child|children	#D7141E	0.81651469582516
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	20	11	adults	#D7141E	0.886521709010405
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	21	11	ability|feedback|learning	#F03623	0.79029983483189
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	22	11	cues|delay	#F03623	0.798564830465409
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	23	11	attentional|difficulty|targets	#B10026	0.916822190055013
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	1	12	aversive|shock	#FECB68	0.304454228630843
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	2	12	reactivity	#FEE188	0.288361987420401
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	3	12	males|sex|women	#FDAD4A	0.423957970237193
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	4	12	animal	#FDAD4A	0.402428926682578
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	5	12	animals	#FEE188	0.241788200916365
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	6	12		#FECB68	0.33287578319825
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	7	12	remember|subsequent	#FEE188	0.211360480153737
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	8	12	autobiographical|memories	#FFFFCC	0.0969166005717068
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	9	12		#FD913D	0.570789274503829
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	10	12	violation|violations	#FECB68	0.337841520998035
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	11	12	aphasia	#FD913D	0.503342375779122
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	12	12	nonwords	#FECB68	0.334075513477656
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	13	12	dyslexia	#FECB68	0.367223504413745
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	14	12		#F03623	0.711487886361991
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	15	12	priming	#FD913D	0.522169970181481
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	16	12		#F03623	0.783998089626639
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	17	12	category|repetition	#F03623	0.765143223084822
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	18	12		#D7141E	0.862738167331294
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	19	12	developmental|development	#F03623	0.797392605093256
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	20	12		#B10026	0.910502181248262
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	21	12	space	#F03623	0.791989740004212
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	22	12		#B10026	0.954622112275789
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	23	12	color	#B10026	0.930755228459551
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	1	13	threat	#FFF1A9	0.196901645476843
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	2	13	regulation	#FDAD4A	0.44808697172659
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	3	13		#FDAD4A	0.483218176913736
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	4	13	masked	#FEE188	0.246532251377985
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	5	13	scene|scenes	#FFFFCC	0.0777685964709665
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	6	13		#FEE188	0.258381878129674
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	7	13	confidence|remembered	#FFFFCC	0.067554657732861
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	8	13		#FECB68	0.389322021903479
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	9	13		#FC622F	0.610644241836197
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	10	13	ambiguity|ambiguous	#FEE188	0.28982241651667
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	11	13		#FD913D	0.589597326465601
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	12	13		#FC622F	0.653791293569018
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	13	13	writing	#FD913D	0.571562173162168
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	14	13		#F03623	0.755552936204689
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	15	13	categorization|congruency|prime	#FC622F	0.671385271093032
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	16	13		#D7141E	0.8131046496258
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	17	13	mask	#FC622F	0.659788443857441
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	18	13		#D7141E	0.888680961676961
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	19	13		#B10026	0.906061587141626
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	20	13		#B10026	0.92608881214545
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	21	13	conflict|congruent|incongruent	#D7141E	0.838812741424543
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	22	13	errors	#B10026	0.936762025605109
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	23	13	maintenance|probe|wm	#B10026	0.90411077589343
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	1	14	angry|fearful|happy	#FFF1A9	0.118386711962482
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	2	14		#FEE188	0.291358270069868
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	3	14	awareness|conscious|ptsd	#FDAD4A	0.455202166163327
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	4	14		#FECB68	0.389258139888299
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	5	14	houses|photographs	#FFFFCC	0.0049270570925913
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	6	14		#FECB68	0.313483616813567
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	7	14	hits	#FEE188	0.250642421798397
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	8	14	famous	#FFF1A9	0.184141752029045
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	9	14	names	#FDAD4A	0.417871461473997
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	10	14	family	#FD913D	0.552569214566638
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	11	14	competition|mouth	#FDAD4A	0.478101645200278
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	12	14	abilities	#FC622F	0.66829026549109
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	13	14	implicit|unfamiliar	#FD913D	0.549640015077865
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	14	14		#F03623	0.736613629940615
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	15	14	tom	#FC622F	0.645432515741829
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	16	14		#D7141E	0.86475960121338
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	17	14		#B10026	0.94352086345939
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	18	14	stop	#F03623	0.784910884451252
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	19	14	inhibition|inhibitory|nogo	#F03623	0.75700455834379
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	20	14	monitoring|stroop	#D7141E	0.892535695453847
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	21	14	interference	#B10026	0.924532046875492
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	22	14		#B10026	0.984065786481139
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	23	14	demands|executive	#B10026	0.976630612177264
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	1	15	anger	#FFF1A9	0.143135803715616
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	2	15	stress	#FFF1A9	0.185291404520679
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	3	15	feelings	#FEE188	0.261692523755408
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	4	15	salient	#FDAD4A	0.428342622155333
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	5	15	novelty	#FEE188	0.204310014254469
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	6	15	movie	#FECB68	0.336735265064114
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	7	15		#FDAD4A	0.49224278413699
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	8	15		#FC622F	0.624588026825154
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	9	15	longterm	#FD913D	0.538920394569883
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	10	15		#D7141E	0.874247871145579
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	11	15	reasoning|relational	#D7141E	0.839351163919475
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	12	15		#D7141E	0.823475339194532
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	13	15	presentations	#FECB68	0.314371830681364
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	14	15		#F03623	0.717698408862494
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	15	15	identity	#FD913D	0.572312619248479
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	16	15		#B10026	0.906268028554171
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	17	15	strategies|strategy	#B10026	0.947517983321888
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	18	15	card|cards	#F03623	0.770236453728482
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	19	15	gonogo	#F03623	0.726215899112167
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	20	15		#B10026	0.946236463434342
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	21	15	switching|switch	#B10026	0.948606172205863
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	22	15		#B10026	0.989915620541701
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	23	15	2back|rule	#D7141E	0.875649256123614
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	1	16	emotionally|mood|personality|sadness	#FFF1A9	0.173457404064067
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	2	16	disgust|sexual	#FFFFCC	0.0625503823709293
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	3	16	olfactory	#FFFFCC	0.0686571617893562
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	4	16	physiological	#FDAD4A	0.444364364225345
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	5	16	depressed|depressive|habituation	#FFF1A9	0.141717069413241
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	6	16	schizophrenic	#FEE188	0.260677090070171
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	7	16	colors|contexts	#FECB68	0.397237203503488
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	8	16	aging|encoded	#FC622F	0.623303418715244
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	9	16	goal	#FD913D	0.513784821084348
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	10	16		#D7141E	0.891052622859963
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	11	16	autism|autistic|nonverbal	#F03623	0.767176230162718
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	12	16		#D7141E	0.823300820771974
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	13	16	bottomup|repetitions	#FDAD4A	0.484499012183341
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	14	16	adaptation	#FD913D	0.552828452721316
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	15	16	irrelevant	#D7141E	0.809211697175035
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	16	16	distractor|distractors	#FC622F	0.605835240686276
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	17	16		#B10026	0.967780943991108
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	18	16	subtraction	#D7141E	0.821947054586041
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	19	16	1back|nback	#F03623	0.741806418768143
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	20	16	manipulation|rules	#D7141E	0.87751705571581
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	21	16		#B10026	1
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	22	16		#B10026	0.949281320783496
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	23	16	digit	#D7141E	0.85868453978543
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	1	17	avoidance	#FFF1A9	0.122228136584422
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	2	17		#FEE188	0.259822422874783
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	3	17	eating|food	#FFF1A9	0.165516985118165
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	4	17	taste	#FFF1A9	0.197618550355666
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	5	17	bipolar	#FEE188	0.25303850288898
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	6	17	illness|uncertainty	#FEE188	0.298549864640594
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	7	17	females|probabilistic	#FDAD4A	0.498285564446668
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	8	17	rejection	#FECB68	0.332372603093109
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	9	17	colour|paired	#FC622F	0.681387104297853
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	10	17		#B10026	0.937895180457896
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	11	17		#B10026	0.935742285715889
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	12	17		#D7141E	0.860467434955652
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	13	17	taskirrelevant	#FD913D	0.530451534437734
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	14	17		#F03623	0.722890738643564
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	15	17	suppression	#FDAD4A	0.474935446951042
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	16	17		#D7141E	0.841211772535282
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	17	17	shifting|shortterm	#D7141E	0.816309056946752
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	18	17	digits	#F03623	0.776742196810109
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	19	17	search	#F03623	0.770011830978829
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	20	17	counting|taskrelated	#D7141E	0.840028358472006
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	21	17	topdown	#B10026	0.931716365323516
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	22	17	visuospatial	#F03623	0.782244341553335
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	23	17	arithmetic|calculation|solving	#F03623	0.730935614208731
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	1	18	addiction|craving|drugs	#FEE188	0.278302590870971
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	2	18	allele|genotype|polymorphism	#FFF1A9	0.121844434306236
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	3	18	motivation	#FEE188	0.243764288385542
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	4	18	heart	#FDAD4A	0.494348782673423
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	5	18	sleep	#FDAD4A	0.423184702348213
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	6	18	expectancy	#FC622F	0.690929804618596
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	7	18	phasic|salience	#FC622F	0.636530149081365
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	8	18	adolescence|adolescents	#F03623	0.755399729064813
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	9	18	intelligence|tracking	#F03623	0.714451648197634
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	10	18		#D7141E	0.891346652039969
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	11	18	serial	#FD913D	0.583092778595669
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	12	18		#F03623	0.789119426183161
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	13	18	spatially|taskrelevant	#FD913D	0.599972917757762
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	14	18		#F03623	0.718131581173568
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	15	18	attended|attend|unattended	#FC622F	0.651642813900175
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	16	18	rotation|shapes	#FC622F	0.675045363829986
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	17	18	rehearsal	#FC622F	0.657231510614374
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	18	18	learned	#FDAD4A	0.498734083436613
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	19	18		#D7141E	0.824621773806431
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	20	18	cued|preparatory	#F03623	0.79070458625632
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	21	18		#B10026	0.908045478018683
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	22	18		#B10026	0.909049754057823
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	23	18	numbers|numerical	#B10026	0.972301328987143
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	1	19	future	#FEE188	0.290440384083426
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	2	19	negatively	#FECB68	0.391452632213901
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	3	19	distress|epilepsy|selfreported	#FFF1A9	0.173438373895551
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	4	19	anticipatory|cocaine|probabilities|smoking	#FEE188	0.240672834487078
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	5	19	alcohol|amount|impulsivity	#F03623	0.793454021629306
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	6	19	game|success	#FD913D	0.52284045149773
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	7	19	adhd|childhood|engagement	#F03623	0.719710180691753
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	8	19		#B10026	0.924536040348242
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	9	19		#B10026	0.935871368671387
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	10	19		#D7141E	0.870256409408845
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	11	19		#D7141E	0.817019112743926
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	12	19	endogenous	#FD913D	0.596400752509946
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	13	19	cueing|invalid|orienting	#FD913D	0.584749070667856
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	14	19		#F03623	0.737137952758081
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	15	19	multisensory	#FDAD4A	0.436377945723799
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	16	19		#F03623	0.729680023977259
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	17	19	shifts	#FC622F	0.64371083225113
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	18	19	covert	#FD913D	0.564453006997233
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	19	19		#F03623	0.721491173270964
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	20	19	preparation	#F03623	0.738875007395341
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	21	19	discrimination|training	#F03623	0.771678762985659
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	22	19	sequences	#FC622F	0.676616558319764
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	23	19		#F03623	0.753493919508315
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	1	20	personal|self|selfreferential|trait|traits	#FECB68	0.317235014750094
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	2	20	empathic|theory	#FD913D	0.528592007658931
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	3	20	attribution|intentional	#FEE188	0.210248491701492
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	4	20	elderly|oscillations	#FDAD4A	0.442154948856591
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	5	20	antipsychotic|virtual	#FD913D	0.507676124702148
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	6	20		#B10026	0.902263011072346
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	7	20	experiences	#FC622F	0.608412690735896
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	8	20	categorical|pressure	#FD913D	0.528791160219727
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	9	20	play|skills	#FD913D	0.560207750863984
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	10	20	automatic|trained	#FD913D	0.565514699921051
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	11	20		#FC622F	0.698479584012427
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	12	20	practice	#F03623	0.761287560397137
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	13	20	visuomotor	#FDAD4A	0.465467491368504
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	14	20		#FC622F	0.693994050673669
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	15	20	tool	#FC622F	0.643674674981471
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	16	20	vision	#FECB68	0.390458973258566
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	17	20	visually	#FC622F	0.672722704796936
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	18	20	saccade|saccades|saccadic	#FDAD4A	0.450207649195671
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	19	20	locations	#FD913D	0.513542122063939
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	20	20	imagery|planning	#F03623	0.723511959792987
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	21	20		#F03623	0.749574203527104
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	22	20	rest	#FC622F	0.648644759510139
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	23	20	sequence	#FC622F	0.606122950527405
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	1	21	scenarios	#FFFFCC	0.0760137492713281
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	2	21	intention|intentions	#FECB68	0.324406417415553
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	3	21	causality|perspective	#FEE188	0.254111602904515
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	4	21	past	#FEE188	0.211369567422659
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	5	21		#FC622F	0.685331202785071
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	6	21	episode	#FFF1A9	0.183253923920393
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	7	21	improvement	#FD913D	0.548832146082346
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	8	21	masking|retention	#FC622F	0.673565932366981
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	9	21		#F03623	0.765763214142716
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	10	21	dominant	#FD913D	0.502978060572697
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	11	21		#FD913D	0.517250536277657
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	12	21	sequential	#FD913D	0.507089104797463
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	13	21	fingers	#FECB68	0.318365295738507
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	14	21		#FD913D	0.57673059398881
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	15	21	gesture|gestures	#FC622F	0.622636481491658
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	16	21		#FC622F	0.604638770680739
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	17	21	hands	#FD913D	0.565627961191329
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	18	21		#FC622F	0.654514618872922
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	19	21		#FC622F	0.659860697744786
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	20	21	eye|position	#FD913D	0.569417491200194
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	21	21	execution	#FC622F	0.613675693780561
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	22	21	finger|sensorimotor	#FDAD4A	0.488846398355356
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	23	21		#FD913D	0.544842140275266
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	1	22	moral|stories|story	#FFFFCC	0.0211358969323695
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	2	22	mentalizing|persons	#FEE188	0.218123090265621
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	3	22	default|restingstate	#FEE188	0.283679877538625
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	4	22	thinking|thought|thoughts	#FD913D	0.524032992832287
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	5	22	spontaneous	#FECB68	0.299906755246971
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	6	22	concentration|sensations	#FFF1A9	0.18311292695979
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	7	22	hierarchical|preference	#FD913D	0.599213751048204
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	8	22	effort|oral|simulation	#FDAD4A	0.423502392017843
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	9	22	interhemispheric|plasticity	#FD913D	0.556547210614137
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	10	22	imagined|imagine	#FDAD4A	0.423050146757628
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	11	22	tapping	#FECB68	0.362293381589216
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	12	22	foot|muscle|muscles|voluntary	#FFF1A9	0.146085612924008
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	13	22	limb	#FFF1A9	0.181604126505714
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	14	22	eyes|velocity	#FECB68	0.305165162138393
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	15	22	biological|gaze|videos	#FFF1A9	0.135697511183518
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	16	22	body	#FDAD4A	0.410432200301017
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	17	22	grasping|orientation|reaching	#FDAD4A	0.457649882734105
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	18	22		#FC622F	0.656667058894855
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	19	22	mirror|shape	#F03623	0.767463661184031
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	20	22	actions	#FC622F	0.638440941297659
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	21	22	action	#F03623	0.729191911256302
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	22	22		#FD913D	0.54862088236882
+9e8a66ea-8ac5-36ec-b2c5-6da5aaaef313	Taylor JD	23	22	hand|movements|sensory	#FECB68	0.397771395602885

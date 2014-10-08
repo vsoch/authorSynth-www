@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	1	1	auditory|speech	#FD913D	0.550259923173561
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	2	1		#FD913D	0.540684163802823
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	3	1	da|integration	#F03623	0.704619418620737
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	4	1		#F03623	0.712687215212721
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	5	1	physical|psychophysical|tactile	#FD913D	0.54034183898192
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	6	1		#FD913D	0.588427605321656
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	7	1	somatosensory|stimulation	#FDAD4A	0.464962960019542
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	8	1	painful|pain	#FECB68	0.391757777865271
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	9	1		#FDAD4A	0.440955559936937
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	10	1	ratings	#FDAD4A	0.420486338275683
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	11	1	affective|affect	#FDAD4A	0.409179244970027
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	12	1	emotions	#FECB68	0.322016358400877
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	13	1	expression|expressions|facial	#FEE188	0.240559946222142
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	14	1		#FDAD4A	0.421470334138318
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	15	1		#FDAD4A	0.462135911523784
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	16	1	emotion|motion|neutral	#FDAD4A	0.439468672646082
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	17	1	rating	#FDAD4A	0.473551842876839
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	18	1	negative|positive	#FD913D	0.544616553205383
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	19	1		#F03623	0.726539036932972
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	20	1	ear|order	#D7141E	0.804937386808106
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	21	1	motor	#FC622F	0.603046771291571
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	22	1	visual	#FC622F	0.695612651529512
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	23	1	age|image|response	#F03623	0.729898051596914
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	1	2	sound|sounds	#FDAD4A	0.426909536007683
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	2	2		#FD913D	0.508787074273128
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	3	2	audiovisual|bimodal|crossmodal	#FECB68	0.36054536451471
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	4	2		#F03623	0.720325968808863
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	5	2		#FC622F	0.684114956622736
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	6	2		#FC622F	0.623609585445333
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	7	2	sensation	#FECB68	0.330033751190536
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	8	2	heat|noxious	#FECB68	0.374439293672974
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	9	2		#FDAD4A	0.4687166855212
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	10	2		#FDAD4A	0.484731934541518
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	11	2		#FDAD4A	0.46855117319235
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	12	2	valence	#FECB68	0.379096521024899
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	13	2	person|social	#FDAD4A	0.427713729870617
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	14	2		#FDAD4A	0.440598528489973
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	15	2	face|faces	#FDAD4A	0.416638257024081
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	16	2		#FD913D	0.539206123822983
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	17	2		#FD913D	0.595120769186765
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	18	2		#F03623	0.701270521519504
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	19	2		#F03623	0.771640492384644
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	20	2		#F03623	0.784154266566891
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	21	2	images|spatial	#F03623	0.741608795414632
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	22	2	control	#F03623	0.76477006844811
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	23	2	time	#F03623	0.75557165491475
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	1	3	acoustic|listening|musical|music|pitch	#FEE188	0.289020827923553
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	2	3	noise|tones	#FECB68	0.399528629420122
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	3	3		#FC622F	0.626451097714805
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	4	3		#F03623	0.703489204450848
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	5	3	frequency	#FC622F	0.662058962120473
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	6	3		#F03623	0.713638779923854
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	7	3		#FDAD4A	0.497019012777211
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	8	3	temperature	#FDAD4A	0.441175221017067
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	9	3		#FDAD4A	0.49795455665403
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	10	3	pleasant|unpleasant	#FECB68	0.383550519529766
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	11	3	anxiety	#FECB68	0.329364612051185
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	12	3		#FD913D	0.500743442494356
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	13	3		#FD913D	0.560798056316282
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	14	3		#FD913D	0.534328924329177
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	15	3		#FD913D	0.56387514723779
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	16	3	picture	#FD913D	0.597595863899194
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	17	3		#FC622F	0.683415760308038
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	18	3	value	#F03623	0.79922013800344
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	19	3	cue	#F03623	0.786710415768559
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	20	3	error|target	#D7141E	0.853542484698973
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	21	3	attention	#D7141E	0.81057262841692
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	22	3		#D7141E	0.848779194123783
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	23	3	number	#D7141E	0.845472037217789
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	1	4	voice	#FECB68	0.322450017997638
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	2	4		#FDAD4A	0.49473111518261
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	3	4	hearing	#FDAD4A	0.457230156202734
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	4	4		#FC622F	0.642335339477294
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	5	4	overt	#FD913D	0.584044938501474
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	6	4		#FC622F	0.624583172586022
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	7	4		#FD913D	0.577732250198529
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	8	4	nociceptive|nonpainful|painrelated	#FECB68	0.324508326592941
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	9	4	unpleasantness	#FDAD4A	0.492738694214816
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	10	4	skin|subjective	#FD913D	0.545126597242974
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	11	4	depression	#FDAD4A	0.459306611343089
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	12	4	experience	#FD913D	0.540817805644978
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	13	4	female	#FDAD4A	0.499549442136001
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	14	4	male	#FC622F	0.60238438268481
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	15	4	pictures	#FD913D	0.556672331544346
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	16	4		#FC622F	0.699325829783075
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	17	4	perception	#FC622F	0.638892074520888
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	18	4		#D7141E	0.848932849028532
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	19	4		#D7141E	0.861114155285185
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	20	4		#D7141E	0.863930249097726
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	21	4	correct	#B10026	0.93593897840883
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	22	4	work	#B10026	0.902649318118637
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	23	4	memory	#D7141E	0.858341511310946
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	1	5	prosodic|prosody	#FDAD4A	0.438352212910938
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	2	5	phonetic	#FDAD4A	0.474751413808556
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	3	5	syllable|syllables	#FC622F	0.616786823279526
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	4	5		#FD913D	0.596752089892535
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	5	5	lip|production	#FECB68	0.378874504887239
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	6	5	somatotopic	#FECB68	0.313695734160649
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	7	5		#FC622F	0.659285810806082
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	8	5		#FC622F	0.610757491937297
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	9	5	empathy	#FD913D	0.588121006751761
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	10	5		#FC622F	0.649138385232422
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	11	5	disorder	#FD913D	0.585440883442005
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	12	5		#FC622F	0.683652496531081
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	13	5		#F03623	0.715874850840583
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	14	5		#F03623	0.726762172047943
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	15	5		#F03623	0.731681520525962
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	16	5		#F03623	0.776292793820888
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	17	5		#D7141E	0.827220166444065
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	18	5	mental	#D7141E	0.84935695766313
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	19	5	go	#D7141E	0.812904339405151
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	20	5	object	#FC622F	0.680587456458868
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	21	5		#D7141E	0.898541476925719
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	22	5		#D7141E	0.88195983976585
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	23	5	word|words	#F03623	0.772314063097401
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	1	6		#FC622F	0.612001381128871
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	2	6		#FC622F	0.670930434490648
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	3	6		#FC622F	0.686173701644133
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	4	6	vocal	#FECB68	0.335891607936094
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	5	6	articulatory	#FECB68	0.303419225601167
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	6	6		#FC622F	0.637137495411552
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	7	6	oddball	#F03623	0.703993825981894
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	8	6	perceived	#FDAD4A	0.472246020205
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	9	6	errorrelated	#FD913D	0.549857702100796
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	10	6	approach	#FDAD4A	0.478947693021178
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	11	6	schizophrenia	#FC622F	0.601697663082763
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	12	6	acquisition	#F03623	0.723372236547416
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	13	6		#F03623	0.749245066077774
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	14	6		#FC622F	0.645457378987089
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	15	6		#FC622F	0.655170475703095
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	16	6		#FC622F	0.698782564421384
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	17	6		#D7141E	0.826755400233955
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	18	6		#D7141E	0.851759459362055
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	19	6		#D7141E	0.881067262842081
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	20	6	objects	#F03623	0.753258768956666
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	21	6		#B10026	0.905255501903592
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	22	6		#D7141E	0.847735728810451
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	23	6	language|semantic	#F03623	0.745836335484917
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	1	7	dopamine|dopaminergic	#FEE188	0.281388732348682
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	2	7		#FECB68	0.357961479821887
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	3	7		#FC622F	0.645388991127142
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	4	7		#F03623	0.757569147522225
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	5	7		#D7141E	0.815505656044879
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	6	7		#D7141E	0.88610679714235
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	7	7		#D7141E	0.878039425880268
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	8	7		#D7141E	0.833488609733879
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	9	7		#F03623	0.7610421414711
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	10	7		#F03623	0.794453144245833
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	11	7		#F03623	0.777913709170205
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	12	7		#F03623	0.790631346808683
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	13	7	linguistic|spoken	#FC622F	0.630755983617188
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	14	7		#FC622F	0.620649707856789
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	15	7	comprehension|sentence|sentences|syntactic	#FD913D	0.517547244550487
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	16	7		#FC622F	0.664749656415402
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	17	7		#F03623	0.788869285592937
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	18	7	phonological|reading|read	#F03623	0.762084565113882
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	19	7		#D7141E	0.878560336315229
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	20	7	perceptual|recognition	#D7141E	0.884218330376371
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	21	7		#B10026	0.95183555074726
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	22	7		#D7141E	0.890417687464026
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	23	7	verb	#D7141E	0.886085494633044
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	1	8	outcome|reward	#FEE188	0.26708076805114
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	2	8	anticipation	#FEE188	0.254263334395656
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	3	8	outcomes	#FEE188	0.274048977199201
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	4	8	choice|choices	#FD913D	0.597619183706356
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	5	8	decisions|probability	#F03623	0.751868098543188
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	6	8	reversal	#F03623	0.772474944632544
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	7	8	classification|incorrect	#F03623	0.73258178477392
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	8	8		#D7141E	0.884637272417523
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	9	8	agerelated|fluency|probes	#F03623	0.756988584883967
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	10	8	engaged	#FC622F	0.671816709923474
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	11	8	explicit|knowledge	#FC622F	0.691219913969523
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	12	8		#F03623	0.762864595974993
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	13	8		#F03623	0.703710739190396
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	14	8		#FC622F	0.645990788018255
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	15	8		#FC622F	0.637175636172749
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	16	8		#FC622F	0.668086132588997
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	17	8	lexical	#F03623	0.700819229019255
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	18	8		#D7141E	0.825808358476457
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	19	8		#D7141E	0.885476467737502
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	20	8		#B10026	0.940831826734435
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	21	8	encoding	#B10026	0.904154430563047
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	22	8	retrieval	#D7141E	0.888102577411377
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	23	8	verbal	#B10026	0.936608519188346
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	1	9	incentive|monetary|money|rewards	#FFFFCC	0.0770839749202344
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	2	9	loss	#FEE188	0.250075222863798
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	3	9		#FD913D	0.509182273540264
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	4	9		#FC622F	0.639225314520182
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	5	9	decisionmaking	#FC622F	0.605185667503455
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	6	9		#D7141E	0.882854401170166
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	7	9		#D7141E	0.87749594769606
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	8	9		#D7141E	0.882773926283828
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	9	9		#D7141E	0.887346341760084
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	10	9		#D7141E	0.824975560772702
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	11	9		#F03623	0.758390698562523
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	12	9		#F03623	0.744940442547429
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	13	9	noun	#FD913D	0.562242082394425
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	14	9	meaning	#FC622F	0.633471277070783
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	15	9	english	#FC622F	0.657446164468966
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	16	9	pseudoword|pseudowords	#FD913D	0.504009321905148
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	17	9		#F03623	0.781003415451532
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	18	9		#D7141E	0.869896531476267
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	19	9	familiar|judgment	#D7141E	0.847368637638864
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	20	9	pair|pairs	#B10026	0.941658273773528
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	21	9		#B10026	0.994797976426757
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	22	9		#B10026	0.999626251446025
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	23	9	letter|working	#B10026	0.94926852572466
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	1	10	losses|reinforcement|win	#FEE188	0.260436335057287
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	2	10	gain	#FFF1A9	0.117263833418869
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	3	10	expectation	#FEE188	0.297372534773248
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	4	10	risk	#FDAD4A	0.471647338192258
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	5	10	fact	#FD913D	0.540095326548414
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	6	10	associative	#FC622F	0.674709866520244
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	7	10	familiarity|judgments|old	#D7141E	0.821765167764755
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	8	10	contextual|text	#FD913D	0.567653115278269
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	9	10	recall|retrieved	#F03623	0.735560958330614
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	10	10	conceptual|semantically	#F03623	0.704308186486864
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	11	10	grammatical|speakers	#FC622F	0.638140685042313
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	12	10	nouns	#FDAD4A	0.431947662406949
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	13	10	japanese	#F03623	0.75697342178136
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	14	10	languages	#FC622F	0.606504746080985
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	15	10	written	#FC622F	0.626021668543995
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	16	10	chinese|phonology	#F03623	0.734982599586681
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	17	10	orthographic	#F03623	0.793116960512424
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	18	10		#B10026	0.907083682873732
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	19	10		#B10026	0.930002856316244
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	20	10	association|decision	#D7141E	0.861000117368782
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	21	10	selection	#D7141E	0.899972941264798
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	22	10	letters	#B10026	0.932608895922502
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	23	10	demand|load	#B10026	0.937171645006877
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	1	11	conditioned|conditioning	#FFFFCC	0.0728425379240197
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	2	11		#FECB68	0.325824536007751
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	3	11	drug|placebo	#FDAD4A	0.440338658078526
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	4	11		#FD913D	0.576369736990523
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	5	11	associations	#FD913D	0.575359702303459
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	6	11		#F03623	0.70807538579331
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	7	11	episodic|recollection	#FC622F	0.60563794922363
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	8	11		#F03623	0.707667771683361
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	9	11		#F03623	0.769847247064484
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	10	11	concepts	#FECB68	0.358067813713421
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	11	11		#FC622F	0.689779095270958
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	12	11		#F03623	0.73266851419306
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	13	11	german	#FC622F	0.636723380913531
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	14	11	readers	#FC622F	0.684267569895728
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	15	11	character|name|naming	#FC622F	0.616536963483312
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	16	11		#F03623	0.797371712314428
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	17	11	novel	#D7141E	0.854406167746196
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	18	11		#D7141E	0.900162844811644
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	19	11	child|children	#D7141E	0.81941035626934
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	20	11	adults	#B10026	0.932070486317152
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	21	11	ability|feedback|learning	#D7141E	0.861095858584018
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	22	11	cues|delay	#D7141E	0.816284000724154
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	23	11	attentional|difficulty|targets	#B10026	0.902528410719167
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	1	12	aversive|shock	#FFF1A9	0.182678080024592
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	2	12	reactivity	#FFF1A9	0.171783529469365
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	3	12	males|sex|women	#FECB68	0.368470939700575
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	4	12	animal	#FECB68	0.304437920592973
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	5	12	animals	#FEE188	0.225034059947695
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	6	12		#FD913D	0.527099948147261
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	7	12	remember|subsequent	#FDAD4A	0.412384576052037
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	8	12	autobiographical|memories	#FFFFCC	0.0617266466158732
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	9	12		#FC622F	0.697790371976836
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	10	12	violation|violations	#FECB68	0.310733605841117
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	11	12	aphasia	#FD913D	0.572683921439754
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	12	12	nonwords	#FD913D	0.528967309165039
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	13	12	dyslexia	#FD913D	0.566258496599932
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	14	12		#D7141E	0.823103100718405
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	15	12	priming	#FC622F	0.620922521557787
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	16	12		#D7141E	0.84392017459747
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	17	12	category|repetition	#F03623	0.745220310539151
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	18	12		#B10026	0.903318254428329
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	19	12	developmental|development	#D7141E	0.815946168498567
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	20	12		#B10026	0.960298675164895
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	21	12	space	#F03623	0.796457731442959
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	22	12		#B10026	0.978148374591925
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	23	12	color	#B10026	0.903317418640768
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	1	13	threat	#FFF1A9	0.154950046451921
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	2	13	regulation	#FECB68	0.32738602521934
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	3	13		#FDAD4A	0.427893292060103
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	4	13	masked	#FEE188	0.286667485230363
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	5	13	scene|scenes	#FFF1A9	0.13575190732881
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	6	13		#FDAD4A	0.443225977027702
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	7	13	confidence|remembered	#FECB68	0.299621894491129
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	8	13		#FC622F	0.61488354979057
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	9	13		#F03623	0.753799752232006
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	10	13	ambiguity|ambiguous	#FECB68	0.333160301202155
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	11	13		#F03623	0.718747959905979
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	12	13		#F03623	0.798486484381359
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	13	13	writing	#FDAD4A	0.464460550595843
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	14	13		#D7141E	0.857748202513156
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	15	13	categorization|congruency|prime	#D7141E	0.817531180880066
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	16	13		#D7141E	0.876333306819379
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	17	13	mask	#F03623	0.775901359009944
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	18	13		#B10026	0.935896064539976
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	19	13		#B10026	0.943601099514059
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	20	13		#B10026	0.981141939597401
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	21	13	conflict|congruent|incongruent	#B10026	0.922882676552368
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	22	13	errors	#B10026	0.932394855977052
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	23	13	maintenance|probe|wm	#B10026	0.914708205115174
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	1	14	angry|fearful|happy	#FFF1A9	0.157633710227026
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	2	14		#FEE188	0.288055383402537
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	3	14	awareness|conscious|ptsd	#FDAD4A	0.400633720107153
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	4	14		#FDAD4A	0.446170562186526
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	5	14	houses|photographs	#FFFFCC	0.0480716214472365
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	6	14		#FDAD4A	0.471560668259019
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	7	14	hits	#FDAD4A	0.491989999438459
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	8	14	famous	#FEE188	0.287566061421911
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	9	14	names	#FDAD4A	0.422172142813126
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	10	14	family	#F03623	0.749264584475175
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	11	14	competition|mouth	#FC622F	0.645887203593641
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	12	14	abilities	#D7141E	0.811075165463739
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	13	14	implicit|unfamiliar	#FD913D	0.592011818898827
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	14	14		#D7141E	0.818014980487588
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	15	14	tom	#FC622F	0.695877190286793
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	16	14		#B10026	0.919677994580526
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	17	14		#B10026	0.969503888319339
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	18	14	stop	#D7141E	0.803150629802734
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	19	14	inhibition|inhibitory|nogo	#F03623	0.749161796319339
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	20	14	monitoring|stroop	#B10026	0.923865852844397
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	21	14	interference	#B10026	0.955407309766991
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	22	14		#B10026	1
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	23	14	demands|executive	#B10026	0.928543154923828
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	1	15	anger	#FFFFCC	0.029424898144572
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	2	15	stress	#FFF1A9	0.132376077043043
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	3	15	feelings	#FEE188	0.263315892563665
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	4	15	salient	#FDAD4A	0.476965418819739
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	5	15	novelty	#FEE188	0.286863014229446
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	6	15	movie	#FECB68	0.367891543718077
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	7	15		#F03623	0.728267749353536
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	8	15		#D7141E	0.843584667572756
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	9	15	longterm	#FC622F	0.615180963981144
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	10	15		#B10026	0.909813032246593
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	11	15	reasoning|relational	#F03623	0.799820073410529
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	12	15		#D7141E	0.898849513163559
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	13	15	presentations	#FD913D	0.508088053314915
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	14	15		#D7141E	0.813064578480486
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	15	15	identity	#FD913D	0.546369412831546
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	16	15		#B10026	0.908392192694018
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	17	15	strategies|strategy	#F03623	0.751893109234896
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	18	15	card|cards	#D7141E	0.888318913335037
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	19	15	gonogo	#D7141E	0.80214339737909
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	20	15		#B10026	0.976588695379723
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	21	15	switching|switch	#D7141E	0.806063749663565
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	22	15		#B10026	0.99774048667708
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	23	15	2back|rule	#B10026	0.956154618524509
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	1	16	emotionally|mood|personality|sadness	#FFF1A9	0.136354940174018
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	2	16	disgust|sexual	#FFFFCC	0.092547199132624
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	3	16	olfactory	#FEE188	0.228444942988382
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	4	16	physiological	#FEE188	0.25555099593266
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	5	16	depressed|depressive|habituation	#FEE188	0.262263940903126
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	6	16	schizophrenic	#FD913D	0.536801993028486
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	7	16	colors|contexts	#FDAD4A	0.489441487089701
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	8	16	aging|encoded	#FC622F	0.615568896945546
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	9	16	goal	#FD913D	0.52273809671582
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	10	16		#D7141E	0.863210731639019
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	11	16	autism|autistic|nonverbal	#FC622F	0.692698308661787
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	12	16		#D7141E	0.893164131018668
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	13	16	bottomup|repetitions	#F03623	0.703549083955962
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	14	16	adaptation	#FD913D	0.575434197255051
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	15	16	irrelevant	#D7141E	0.834466144584962
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	16	16	distractor|distractors	#FC622F	0.60275487876455
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	17	16		#B10026	0.983880087148778
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	18	16	subtraction	#B10026	0.924144209272776
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	19	16	1back|nback	#D7141E	0.898581306858794
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	20	16	manipulation|rules	#B10026	0.917895116120982
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	21	16		#B10026	0.980166687149866
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	22	16		#B10026	0.995388753091768
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	23	16	digit	#B10026	0.922172628115565
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	1	17	avoidance	#FFFFCC	0.0794119770580653
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	2	17		#FEE188	0.251246589725595
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	3	17	eating|food	#FFF1A9	0.118636632326518
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	4	17	taste	#FEE188	0.297294477746739
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	5	17	bipolar	#FEE188	0.285197787095541
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	6	17	illness|uncertainty	#FC622F	0.677005616759303
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	7	17	females|probabilistic	#FD913D	0.511227887914968
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	8	17	rejection	#FDAD4A	0.46000791720191
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	9	17	colour|paired	#FD913D	0.581245589571523
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	10	17		#B10026	0.904848277227197
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	11	17		#D7141E	0.883191405156434
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	12	17		#D7141E	0.893589396526262
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	13	17	taskirrelevant	#FDAD4A	0.498383623015658
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	14	17		#D7141E	0.838534496305242
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	15	17	suppression	#FC622F	0.620255526569489
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	16	17		#B10026	0.908702370202319
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	17	17	shifting|shortterm	#F03623	0.786376517188453
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	18	17	digits	#D7141E	0.850086345136155
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	19	17	search	#D7141E	0.840782138885271
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	20	17	counting|taskrelated	#F03623	0.766578199579569
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	21	17	topdown	#D7141E	0.863280968677304
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	22	17	visuospatial	#F03623	0.773752151673505
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	23	17	arithmetic|calculation|solving	#B10026	0.936343298809245
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	1	18	addiction|craving|drugs	#FFF1A9	0.117586144381209
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	2	18	allele|genotype|polymorphism	#FFF1A9	0.181911921002069
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	3	18	motivation	#FEE188	0.2368345515271
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	4	18	heart	#FDAD4A	0.474679559769853
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	5	18	sleep	#FDAD4A	0.46538733979067
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	6	18	expectancy	#FC622F	0.60399228880123
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	7	18	phasic|salience	#FDAD4A	0.498505083638918
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	8	18	adolescence|adolescents	#FD913D	0.519251270782822
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	9	18	intelligence|tracking	#FC622F	0.666386147822475
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	10	18		#B10026	0.912261344626642
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	11	18	serial	#FD913D	0.58964615263038
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	12	18		#D7141E	0.816246372523648
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	13	18	spatially|taskrelevant	#FC622F	0.68256157961581
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	14	18		#D7141E	0.816120518040974
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	15	18	attended|attend|unattended	#FC622F	0.646173468100724
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	16	18	rotation|shapes	#FC622F	0.664619254903954
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	17	18	rehearsal	#F03623	0.713660309229416
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	18	18	learned	#FC622F	0.680327054835383
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	19	18		#D7141E	0.828653949512602
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	20	18	cued|preparatory	#F03623	0.770369735252943
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	21	18		#B10026	0.913084417436919
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	22	18		#B10026	0.989481150452614
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	23	18	numbers|numerical	#D7141E	0.872345228946081
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	1	19	future	#FFF1A9	0.177009605701297
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	2	19	negatively	#FECB68	0.375316893592512
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	3	19	distress|epilepsy|selfreported	#FFFFCC	0.062057038664783
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	4	19	anticipatory|cocaine|probabilities|smoking	#FEE188	0.225074370030223
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	5	19	alcohol|amount|impulsivity	#FECB68	0.36386831645273
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	6	19	game|success	#FDAD4A	0.473375961322532
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	7	19	adhd|childhood|engagement	#FDAD4A	0.424994470333542
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	8	19		#D7141E	0.810950302488425
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	9	19		#D7141E	0.865933738076658
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	10	19		#D7141E	0.867839284034891
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	11	19		#D7141E	0.830297682666604
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	12	19	endogenous	#FC622F	0.620361286727897
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	13	19	cueing|invalid|orienting	#FD913D	0.539639825135682
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	14	19		#D7141E	0.818798525016941
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	15	19	multisensory	#FC622F	0.685299820899584
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	16	19		#F03623	0.793339316111692
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	17	19	shifts	#F03623	0.746630577724169
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	18	19	covert	#FD913D	0.578965083361644
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	19	19		#F03623	0.746273278366968
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	20	19	preparation	#FD913D	0.595495460621607
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	21	19	discrimination|training	#D7141E	0.865350967204098
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	22	19	sequences	#FC622F	0.617454246766988
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	23	19		#D7141E	0.816860649994254
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	1	20	personal|self|selfreferential|trait|traits	#FEE188	0.282099417251114
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	2	20	empathic|theory	#FEE188	0.258244601848038
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	3	20	attribution|intentional	#FFFFCC	0
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	4	20	elderly|oscillations	#FFF1A9	0.150003387781584
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	5	20	antipsychotic|virtual	#FECB68	0.325669747017933
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	6	20		#FC622F	0.67577521347337
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	7	20	experiences	#FDAD4A	0.403512706563103
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	8	20	categorical|pressure	#FDAD4A	0.430101775719796
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	9	20	play|skills	#FD913D	0.530547516649839
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	10	20	automatic|trained	#FC622F	0.604439198961648
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	11	20		#FC622F	0.644121433829456
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	12	20	practice	#FD913D	0.591237206057132
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	13	20	visuomotor	#FDAD4A	0.480438754182902
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	14	20		#FC622F	0.698022022347402
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	15	20	tool	#FDAD4A	0.418060106771119
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	16	20	vision	#FECB68	0.33923553436346
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	17	20	visually	#FD913D	0.542212847404513
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	18	20	saccade|saccades|saccadic	#FDAD4A	0.410655084299845
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	19	20	locations	#FC622F	0.674947306607962
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	20	20	imagery|planning	#FC622F	0.677924188918178
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	21	20		#F03623	0.742397490033882
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	22	20	rest	#FC622F	0.675085509465968
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	23	20	sequence	#FC622F	0.687086233166448
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	1	21	scenarios	#FEE188	0.228817331817778
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	2	21	intention|intentions	#FEE188	0.22643152963465
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	3	21	causality|perspective	#FEE188	0.234278964362828
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	4	21	past	#FFF1A9	0.129112330604259
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	5	21		#FC622F	0.632537394747586
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	6	21	episode	#FEE188	0.211195645775383
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	7	21	improvement	#FECB68	0.301646301822373
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	8	21	masking|retention	#FC622F	0.609642909057719
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	9	21		#FC622F	0.672155741421544
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	10	21	dominant	#FDAD4A	0.482568318824367
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	11	21		#FDAD4A	0.454432458231785
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	12	21	sequential	#FECB68	0.383617924541649
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	13	21	fingers	#FFF1A9	0.147378206358394
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	14	21		#FDAD4A	0.461598179100785
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	15	21	gesture|gestures	#FECB68	0.365577425755105
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	16	21		#FDAD4A	0.487120450250572
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	17	21	hands	#FDAD4A	0.448163883417637
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	18	21		#FC622F	0.631050804726177
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	19	21		#FC622F	0.654388995345231
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	20	21	eye|position	#FC622F	0.623560622136996
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	21	21	execution	#FD913D	0.519446961817881
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	22	21	finger|sensorimotor	#FDAD4A	0.429445711717484
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	23	21		#FD913D	0.561052768547536
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	1	22	moral|stories|story	#FFFFCC	0.0306187986009545
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	2	22	mentalizing|persons	#FFFFCC	0.0955402469692299
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	3	22	default|restingstate	#FFFFCC	0.0903983917808322
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	4	22	thinking|thought|thoughts	#FECB68	0.338027248379454
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	5	22	spontaneous	#FEE188	0.256531709863316
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	6	22	concentration|sensations	#FDAD4A	0.435755848167592
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	7	22	hierarchical|preference	#FECB68	0.321408026826494
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	8	22	effort|oral|simulation	#FECB68	0.326107596504781
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	9	22	interhemispheric|plasticity	#FDAD4A	0.434531793720403
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	10	22	imagined|imagine	#FECB68	0.314053349203709
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	11	22	tapping	#FECB68	0.330779739448113
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	12	22	foot|muscle|muscles|voluntary	#FEE188	0.209248391122297
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	13	22	limb	#FFF1A9	0.106802417462257
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	14	22	eyes|velocity	#FFF1A9	0.170107192264703
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	15	22	biological|gaze|videos	#FFF1A9	0.111074804977334
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	16	22	body	#FECB68	0.399596850316493
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	17	22	grasping|orientation|reaching	#FECB68	0.343344708862458
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	18	22		#FC622F	0.613811129210499
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	19	22	mirror|shape	#FC622F	0.6480645604104
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	20	22	actions	#FDAD4A	0.484701880381746
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	21	22	action	#FC622F	0.69772476623908
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	22	22		#FD913D	0.549428724278022
+c04fd9f5-acb3-3c56-af20-4a15d102d66f	van der Lugt A	23	22	hand|movements|sensory	#FDAD4A	0.432585879238132

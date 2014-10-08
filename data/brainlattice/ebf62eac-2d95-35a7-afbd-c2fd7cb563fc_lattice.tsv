@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	1	1	auditory|speech	#FDAD4A	0.484114892923635
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	2	1		#FDAD4A	0.473947968394666
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	3	1	da|integration	#FC622F	0.684611391203362
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	4	1		#FC622F	0.622381776442903
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	5	1	physical|psychophysical|tactile	#FDAD4A	0.447987802351412
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	6	1		#FD913D	0.524913458443447
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	7	1	somatosensory|stimulation	#FECB68	0.392878776745989
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	8	1	painful|pain	#FDAD4A	0.416944440051184
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	9	1		#FDAD4A	0.466792165788055
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	10	1	ratings	#FDAD4A	0.484700014940179
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	11	1	affective|affect	#FD913D	0.519286145516022
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	12	1	emotions	#FDAD4A	0.40739762369681
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	13	1	expression|expressions|facial	#FEE188	0.272274839355432
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	14	1		#FD913D	0.504767226520728
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	15	1		#FD913D	0.541285369872472
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	16	1	emotion|motion|neutral	#FD913D	0.508504009154645
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	17	1	rating	#FC622F	0.603575877412461
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	18	1	negative|positive	#FC622F	0.685867190918879
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	19	1		#F03623	0.763490952071194
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	20	1	ear|order	#F03623	0.768641012658329
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	21	1	motor	#FD913D	0.531423835351294
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	22	1	visual	#FC622F	0.694909690228251
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	23	1	age|image|response	#F03623	0.747386769210632
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	1	2	sound|sounds	#FECB68	0.361292648195461
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	2	2		#FDAD4A	0.433983564242894
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	3	2	audiovisual|bimodal|crossmodal	#FECB68	0.397957663181966
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	4	2		#FC622F	0.639204675785805
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	5	2		#FC622F	0.601712937646779
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	6	2		#FD913D	0.562282732471668
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	7	2	sensation	#FECB68	0.38617050641114
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	8	2	heat|noxious	#FECB68	0.398261055614717
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	9	2		#FDAD4A	0.489276997903545
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	10	2		#FD913D	0.517500229381265
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	11	2		#FD913D	0.523288729555244
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	12	2	valence	#FDAD4A	0.483208856553768
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	13	2	person|social	#FC622F	0.659498774113262
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	14	2		#FD913D	0.517498151681133
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	15	2	face|faces	#FD913D	0.533779352604963
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	16	2		#FC622F	0.615812156465919
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	17	2		#FC622F	0.668101347795283
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	18	2		#F03623	0.753738792187643
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	19	2		#F03623	0.78464274118825
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	20	2		#F03623	0.757099842489659
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	21	2	images|spatial	#F03623	0.729740895753227
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	22	2	control	#F03623	0.774388656169193
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	23	2	time	#F03623	0.769506352323328
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	1	3	acoustic|listening|musical|music|pitch	#FEE188	0.214797996290923
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	2	3	noise|tones	#FEE188	0.279088607332736
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	3	3		#FD913D	0.510115851332697
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	4	3		#FD913D	0.585691192327785
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	5	3	frequency	#FC622F	0.635943349145357
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	6	3		#FC622F	0.628844510364821
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	7	3		#FD913D	0.506591460865137
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	8	3	temperature	#FD913D	0.535401326588874
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	9	3		#FD913D	0.509591923358852
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	10	3	pleasant|unpleasant	#FECB68	0.397734307990787
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	11	3	anxiety	#FDAD4A	0.414723421574374
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	12	3		#FD913D	0.583678232941632
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	13	3		#FC622F	0.628574993987477
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	14	3		#FD913D	0.572500272347819
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	15	3		#FC622F	0.60151250941469
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	16	3	picture	#FC622F	0.622691826962408
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	17	3		#F03623	0.725173855608727
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	18	3	value	#F03623	0.724664501682244
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	19	3	cue	#F03623	0.795401288337501
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	20	3	error|target	#F03623	0.782305885433656
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	21	3	attention	#F03623	0.795651562664003
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	22	3		#D7141E	0.828448150524878
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	23	3	number	#D7141E	0.836298655148414
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	1	4	voice	#FEE188	0.264121812694927
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	2	4		#FECB68	0.373848492824243
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	3	4	hearing	#FD913D	0.511827180526694
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	4	4		#FDAD4A	0.480517225571233
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	5	4	overt	#FDAD4A	0.444285663752745
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	6	4		#FDAD4A	0.486718991772091
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	7	4		#FD913D	0.5559947716059
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	8	4	nociceptive|nonpainful|painrelated	#FECB68	0.38764235473452
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	9	4	unpleasantness	#FDAD4A	0.485209071962062
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	10	4	skin|subjective	#FDAD4A	0.480059916692733
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	11	4	depression	#FD913D	0.537075705820967
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	12	4	experience	#FC622F	0.648733264744442
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	13	4	female	#FD913D	0.553566869941937
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	14	4	male	#FC622F	0.616874616527164
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	15	4	pictures	#FD913D	0.557895425262603
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	16	4		#F03623	0.710672951103368
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	17	4	perception	#FC622F	0.66988741492996
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	18	4		#D7141E	0.841262649342201
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	19	4		#D7141E	0.849156772747327
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	20	4		#D7141E	0.849910600121298
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	21	4	correct	#D7141E	0.900707676804534
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	22	4	work	#D7141E	0.860871364186372
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	23	4	memory	#D7141E	0.84126461621817
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	1	5	prosodic|prosody	#FEE188	0.289358599364568
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	2	5	phonetic	#FECB68	0.37367209342493
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	3	5	syllable|syllables	#FDAD4A	0.42840809209036
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	4	5		#FDAD4A	0.411441904725221
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	5	5	lip|production	#FEE188	0.211172998403624
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	6	5	somatotopic	#FFF1A9	0.150419441153085
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	7	5		#FD913D	0.596614419904437
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	8	5		#FC622F	0.609625189621411
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	9	5	empathy	#FD913D	0.594759133692139
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	10	5		#FC622F	0.699128046925499
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	11	5	disorder	#FC622F	0.653934808209017
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	12	5		#F03623	0.735400099070406
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	13	5		#F03623	0.705566460981911
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	14	5		#FC622F	0.688244105123304
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	15	5		#F03623	0.705119838708645
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	16	5		#F03623	0.751433667158666
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	17	5		#D7141E	0.810790252652508
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	18	5	mental	#B10026	0.901561065066623
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	19	5	go	#D7141E	0.850681007339447
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	20	5	object	#FC622F	0.676075137365977
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	21	5		#D7141E	0.863929693226025
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	22	5		#D7141E	0.838480956488398
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	23	5	word|words	#F03623	0.754090715284746
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	1	6		#FD913D	0.550251600590113
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	2	6		#FD913D	0.581749364278082
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	3	6		#FD913D	0.588121094166249
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	4	6	vocal	#FEE188	0.229934084905219
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	5	6	articulatory	#FFF1A9	0.152318327851415
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	6	6		#FDAD4A	0.473921651804696
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	7	6	oddball	#F03623	0.763387840152819
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	8	6	perceived	#FDAD4A	0.462920505954802
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	9	6	errorrelated	#FD913D	0.597821433298499
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	10	6	approach	#FD913D	0.51705986800257
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	11	6	schizophrenia	#F03623	0.761615750813341
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	12	6	acquisition	#FC622F	0.601613474063384
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	13	6		#F03623	0.721212879228428
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	14	6		#FC622F	0.61216140040534
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	15	6		#FC622F	0.617571199686345
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	16	6		#FC622F	0.658038896967032
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	17	6		#D7141E	0.801704370814335
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	18	6		#D7141E	0.839951746564706
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	19	6		#D7141E	0.872927625306173
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	20	6	objects	#F03623	0.742908527402061
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	21	6		#D7141E	0.8678061533596
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	22	6		#F03623	0.788045084528339
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	23	6	language|semantic	#FC622F	0.700232509706242
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	1	7	dopamine|dopaminergic	#FECB68	0.330173383976564
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	2	7		#FDAD4A	0.444980807031923
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	3	7		#FC622F	0.649604905626888
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	4	7		#F03623	0.705399938370168
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	5	7		#F03623	0.756744871516839
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	6	7		#F03623	0.777552426405553
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	7	7		#F03623	0.79896551819306
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	8	7		#F03623	0.784547914908277
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	9	7		#F03623	0.756372117471254
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	10	7		#D7141E	0.806012160300078
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	11	7		#F03623	0.781434097783459
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	12	7		#F03623	0.796836133138437
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	13	7	linguistic|spoken	#FC622F	0.658936941529077
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	14	7		#FD913D	0.583095754423749
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	15	7	comprehension|sentence|sentences|syntactic	#FDAD4A	0.487841559335308
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	16	7		#FC622F	0.624527883854941
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	17	7		#F03623	0.756983614614571
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	18	7	phonological|reading|read	#F03623	0.743891471498614
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	19	7		#D7141E	0.853308400715985
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	20	7	perceptual|recognition	#D7141E	0.869614195880768
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	21	7		#D7141E	0.89469633813553
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	22	7		#D7141E	0.814991590632625
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	23	7	verb	#F03623	0.772612339212802
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	1	8	outcome|reward	#FDAD4A	0.410551020005499
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	2	8	anticipation	#FECB68	0.384784718783177
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	3	8	outcomes	#FDAD4A	0.444608830911445
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	4	8	choice|choices	#FC622F	0.624324285105085
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	5	8	decisions|probability	#F03623	0.763869442650017
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	6	8	reversal	#D7141E	0.861791120293867
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	7	8	classification|incorrect	#FC622F	0.624703197121833
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	8	8		#D7141E	0.825342860976086
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	9	8	agerelated|fluency|probes	#F03623	0.732050257303487
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	10	8	engaged	#FC622F	0.67667294482621
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	11	8	explicit|knowledge	#FC622F	0.688226379879555
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	12	8		#F03623	0.717185106209152
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	13	8		#FC622F	0.641761343742055
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	14	8		#FD913D	0.59297017285441
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	15	8		#FD913D	0.588110117046185
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	16	8		#FC622F	0.62075082003768
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	17	8	lexical	#FC622F	0.658345543340613
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	18	8		#D7141E	0.804728653322806
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	19	8		#D7141E	0.863122521272185
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	20	8		#B10026	0.908422037246767
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	21	8	encoding	#D7141E	0.814692568581536
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	22	8	retrieval	#D7141E	0.845634157110218
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	23	8	verbal	#D7141E	0.820186588406732
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	1	9	incentive|monetary|money|rewards	#FEE188	0.272913347460575
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	2	9	loss	#FECB68	0.344218970664129
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	3	9		#FD913D	0.585340866236057
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	4	9		#FC622F	0.692569574407977
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	5	9	decisionmaking	#FC622F	0.671032826817991
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	6	9		#D7141E	0.837054045596772
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	7	9		#D7141E	0.829928712224592
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	8	9		#D7141E	0.816141784436532
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	9	9		#D7141E	0.820795328535542
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	10	9		#F03623	0.760753064454537
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	11	9		#FC622F	0.691273181501701
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	12	9		#FC622F	0.655614066890452
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	13	9	noun	#FDAD4A	0.445241674311425
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	14	9	meaning	#FD913D	0.558547817775991
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	15	9	english	#FD913D	0.581025103495756
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	16	9	pseudoword|pseudowords	#FD913D	0.534830520298241
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	17	9		#F03623	0.764281546591371
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	18	9		#D7141E	0.858846472694409
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	19	9	familiar|judgment	#D7141E	0.853039986891509
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	20	9	pair|pairs	#D7141E	0.898850130139199
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	21	9		#B10026	0.927592731220337
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	22	9		#B10026	0.910539592277102
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	23	9	letter|working	#B10026	0.916441130843904
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	1	10	losses|reinforcement|win	#FFF1A9	0.16180057954672
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	2	10	gain	#FEE188	0.210633738702892
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	3	10	expectation	#FD913D	0.500834629177159
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	4	10	risk	#FC622F	0.626293273940716
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	5	10	fact	#FD913D	0.57245428130011
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	6	10	associative	#FC622F	0.696247751227944
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	7	10	familiarity|judgments|old	#D7141E	0.82405677760243
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	8	10	contextual|text	#FC622F	0.621462805562097
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	9	10	recall|retrieved	#FC622F	0.663862098040551
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	10	10	conceptual|semantically	#FD913D	0.549332668089097
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	11	10	grammatical|speakers	#FD913D	0.563059255795508
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	12	10	nouns	#FECB68	0.396176079202225
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	13	10	japanese	#FC622F	0.645931766211348
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	14	10	languages	#FD913D	0.552976086446693
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	15	10	written	#FC622F	0.627597045788913
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	16	10	chinese|phonology	#F03623	0.786919111251082
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	17	10	orthographic	#D7141E	0.819817319599461
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	18	10		#B10026	0.926403699271006
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	19	10		#B10026	0.938600584954938
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	20	10	association|decision	#D7141E	0.841460196891527
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	21	10	selection	#D7141E	0.814812860674639
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	22	10	letters	#D7141E	0.80895297041852
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	23	10	demand|load	#D7141E	0.849408524108478
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	1	11	conditioned|conditioning	#FFFFCC	0.0696418754908083
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	2	11		#FECB68	0.314868828557914
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	3	11	drug|placebo	#FECB68	0.381590350240089
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	4	11		#FD913D	0.559881108241162
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	5	11	associations	#FDAD4A	0.490465085884942
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	6	11		#FC622F	0.657389524609251
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	7	11	episodic|recollection	#FD913D	0.536390120938741
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	8	11		#FC622F	0.662165870098929
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	9	11		#F03623	0.761458217707538
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	10	11	concepts	#FECB68	0.360498060185118
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	11	11		#FC622F	0.646180146837057
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	12	11		#FC622F	0.617988635215094
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	13	11	german	#FDAD4A	0.422138602645644
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	14	11	readers	#F03623	0.725637864166951
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	15	11	character|name|naming	#FD913D	0.588878984531199
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	16	11		#F03623	0.767243849186588
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	17	11	novel	#D7141E	0.817227342832457
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	18	11		#D7141E	0.900689343974744
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	19	11	child|children	#B10026	0.934542625075238
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	20	11	adults	#B10026	0.93063304001788
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	21	11	ability|feedback|learning	#F03623	0.749203677856989
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	22	11	cues|delay	#F03623	0.789928571865981
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	23	11	attentional|difficulty|targets	#D7141E	0.865597399493848
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	1	12	aversive|shock	#FEE188	0.261067304263865
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	2	12	reactivity	#FEE188	0.2154200467631
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	3	12	males|sex|women	#FECB68	0.396759170505338
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	4	12	animal	#FEE188	0.299557325883812
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	5	12	animals	#FECB68	0.346882412817808
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	6	12		#FD913D	0.512225327544989
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	7	12	remember|subsequent	#FECB68	0.325307956012352
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	8	12	autobiographical|memories	#FFF1A9	0.198919953988376
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	9	12		#F03623	0.728913810503565
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	10	12	violation|violations	#FDAD4A	0.443899039304552
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	11	12	aphasia	#FD913D	0.583161592206592
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	12	12	nonwords	#FDAD4A	0.493141729244567
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	13	12	dyslexia	#FD913D	0.542568836485804
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	14	12		#F03623	0.793277303527061
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	15	12	priming	#FC622F	0.647143124322922
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	16	12		#F03623	0.800569421872834
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	17	12	category|repetition	#FC622F	0.669880922807754
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	18	12		#D7141E	0.899664541698225
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	19	12	developmental|development	#D7141E	0.863152570173243
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	20	12		#B10026	0.958435017395708
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	21	12	space	#D7141E	0.808121278827478
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	22	12		#B10026	0.93576224649535
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	23	12	color	#B10026	0.921650114841194
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	1	13	threat	#FFF1A9	0.147894097009237
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	2	13	regulation	#FDAD4A	0.475742246445743
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	3	13		#FDAD4A	0.410408725549292
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	4	13	masked	#FECB68	0.348471545186815
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	5	13	scene|scenes	#FEE188	0.246999324677988
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	6	13		#FDAD4A	0.447684893869323
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	7	13	confidence|remembered	#FECB68	0.381667054768872
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	8	13		#FD913D	0.565850254167271
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	9	13		#F03623	0.76152737391141
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	10	13	ambiguity|ambiguous	#FC622F	0.623577851962516
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	11	13		#F03623	0.748461233138139
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	12	13		#F03623	0.76903124225601
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	13	13	writing	#FD913D	0.536355859408119
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	14	13		#D7141E	0.846068392099389
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	15	13	categorization|congruency|prime	#F03623	0.726945311002756
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	16	13		#D7141E	0.841643412329463
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	17	13	mask	#F03623	0.772200984250301
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	18	13		#B10026	0.935512199564198
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	19	13		#B10026	0.986266247904354
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	20	13		#B10026	0.987362441594596
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	21	13	conflict|congruent|incongruent	#B10026	0.907404416845291
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	22	13	errors	#D7141E	0.84950659636579
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	23	13	maintenance|probe|wm	#D7141E	0.883553670899726
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	1	14	angry|fearful|happy	#FFF1A9	0.110395792999921
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	2	14		#FEE188	0.263095205305177
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	3	14	awareness|conscious|ptsd	#FECB68	0.366998893200633
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	4	14		#FDAD4A	0.451602900232065
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	5	14	houses|photographs	#FFF1A9	0.176779702606193
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	6	14		#FDAD4A	0.471775434197027
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	7	14	hits	#FECB68	0.375402095616649
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	8	14	famous	#FEE188	0.278031294688395
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	9	14	names	#FDAD4A	0.454954469467423
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	10	14	family	#FC622F	0.632383784949239
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	11	14	competition|mouth	#FC622F	0.697931751842215
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	12	14	abilities	#D7141E	0.829289127960469
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	13	14	implicit|unfamiliar	#FD913D	0.579506454836839
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	14	14		#D7141E	0.825147041047013
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	15	14	tom	#B10026	0.942369020756014
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	16	14		#B10026	0.938154488426473
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	17	14		#B10026	0.971406718895741
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	18	14	stop	#B10026	0.907018645449465
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	19	14	inhibition|inhibitory|nogo	#D7141E	0.86172228108085
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	20	14	monitoring|stroop	#D7141E	0.834021846253894
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	21	14	interference	#B10026	0.944002616055585
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	22	14		#B10026	0.983284723685697
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	23	14	demands|executive	#B10026	0.949236224230616
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	1	15	anger	#FFFFCC	0
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	2	15	stress	#FFF1A9	0.177792602856473
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	3	15	feelings	#FEE188	0.240547735779638
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	4	15	salient	#FDAD4A	0.424264274908855
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	5	15	novelty	#FEE188	0.238622817444805
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	6	15	movie	#FDAD4A	0.427839473778802
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	7	15		#FC622F	0.693421190089649
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	8	15		#F03623	0.775080065087813
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	9	15	longterm	#FD913D	0.588000770555403
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	10	15		#B10026	0.928943099450663
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	11	15	reasoning|relational	#D7141E	0.832014953203182
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	12	15		#D7141E	0.889701036583125
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	13	15	presentations	#FDAD4A	0.450628104220446
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	14	15		#F03623	0.797582309914985
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	15	15	identity	#FC622F	0.674842057283498
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	16	15		#B10026	0.961456556973107
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	17	15	strategies|strategy	#F03623	0.75252381563128
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	18	15	card|cards	#D7141E	0.811844737410679
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	19	15	gonogo	#D7141E	0.878587301222715
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	20	15		#B10026	1
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	21	15	switching|switch	#B10026	0.961772143847045
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	22	15		#B10026	0.996872159681833
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	23	15	2back|rule	#B10026	0.94248203139201
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	1	16	emotionally|mood|personality|sadness	#FFF1A9	0.186057413453742
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	2	16	disgust|sexual	#FFFFCC	0.0621974697343267
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	3	16	olfactory	#FFFFCC	0.0651044816823201
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	4	16	physiological	#FEE188	0.293531461693935
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	5	16	depressed|depressive|habituation	#FFF1A9	0.194304043971563
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	6	16	schizophrenic	#FD913D	0.598055705775263
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	7	16	colors|contexts	#FDAD4A	0.493186259262777
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	8	16	aging|encoded	#FC622F	0.638959263988412
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	9	16	goal	#FD913D	0.546788965261103
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	10	16		#B10026	0.911025044598633
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	11	16	autism|autistic|nonverbal	#D7141E	0.877228444415575
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	12	16		#D7141E	0.88813564818464
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	13	16	bottomup|repetitions	#FD913D	0.582621955287001
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	14	16	adaptation	#FC622F	0.694999034370177
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	15	16	irrelevant	#D7141E	0.837702874116061
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	16	16	distractor|distractors	#D7141E	0.841296014684136
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	17	16		#B10026	0.968272521805817
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	18	16	subtraction	#B10026	0.959197901498667
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	19	16	1back|nback	#F03623	0.779403034010123
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	20	16	manipulation|rules	#D7141E	0.860928750275995
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	21	16		#B10026	0.976489116541461
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	22	16		#B10026	0.975257379519004
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	23	16	digit	#D7141E	0.827917349504462
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	1	17	avoidance	#FFFFCC	0.00619511344318268
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	2	17		#FEE188	0.233202455369889
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	3	17	eating|food	#FFFFCC	0.0943239722284342
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	4	17	taste	#FEE188	0.240996106361372
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	5	17	bipolar	#FD913D	0.539530789432738
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	6	17	illness|uncertainty	#FD913D	0.537318606740141
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	7	17	females|probabilistic	#FC622F	0.608835998359874
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	8	17	rejection	#FDAD4A	0.487001809694457
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	9	17	colour|paired	#FD913D	0.58866131257944
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	10	17		#D7141E	0.866786287993307
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	11	17		#D7141E	0.838079896306783
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	12	17		#D7141E	0.829175529997416
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	13	17	taskirrelevant	#FC622F	0.604129905508594
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	14	17		#F03623	0.747939246454699
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	15	17	suppression	#FC622F	0.641116143730539
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	16	17		#D7141E	0.835548619464298
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	17	17	shifting|shortterm	#F03623	0.785297830754452
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	18	17	digits	#F03623	0.732041140067514
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	19	17	search	#D7141E	0.860969778537636
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	20	17	counting|taskrelated	#F03623	0.746935513623978
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	21	17	topdown	#D7141E	0.837101466843474
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	22	17	visuospatial	#F03623	0.726461756720779
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	23	17	arithmetic|calculation|solving	#B10026	0.914643719265323
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	1	18	addiction|craving|drugs	#FFF1A9	0.175495357340096
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	2	18	allele|genotype|polymorphism	#FEE188	0.232505065106686
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	3	18	motivation	#FEE188	0.235089827475655
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	4	18	heart	#FDAD4A	0.492330012354185
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	5	18	sleep	#FDAD4A	0.453998346281089
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	6	18	expectancy	#F03623	0.745161776375444
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	7	18	phasic|salience	#FC622F	0.699454418045643
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	8	18	adolescence|adolescents	#FC622F	0.64736342108005
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	9	18	intelligence|tracking	#FD913D	0.55491585519897
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	10	18		#F03623	0.775871590444703
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	11	18	serial	#FDAD4A	0.45515391052757
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	12	18		#F03623	0.744909244586434
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	13	18	spatially|taskrelevant	#FDAD4A	0.47792990405876
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	14	18		#F03623	0.754990194058545
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	15	18	attended|attend|unattended	#FD913D	0.541044317760444
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	16	18	rotation|shapes	#FD913D	0.569163907020399
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	17	18	rehearsal	#FC622F	0.658776273974125
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	18	18	learned	#FD913D	0.538278667421492
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	19	18		#F03623	0.75051310401295
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	20	18	cued|preparatory	#F03623	0.794682994427461
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	21	18		#D7141E	0.825096878785016
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	22	18		#D7141E	0.897861963215061
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	23	18	numbers|numerical	#F03623	0.780411097255314
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	1	19	future	#FD913D	0.519484801577096
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	2	19	negatively	#FDAD4A	0.443350758091733
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	3	19	distress|epilepsy|selfreported	#FFFFCC	0.079042339219542
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	4	19	anticipatory|cocaine|probabilities|smoking	#FEE188	0.289408713116055
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	5	19	alcohol|amount|impulsivity	#FECB68	0.371025964759698
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	6	19	game|success	#FDAD4A	0.453728440946302
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	7	19	adhd|childhood|engagement	#FC622F	0.651355037699068
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	8	19		#D7141E	0.870999664355588
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	9	19		#D7141E	0.822934199451734
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	10	19		#F03623	0.728101008321976
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	11	19		#FC622F	0.685634109720369
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	12	19	endogenous	#FD913D	0.525284152376107
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	13	19	cueing|invalid|orienting	#F03623	0.7066235942161
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	14	19		#F03623	0.74449618089705
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	15	19	multisensory	#FC622F	0.633241483410034
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	16	19		#F03623	0.710204575944593
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	17	19	shifts	#FC622F	0.63152242766581
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	18	19	covert	#FD913D	0.540856704226594
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	19	19		#FC622F	0.653312761040127
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	20	19	preparation	#FD913D	0.595487499875884
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	21	19	discrimination|training	#D7141E	0.812151249945998
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	22	19	sequences	#FDAD4A	0.423908853277562
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	23	19		#FC622F	0.656217842609529
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	1	20	personal|self|selfreferential|trait|traits	#FD913D	0.524756844678296
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	2	20	empathic|theory	#FD913D	0.590575784190215
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	3	20	attribution|intentional	#FECB68	0.35188685312307
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	4	20	elderly|oscillations	#FEE188	0.243633270941452
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	5	20	antipsychotic|virtual	#FDAD4A	0.41376005325202
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	6	20		#F03623	0.770976596083702
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	7	20	experiences	#FDAD4A	0.481249225259995
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	8	20	categorical|pressure	#FD913D	0.578192216354408
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	9	20	play|skills	#FDAD4A	0.485099551347993
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	10	20	automatic|trained	#FD913D	0.535555710929284
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	11	20		#FD913D	0.509759623826941
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	12	20	practice	#FD913D	0.589216660155694
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	13	20	visuomotor	#FDAD4A	0.429259124526654
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	14	20		#FC622F	0.645791115532664
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	15	20	tool	#FDAD4A	0.450800449282811
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	16	20	vision	#FECB68	0.345054399111948
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	17	20	visually	#FD913D	0.547435875237784
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	18	20	saccade|saccades|saccadic	#FECB68	0.357583953077697
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	19	20	locations	#FD913D	0.587926457748055
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	20	20	imagery|planning	#FD913D	0.52432355993551
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	21	20		#FC622F	0.60825892058344
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	22	20	rest	#FD913D	0.547341483866487
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	23	20	sequence	#FD913D	0.520804383471183
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	1	21	scenarios	#FDAD4A	0.425185003158237
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	2	21	intention|intentions	#FC622F	0.630804104104271
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	3	21	causality|perspective	#FECB68	0.364832362474998
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	4	21	past	#FDAD4A	0.411975300645311
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	5	21		#D7141E	0.817406474427895
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	6	21	episode	#FECB68	0.3033938521212
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	7	21	improvement	#FDAD4A	0.478236863540666
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	8	21	masking|retention	#FD913D	0.51405874129453
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	9	21		#FC622F	0.639909238200767
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	10	21	dominant	#FDAD4A	0.472448294306812
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	11	21		#FECB68	0.328137186231567
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	12	21	sequential	#FEE188	0.264904083086777
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	13	21	fingers	#FFF1A9	0.100781254468225
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	14	21		#FDAD4A	0.438544784013259
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	15	21	gesture|gestures	#FECB68	0.317445145038966
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	16	21		#FECB68	0.399650014162442
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	17	21	hands	#FEE188	0.239420129807195
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	18	21		#FDAD4A	0.479482453347429
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	19	21		#FD913D	0.515728981470909
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	20	21	eye|position	#FDAD4A	0.463085005991899
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	21	21	execution	#FECB68	0.377490426019959
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	22	21	finger|sensorimotor	#FEE188	0.247363476593573
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	23	21		#FDAD4A	0.412738529258258
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	1	22	moral|stories|story	#FD913D	0.525527018675863
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	2	22	mentalizing|persons	#FD913D	0.575526537158851
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	3	22	default|restingstate	#FECB68	0.395990555079255
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	4	22	thinking|thought|thoughts	#F03623	0.761001645796128
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	5	22	spontaneous	#FC622F	0.633457778601328
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	6	22	concentration|sensations	#FDAD4A	0.436557616056552
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	7	22	hierarchical|preference	#FD913D	0.542562072355701
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	8	22	effort|oral|simulation	#FEE188	0.299098984547607
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	9	22	interhemispheric|plasticity	#FD913D	0.508607788011123
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	10	22	imagined|imagine	#FEE188	0.288422756286462
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	11	22	tapping	#FEE188	0.247709137183767
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	12	22	foot|muscle|muscles|voluntary	#FFF1A9	0.141724626972282
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	13	22	limb	#FFFFCC	0.0174449474820942
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	14	22	eyes|velocity	#FEE188	0.26015277669344
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	15	22	biological|gaze|videos	#FFF1A9	0.196394625414377
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	16	22	body	#FECB68	0.3308980428329
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	17	22	grasping|orientation|reaching	#FEE188	0.231072278284646
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	18	22		#FDAD4A	0.448475626421665
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	19	22	mirror|shape	#FD913D	0.566443571344612
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	20	22	actions	#FECB68	0.392015517108529
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	21	22	action	#FD913D	0.59990494861516
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	22	22		#FDAD4A	0.404849728198166
+ebf62eac-2d95-35a7-afbd-c2fd7cb563fc	Gunn P	23	22	hand|movements|sensory	#FECB68	0.324546829505698

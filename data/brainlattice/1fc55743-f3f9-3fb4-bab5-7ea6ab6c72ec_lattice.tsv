@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	1	1	auditory|speech	#FEE188	0.224974737461823
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	2	1		#FEE188	0.203383375295275
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	3	1	da|integration	#FECB68	0.31890195551051
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	4	1		#FDAD4A	0.46862143347346
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	5	1	physical|psychophysical|tactile	#FC622F	0.641435889073608
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	6	1		#FD913D	0.548356255519659
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	7	1	somatosensory|stimulation	#FD913D	0.530066947633395
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	8	1	painful|pain	#FECB68	0.312398384218467
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	9	1		#FECB68	0.308465303605858
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	10	1	ratings	#FEE188	0.217454161013064
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	11	1	affective|affect	#FFF1A9	0.19607937502448
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	12	1	emotions	#FFF1A9	0.150234169047377
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	13	1	expression|expressions|facial	#FFFFCC	0.0640592690758452
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	14	1		#FFF1A9	0.135348905734269
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	15	1		#FFF1A9	0.174875551142512
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	16	1	emotion|motion|neutral	#FEE188	0.209587120021753
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	17	1	rating	#FEE188	0.241626401201046
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	18	1	negative|positive	#FEE188	0.292576861103128
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	19	1		#FDAD4A	0.475516572176571
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	20	1	ear|order	#FDAD4A	0.494082318036493
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	21	1	motor	#FC622F	0.697870532582582
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	22	1	visual	#FD913D	0.554572359307713
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	23	1	age|image|response	#FDAD4A	0.498500300524789
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	1	2	sound|sounds	#FFF1A9	0.137518918664533
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	2	2		#FFF1A9	0.184857612825862
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	3	2	audiovisual|bimodal|crossmodal	#FFF1A9	0.120449020606186
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	4	2		#FDAD4A	0.469092571805564
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	5	2		#FD913D	0.573040062829857
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	6	2		#FD913D	0.565673715374795
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	7	2	sensation	#FEE188	0.294277388170237
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	8	2	heat|noxious	#FEE188	0.286175456934397
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	9	2		#FEE188	0.286788927974486
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	10	2		#FEE188	0.215928001538321
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	11	2		#FFF1A9	0.19274609279234
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	12	2	valence	#FFF1A9	0.0993655290330899
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	13	2	person|social	#FFF1A9	0.127181988813897
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	14	2		#FFF1A9	0.147324997274781
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	15	2	face|faces	#FFF1A9	0.157392808301915
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	16	2		#FEE188	0.246857239191512
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	17	2		#FEE188	0.298501391958278
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	18	2		#FDAD4A	0.41803520750724
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	19	2		#FD913D	0.512650230220032
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	20	2		#FC622F	0.607834827185387
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	21	2	images|spatial	#FD913D	0.592108101731295
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	22	2	control	#FD913D	0.55315094598228
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	23	2	time	#FD913D	0.532469753909355
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	1	3	acoustic|listening|musical|music|pitch	#FFF1A9	0.107460726402657
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	2	3	noise|tones	#FFF1A9	0.128703128559121
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	3	3		#FEE188	0.274551000796874
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	4	3		#FECB68	0.392825953888482
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	5	3	frequency	#FD913D	0.515472664197236
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	6	3		#FD913D	0.506434703069072
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	7	3		#FECB68	0.335000874491584
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	8	3	temperature	#FEE188	0.220036731882878
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	9	3		#FEE188	0.28228668292994
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	10	3	pleasant|unpleasant	#FFF1A9	0.186148679601278
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	11	3	anxiety	#FFF1A9	0.147809012446676
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	12	3		#FEE188	0.216416757677135
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	13	3		#FEE188	0.248928913585614
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	14	3		#FEE188	0.210078858451351
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	15	3		#FEE188	0.234691527175541
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	16	3	picture	#FEE188	0.271504097581541
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	17	3		#FECB68	0.356774225567209
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	18	3	value	#FD913D	0.502915095285097
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	19	3	cue	#FC622F	0.605431424668174
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	20	3	error|target	#FC622F	0.633032398208734
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	21	3	attention	#FD913D	0.595519414866659
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	22	3		#FD913D	0.534353141588912
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	23	3	number	#FD913D	0.500680522809628
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	1	4	voice	#FFFFCC	0.0826438948542305
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	2	4		#FFF1A9	0.156490272841742
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	3	4	hearing	#FFF1A9	0.171730709456178
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	4	4		#FECB68	0.353411400828553
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	5	4	overt	#FDAD4A	0.425935028060255
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	6	4		#FDAD4A	0.424269995282028
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	7	4		#FECB68	0.35858504696543
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	8	4	nociceptive|nonpainful|painrelated	#FEE188	0.267644168280876
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	9	4	unpleasantness	#FEE188	0.263346130422201
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	10	4	skin|subjective	#FEE188	0.247796247443941
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	11	4	depression	#FEE188	0.255607423584269
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	12	4	experience	#FEE188	0.284146345762988
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	13	4	female	#FEE188	0.258669846685416
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	14	4	male	#FEE188	0.298395066418945
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	15	4	pictures	#FEE188	0.211571604192355
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	16	4		#FECB68	0.338230853541799
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	17	4	perception	#FDAD4A	0.437761410049246
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	18	4		#FD913D	0.552549841426594
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	19	4		#FD913D	0.57060282907326
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	20	4		#FD913D	0.569623621861723
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	21	4	correct	#FDAD4A	0.485022673853321
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	22	4	work	#FD913D	0.544977058004278
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	23	4	memory	#FDAD4A	0.44712492008779
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	1	5	prosodic|prosody	#FFFFCC	0.057708592338087
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	2	5	phonetic	#FFF1A9	0.177670502377447
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	3	5	syllable|syllables	#FEE188	0.229959256468548
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	4	5		#FECB68	0.317421597164603
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	5	5	lip|production	#FEE188	0.230295213567456
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	6	5	somatotopic	#FECB68	0.38774318592787
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	7	5		#FDAD4A	0.40763606005467
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	8	5		#FECB68	0.361947182540263
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	9	5	empathy	#FECB68	0.348270765374618
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	10	5		#FECB68	0.33711086706367
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	11	5	disorder	#FFF1A9	0.199390059606247
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	12	5		#FECB68	0.313338432063676
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	13	5		#FEE188	0.297108583930036
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	14	5		#FEE188	0.260030185880903
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	15	5		#FEE188	0.268624053646827
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	16	5		#FECB68	0.333320238136463
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	17	5		#FDAD4A	0.417479624234329
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	18	5	mental	#FD913D	0.547957368404438
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	19	5	go	#FDAD4A	0.463192874118574
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	20	5	object	#FDAD4A	0.490495163465426
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	21	5		#FDAD4A	0.474703624054642
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	22	5		#FECB68	0.38866636556202
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	23	5	word|words	#FEE188	0.255894745767998
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	1	6		#FEE188	0.217175959353298
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	2	6		#FEE188	0.243574049512226
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	3	6		#FEE188	0.288331143423044
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	4	6	vocal	#FEE188	0.212433336682369
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	5	6	articulatory	#FEE188	0.266242795724702
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	6	6		#FECB68	0.370506730231722
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	7	6	oddball	#FDAD4A	0.411100155328437
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	8	6	perceived	#FEE188	0.285650452702283
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	9	6	errorrelated	#FEE188	0.255581778881769
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	10	6	approach	#FECB68	0.359921107760703
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	11	6	schizophrenia	#FEE188	0.294471989876253
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	12	6	acquisition	#FECB68	0.337438616829117
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	13	6		#FEE188	0.260577762001854
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	14	6		#FFF1A9	0.180769974901687
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	15	6		#FFF1A9	0.189546223174977
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	16	6		#FEE188	0.22825566254934
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	17	6		#FECB68	0.35512962747083
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	18	6		#FDAD4A	0.425584619666386
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	19	6		#FDAD4A	0.436506684561567
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	20	6	objects	#FDAD4A	0.499307744233677
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	21	6		#FDAD4A	0.412151529369221
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	22	6		#FECB68	0.318534314313322
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	23	6	language|semantic	#FEE188	0.218849630231066
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	1	7	dopamine|dopaminergic	#FEE188	0.227775005673479
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	2	7		#FFF1A9	0.195418494666642
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	3	7		#FEE188	0.269909414735505
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	4	7		#FECB68	0.332659018624741
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	5	7		#FECB68	0.356806043945934
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	6	7		#FECB68	0.383744857846839
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	7	7		#FECB68	0.3646399150436
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	8	7		#FECB68	0.338739590427077
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	9	7		#FECB68	0.353809637608886
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	10	7		#FECB68	0.347054949452159
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	11	7		#FECB68	0.342857636477467
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	12	7		#FECB68	0.310408906122101
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	13	7	linguistic|spoken	#FFF1A9	0.183226480312929
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	14	7		#FFF1A9	0.167193061978761
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	15	7	comprehension|sentence|sentences|syntactic	#FFF1A9	0.117795481232876
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	16	7		#FFF1A9	0.188867565400689
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	17	7		#FEE188	0.299384053374308
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	18	7	phonological|reading|read	#FECB68	0.309557566682764
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	19	7		#FECB68	0.387842535110376
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	20	7	perceptual|recognition	#FECB68	0.367113006370509
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	21	7		#FDAD4A	0.406603391894645
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	22	7		#FECB68	0.33579272013888
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	23	7	verb	#FECB68	0.362823302060474
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	1	8	outcome|reward	#FFF1A9	0.160515229325967
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	2	8	anticipation	#FFF1A9	0.155237701655134
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	3	8	outcomes	#FFF1A9	0.155381864596164
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	4	8	choice|choices	#FEE188	0.216355447168062
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	5	8	decisions|probability	#FECB68	0.360122791501206
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	6	8	reversal	#FECB68	0.362953652872902
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	7	8	classification|incorrect	#FEE188	0.27087461854148
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	8	8		#FECB68	0.334202591353973
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	9	8	agerelated|fluency|probes	#FECB68	0.306155571515927
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	10	8	engaged	#FEE188	0.282494252194006
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	11	8	explicit|knowledge	#FEE188	0.288165299063279
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	12	8		#FEE188	0.268219639571705
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	13	8		#FFF1A9	0.194677086788219
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	14	8		#FFF1A9	0.161313329653511
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	15	8		#FFF1A9	0.161651549185858
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	16	8		#FFF1A9	0.182015748864109
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	17	8	lexical	#FEE188	0.200088948306114
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	18	8		#FECB68	0.304205102468136
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	19	8		#FECB68	0.349563484673141
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	20	8		#FECB68	0.371037064572129
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	21	8	encoding	#FECB68	0.353095877510918
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	22	8	retrieval	#FECB68	0.356981798525284
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	23	8	verbal	#FDAD4A	0.442629858394053
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	1	9	incentive|monetary|money|rewards	#FFFFCC	0.0758253067254026
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	2	9	loss	#FFF1A9	0.135918094092271
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	3	9		#FEE188	0.215792304676578
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	4	9		#FEE188	0.274509979383447
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	5	9	decisionmaking	#FEE188	0.247263278843809
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	6	9		#FECB68	0.335880652252396
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	7	9		#FECB68	0.32098238292021
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	8	9		#FECB68	0.331118938382564
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	9	9		#FECB68	0.312326737528367
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	10	9		#FEE188	0.2932535649154
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	11	9		#FEE188	0.252680824650619
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	12	9		#FEE188	0.239900263028248
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	13	9	noun	#FFF1A9	0.158802874487569
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	14	9	meaning	#FFF1A9	0.135872394569153
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	15	9	english	#FFF1A9	0.186833376206097
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	16	9	pseudoword|pseudowords	#FEE188	0.229084431873724
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	17	9		#FEE188	0.238331874221634
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	18	9		#FEE188	0.289759243078055
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	19	9	familiar|judgment	#FEE188	0.294537224403083
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	20	9	pair|pairs	#FECB68	0.312741286609951
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	21	9		#FDAD4A	0.47619633042445
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	22	9		#FD913D	0.530601730064343
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	23	9	letter|working	#FD913D	0.564209128034887
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	1	10	losses|reinforcement|win	#FFFFCC	0.0679614871723917
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	2	10	gain	#FFF1A9	0.168973340770213
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	3	10	expectation	#FFF1A9	0.186344407311791
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	4	10	risk	#FFF1A9	0.199377306348966
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	5	10	fact	#FECB68	0.315747134477439
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	6	10	associative	#FEE188	0.280340397615789
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	7	10	familiarity|judgments|old	#FEE188	0.236489684626041
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	8	10	contextual|text	#FEE188	0.235611433801021
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	9	10	recall|retrieved	#FECB68	0.313273875370521
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	10	10	conceptual|semantically	#FFF1A9	0.107904404568393
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	11	10	grammatical|speakers	#FFF1A9	0.188035263677341
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	12	10	nouns	#FFF1A9	0.189379140556975
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	13	10	japanese	#FFF1A9	0.180033496006326
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	14	10	languages	#FFF1A9	0.186049489105075
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	15	10	written	#FFF1A9	0.119099468144428
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	16	10	chinese|phonology	#FEE188	0.216145876773027
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	17	10	orthographic	#FEE188	0.216209934162058
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	18	10		#FECB68	0.311988631106912
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	19	10		#FECB68	0.350200828004213
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	20	10	association|decision	#FECB68	0.367052837094566
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	21	10	selection	#FD913D	0.563875600956988
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	22	10	letters	#FC622F	0.615371016853736
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	23	10	demand|load	#FD913D	0.581668306425372
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	1	11	conditioned|conditioning	#FFF1A9	0.105751665595324
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	2	11		#FFF1A9	0.1860214076332
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	3	11	drug|placebo	#FEE188	0.247882770910332
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	4	11		#FEE188	0.283973751324384
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	5	11	associations	#FECB68	0.383684626672778
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	6	11		#FEE188	0.268497199621526
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	7	11	episodic|recollection	#FFF1A9	0.159331295422357
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	8	11		#FEE188	0.258298466586862
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	9	11		#FEE188	0.296823933627736
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	10	11	concepts	#FFF1A9	0.107122555915603
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	11	11		#FEE188	0.24823180974409
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	12	11		#FEE188	0.242863638297782
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	13	11	german	#FEE188	0.222799466574503
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	14	11	readers	#FEE188	0.262174184164436
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	15	11	character|name|naming	#FFF1A9	0.185155933431529
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	16	11		#FEE188	0.273490704625007
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	17	11	novel	#FECB68	0.327672667579025
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	18	11		#FECB68	0.342545073722974
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	19	11	child|children	#FEE188	0.292013915128514
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	20	11	adults	#FDAD4A	0.450957556204702
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	21	11	ability|feedback|learning	#FD913D	0.578732141591487
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	22	11	cues|delay	#F03623	0.716106731124439
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	23	11	attentional|difficulty|targets	#FC622F	0.68678500857982
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	1	12	aversive|shock	#FFFFCC	0.0988569418642231
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	2	12	reactivity	#FFF1A9	0.170706669849463
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	3	12	males|sex|women	#FFF1A9	0.177191727267567
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	4	12	animal	#FFF1A9	0.16465348449447
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	5	12	animals	#FEE188	0.199956582275998
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	6	12		#FEE188	0.202581354270394
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	7	12	remember|subsequent	#FFF1A9	0.118933313310106
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	8	12	autobiographical|memories	#FFFFCC	0.0227881457498188
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	9	12		#FEE188	0.276610448034684
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	10	12	violation|violations	#FEE188	0.235132444541723
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	11	12	aphasia	#FEE188	0.287473851340958
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	12	12	nonwords	#FEE188	0.275089240755744
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	13	12	dyslexia	#FEE188	0.210798199340735
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	14	12		#FEE188	0.296687893105652
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	15	12	priming	#FEE188	0.20438068505656
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	16	12		#FECB68	0.327716188780589
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	17	12	category|repetition	#FECB68	0.327638736550685
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	18	12		#FECB68	0.364436448877725
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	19	12	developmental|development	#FECB68	0.333975380559385
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	20	12		#FDAD4A	0.464653304290042
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	21	12	space	#FD913D	0.56158816450517
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	22	12		#FC622F	0.606580452376307
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	23	12	color	#FD913D	0.561451397066586
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	1	13	threat	#FFF1A9	0.115633843370358
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	2	13	regulation	#FFF1A9	0.132425127800592
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	3	13		#FFF1A9	0.16575007413032
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	4	13	masked	#FFF1A9	0.147244809255323
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	5	13	scene|scenes	#FFF1A9	0.164127239343809
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	6	13		#FFF1A9	0.151039136571377
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	7	13	confidence|remembered	#FFF1A9	0.169944952197584
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	8	13		#FFF1A9	0.178870063753614
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	9	13		#FEE188	0.281603460428708
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	10	13	ambiguity|ambiguous	#FFF1A9	0.130335010584449
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	11	13		#FECB68	0.325631911839158
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	12	13		#FDAD4A	0.405446330697032
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	13	13	writing	#FDAD4A	0.455596751931083
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	14	13		#FDAD4A	0.40733933653195
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	15	13	categorization|congruency|prime	#FEE188	0.295438657422377
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	16	13		#FECB68	0.373599253974475
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	17	13	mask	#FECB68	0.363753058013976
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	18	13		#FDAD4A	0.426035408932697
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	19	13		#FDAD4A	0.459607753921722
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	20	13		#FDAD4A	0.467374674452784
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	21	13	conflict|congruent|incongruent	#FDAD4A	0.433394260988732
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	22	13	errors	#FDAD4A	0.467910407799979
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	23	13	maintenance|probe|wm	#FD913D	0.56006669857213
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	1	14	angry|fearful|happy	#FFFFCC	0.0287563478095605
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	2	14		#FFFFCC	0.0941070160194165
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	3	14	awareness|conscious|ptsd	#FFF1A9	0.115468121088798
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	4	14		#FFF1A9	0.177791573937902
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	5	14	houses|photographs	#FFFFCC	0.00457958106914179
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	6	14		#FFF1A9	0.177835657372968
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	7	14	hits	#FFF1A9	0.111173208669041
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	8	14	famous	#FFFFCC	0.0087874537799823
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	9	14	names	#FFFFCC	0.0576354038915325
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	10	14	family	#FEE188	0.22718649089308
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	11	14	competition|mouth	#FEE188	0.283319051405815
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	12	14	abilities	#FDAD4A	0.468534767039234
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	13	14	implicit|unfamiliar	#FEE188	0.270124763113634
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	14	14		#FDAD4A	0.425007144391934
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	15	14	tom	#FECB68	0.3832045681412
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	16	14		#FDAD4A	0.456046761203288
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	17	14		#FDAD4A	0.480607191450434
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	18	14	stop	#FDAD4A	0.467862474040019
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	19	14	inhibition|inhibitory|nogo	#FDAD4A	0.464843617648588
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	20	14	monitoring|stroop	#FECB68	0.333287275094093
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	21	14	interference	#FDAD4A	0.44297405294403
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	22	14		#FD913D	0.507631871032339
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	23	14	demands|executive	#FDAD4A	0.476291950200825
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	1	15	anger	#FFFFCC	0.00518660885175043
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	2	15	stress	#FFFFCC	0.0634629417806073
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	3	15	feelings	#FFF1A9	0.187549627514895
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	4	15	salient	#FEE188	0.203678800855313
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	5	15	novelty	#FFFFCC	0.0969038092033982
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	6	15	movie	#FEE188	0.261584351587654
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	7	15		#FEE188	0.258138711605212
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	8	15		#FEE188	0.266712963691536
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	9	15	longterm	#FFF1A9	0.17005097117812
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	10	15		#FECB68	0.325041116715857
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	11	15	reasoning|relational	#FECB68	0.303347540491166
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	12	15		#FDAD4A	0.437694986364515
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	13	15	presentations	#FECB68	0.312504440256246
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	14	15		#FDAD4A	0.464870582227434
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	15	15	identity	#FECB68	0.368302508802335
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	16	15		#FD913D	0.500530979553032
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	17	15	strategies|strategy	#FDAD4A	0.431384217425558
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	18	15	card|cards	#FECB68	0.342840290211974
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	19	15	gonogo	#FDAD4A	0.407254169699563
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	20	15		#FDAD4A	0.489642829355963
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	21	15	switching|switch	#FD913D	0.544510867080466
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	22	15		#FD913D	0.535586148118994
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	23	15	2back|rule	#FD913D	0.534713353967433
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	1	16	emotionally|mood|personality|sadness	#FFFFCC	0.0239721806302729
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	2	16	disgust|sexual	#FFFFCC	0.0831726305670987
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	3	16	olfactory	#FFF1A9	0.15691684194685
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	4	16	physiological	#FEE188	0.217588630849787
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	5	16	depressed|depressive|habituation	#FFF1A9	0.100118900039573
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	6	16	schizophrenic	#FFF1A9	0.182093944368914
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	7	16	colors|contexts	#FECB68	0.331274406211703
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	8	16	aging|encoded	#FFF1A9	0.197504203480268
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	9	16	goal	#FECB68	0.326161480153119
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	10	16		#FECB68	0.370719984691266
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	11	16	autism|autistic|nonverbal	#FEE188	0.243284041040725
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	12	16		#FDAD4A	0.438740955168944
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	13	16	bottomup|repetitions	#FDAD4A	0.46699362190427
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	14	16	adaptation	#FECB68	0.378297006253167
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	15	16	irrelevant	#FDAD4A	0.457002498584551
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	16	16	distractor|distractors	#FDAD4A	0.466124878366138
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	17	16		#FD913D	0.574199788280037
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	18	16	subtraction	#FDAD4A	0.413576213686588
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	19	16	1back|nback	#FDAD4A	0.411620413595053
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	20	16	manipulation|rules	#FD913D	0.546386837989533
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	21	16		#FC622F	0.604252513375499
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	22	16		#FC622F	0.614536218385316
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	23	16	digit	#FC622F	0.619527605721961
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	1	17	avoidance	#FFFFCC	0.0613697733259811
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	2	17		#FFFFCC	0.0965014789920928
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	3	17	eating|food	#FFFFCC	0.083167369174515
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	4	17	taste	#FEE188	0.21484436465504
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	5	17	bipolar	#FFF1A9	0.170095535326271
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	6	17	illness|uncertainty	#FFF1A9	0.193048039337962
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	7	17	females|probabilistic	#FFF1A9	0.193269453830945
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	8	17	rejection	#FFF1A9	0.11319290177526
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	9	17	colour|paired	#FDAD4A	0.426731787136987
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	10	17		#FDAD4A	0.498113161378673
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	11	17		#FD913D	0.550478932096131
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	12	17		#FD913D	0.543940665200148
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	13	17	taskirrelevant	#FDAD4A	0.412312102460165
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	14	17		#FD913D	0.5539856641418
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	15	17	suppression	#FDAD4A	0.408141464674408
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	16	17		#FC622F	0.641047763730179
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	17	17	shifting|shortterm	#FC622F	0.624805401604142
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	18	17	digits	#FC622F	0.63696176101398
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	19	17	search	#FC622F	0.622484510729669
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	20	17	counting|taskrelated	#FDAD4A	0.411508770573341
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	21	17	topdown	#FD913D	0.507221192231718
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	22	17	visuospatial	#F03623	0.749062200812566
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	23	17	arithmetic|calculation|solving	#FD913D	0.53385520999378
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	1	18	addiction|craving|drugs	#FFFFCC	0.0891720613908176
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	2	18	allele|genotype|polymorphism	#FFFFCC	0.0421163031366307
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	3	18	motivation	#FFFFCC	0.0812991543212692
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	4	18	heart	#FECB68	0.318023899019134
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	5	18	sleep	#FECB68	0.337704083645054
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	6	18	expectancy	#FECB68	0.347192856468303
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	7	18	phasic|salience	#FEE188	0.288641786118187
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	8	18	adolescence|adolescents	#FFF1A9	0.148042304489952
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	9	18	intelligence|tracking	#FD913D	0.54885786070561
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	10	18		#FC622F	0.660851201023949
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	11	18	serial	#FDAD4A	0.473015014198843
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	12	18		#FC622F	0.636392624751366
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	13	18	spatially|taskrelevant	#FD913D	0.530508149350767
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	14	18		#FD913D	0.591758653700869
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	15	18	attended|attend|unattended	#FECB68	0.372092052146589
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	16	18	rotation|shapes	#FC622F	0.677928081791623
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	17	18	rehearsal	#FD913D	0.587963153595262
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	18	18	learned	#F03623	0.71126775244894
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	19	18		#F03623	0.798955029531011
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	20	18	cued|preparatory	#F03623	0.711296523024501
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	21	18		#F03623	0.782056170454401
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	22	18		#FC622F	0.698952293550868
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	23	18	numbers|numerical	#FC622F	0.611988208476061
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	1	19	future	#FFFFCC	0.0860764424331219
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	2	19	negatively	#FFF1A9	0.14456657946577
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	3	19	distress|epilepsy|selfreported	#FFF1A9	0.137997208885951
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	4	19	anticipatory|cocaine|probabilities|smoking	#FEE188	0.299308260366114
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	5	19	alcohol|amount|impulsivity	#FECB68	0.326126833702553
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	6	19	game|success	#FEE188	0.27139294235139
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	7	19	adhd|childhood|engagement	#FECB68	0.319598145241287
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	8	19		#FDAD4A	0.459796726937708
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	9	19		#FC622F	0.61581309792269
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	10	19		#FC622F	0.697630612417262
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	11	19		#F03623	0.715235606244195
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	12	19	endogenous	#FD913D	0.568068707220525
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	13	19	cueing|invalid|orienting	#FD913D	0.553399651933813
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	14	19		#FC622F	0.671953667368553
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	15	19	multisensory	#FD913D	0.528801330848314
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	16	19		#FC622F	0.685129442237546
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	17	19	shifts	#D7141E	0.814128872577687
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	18	19	covert	#FD913D	0.574623355634262
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	19	19		#D7141E	0.866700036851609
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	20	19	preparation	#D7141E	0.836756729003186
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	21	19	discrimination|training	#F03623	0.719321584524042
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	22	19	sequences	#F03623	0.70113349993154
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	23	19		#F03623	0.789962063519353
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	1	20	personal|self|selfreferential|trait|traits	#FFFFCC	0.0948805236642874
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	2	20	empathic|theory	#FFF1A9	0.174462297780157
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	3	20	attribution|intentional	#FFF1A9	0.156584219294617
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	4	20	elderly|oscillations	#FEE188	0.227329451025389
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	5	20	antipsychotic|virtual	#FECB68	0.35030595909853
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	6	20		#FDAD4A	0.430940035838395
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	7	20	experiences	#FEE188	0.238775036152186
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	8	20	categorical|pressure	#FECB68	0.336350719000023
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	9	20	play|skills	#FDAD4A	0.409834951167359
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	10	20	automatic|trained	#FD913D	0.565760420718269
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	11	20		#D7141E	0.814905075337254
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	12	20	practice	#D7141E	0.811627583944974
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	13	20	visuomotor	#B10026	0.927548202736415
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	14	20		#D7141E	0.847458393416069
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	15	20	tool	#FC622F	0.691355381101208
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	16	20	vision	#B10026	0.920853604474999
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	17	20	visually	#F03623	0.749287068886477
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	18	20	saccade|saccades|saccadic	#D7141E	0.81548901359004
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	19	20	locations	#D7141E	0.842946300794294
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	20	20	imagery|planning	#D7141E	0.871915522900815
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	21	20		#B10026	0.903724820486522
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	22	20	rest	#FC622F	0.641475255895331
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	23	20	sequence	#F03623	0.74319069514358
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	1	21	scenarios	#FFFFCC	0.0419638445285838
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	2	21	intention|intentions	#FFF1A9	0.177258845316631
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	3	21	causality|perspective	#FEE188	0.298177355670729
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	4	21	past	#FFFFCC	0.0639144388587907
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	5	21		#FECB68	0.39693593864963
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	6	21	episode	#FEE188	0.231315122836296
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	7	21	improvement	#FDAD4A	0.40493013427691
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	8	21	masking|retention	#FECB68	0.357738386247131
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	9	21		#F03623	0.748729262251206
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	10	21	dominant	#F03623	0.70145616403603
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	11	21		#D7141E	0.828983617997314
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	12	21	sequential	#F03623	0.714279849434908
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	13	21	fingers	#F03623	0.729645620259839
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	14	21		#F03623	0.74127987759221
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	15	21	gesture|gestures	#FD913D	0.509588440112475
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	16	21		#D7141E	0.843586819523978
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	17	21	hands	#B10026	0.92350572918419
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	18	21		#B10026	0.989112401571399
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	19	21		#B10026	0.947068022696506
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	20	21	eye|position	#B10026	0.938978060903125
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	21	21	execution	#B10026	0.985754062652881
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	22	21	finger|sensorimotor	#D7141E	0.818960223291834
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	23	21		#D7141E	0.815364600562418
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	1	22	moral|stories|story	#FFFFCC	0
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	2	22	mentalizing|persons	#FFF1A9	0.118835506360562
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	3	22	default|restingstate	#FFFFCC	0.0378953792649779
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	4	22	thinking|thought|thoughts	#FEE188	0.290684986601082
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	5	22	spontaneous	#FEE188	0.233073740656068
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	6	22	concentration|sensations	#FEE188	0.255001277066846
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	7	22	hierarchical|preference	#FEE188	0.288743055989784
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	8	22	effort|oral|simulation	#FECB68	0.360091549544521
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	9	22	interhemispheric|plasticity	#FECB68	0.393608564568789
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	10	22	imagined|imagine	#D7141E	0.846332405562795
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	11	22	tapping	#FC622F	0.624871383188962
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	12	22	foot|muscle|muscles|voluntary	#FD913D	0.537619290019713
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	13	22	limb	#FC622F	0.681651055774157
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	14	22	eyes|velocity	#FD913D	0.562246539639623
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	15	22	biological|gaze|videos	#FECB68	0.315555354335559
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	16	22	body	#F03623	0.772455332131932
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	17	22	grasping|orientation|reaching	#B10026	0.921362753909098
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	18	22		#B10026	1
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	19	22	mirror|shape	#F03623	0.765494033128937
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	20	22	actions	#D7141E	0.831222057982021
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	21	22	action	#D7141E	0.827276621991466
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	22	22		#D7141E	0.874042305679415
+1fc55743-f3f9-3fb4-bab5-7ea6ab6c72ec	Lingnau A	23	22	hand|movements|sensory	#F03623	0.787395603351748

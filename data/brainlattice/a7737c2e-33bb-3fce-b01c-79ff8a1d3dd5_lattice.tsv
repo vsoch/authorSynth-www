@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	1	1	auditory|speech	#F03623	0.74958700758738
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	2	1		#F03623	0.727906094165544
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	3	1	da|integration	#D7141E	0.872977385959308
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	4	1		#FC622F	0.670082223357025
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	5	1	physical|psychophysical|tactile	#FEE188	0.200227873925143
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	6	1		#FEE188	0.266466882232613
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	7	1	somatosensory|stimulation	#FEE188	0.283411890986684
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	8	1	painful|pain	#FFFFCC	0.0602491473877167
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	9	1		#FFF1A9	0.156748313911492
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	10	1	ratings	#FECB68	0.39143916447918
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	11	1	affective|affect	#FDAD4A	0.408512954377132
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	12	1	emotions	#FD913D	0.558825422978897
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	13	1	expression|expressions|facial	#B10026	0.911731370331305
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	14	1		#B10026	0.906324658196448
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	15	1		#D7141E	0.862551498370301
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	16	1	emotion|motion|neutral	#F03623	0.753443804823928
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	17	1	rating	#FDAD4A	0.478685234126932
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	18	1	negative|positive	#FD913D	0.500997871531761
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	19	1		#FC622F	0.644693867600943
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	20	1	ear|order	#FC622F	0.647302379461229
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	21	1	motor	#FD913D	0.576438682130417
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	22	1	visual	#F03623	0.787806083953838
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	23	1	age|image|response	#FC622F	0.677968858544571
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	1	2	sound|sounds	#FD913D	0.585267511472476
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	2	2		#FC622F	0.694484042188908
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	3	2	audiovisual|bimodal|crossmodal	#B10026	0.921864777954091
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	4	2		#FC622F	0.68414740009885
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	5	2		#FDAD4A	0.490480134240345
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	6	2		#FECB68	0.30689518689633
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	7	2	sensation	#FFFFCC	0.0726305717305179
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	8	2	heat|noxious	#FFFFCC	0.0556284572927854
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	9	2		#FFF1A9	0.156560301458214
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	10	2		#FECB68	0.376832646575889
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	11	2		#FDAD4A	0.456550244541366
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	12	2	valence	#FD913D	0.574332359384738
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	13	2	person|social	#FC622F	0.643258863137787
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	14	2		#B10026	0.91049339324299
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	15	2	face|faces	#B10026	0.99379713608514
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	16	2		#D7141E	0.832218980197904
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	17	2		#F03623	0.734042040262583
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	18	2		#FC622F	0.672489412097267
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	19	2		#FC622F	0.662033353322254
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	20	2		#FC622F	0.664277997402551
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	21	2	images|spatial	#F03623	0.71754794153229
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	22	2	control	#FC622F	0.621356804540286
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	23	2	time	#FC622F	0.653869704649719
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	1	3	acoustic|listening|musical|music|pitch	#FDAD4A	0.45495537267049
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	2	3	noise|tones	#FD913D	0.553218949093338
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	3	3		#F03623	0.782976383174955
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	4	3		#F03623	0.784501142169488
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	5	3	frequency	#FD913D	0.538279615519748
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	6	3		#FD913D	0.516111711038431
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	7	3		#FFF1A9	0.162629870300902
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	8	3	temperature	#FFFFCC	0.0494293726806256
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	9	3		#FFF1A9	0.14033004797854
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	10	3	pleasant|unpleasant	#FFF1A9	0.192344191830884
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	11	3	anxiety	#FECB68	0.348408838412595
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	12	3		#FD913D	0.596123444836006
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	13	3		#F03623	0.735583370494795
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	14	3		#D7141E	0.842378544803496
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	15	3		#D7141E	0.894234360009228
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	16	3	picture	#D7141E	0.878894815674341
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	17	3		#D7141E	0.870658996242436
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	18	3	value	#FC622F	0.670862402442941
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	19	3	cue	#FD913D	0.57056728915675
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	20	3	error|target	#FD913D	0.581304795936602
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	21	3	attention	#FC622F	0.630844724986396
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	22	3		#FC622F	0.643837128763339
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	23	3	number	#FC622F	0.621064080639944
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	1	4	voice	#FD913D	0.592788436749142
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	2	4		#FC622F	0.610379959605696
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	3	4	hearing	#F03623	0.72697747277148
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	4	4		#F03623	0.702131156082961
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	5	4	overt	#FC622F	0.632035445332745
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	6	4		#FC622F	0.641917872853166
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	7	4		#FEE188	0.279606605618459
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	8	4	nociceptive|nonpainful|painrelated	#FFFFCC	0.00469704296788142
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	9	4	unpleasantness	#FFF1A9	0.144899801548119
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	10	4	skin|subjective	#FEE188	0.219033657423521
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	11	4	depression	#FDAD4A	0.42106234880604
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	12	4	experience	#FDAD4A	0.455244886899601
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	13	4	female	#FC622F	0.607994960693876
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	14	4	male	#F03623	0.71980239907336
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	15	4	pictures	#B10026	0.914522191027243
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	16	4		#B10026	0.98939639780039
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	17	4	perception	#B10026	1
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	18	4		#D7141E	0.808762562281724
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	19	4		#F03623	0.740548648994124
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	20	4		#F03623	0.700722446228699
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	21	4	correct	#FD913D	0.520141605262721
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	22	4	work	#FD913D	0.521490921538271
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	23	4	memory	#FD913D	0.550560104938842
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	1	5	prosodic|prosody	#FDAD4A	0.438958454290788
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	2	5	phonetic	#FD913D	0.553096141854501
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	3	5	syllable|syllables	#FD913D	0.561442083381012
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	4	5		#FC622F	0.687022373650094
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	5	5	lip|production	#FD913D	0.59741665240169
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	6	5	somatotopic	#FD913D	0.501168909001161
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	7	5		#FECB68	0.387489008852749
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	8	5		#FEE188	0.28048028005291
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	9	5	empathy	#FECB68	0.334724030335737
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	10	5		#FDAD4A	0.481860207335384
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	11	5	disorder	#FD913D	0.520026137125354
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	12	5		#FD913D	0.589085636547615
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	13	5		#FC622F	0.690974483252318
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	14	5		#D7141E	0.806579141923834
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	15	5		#D7141E	0.863978429796385
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	16	5		#B10026	0.948987656818317
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	17	5		#B10026	0.911035580414168
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	18	5	mental	#FC622F	0.693583095318914
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	19	5	go	#F03623	0.773557146662383
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	20	5	object	#F03623	0.792648526543519
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	21	5		#FC622F	0.69472801806219
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	22	5		#FC622F	0.65414020522458
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	23	5	word|words	#FC622F	0.651729675383851
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	1	6		#FD913D	0.552500665992536
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	2	6		#FD913D	0.56880568922628
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	3	6		#FC622F	0.666219695422633
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	4	6	vocal	#FD913D	0.59614604935004
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	5	6	articulatory	#FDAD4A	0.405680584135897
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	6	6		#FC622F	0.621926482817951
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	7	6	oddball	#FD913D	0.517985046795298
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	8	6	perceived	#FDAD4A	0.410102146862119
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	9	6	errorrelated	#FEE188	0.241662715741451
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	10	6	approach	#FDAD4A	0.491116023603678
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	11	6	schizophrenia	#FDAD4A	0.46815710328018
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	12	6	acquisition	#FD913D	0.518840779612364
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	13	6		#F03623	0.701034101651438
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	14	6		#FC622F	0.643989049339541
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	15	6		#FC622F	0.680195228942901
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	16	6		#F03623	0.719357712854912
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	17	6		#F03623	0.777218189109513
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	18	6		#F03623	0.792875098735114
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	19	6		#D7141E	0.812427868664189
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	20	6	objects	#D7141E	0.881502446526633
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	21	6		#F03623	0.76349927176625
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	22	6		#FC622F	0.67334225944629
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	23	6	language|semantic	#FC622F	0.674120095052144
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	1	7	dopamine|dopaminergic	#FFF1A9	0.138666184970459
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	2	7		#FEE188	0.208905368041058
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	3	7		#FECB68	0.345840499944867
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	4	7		#FDAD4A	0.431609250095562
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	5	7		#FDAD4A	0.433484504461676
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	6	7		#FD913D	0.542661964215904
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	7	7		#FDAD4A	0.496409570044272
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	8	7		#FDAD4A	0.433138382035968
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	9	7		#FDAD4A	0.46289115989379
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	10	7		#FD913D	0.529333167330016
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	11	7		#FD913D	0.553811604517083
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	12	7		#FD913D	0.5985127153235
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	13	7	linguistic|spoken	#FC622F	0.623498576667406
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	14	7		#FD913D	0.578707663182159
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	15	7	comprehension|sentence|sentences|syntactic	#FD913D	0.531968368700995
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	16	7		#FC622F	0.602991155405362
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	17	7		#FC622F	0.680349945079955
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	18	7	phonological|reading|read	#FC622F	0.664646272479579
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	19	7		#F03623	0.779869290048339
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	20	7	perceptual|recognition	#D7141E	0.898440986660259
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	21	7		#F03623	0.727168992413119
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	22	7		#FC622F	0.64554396981253
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	23	7	verb	#FD913D	0.560057743573225
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	1	8	outcome|reward	#FFF1A9	0.156705716798409
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	2	8	anticipation	#FFF1A9	0.143789220625891
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	3	8	outcomes	#FFF1A9	0.13653546464088
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	4	8	choice|choices	#FFF1A9	0.137787230783887
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	5	8	decisions|probability	#FECB68	0.395079161224219
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	6	8	reversal	#FECB68	0.333516218906116
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	7	8	classification|incorrect	#FECB68	0.350216845915171
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	8	8		#FDAD4A	0.427760472821865
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	9	8	agerelated|fluency|probes	#FECB68	0.365476530984692
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	10	8	engaged	#FC622F	0.606644048935941
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	11	8	explicit|knowledge	#FECB68	0.344827013718283
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	12	8		#FD913D	0.535506643380183
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	13	8		#FD913D	0.563428575231504
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	14	8		#FD913D	0.589034611187012
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	15	8		#FD913D	0.593847259844968
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	16	8		#FD913D	0.59734540357022
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	17	8	lexical	#FDAD4A	0.4949939522354
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	18	8		#FC622F	0.676373199604569
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	19	8		#F03623	0.731837170355556
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	20	8		#F03623	0.736163675865756
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	21	8	encoding	#FC622F	0.667829560003224
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	22	8	retrieval	#FDAD4A	0.446570294528907
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	23	8	verbal	#FD913D	0.511458485524517
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	1	9	incentive|monetary|money|rewards	#FFFFCC	0.067431693208803
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	2	9	loss	#FFF1A9	0.173529838707437
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	3	9		#FFF1A9	0.196630201603284
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	4	9		#FEE188	0.236223184125047
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	5	9	decisionmaking	#FFF1A9	0.148841348080742
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	6	9		#FDAD4A	0.424396803300383
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	7	9		#FDAD4A	0.423518114423653
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	8	9		#FDAD4A	0.422262557460606
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	9	9		#FDAD4A	0.431797242905745
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	10	9		#FDAD4A	0.475829916721424
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	11	9		#FDAD4A	0.495876595166518
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	12	9		#FDAD4A	0.484330334944239
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	13	9	noun	#FEE188	0.283828100247934
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	14	9	meaning	#FD913D	0.592633617343712
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	15	9	english	#FD913D	0.588592579005502
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	16	9	pseudoword|pseudowords	#FDAD4A	0.413132723725611
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	17	9		#FC622F	0.615014169588561
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	18	9		#FC622F	0.654261708892913
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	19	9	familiar|judgment	#FC622F	0.643571149130812
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	20	9	pair|pairs	#FD913D	0.523994277189484
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	21	9		#FC622F	0.606902527610839
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	22	9		#FD913D	0.556440419878384
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	23	9	letter|working	#FDAD4A	0.491136607894937
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	1	10	losses|reinforcement|win	#FFFFCC	0.0816014816191187
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	2	10	gain	#FFF1A9	0.123065418238363
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	3	10	expectation	#FFF1A9	0.174161647768483
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	4	10	risk	#FFF1A9	0.148572828659721
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	5	10	fact	#FEE188	0.237441577301751
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	6	10	associative	#FECB68	0.383344629911215
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	7	10	familiarity|judgments|old	#FDAD4A	0.410978383962317
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	8	10	contextual|text	#FEE188	0.276242426875883
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	9	10	recall|retrieved	#FEE188	0.250609193998298
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	10	10	conceptual|semantically	#FDAD4A	0.429993824857356
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	11	10	grammatical|speakers	#FDAD4A	0.487752021743158
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	12	10	nouns	#FEE188	0.295530824647417
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	13	10	japanese	#FECB68	0.388244391746294
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	14	10	languages	#FDAD4A	0.489609895363621
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	15	10	written	#F03623	0.748444128442712
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	16	10	chinese|phonology	#FD913D	0.585533117268216
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	17	10	orthographic	#FD913D	0.540459599396629
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	18	10		#FC622F	0.653603773669857
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	19	10		#FC622F	0.641885670763909
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	20	10	association|decision	#FDAD4A	0.484785584295655
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	21	10	selection	#FDAD4A	0.417794923155817
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	22	10	letters	#FD913D	0.504182456419442
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	23	10	demand|load	#FDAD4A	0.40368097933669
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	1	11	conditioned|conditioning	#FFF1A9	0.178779747895707
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	2	11		#FEE188	0.288244697530478
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	3	11	drug|placebo	#FEE188	0.298097540485777
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	4	11		#FDAD4A	0.481869983955439
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	5	11	associations	#FDAD4A	0.445781948679758
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	6	11		#FD913D	0.533220101794913
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	7	11	episodic|recollection	#FEE188	0.281650564221548
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	8	11		#FD913D	0.50679290781473
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	9	11		#FD913D	0.510530966024925
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	10	11	concepts	#FEE188	0.269379969543075
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	11	11		#FD913D	0.549554440643356
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	12	11		#FD913D	0.574507042360301
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	13	11	german	#FD913D	0.512085950770442
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	14	11	readers	#FDAD4A	0.481556684966872
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	15	11	character|name|naming	#FC622F	0.615926564360462
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	16	11		#FC622F	0.683207204416947
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	17	11	novel	#FC622F	0.681937608596358
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	18	11		#FC622F	0.660360834653412
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	19	11	child|children	#FD913D	0.587930949557016
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	20	11	adults	#FC622F	0.62451599582356
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	21	11	ability|feedback|learning	#FD913D	0.539036215864703
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	22	11	cues|delay	#FD913D	0.50813427807098
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	23	11	attentional|difficulty|targets	#FDAD4A	0.438230308377801
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	1	12	aversive|shock	#FEE188	0.217137402861401
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	2	12	reactivity	#FEE188	0.278226313679289
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	3	12	males|sex|women	#FDAD4A	0.454671308934844
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	4	12	animal	#FDAD4A	0.41998351383643
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	5	12	animals	#FDAD4A	0.445950777194061
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	6	12		#FC622F	0.602867041535416
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	7	12	remember|subsequent	#FD913D	0.512861094934017
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	8	12	autobiographical|memories	#FEE188	0.267798943270355
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	9	12		#FD913D	0.526461652672362
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	10	12	violation|violations	#FDAD4A	0.400515187471432
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	11	12	aphasia	#FD913D	0.507182955083659
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	12	12	nonwords	#FC622F	0.617207516751807
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	13	12	dyslexia	#FD913D	0.536003509570108
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	14	12		#F03623	0.758043547606558
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	15	12	priming	#F03623	0.779054722758766
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	16	12		#F03623	0.749342006114517
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	17	12	category|repetition	#FC622F	0.692841236104168
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	18	12		#FC622F	0.665461462444208
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	19	12	developmental|development	#FD913D	0.580040455047041
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	20	12		#FC622F	0.654210369810998
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	21	12	space	#F03623	0.716365643928168
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	22	12		#FD913D	0.503132496648398
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	23	12	color	#FDAD4A	0.494382290426933
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	1	13	threat	#FDAD4A	0.419915744052364
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	2	13	regulation	#FECB68	0.361805704805848
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	3	13		#FDAD4A	0.484300742624901
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	4	13	masked	#FDAD4A	0.407759253020564
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	5	13	scene|scenes	#FD913D	0.5937640317133
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	6	13		#FC622F	0.65712947842492
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	7	13	confidence|remembered	#FDAD4A	0.453476874622006
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	8	13		#FC622F	0.632833107514975
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	9	13		#FD913D	0.569605763287133
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	10	13	ambiguity|ambiguous	#FEE188	0.257698362053738
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	11	13		#FC622F	0.655499430497479
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	12	13		#D7141E	0.837976310873146
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	13	13	writing	#F03623	0.778311631542584
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	14	13		#D7141E	0.863770932500109
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	15	13	categorization|congruency|prime	#D7141E	0.867921654631488
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	16	13		#F03623	0.746616869664887
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	17	13	mask	#FD913D	0.552939281127047
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	18	13		#FC622F	0.644065336982712
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	19	13		#FD913D	0.580922410481383
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	20	13		#FD913D	0.586390392754918
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	21	13	conflict|congruent|incongruent	#FDAD4A	0.497295903661302
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	22	13	errors	#FDAD4A	0.424271030791522
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	23	13	maintenance|probe|wm	#FECB68	0.310447702178522
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	1	14	angry|fearful|happy	#FC622F	0.630742812344621
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	2	14		#FD913D	0.538291031353755
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	3	14	awareness|conscious|ptsd	#FEE188	0.246808063514239
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	4	14		#FC622F	0.614446962692365
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	5	14	houses|photographs	#FD913D	0.522634396098687
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	6	14		#FC622F	0.683779624477753
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	7	14	hits	#FD913D	0.532272432762935
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	8	14	famous	#FC622F	0.682501827756611
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	9	14	names	#FFF1A9	0.172152102776617
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	10	14	family	#FD913D	0.539048011305293
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	11	14	competition|mouth	#D7141E	0.892359813389123
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	12	14	abilities	#F03623	0.775005063291475
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	13	14	implicit|unfamiliar	#F03623	0.713535969631128
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	14	14		#B10026	0.92039528592357
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	15	14	tom	#FC622F	0.683246823343835
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	16	14		#F03623	0.712978828217676
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	17	14		#FD913D	0.558599230159837
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	18	14	stop	#FDAD4A	0.498428367990059
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	19	14	inhibition|inhibitory|nogo	#FECB68	0.374512911551429
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	20	14	monitoring|stroop	#FECB68	0.323052345919911
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	21	14	interference	#FDAD4A	0.452247944196509
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	22	14		#FDAD4A	0.421426583545602
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	23	14	demands|executive	#FECB68	0.344535499348232
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	1	15	anger	#FDAD4A	0.495922088411229
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	2	15	stress	#FECB68	0.374357837470798
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	3	15	feelings	#FEE188	0.239054216718528
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	4	15	salient	#FDAD4A	0.439405466887616
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	5	15	novelty	#FD913D	0.545981865091542
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	6	15	movie	#FEE188	0.270847049257382
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	7	15		#FC622F	0.613723635284526
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	8	15		#FD913D	0.566849207476035
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	9	15	longterm	#FEE188	0.214336026063094
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	10	15		#FD913D	0.56804674736664
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	11	15	reasoning|relational	#FECB68	0.311684101709995
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	12	15		#F03623	0.793028167087376
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	13	15	presentations	#FC622F	0.606951041456467
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	14	15		#D7141E	0.883631913233223
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	15	15	identity	#D7141E	0.88950036471579
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	16	15		#FC622F	0.671907737787651
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	17	15	strategies|strategy	#FECB68	0.312209631136592
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	18	15	card|cards	#FEE188	0.256992031994775
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	19	15	gonogo	#FDAD4A	0.403041894652055
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	20	15		#FDAD4A	0.42358295026562
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	21	15	switching|switch	#FEE188	0.262463939803396
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	22	15		#FECB68	0.360828220930775
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	23	15	2back|rule	#FEE188	0.281262356454432
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	1	16	emotionally|mood|personality|sadness	#FD913D	0.518715522085236
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	2	16	disgust|sexual	#FDAD4A	0.41500615943498
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	3	16	olfactory	#FEE188	0.218003218062965
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	4	16	physiological	#FECB68	0.31197604443021
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	5	16	depressed|depressive|habituation	#FECB68	0.299738226671083
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	6	16	schizophrenic	#FEE188	0.273098229476155
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	7	16	colors|contexts	#FECB68	0.304062048428349
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	8	16	aging|encoded	#FECB68	0.32145282132773
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	9	16	goal	#FFF1A9	0.19530526658553
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	10	16		#FD913D	0.500883726441118
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	11	16	autism|autistic|nonverbal	#FD913D	0.559484481175715
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	12	16		#FC622F	0.681137543234595
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	13	16	bottomup|repetitions	#FC622F	0.656270375601028
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	14	16	adaptation	#F03623	0.772140555580073
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	15	16	irrelevant	#FD913D	0.543214079459482
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	16	16	distractor|distractors	#FD913D	0.524705325776778
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	17	16		#FDAD4A	0.483797238563896
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	18	16	subtraction	#FFF1A9	0.163786386322669
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	19	16	1back|nback	#FFF1A9	0.192066219750264
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	20	16	manipulation|rules	#FDAD4A	0.482161422788663
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	21	16		#FDAD4A	0.408976668751016
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	22	16		#FECB68	0.334251100765671
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	23	16	digit	#FECB68	0.332308704425976
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	1	17	avoidance	#FEE188	0.212107762476604
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	2	17		#FDAD4A	0.405310866520922
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	3	17	eating|food	#FECB68	0.326182738554242
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	4	17	taste	#FEE188	0.229240091074858
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	5	17	bipolar	#FDAD4A	0.41636980251479
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	6	17	illness|uncertainty	#FEE188	0.260236800343362
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	7	17	females|probabilistic	#FEE188	0.23756143586696
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	8	17	rejection	#FFFFCC	0.0775852783626384
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	9	17	colour|paired	#FDAD4A	0.418392610254032
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	10	17		#FD913D	0.502781934409203
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	11	17		#FD913D	0.555420652954894
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	12	17		#FC622F	0.611369391851642
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	13	17	taskirrelevant	#FDAD4A	0.484372817215212
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	14	17		#FC622F	0.6745370079122
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	15	17	suppression	#FDAD4A	0.436232433460615
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	16	17		#FD913D	0.5978528057782
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	17	17	shifting|shortterm	#FECB68	0.325566815883489
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	18	17	digits	#FEE188	0.278102450899531
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	19	17	search	#FDAD4A	0.406205313111581
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	20	17	counting|taskrelated	#FDAD4A	0.451111303301015
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	21	17	topdown	#FD913D	0.510569280324738
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	22	17	visuospatial	#FECB68	0.30884096238059
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	23	17	arithmetic|calculation|solving	#FEE188	0.214533137238485
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	1	18	addiction|craving|drugs	#FEE188	0.233963949498041
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	2	18	allele|genotype|polymorphism	#FEE188	0.273094625726009
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	3	18	motivation	#FFF1A9	0.157181426814088
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	4	18	heart	#FEE188	0.265833969337324
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	5	18	sleep	#FECB68	0.326565169457739
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	6	18	expectancy	#FECB68	0.336024948531307
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	7	18	phasic|salience	#FEE188	0.204925486345639
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	8	18	adolescence|adolescents	#FECB68	0.344485943511948
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	9	18	intelligence|tracking	#FDAD4A	0.467140309958634
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	10	18		#FD913D	0.575079721154337
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	11	18	serial	#FECB68	0.357215397972001
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	12	18		#FD913D	0.570965445899227
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	13	18	spatially|taskrelevant	#FDAD4A	0.494407436171763
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	14	18		#FC622F	0.644924633915215
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	15	18	attended|attend|unattended	#FD913D	0.550188505834273
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	16	18	rotation|shapes	#FD913D	0.567773013846707
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	17	18	rehearsal	#FECB68	0.365017002609529
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	18	18	learned	#FFF1A9	0.140077846208163
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	19	18		#FDAD4A	0.468204545311366
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	20	18	cued|preparatory	#FDAD4A	0.439211967167187
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	21	18		#FD913D	0.551092116301358
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	22	18		#FDAD4A	0.472919280152369
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	23	18	numbers|numerical	#FEE188	0.278755819712189
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	1	19	future	#FEE188	0.255334327587957
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	2	19	negatively	#FEE188	0.237358534294651
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	3	19	distress|epilepsy|selfreported	#FECB68	0.369169349650307
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	4	19	anticipatory|cocaine|probabilities|smoking	#FDAD4A	0.427042352735317
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	5	19	alcohol|amount|impulsivity	#FEE188	0.23736104157227
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	6	19	game|success	#FFF1A9	0.146015720752897
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	7	19	adhd|childhood|engagement	#FECB68	0.30199144227368
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	8	19		#FD913D	0.525570035565187
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	9	19		#FC622F	0.610343079940661
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	10	19		#FD913D	0.589599801976021
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	11	19		#FD913D	0.573583478729372
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	12	19	endogenous	#FDAD4A	0.468318869048852
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	13	19	cueing|invalid|orienting	#FECB68	0.370620154990901
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	14	19		#FC622F	0.666902206623521
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	15	19	multisensory	#F03623	0.702711604071876
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	16	19		#FC622F	0.648459557191448
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	17	19	shifts	#FDAD4A	0.49446902220795
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	18	19	covert	#FD913D	0.509101084716789
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	19	19		#FDAD4A	0.461143290944966
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	20	19	preparation	#FDAD4A	0.444769655980974
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	21	19	discrimination|training	#FC622F	0.60933677082421
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	22	19	sequences	#F03623	0.743849576336821
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	23	19		#FC622F	0.641179517965125
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	1	20	personal|self|selfreferential|trait|traits	#FFF1A9	0.139426024285941
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	2	20	empathic|theory	#FDAD4A	0.46842847014024
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	3	20	attribution|intentional	#FEE188	0.233283139147696
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	4	20	elderly|oscillations	#FFFFCC	0.0659490343702314
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	5	20	antipsychotic|virtual	#FFF1A9	0.13604035880757
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	6	20		#FDAD4A	0.422173192201043
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	7	20	experiences	#FFF1A9	0.111991445872206
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	8	20	categorical|pressure	#FD913D	0.566233412654091
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	9	20	play|skills	#FECB68	0.305199750670654
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	10	20	automatic|trained	#FDAD4A	0.41278241721545
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	11	20		#FC622F	0.669900210277333
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	12	20	practice	#FD913D	0.564743674503729
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	13	20	visuomotor	#FDAD4A	0.490816879883256
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	14	20		#FC622F	0.695313548832304
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	15	20	tool	#FDAD4A	0.452820467572007
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	16	20	vision	#FFF1A9	0.190781311740994
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	17	20	visually	#FD913D	0.562746870919538
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	18	20	saccade|saccades|saccadic	#FECB68	0.337943351216856
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	19	20	locations	#FECB68	0.353024291353844
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	20	20	imagery|planning	#FDAD4A	0.438277492095892
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	21	20		#FC622F	0.619563304849329
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	22	20	rest	#FC622F	0.666720187438449
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	23	20	sequence	#FC622F	0.69049833023095
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	1	21	scenarios	#FFF1A9	0.158354671098168
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	2	21	intention|intentions	#FECB68	0.343779250981531
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	3	21	causality|perspective	#FFFFCC	0.0960670880133935
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	4	21	past	#FFFFCC	0.0383136609064785
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	5	21		#FECB68	0.387926353670395
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	6	21	episode	#FEE188	0.263920653062022
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	7	21	improvement	#FDAD4A	0.451083308559869
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	8	21	masking|retention	#FEE188	0.220023091267351
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	9	21		#FC622F	0.602217930619036
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	10	21	dominant	#FD913D	0.572432761959888
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	11	21		#FC622F	0.617912783251687
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	12	21	sequential	#FC622F	0.674390000662551
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	13	21	fingers	#FDAD4A	0.423911133975246
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	14	21		#F03623	0.774092339291971
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	15	21	gesture|gestures	#FD913D	0.589272875726312
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	16	21		#FC622F	0.625539551091333
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	17	21	hands	#FEE188	0.285496885891575
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	18	21		#FDAD4A	0.499432590543087
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	19	21		#FD913D	0.572648780052698
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	20	21	eye|position	#FDAD4A	0.472966118862062
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	21	21	execution	#FD913D	0.554451252935263
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	22	21	finger|sensorimotor	#FDAD4A	0.488743560063504
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	23	21		#FD913D	0.583850797334767
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	1	22	moral|stories|story	#FEE188	0.258504916277186
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	2	22	mentalizing|persons	#FD913D	0.549948227790259
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	3	22	default|restingstate	#FFFFCC	0
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	4	22	thinking|thought|thoughts	#FECB68	0.304658652710542
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	5	22	spontaneous	#FFF1A9	0.1742841595294
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	6	22	concentration|sensations	#FECB68	0.300854212462662
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	7	22	hierarchical|preference	#FECB68	0.350034395477034
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	8	22	effort|oral|simulation	#FC622F	0.630244346308406
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	9	22	interhemispheric|plasticity	#FECB68	0.328058533872865
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	10	22	imagined|imagine	#FECB68	0.382742665617643
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	11	22	tapping	#FDAD4A	0.488859866338743
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	12	22	foot|muscle|muscles|voluntary	#FECB68	0.363514182057886
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	13	22	limb	#FECB68	0.345366382361854
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	14	22	eyes|velocity	#FD913D	0.532608515265005
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	15	22	biological|gaze|videos	#D7141E	0.8054599051932
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	16	22	body	#FD913D	0.563583181716164
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	17	22	grasping|orientation|reaching	#FECB68	0.309602608719857
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	18	22		#FD913D	0.511054662911951
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	19	22	mirror|shape	#D7141E	0.812852400709485
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	20	22	actions	#FC622F	0.698209991597887
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	21	22	action	#FC622F	0.669210176486933
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	22	22		#FD913D	0.567389338797988
+a7737c2e-33bb-3fce-b01c-79ff8a1d3dd5	Dietrich S	23	22	hand|movements|sensory	#FD913D	0.505037548872162

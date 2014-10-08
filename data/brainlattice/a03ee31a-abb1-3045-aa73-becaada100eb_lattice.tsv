@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	1	1	auditory|speech	#FECB68	0.313726441195402
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	2	1		#FECB68	0.329674037352424
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	3	1	da|integration	#FC622F	0.603140197977121
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	4	1		#FC622F	0.700062791441301
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	5	1	physical|psychophysical|tactile	#F03623	0.783420295845486
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	6	1		#B10026	0.962433560457378
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	7	1	somatosensory|stimulation	#B10026	0.96390053289872
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	8	1	painful|pain	#B10026	0.973415526346311
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	9	1		#B10026	0.972416949895407
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	10	1	ratings	#F03623	0.7128769916013
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	11	1	affective|affect	#FDAD4A	0.489497317749166
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	12	1	emotions	#FD913D	0.549757998235749
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	13	1	expression|expressions|facial	#FD913D	0.530843506388773
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	14	1		#FD913D	0.535137380775286
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	15	1		#FD913D	0.514102015947063
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	16	1	emotion|motion|neutral	#FDAD4A	0.482454952373425
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	17	1	rating	#FD913D	0.540955553859018
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	18	1	negative|positive	#FEE188	0.295250110777918
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	19	1		#FECB68	0.372659274590524
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	20	1	ear|order	#FECB68	0.305039624420374
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	21	1	motor	#FDAD4A	0.466090428338563
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	22	1	visual	#FDAD4A	0.400749777609574
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	23	1	age|image|response	#FECB68	0.35385441676353
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	1	2	sound|sounds	#FEE188	0.267565525721145
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	2	2		#FEE188	0.298253610877016
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	3	2	audiovisual|bimodal|crossmodal	#FECB68	0.377975273775969
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	4	2		#FC622F	0.675771061409678
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	5	2		#F03623	0.799178256253194
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	6	2		#B10026	0.941312029968914
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	7	2	sensation	#B10026	0.9163471870326
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	8	2	heat|noxious	#B10026	0.949340739625349
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	9	2		#B10026	0.969617293057101
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	10	2		#F03623	0.768739910101519
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	11	2		#FC622F	0.688609186584469
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	12	2	valence	#FDAD4A	0.49395961065571
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	13	2	person|social	#FDAD4A	0.4272133097868
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	14	2		#FD913D	0.555004530233744
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	15	2	face|faces	#FDAD4A	0.417154782949185
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	16	2		#FD913D	0.527562161181692
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	17	2		#FDAD4A	0.481277256263041
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	18	2		#FDAD4A	0.443936745652385
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	19	2		#FDAD4A	0.405401844894131
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	20	2		#FDAD4A	0.410521587600798
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	21	2	images|spatial	#FECB68	0.389623013363958
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	22	2	control	#FECB68	0.369099041281469
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	23	2	time	#FECB68	0.3499606711028
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	1	3	acoustic|listening|musical|music|pitch	#FFF1A9	0.156161633082384
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	2	3	noise|tones	#FEE188	0.225542098676184
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	3	3		#FDAD4A	0.40468933647731
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	4	3		#FD913D	0.556268883590441
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	5	3	frequency	#FC622F	0.6317919703156
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	6	3		#D7141E	0.873902898238535
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	7	3		#B10026	0.977153134871052
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	8	3	temperature	#F03623	0.729260890414431
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	9	3		#B10026	0.971880872744656
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	10	3	pleasant|unpleasant	#D7141E	0.805369639699254
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	11	3	anxiety	#FD913D	0.590277311853509
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	12	3		#FC622F	0.673428211461734
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	13	3		#FC622F	0.676008427006486
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	14	3		#FC622F	0.620568252572161
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	15	3		#FC622F	0.621358370583648
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	16	3	picture	#FD913D	0.570761133801747
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	17	3		#FD913D	0.553211622674216
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	18	3	value	#FD913D	0.511153128141101
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	19	3	cue	#FECB68	0.386087952628875
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	20	3	error|target	#FDAD4A	0.436689323241079
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	21	3	attention	#FECB68	0.379447579477202
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	22	3		#FEE188	0.283662002307407
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	23	3	number	#FEE188	0.253005662682558
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	1	4	voice	#FFF1A9	0.175361856809491
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	2	4		#FFF1A9	0.194710542104906
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	3	4	hearing	#FEE188	0.27362857126655
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	4	4		#FDAD4A	0.47931439928478
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	5	4	overt	#FC622F	0.603444870015463
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	6	4		#FC622F	0.688433706702003
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	7	4		#B10026	0.989033526240205
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	8	4	nociceptive|nonpainful|painrelated	#B10026	1
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	9	4	unpleasantness	#B10026	0.905169926364901
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	10	4	skin|subjective	#F03623	0.792535396930462
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	11	4	depression	#FD913D	0.591968760074671
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	12	4	experience	#F03623	0.718710023396625
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	13	4	female	#F03623	0.73693567179241
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	14	4	male	#FC622F	0.658952790386981
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	15	4	pictures	#FC622F	0.653014070131905
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	16	4		#FC622F	0.648833268037904
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	17	4	perception	#FC622F	0.682819693235492
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	18	4		#FD913D	0.500862580095708
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	19	4		#FDAD4A	0.440264468715897
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	20	4		#FECB68	0.393735741348968
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	21	4	correct	#FEE188	0.223722509844609
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	22	4	work	#FEE188	0.216134899679742
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	23	4	memory	#FFF1A9	0.107043875933055
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	1	5	prosodic|prosody	#FFFFCC	0.0748369618651666
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	2	5	phonetic	#FFF1A9	0.158130159888769
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	3	5	syllable|syllables	#FFF1A9	0.164928490015228
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	4	5		#FDAD4A	0.427510680862122
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	5	5	lip|production	#FDAD4A	0.429745049118074
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	6	5	somatotopic	#FC622F	0.612197330598765
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	7	5		#B10026	0.923347298268829
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	8	5		#B10026	0.902833558083882
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	9	5	empathy	#D7141E	0.83474635392824
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	10	5		#F03623	0.700966720453314
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	11	5	disorder	#FD913D	0.525163345549966
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	12	5		#FC622F	0.64003358277335
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	13	5		#FD913D	0.595045398737706
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	14	5		#FD913D	0.523451607648946
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	15	5		#FD913D	0.523757262934949
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	16	5		#FD913D	0.539038213532373
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	17	5		#FDAD4A	0.480542696903683
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	18	5	mental	#FECB68	0.36288181945114
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	19	5	go	#FECB68	0.396383803669879
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	20	5	object	#FECB68	0.360953766578482
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	21	5		#FEE188	0.286159818872483
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	22	5		#FFF1A9	0.161673434411037
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	23	5	word|words	#FFFFCC	0.0771606937994092
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	1	6		#FEE188	0.297624816543551
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	2	6		#FEE188	0.290930628815454
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	3	6		#FECB68	0.39335741891241
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	4	6	vocal	#FDAD4A	0.446718449607977
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	5	6	articulatory	#FEE188	0.210523721771843
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	6	6		#FD913D	0.542476022744144
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	7	6	oddball	#F03623	0.720809862810722
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	8	6	perceived	#F03623	0.710280103790724
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	9	6	errorrelated	#FD913D	0.522520747984978
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	10	6	approach	#FDAD4A	0.473923728338923
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	11	6	schizophrenia	#FD913D	0.50066130094159
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	12	6	acquisition	#FDAD4A	0.470693543306741
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	13	6		#FECB68	0.394436912580405
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	14	6		#FFF1A9	0.199220487213149
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	15	6		#FEE188	0.217998982402408
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	16	6		#FEE188	0.249625060419546
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	17	6		#FECB68	0.347053935124576
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	18	6		#FECB68	0.376990327388247
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	19	6		#FECB68	0.393716728133941
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	20	6	objects	#FD913D	0.513197366996967
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	21	6		#FECB68	0.300775624119065
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	22	6		#FFF1A9	0.158374056423453
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	23	6	language|semantic	#FFFFCC	0.0847129800185704
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	1	7	dopamine|dopaminergic	#FEE188	0.283643286125059
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	2	7		#FECB68	0.327692614727252
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	3	7		#FECB68	0.394762169478702
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	4	7		#FDAD4A	0.410320746107685
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	5	7		#FDAD4A	0.410901289659075
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	6	7		#FDAD4A	0.440745110194711
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	7	7		#FDAD4A	0.495221319009602
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	8	7		#FDAD4A	0.44325210852114
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	9	7		#FD913D	0.501033012887185
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	10	7		#FECB68	0.398570396873012
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	11	7		#FECB68	0.386353476618081
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	12	7		#FECB68	0.344679512857367
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	13	7	linguistic|spoken	#FFF1A9	0.159493674440874
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	14	7		#FFF1A9	0.12762352319453
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	15	7	comprehension|sentence|sentences|syntactic	#FFFFCC	0.0573127721108314
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	16	7		#FFF1A9	0.152300151596567
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	17	7		#FEE188	0.276879979488827
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	18	7	phonological|reading|read	#FEE188	0.270609188741022
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	19	7		#FECB68	0.378035859041982
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	20	7	perceptual|recognition	#FDAD4A	0.411000641056741
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	21	7		#FECB68	0.304736790823285
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	22	7		#FFF1A9	0.172931331864456
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	23	7	verb	#FFF1A9	0.158510149883273
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	1	8	outcome|reward	#FECB68	0.330954101405694
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	2	8	anticipation	#FECB68	0.327310392355444
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	3	8	outcomes	#FEE188	0.27072195829836
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	4	8	choice|choices	#FEE188	0.232234571284259
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	5	8	decisions|probability	#FECB68	0.308227423717639
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	6	8	reversal	#FECB68	0.315132369491226
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	7	8	classification|incorrect	#FEE188	0.205867590387902
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	8	8		#FEE188	0.255747511555143
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	9	8	agerelated|fluency|probes	#FFF1A9	0.170791865627977
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	10	8	engaged	#FEE188	0.209331981003525
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	11	8	explicit|knowledge	#FEE188	0.262737456736402
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	12	8		#FEE188	0.236080046399555
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	13	8		#FFF1A9	0.173372863553675
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	14	8		#FFF1A9	0.127133653303052
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	15	8		#FFF1A9	0.126026141819797
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	16	8		#FFF1A9	0.156616240136229
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	17	8	lexical	#FEE188	0.231942796571798
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	18	8		#FECB68	0.319509286531748
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	19	8		#FECB68	0.359978864968666
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	20	8		#FECB68	0.365186795469629
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	21	8	encoding	#FEE188	0.219541656093431
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	22	8	retrieval	#FFFFCC	0.0805425516156398
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	23	8	verbal	#FEE188	0.221057149651224
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	1	9	incentive|monetary|money|rewards	#FEE188	0.210642068919033
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	2	9	loss	#FECB68	0.322375983034593
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	3	9		#FECB68	0.348354628158066
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	4	9		#FECB68	0.346323694558545
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	5	9	decisionmaking	#FEE188	0.271608178698797
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	6	9		#FEE188	0.257792665653405
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	7	9		#FEE188	0.21911043698204
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	8	9		#FEE188	0.202638772400762
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	9	9		#FFF1A9	0.19419232475065
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	10	9		#FEE188	0.223941214470804
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	11	9		#FEE188	0.21923368749751
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	12	9		#FEE188	0.203122525705115
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	13	9	noun	#FFF1A9	0.103106862402994
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	14	9	meaning	#FFF1A9	0.145701025089743
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	15	9	english	#FFF1A9	0.169155673768095
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	16	9	pseudoword|pseudowords	#FFF1A9	0.149831293040311
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	17	9		#FEE188	0.266126362014707
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	18	9		#FECB68	0.340146984790581
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	19	9	familiar|judgment	#FECB68	0.357875701863471
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	20	9	pair|pairs	#FECB68	0.372947252104584
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	21	9		#FECB68	0.392133986161513
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	22	9		#FECB68	0.347545043245514
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	23	9	letter|working	#FECB68	0.323306189041772
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	1	10	losses|reinforcement|win	#FEE188	0.261119687041437
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	2	10	gain	#FD913D	0.505064052307664
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	3	10	expectation	#FECB68	0.31562675094633
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	4	10	risk	#FECB68	0.364958638683172
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	5	10	fact	#FECB68	0.345981488209143
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	6	10	associative	#FFF1A9	0.163807539567031
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	7	10	familiarity|judgments|old	#FFF1A9	0.190380967296642
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	8	10	contextual|text	#FFFFCC	0.0916452385081517
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	9	10	recall|retrieved	#FFF1A9	0.162605056085022
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	10	10	conceptual|semantically	#FFF1A9	0.168749197828363
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	11	10	grammatical|speakers	#FFF1A9	0.152598326934435
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	12	10	nouns	#FFF1A9	0.140448625588651
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	13	10	japanese	#FFF1A9	0.126687015503621
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	14	10	languages	#FFF1A9	0.167983728780204
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	15	10	written	#FEE188	0.201573389417902
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	16	10	chinese|phonology	#FEE188	0.277856247913584
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	17	10	orthographic	#FEE188	0.253986906318459
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	18	10		#FECB68	0.368486705364932
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	19	10		#FECB68	0.390450597988841
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	20	10	association|decision	#FECB68	0.380339576259626
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	21	10	selection	#FECB68	0.399414658582152
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	22	10	letters	#FDAD4A	0.428023089057389
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	23	10	demand|load	#FECB68	0.350605765662991
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	1	11	conditioned|conditioning	#FD913D	0.531967622935865
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	2	11		#FC622F	0.613509316233925
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	3	11	drug|placebo	#FDAD4A	0.420529143347179
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	4	11		#FD913D	0.51527850830486
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	5	11	associations	#FDAD4A	0.438263022484334
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	6	11		#FEE188	0.235964169980364
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	7	11	episodic|recollection	#FFFFCC	0.0856211838959153
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	8	11		#FFF1A9	0.180981042508246
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	9	11		#FEE188	0.240894140237807
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	10	11	concepts	#FFF1A9	0.116261919800537
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	11	11		#FEE188	0.216915423707674
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	12	11		#FFF1A9	0.189429170941416
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	13	11	german	#FFF1A9	0.1494119693899
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	14	11	readers	#FFF1A9	0.147407080606653
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	15	11	character|name|naming	#FECB68	0.387173392788003
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	16	11		#FECB68	0.365879781573481
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	17	11	novel	#FECB68	0.384375813776123
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	18	11		#FDAD4A	0.402079308403019
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	19	11	child|children	#FECB68	0.352145705293462
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	20	11	adults	#FDAD4A	0.433716994529263
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	21	11	ability|feedback|learning	#FDAD4A	0.479016478763572
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	22	11	cues|delay	#FDAD4A	0.481575190279593
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	23	11	attentional|difficulty|targets	#FD913D	0.548388684012336
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	1	12	aversive|shock	#F03623	0.706287787387272
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	2	12	reactivity	#FDAD4A	0.491703104188564
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	3	12	males|sex|women	#FDAD4A	0.494727997196805
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	4	12	animal	#FDAD4A	0.425641539518089
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	5	12	animals	#FEE188	0.294414734472125
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	6	12		#FEE188	0.2784944672786
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	7	12	remember|subsequent	#FFF1A9	0.120087320447829
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	8	12	autobiographical|memories	#FFFFCC	0
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	9	12		#FEE188	0.249641357658947
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	10	12	violation|violations	#FFF1A9	0.116095065957861
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	11	12	aphasia	#FEE188	0.222525483082854
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	12	12	nonwords	#FFF1A9	0.136018243245503
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	13	12	dyslexia	#FFF1A9	0.129404981897952
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	14	12		#FECB68	0.381785392629205
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	15	12	priming	#FDAD4A	0.460074005687493
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	16	12		#FD913D	0.504419518860794
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	17	12	category|repetition	#FDAD4A	0.481127672315323
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	18	12		#FDAD4A	0.461252019775503
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	19	12	developmental|development	#FECB68	0.376168336782816
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	20	12		#FDAD4A	0.478231180452917
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	21	12	space	#FD913D	0.507777733088266
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	22	12		#FDAD4A	0.478399970154592
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	23	12	color	#FD913D	0.524255965787413
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	1	13	threat	#FDAD4A	0.421165431325901
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	2	13	regulation	#FDAD4A	0.492645276567018
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	3	13		#FD913D	0.534373773596528
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	4	13	masked	#FDAD4A	0.434603870622688
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	5	13	scene|scenes	#FECB68	0.341274017748626
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	6	13		#FEE188	0.285532240333909
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	7	13	confidence|remembered	#FFF1A9	0.153275703078979
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	8	13		#FEE188	0.218306281509658
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	9	13		#FEE188	0.268489907920269
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	10	13	ambiguity|ambiguous	#FEE188	0.248457344605474
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	11	13		#FEE188	0.285408867301181
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	12	13		#FECB68	0.322533759401819
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	13	13	writing	#FEE188	0.273074209628635
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	14	13		#FDAD4A	0.456592401041479
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	15	13	categorization|congruency|prime	#FDAD4A	0.456964446593927
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	16	13		#FD913D	0.542185907827221
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	17	13	mask	#FC622F	0.615180952462224
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	18	13		#FDAD4A	0.49858254879126
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	19	13		#FDAD4A	0.458008914899848
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	20	13		#FDAD4A	0.49364192356153
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	21	13	conflict|congruent|incongruent	#FD913D	0.544744828498629
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	22	13	errors	#FDAD4A	0.434148770787321
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	23	13	maintenance|probe|wm	#FECB68	0.335277287834901
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	1	14	angry|fearful|happy	#FECB68	0.319375424319006
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	2	14		#FDAD4A	0.404438766588089
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	3	14	awareness|conscious|ptsd	#FECB68	0.361032961914181
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	4	14		#FDAD4A	0.473027235767809
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	5	14	houses|photographs	#FECB68	0.391842347868403
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	6	14		#FECB68	0.382072855679854
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	7	14	hits	#FFF1A9	0.192663075035631
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	8	14	famous	#FEE188	0.228777287627782
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	9	14	names	#FFFFCC	0.080133528882205
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	10	14	family	#FEE188	0.207436723887497
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	11	14	competition|mouth	#FDAD4A	0.456212564958518
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	12	14	abilities	#FEE188	0.281436177445556
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	13	14	implicit|unfamiliar	#FDAD4A	0.413708547512746
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	14	14		#FD913D	0.533856565476117
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	15	14	tom	#FDAD4A	0.498198907089801
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	16	14		#FD913D	0.589564408782438
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	17	14		#FD913D	0.517610078311463
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	18	14	stop	#FDAD4A	0.410410439267719
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	19	14	inhibition|inhibitory|nogo	#FDAD4A	0.463105050764328
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	20	14	monitoring|stroop	#FDAD4A	0.442744209422756
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	21	14	interference	#FDAD4A	0.411973005940719
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	22	14		#FDAD4A	0.433187262425073
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	23	14	demands|executive	#FECB68	0.327274159811263
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	1	15	anger	#FEE188	0.255560334209926
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	2	15	stress	#FECB68	0.383923273683592
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	3	15	feelings	#FDAD4A	0.474536533264432
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	4	15	salient	#FDAD4A	0.436573947531765
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	5	15	novelty	#FFF1A9	0.197150789826989
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	6	15	movie	#FDAD4A	0.403195027925382
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	7	15		#FECB68	0.310374530354466
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	8	15		#FECB68	0.315687348490357
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	9	15	longterm	#FECB68	0.3438377717074
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	10	15		#FECB68	0.372129020233859
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	11	15	reasoning|relational	#FFF1A9	0.104476379309788
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	12	15		#FDAD4A	0.445322288816428
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	13	15	presentations	#FECB68	0.37029903148856
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	14	15		#FD913D	0.575977558446511
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	15	15	identity	#FD913D	0.597263955257722
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	16	15		#FD913D	0.550941427149536
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	17	15	strategies|strategy	#FDAD4A	0.433860352385123
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	18	15	card|cards	#FFF1A9	0.163592859894105
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	19	15	gonogo	#FDAD4A	0.434606430852028
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	20	15		#FDAD4A	0.458114816853049
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	21	15	switching|switch	#FDAD4A	0.43021360897128
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	22	15		#FDAD4A	0.429678905355206
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	23	15	2back|rule	#FEE188	0.259598742158323
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	1	16	emotionally|mood|personality|sadness	#FEE188	0.243233284592584
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	2	16	disgust|sexual	#FD913D	0.546806931578474
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	3	16	olfactory	#FDAD4A	0.491863308241039
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	4	16	physiological	#FDAD4A	0.426423726322597
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	5	16	depressed|depressive|habituation	#FECB68	0.335624916216122
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	6	16	schizophrenic	#FFF1A9	0.140780157398809
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	7	16	colors|contexts	#FFFFCC	0.0961070603355714
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	8	16	aging|encoded	#FFF1A9	0.169978153439271
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	9	16	goal	#FEE188	0.267377843573674
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	10	16		#FDAD4A	0.401639595302619
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	11	16	autism|autistic|nonverbal	#FDAD4A	0.412310948936031
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	12	16		#FD913D	0.514167899985153
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	13	16	bottomup|repetitions	#FDAD4A	0.478084710058252
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	14	16	adaptation	#F03623	0.701816944239084
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	15	16	irrelevant	#FC622F	0.631075996396742
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	16	16	distractor|distractors	#FEE188	0.255347654740861
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	17	16		#FDAD4A	0.433163831555382
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	18	16	subtraction	#FECB68	0.366555466903412
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	19	16	1back|nback	#FEE188	0.217094318305064
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	20	16	manipulation|rules	#FECB68	0.370673054086491
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	21	16		#FDAD4A	0.454286848222119
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	22	16		#FECB68	0.387125638628116
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	23	16	digit	#FECB68	0.330736441003325
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	1	17	avoidance	#FEE188	0.222197922389001
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	2	17		#FDAD4A	0.419725284328327
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	3	17	eating|food	#FD913D	0.519699449923055
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	4	17	taste	#FDAD4A	0.425855037459116
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	5	17	bipolar	#FFFFCC	0.0772340258003068
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	6	17	illness|uncertainty	#FEE188	0.258534796235116
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	7	17	females|probabilistic	#FEE188	0.222003102316803
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	8	17	rejection	#FFFFCC	0.0278330244357465
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	9	17	colour|paired	#FDAD4A	0.464469348029277
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	10	17		#FDAD4A	0.480091970014143
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	11	17		#FDAD4A	0.480078105788108
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	12	17		#FD913D	0.538591493827829
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	13	17	taskirrelevant	#FC622F	0.695247492982448
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	14	17		#FC622F	0.684881070216588
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	15	17	suppression	#FC622F	0.661802236705176
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	16	17		#FD913D	0.596033176756738
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	17	17	shifting|shortterm	#FEE188	0.238109579484305
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	18	17	digits	#FECB68	0.373888636032098
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	19	17	search	#FECB68	0.39297409344443
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	20	17	counting|taskrelated	#FECB68	0.362735771284127
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	21	17	topdown	#FDAD4A	0.482684839842384
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	22	17	visuospatial	#FECB68	0.339967652764744
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	23	17	arithmetic|calculation|solving	#FEE188	0.247926495797979
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	1	18	addiction|craving|drugs	#FEE188	0.210856217349124
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	2	18	allele|genotype|polymorphism	#FEE188	0.249069801866719
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	3	18	motivation	#FECB68	0.313009602915915
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	4	18	heart	#FD913D	0.55377371836147
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	5	18	sleep	#FEE188	0.276579719200576
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	6	18	expectancy	#FDAD4A	0.407548217816445
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	7	18	phasic|salience	#FD913D	0.554055470174063
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	8	18	adolescence|adolescents	#FEE188	0.210273042161673
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	9	18	intelligence|tracking	#FDAD4A	0.498091610622458
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	10	18		#FD913D	0.591213015441274
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	11	18	serial	#FECB68	0.362127131924256
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	12	18		#FC622F	0.607663426321658
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	13	18	spatially|taskrelevant	#FC622F	0.626959188798329
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	14	18		#FC622F	0.67187292169807
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	15	18	attended|attend|unattended	#FD913D	0.581202396186612
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	16	18	rotation|shapes	#FDAD4A	0.46870656767685
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	17	18	rehearsal	#FECB68	0.357584530799386
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	18	18	learned	#FDAD4A	0.494259855034547
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	19	18		#FD913D	0.587054516896088
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	20	18	cued|preparatory	#FD913D	0.54751926502533
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	21	18		#FD913D	0.545093375633471
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	22	18		#FDAD4A	0.45299438648619
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	23	18	numbers|numerical	#FECB68	0.384450729383665
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	1	19	future	#FEE188	0.236960221513953
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	2	19	negatively	#FECB68	0.348947763747272
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	3	19	distress|epilepsy|selfreported	#FDAD4A	0.425545688036388
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	4	19	anticipatory|cocaine|probabilities|smoking	#FEE188	0.217024598193343
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	5	19	alcohol|amount|impulsivity	#FFF1A9	0.16654901592123
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	6	19	game|success	#FEE188	0.233082546257708
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	7	19	adhd|childhood|engagement	#FEE188	0.286534608467729
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	8	19		#FD913D	0.588725838557299
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	9	19		#FC622F	0.684999785673998
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	10	19		#FC622F	0.643583888230588
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	11	19		#FD913D	0.594721043901552
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	12	19	endogenous	#FDAD4A	0.46105090903448
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	13	19	cueing|invalid|orienting	#FECB68	0.35141824168874
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	14	19		#FC622F	0.699005091271303
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	15	19	multisensory	#FD913D	0.57711450256755
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	16	19		#FC622F	0.687178351444515
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	17	19	shifts	#FC622F	0.612666622326073
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	18	19	covert	#FC622F	0.665046637821232
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	19	19		#FD913D	0.597809916756876
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	20	19	preparation	#FD913D	0.5681525802461
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	21	19	discrimination|training	#FD913D	0.581539065134664
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	22	19	sequences	#FDAD4A	0.407167519187107
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	23	19		#FC622F	0.661291291876461
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	1	20	personal|self|selfreferential|trait|traits	#FEE188	0.238683867106882
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	2	20	empathic|theory	#FDAD4A	0.458623999017593
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	3	20	attribution|intentional	#FFF1A9	0.136838268680771
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	4	20	elderly|oscillations	#FFF1A9	0.100386855269555
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	5	20	antipsychotic|virtual	#FECB68	0.320767411521683
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	6	20		#FDAD4A	0.462208930986127
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	7	20	experiences	#FDAD4A	0.419705106186813
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	8	20	categorical|pressure	#FECB68	0.394077167692549
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	9	20	play|skills	#FC622F	0.619273893631898
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	10	20	automatic|trained	#FD913D	0.517815442981732
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	11	20		#FD913D	0.587682458896763
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	12	20	practice	#FD913D	0.500164784280033
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	13	20	visuomotor	#FC622F	0.665754060577746
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	14	20		#F03623	0.800248674867734
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	15	20	tool	#FC622F	0.649692168122082
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	16	20	vision	#FC622F	0.608221311836909
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	17	20	visually	#FC622F	0.624890076826165
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	18	20	saccade|saccades|saccadic	#FDAD4A	0.441413399798432
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	19	20	locations	#FDAD4A	0.463713343174899
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	20	20	imagery|planning	#FDAD4A	0.495013631513255
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	21	20		#FC622F	0.675018115642391
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	22	20	rest	#FC622F	0.681904188314574
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	23	20	sequence	#FD913D	0.511408299984053
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	1	21	scenarios	#FFFFCC	0.0290471067530004
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	2	21	intention|intentions	#FEE188	0.247640463216816
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	3	21	causality|perspective	#FFF1A9	0.159623637546285
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	4	21	past	#FFFFCC	0.0417752781793431
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	5	21		#FC622F	0.605326170397429
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	6	21	episode	#FEE188	0.285604653516383
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	7	21	improvement	#FDAD4A	0.424490702602013
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	8	21	masking|retention	#FECB68	0.380143320395785
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	9	21		#FD913D	0.540344101309191
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	10	21	dominant	#FDAD4A	0.497929799037582
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	11	21		#FC622F	0.613914231216967
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	12	21	sequential	#FDAD4A	0.464546068352104
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	13	21	fingers	#FDAD4A	0.434127856500521
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	14	21		#D7141E	0.870470699806943
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	15	21	gesture|gestures	#F03623	0.711202561470487
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	16	21		#D7141E	0.821181498566412
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	17	21	hands	#FDAD4A	0.480237491623132
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	18	21		#FC622F	0.676499227417525
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	19	21		#FC622F	0.650669645561547
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	20	21	eye|position	#FC622F	0.64751273568463
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	21	21	execution	#FC622F	0.648572947872618
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	22	21	finger|sensorimotor	#FC622F	0.615115108023524
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	23	21		#FC622F	0.697632237576652
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	1	22	moral|stories|story	#FFF1A9	0.122462396971202
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	2	22	mentalizing|persons	#FFF1A9	0.191422437253969
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	3	22	default|restingstate	#FFF1A9	0.128783044334739
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	4	22	thinking|thought|thoughts	#FEE188	0.231424319592426
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	5	22	spontaneous	#FD913D	0.517084451246601
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	6	22	concentration|sensations	#D7141E	0.872192025752679
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	7	22	hierarchical|preference	#FEE188	0.274730981861612
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	8	22	effort|oral|simulation	#FECB68	0.305058514138674
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	9	22	interhemispheric|plasticity	#FFF1A9	0.170148323454931
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	10	22	imagined|imagine	#FECB68	0.37162481393691
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	11	22	tapping	#FD913D	0.518041106638695
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	12	22	foot|muscle|muscles|voluntary	#F03623	0.782811940857582
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	13	22	limb	#FC622F	0.688458286397632
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	14	22	eyes|velocity	#FC622F	0.631801432729235
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	15	22	biological|gaze|videos	#FC622F	0.697546782485299
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	16	22	body	#B10026	0.951415356281265
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	17	22	grasping|orientation|reaching	#FC622F	0.622139565202427
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	18	22		#F03623	0.715246470880179
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	19	22	mirror|shape	#FC622F	0.695680588856983
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	20	22	actions	#FC622F	0.654108439698141
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	21	22	action	#FC622F	0.627811240440946
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	22	22		#F03623	0.705908454595554
+a03ee31a-abb1-3045-aa73-becaada100eb	Goto F	23	22	hand|movements|sensory	#FC622F	0.688082231955575

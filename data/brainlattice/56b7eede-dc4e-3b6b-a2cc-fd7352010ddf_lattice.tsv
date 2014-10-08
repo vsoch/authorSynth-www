@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	1	1	auditory|speech	#FEE188	0.248306062853628
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	2	1		#FEE188	0.28013809396125
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	3	1	da|integration	#FDAD4A	0.416067525345519
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	4	1		#FECB68	0.388239672786714
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	5	1	physical|psychophysical|tactile	#FEE188	0.261300139668506
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	6	1		#FECB68	0.382069055910048
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	7	1	somatosensory|stimulation	#FECB68	0.341745101368461
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	8	1	painful|pain	#FECB68	0.389969775248765
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	9	1		#FDAD4A	0.494167710845981
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	10	1	ratings	#FC622F	0.611518418730518
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	11	1	affective|affect	#FD913D	0.51767728066489
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	12	1	emotions	#FD913D	0.57692908292861
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	13	1	expression|expressions|facial	#FDAD4A	0.449165769163523
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	14	1		#FD913D	0.56545364882548
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	15	1		#FD913D	0.571498356540037
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	16	1	emotion|motion|neutral	#FD913D	0.507576632064885
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	17	1	rating	#FD913D	0.518810215441886
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	18	1	negative|positive	#FD913D	0.518568925756616
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	19	1		#FECB68	0.368974060323154
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	20	1	ear|order	#FEE188	0.218016287000023
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	21	1	motor	#FFFFCC	0.0424769724987605
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	22	1	visual	#FFFFCC	0
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	23	1	age|image|response	#FFF1A9	0.101675716363619
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	1	2	sound|sounds	#FEE188	0.247874313132952
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	2	2		#FEE188	0.268851585594034
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	3	2	audiovisual|bimodal|crossmodal	#FEE188	0.276799069392823
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	4	2		#FDAD4A	0.407191492175194
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	5	2		#FDAD4A	0.405589404915041
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	6	2		#FDAD4A	0.407640251926851
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	7	2	sensation	#FDAD4A	0.475302678512386
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	8	2	heat|noxious	#FEE188	0.293605492466479
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	9	2		#FDAD4A	0.49048723144266
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	10	2		#FD913D	0.599800061232437
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	11	2		#FC622F	0.618062736780288
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	12	2	valence	#FC622F	0.654882926150733
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	13	2	person|social	#FD913D	0.582935891519896
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	14	2		#FD913D	0.579111330312393
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	15	2	face|faces	#FDAD4A	0.451766044180019
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	16	2		#FD913D	0.555238869666321
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	17	2		#FD913D	0.569919504469867
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	18	2		#FDAD4A	0.47645026475863
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	19	2		#FECB68	0.377495766905419
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	20	2		#FFF1A9	0.195242109349402
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	21	2	images|spatial	#FFF1A9	0.135902134642852
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	22	2	control	#FFFFCC	0.0786422647090593
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	23	2	time	#FFF1A9	0.117858232165515
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	1	3	acoustic|listening|musical|music|pitch	#FEE188	0.256268025665911
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	2	3	noise|tones	#FEE188	0.227973511759987
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	3	3		#FECB68	0.35557044789905
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	4	3		#FECB68	0.393497635931512
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	5	3	frequency	#FDAD4A	0.476456245661767
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	6	3		#FDAD4A	0.456571826682398
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	7	3		#FDAD4A	0.431741928004267
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	8	3	temperature	#FECB68	0.307652921167285
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	9	3		#FDAD4A	0.473820441479916
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	10	3	pleasant|unpleasant	#FDAD4A	0.467325928689003
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	11	3	anxiety	#FD913D	0.553094850869706
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	12	3		#FC622F	0.631301962705326
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	13	3		#FC622F	0.650592892853011
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	14	3		#FC622F	0.645327415588091
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	15	3		#FC622F	0.628868454207547
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	16	3	picture	#FD913D	0.59314989819439
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	17	3		#FD913D	0.574340231005571
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	18	3	value	#FD913D	0.576571622077763
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	19	3	cue	#FEE188	0.268796889284583
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	20	3	error|target	#FEE188	0.21980495718427
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	21	3	attention	#FFFFCC	0.0239315218256746
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	22	3		#FFF1A9	0.153082826768507
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	23	3	number	#FFF1A9	0.191917123359652
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	1	4	voice	#FECB68	0.33186476743962
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	2	4		#FECB68	0.322864805698942
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	3	4	hearing	#FEE188	0.218886362315112
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	4	4		#FECB68	0.366503176269633
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	5	4	overt	#FEE188	0.279398887111925
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	6	4		#FDAD4A	0.4172614341974
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	7	4		#FDAD4A	0.441165035373241
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	8	4	nociceptive|nonpainful|painrelated	#FDAD4A	0.410113972796056
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	9	4	unpleasantness	#FECB68	0.366141635888591
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	10	4	skin|subjective	#FDAD4A	0.492926763762841
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	11	4	depression	#FD913D	0.563910556341839
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	12	4	experience	#FD913D	0.521536788944675
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	13	4	female	#FC622F	0.631576732939571
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	14	4	male	#FC622F	0.677691744251026
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	15	4	pictures	#FC622F	0.610882543640703
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	16	4		#FD913D	0.576935617569217
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	17	4	perception	#FECB68	0.383737133419325
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	18	4		#FECB68	0.38419249669081
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	19	4		#FECB68	0.31453688276158
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	20	4		#FEE188	0.234837038436197
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	21	4	correct	#FEE188	0.243365363470489
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	22	4	work	#FFF1A9	0.159603662052039
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	23	4	memory	#FEE188	0.214045827193232
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	1	5	prosodic|prosody	#FDAD4A	0.467412717161561
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	2	5	phonetic	#FEE188	0.280077749329958
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	3	5	syllable|syllables	#FEE188	0.244601970915638
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	4	5		#FECB68	0.354627455416421
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	5	5	lip|production	#FECB68	0.33585055382789
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	6	5	somatotopic	#FECB68	0.326774070243706
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	7	5		#FDAD4A	0.467203099643607
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	8	5		#FDAD4A	0.434122313238947
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	9	5	empathy	#FDAD4A	0.438025352069619
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	10	5		#FD913D	0.516679251080278
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	11	5	disorder	#FD913D	0.517394235540586
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	12	5		#FC622F	0.605145457508187
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	13	5		#FC622F	0.64827039039089
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	14	5		#FC622F	0.651529239647057
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	15	5		#FC622F	0.638254376369268
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	16	5		#FD913D	0.559500754128342
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	17	5		#FDAD4A	0.489512163032163
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	18	5	mental	#FECB68	0.341976014267687
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	19	5	go	#FECB68	0.3083843617968
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	20	5	object	#FFF1A9	0.106672700602697
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	21	5		#FEE188	0.256870816206003
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	22	5		#FEE188	0.26986789598781
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	23	5	word|words	#FFF1A9	0.185225689104349
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	1	6		#D7141E	0.835854232146802
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	2	6		#F03623	0.768402637621854
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	3	6		#FD913D	0.582695610165126
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	4	6	vocal	#FEE188	0.229648269214459
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	5	6	articulatory	#FECB68	0.367433887479973
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	6	6		#FDAD4A	0.451677151421984
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	7	6	oddball	#FEE188	0.293714011587493
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	8	6	perceived	#FECB68	0.327803670792264
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	9	6	errorrelated	#FECB68	0.367867957553287
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	10	6	approach	#FDAD4A	0.449714546123369
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	11	6	schizophrenia	#FDAD4A	0.496172384094233
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	12	6	acquisition	#FD913D	0.509234662353159
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	13	6		#FD913D	0.56081266341892
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	14	6		#FDAD4A	0.498979517056093
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	15	6		#FD913D	0.50745999913373
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	16	6		#FD913D	0.506695990932063
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	17	6		#FDAD4A	0.457269391087932
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	18	6		#FECB68	0.395862118223791
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	19	6		#FDAD4A	0.413436396502886
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	20	6	objects	#FDAD4A	0.404954312469321
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	21	6		#FECB68	0.357179664480823
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	22	6		#FECB68	0.31276054210814
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	23	6	language|semantic	#FECB68	0.316098024637866
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	1	7	dopamine|dopaminergic	#D7141E	0.874731089034358
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	2	7		#D7141E	0.878381122183606
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	3	7		#F03623	0.719714207705475
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	4	7		#FC622F	0.634476462093945
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	5	7		#FD913D	0.589650633747173
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	6	7		#FD913D	0.588769941169673
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	7	7		#FD913D	0.569168108207992
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	8	7		#FD913D	0.530464653600857
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	9	7		#FDAD4A	0.486832198297935
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	10	7		#FDAD4A	0.489491835754307
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	11	7		#FD913D	0.513687105682038
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	12	7		#FD913D	0.500113942243881
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	13	7	linguistic|spoken	#FECB68	0.367239702790815
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	14	7		#FDAD4A	0.446820222743044
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	15	7	comprehension|sentence|sentences|syntactic	#FDAD4A	0.417646232738928
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	16	7		#FDAD4A	0.448701001937017
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	17	7		#FDAD4A	0.432705563514479
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	18	7	phonological|reading|read	#FECB68	0.388959124239031
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	19	7		#FDAD4A	0.451346482791793
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	20	7	perceptual|recognition	#FD913D	0.513814081937104
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	21	7		#FDAD4A	0.428605986192223
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	22	7		#FECB68	0.362155004885762
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	23	7	verb	#FEE188	0.294065423824913
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	1	8	outcome|reward	#D7141E	0.82449143043614
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	2	8	anticipation	#D7141E	0.820889921328567
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	3	8	outcomes	#F03623	0.772993744776666
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	4	8	choice|choices	#FD913D	0.55244635103608
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	5	8	decisions|probability	#FD913D	0.511198660284612
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	6	8	reversal	#FD913D	0.567826389141417
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	7	8	classification|incorrect	#FD913D	0.56871394493069
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	8	8		#FC622F	0.603990390804424
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	9	8	agerelated|fluency|probes	#FECB68	0.38616033624903
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	10	8	engaged	#FECB68	0.396743588283762
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	11	8	explicit|knowledge	#FDAD4A	0.435538577292864
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	12	8		#FDAD4A	0.440957150029528
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	13	8		#FDAD4A	0.434768906657583
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	14	8		#FDAD4A	0.435404724883143
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	15	8		#FDAD4A	0.435428077204111
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	16	8		#FDAD4A	0.440799355904972
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	17	8	lexical	#FDAD4A	0.405707340052487
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	18	8		#FDAD4A	0.443776482753897
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	19	8		#FDAD4A	0.466199416842058
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	20	8		#FD913D	0.500957280039282
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	21	8	encoding	#FD913D	0.551186797204891
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	22	8	retrieval	#FDAD4A	0.426471922515341
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	23	8	verbal	#FECB68	0.338408534665879
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	1	9	incentive|monetary|money|rewards	#F03623	0.707279775882229
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	2	9	loss	#D7141E	0.816627724264705
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	3	9		#F03623	0.733258975706815
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	4	9		#FC622F	0.678739927376961
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	5	9	decisionmaking	#FDAD4A	0.453368258292794
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	6	9		#FC622F	0.667709004874144
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	7	9		#FC622F	0.680545491440014
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	8	9		#FC622F	0.664331859218008
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	9	9		#FC622F	0.655326784760345
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	10	9		#FD913D	0.511115996922551
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	11	9		#FDAD4A	0.45120850264408
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	12	9		#FDAD4A	0.424066833509123
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	13	9	noun	#FECB68	0.346244285794065
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	14	9	meaning	#FDAD4A	0.411678661099027
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	15	9	english	#FECB68	0.337325164569571
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	16	9	pseudoword|pseudowords	#FECB68	0.347974628550498
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	17	9		#FDAD4A	0.432172270425057
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	18	9		#FDAD4A	0.467420785893053
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	19	9	familiar|judgment	#FDAD4A	0.484403253717034
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	20	9	pair|pairs	#FDAD4A	0.423948546711719
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	21	9		#FDAD4A	0.490206767290484
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	22	9		#FECB68	0.395889941588958
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	23	9	letter|working	#FEE188	0.258634332214105
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	1	10	losses|reinforcement|win	#F03623	0.753069712989321
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	2	10	gain	#F03623	0.733094061950604
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	3	10	expectation	#F03623	0.748166859941333
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	4	10	risk	#FD913D	0.526168757541128
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	5	10	fact	#FC622F	0.662286808701828
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	6	10	associative	#FD913D	0.590518297122135
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	7	10	familiarity|judgments|old	#FDAD4A	0.44878869666617
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	8	10	contextual|text	#F03623	0.736998989866792
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	9	10	recall|retrieved	#FC622F	0.669825390730173
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	10	10	conceptual|semantically	#FD913D	0.524763077544296
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	11	10	grammatical|speakers	#FECB68	0.31856645610876
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	12	10	nouns	#FECB68	0.352095760729754
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	13	10	japanese	#FECB68	0.329462832823135
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	14	10	languages	#FEE188	0.293138592501086
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	15	10	written	#FECB68	0.363032403295436
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	16	10	chinese|phonology	#FECB68	0.330872542908031
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	17	10	orthographic	#FECB68	0.364478593644785
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	18	10		#FDAD4A	0.477652977100401
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	19	10		#FD913D	0.517407771083072
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	20	10	association|decision	#FD913D	0.589342633922959
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	21	10	selection	#FECB68	0.390700978695813
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	22	10	letters	#FEE188	0.288874592342904
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	23	10	demand|load	#FECB68	0.307480944491069
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	1	11	conditioned|conditioning	#FC622F	0.682158749185291
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	2	11		#D7141E	0.858417768538169
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	3	11	drug|placebo	#FC622F	0.649242867412766
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	4	11		#D7141E	0.836877037404759
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	5	11	associations	#FC622F	0.620551161978444
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	6	11		#F03623	0.789003662605347
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	7	11	episodic|recollection	#F03623	0.786734212918589
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	8	11		#F03623	0.790253710655063
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	9	11		#FC622F	0.696725630387422
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	10	11	concepts	#FECB68	0.374107870983875
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	11	11		#FDAD4A	0.499412829075731
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	12	11		#FDAD4A	0.467784973632479
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	13	11	german	#FDAD4A	0.438346824839381
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	14	11	readers	#FECB68	0.341745232041858
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	15	11	character|name|naming	#FECB68	0.34541916772743
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	16	11		#FDAD4A	0.434879652134305
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	17	11	novel	#FDAD4A	0.475580878180071
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	18	11		#FDAD4A	0.477167597100186
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	19	11	child|children	#FDAD4A	0.414319380775521
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	20	11	adults	#FD913D	0.513836743054579
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	21	11	ability|feedback|learning	#FD913D	0.564051421694953
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	22	11	cues|delay	#FDAD4A	0.442204743919029
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	23	11	attentional|difficulty|targets	#FEE188	0.263586728996562
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	1	12	aversive|shock	#FC622F	0.647222462562243
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	2	12	reactivity	#FC622F	0.692730097642699
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	3	12	males|sex|women	#F03623	0.756968489613347
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	4	12	animal	#F03623	0.796535438036613
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	5	12	animals	#FDAD4A	0.464431444528758
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	6	12		#F03623	0.782576573475416
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	7	12	remember|subsequent	#FC622F	0.693666334400956
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	8	12	autobiographical|memories	#FC622F	0.689112703598167
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	9	12		#FC622F	0.66253216371781
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	10	12	violation|violations	#FEE188	0.280244328488308
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	11	12	aphasia	#FD913D	0.501215818907139
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	12	12	nonwords	#FECB68	0.397866169027449
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	13	12	dyslexia	#FDAD4A	0.497961348851376
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	14	12		#FDAD4A	0.425845888726416
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	15	12	priming	#FECB68	0.334895735984142
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	16	12		#FDAD4A	0.440107057150562
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	17	12	category|repetition	#FDAD4A	0.452249857173638
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	18	12		#FDAD4A	0.469079898119699
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	19	12	developmental|development	#FECB68	0.396649454633336
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	20	12		#FDAD4A	0.464449623767473
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	21	12	space	#FDAD4A	0.474168384641846
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	22	12		#FECB68	0.366385607086189
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	23	12	color	#FEE188	0.280331512133366
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	1	13	threat	#FDAD4A	0.440679807947004
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	2	13	regulation	#FECB68	0.368884291268469
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	3	13		#FC622F	0.674604632593969
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	4	13	masked	#FDAD4A	0.40367697340342
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	5	13	scene|scenes	#FDAD4A	0.497968783122828
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	6	13		#F03623	0.740196864742999
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	7	13	confidence|remembered	#FC622F	0.643318389555747
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	8	13		#F03623	0.779403168600506
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	9	13		#FC622F	0.660523650917294
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	10	13	ambiguity|ambiguous	#FECB68	0.38810967139964
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	11	13		#FD913D	0.502875070346486
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	12	13		#FDAD4A	0.440293103382291
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	13	13	writing	#FEE188	0.265811159881542
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	14	13		#FDAD4A	0.412630073477096
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	15	13	categorization|congruency|prime	#FECB68	0.306090568278373
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	16	13		#FDAD4A	0.440400470899092
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	17	13	mask	#FECB68	0.321374548148146
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	18	13		#FDAD4A	0.442614481518739
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	19	13		#FDAD4A	0.414998797460981
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	20	13		#FECB68	0.379897424822408
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	21	13	conflict|congruent|incongruent	#FEE188	0.265281746836445
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	22	13	errors	#FECB68	0.317126161002844
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	23	13	maintenance|probe|wm	#FEE188	0.267835156021616
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	1	14	angry|fearful|happy	#FECB68	0.313488385202995
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	2	14		#FECB68	0.39053870394777
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	3	14	awareness|conscious|ptsd	#FECB68	0.31917185108802
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	4	14		#FC622F	0.605370643808946
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	5	14	houses|photographs	#FECB68	0.390006741424622
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	6	14		#FC622F	0.654571176653286
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	7	14	hits	#FDAD4A	0.475899935792403
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	8	14	famous	#FC622F	0.608913715830501
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	9	14	names	#FD913D	0.549964098479822
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	10	14	family	#FECB68	0.360533732126557
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	11	14	competition|mouth	#FEE188	0.278546127856865
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	12	14	abilities	#FEE188	0.298655118313464
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	13	14	implicit|unfamiliar	#FEE188	0.273896356423288
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	14	14		#FECB68	0.368249350153272
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	15	14	tom	#FECB68	0.397913221994567
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	16	14		#FECB68	0.333076545783729
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	17	14		#FECB68	0.307736525036152
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	18	14	stop	#FEE188	0.264068460385671
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	19	14	inhibition|inhibitory|nogo	#FECB68	0.320911305974678
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	20	14	monitoring|stroop	#FEE188	0.282951668608589
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	21	14	interference	#FEE188	0.245422926974613
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	22	14		#FECB68	0.304998556263771
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	23	14	demands|executive	#FECB68	0.349892605200759
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	1	15	anger	#FDAD4A	0.409046913836356
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	2	15	stress	#FDAD4A	0.415934686118004
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	3	15	feelings	#FDAD4A	0.454500952103028
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	4	15	salient	#FECB68	0.37168763999403
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	5	15	novelty	#FDAD4A	0.469402264580918
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	6	15	movie	#FEE188	0.242611017940593
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	7	15		#FC622F	0.630382800029005
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	8	15		#FD913D	0.596133259676865
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	9	15	longterm	#FECB68	0.304965836679492
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	10	15		#FECB68	0.38606268692593
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	11	15	reasoning|relational	#FEE188	0.258561540025963
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	12	15		#FECB68	0.34155307919512
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	13	15	presentations	#FEE188	0.279878538967447
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	14	15		#FECB68	0.335647371154001
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	15	15	identity	#FEE188	0.285366556257024
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	16	15		#FECB68	0.301571980948954
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	17	15	strategies|strategy	#FEE188	0.2563714372479
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	18	15	card|cards	#FEE188	0.250310547677185
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	19	15	gonogo	#FEE188	0.296870180068159
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	20	15		#FEE188	0.298702225686115
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	21	15	switching|switch	#FFF1A9	0.186038683792378
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	22	15		#FEE188	0.269830372239469
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	23	15	2back|rule	#FEE188	0.275544468094994
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	1	16	emotionally|mood|personality|sadness	#FD913D	0.545517410180751
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	2	16	disgust|sexual	#F03623	0.767103646527702
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	3	16	olfactory	#FD913D	0.563637192802525
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	4	16	physiological	#FC622F	0.667113459321165
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	5	16	depressed|depressive|habituation	#FECB68	0.327465353934243
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	6	16	schizophrenic	#FDAD4A	0.4641658540858
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	7	16	colors|contexts	#FECB68	0.338136848492936
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	8	16	aging|encoded	#FECB68	0.387879718343228
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	9	16	goal	#FFF1A9	0.146101813572495
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	10	16		#FECB68	0.315379663504337
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	11	16	autism|autistic|nonverbal	#FEE188	0.251130654922047
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	12	16		#FECB68	0.308342986569142
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	13	16	bottomup|repetitions	#FEE188	0.219676339186983
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	14	16	adaptation	#FEE188	0.257195582261051
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	15	16	irrelevant	#FEE188	0.24576914282527
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	16	16	distractor|distractors	#FFF1A9	0.110185227624528
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	17	16		#FEE188	0.283094389471252
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	18	16	subtraction	#FFF1A9	0.161023126327266
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	19	16	1back|nback	#FFF1A9	0.182050923900446
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	20	16	manipulation|rules	#FEE188	0.285349677360586
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	21	16		#FEE188	0.265055438910173
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	22	16		#FEE188	0.242682447536469
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	23	16	digit	#FEE188	0.255537445939395
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	1	17	avoidance	#FD913D	0.573801068425295
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	2	17		#B10026	1
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	3	17	eating|food	#D7141E	0.803159320818291
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	4	17	taste	#D7141E	0.880489638685542
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	5	17	bipolar	#FD913D	0.565998680495789
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	6	17	illness|uncertainty	#FECB68	0.367491723440389
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	7	17	females|probabilistic	#FEE188	0.253909666375968
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	8	17	rejection	#FECB68	0.311804317273424
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	9	17	colour|paired	#FECB68	0.312160523139413
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	10	17		#FECB68	0.343771246729412
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	11	17		#FECB68	0.320235886799557
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	12	17		#FEE188	0.29784949443809
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	13	17	taskirrelevant	#FFF1A9	0.174169907324172
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	14	17		#FEE188	0.262692369989182
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	15	17	suppression	#FEE188	0.22051587591874
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	16	17		#FEE188	0.282097596448985
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	17	17	shifting|shortterm	#FEE188	0.262054986449103
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	18	17	digits	#FEE188	0.288180791354674
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	19	17	search	#FEE188	0.289499089834209
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	20	17	counting|taskrelated	#FECB68	0.314984312467197
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	21	17	topdown	#FEE188	0.209535322792134
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	22	17	visuospatial	#FFF1A9	0.172690131240865
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	23	17	arithmetic|calculation|solving	#FEE188	0.209659815237828
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	1	18	addiction|craving|drugs	#D7141E	0.822768040864736
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	2	18	allele|genotype|polymorphism	#B10026	0.907021795362083
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	3	18	motivation	#D7141E	0.836166952116775
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	4	18	heart	#D7141E	0.857462676721313
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	5	18	sleep	#F03623	0.789109209799808
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	6	18	expectancy	#FC622F	0.600475224812322
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	7	18	phasic|salience	#FEE188	0.20241145115373
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	8	18	adolescence|adolescents	#FEE188	0.229390741641209
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	9	18	intelligence|tracking	#FDAD4A	0.495511638994598
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	10	18		#FDAD4A	0.401310739032302
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	11	18	serial	#FEE188	0.243726595053142
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	12	18		#FECB68	0.305314570616466
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	13	18	spatially|taskrelevant	#FEE188	0.267688006378752
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	14	18		#FEE188	0.264146619831802
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	15	18	attended|attend|unattended	#FFF1A9	0.175242200116595
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	16	18	rotation|shapes	#FEE188	0.22208265673683
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	17	18	rehearsal	#FEE188	0.299040796016689
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	18	18	learned	#FEE188	0.286882514249663
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	19	18		#FECB68	0.355150942996365
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	20	18	cued|preparatory	#FECB68	0.352727826289755
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	21	18		#FECB68	0.343728595946739
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	22	18		#FEE188	0.284548519719432
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	23	18	numbers|numerical	#FFF1A9	0.155631351704451
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	1	19	future	#FD913D	0.546811902425057
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	2	19	negatively	#FD913D	0.565642978927981
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	3	19	distress|epilepsy|selfreported	#D7141E	0.850937762535997
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	4	19	anticipatory|cocaine|probabilities|smoking	#D7141E	0.806720000840478
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	5	19	alcohol|amount|impulsivity	#D7141E	0.802986796142189
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	6	19	game|success	#FD913D	0.555076206361326
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	7	19	adhd|childhood|engagement	#FD913D	0.595165456655109
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	8	19		#FD913D	0.558501987532667
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	9	19		#FD913D	0.505071274133522
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	10	19		#FDAD4A	0.423806438163617
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	11	19		#FECB68	0.348772911710063
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	12	19	endogenous	#FFF1A9	0.172657414339071
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	13	19	cueing|invalid|orienting	#FEE188	0.210764840408792
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	14	19		#FECB68	0.312753435461183
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	15	19	multisensory	#FEE188	0.245496516380627
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	16	19		#FEE188	0.292820645500474
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	17	19	shifts	#FEE188	0.284812974879824
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	18	19	covert	#FEE188	0.277848758291365
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	19	19		#FECB68	0.332656443509704
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	20	19	preparation	#FECB68	0.31031733827956
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	21	19	discrimination|training	#FECB68	0.374706324692951
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	22	19	sequences	#FEE188	0.256044268095695
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	23	19		#FDAD4A	0.399922170954418
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	1	20	personal|self|selfreferential|trait|traits	#FD913D	0.51155726839935
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	2	20	empathic|theory	#FECB68	0.362159535438089
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	3	20	attribution|intentional	#FEE188	0.28929609923158
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	4	20	elderly|oscillations	#FECB68	0.354687385657907
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	5	20	antipsychotic|virtual	#FDAD4A	0.435657711666938
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	6	20		#D7141E	0.841812654343259
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	7	20	experiences	#FD913D	0.517278358118052
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	8	20	categorical|pressure	#FECB68	0.340111412889376
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	9	20	play|skills	#FEE188	0.26535514550756
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	10	20	automatic|trained	#FEE188	0.261243418536016
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	11	20		#FDAD4A	0.460132900910526
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	12	20	practice	#FECB68	0.320721974552693
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	13	20	visuomotor	#FECB68	0.382311307408975
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	14	20		#FDAD4A	0.417676574967935
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	15	20	tool	#FECB68	0.329436438855387
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	16	20	vision	#FFF1A9	0.179049037365402
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	17	20	visually	#FEE188	0.235803469254864
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	18	20	saccade|saccades|saccadic	#FEE188	0.222296523199691
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	19	20	locations	#FEE188	0.254362017622594
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	20	20	imagery|planning	#FECB68	0.307338622323865
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	21	20		#FECB68	0.354610258792132
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	22	20	rest	#FECB68	0.335004976707426
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	23	20	sequence	#FECB68	0.384960075441072
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	1	21	scenarios	#FDAD4A	0.409072430112258
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	2	21	intention|intentions	#FECB68	0.31116678216508
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	3	21	causality|perspective	#FEE188	0.233851301540134
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	4	21	past	#FDAD4A	0.492922432898441
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	5	21		#F03623	0.788324495648876
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	6	21	episode	#FECB68	0.371499904952824
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	7	21	improvement	#FEE188	0.268255736600095
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	8	21	masking|retention	#FEE188	0.289549989322044
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	9	21		#FDAD4A	0.495223911139797
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	10	21	dominant	#FDAD4A	0.412238819965926
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	11	21		#FD913D	0.51772864848709
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	12	21	sequential	#FDAD4A	0.463242235908862
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	13	21	fingers	#FDAD4A	0.496996673163119
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	14	21		#FDAD4A	0.417409631001125
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	15	21	gesture|gestures	#FEE188	0.214298190501216
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	16	21		#FECB68	0.381842516345556
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	17	21	hands	#FECB68	0.342935123093493
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	18	21		#FECB68	0.324922581109948
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	19	21		#FEE188	0.296155896981676
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	20	21	eye|position	#FEE188	0.267204809889484
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	21	21	execution	#FECB68	0.34335459878279
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	22	21	finger|sensorimotor	#FDAD4A	0.455712647798121
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	23	21		#FEE188	0.293716349243307
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	1	22	moral|stories|story	#FEE188	0.282965959582207
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	2	22	mentalizing|persons	#FD913D	0.506775339325636
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	3	22	default|restingstate	#FDAD4A	0.450507396050799
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	4	22	thinking|thought|thoughts	#FDAD4A	0.471996689180315
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	5	22	spontaneous	#FC622F	0.682691800209857
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	6	22	concentration|sensations	#F03623	0.748921300589802
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	7	22	hierarchical|preference	#FEE188	0.298533597527237
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	8	22	effort|oral|simulation	#FECB68	0.364712480044283
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	9	22	interhemispheric|plasticity	#FD913D	0.501577945317738
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	10	22	imagined|imagine	#FEE188	0.235252993143184
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	11	22	tapping	#FD913D	0.554622395837359
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	12	22	foot|muscle|muscles|voluntary	#FDAD4A	0.446010058442568
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	13	22	limb	#FECB68	0.357074204698887
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	14	22	eyes|velocity	#FEE188	0.270136346622233
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	15	22	biological|gaze|videos	#FEE188	0.297778937480402
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	16	22	body	#FECB68	0.32443272303919
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	17	22	grasping|orientation|reaching	#FECB68	0.311849586084304
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	18	22		#FECB68	0.335401363419565
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	19	22	mirror|shape	#FEE188	0.269394733939208
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	20	22	actions	#FECB68	0.306061392009075
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	21	22	action	#FEE188	0.25447442080698
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	22	22		#FEE188	0.256102223033974
+56b7eede-dc4e-3b6b-a2cc-fd7352010ddf	Gee JC	23	22	hand|movements|sensory	#FFF1A9	0.105547460273007

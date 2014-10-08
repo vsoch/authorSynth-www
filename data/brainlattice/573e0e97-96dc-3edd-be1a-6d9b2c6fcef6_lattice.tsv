@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	1	1	auditory|speech	#FDAD4A	0.430457139760629
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	2	1		#FDAD4A	0.403955015192492
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	3	1	da|integration	#FD913D	0.596769533548707
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	4	1		#FD913D	0.580905942434201
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	5	1	physical|psychophysical|tactile	#FD913D	0.500287662352967
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	6	1		#FDAD4A	0.402297192364065
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	7	1	somatosensory|stimulation	#FECB68	0.315215633637476
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	8	1	painful|pain	#FFF1A9	0.107657792374337
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	9	1		#FFF1A9	0.151741474216728
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	10	1	ratings	#FEE188	0.232403292660178
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	11	1	affective|affect	#FEE188	0.262708300321084
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	12	1	emotions	#FEE188	0.281516954757165
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	13	1	expression|expressions|facial	#FECB68	0.372044811596358
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	14	1		#FDAD4A	0.442021989504015
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	15	1		#FDAD4A	0.447869676075018
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	16	1	emotion|motion|neutral	#FDAD4A	0.423024020490291
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	17	1	rating	#FEE188	0.269745902363695
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	18	1	negative|positive	#FECB68	0.338978794918848
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	19	1		#FD913D	0.564382037311573
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	20	1	ear|order	#FC622F	0.621632446250412
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	21	1	motor	#FD913D	0.588685392054963
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	22	1	visual	#FC622F	0.697963223364228
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	23	1	age|image|response	#FD913D	0.575460963298736
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	1	2	sound|sounds	#FEE188	0.282409048140063
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	2	2		#FECB68	0.374449801929657
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	3	2	audiovisual|bimodal|crossmodal	#FECB68	0.393993879571353
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	4	2		#FD913D	0.594354143481162
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	5	2		#FD913D	0.561586633123484
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	6	2		#FDAD4A	0.44467630672378
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	7	2	sensation	#FFF1A9	0.0997903448815221
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	8	2	heat|noxious	#FFF1A9	0.113665307454624
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	9	2		#FFF1A9	0.167521616814816
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	10	2		#FEE188	0.237268187639267
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	11	2		#FEE188	0.266156124515907
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	12	2	valence	#FEE188	0.241174197739655
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	13	2	person|social	#FECB68	0.39963709239858
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	14	2		#FDAD4A	0.461792282091802
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	15	2	face|faces	#FD913D	0.519625676373682
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	16	2		#FDAD4A	0.494145854210974
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	17	2		#FDAD4A	0.484006782754314
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	18	2		#FD913D	0.556872273709223
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	19	2		#FC622F	0.625102278937848
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	20	2		#FC622F	0.684268712324008
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	21	2	images|spatial	#FC622F	0.6670472107665
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	22	2	control	#FC622F	0.617847765134685
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	23	2	time	#FC622F	0.600637927539136
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	1	3	acoustic|listening|musical|music|pitch	#FEE188	0.231638034643458
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	2	3	noise|tones	#FEE188	0.283499052458058
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	3	3		#FDAD4A	0.483976969787015
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	4	3		#FD913D	0.596492955592802
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	5	3	frequency	#FC622F	0.60083484222276
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	6	3		#FD913D	0.535165186172416
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	7	3		#FEE188	0.214202905295934
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	8	3	temperature	#FFF1A9	0.155701068095436
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	9	3		#FFF1A9	0.19358305986572
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	10	3	pleasant|unpleasant	#FFF1A9	0.187910020169723
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	11	3	anxiety	#FFF1A9	0.152769829969801
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	12	3		#FECB68	0.360926046545489
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	13	3		#FDAD4A	0.483341499526843
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	14	3		#FDAD4A	0.495977347859761
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	15	3		#FD913D	0.545914583298055
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	16	3	picture	#FC622F	0.615572548948219
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	17	3		#FC622F	0.604910147722689
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	18	3	value	#FC622F	0.673107722784562
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	19	3	cue	#F03623	0.736730078852291
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	20	3	error|target	#F03623	0.716090691133467
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	21	3	attention	#F03623	0.752878825603308
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	22	3		#FC622F	0.686293058589712
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	23	3	number	#FC622F	0.666674443906822
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	1	4	voice	#FEE188	0.210855890230028
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	2	4		#FECB68	0.326926358577622
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	3	4	hearing	#FD913D	0.504947579401798
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	4	4		#FD913D	0.53440164729089
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	5	4	overt	#FC622F	0.634670643092123
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	6	4		#FD913D	0.52549041144846
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	7	4		#FEE188	0.282059567724521
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	8	4	nociceptive|nonpainful|painrelated	#FFFFCC	0.0989246413641762
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	9	4	unpleasantness	#FFF1A9	0.188421752186051
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	10	4	skin|subjective	#FECB68	0.308223073302396
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	11	4	depression	#FECB68	0.328911583343303
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	12	4	experience	#FECB68	0.343860181061775
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	13	4	female	#FDAD4A	0.487374884844936
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	14	4	male	#FD913D	0.554951889762815
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	15	4	pictures	#FD913D	0.564870784975489
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	16	4		#FC622F	0.685242583124424
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	17	4	perception	#F03623	0.710096394722095
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	18	4		#F03623	0.79329101680498
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	19	4		#F03623	0.786069334209125
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	20	4		#F03623	0.774472726238788
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	21	4	correct	#FC622F	0.670875184166676
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	22	4	work	#F03623	0.700890747971581
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	23	4	memory	#FC622F	0.629514913343173
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	1	5	prosodic|prosody	#FFF1A9	0.158048840581719
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	2	5	phonetic	#FECB68	0.319445808259452
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	3	5	syllable|syllables	#FDAD4A	0.434293423818576
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	4	5		#FDAD4A	0.496227270611634
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	5	5	lip|production	#FECB68	0.388291542861189
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	6	5	somatotopic	#FEE188	0.29276203328528
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	7	5		#FECB68	0.354956929809038
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	8	5		#FEE188	0.280790444278648
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	9	5	empathy	#FEE188	0.29284865457222
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	10	5		#FDAD4A	0.447164619119682
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	11	5	disorder	#FDAD4A	0.415977970748384
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	12	5		#FD913D	0.517049105328072
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	13	5		#FD913D	0.559894804751601
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	14	5		#FC622F	0.615411887408135
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	15	5		#FC622F	0.652331785927929
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	16	5		#F03623	0.719737965775635
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	17	5		#F03623	0.779013512095092
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	18	5	mental	#F03623	0.769926571545265
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	19	5	go	#F03623	0.765591394029511
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	20	5	object	#F03623	0.765008603567017
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	21	5		#F03623	0.739448917946889
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	22	5		#FC622F	0.664817263226012
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	23	5	word|words	#FD913D	0.526412334964937
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	1	6		#FECB68	0.331138522481871
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	2	6		#FECB68	0.381976736963687
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	3	6		#FDAD4A	0.480910512346118
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	4	6	vocal	#FEE188	0.221341440365138
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	5	6	articulatory	#FECB68	0.373081236707368
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	6	6		#FDAD4A	0.48369689273798
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	7	6	oddball	#FDAD4A	0.408197427823813
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	8	6	perceived	#FECB68	0.356403492957495
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	9	6	errorrelated	#FEE188	0.233764179646745
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	10	6	approach	#FECB68	0.397621127057551
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	11	6	schizophrenia	#FD913D	0.550747344647645
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	12	6	acquisition	#FDAD4A	0.432786390315133
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	13	6		#FD913D	0.581626999718909
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	14	6		#FD913D	0.542291944508755
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	15	6		#FD913D	0.5662484911743
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	16	6		#FC622F	0.61040931329651
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	17	6		#F03623	0.737000204019735
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	18	6		#F03623	0.782969720978333
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	19	6		#F03623	0.795664445063729
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	20	6	objects	#D7141E	0.871551991276822
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	21	6		#F03623	0.745344080050267
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	22	6		#FC622F	0.64112821775886
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	23	6	language|semantic	#FD913D	0.568591187826317
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	1	7	dopamine|dopaminergic	#FFF1A9	0.14392268313083
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	2	7		#FFF1A9	0.183176539129353
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	3	7		#FECB68	0.396139176562533
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	4	7		#FD913D	0.506481642543227
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	5	7		#FD913D	0.54515919492714
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	6	7		#FD913D	0.558180750286936
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	7	7		#FD913D	0.507269820011164
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	8	7		#FDAD4A	0.4525074757333
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	9	7		#FDAD4A	0.46600678057173
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	10	7		#FC622F	0.607366746878954
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	11	7		#FC622F	0.625463842919998
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	12	7		#FC622F	0.644924271892413
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	13	7	linguistic|spoken	#FD913D	0.561008314210688
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	14	7		#FD913D	0.515778302533014
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	15	7	comprehension|sentence|sentences|syntactic	#FDAD4A	0.454526782808097
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	16	7		#FD913D	0.558657064685578
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	17	7		#FC622F	0.680586819551493
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	18	7	phonological|reading|read	#FC622F	0.674623364383049
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	19	7		#F03623	0.771669370284151
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	20	7	perceptual|recognition	#F03623	0.767581540996266
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	21	7		#F03623	0.749870989705616
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	22	7		#FC622F	0.657118392511842
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	23	7	verb	#FC622F	0.627875781272121
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	1	8	outcome|reward	#FFF1A9	0.132772952431633
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	2	8	anticipation	#FFF1A9	0.11364536921232
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	3	8	outcomes	#FEE188	0.208120990457402
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	4	8	choice|choices	#FECB68	0.341660995095609
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	5	8	decisions|probability	#FD913D	0.539735525115469
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	6	8	reversal	#FD913D	0.505345146741234
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	7	8	classification|incorrect	#FECB68	0.374235375663878
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	8	8		#FD913D	0.529129371772063
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	9	8	agerelated|fluency|probes	#FD913D	0.520560472663661
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	10	8	engaged	#FC622F	0.672969707878947
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	11	8	explicit|knowledge	#FD913D	0.521690877750171
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	12	8		#FC622F	0.615711519510007
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	13	8		#FD913D	0.536652460595316
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	14	8		#FD913D	0.526549171799193
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	15	8		#FD913D	0.540176619742433
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	16	8		#FD913D	0.569638487454154
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	17	8	lexical	#FD913D	0.533273302480701
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	18	8		#FC622F	0.676983552951619
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	19	8		#F03623	0.727119486134761
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	20	8		#F03623	0.736179646512614
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	21	8	encoding	#FC622F	0.658700846389222
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	22	8	retrieval	#FD913D	0.585523822485866
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	23	8	verbal	#FC622F	0.685749051049941
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	1	9	incentive|monetary|money|rewards	#FFFFCC	0.051408861122435
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	2	9	loss	#FFF1A9	0.106018956972034
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	3	9		#FEE188	0.29662224770705
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	4	9		#FDAD4A	0.404043838864207
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	5	9	decisionmaking	#FDAD4A	0.407540851278303
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	6	9		#FD913D	0.551576169450819
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	7	9		#FD913D	0.548885070259944
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	8	9		#FD913D	0.555221281089393
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	9	9		#FD913D	0.578705494874489
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	10	9		#FC622F	0.613037486574107
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	11	9		#FC622F	0.613215557702818
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	12	9		#FD913D	0.597767320800189
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	13	9	noun	#FDAD4A	0.417948391624007
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	14	9	meaning	#FDAD4A	0.44949989354037
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	15	9	english	#FD913D	0.597504458766377
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	16	9	pseudoword|pseudowords	#FD913D	0.535249770378915
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	17	9		#FC622F	0.625957900604852
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	18	9		#FC622F	0.651400372011132
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	19	9	familiar|judgment	#FC622F	0.630244499021393
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	20	9	pair|pairs	#FC622F	0.677072143618404
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	21	9		#F03623	0.75562071917179
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	22	9		#F03623	0.788620350150117
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	23	9	letter|working	#D7141E	0.809908158529204
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	1	10	losses|reinforcement|win	#FFFFCC	0.0368233280172473
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	2	10	gain	#FFF1A9	0.141606684221541
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	3	10	expectation	#FEE188	0.233744698613748
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	4	10	risk	#FECB68	0.352468258311886
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	5	10	fact	#FECB68	0.396802845917596
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	6	10	associative	#FD913D	0.576760130217627
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	7	10	familiarity|judgments|old	#FDAD4A	0.47181377497411
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	8	10	contextual|text	#FDAD4A	0.487067496159129
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	9	10	recall|retrieved	#FDAD4A	0.462250940412201
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	10	10	conceptual|semantically	#FDAD4A	0.44312013419195
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	11	10	grammatical|speakers	#FD913D	0.569070323594213
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	12	10	nouns	#FDAD4A	0.433526236723707
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	13	10	japanese	#FDAD4A	0.477969916831669
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	14	10	languages	#FD913D	0.537954016895675
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	15	10	written	#FDAD4A	0.445387344125221
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	16	10	chinese|phonology	#FD913D	0.569650734184048
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	17	10	orthographic	#FC622F	0.610665984850585
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	18	10		#FC622F	0.652994959145612
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	19	10		#FC622F	0.658708435031321
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	20	10	association|decision	#FD913D	0.585980086591261
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	21	10	selection	#F03623	0.734731501129303
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	22	10	letters	#F03623	0.789115027699061
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	23	10	demand|load	#F03623	0.78156417400893
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	1	11	conditioned|conditioning	#FFFFCC	0.0489517005373059
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	2	11		#FFF1A9	0.192524028449425
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	3	11	drug|placebo	#FEE188	0.273527299203986
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	4	11		#FDAD4A	0.479862491336234
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	5	11	associations	#FD913D	0.503506448585437
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	6	11		#FD913D	0.534023506104018
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	7	11	episodic|recollection	#FEE188	0.290870414760634
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	8	11		#FD913D	0.512941602871044
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	9	11		#FC622F	0.608158938725087
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	10	11	concepts	#FDAD4A	0.437872473001494
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	11	11		#FC622F	0.609091653457422
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	12	11		#FD913D	0.588963024909217
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	13	11	german	#FD913D	0.517928409381115
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	14	11	readers	#FD913D	0.500834883470518
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	15	11	character|name|naming	#FD913D	0.596443335066781
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	16	11		#FC622F	0.654499088575144
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	17	11	novel	#FC622F	0.678848612860121
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	18	11		#FC622F	0.668500761359688
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	19	11	child|children	#FD913D	0.550956693301481
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	20	11	adults	#FC622F	0.693040151847587
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	21	11	ability|feedback|learning	#FC622F	0.642924649469852
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	22	11	cues|delay	#D7141E	0.844551467408491
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	23	11	attentional|difficulty|targets	#D7141E	0.857432657919992
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	1	12	aversive|shock	#FFFFCC	0.086281633767631
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	2	12	reactivity	#FFF1A9	0.107698911596395
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	3	12	males|sex|women	#FECB68	0.397481751441362
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	4	12	animal	#FECB68	0.33217480570307
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	5	12	animals	#FDAD4A	0.44055622024956
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	6	12		#FD913D	0.522547606772687
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	7	12	remember|subsequent	#FECB68	0.361861413593204
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	8	12	autobiographical|memories	#FFF1A9	0.13428944334642
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	9	12		#FD913D	0.583808858850791
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	10	12	violation|violations	#FECB68	0.368097335444191
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	11	12	aphasia	#FC622F	0.606821684045658
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	12	12	nonwords	#FDAD4A	0.493875016861266
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	13	12	dyslexia	#FDAD4A	0.448998208443786
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	14	12		#FC622F	0.680975823943385
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	15	12	priming	#FD913D	0.527497475475987
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	16	12		#F03623	0.713386862768467
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	17	12	category|repetition	#F03623	0.712904313368543
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	18	12		#FC622F	0.679291259573258
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	19	12	developmental|development	#FD913D	0.561714975282764
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	20	12		#F03623	0.706650876612332
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	21	12	space	#F03623	0.756602003654158
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	22	12		#D7141E	0.802253783062359
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	23	12	color	#F03623	0.775552169263028
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	1	13	threat	#FFF1A9	0.141109003937685
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	2	13	regulation	#FFF1A9	0.132401623579885
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	3	13		#FEE188	0.287191603587172
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	4	13	masked	#FDAD4A	0.437574472343353
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	5	13	scene|scenes	#FD913D	0.596460471414506
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	6	13		#FD913D	0.535459340906904
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	7	13	confidence|remembered	#FECB68	0.304722718590801
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	8	13		#FD913D	0.5093979181739
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	9	13		#FD913D	0.58493758270991
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	10	13	ambiguity|ambiguous	#FECB68	0.358567089163032
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	11	13		#FC622F	0.669944626706838
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	12	13		#F03623	0.703225485053906
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	13	13	writing	#FD913D	0.518558707979948
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	14	13		#F03623	0.731608838798726
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	15	13	categorization|congruency|prime	#FC622F	0.670925156182537
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	16	13		#F03623	0.735888829230331
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	17	13	mask	#FC622F	0.63903184037608
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	18	13		#F03623	0.701492587871713
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	19	13		#FC622F	0.662046588506432
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	20	13		#FC622F	0.666884687155549
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	21	13	conflict|congruent|incongruent	#FC622F	0.605211823558974
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	22	13	errors	#FC622F	0.604607817733389
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	23	13	maintenance|probe|wm	#F03623	0.769343450123799
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	1	14	angry|fearful|happy	#FFF1A9	0.167500077349488
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	2	14		#FFF1A9	0.192943562080985
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	3	14	awareness|conscious|ptsd	#FFF1A9	0.103756490562139
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	4	14		#FDAD4A	0.465196806556094
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	5	14	houses|photographs	#FECB68	0.364748635762042
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	6	14		#FC622F	0.622212733889616
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	7	14	hits	#FDAD4A	0.460213581844537
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	8	14	famous	#FEE188	0.294778957535578
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	9	14	names	#FECB68	0.367354829429574
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	10	14	family	#FDAD4A	0.41239338068843
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	11	14	competition|mouth	#D7141E	0.826404698722803
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	12	14	abilities	#FD913D	0.595575668789576
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	13	14	implicit|unfamiliar	#FC622F	0.603806912024845
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	14	14		#F03623	0.754982027979168
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	15	14	tom	#F03623	0.73889247041388
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	16	14		#F03623	0.757114686681167
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	17	14		#F03623	0.738113755879548
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	18	14	stop	#FD913D	0.595478038821133
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	19	14	inhibition|inhibitory|nogo	#FD913D	0.556819141303079
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	20	14	monitoring|stroop	#FECB68	0.391832547631386
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	21	14	interference	#FC622F	0.610624631435719
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	22	14		#F03623	0.718518822836131
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	23	14	demands|executive	#F03623	0.708168954929162
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	1	15	anger	#FFF1A9	0.19671274559808
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	2	15	stress	#FFF1A9	0.13429361448782
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	3	15	feelings	#FEE188	0.211441639103418
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	4	15	salient	#FEE188	0.283190823922588
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	5	15	novelty	#FEE188	0.286823097272736
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	6	15	movie	#FC622F	0.612624128311977
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	7	15		#FC622F	0.665950706812061
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	8	15		#FC622F	0.678889895365131
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	9	15	longterm	#FDAD4A	0.454302789543543
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	10	15		#F03623	0.707809365809855
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	11	15	reasoning|relational	#FD913D	0.596847407597547
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	12	15		#F03623	0.756885607952211
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	13	15	presentations	#FC622F	0.611515970415098
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	14	15		#F03623	0.741543670418479
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	15	15	identity	#FC622F	0.608327114362702
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	16	15		#F03623	0.754765189742214
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	17	15	strategies|strategy	#FD913D	0.599649524456053
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	18	15	card|cards	#FD913D	0.537781261769332
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	19	15	gonogo	#FD913D	0.560856395797677
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	20	15		#FC622F	0.654695637719819
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	21	15	switching|switch	#F03623	0.792936675732038
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	22	15		#F03623	0.719836262747387
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	23	15	2back|rule	#FC622F	0.681513374298929
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	1	16	emotionally|mood|personality|sadness	#FFF1A9	0.14114822671799
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	2	16	disgust|sexual	#FECB68	0.307184571471398
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	3	16	olfactory	#FFF1A9	0.183167988734503
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	4	16	physiological	#FEE188	0.295802664109779
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	5	16	depressed|depressive|habituation	#FEE188	0.234016773032602
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	6	16	schizophrenic	#FDAD4A	0.480077352097985
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	7	16	colors|contexts	#FDAD4A	0.422309008836681
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	8	16	aging|encoded	#FD913D	0.525708967821496
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	9	16	goal	#FC622F	0.660829382612378
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	10	16		#F03623	0.728887156774852
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	11	16	autism|autistic|nonverbal	#FDAD4A	0.484437481767799
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	12	16		#F03623	0.772395068390885
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	13	16	bottomup|repetitions	#FC622F	0.620090841285754
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	14	16	adaptation	#FC622F	0.640870722265811
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	15	16	irrelevant	#FC622F	0.67690923347089
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	16	16	distractor|distractors	#FC622F	0.637045590322783
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	17	16		#D7141E	0.803480096944945
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	18	16	subtraction	#FC622F	0.609171601864446
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	19	16	1back|nback	#FD913D	0.583850351227221
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	20	16	manipulation|rules	#F03623	0.761984313935546
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	21	16		#D7141E	0.80095205397571
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	22	16		#D7141E	0.823199024078994
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	23	16	digit	#D7141E	0.878189256091316
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	1	17	avoidance	#FFFFCC	0
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	2	17		#FEE188	0.215088631848941
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	3	17	eating|food	#FFFFCC	0.0893765272563388
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	4	17	taste	#FFF1A9	0.188139168757335
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	5	17	bipolar	#FECB68	0.313662581444724
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	6	17	illness|uncertainty	#FECB68	0.329542906392278
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	7	17	females|probabilistic	#FDAD4A	0.46711126171297
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	8	17	rejection	#FEE188	0.292771555741993
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	9	17	colour|paired	#D7141E	0.856377531137734
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	10	17		#F03623	0.787424112041294
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	11	17		#D7141E	0.814929606334227
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	12	17		#D7141E	0.804476988056817
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	13	17	taskirrelevant	#FC622F	0.611337459267021
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	14	17		#D7141E	0.843512881501686
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	15	17	suppression	#FD913D	0.593228234555362
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	16	17		#B10026	0.921020695184874
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	17	17	shifting|shortterm	#F03623	0.799116430141643
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	18	17	digits	#B10026	0.964204775194359
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	19	17	search	#F03623	0.756825929188299
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	20	17	counting|taskrelated	#FC622F	0.609313895187857
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	21	17	topdown	#F03623	0.716890900040556
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	22	17	visuospatial	#F03623	0.718932537528913
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	23	17	arithmetic|calculation|solving	#F03623	0.742683483839098
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	1	18	addiction|craving|drugs	#FFF1A9	0.153090615262423
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	2	18	allele|genotype|polymorphism	#FFF1A9	0.101515787286889
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	3	18	motivation	#FFF1A9	0.159343882994863
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	4	18	heart	#FECB68	0.300234231898688
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	5	18	sleep	#FECB68	0.347833225888098
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	6	18	expectancy	#FDAD4A	0.448488926204532
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	7	18	phasic|salience	#FECB68	0.314038903034308
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	8	18	adolescence|adolescents	#FDAD4A	0.498688709749575
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	9	18	intelligence|tracking	#FD913D	0.541621860480468
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	10	18		#D7141E	0.832034039714402
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	11	18	serial	#FD913D	0.599492950986168
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	12	18		#D7141E	0.864806812868109
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	13	18	spatially|taskrelevant	#F03623	0.762879694664072
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	14	18		#D7141E	0.891833632197929
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	15	18	attended|attend|unattended	#D7141E	0.809287116478439
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	16	18	rotation|shapes	#F03623	0.717770371655734
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	17	18	rehearsal	#D7141E	0.862997104162947
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	18	18	learned	#F03623	0.724584370470831
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	19	18		#B10026	0.903537624143995
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	20	18	cued|preparatory	#F03623	0.769450879828726
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	21	18		#D7141E	0.864056869224777
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	22	18		#D7141E	0.869175088653794
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	23	18	numbers|numerical	#F03623	0.776108338858975
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	1	19	future	#FFF1A9	0.1899758810526
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	2	19	negatively	#FEE188	0.215996276750874
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	3	19	distress|epilepsy|selfreported	#FFF1A9	0.153273639295979
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	4	19	anticipatory|cocaine|probabilities|smoking	#FFF1A9	0.148036795846057
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	5	19	alcohol|amount|impulsivity	#FECB68	0.304282812216974
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	6	19	game|success	#FECB68	0.319412225855729
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	7	19	adhd|childhood|engagement	#FECB68	0.369475676200912
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	8	19		#FC622F	0.613522957990737
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	9	19		#F03623	0.737744860601972
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	10	19		#D7141E	0.812415690548697
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	11	19		#D7141E	0.849908566147506
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	12	19	endogenous	#F03623	0.74152610065064
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	13	19	cueing|invalid|orienting	#F03623	0.726734110897036
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	14	19		#B10026	0.926379874960476
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	15	19	multisensory	#F03623	0.754121493005301
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	16	19		#B10026	0.935868316188622
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	17	19	shifts	#B10026	0.989625912847779
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	18	19	covert	#D7141E	0.867230015617509
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	19	19		#B10026	0.937249087646344
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	20	19	preparation	#D7141E	0.820785058622016
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	21	19	discrimination|training	#D7141E	0.841302229661325
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	22	19	sequences	#F03623	0.711676975145058
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	23	19		#F03623	0.774790388365566
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	1	20	personal|self|selfreferential|trait|traits	#FFF1A9	0.124189721174697
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	2	20	empathic|theory	#FECB68	0.32700801075496
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	3	20	attribution|intentional	#FDAD4A	0.417062283035009
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	4	20	elderly|oscillations	#FEE188	0.298026666031425
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	5	20	antipsychotic|virtual	#FD913D	0.596976131710507
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	6	20		#FD913D	0.579111233447737
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	7	20	experiences	#FEE188	0.270125309652991
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	8	20	categorical|pressure	#FD913D	0.539436337460391
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	9	20	play|skills	#FD913D	0.561057550081632
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	10	20	automatic|trained	#FC622F	0.655729156888108
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	11	20		#FC622F	0.670006474690975
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	12	20	practice	#FD913D	0.50076481598235
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	13	20	visuomotor	#FC622F	0.609420367822355
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	14	20		#B10026	0.929571019566272
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	15	20	tool	#F03623	0.750512825629833
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	16	20	vision	#D7141E	0.820953869149628
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	17	20	visually	#F03623	0.787973315850906
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	18	20	saccade|saccades|saccadic	#D7141E	0.828093687686483
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	19	20	locations	#D7141E	0.851667209945605
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	20	20	imagery|planning	#F03623	0.725113730909487
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	21	20		#D7141E	0.837768978078831
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	22	20	rest	#FC622F	0.659669406564135
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	23	20	sequence	#F03623	0.713418081551388
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	1	21	scenarios	#FFF1A9	0.130002556993719
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	2	21	intention|intentions	#FD913D	0.515678160027139
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	3	21	causality|perspective	#FECB68	0.389329931453191
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	4	21	past	#FFF1A9	0.173116838500695
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	5	21		#FDAD4A	0.492695667260944
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	6	21	episode	#FECB68	0.354812484988326
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	7	21	improvement	#FEE188	0.275437424444246
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	8	21	masking|retention	#FD913D	0.594537830622104
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	9	21		#F03623	0.717618851302855
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	10	21	dominant	#FD913D	0.517329119566616
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	11	21		#FD913D	0.551049641596358
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	12	21	sequential	#FDAD4A	0.406078613174504
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	13	21	fingers	#FD913D	0.506439564923989
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	14	21		#B10026	0.967268357308725
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	15	21	gesture|gestures	#F03623	0.747114680135727
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	16	21		#B10026	0.988375269221263
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	17	21	hands	#D7141E	0.806701221707878
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	18	21		#B10026	0.973068198725116
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	19	21		#B10026	1
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	20	21	eye|position	#B10026	0.928003934134388
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	21	21	execution	#F03623	0.74455306204916
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	22	21	finger|sensorimotor	#FD913D	0.586945002317461
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	23	21		#FC622F	0.656383857343764
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	1	22	moral|stories|story	#FEE188	0.209702094696076
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	2	22	mentalizing|persons	#FDAD4A	0.458752218934209
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	3	22	default|restingstate	#FFF1A9	0.13856599633077
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	4	22	thinking|thought|thoughts	#FECB68	0.301317670043716
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	5	22	spontaneous	#FEE188	0.222098157209905
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	6	22	concentration|sensations	#FFF1A9	0.146308248494008
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	7	22	hierarchical|preference	#FDAD4A	0.468262472072481
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	8	22	effort|oral|simulation	#FECB68	0.367030645307501
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	9	22	interhemispheric|plasticity	#FDAD4A	0.400421643941547
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	10	22	imagined|imagine	#FC622F	0.644730194848355
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	11	22	tapping	#FDAD4A	0.452889587325938
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	12	22	foot|muscle|muscles|voluntary	#FFF1A9	0.186600115627682
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	13	22	limb	#FECB68	0.319511321433975
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	14	22	eyes|velocity	#F03623	0.779917698059939
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	15	22	biological|gaze|videos	#D7141E	0.861065876539893
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	16	22	body	#F03623	0.776696576186344
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	17	22	grasping|orientation|reaching	#D7141E	0.806367402891054
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	18	22		#B10026	0.965486310535507
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	19	22	mirror|shape	#D7141E	0.894013541855198
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	20	22	actions	#B10026	0.983685311922747
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	21	22	action	#D7141E	0.876752671861947
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	22	22		#F03623	0.702220538192094
+573e0e97-96dc-3edd-be1a-6d9b2c6fcef6	Zorzi M	23	22	hand|movements|sensory	#FD913D	0.560649951504372

@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	1	1	auditory|speech	#FDAD4A	0.411049407478949
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	2	1		#FECB68	0.369470463598147
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	3	1	da|integration	#FD913D	0.53841967325609
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	4	1		#FC622F	0.614557159799878
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	5	1	physical|psychophysical|tactile	#FD913D	0.545912313598128
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	6	1		#FC622F	0.688853805347408
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	7	1	somatosensory|stimulation	#FC622F	0.617772494640916
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	8	1	painful|pain	#FC622F	0.634539165088124
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	9	1		#FC622F	0.678352507904264
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	10	1	ratings	#FC622F	0.64912446423926
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	11	1	affective|affect	#FC622F	0.637433546555279
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	12	1	emotions	#FDAD4A	0.461675273508155
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	13	1	expression|expressions|facial	#FEE188	0.280040914396305
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	14	1		#FD913D	0.504293390018134
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	15	1		#FD913D	0.555960136852475
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	16	1	emotion|motion|neutral	#FD913D	0.541489281707063
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	17	1	rating	#FC622F	0.681855234777827
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	18	1	negative|positive	#F03623	0.710787882332009
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	19	1		#F03623	0.77353067775782
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	20	1	ear|order	#F03623	0.768255869121321
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	21	1	motor	#FD913D	0.596103460960158
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	22	1	visual	#FD913D	0.524889757749819
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	23	1	age|image|response	#FC622F	0.668798031182875
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	1	2	sound|sounds	#FEE188	0.247935348642877
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	2	2		#FECB68	0.336578184931567
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	3	2	audiovisual|bimodal|crossmodal	#FFF1A9	0.193081929016045
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	4	2		#FC622F	0.619942709550214
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	5	2		#FC622F	0.663727031728492
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	6	2		#F03623	0.707065592776401
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	7	2	sensation	#FD913D	0.561858636450053
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	8	2	heat|noxious	#FD913D	0.543921673475858
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	9	2		#FC622F	0.690561890041202
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	10	2		#FC622F	0.685372741216887
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	11	2		#FC622F	0.659536355052243
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	12	2	valence	#FD913D	0.530818692061805
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	13	2	person|social	#FD913D	0.572264770064476
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	14	2		#FD913D	0.5231513239343
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	15	2	face|faces	#FDAD4A	0.409951323252342
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	16	2		#FC622F	0.634485476738468
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	17	2		#F03623	0.707583665395362
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	18	2		#F03623	0.779243274717618
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	19	2		#F03623	0.796496794795304
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	20	2		#F03623	0.744274401160554
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	21	2	images|spatial	#FC622F	0.66267559715895
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	22	2	control	#F03623	0.715435593265433
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	23	2	time	#FC622F	0.677910803077522
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	1	3	acoustic|listening|musical|music|pitch	#FFF1A9	0.17242332954581
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	2	3	noise|tones	#FEE188	0.220575997194868
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	3	3		#FDAD4A	0.480827825575435
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	4	3		#FC622F	0.60427311875741
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	5	3	frequency	#FC622F	0.648016446234877
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	6	3		#F03623	0.779777916643727
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	7	3		#FC622F	0.68674942569983
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	8	3	temperature	#FD913D	0.554494291600929
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	9	3		#FC622F	0.700318255845
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	10	3	pleasant|unpleasant	#FD913D	0.571464257693263
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	11	3	anxiety	#FD913D	0.515760737055817
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	12	3		#FC622F	0.675576404943954
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	13	3		#FC622F	0.691079799772874
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	14	3		#FC622F	0.638702968675963
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	15	3		#FC622F	0.651194969277793
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	16	3	picture	#FC622F	0.680408856482369
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	17	3		#F03623	0.741124673807491
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	18	3	value	#F03623	0.796930610996485
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	19	3	cue	#F03623	0.784667971366431
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	20	3	error|target	#F03623	0.799716241188133
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	21	3	attention	#FC622F	0.681948410021457
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	22	3		#F03623	0.75285701443588
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	23	3	number	#F03623	0.758867134540218
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	1	4	voice	#FFF1A9	0.17884163320071
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	2	4		#FECB68	0.316020856266805
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	3	4	hearing	#FEE188	0.269996881703153
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	4	4		#FD913D	0.576979287454294
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	5	4	overt	#FC622F	0.606038254717378
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	6	4		#FC622F	0.674760856644207
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	7	4		#F03623	0.74391468567005
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	8	4	nociceptive|nonpainful|painrelated	#FD913D	0.581193743988655
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	9	4	unpleasantness	#FD913D	0.589744470553029
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	10	4	skin|subjective	#F03623	0.701381608347757
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	11	4	depression	#F03623	0.715184261144432
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	12	4	experience	#F03623	0.730621850793839
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	13	4	female	#FC622F	0.6570087402417
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	14	4	male	#FC622F	0.692533867767298
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	15	4	pictures	#FC622F	0.639677743870258
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	16	4		#F03623	0.723641236593045
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	17	4	perception	#FD913D	0.583855607002115
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	18	4		#D7141E	0.806921132698643
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	19	4		#D7141E	0.806657468032391
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	20	4		#F03623	0.790826496054782
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	21	4	correct	#D7141E	0.864782137113274
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	22	4	work	#D7141E	0.813517884374841
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	23	4	memory	#F03623	0.77015120598344
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	1	5	prosodic|prosody	#FEE188	0.240805238963592
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	2	5	phonetic	#FEE188	0.242467460426297
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	3	5	syllable|syllables	#FDAD4A	0.448247035717523
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	4	5		#FD913D	0.548346029901515
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	5	5	lip|production	#FECB68	0.385837000137154
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	6	5	somatotopic	#FDAD4A	0.445591146486085
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	7	5		#D7141E	0.832135309440725
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	8	5		#D7141E	0.818672280783918
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	9	5	empathy	#D7141E	0.827871509028344
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	10	5		#D7141E	0.870744538241853
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	11	5	disorder	#D7141E	0.808409108950205
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	12	5		#D7141E	0.836629734676633
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	13	5		#F03623	0.785949320712035
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	14	5		#F03623	0.750255248967564
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	15	5		#F03623	0.73922611845631
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	16	5		#F03623	0.744819607161681
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	17	5		#F03623	0.76302272066753
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	18	5	mental	#D7141E	0.802568858588999
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	19	5	go	#F03623	0.780519148018722
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	20	5	object	#FD913D	0.536832524130456
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	21	5		#D7141E	0.806504225641791
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	22	5		#F03623	0.775587213288085
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	23	5	word|words	#FC622F	0.633972071572929
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	1	6		#FC622F	0.646839126563923
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	2	6		#FC622F	0.655288778657586
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	3	6		#FC622F	0.676467039968285
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	4	6	vocal	#FECB68	0.388776523606548
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	5	6	articulatory	#FECB68	0.373694428720005
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	6	6		#F03623	0.710348166285543
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	7	6	oddball	#FD913D	0.597409727175967
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	8	6	perceived	#FC622F	0.678736966625055
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	9	6	errorrelated	#F03623	0.799174033310591
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	10	6	approach	#FC622F	0.663373278908842
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	11	6	schizophrenia	#F03623	0.791597564300634
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	12	6	acquisition	#F03623	0.731992181419709
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	13	6		#F03623	0.725059475295374
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	14	6		#FD913D	0.564581962867853
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	15	6		#FD913D	0.580954660745205
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	16	6		#FC622F	0.623133824606984
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	17	6		#F03623	0.758417830397178
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	18	6		#F03623	0.775331703364777
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	19	6		#D7141E	0.805740619825337
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	20	6	objects	#FC622F	0.664970291948896
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	21	6		#D7141E	0.810546638083085
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	22	6		#F03623	0.739525707491837
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	23	6	language|semantic	#FC622F	0.625423132961563
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	1	7	dopamine|dopaminergic	#FD913D	0.569681824312463
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	2	7		#FC622F	0.682579190936085
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	3	7		#D7141E	0.885686649006442
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	4	7		#B10026	0.92193338826358
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	5	7		#B10026	0.94529370534524
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	6	7		#B10026	0.965937807120047
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	7	7		#B10026	1
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	8	7		#B10026	0.962115149376008
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	9	7		#B10026	0.916149056899714
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	10	7		#D7141E	0.861840184941787
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	11	7		#D7141E	0.826675537911676
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	12	7		#F03623	0.783906865805013
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	13	7	linguistic|spoken	#FDAD4A	0.461754590097649
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	14	7		#FD913D	0.519713689082692
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	15	7	comprehension|sentence|sentences|syntactic	#FDAD4A	0.435059980149927
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	16	7		#FD913D	0.582531886422631
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	17	7		#F03623	0.718943900420809
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	18	7	phonological|reading|read	#FC622F	0.700332338775611
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	19	7		#D7141E	0.804856951493888
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	20	7	perceptual|recognition	#F03623	0.791612094560587
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	21	7		#D7141E	0.861208538154906
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	22	7		#F03623	0.79741999260869
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	23	7	verb	#F03623	0.798059059833627
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	1	8	outcome|reward	#FC622F	0.636090150131148
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	2	8	anticipation	#FC622F	0.637608060987659
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	3	8	outcomes	#FC622F	0.696587310348234
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	4	8	choice|choices	#F03623	0.760395216125926
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	5	8	decisions|probability	#D7141E	0.82115317418316
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	6	8	reversal	#D7141E	0.865776000404042
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	7	8	classification|incorrect	#D7141E	0.822526463484714
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	8	8		#B10026	0.935499512391449
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	9	8	agerelated|fluency|probes	#F03623	0.734586051598469
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	10	8	engaged	#FC622F	0.64989296383832
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	11	8	explicit|knowledge	#FC622F	0.660668589405854
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	12	8		#FC622F	0.692799640337815
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	13	8		#FD913D	0.595592724446158
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	14	8		#FD913D	0.532064482428313
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	15	8		#FD913D	0.529257585276937
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	16	8		#FD913D	0.578023974556341
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	17	8	lexical	#FC622F	0.66707241889486
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	18	8		#F03623	0.774897717343326
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	19	8		#D7141E	0.822025410130605
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	20	8		#D7141E	0.873941049737828
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	21	8	encoding	#D7141E	0.849462649963159
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	22	8	retrieval	#D7141E	0.886834540371685
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	23	8	verbal	#D7141E	0.887714751898457
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	1	9	incentive|monetary|money|rewards	#FDAD4A	0.427671264191223
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	2	9	loss	#FC622F	0.601389131064876
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	3	9		#D7141E	0.81649033279123
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	4	9		#D7141E	0.886379372090838
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	5	9	decisionmaking	#D7141E	0.846849008201475
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	6	9		#B10026	0.976999797740244
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	7	9		#B10026	0.956640619002898
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	8	9		#B10026	0.916383280749703
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	9	9		#D7141E	0.858820843482895
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	10	9		#F03623	0.762339339258467
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	11	9		#FC622F	0.694355350862561
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	12	9		#FC622F	0.666414308609211
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	13	9	noun	#FD913D	0.543185105399256
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	14	9	meaning	#FD913D	0.500426300210804
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	15	9	english	#FD913D	0.521259302942185
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	16	9	pseudoword|pseudowords	#FD913D	0.52526254513155
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	17	9		#F03623	0.70602856235557
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	18	9		#D7141E	0.83309990941814
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	19	9	familiar|judgment	#D7141E	0.854885294051967
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	20	9	pair|pairs	#D7141E	0.829776753002448
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	21	9		#B10026	0.951774364513392
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	22	9		#B10026	0.937539593824434
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	23	9	letter|working	#D7141E	0.871562759930599
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	1	10	losses|reinforcement|win	#FD913D	0.511645895602855
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	2	10	gain	#FDAD4A	0.431126367163631
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	3	10	expectation	#FC622F	0.64055915022393
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	4	10	risk	#F03623	0.737180305513144
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	5	10	fact	#FC622F	0.699020720447657
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	6	10	associative	#F03623	0.774266504146783
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	7	10	familiarity|judgments|old	#D7141E	0.83694760275619
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	8	10	contextual|text	#FC622F	0.654230146678169
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	9	10	recall|retrieved	#FC622F	0.639147998924619
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	10	10	conceptual|semantically	#FD913D	0.527365804987473
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	11	10	grammatical|speakers	#FD913D	0.535041870373152
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	12	10	nouns	#FD913D	0.562760754229107
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	13	10	japanese	#FD913D	0.513617905201695
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	14	10	languages	#FD913D	0.533548206107717
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	15	10	written	#FD913D	0.547178329541985
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	16	10	chinese|phonology	#FD913D	0.557367812928931
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	17	10	orthographic	#FC622F	0.692162827210863
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	18	10		#D7141E	0.881787781659778
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	19	10		#B10026	0.923514704058084
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	20	10	association|decision	#B10026	0.962442836686626
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	21	10	selection	#B10026	0.914801275302918
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	22	10	letters	#D7141E	0.847236407361454
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	23	10	demand|load	#D7141E	0.846913029802911
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	1	11	conditioned|conditioning	#FECB68	0.363657657754348
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	2	11		#FC622F	0.630830439036803
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	3	11	drug|placebo	#FC622F	0.611187451480112
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	4	11		#F03623	0.786721621736909
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	5	11	associations	#FC622F	0.630343040279583
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	6	11		#F03623	0.772060631258144
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	7	11	episodic|recollection	#FC622F	0.691610264988484
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	8	11		#F03623	0.73479988442571
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	9	11		#F03623	0.743042148675004
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	10	11	concepts	#FECB68	0.312254122607893
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	11	11		#FC622F	0.64966912755918
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	12	11		#FC622F	0.676827586850549
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	13	11	german	#FD913D	0.577066038968518
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	14	11	readers	#F03623	0.740698971217216
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	15	11	character|name|naming	#FC622F	0.630910370708943
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	16	11		#F03623	0.727719837947801
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	17	11	novel	#F03623	0.788111180556858
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	18	11		#D7141E	0.857804478611113
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	19	11	child|children	#D7141E	0.84402428729215
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	20	11	adults	#B10026	0.934212117623147
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	21	11	ability|feedback|learning	#B10026	0.955363038844886
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	22	11	cues|delay	#D7141E	0.834436991664573
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	23	11	attentional|difficulty|targets	#D7141E	0.81149384471804
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	1	12	aversive|shock	#FDAD4A	0.475875955360879
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	2	12	reactivity	#FDAD4A	0.437677827621256
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	3	12	males|sex|women	#FD913D	0.552799639207383
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	4	12	animal	#FD913D	0.523666580618553
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	5	12	animals	#FDAD4A	0.454017555335204
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	6	12		#FC622F	0.602226889601704
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	7	12	remember|subsequent	#FECB68	0.389027789191171
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	8	12	autobiographical|memories	#FEE188	0.230563506276172
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	9	12		#FC622F	0.698143036826721
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	10	12	violation|violations	#FDAD4A	0.407693324978238
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	11	12	aphasia	#FD913D	0.590865891265618
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	12	12	nonwords	#FD913D	0.538878462674962
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	13	12	dyslexia	#FC622F	0.643008026112575
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	14	12		#F03623	0.753469755278595
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	15	12	priming	#FD913D	0.55593477473332
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	16	12		#F03623	0.767239835523244
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	17	12	category|repetition	#F03623	0.721753642961882
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	18	12		#D7141E	0.864852822759404
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	19	12	developmental|development	#F03623	0.742331048563629
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	20	12		#B10026	0.928776243950728
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	21	12	space	#D7141E	0.832263915863754
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	22	12		#B10026	0.91940535124395
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	23	12	color	#D7141E	0.847326784565774
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	1	13	threat	#FEE188	0.233914754970389
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	2	13	regulation	#FDAD4A	0.495157637669186
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	3	13		#FD913D	0.578919990915671
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	4	13	masked	#FECB68	0.35563738359316
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	5	13	scene|scenes	#FEE188	0.249507307879601
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	6	13		#FD913D	0.516953078686284
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	7	13	confidence|remembered	#FECB68	0.317554142269149
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	8	13		#FC622F	0.606938075475322
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	9	13		#F03623	0.716287905917213
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	10	13	ambiguity|ambiguous	#FEE188	0.237715035926185
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	11	13		#FC622F	0.686130049141813
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	12	13		#F03623	0.75108193580366
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	13	13	writing	#FDAD4A	0.471217612992612
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	14	13		#F03623	0.757524191899906
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	15	13	categorization|congruency|prime	#FD913D	0.546344162989481
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	16	13		#F03623	0.79998472062783
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	17	13	mask	#F03623	0.745772101840168
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	18	13		#B10026	0.914560665047311
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	19	13		#B10026	0.934936550066783
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	20	13		#B10026	0.910662268335352
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	21	13	conflict|congruent|incongruent	#D7141E	0.81000632622613
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	22	13	errors	#B10026	0.928993131807374
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	23	13	maintenance|probe|wm	#D7141E	0.841581525135629
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	1	14	angry|fearful|happy	#FFF1A9	0.182122332342063
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	2	14		#FECB68	0.346763997431882
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	3	14	awareness|conscious|ptsd	#FDAD4A	0.439710053163287
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	4	14		#FD913D	0.571875472648741
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	5	14	houses|photographs	#FFF1A9	0.153437433384804
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	6	14		#FD913D	0.539884321750369
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	7	14	hits	#FDAD4A	0.426868325241762
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	8	14	famous	#FECB68	0.300094643769654
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	9	14	names	#FDAD4A	0.444310315671125
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	10	14	family	#FD913D	0.513526893095178
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	11	14	competition|mouth	#FD913D	0.504842710749095
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	12	14	abilities	#FC622F	0.62032768197291
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	13	14	implicit|unfamiliar	#FD913D	0.559049732748234
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	14	14		#F03623	0.718263786030863
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	15	14	tom	#FC622F	0.612275445416516
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	16	14		#D7141E	0.83675022816095
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	17	14		#B10026	0.911713917255458
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	18	14	stop	#D7141E	0.885778583356089
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	19	14	inhibition|inhibitory|nogo	#D7141E	0.833165568692847
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	20	14	monitoring|stroop	#F03623	0.744339432916888
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	21	14	interference	#F03623	0.747486406790547
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	22	14		#D7141E	0.886782530633986
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	23	14	demands|executive	#D7141E	0.833047203923018
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	1	15	anger	#FFFFCC	0.0698806198747922
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	2	15	stress	#FEE188	0.241881813895566
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	3	15	feelings	#FDAD4A	0.427880825061084
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	4	15	salient	#FDAD4A	0.490780926914444
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	5	15	novelty	#FECB68	0.324172562548693
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	6	15	movie	#FECB68	0.373423224704114
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	7	15		#F03623	0.799793768419511
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	8	15		#D7141E	0.871976945915914
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	9	15	longterm	#FC622F	0.63044730713119
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	10	15		#D7141E	0.823909507902557
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	11	15	reasoning|relational	#FC622F	0.670023328695879
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	12	15		#F03623	0.785349524997806
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	13	15	presentations	#FD913D	0.527887936152355
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	14	15		#F03623	0.704198446414414
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	15	15	identity	#FD913D	0.516424111352763
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	16	15		#D7141E	0.843838599989095
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	17	15	strategies|strategy	#F03623	0.774297767473348
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	18	15	card|cards	#F03623	0.784602256871931
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	19	15	gonogo	#D7141E	0.848585472512085
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	20	15		#D7141E	0.897841845625123
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	21	15	switching|switch	#F03623	0.752164664644161
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	22	15		#D7141E	0.867698326110461
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	23	15	2back|rule	#F03623	0.782715973978512
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	1	16	emotionally|mood|personality|sadness	#FFF1A9	0.172263164109098
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	2	16	disgust|sexual	#FEE188	0.238162035247696
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	3	16	olfactory	#FEE188	0.285867600503939
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	4	16	physiological	#FD913D	0.590217723936631
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	5	16	depressed|depressive|habituation	#FDAD4A	0.451815335928836
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	6	16	schizophrenic	#F03623	0.764943419429501
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	7	16	colors|contexts	#FC622F	0.651208478375176
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	8	16	aging|encoded	#FD913D	0.524751138268215
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	9	16	goal	#FD913D	0.537142434762968
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	10	16		#D7141E	0.819393121490836
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	11	16	autism|autistic|nonverbal	#FC622F	0.641411930075679
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	12	16		#F03623	0.790199079108347
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	13	16	bottomup|repetitions	#FDAD4A	0.498644459668122
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	14	16	adaptation	#FDAD4A	0.496566490867182
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	15	16	irrelevant	#F03623	0.721167299463531
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	16	16	distractor|distractors	#FD913D	0.582288987456394
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	17	16		#D7141E	0.875087163284613
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	18	16	subtraction	#F03623	0.782443121730533
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	19	16	1back|nback	#FC622F	0.648016993221114
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	20	16	manipulation|rules	#F03623	0.775309767629399
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	21	16		#D7141E	0.859362744158383
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	22	16		#D7141E	0.841237166081479
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	23	16	digit	#F03623	0.750524651772371
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	1	17	avoidance	#FEE188	0.255505103585897
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	2	17		#FDAD4A	0.429004741534372
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	3	17	eating|food	#FECB68	0.369958711000245
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	4	17	taste	#FD913D	0.527691471174345
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	5	17	bipolar	#FC622F	0.666783032114434
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	6	17	illness|uncertainty	#FC622F	0.669278853930243
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	7	17	females|probabilistic	#F03623	0.712413028948376
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	8	17	rejection	#FDAD4A	0.465249185047766
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	9	17	colour|paired	#FD913D	0.548771194808198
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	10	17		#D7141E	0.866588420106946
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	11	17		#D7141E	0.819259863912828
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	12	17		#D7141E	0.801556971301006
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	13	17	taskirrelevant	#FDAD4A	0.491529785875962
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	14	17		#FC622F	0.629075227634789
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	15	17	suppression	#FDAD4A	0.456376481524171
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	16	17		#FC622F	0.692771804154382
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	17	17	shifting|shortterm	#FD913D	0.595825998144368
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	18	17	digits	#FC622F	0.676811946141046
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	19	17	search	#F03623	0.769024311365239
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	20	17	counting|taskrelated	#F03623	0.733586909936312
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	21	17	topdown	#FC622F	0.689689583919274
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	22	17	visuospatial	#FC622F	0.677155685977292
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	23	17	arithmetic|calculation|solving	#F03623	0.76355256132129
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	1	18	addiction|craving|drugs	#FEE188	0.228689624694779
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	2	18	allele|genotype|polymorphism	#FECB68	0.379828960867434
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	3	18	motivation	#FDAD4A	0.47908589619818
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	4	18	heart	#FC622F	0.643325046668994
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	5	18	sleep	#FC622F	0.632219588234343
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	6	18	expectancy	#FD913D	0.561895221090058
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	7	18	phasic|salience	#FD913D	0.555979753714472
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	8	18	adolescence|adolescents	#FD913D	0.589908467903946
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	9	18	intelligence|tracking	#FD913D	0.56227127856478
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	10	18		#D7141E	0.83183726891588
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	11	18	serial	#FC622F	0.656156387720085
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	12	18		#F03623	0.752157731080857
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	13	18	spatially|taskrelevant	#FD913D	0.575503675457019
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	14	18		#FC622F	0.61887109927594
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	15	18	attended|attend|unattended	#FECB68	0.360298702113476
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	16	18	rotation|shapes	#FDAD4A	0.470056290850465
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	17	18	rehearsal	#FC622F	0.633233530889889
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	18	18	learned	#FD913D	0.552789373306004
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	19	18		#F03623	0.749712260476857
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	20	18	cued|preparatory	#F03623	0.707739211464348
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	21	18		#F03623	0.796647691429806
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	22	18		#D7141E	0.839719340178423
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	23	18	numbers|numerical	#F03623	0.726059902479407
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	1	19	future	#FDAD4A	0.44696986548057
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	2	19	negatively	#FDAD4A	0.469996751237551
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	3	19	distress|epilepsy|selfreported	#FEE188	0.245164878591317
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	4	19	anticipatory|cocaine|probabilities|smoking	#FDAD4A	0.403798379745713
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	5	19	alcohol|amount|impulsivity	#FDAD4A	0.462448511799184
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	6	19	game|success	#FD913D	0.561274398495716
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	7	19	adhd|childhood|engagement	#F03623	0.711296932147431
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	8	19		#B10026	0.91097136391919
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	9	19		#D7141E	0.842596038864868
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	10	19		#F03623	0.789774990764855
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	11	19		#F03623	0.728783494326941
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	12	19	endogenous	#FDAD4A	0.465390266761126
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	13	19	cueing|invalid|orienting	#FD913D	0.547532623367947
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	14	19		#FD913D	0.589113412853651
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	15	19	multisensory	#FDAD4A	0.421463097159246
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	16	19		#FD913D	0.552243865437583
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	17	19	shifts	#FD913D	0.558020750426087
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	18	19	covert	#FC622F	0.607632141056909
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	19	19		#FC622F	0.65054887558893
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	20	19	preparation	#FD913D	0.55070154240184
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	21	19	discrimination|training	#F03623	0.739052941730501
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	22	19	sequences	#FC622F	0.610366191854765
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	23	19		#F03623	0.771463447353904
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	1	20	personal|self|selfreferential|trait|traits	#FECB68	0.389666656133082
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	2	20	empathic|theory	#FDAD4A	0.487696277816914
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	3	20	attribution|intentional	#FEE188	0.222816886619756
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	4	20	elderly|oscillations	#FECB68	0.304717403934737
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	5	20	antipsychotic|virtual	#FC622F	0.606953590862343
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	6	20		#B10026	0.954013165122254
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	7	20	experiences	#FD913D	0.565779175713778
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	8	20	categorical|pressure	#FC622F	0.606646757307158
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	9	20	play|skills	#FD913D	0.533975315299486
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	10	20	automatic|trained	#FD913D	0.514024877088896
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	11	20		#FC622F	0.651692252105748
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	12	20	practice	#FDAD4A	0.482120325337948
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	13	20	visuomotor	#FECB68	0.372257950476769
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	14	20		#FD913D	0.525254713389446
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	15	20	tool	#FEE188	0.22932264506828
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	16	20	vision	#FEE188	0.24168156157526
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	17	20	visually	#FD913D	0.509607296814358
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	18	20	saccade|saccades|saccadic	#FECB68	0.333439666510686
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	19	20	locations	#FC622F	0.601463606881772
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	20	20	imagery|planning	#FD913D	0.553403534808529
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	21	20		#FC622F	0.670009551723364
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	22	20	rest	#FC622F	0.648322671109218
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	23	20	sequence	#F03623	0.75895416284219
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	1	21	scenarios	#FEE188	0.238109695362886
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	2	21	intention|intentions	#FECB68	0.346603133226719
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	3	21	causality|perspective	#FECB68	0.328734598422064
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	4	21	past	#FEE188	0.263805513621733
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	5	21		#D7141E	0.896177440636814
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	6	21	episode	#FECB68	0.389000131699998
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	7	21	improvement	#FDAD4A	0.40953734937711
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	8	21	masking|retention	#FDAD4A	0.480105306855689
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	9	21		#FC622F	0.694649691143735
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	10	21	dominant	#FECB68	0.390399938005372
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	11	21		#FD913D	0.506893740851014
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	12	21	sequential	#FDAD4A	0.482505429511731
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	13	21	fingers	#FFF1A9	0.185616558767502
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	14	21		#FECB68	0.30728997167054
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	15	21	gesture|gestures	#FFF1A9	0.146410721534241
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	16	21		#FECB68	0.344729732736504
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	17	21	hands	#FECB68	0.306340263765283
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	18	21		#FD913D	0.522973011735179
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	19	21		#FD913D	0.542473883794569
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	20	21	eye|position	#FD913D	0.532056904722094
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	21	21	execution	#FDAD4A	0.450506303572623
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	22	21	finger|sensorimotor	#FECB68	0.390571866679114
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	23	21		#FD913D	0.548853747768872
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	1	22	moral|stories|story	#FEE188	0.218492928609939
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	2	22	mentalizing|persons	#FEE188	0.272208040564787
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	3	22	default|restingstate	#FDAD4A	0.409415821442147
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	4	22	thinking|thought|thoughts	#FECB68	0.343621113850689
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	5	22	spontaneous	#FD913D	0.541100561816458
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	6	22	concentration|sensations	#FC622F	0.600706654559613
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	7	22	hierarchical|preference	#FDAD4A	0.431086611331946
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	8	22	effort|oral|simulation	#FDAD4A	0.434596548080694
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	9	22	interhemispheric|plasticity	#FDAD4A	0.454953365074137
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	10	22	imagined|imagine	#FECB68	0.36207544174326
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	11	22	tapping	#FDAD4A	0.401786139757302
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	12	22	foot|muscle|muscles|voluntary	#FECB68	0.306366492436612
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	13	22	limb	#FFF1A9	0.147684268674064
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	14	22	eyes|velocity	#FFF1A9	0.106972100372474
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	15	22	biological|gaze|videos	#FFFFCC	0
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	16	22	body	#FECB68	0.375988603576903
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	17	22	grasping|orientation|reaching	#FEE188	0.251897926336232
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	18	22		#FD913D	0.507984901030417
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	19	22	mirror|shape	#FDAD4A	0.475484479741998
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	20	22	actions	#FDAD4A	0.402041052446069
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	21	22	action	#FC622F	0.633657175315446
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	22	22		#FD913D	0.517664034488487
+dca98aff-6fc0-38d2-9b5c-bad16f727746	Gauthier S	23	22	hand|movements|sensory	#FDAD4A	0.421688927172328

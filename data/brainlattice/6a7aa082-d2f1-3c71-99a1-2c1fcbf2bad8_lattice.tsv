@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	1	1	auditory|speech	#FD913D	0.590928786180364
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	2	1		#FDAD4A	0.495593995511297
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	3	1	da|integration	#FC622F	0.624101046777809
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	4	1		#FC622F	0.624082127213518
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	5	1	physical|psychophysical|tactile	#FDAD4A	0.450899360032285
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	6	1		#FC622F	0.610146346215509
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	7	1	somatosensory|stimulation	#FC622F	0.612660638059642
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	8	1	painful|pain	#FDAD4A	0.464159443181262
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	9	1		#FD913D	0.585678123904192
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	10	1	ratings	#F03623	0.762568569190725
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	11	1	affective|affect	#FC622F	0.631242308570045
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	12	1	emotions	#FC622F	0.658693253709776
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	13	1	expression|expressions|facial	#FD913D	0.561553335849462
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	14	1		#F03623	0.731826213172136
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	15	1		#F03623	0.764366461949334
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	16	1	emotion|motion|neutral	#F03623	0.781456692870853
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	17	1	rating	#D7141E	0.815743620434869
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	18	1	negative|positive	#D7141E	0.801344658566476
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	19	1		#D7141E	0.846062645678901
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	20	1	ear|order	#F03623	0.756909650145103
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	21	1	motor	#F03623	0.745479730504666
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	22	1	visual	#FC622F	0.682003720683923
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	23	1	age|image|response	#F03623	0.776183194607235
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	1	2	sound|sounds	#FECB68	0.349764248758822
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	2	2		#FDAD4A	0.478859272934112
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	3	2	audiovisual|bimodal|crossmodal	#FDAD4A	0.448242226850361
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	4	2		#FC622F	0.636056021337021
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	5	2		#FC622F	0.6611317443547
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	6	2		#FC622F	0.640691691513102
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	7	2	sensation	#FDAD4A	0.444026756760492
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	8	2	heat|noxious	#FDAD4A	0.473973333352193
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	9	2		#FD913D	0.594124791523833
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	10	2		#F03623	0.73900991305845
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	11	2		#F03623	0.746956569828979
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	12	2	valence	#FC622F	0.69191172001422
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	13	2	person|social	#F03623	0.749944645073341
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	14	2		#F03623	0.740954658423387
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	15	2	face|faces	#FC622F	0.617976673874825
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	16	2		#D7141E	0.832481582938747
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	17	2		#D7141E	0.863135141352718
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	18	2		#D7141E	0.880266038406744
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	19	2		#D7141E	0.851957677527168
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	20	2		#F03623	0.799393619712111
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	21	2	images|spatial	#F03623	0.749841503944687
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	22	2	control	#F03623	0.751693076860689
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	23	2	time	#F03623	0.744247806066138
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	1	3	acoustic|listening|musical|music|pitch	#FDAD4A	0.421427628213286
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	2	3	noise|tones	#FECB68	0.327606360053541
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	3	3		#FC622F	0.623274561335824
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	4	3		#F03623	0.701374231485097
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	5	3	frequency	#FC622F	0.680660995839287
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	6	3		#F03623	0.775392625919271
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	7	3		#FD913D	0.552840514919532
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	8	3	temperature	#FECB68	0.358593815559524
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	9	3		#FD913D	0.583829188020825
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	10	3	pleasant|unpleasant	#FD913D	0.551302905157776
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	11	3	anxiety	#FD913D	0.539417610446019
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	12	3		#F03623	0.708470187447698
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	13	3		#F03623	0.767963980692193
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	14	3		#F03623	0.794319560741613
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	15	3		#D7141E	0.816968379278343
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	16	3	picture	#F03623	0.769056102598229
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	17	3		#D7141E	0.896090195209035
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	18	3	value	#D7141E	0.827122106248028
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	19	3	cue	#F03623	0.785798667319558
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	20	3	error|target	#F03623	0.740058063636848
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	21	3	attention	#FC622F	0.69083685230854
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	22	3		#FC622F	0.682809868698965
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	23	3	number	#FC622F	0.66251123494869
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	1	4	voice	#FDAD4A	0.423438098681871
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	2	4		#FD913D	0.504365810421482
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	3	4	hearing	#FDAD4A	0.454282797512225
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	4	4		#FC622F	0.677384707313914
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	5	4	overt	#FC622F	0.664465731916712
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	6	4		#F03623	0.748235360889645
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	7	4		#FC622F	0.634128487841984
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	8	4	nociceptive|nonpainful|painrelated	#FDAD4A	0.404733546185601
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	9	4	unpleasantness	#FDAD4A	0.481846617380326
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	10	4	skin|subjective	#F03623	0.740434830671838
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	11	4	depression	#FD913D	0.575330132287184
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	12	4	experience	#FC622F	0.613367078131523
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	13	4	female	#FC622F	0.61920429943897
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	14	4	male	#F03623	0.787141620463423
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	15	4	pictures	#F03623	0.77734558770858
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	16	4		#D7141E	0.887643655991244
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	17	4	perception	#D7141E	0.885556853342415
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	18	4		#D7141E	0.834823097655686
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	19	4		#F03623	0.786258451541401
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	20	4		#F03623	0.749350482093438
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	21	4	correct	#FC622F	0.63006006710133
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	22	4	work	#FD913D	0.597018879249152
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	23	4	memory	#FD913D	0.53689273932414
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	1	5	prosodic|prosody	#FECB68	0.363123676994234
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	2	5	phonetic	#FDAD4A	0.434502952703548
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	3	5	syllable|syllables	#FD913D	0.549197973345938
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	4	5		#FC622F	0.667733520800526
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	5	5	lip|production	#FD913D	0.579624785127102
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	6	5	somatotopic	#FD913D	0.548940665108079
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	7	5		#F03623	0.771108659517142
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	8	5		#F03623	0.723937704481627
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	9	5	empathy	#F03623	0.739558426556791
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	10	5		#F03623	0.746361987600406
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	11	5	disorder	#FC622F	0.640544206269712
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	12	5		#F03623	0.710072803660653
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	13	5		#F03623	0.748486160440956
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	14	5		#F03623	0.773778530843778
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	15	5		#D7141E	0.802844171015724
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	16	5		#D7141E	0.833883184298869
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	17	5		#F03623	0.797232055720159
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	18	5	mental	#FC622F	0.672094662971617
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	19	5	go	#F03623	0.738969616942262
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	20	5	object	#FD913D	0.598198355660387
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	21	5		#FC622F	0.66139327097364
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	22	5		#FD913D	0.588289964573398
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	23	5	word|words	#FDAD4A	0.478293417335205
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	1	6		#D7141E	0.842839363033547
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	2	6		#D7141E	0.848990199673757
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	3	6		#B10026	0.902949422021128
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	4	6	vocal	#FD913D	0.527133223467701
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	5	6	articulatory	#FDAD4A	0.427491536298807
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	6	6		#F03623	0.771598300596208
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	7	6	oddball	#FC622F	0.67321802467613
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	8	6	perceived	#F03623	0.751004721795687
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	9	6	errorrelated	#FD913D	0.569598391095835
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	10	6	approach	#FD913D	0.584329835026663
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	11	6	schizophrenia	#FC622F	0.610039489052414
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	12	6	acquisition	#FD913D	0.561358114099129
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	13	6		#FC622F	0.648195959656058
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	14	6		#FD913D	0.526781003684556
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	15	6		#FD913D	0.561222893635556
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	16	6		#FD913D	0.591540664225547
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	17	6		#FC622F	0.611212799811353
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	18	6		#FC622F	0.625494741914463
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	19	6		#FC622F	0.662559640997254
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	20	6	objects	#FC622F	0.633513256947098
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	21	6		#FC622F	0.642338700343248
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	22	6		#FD913D	0.541671157718076
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	23	6	language|semantic	#FDAD4A	0.493240189082958
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	1	7	dopamine|dopaminergic	#FC622F	0.632834141246294
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	2	7		#D7141E	0.85772887457895
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	3	7		#B10026	1
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	4	7		#B10026	0.990929658211696
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	5	7		#B10026	0.930490122410719
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	6	7		#D7141E	0.831866186979348
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	7	7		#F03623	0.782088748006205
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	8	7		#F03623	0.717648552524148
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	9	7		#FC622F	0.696853471022816
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	10	7		#FD913D	0.588826814159633
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	11	7		#FD913D	0.543325987106184
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	12	7		#FD913D	0.532943700499875
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	13	7	linguistic|spoken	#FECB68	0.382762665796651
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	14	7		#FDAD4A	0.448720270275407
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	15	7	comprehension|sentence|sentences|syntactic	#FDAD4A	0.417823874995274
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	16	7		#FDAD4A	0.456340507292602
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	17	7		#FD913D	0.50026673588499
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	18	7	phonological|reading|read	#FDAD4A	0.459354667549389
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	19	7		#FD913D	0.598990734050804
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	20	7	perceptual|recognition	#FC622F	0.687628630791095
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	21	7		#FC622F	0.613710030193951
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	22	7		#FD913D	0.54152630400765
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	23	7	verb	#FDAD4A	0.493240449897958
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	1	8	outcome|reward	#D7141E	0.820570537130692
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	2	8	anticipation	#F03623	0.796935631778433
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	3	8	outcomes	#D7141E	0.851246624740771
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	4	8	choice|choices	#F03623	0.763544048037048
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	5	8	decisions|probability	#F03623	0.781083514978005
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	6	8	reversal	#FC622F	0.656567040739789
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	7	8	classification|incorrect	#FD913D	0.571965161504341
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	8	8		#FD913D	0.597535780414464
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	9	8	agerelated|fluency|probes	#FDAD4A	0.457944079691018
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	10	8	engaged	#FECB68	0.346037476476146
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	11	8	explicit|knowledge	#FECB68	0.357284889527034
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	12	8		#FDAD4A	0.416098201046016
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	13	8		#FDAD4A	0.417089270255232
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	14	8		#FDAD4A	0.41227745465629
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	15	8		#FDAD4A	0.41438036244381
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	16	8		#FDAD4A	0.425562833190148
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	17	8	lexical	#FECB68	0.337465475946772
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	18	8		#FDAD4A	0.477617982652029
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	19	8		#FD913D	0.554298618116652
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	20	8		#FD913D	0.585609813100399
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	21	8	encoding	#FD913D	0.512380074153194
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	22	8	retrieval	#FDAD4A	0.44323225764549
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	23	8	verbal	#FD913D	0.517750142311613
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	1	9	incentive|monetary|money|rewards	#F03623	0.739106247058073
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	2	9	loss	#D7141E	0.82842385906769
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	3	9		#D7141E	0.884684589613974
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	4	9		#D7141E	0.873475731009065
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	5	9	decisionmaking	#D7141E	0.816380143395886
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	6	9		#FC622F	0.657834237932002
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	7	9		#FD913D	0.565050945355205
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	8	9		#FD913D	0.51194094059245
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	9	9		#FDAD4A	0.436370402878862
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	10	9		#FECB68	0.395513771171637
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	11	9		#FECB68	0.393850119054583
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	12	9		#FECB68	0.38382096430311
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	13	9	noun	#FEE188	0.212082193009175
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	14	9	meaning	#FECB68	0.338595615033417
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	15	9	english	#FECB68	0.300930778056971
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	16	9	pseudoword|pseudowords	#FECB68	0.397142279649793
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	17	9		#FDAD4A	0.417106416084246
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	18	9		#FDAD4A	0.493447779236132
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	19	9	familiar|judgment	#FDAD4A	0.461137502279669
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	20	9	pair|pairs	#FDAD4A	0.490300707679161
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	21	9		#FC622F	0.629462887817475
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	22	9		#FD913D	0.591768359638614
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	23	9	letter|working	#FD913D	0.523285379928031
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	1	10	losses|reinforcement|win	#FC622F	0.652099028243345
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	2	10	gain	#FC622F	0.68568830929885
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	3	10	expectation	#FD913D	0.593705330623081
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	4	10	risk	#FD913D	0.54833342682143
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	5	10	fact	#FDAD4A	0.49869266972724
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	6	10	associative	#FD913D	0.518785065347226
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	7	10	familiarity|judgments|old	#FEE188	0.2676582479143
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	8	10	contextual|text	#FEE188	0.287748953253657
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	9	10	recall|retrieved	#FEE188	0.203302452138095
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	10	10	conceptual|semantically	#FEE188	0.217418066503059
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	11	10	grammatical|speakers	#FDAD4A	0.469196825071739
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	12	10	nouns	#FFF1A9	0.176260398778367
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	13	10	japanese	#FFF1A9	0.194856181048537
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	14	10	languages	#FEE188	0.283759663924057
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	15	10	written	#FEE188	0.264527378148051
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	16	10	chinese|phonology	#FFF1A9	0.172965817387551
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	17	10	orthographic	#FECB68	0.362961064441086
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	18	10		#FD913D	0.538396975251709
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	19	10		#FD913D	0.584636571807603
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	20	10	association|decision	#FC622F	0.659942016317371
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	21	10	selection	#FD913D	0.589710979253661
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	22	10	letters	#FDAD4A	0.487130485981166
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	23	10	demand|load	#FDAD4A	0.48101517152372
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	1	11	conditioned|conditioning	#FDAD4A	0.450821292835359
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	2	11		#F03623	0.742247967743844
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	3	11	drug|placebo	#FC622F	0.63400131233893
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	4	11		#FC622F	0.69709419566648
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	5	11	associations	#FDAD4A	0.467769574891599
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	6	11		#FDAD4A	0.422200700579388
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	7	11	episodic|recollection	#FEE188	0.245446284824959
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	8	11		#FECB68	0.356113159714734
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	9	11		#FD913D	0.533894386044256
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	10	11	concepts	#FEE188	0.292976793528901
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	11	11		#FD913D	0.555375390354233
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	12	11		#FD913D	0.501543621228435
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	13	11	german	#FD913D	0.592561676448261
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	14	11	readers	#FDAD4A	0.421901456370552
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	15	11	character|name|naming	#FECB68	0.383707592404134
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	16	11		#FDAD4A	0.457608698523232
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	17	11	novel	#FD913D	0.526770236503401
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	18	11		#FD913D	0.557662238068876
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	19	11	child|children	#FD913D	0.513669764853589
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	20	11	adults	#FC622F	0.655449288275388
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	21	11	ability|feedback|learning	#B10026	0.952048220026092
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	22	11	cues|delay	#F03623	0.765420002491285
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	23	11	attentional|difficulty|targets	#FD913D	0.597294572778289
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	1	12	aversive|shock	#FC622F	0.623129723101458
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	2	12	reactivity	#FDAD4A	0.460615288831316
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	3	12	males|sex|women	#FDAD4A	0.461603080600707
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	4	12	animal	#FC622F	0.632100096049032
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	5	12	animals	#FDAD4A	0.448773238577184
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	6	12		#FECB68	0.399012444290561
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	7	12	remember|subsequent	#FFF1A9	0.154348544118064
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	8	12	autobiographical|memories	#FFFFCC	0.0586186067107781
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	9	12		#FC622F	0.621078584855099
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	10	12	violation|violations	#FD913D	0.542923053900733
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	11	12	aphasia	#FC622F	0.647492110212946
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	12	12	nonwords	#FD913D	0.537770835563462
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	13	12	dyslexia	#FECB68	0.348249691471649
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	14	12		#FDAD4A	0.494786018863176
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	15	12	priming	#FECB68	0.33642121623689
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	16	12		#FD913D	0.565107175856603
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	17	12	category|repetition	#FD913D	0.552624232413851
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	18	12		#FD913D	0.591275499427247
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	19	12	developmental|development	#FDAD4A	0.405906137353972
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	20	12		#FC622F	0.633738147279831
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	21	12	space	#FC622F	0.695014663293973
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	22	12		#FC622F	0.60775566965834
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	23	12	color	#FD913D	0.595658928442288
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	1	13	threat	#FECB68	0.371215062659432
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	2	13	regulation	#FD913D	0.506486156998385
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	3	13		#FD913D	0.581252027059836
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	4	13	masked	#FDAD4A	0.418154938360783
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	5	13	scene|scenes	#FECB68	0.334374687180494
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	6	13		#FECB68	0.390136839371292
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	7	13	confidence|remembered	#FFF1A9	0.166914488593143
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	8	13		#FECB68	0.393138186326585
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	9	13		#FC622F	0.634357168969949
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	10	13	ambiguity|ambiguous	#FEE188	0.272115159727781
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	11	13		#F03623	0.704749915145571
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	12	13		#FC622F	0.619447863867441
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	13	13	writing	#FEE188	0.291992289049311
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	14	13		#FD913D	0.563839483384315
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	15	13	categorization|congruency|prime	#FECB68	0.376675171461565
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	16	13		#FC622F	0.619198615189893
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	17	13	mask	#FC622F	0.606086161637555
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	18	13		#FC622F	0.66552610513829
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	19	13		#FC622F	0.652431927185079
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	20	13		#FD913D	0.5667558325077
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	21	13	conflict|congruent|incongruent	#FECB68	0.351423061821431
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	22	13	errors	#FD913D	0.579371203375722
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	23	13	maintenance|probe|wm	#FDAD4A	0.402996698606839
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	1	14	angry|fearful|happy	#FEE188	0.270442369717634
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	2	14		#FDAD4A	0.412531471326908
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	3	14	awareness|conscious|ptsd	#FECB68	0.383191344556526
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	4	14		#FD913D	0.566151397374773
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	5	14	houses|photographs	#FEE188	0.258932642419903
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	6	14		#FD913D	0.51951804152302
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	7	14	hits	#FEE188	0.278873930074141
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	8	14	famous	#FEE188	0.22887456970733
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	9	14	names	#FEE188	0.288796694418219
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	10	14	family	#FDAD4A	0.438959229858941
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	11	14	competition|mouth	#FD913D	0.522639106621195
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	12	14	abilities	#FD913D	0.58792141657492
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	13	14	implicit|unfamiliar	#FD913D	0.540601588863233
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	14	14		#FD913D	0.593627480778666
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	15	14	tom	#FC622F	0.608252275593037
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	16	14		#FC622F	0.629977196047094
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	17	14		#FC622F	0.663742566795427
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	18	14	stop	#FC622F	0.668602853035534
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	19	14	inhibition|inhibitory|nogo	#FC622F	0.67487029601161
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	20	14	monitoring|stroop	#FECB68	0.3805649099372
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	21	14	interference	#FECB68	0.311829444640742
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	22	14		#FDAD4A	0.453211789390884
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	23	14	demands|executive	#FDAD4A	0.403985289541391
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	1	15	anger	#FEE188	0.289311788597885
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	2	15	stress	#FEE188	0.292744001110928
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	3	15	feelings	#FD913D	0.50549747026715
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	4	15	salient	#FDAD4A	0.443145638171446
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	5	15	novelty	#FDAD4A	0.417549897544885
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	6	15	movie	#FD913D	0.522659670774926
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	7	15		#FC622F	0.617035502042251
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	8	15		#FD913D	0.599467851114861
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	9	15	longterm	#FECB68	0.344332049229171
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	10	15		#FD913D	0.541951747925323
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	11	15	reasoning|relational	#FEE188	0.279264385115042
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	12	15		#FD913D	0.589401447307399
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	13	15	presentations	#FDAD4A	0.434142336439688
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	14	15		#FC622F	0.604744546504491
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	15	15	identity	#FDAD4A	0.443186455861218
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	16	15		#FC622F	0.6118464310798
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	17	15	strategies|strategy	#FD913D	0.55234356760023
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	18	15	card|cards	#FD913D	0.593179621419902
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	19	15	gonogo	#FC622F	0.692944428346027
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	20	15		#FD913D	0.536272868283547
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	21	15	switching|switch	#FECB68	0.34246219006156
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	22	15		#FDAD4A	0.417752840919788
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	23	15	2back|rule	#FECB68	0.396576013619351
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	1	16	emotionally|mood|personality|sadness	#FDAD4A	0.458319524193622
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	2	16	disgust|sexual	#FDAD4A	0.496788786001791
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	3	16	olfactory	#FDAD4A	0.413993707306336
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	4	16	physiological	#FD913D	0.544789738192
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	5	16	depressed|depressive|habituation	#FECB68	0.303443895896351
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	6	16	schizophrenic	#FDAD4A	0.464943363105682
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	7	16	colors|contexts	#FECB68	0.32388516537006
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	8	16	aging|encoded	#FDAD4A	0.424745103401384
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	9	16	goal	#FEE188	0.255558090108259
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	10	16		#FD913D	0.508923568969908
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	11	16	autism|autistic|nonverbal	#FECB68	0.328305678009953
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	12	16		#FD913D	0.596939536295847
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	13	16	bottomup|repetitions	#FDAD4A	0.458082335958566
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	14	16	adaptation	#FD913D	0.541035229008305
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	15	16	irrelevant	#FDAD4A	0.476343023823042
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	16	16	distractor|distractors	#FECB68	0.367820609740951
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	17	16		#FD913D	0.587652038696788
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	18	16	subtraction	#FECB68	0.380484167817824
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	19	16	1back|nback	#FECB68	0.320730553909174
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	20	16	manipulation|rules	#FECB68	0.385039586593162
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	21	16		#FDAD4A	0.463955034705451
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	22	16		#FDAD4A	0.4085121565945
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	23	16	digit	#FECB68	0.353124827679899
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	1	17	avoidance	#FDAD4A	0.41174019520191
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	2	17		#FC622F	0.660695524250327
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	3	17	eating|food	#FD913D	0.583160595695755
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	4	17	taste	#FD913D	0.527565367834281
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	5	17	bipolar	#FC622F	0.622788742971938
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	6	17	illness|uncertainty	#FDAD4A	0.423327064641293
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	7	17	females|probabilistic	#FECB68	0.393971940054251
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	8	17	rejection	#FECB68	0.321576229690206
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	9	17	colour|paired	#FD913D	0.555720165237105
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	10	17		#FD913D	0.568561925694287
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	11	17		#FD913D	0.582789231251137
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	12	17		#FD913D	0.573612550709337
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	13	17	taskirrelevant	#FD913D	0.505893118505817
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	14	17		#FC622F	0.633552505470685
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	15	17	suppression	#FDAD4A	0.492392480549962
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	16	17		#FC622F	0.665175035784185
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	17	17	shifting|shortterm	#FECB68	0.358619897187029
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	18	17	digits	#FECB68	0.339744299095289
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	19	17	search	#FDAD4A	0.479725367885922
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	20	17	counting|taskrelated	#FD913D	0.559830174512612
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	21	17	topdown	#FDAD4A	0.410485802308752
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	22	17	visuospatial	#FECB68	0.32995481674915
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	23	17	arithmetic|calculation|solving	#FECB68	0.315291341134291
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	1	18	addiction|craving|drugs	#FD913D	0.573452219341577
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	2	18	allele|genotype|polymorphism	#FECB68	0.342853255097984
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	3	18	motivation	#FDAD4A	0.433404875516291
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	4	18	heart	#FD913D	0.596823917252401
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	5	18	sleep	#FD913D	0.520518434821744
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	6	18	expectancy	#FD913D	0.503723328863792
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	7	18	phasic|salience	#FD913D	0.531148231752431
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	8	18	adolescence|adolescents	#FECB68	0.316648849735024
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	9	18	intelligence|tracking	#FDAD4A	0.453142203848637
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	10	18		#FC622F	0.643541013142293
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	11	18	serial	#FECB68	0.380371001687011
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	12	18		#FC622F	0.607841656327486
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	13	18	spatially|taskrelevant	#FECB68	0.317878236776051
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	14	18		#FC622F	0.642549136997408
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	15	18	attended|attend|unattended	#FC622F	0.605358174247778
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	16	18	rotation|shapes	#FDAD4A	0.470856228061333
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	17	18	rehearsal	#FDAD4A	0.454127135431598
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	18	18	learned	#FD913D	0.547570272623733
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	19	18		#FC622F	0.631878738687929
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	20	18	cued|preparatory	#FDAD4A	0.48264891846446
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	21	18		#FC622F	0.637268283528497
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	22	18		#FD913D	0.543513569946986
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	23	18	numbers|numerical	#FECB68	0.351779738709485
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	1	19	future	#FDAD4A	0.414025830064376
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	2	19	negatively	#FD913D	0.52047439997026
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	3	19	distress|epilepsy|selfreported	#FECB68	0.33179673907615
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	4	19	anticipatory|cocaine|probabilities|smoking	#F03623	0.782155038747729
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	5	19	alcohol|amount|impulsivity	#D7141E	0.823418845946661
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	6	19	game|success	#FD913D	0.541582591259268
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	7	19	adhd|childhood|engagement	#FD913D	0.562680382670743
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	8	19		#F03623	0.718676266526886
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	9	19		#FC622F	0.694954139052924
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	10	19		#FC622F	0.631914622527382
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	11	19		#FC622F	0.629066549082033
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	12	19	endogenous	#FD913D	0.51586360565547
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	13	19	cueing|invalid|orienting	#FDAD4A	0.457140395054929
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	14	19		#FC622F	0.653506557657548
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	15	19	multisensory	#FD913D	0.536822370589015
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	16	19		#FC622F	0.658633219808806
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	17	19	shifts	#FC622F	0.655129997068724
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	18	19	covert	#FC622F	0.639642816597114
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	19	19		#FC622F	0.642979224037392
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	20	19	preparation	#FD913D	0.593511859104769
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	21	19	discrimination|training	#FC622F	0.688882679894582
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	22	19	sequences	#F03623	0.735440484687835
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	23	19		#F03623	0.785530590093726
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	1	20	personal|self|selfreferential|trait|traits	#FECB68	0.345093891316114
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	2	20	empathic|theory	#FD913D	0.588365188151652
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	3	20	attribution|intentional	#FFF1A9	0.16106018388737
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	4	20	elderly|oscillations	#FFFFCC	0.0251736396778887
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	5	20	antipsychotic|virtual	#FEE188	0.278764398086619
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	6	20		#F03623	0.778853542665899
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	7	20	experiences	#FECB68	0.362962963422785
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	8	20	categorical|pressure	#FDAD4A	0.434037326283121
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	9	20	play|skills	#FECB68	0.327462253512548
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	10	20	automatic|trained	#FDAD4A	0.435188054781343
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	11	20		#FC622F	0.625949025087915
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	12	20	practice	#FDAD4A	0.41804773964757
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	13	20	visuomotor	#FD913D	0.505035224969294
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	14	20		#F03623	0.704498180806514
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	15	20	tool	#FDAD4A	0.43945889066143
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	16	20	vision	#FECB68	0.302092616044514
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	17	20	visually	#FDAD4A	0.446448118482162
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	18	20	saccade|saccades|saccadic	#FD913D	0.511285401670473
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	19	20	locations	#FDAD4A	0.484250528957057
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	20	20	imagery|planning	#FDAD4A	0.458480914755164
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	21	20		#F03623	0.750933797252472
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	22	20	rest	#F03623	0.786398628780007
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	23	20	sequence	#D7141E	0.827859708725962
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	1	21	scenarios	#FFF1A9	0.192841084456593
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	2	21	intention|intentions	#FECB68	0.389708875579878
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	3	21	causality|perspective	#FEE188	0.250765124556551
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	4	21	past	#FFFFCC	0
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	5	21		#FC622F	0.602530814437821
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	6	21	episode	#FFF1A9	0.108549700983387
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	7	21	improvement	#FEE188	0.226585978387178
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	8	21	masking|retention	#FC622F	0.692235574653977
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	9	21		#FD913D	0.550045727024383
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	10	21	dominant	#FECB68	0.386809701772857
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	11	21		#FD913D	0.58183627990981
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	12	21	sequential	#FD913D	0.549052268390626
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	13	21	fingers	#FEE188	0.28940110502241
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	14	21		#F03623	0.75023097955383
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	15	21	gesture|gestures	#FD913D	0.584883103469671
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	16	21		#FC622F	0.664135917642709
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	17	21	hands	#FDAD4A	0.407818817381073
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	18	21		#FC622F	0.651139183245033
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	19	21		#F03623	0.700927975918323
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	20	21	eye|position	#FC622F	0.646155075868063
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	21	21	execution	#FC622F	0.628091471437316
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	22	21	finger|sensorimotor	#FC622F	0.605994679254598
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	23	21		#F03623	0.739500329910838
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	1	22	moral|stories|story	#FEE188	0.213384591200032
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	2	22	mentalizing|persons	#FECB68	0.336013285686367
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	3	22	default|restingstate	#FEE188	0.212123231733675
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	4	22	thinking|thought|thoughts	#FEE188	0.226287948500391
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	5	22	spontaneous	#FECB68	0.396893817933869
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	6	22	concentration|sensations	#FD913D	0.51191582401568
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	7	22	hierarchical|preference	#FECB68	0.368682632933037
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	8	22	effort|oral|simulation	#FDAD4A	0.436676185782392
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	9	22	interhemispheric|plasticity	#FFF1A9	0.196216180884351
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	10	22	imagined|imagine	#FEE188	0.280864100454021
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	11	22	tapping	#FD913D	0.503232109404934
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	12	22	foot|muscle|muscles|voluntary	#FDAD4A	0.484715087466962
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	13	22	limb	#FECB68	0.324893471985173
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	14	22	eyes|velocity	#FD913D	0.50798128064433
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	15	22	biological|gaze|videos	#FC622F	0.604276509416964
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	16	22	body	#D7141E	0.828890707740836
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	17	22	grasping|orientation|reaching	#FECB68	0.341279264310285
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	18	22		#FC622F	0.661259988178207
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	19	22	mirror|shape	#FC622F	0.677323287326711
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	20	22	actions	#FC622F	0.677312808854323
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	21	22	action	#F03623	0.792860859836751
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	22	22		#F03623	0.723617833919662
+6a7aa082-d2f1-3c71-99a1-2c1fcbf2bad8	Philipsen A	23	22	hand|movements|sensory	#FC622F	0.667696946240997

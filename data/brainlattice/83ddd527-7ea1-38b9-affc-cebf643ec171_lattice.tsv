@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	1	1	auditory|speech	#FECB68	0.320073773217616
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	2	1		#FECB68	0.316472444471667
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	3	1	da|integration	#FD913D	0.590357760711928
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	4	1		#FD913D	0.542792752240862
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	5	1	physical|psychophysical|tactile	#FDAD4A	0.409268723573421
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	6	1		#FECB68	0.376203280942411
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	7	1	somatosensory|stimulation	#FEE188	0.236189667960825
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	8	1	painful|pain	#FFF1A9	0.159549285864057
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	9	1		#FEE188	0.270356917607323
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	10	1	ratings	#FD913D	0.517078221810949
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	11	1	affective|affect	#FC622F	0.673367352402555
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	12	1	emotions	#FC622F	0.674239093404973
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	13	1	expression|expressions|facial	#FC622F	0.647231874371392
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	14	1		#D7141E	0.861812821931129
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	15	1		#D7141E	0.859016169184494
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	16	1	emotion|motion|neutral	#F03623	0.789593117052933
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	17	1	rating	#FC622F	0.624385320849875
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	18	1	negative|positive	#FC622F	0.664063682141721
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	19	1		#F03623	0.715226957702065
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	20	1	ear|order	#FC622F	0.628728536658038
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	21	1	motor	#FECB68	0.389962385175432
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	22	1	visual	#FC622F	0.624311609341399
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	23	1	age|image|response	#FC622F	0.614366918155153
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	1	2	sound|sounds	#FFF1A9	0.194217561677416
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	2	2		#FEE188	0.281069576686412
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	3	2	audiovisual|bimodal|crossmodal	#FECB68	0.352486282204077
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	4	2		#FD913D	0.549918130521011
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	5	2		#FD913D	0.522018891555411
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	6	2		#FDAD4A	0.412742293506378
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	7	2	sensation	#FFF1A9	0.107134650818553
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	8	2	heat|noxious	#FFF1A9	0.100195011745124
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	9	2		#FECB68	0.300319766296757
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	10	2		#FD913D	0.582072870025374
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	11	2		#FC622F	0.670521077913155
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	12	2	valence	#F03623	0.735664858492825
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	13	2	person|social	#B10026	1
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	14	2		#D7141E	0.875196168158403
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	15	2	face|faces	#D7141E	0.84677714477431
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	16	2		#D7141E	0.869357728281328
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	17	2		#D7141E	0.824849524740043
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	18	2		#F03623	0.783662813813394
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	19	2		#F03623	0.73613107185752
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	20	2		#FC622F	0.66996782190586
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	21	2	images|spatial	#FC622F	0.681856312964687
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	22	2	control	#FC622F	0.605015907818454
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	23	2	time	#FC622F	0.618757665427584
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	1	3	acoustic|listening|musical|music|pitch	#FFF1A9	0.102277108532502
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	2	3	noise|tones	#FFF1A9	0.161570097149832
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	3	3		#FDAD4A	0.402859633155703
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	4	3		#FDAD4A	0.499958563450042
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	5	3	frequency	#FD913D	0.50262551736657
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	6	3		#FDAD4A	0.485852428366961
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	7	3		#FEE188	0.238292381421962
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	8	3	temperature	#FEE188	0.203276446753667
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	9	3		#FECB68	0.307104596015617
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	10	3	pleasant|unpleasant	#FECB68	0.352743173315741
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	11	3	anxiety	#FDAD4A	0.492211688615241
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	12	3		#F03623	0.779667098316823
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	13	3		#D7141E	0.883830956917866
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	14	3		#D7141E	0.890948906103332
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	15	3		#B10026	0.916017756633636
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	16	3	picture	#B10026	0.91598155767098
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	17	3		#B10026	0.90170157909624
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	18	3	value	#F03623	0.721558945366398
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	19	3	cue	#FC622F	0.690339639655904
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	20	3	error|target	#FC622F	0.668592366079621
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	21	3	attention	#FC622F	0.680840181418291
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	22	3		#FC622F	0.674902441833565
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	23	3	number	#FC622F	0.655393737376715
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	1	4	voice	#FFF1A9	0.195808447685604
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	2	4		#FEE188	0.261374162237218
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	3	4	hearing	#FECB68	0.340027412369941
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	4	4		#FECB68	0.379121445584198
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	5	4	overt	#FDAD4A	0.421202260943341
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	6	4		#FECB68	0.396157991734096
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	7	4		#FECB68	0.311730392004955
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	8	4	nociceptive|nonpainful|painrelated	#FFF1A9	0.101807832083007
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	9	4	unpleasantness	#FEE188	0.254312919064775
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	10	4	skin|subjective	#FDAD4A	0.471029800868236
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	11	4	depression	#FD913D	0.584402919599133
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	12	4	experience	#F03623	0.700701803092656
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	13	4	female	#F03623	0.718068064985982
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	14	4	male	#D7141E	0.833842205124775
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	15	4	pictures	#B10026	0.903878971460342
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	16	4		#B10026	0.953817092129928
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	17	4	perception	#D7141E	0.80335554615143
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	18	4		#D7141E	0.855720222414389
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	19	4		#D7141E	0.810049532906611
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	20	4		#F03623	0.767483224581684
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	21	4	correct	#FC622F	0.686613884649786
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	22	4	work	#FC622F	0.667663129827386
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	23	4	memory	#FC622F	0.663643077630416
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	1	5	prosodic|prosody	#FEE188	0.271541279326699
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	2	5	phonetic	#FFF1A9	0.161687335819291
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	3	5	syllable|syllables	#FEE188	0.293766390663392
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	4	5		#FECB68	0.317534668354678
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	5	5	lip|production	#FFF1A9	0.15861638226188
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	6	5	somatotopic	#FFFFCC	0.0681376920097383
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	7	5		#FDAD4A	0.425756783509906
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	8	5		#FDAD4A	0.485341703680282
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	9	5	empathy	#FD913D	0.582994090173109
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	10	5		#FC622F	0.693607488369725
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	11	5	disorder	#FC622F	0.614565629169126
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	12	5		#F03623	0.757119938458685
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	13	5		#F03623	0.78455647268153
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	14	5		#D7141E	0.824408295604109
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	15	5		#D7141E	0.855444711497635
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	16	5		#D7141E	0.866884156152775
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	17	5		#D7141E	0.858814358997737
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	18	5	mental	#D7141E	0.880248794213999
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	19	5	go	#F03623	0.763972782820692
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	20	5	object	#F03623	0.702292667365032
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	21	5		#F03623	0.72827051991618
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	22	5		#FC622F	0.661526803338441
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	23	5	word|words	#FD913D	0.511694416429888
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	1	6		#FDAD4A	0.47550707760173
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	2	6		#FDAD4A	0.490643216045221
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	3	6		#FDAD4A	0.461551738597947
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	4	6	vocal	#FFF1A9	0.137092219791945
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	5	6	articulatory	#FFFFCC	0.0355145630857102
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	6	6		#FECB68	0.368188312495329
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	7	6	oddball	#FDAD4A	0.414307585937604
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	8	6	perceived	#FD913D	0.59669904132712
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	9	6	errorrelated	#FDAD4A	0.482311979885491
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	10	6	approach	#FD913D	0.572297258801543
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	11	6	schizophrenia	#FC622F	0.615502507416931
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	12	6	acquisition	#FD913D	0.502720438640869
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	13	6		#FC622F	0.680700072567138
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	14	6		#FD913D	0.527075894307911
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	15	6		#FD913D	0.558597988670264
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	16	6		#FC622F	0.602918638225706
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	17	6		#F03623	0.736504805822313
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	18	6		#F03623	0.779927737144044
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	19	6		#D7141E	0.806509901919452
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	20	6	objects	#D7141E	0.858983076924348
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	21	6		#F03623	0.751255205880348
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	22	6		#FC622F	0.617082094454203
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	23	6	language|semantic	#FD913D	0.521075943288762
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	1	7	dopamine|dopaminergic	#FEE188	0.245391117018668
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	2	7		#FECB68	0.330272357659389
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	3	7		#FD913D	0.507326394100943
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	4	7		#FD913D	0.547044874698474
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	5	7		#FD913D	0.5868339528966
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	6	7		#FC622F	0.629030086687639
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	7	7		#FC622F	0.663768301206926
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	8	7		#FC622F	0.694200426419271
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	9	7		#F03623	0.718282050229847
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	10	7		#F03623	0.777730626049192
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	11	7		#F03623	0.746761856084235
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	12	7		#F03623	0.726177071647957
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	13	7	linguistic|spoken	#FDAD4A	0.468244065868584
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	14	7		#FDAD4A	0.443225618139331
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	15	7	comprehension|sentence|sentences|syntactic	#FECB68	0.348204290172843
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	16	7		#FDAD4A	0.492574373136903
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	17	7		#FC622F	0.631430948328518
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	18	7	phonological|reading|read	#FD913D	0.586460618956871
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	19	7		#F03623	0.766039903587337
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	20	7	perceptual|recognition	#D7141E	0.836289965598834
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	21	7		#F03623	0.771787243980163
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	22	7		#FC622F	0.644361227196651
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	23	7	verb	#FD913D	0.582189828334259
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	1	8	outcome|reward	#FEE188	0.293356869775361
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	2	8	anticipation	#FEE188	0.266524878253719
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	3	8	outcomes	#FECB68	0.300863162230031
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	4	8	choice|choices	#FDAD4A	0.441248544795747
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	5	8	decisions|probability	#FD913D	0.553788184166672
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	6	8	reversal	#FD913D	0.578359657941593
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	7	8	classification|incorrect	#FDAD4A	0.494403092279827
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	8	8		#FC622F	0.661086444548872
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	9	8	agerelated|fluency|probes	#FD913D	0.500109883971228
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	10	8	engaged	#FC622F	0.692337087367781
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	11	8	explicit|knowledge	#FC622F	0.694675588406617
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	12	8		#FC622F	0.639595639729672
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	13	8		#FDAD4A	0.494268821782225
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	14	8		#FDAD4A	0.440349412371444
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	15	8		#FDAD4A	0.437113933504814
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	16	8		#FDAD4A	0.47371544797212
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	17	8	lexical	#FDAD4A	0.489262865570303
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	18	8		#FC622F	0.685774868034645
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	19	8		#F03623	0.755576317002381
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	20	8		#D7141E	0.814614213468861
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	21	8	encoding	#F03623	0.745439968462179
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	22	8	retrieval	#FC622F	0.64280495179774
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	23	8	verbal	#FC622F	0.656979491245058
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	1	9	incentive|monetary|money|rewards	#FFFFCC	0.0912185675424846
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	2	9	loss	#FEE188	0.262888683531207
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	3	9		#FDAD4A	0.464976448171091
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	4	9		#FD913D	0.565144388412761
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	5	9	decisionmaking	#FDAD4A	0.473406202781789
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	6	9		#FC622F	0.692178880718821
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	7	9		#FC622F	0.69053280925144
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	8	9		#FC622F	0.669858302696179
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	9	9		#FC622F	0.669510722843536
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	10	9		#FC622F	0.68881941391092
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	11	9		#FC622F	0.615780070451125
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	12	9		#FD913D	0.562809727961237
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	13	9	noun	#FEE188	0.265525187190695
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	14	9	meaning	#FDAD4A	0.413078215985402
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	15	9	english	#FECB68	0.383542429617554
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	16	9	pseudoword|pseudowords	#FECB68	0.389907521671078
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	17	9		#FD913D	0.591753008402749
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	18	9		#F03623	0.726839828059432
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	19	9	familiar|judgment	#D7141E	0.813616044170066
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	20	9	pair|pairs	#FC622F	0.666475487876369
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	21	9		#F03623	0.78420574189708
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	22	9		#F03623	0.764440869928956
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	23	9	letter|working	#F03623	0.707816716689283
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	1	10	losses|reinforcement|win	#FFF1A9	0.170836145076465
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	2	10	gain	#FFF1A9	0.14799744783341
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	3	10	expectation	#FECB68	0.353763842026526
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	4	10	risk	#FD913D	0.584946228657205
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	5	10	fact	#FD913D	0.594242186399833
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	6	10	associative	#FD913D	0.550285593041894
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	7	10	familiarity|judgments|old	#FC622F	0.650787639390175
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	8	10	contextual|text	#FD913D	0.535112454279364
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	9	10	recall|retrieved	#FD913D	0.528856632330769
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	10	10	conceptual|semantically	#FDAD4A	0.490811199068267
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	11	10	grammatical|speakers	#FECB68	0.30490358669949
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	12	10	nouns	#FEE188	0.248528092182724
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	13	10	japanese	#FECB68	0.383640105989097
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	14	10	languages	#FECB68	0.383685639800868
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	15	10	written	#FDAD4A	0.481857246343651
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	16	10	chinese|phonology	#FD913D	0.514556908093494
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	17	10	orthographic	#FD913D	0.588514993133248
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	18	10		#F03623	0.7750271502305
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	19	10		#F03623	0.792337301996989
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	20	10	association|decision	#F03623	0.72954975326228
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	21	10	selection	#FC622F	0.638185987083237
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	22	10	letters	#FC622F	0.686719907344013
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	23	10	demand|load	#F03623	0.720647125743614
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	1	11	conditioned|conditioning	#FFF1A9	0.148624524214438
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	2	11		#FDAD4A	0.434944395207614
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	3	11	drug|placebo	#FD913D	0.511334604900024
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	4	11		#D7141E	0.802749941849509
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	5	11	associations	#F03623	0.718833534328843
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	6	11		#F03623	0.772189183067349
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	7	11	episodic|recollection	#FDAD4A	0.472840220685675
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	8	11		#F03623	0.705167521829693
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	9	11		#FC622F	0.635372553850828
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	10	11	concepts	#FEE188	0.241856200015797
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	11	11		#FD913D	0.505247176593484
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	12	11		#FDAD4A	0.486089095188487
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	13	11	german	#FECB68	0.333340956273797
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	14	11	readers	#FDAD4A	0.47028880426808
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	15	11	character|name|naming	#FD913D	0.595909524827956
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	16	11		#FC622F	0.682870311316305
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	17	11	novel	#F03623	0.726465555557309
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	18	11		#F03623	0.767463706667777
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	19	11	child|children	#FC622F	0.674838235710886
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	20	11	adults	#F03623	0.78202977143495
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	21	11	ability|feedback|learning	#FC622F	0.625015226132202
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	22	11	cues|delay	#F03623	0.735128914233257
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	23	11	attentional|difficulty|targets	#D7141E	0.8161462024122
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	1	12	aversive|shock	#FECB68	0.327100319959354
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	2	12	reactivity	#FECB68	0.369678033913895
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	3	12	males|sex|women	#FD913D	0.584111587608038
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	4	12	animal	#FC622F	0.626647074779606
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	5	12	animals	#FDAD4A	0.495605078214812
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	6	12		#D7141E	0.817304683337946
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	7	12	remember|subsequent	#FD913D	0.553337182393662
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	8	12	autobiographical|memories	#FDAD4A	0.404431110152426
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	9	12		#FD913D	0.599926593390476
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	10	12	violation|violations	#FEE188	0.261534824634073
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	11	12	aphasia	#FD913D	0.527187446806284
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	12	12	nonwords	#FECB68	0.365176821227848
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	13	12	dyslexia	#FDAD4A	0.430567492392559
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	14	12		#F03623	0.718384773454869
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	15	12	priming	#FC622F	0.623147470123108
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	16	12		#D7141E	0.809448377613329
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	17	12	category|repetition	#F03623	0.739258780979131
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	18	12		#D7141E	0.806829798712209
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	19	12	developmental|development	#FC622F	0.670842739813771
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	20	12		#F03623	0.789191362817044
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	21	12	space	#F03623	0.758530667322452
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	22	12		#F03623	0.759274131216897
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	23	12	color	#F03623	0.723473725001624
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	1	13	threat	#FD913D	0.538786574818299
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	2	13	regulation	#FDAD4A	0.437162422674324
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	3	13		#F03623	0.722144663593691
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	4	13	masked	#FD913D	0.581307103060679
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	5	13	scene|scenes	#D7141E	0.816856676950719
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	6	13		#D7141E	0.813408801227584
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	7	13	confidence|remembered	#FECB68	0.373446807732581
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	8	13		#F03623	0.732405200498385
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	9	13		#FC622F	0.668834134339014
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	10	13	ambiguity|ambiguous	#FEE188	0.200350140572747
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	11	13		#FC622F	0.60061076619508
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	12	13		#FC622F	0.68915485537438
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	13	13	writing	#FDAD4A	0.495869112859414
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	14	13		#D7141E	0.82686865017969
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	15	13	categorization|congruency|prime	#F03623	0.709198047359172
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	16	13		#D7141E	0.859021798147863
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	17	13	mask	#D7141E	0.813246776607934
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	18	13		#D7141E	0.824798354204082
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	19	13		#F03623	0.7597220788005
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	20	13		#F03623	0.744533195029244
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	21	13	conflict|congruent|incongruent	#FC622F	0.643645561605855
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	22	13	errors	#FC622F	0.667536391732135
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	23	13	maintenance|probe|wm	#FC622F	0.626568737497231
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	1	14	angry|fearful|happy	#FDAD4A	0.45140660126487
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	2	14		#FD913D	0.582780318769466
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	3	14	awareness|conscious|ptsd	#FD913D	0.568060494456383
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	4	14		#B10026	0.919268119800328
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	5	14	houses|photographs	#FC622F	0.674539567980649
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	6	14		#B10026	0.901441958693507
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	7	14	hits	#FDAD4A	0.489650109232968
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	8	14	famous	#FD913D	0.576754504864755
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	9	14	names	#FECB68	0.386241875328348
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	10	14	family	#FD913D	0.541491097759538
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	11	14	competition|mouth	#FD913D	0.510110214447758
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	12	14	abilities	#FD913D	0.574075527880756
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	13	14	implicit|unfamiliar	#FC622F	0.671806192367161
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	14	14		#D7141E	0.882641541791831
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	15	14	tom	#D7141E	0.894920537436055
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	16	14		#B10026	0.934366934278328
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	17	14		#D7141E	0.872222920080014
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	18	14	stop	#FC622F	0.653502322635087
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	19	14	inhibition|inhibitory|nogo	#FD913D	0.570027769655964
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	20	14	monitoring|stroop	#FD913D	0.554883623927016
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	21	14	interference	#FD913D	0.591249142846632
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	22	14		#FC622F	0.698953030495178
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	23	14	demands|executive	#FC622F	0.645690292220436
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	1	15	anger	#FDAD4A	0.427956262936755
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	2	15	stress	#FECB68	0.376355559692398
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	3	15	feelings	#FDAD4A	0.401267577704504
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	4	15	salient	#F03623	0.779595021538623
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	5	15	novelty	#FD913D	0.51660394577906
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	6	15	movie	#FC622F	0.645743717810135
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	7	15		#D7141E	0.809871416106586
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	8	15		#F03623	0.753233407153703
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	9	15	longterm	#FECB68	0.343440607469572
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	10	15		#F03623	0.733244308951114
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	11	15	reasoning|relational	#FD913D	0.565825946878726
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	12	15		#D7141E	0.833531335960442
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	13	15	presentations	#FD913D	0.545971379864566
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	14	15		#D7141E	0.88464965191833
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	15	15	identity	#D7141E	0.837635825773251
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	16	15		#B10026	0.907805365916582
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	17	15	strategies|strategy	#F03623	0.718215513603063
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	18	15	card|cards	#FDAD4A	0.440299893507089
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	19	15	gonogo	#FD913D	0.597253969154735
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	20	15		#FC622F	0.677920674937086
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	21	15	switching|switch	#FD913D	0.584391139647141
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	22	15		#FC622F	0.687929521960145
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	23	15	2back|rule	#FC622F	0.65994336172964
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	1	16	emotionally|mood|personality|sadness	#FD913D	0.515615198706481
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	2	16	disgust|sexual	#FEE188	0.295388017774901
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	3	16	olfactory	#FEE188	0.233565207049699
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	4	16	physiological	#FDAD4A	0.459915738018816
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	5	16	depressed|depressive|habituation	#FDAD4A	0.458540118981346
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	6	16	schizophrenic	#FECB68	0.359745831927801
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	7	16	colors|contexts	#FECB68	0.375021802017314
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	8	16	aging|encoded	#FDAD4A	0.459929536314355
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	9	16	goal	#FDAD4A	0.403764147278065
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	10	16		#FC622F	0.699672815081941
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	11	16	autism|autistic|nonverbal	#FD913D	0.590984708439711
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	12	16		#D7141E	0.853186557650879
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	13	16	bottomup|repetitions	#F03623	0.71874313818627
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	14	16	adaptation	#FC622F	0.653309242214014
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	15	16	irrelevant	#F03623	0.7502813170343
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	16	16	distractor|distractors	#FD913D	0.596050042693947
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	17	16		#D7141E	0.805292558015623
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	18	16	subtraction	#FD913D	0.569856202056061
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	19	16	1back|nback	#FD913D	0.578254123548177
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	20	16	manipulation|rules	#FC622F	0.686568315624711
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	21	16		#F03623	0.749314093434392
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	22	16		#F03623	0.718802032068113
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	23	16	digit	#FC622F	0.641912107285078
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	1	17	avoidance	#FFF1A9	0.197369201116931
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	2	17		#FDAD4A	0.491322528809167
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	3	17	eating|food	#FFF1A9	0.15270285567197
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	4	17	taste	#FFF1A9	0.130075636165166
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	5	17	bipolar	#FECB68	0.33873480221463
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	6	17	illness|uncertainty	#FECB68	0.39256362596092
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	7	17	females|probabilistic	#FDAD4A	0.483211196858838
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	8	17	rejection	#FFF1A9	0.191307174166619
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	9	17	colour|paired	#FD913D	0.559910272477758
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	10	17		#F03623	0.74505594760898
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	11	17		#F03623	0.759276805924778
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	12	17		#F03623	0.795460868100204
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	13	17	taskirrelevant	#FC622F	0.652022732758215
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	14	17		#D7141E	0.843340674305063
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	15	17	suppression	#FC622F	0.641840856227441
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	16	17		#D7141E	0.848880224766341
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	17	17	shifting|shortterm	#FD913D	0.57718822100866
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	18	17	digits	#FD913D	0.578675395031878
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	19	17	search	#F03623	0.711670082614367
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	20	17	counting|taskrelated	#FD913D	0.58621894191221
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	21	17	topdown	#F03623	0.784415861147209
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	22	17	visuospatial	#FC622F	0.67403835496749
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	23	17	arithmetic|calculation|solving	#FD913D	0.555916624520979
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	1	18	addiction|craving|drugs	#FECB68	0.359249054965725
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	2	18	allele|genotype|polymorphism	#FECB68	0.350022133693498
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	3	18	motivation	#FFFFCC	0.0859674083089875
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	4	18	heart	#FDAD4A	0.489643348796187
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	5	18	sleep	#FEE188	0.283653399319165
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	6	18	expectancy	#FC622F	0.60400827226825
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	7	18	phasic|salience	#FD913D	0.538325475971851
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	8	18	adolescence|adolescents	#FDAD4A	0.426881539385379
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	9	18	intelligence|tracking	#FC622F	0.646091930683939
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	10	18		#F03623	0.779692446946163
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	11	18	serial	#FDAD4A	0.469470334359192
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	12	18		#F03623	0.725909789793697
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	13	18	spatially|taskrelevant	#FD913D	0.51408035790126
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	14	18		#D7141E	0.810531690874036
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	15	18	attended|attend|unattended	#FC622F	0.671165386004598
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	16	18	rotation|shapes	#F03623	0.74434810283562
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	17	18	rehearsal	#FD913D	0.560831192254702
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	18	18	learned	#FDAD4A	0.462455348318119
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	19	18		#F03623	0.710209330734062
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	20	18	cued|preparatory	#FC622F	0.611446980974616
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	21	18		#F03623	0.753403487992162
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	22	18		#F03623	0.747845236009227
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	23	18	numbers|numerical	#FC622F	0.660476380769818
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	1	19	future	#FD913D	0.521166525677345
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	2	19	negatively	#FD913D	0.580898222276113
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	3	19	distress|epilepsy|selfreported	#FEE188	0.286229194351634
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	4	19	anticipatory|cocaine|probabilities|smoking	#FFF1A9	0.171766197358139
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	5	19	alcohol|amount|impulsivity	#FECB68	0.331601526548868
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	6	19	game|success	#FEE188	0.294150529038089
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	7	19	adhd|childhood|engagement	#FDAD4A	0.42512965251659
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	8	19		#F03623	0.780360292734706
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	9	19		#D7141E	0.818926087897625
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	10	19		#F03623	0.758227890285817
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	11	19		#F03623	0.703141007667666
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	12	19	endogenous	#FDAD4A	0.470012265320205
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	13	19	cueing|invalid|orienting	#FD913D	0.528273688925934
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	14	19		#D7141E	0.805227402207074
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	15	19	multisensory	#FC622F	0.632481597674125
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	16	19		#D7141E	0.809646772094917
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	17	19	shifts	#F03623	0.718631841997865
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	18	19	covert	#FD913D	0.585361293062797
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	19	19		#FC622F	0.685771070620583
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	20	19	preparation	#FD913D	0.543552817076757
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	21	19	discrimination|training	#FC622F	0.675849970969903
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	22	19	sequences	#FD913D	0.528302745273893
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	23	19		#FC622F	0.642448727420736
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	1	20	personal|self|selfreferential|trait|traits	#F03623	0.750319651059899
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	2	20	empathic|theory	#FC622F	0.628274905096371
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	3	20	attribution|intentional	#FECB68	0.355671550873065
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	4	20	elderly|oscillations	#FEE188	0.230056088823226
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	5	20	antipsychotic|virtual	#FECB68	0.367855155052069
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	6	20		#F03623	0.733833192984726
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	7	20	experiences	#FDAD4A	0.463382362849018
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	8	20	categorical|pressure	#FDAD4A	0.439972886118301
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	9	20	play|skills	#FECB68	0.386633290723654
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	10	20	automatic|trained	#FDAD4A	0.486793518020897
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	11	20		#FD913D	0.578069174777118
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	12	20	practice	#FDAD4A	0.445878423392885
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	13	20	visuomotor	#FDAD4A	0.478068356266248
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	14	20		#F03623	0.723811309080609
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	15	20	tool	#FD913D	0.518536320941591
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	16	20	vision	#FDAD4A	0.437586153102606
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	17	20	visually	#FC622F	0.608108817681344
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	18	20	saccade|saccades|saccadic	#FDAD4A	0.470544236046861
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	19	20	locations	#FC622F	0.636465888064843
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	20	20	imagery|planning	#FD913D	0.591359304401265
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	21	20		#FC622F	0.634902248903437
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	22	20	rest	#FD913D	0.553553728410248
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	23	20	sequence	#FD913D	0.559224786108718
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	1	21	scenarios	#FD913D	0.503460985127464
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	2	21	intention|intentions	#F03623	0.724142986381972
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	3	21	causality|perspective	#FECB68	0.379537145385582
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	4	21	past	#FECB68	0.334413842435278
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	5	21		#F03623	0.760272460797534
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	6	21	episode	#FDAD4A	0.421991732274933
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	7	21	improvement	#FECB68	0.335955286820769
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	8	21	masking|retention	#FD913D	0.516659964814129
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	9	21		#FC622F	0.637603717045368
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	10	21	dominant	#FDAD4A	0.472197233373196
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	11	21		#FECB68	0.384495265873167
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	12	21	sequential	#FECB68	0.37979805067642
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	13	21	fingers	#FFF1A9	0.119396287889858
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	14	21		#FC622F	0.654932511615439
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	15	21	gesture|gestures	#FDAD4A	0.433942859266565
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	16	21		#FC622F	0.638306485895487
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	17	21	hands	#FD913D	0.501980694322764
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	18	21		#FC622F	0.656724554274391
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	19	21		#FC622F	0.693996038612874
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	20	21	eye|position	#FC622F	0.639023941810358
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	21	21	execution	#FDAD4A	0.481549844781668
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	22	21	finger|sensorimotor	#FECB68	0.307981398426501
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	23	21		#FDAD4A	0.428598852871082
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	1	22	moral|stories|story	#FECB68	0.381123802489682
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	2	22	mentalizing|persons	#F03623	0.762281401603265
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	3	22	default|restingstate	#FDAD4A	0.427542856406043
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	4	22	thinking|thought|thoughts	#FD913D	0.595002207439213
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	5	22	spontaneous	#FDAD4A	0.497462951204778
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	6	22	concentration|sensations	#FEE188	0.262579122046334
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	7	22	hierarchical|preference	#FDAD4A	0.471152029372175
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	8	22	effort|oral|simulation	#FECB68	0.367142798074398
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	9	22	interhemispheric|plasticity	#FECB68	0.305599496569089
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	10	22	imagined|imagine	#FECB68	0.340949560072608
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	11	22	tapping	#FEE188	0.223416503547023
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	12	22	foot|muscle|muscles|voluntary	#FFFFCC	0
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	13	22	limb	#FFFFCC	0.0368046380671448
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	14	22	eyes|velocity	#FECB68	0.317736010892844
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	15	22	biological|gaze|videos	#FD913D	0.522539565720579
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	16	22	body	#FD913D	0.519380448206778
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	17	22	grasping|orientation|reaching	#FECB68	0.385427464599725
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	18	22		#FC622F	0.641112845533326
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	19	22	mirror|shape	#F03623	0.758011870735831
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	20	22	actions	#FD913D	0.597903576760455
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	21	22	action	#FC622F	0.641253386815503
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	22	22		#FDAD4A	0.438186285589072
+83ddd527-7ea1-38b9-affc-cebf643ec171	Heatherton TF	23	22	hand|movements|sensory	#FEE188	0.27964330526524

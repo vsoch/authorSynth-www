@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	1	1	auditory|speech	#FECB68	0.366382673797604
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	2	1		#FECB68	0.386048071378522
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	3	1	da|integration	#FC622F	0.639339351737875
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	4	1		#FD913D	0.513531117054997
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	5	1	physical|psychophysical|tactile	#FECB68	0.326714119931751
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	6	1		#FEE188	0.25594639099849
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	7	1	somatosensory|stimulation	#FFF1A9	0.138561811574576
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	8	1	painful|pain	#FFFFCC	0.0571897047870552
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	9	1		#FFFFCC	0.0875204332370367
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	10	1	ratings	#FFF1A9	0.169348201403091
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	11	1	affective|affect	#FEE188	0.261406671486117
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	12	1	emotions	#FEE188	0.290340657385984
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	13	1	expression|expressions|facial	#FECB68	0.329030841364872
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	14	1		#FD913D	0.501074155298592
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	15	1		#FD913D	0.514009472779794
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	16	1	emotion|motion|neutral	#FDAD4A	0.419036604591531
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	17	1	rating	#FEE188	0.266709933932233
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	18	1	negative|positive	#FDAD4A	0.416240240237123
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	19	1		#FD913D	0.54798930531298
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	20	1	ear|order	#FD913D	0.558798062848082
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	21	1	motor	#FECB68	0.366611649733075
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	22	1	visual	#FC622F	0.650601667781689
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	23	1	age|image|response	#FD913D	0.535211595071885
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	1	2	sound|sounds	#FEE188	0.276599529594207
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	2	2		#FECB68	0.356850667603868
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	3	2	audiovisual|bimodal|crossmodal	#FDAD4A	0.495676330006776
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	4	2		#FD913D	0.541686118212097
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	5	2		#FDAD4A	0.455791249155461
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	6	2		#FECB68	0.306522175662742
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	7	2	sensation	#FFFFCC	0.0324544279986737
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	8	2	heat|noxious	#FFFFCC	0
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	9	2		#FFF1A9	0.115303418129307
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	10	2		#FEE188	0.215381460693646
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	11	2		#FEE188	0.263464039785947
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	12	2	valence	#FEE188	0.29373274805767
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	13	2	person|social	#FD913D	0.520692823551874
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	14	2		#FD913D	0.520041806255078
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	15	2	face|faces	#FC622F	0.670774631156516
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	16	2		#FD913D	0.534563387910264
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	17	2		#FD913D	0.510339160353727
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	18	2		#FD913D	0.549768221400857
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	19	2		#FD913D	0.595965283313131
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	20	2		#FC622F	0.607165341547803
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	21	2	images|spatial	#FC622F	0.633136131005298
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	22	2	control	#FD913D	0.562825133253559
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	23	2	time	#FD913D	0.559862954752257
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	1	3	acoustic|listening|musical|music|pitch	#FFF1A9	0.180112699329103
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	2	3	noise|tones	#FEE188	0.265319179268276
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	3	3		#FDAD4A	0.464010959957519
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	4	3		#FD913D	0.551184023138877
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	5	3	frequency	#FD913D	0.547229410434874
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	6	3		#FDAD4A	0.413112290518479
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	7	3		#FFF1A9	0.145734366109149
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	8	3	temperature	#FFF1A9	0.125578436569336
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	9	3		#FFF1A9	0.157325374428522
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	10	3	pleasant|unpleasant	#FFF1A9	0.195307477132798
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	11	3	anxiety	#FFF1A9	0.159801161828596
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	12	3		#FECB68	0.363101659478357
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	13	3		#FDAD4A	0.492700677578361
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	14	3		#FD913D	0.545720646055065
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	15	3		#FC622F	0.602646610963694
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	16	3	picture	#FC622F	0.699574694480689
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	17	3		#FC622F	0.630212637726443
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	18	3	value	#FD913D	0.577463577014325
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	19	3	cue	#FC622F	0.676484548203397
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	20	3	error|target	#FC622F	0.648209468919133
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	21	3	attention	#FC622F	0.693861435311641
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	22	3		#FC622F	0.699834648570847
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	23	3	number	#FC622F	0.670173746179036
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	1	4	voice	#FFF1A9	0.186248304455389
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	2	4		#FECB68	0.310128062256119
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	3	4	hearing	#FDAD4A	0.458630968454482
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	4	4		#FDAD4A	0.45789257813157
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	5	4	overt	#FDAD4A	0.449986110536111
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	6	4		#FDAD4A	0.404274911911615
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	7	4		#FEE188	0.222864291629951
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	8	4	nociceptive|nonpainful|painrelated	#FFFFCC	0.0851927192178212
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	9	4	unpleasantness	#FFF1A9	0.188671855692908
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	10	4	skin|subjective	#FEE188	0.228606848511324
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	11	4	depression	#FEE188	0.292595883478429
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	12	4	experience	#FECB68	0.338480696602756
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	13	4	female	#FDAD4A	0.466393746030526
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	14	4	male	#FD913D	0.51617180127232
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	15	4	pictures	#FC622F	0.689029991418798
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	16	4		#F03623	0.712878496961856
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	17	4	perception	#FC622F	0.613589943092555
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	18	4		#F03623	0.77102685515264
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	19	4		#F03623	0.770146768642276
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	20	4		#F03623	0.761497774901628
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	21	4	correct	#F03623	0.747322443466041
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	22	4	work	#F03623	0.774764015768597
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	23	4	memory	#F03623	0.758387779626806
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	1	5	prosodic|prosody	#FEE188	0.225193198756441
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	2	5	phonetic	#FECB68	0.320827459462496
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	3	5	syllable|syllables	#FDAD4A	0.429663958168292
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	4	5		#FDAD4A	0.404158069609557
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	5	5	lip|production	#FECB68	0.302310513486248
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	6	5	somatotopic	#FFF1A9	0.158035290420901
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	7	5		#FEE188	0.287214914282942
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	8	5		#FEE188	0.278778989944793
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	9	5	empathy	#FECB68	0.310525570270046
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	10	5		#FDAD4A	0.453054583292354
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	11	5	disorder	#FECB68	0.395106814522665
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	12	5		#FD913D	0.509216013569006
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	13	5		#FD913D	0.534731144938811
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	14	5		#FC622F	0.633259117742454
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	15	5		#FC622F	0.671068564794653
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	16	5		#F03623	0.72822193723305
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	17	5		#F03623	0.788210151416239
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	18	5	mental	#D7141E	0.84388472769233
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	19	5	go	#F03623	0.764769121268894
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	20	5	object	#F03623	0.800074263292276
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	21	5		#F03623	0.792183070588409
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	22	5		#F03623	0.751589365125363
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	23	5	word|words	#FC622F	0.67801430693693
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	1	6		#FECB68	0.334472917911476
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	2	6		#FECB68	0.380113938332082
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	3	6		#FDAD4A	0.437809486692661
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	4	6	vocal	#FEE188	0.248680224322414
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	5	6	articulatory	#FFF1A9	0.185931696223649
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	6	6		#FECB68	0.384593828565424
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	7	6	oddball	#FDAD4A	0.418262695114022
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	8	6	perceived	#FEE188	0.292074011503931
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	9	6	errorrelated	#FEE188	0.269708180807912
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	10	6	approach	#FECB68	0.355818098339144
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	11	6	schizophrenia	#FD913D	0.593742522208045
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	12	6	acquisition	#FDAD4A	0.426609285574777
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	13	6		#FD913D	0.565007465790187
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	14	6		#FD913D	0.531976164398447
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	15	6		#FD913D	0.566611681957171
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	16	6		#FC622F	0.616182142000404
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	17	6		#F03623	0.795485921650311
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	18	6		#D7141E	0.847252152230042
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	19	6		#D7141E	0.87521869596553
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	20	6	objects	#B10026	0.983886891385798
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	21	6		#D7141E	0.839025368323429
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	22	6		#F03623	0.723286196755287
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	23	6	language|semantic	#FC622F	0.645651298105329
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	1	7	dopamine|dopaminergic	#FFF1A9	0.170081861887912
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	2	7		#FEE188	0.217884657054803
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	3	7		#FDAD4A	0.438330643780217
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	4	7		#FD913D	0.516216924356154
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	5	7		#FD913D	0.562332058968305
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	6	7		#FD913D	0.574979414396227
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	7	7		#FD913D	0.546242080571163
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	8	7		#FD913D	0.537231653273063
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	9	7		#FD913D	0.519558315888445
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	10	7		#FC622F	0.690494768012144
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	11	7		#FC622F	0.677243384171316
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	12	7		#FC622F	0.682088218922932
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	13	7	linguistic|spoken	#FD913D	0.534490626519753
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	14	7		#FD913D	0.504382356131338
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	15	7	comprehension|sentence|sentences|syntactic	#FDAD4A	0.450515518766611
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	16	7		#FD913D	0.591501049777797
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	17	7		#F03623	0.756088396027929
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	18	7	phonological|reading|read	#F03623	0.737859361082419
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	19	7		#D7141E	0.883479648508406
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	20	7	perceptual|recognition	#B10026	0.962697442337114
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	21	7		#D7141E	0.878576830503259
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	22	7		#F03623	0.745091605656291
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	23	7	verb	#FC622F	0.667478459739273
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	1	8	outcome|reward	#FFF1A9	0.170750425239385
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	2	8	anticipation	#FFF1A9	0.143430103512316
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	3	8	outcomes	#FECB68	0.30713408540752
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	4	8	choice|choices	#FDAD4A	0.455490152369024
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	5	8	decisions|probability	#FD913D	0.571787595380569
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	6	8	reversal	#FC622F	0.649157614744516
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	7	8	classification|incorrect	#FDAD4A	0.46049092229332
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	8	8		#FC622F	0.654511128877774
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	9	8	agerelated|fluency|probes	#FD913D	0.540212098543348
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	10	8	engaged	#F03623	0.794159996245018
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	11	8	explicit|knowledge	#FC622F	0.603044907004671
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	12	8		#FC622F	0.649056165978734
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	13	8		#FD913D	0.553287392780496
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	14	8		#FD913D	0.540993774994462
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	15	8		#FD913D	0.555921519575245
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	16	8		#FD913D	0.599676714044386
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	17	8	lexical	#FC622F	0.653002157582138
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	18	8		#D7141E	0.8174339839542
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	19	8		#D7141E	0.876244393620244
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	20	8		#B10026	0.927427966948925
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	21	8	encoding	#D7141E	0.89085012697183
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	22	8	retrieval	#F03623	0.769220535665013
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	23	8	verbal	#F03623	0.713725527749289
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	1	9	incentive|monetary|money|rewards	#FFF1A9	0.104388176947148
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	2	9	loss	#FFF1A9	0.141368812005077
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	3	9		#FECB68	0.366065061518652
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	4	9		#FDAD4A	0.476636017651889
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	5	9	decisionmaking	#FDAD4A	0.490406614052085
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	6	9		#F03623	0.707683323114936
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	7	9		#F03623	0.741029125886991
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	8	9		#F03623	0.738406255327109
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	9	9		#F03623	0.777686889130883
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	10	9		#F03623	0.74114184674113
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	11	9		#FC622F	0.678311450351266
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	12	9		#FC622F	0.63972349668263
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	13	9	noun	#FDAD4A	0.416245636188816
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	14	9	meaning	#FD913D	0.542348462610059
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	15	9	english	#FC622F	0.627307045685203
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	16	9	pseudoword|pseudowords	#FDAD4A	0.425975166205281
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	17	9		#F03623	0.743342555076701
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	18	9		#D7141E	0.835340328447882
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	19	9	familiar|judgment	#D7141E	0.899824090355811
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	20	9	pair|pairs	#D7141E	0.861498511276709
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	21	9		#D7141E	0.85596651913714
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	22	9		#D7141E	0.846699423090378
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	23	9	letter|working	#D7141E	0.854557595500608
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	1	10	losses|reinforcement|win	#FFF1A9	0.130723427372946
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	2	10	gain	#FFFFCC	0.0873347420579827
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	3	10	expectation	#FEE188	0.280765735758549
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	4	10	risk	#FDAD4A	0.420959383328175
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	5	10	fact	#FECB68	0.385942402297217
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	6	10	associative	#F03623	0.726301532791209
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	7	10	familiarity|judgments|old	#D7141E	0.825414133135624
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	8	10	contextual|text	#F03623	0.713964195992949
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	9	10	recall|retrieved	#F03623	0.706311236079729
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	10	10	conceptual|semantically	#FC622F	0.687454278290482
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	11	10	grammatical|speakers	#FD913D	0.522273718077319
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	12	10	nouns	#FECB68	0.35940312976766
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	13	10	japanese	#FC622F	0.608783987714268
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	14	10	languages	#FC622F	0.615458234618566
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	15	10	written	#F03623	0.707267734459211
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	16	10	chinese|phonology	#F03623	0.782088535568832
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	17	10	orthographic	#D7141E	0.827272631068075
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	18	10		#D7141E	0.84810759400777
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	19	10		#D7141E	0.835015662376115
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	20	10	association|decision	#F03623	0.727171170567213
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	21	10	selection	#F03623	0.748715649745244
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	22	10	letters	#D7141E	0.842722735740746
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	23	10	demand|load	#F03623	0.799343274030267
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	1	11	conditioned|conditioning	#FFFFCC	0.00661144236095433
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	2	11		#FFF1A9	0.198763994965641
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	3	11	drug|placebo	#FECB68	0.326440429236409
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	4	11		#FD913D	0.53889267521577
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	5	11	associations	#FDAD4A	0.497461271865881
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	6	11		#D7141E	0.808525998436229
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	7	11	episodic|recollection	#FC622F	0.68129323596428
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	8	11		#D7141E	0.835722046808119
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	9	11		#F03623	0.752224810213378
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	10	11	concepts	#FD913D	0.536727573024787
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	11	11		#FC622F	0.608613956796483
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	12	11		#FC622F	0.621699568566909
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	13	11	german	#FD913D	0.511480429403774
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	14	11	readers	#FD913D	0.571703819839665
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	15	11	character|name|naming	#F03623	0.778285406636682
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	16	11		#D7141E	0.867539419579903
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	17	11	novel	#B10026	0.909050335912478
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	18	11		#D7141E	0.853534527242322
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	19	11	child|children	#FC622F	0.682842514401883
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	20	11	adults	#F03623	0.776797012030179
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	21	11	ability|feedback|learning	#FD913D	0.563153447782925
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	22	11	cues|delay	#F03623	0.746812768300448
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	23	11	attentional|difficulty|targets	#D7141E	0.836308100526181
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	1	12	aversive|shock	#FFF1A9	0.101346908141341
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	2	12	reactivity	#FFF1A9	0.126427118798436
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	3	12	males|sex|women	#FDAD4A	0.404705879386647
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	4	12	animal	#FECB68	0.392358419486129
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	5	12	animals	#FDAD4A	0.455338048136648
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	6	12		#F03623	0.793379138651132
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	7	12	remember|subsequent	#FC622F	0.648413106152205
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	8	12	autobiographical|memories	#FDAD4A	0.451899159010868
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	9	12		#FC622F	0.678828890766595
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	10	12	violation|violations	#FECB68	0.346317200045004
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	11	12	aphasia	#FD913D	0.526569206121208
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	12	12	nonwords	#FD913D	0.511191745633289
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	13	12	dyslexia	#FC622F	0.633990132963844
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	14	12		#D7141E	0.837599649017476
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	15	12	priming	#D7141E	0.830749673423104
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	16	12		#B10026	0.930738701635083
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	17	12	category|repetition	#B10026	0.914488468841624
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	18	12		#D7141E	0.860167711411405
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	19	12	developmental|development	#F03623	0.703860367951012
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	20	12		#F03623	0.783388338825953
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	21	12	space	#FC622F	0.665376347756919
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	22	12		#D7141E	0.82276066723955
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	23	12	color	#D7141E	0.86553117383255
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	1	13	threat	#FFF1A9	0.130391024084461
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	2	13	regulation	#FFF1A9	0.131679375504593
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	3	13		#FECB68	0.351854545145554
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	4	13	masked	#FDAD4A	0.459121441093827
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	5	13	scene|scenes	#F03623	0.787502806536197
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	6	13		#D7141E	0.807514741051924
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	7	13	confidence|remembered	#FD913D	0.59391765501573
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	8	13		#F03623	0.794677078424344
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	9	13		#FC622F	0.690304674400821
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	10	13	ambiguity|ambiguous	#FDAD4A	0.412747075198558
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	11	13		#FC622F	0.641473587979156
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	12	13		#F03623	0.728546857541942
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	13	13	writing	#FD913D	0.525512960155778
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	14	13		#D7141E	0.848455698702493
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	15	13	categorization|congruency|prime	#D7141E	0.849204698837577
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	16	13		#B10026	0.939273688483917
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	17	13	mask	#D7141E	0.823112198420739
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	18	13		#D7141E	0.852514592895404
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	19	13		#F03623	0.743024032970488
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	20	13		#F03623	0.774920189735229
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	21	13	conflict|congruent|incongruent	#F03623	0.726869537972606
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	22	13	errors	#FC622F	0.642134356286906
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	23	13	maintenance|probe|wm	#F03623	0.764873666387527
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	1	14	angry|fearful|happy	#FEE188	0.201660886670223
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	2	14		#FEE188	0.221398904862594
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	3	14	awareness|conscious|ptsd	#FFF1A9	0.175488195682433
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	4	14		#FC622F	0.638652904419268
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	5	14	houses|photographs	#FD913D	0.58733915862761
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	6	14		#D7141E	0.809217175796102
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	7	14	hits	#FC622F	0.682100496278982
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	8	14	famous	#FD913D	0.546417315146514
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	9	14	names	#FDAD4A	0.436169131114939
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	10	14	family	#FD913D	0.586200753612535
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	11	14	competition|mouth	#FC622F	0.648324116945207
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	12	14	abilities	#FD913D	0.568289857263265
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	13	14	implicit|unfamiliar	#FC622F	0.654280837987931
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	14	14		#D7141E	0.847702943488578
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	15	14	tom	#F03623	0.789125145913025
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	16	14		#B10026	0.908882050431588
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	17	14		#D7141E	0.880682090541421
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	18	14	stop	#FC622F	0.654602269383294
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	19	14	inhibition|inhibitory|nogo	#FD913D	0.529024257368642
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	20	14	monitoring|stroop	#FC622F	0.657694891855272
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	21	14	interference	#D7141E	0.815238656705159
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	22	14		#D7141E	0.808920960211892
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	23	14	demands|executive	#F03623	0.772952697918272
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	1	15	anger	#FFF1A9	0.164143690125608
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	2	15	stress	#FFF1A9	0.146708641688241
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	3	15	feelings	#FEE188	0.215594297316615
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	4	15	salient	#FECB68	0.36265977592456
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	5	15	novelty	#FD913D	0.523768422599304
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	6	15	movie	#FDAD4A	0.404957171760896
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	7	15		#F03623	0.777154601513204
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	8	15		#F03623	0.796723491559731
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	9	15	longterm	#FD913D	0.542322686784069
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	10	15		#F03623	0.793675541697231
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	11	15	reasoning|relational	#F03623	0.724763473697424
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	12	15		#D7141E	0.851718500536778
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	13	15	presentations	#F03623	0.771515543662685
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	14	15		#D7141E	0.865157441651604
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	15	15	identity	#F03623	0.722899953826296
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	16	15		#D7141E	0.879753040715864
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	17	15	strategies|strategy	#FC622F	0.69883837135106
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	18	15	card|cards	#FC622F	0.696415188980275
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	19	15	gonogo	#FD913D	0.561248399735031
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	20	15		#F03623	0.744859736906256
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	21	15	switching|switch	#F03623	0.743018103062711
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	22	15		#D7141E	0.809438271648708
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	23	15	2back|rule	#F03623	0.774862885163509
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	1	16	emotionally|mood|personality|sadness	#FFF1A9	0.149868068847648
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	2	16	disgust|sexual	#FEE188	0.261476371512972
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	3	16	olfactory	#FFFFCC	0.0445121578245254
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	4	16	physiological	#FFF1A9	0.187096150994361
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	5	16	depressed|depressive|habituation	#FEE188	0.294946760057106
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	6	16	schizophrenic	#FECB68	0.38742635582627
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	7	16	colors|contexts	#FDAD4A	0.464487389341806
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	8	16	aging|encoded	#F03623	0.73107739888932
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	9	16	goal	#FD913D	0.500462961241566
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	10	16		#F03623	0.784201465486673
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	11	16	autism|autistic|nonverbal	#FC622F	0.615444251174032
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	12	16		#D7141E	0.890674762037222
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	13	16	bottomup|repetitions	#F03623	0.800434549944405
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	14	16	adaptation	#D7141E	0.808395513425476
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	15	16	irrelevant	#D7141E	0.865544583331792
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	16	16	distractor|distractors	#F03623	0.706048909585909
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	17	16		#D7141E	0.853072006398553
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	18	16	subtraction	#D7141E	0.840109515867865
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	19	16	1back|nback	#F03623	0.726409415828067
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	20	16	manipulation|rules	#F03623	0.772679296338781
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	21	16		#D7141E	0.87462359532332
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	22	16		#B10026	0.902566243978997
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	23	16	digit	#D7141E	0.863296201718842
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	1	17	avoidance	#FFFFCC	0.0964177187092027
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	2	17		#FEE188	0.265637519809078
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	3	17	eating|food	#FFF1A9	0.117640051124308
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	4	17	taste	#FFFFCC	0.0461146594811117
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	5	17	bipolar	#FFF1A9	0.198569908191626
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	6	17	illness|uncertainty	#FDAD4A	0.434899700514524
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	7	17	females|probabilistic	#FDAD4A	0.476210273541555
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	8	17	rejection	#FDAD4A	0.479960234338106
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	9	17	colour|paired	#F03623	0.706174720266625
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	10	17		#F03623	0.786982180340759
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	11	17		#F03623	0.794528125340225
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	12	17		#D7141E	0.869153484690816
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	13	17	taskirrelevant	#FC622F	0.696049493503995
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	14	17		#B10026	0.95315266232999
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	15	17	suppression	#F03623	0.746990140833148
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	16	17		#B10026	0.908480112818731
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	17	17	shifting|shortterm	#FC622F	0.693339691754795
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	18	17	digits	#D7141E	0.81846154635559
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	19	17	search	#F03623	0.706830840696925
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	20	17	counting|taskrelated	#FD913D	0.598796391902024
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	21	17	topdown	#B10026	1
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	22	17	visuospatial	#D7141E	0.843610454353997
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	23	17	arithmetic|calculation|solving	#D7141E	0.865433178148063
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	1	18	addiction|craving|drugs	#FFF1A9	0.194642001747452
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	2	18	allele|genotype|polymorphism	#FEE188	0.29686284246808
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	3	18	motivation	#FFFFCC	0.0502919572696789
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	4	18	heart	#FEE188	0.229695439243924
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	5	18	sleep	#FECB68	0.371834633029276
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	6	18	expectancy	#FD913D	0.589030353824576
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	7	18	phasic|salience	#FEE188	0.225917824030416
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	8	18	adolescence|adolescents	#FDAD4A	0.495167590056959
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	9	18	intelligence|tracking	#FDAD4A	0.497839455276957
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	10	18		#F03623	0.733621740211789
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	11	18	serial	#FD913D	0.535532643283144
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	12	18		#F03623	0.790303608458978
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	13	18	spatially|taskrelevant	#D7141E	0.841536706624685
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	14	18		#B10026	0.914825957215667
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	15	18	attended|attend|unattended	#D7141E	0.825102808648648
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	16	18	rotation|shapes	#D7141E	0.855935971076195
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	17	18	rehearsal	#FC622F	0.61136134176301
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	18	18	learned	#FDAD4A	0.4286728601966
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	19	18		#FC622F	0.688215644871589
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	20	18	cued|preparatory	#F03623	0.720671042065213
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	21	18		#F03623	0.777136345373038
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	22	18		#D7141E	0.865765572551814
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	23	18	numbers|numerical	#F03623	0.788524770818335
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	1	19	future	#FECB68	0.317696792486334
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	2	19	negatively	#FECB68	0.337618928623587
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	3	19	distress|epilepsy|selfreported	#FFF1A9	0.197796159259548
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	4	19	anticipatory|cocaine|probabilities|smoking	#FFF1A9	0.184498181238661
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	5	19	alcohol|amount|impulsivity	#FDAD4A	0.435007883757748
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	6	19	game|success	#FECB68	0.389673227550946
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	7	19	adhd|childhood|engagement	#FDAD4A	0.409391074712186
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	8	19		#FD913D	0.593163925496369
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	9	19		#FC622F	0.626177667010218
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	10	19		#FC622F	0.672881119211745
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	11	19		#FC622F	0.689958610047959
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	12	19	endogenous	#FC622F	0.652646074025746
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	13	19	cueing|invalid|orienting	#FD913D	0.54016404585314
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	14	19		#D7141E	0.885359867435616
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	15	19	multisensory	#F03623	0.780998254053811
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	16	19		#D7141E	0.86132245955031
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	17	19	shifts	#F03623	0.715364090583615
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	18	19	covert	#FD913D	0.562988357465005
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	19	19		#FC622F	0.665239232196011
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	20	19	preparation	#FD913D	0.578945030101628
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	21	19	discrimination|training	#FC622F	0.643629665681317
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	22	19	sequences	#FDAD4A	0.428118537895542
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	23	19		#FD913D	0.591757463637332
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	1	20	personal|self|selfreferential|trait|traits	#FDAD4A	0.403597763860665
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	2	20	empathic|theory	#FECB68	0.376964683635164
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	3	20	attribution|intentional	#FECB68	0.370650590022958
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	4	20	elderly|oscillations	#FECB68	0.395676183195688
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	5	20	antipsychotic|virtual	#FD913D	0.542363747971626
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	6	20		#FC622F	0.605481675946979
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	7	20	experiences	#FECB68	0.337577755630054
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	8	20	categorical|pressure	#FD913D	0.510897655023443
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	9	20	play|skills	#FECB68	0.376053481402951
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	10	20	automatic|trained	#FDAD4A	0.43355736885593
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	11	20		#FDAD4A	0.480288338308024
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	12	20	practice	#FDAD4A	0.423815740295061
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	13	20	visuomotor	#FDAD4A	0.421264827582365
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	14	20		#F03623	0.720964070893365
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	15	20	tool	#FD913D	0.583113275088816
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	16	20	vision	#FD913D	0.570757473779451
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	17	20	visually	#FC622F	0.631857276893592
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	18	20	saccade|saccades|saccadic	#FD913D	0.504713130182553
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	19	20	locations	#FC622F	0.672374381075813
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	20	20	imagery|planning	#FD913D	0.525635820027169
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	21	20		#FD913D	0.574569518339711
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	22	20	rest	#FDAD4A	0.428740955141131
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	23	20	sequence	#FD913D	0.541512194605358
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	1	21	scenarios	#FECB68	0.376288811994468
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	2	21	intention|intentions	#FD913D	0.547537621539395
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	3	21	causality|perspective	#FDAD4A	0.475369098438771
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	4	21	past	#FC622F	0.615901112816489
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	5	21		#FD913D	0.580710938033052
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	6	21	episode	#FECB68	0.369501603591254
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	7	21	improvement	#FDAD4A	0.488039667697154
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	8	21	masking|retention	#FD913D	0.510834211833435
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	9	21		#FD913D	0.501189147147053
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	10	21	dominant	#FDAD4A	0.451379784912611
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	11	21		#FECB68	0.335926225702136
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	12	21	sequential	#FEE188	0.297682929018838
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	13	21	fingers	#FEE188	0.270665660837022
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	14	21		#FC622F	0.600324034651836
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	15	21	gesture|gestures	#FD913D	0.543375565116017
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	16	21		#FC622F	0.611902627016658
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	17	21	hands	#FD913D	0.590777524982087
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	18	21		#FC622F	0.647020650634493
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	19	21		#FC622F	0.672646796772582
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	20	21	eye|position	#FC622F	0.633262284210923
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	21	21	execution	#FDAD4A	0.471246068184793
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	22	21	finger|sensorimotor	#FECB68	0.36334583027592
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	23	21		#FECB68	0.386355461893178
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	1	22	moral|stories|story	#FEE188	0.263258795438144
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	2	22	mentalizing|persons	#FD913D	0.505572540905959
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	3	22	default|restingstate	#FDAD4A	0.470505304413558
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	4	22	thinking|thought|thoughts	#FDAD4A	0.471289019288972
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	5	22	spontaneous	#FEE188	0.268424270162594
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	6	22	concentration|sensations	#FFF1A9	0.106340719078006
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	7	22	hierarchical|preference	#FC622F	0.668163935099799
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	8	22	effort|oral|simulation	#FEE188	0.270536080704527
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	9	22	interhemispheric|plasticity	#FECB68	0.39065777425775
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	10	22	imagined|imagine	#FEE188	0.275607026330299
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	11	22	tapping	#FEE188	0.257821753522197
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	12	22	foot|muscle|muscles|voluntary	#FFFFCC	0.0983118380137201
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	13	22	limb	#FFF1A9	0.14334944174017
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	14	22	eyes|velocity	#FECB68	0.38380006590811
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	15	22	biological|gaze|videos	#FECB68	0.379817638946542
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	16	22	body	#FECB68	0.389843025597846
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	17	22	grasping|orientation|reaching	#FDAD4A	0.470385044994685
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	18	22		#FC622F	0.632384438762746
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	19	22	mirror|shape	#D7141E	0.815913384704497
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	20	22	actions	#FD913D	0.564585803399218
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	21	22	action	#FC622F	0.60358586681281
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	22	22		#FDAD4A	0.406106242654388
+7dba34d9-524c-3e9e-af4b-e4d2e6fb8a78	Ekstrom A	23	22	hand|movements|sensory	#FEE188	0.257286494253351

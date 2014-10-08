@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	1	1	auditory|speech	#FEE188	0.264567971727355
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	2	1		#FEE188	0.234965803519672
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	3	1	da|integration	#FECB68	0.347797090259453
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	4	1		#FD913D	0.593007194983183
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	5	1	physical|psychophysical|tactile	#F03623	0.789769362752918
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	6	1		#D7141E	0.875685854172859
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	7	1	somatosensory|stimulation	#D7141E	0.827136830762319
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	8	1	painful|pain	#D7141E	0.833305590817374
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	9	1		#D7141E	0.833450089229969
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	10	1	ratings	#FC622F	0.694799078640087
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	11	1	affective|affect	#FD913D	0.589194869612737
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	12	1	emotions	#FDAD4A	0.47496537224148
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	13	1	expression|expressions|facial	#FECB68	0.340478402679592
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	14	1		#FDAD4A	0.449274328964364
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	15	1		#FDAD4A	0.478857508023267
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	16	1	emotion|motion|neutral	#FDAD4A	0.490317681877511
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	17	1	rating	#FC622F	0.605309424491656
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	18	1	negative|positive	#FD913D	0.534052623515606
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	19	1		#FC622F	0.626929807832123
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	20	1	ear|order	#FC622F	0.612125647196122
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	21	1	motor	#F03623	0.729871364699749
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	22	1	visual	#FD913D	0.550312589635964
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	23	1	age|image|response	#FC622F	0.618252454051844
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	1	2	sound|sounds	#FFF1A9	0.144943045816794
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	2	2		#FEE188	0.221315975299171
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	3	2	audiovisual|bimodal|crossmodal	#FFF1A9	0.127779051212195
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	4	2		#FD913D	0.583421113640111
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	5	2		#F03623	0.723602434444337
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	6	2		#D7141E	0.864365635098859
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	7	2	sensation	#F03623	0.704518919655836
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	8	2	heat|noxious	#F03623	0.799186268083827
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	9	2		#D7141E	0.856214678905934
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	10	2		#F03623	0.732550900018786
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	11	2		#FC622F	0.661543902386889
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	12	2	valence	#FDAD4A	0.465507019326874
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	13	2	person|social	#FDAD4A	0.440457793684011
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	14	2		#FDAD4A	0.459671434145118
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	15	2	face|faces	#FECB68	0.341574714075106
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	16	2		#FD913D	0.526839654800032
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	17	2		#FD913D	0.567641332534501
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	18	2		#FC622F	0.621006667064172
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	19	2		#FC622F	0.648586758117286
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	20	2		#FC622F	0.664667996466664
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	21	2	images|spatial	#FD913D	0.592215680060739
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	22	2	control	#FC622F	0.665810215397242
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	23	2	time	#FC622F	0.632520766318114
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	1	3	acoustic|listening|musical|music|pitch	#FFF1A9	0.165241939352571
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	2	3	noise|tones	#FFF1A9	0.170908350726678
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	3	3		#FECB68	0.313844170093538
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	4	3		#FDAD4A	0.440535578857658
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	5	3	frequency	#FD913D	0.587985017857187
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	6	3		#F03623	0.753319184678288
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	7	3		#D7141E	0.878662710157206
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	8	3	temperature	#F03623	0.752138862270875
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	9	3		#D7141E	0.894960998388218
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	10	3	pleasant|unpleasant	#F03623	0.733921825223089
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	11	3	anxiety	#FD913D	0.58516535953887
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	12	3		#FC622F	0.602289716668667
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	13	3		#FD913D	0.570794210289808
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	14	3		#FD913D	0.536406969801575
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	15	3		#FD913D	0.539483218041797
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	16	3	picture	#FD913D	0.570523668117389
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	17	3		#FD913D	0.571264901615593
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	18	3	value	#FC622F	0.656133202395629
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	19	3	cue	#FC622F	0.687651017938387
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	20	3	error|target	#F03623	0.720199174769185
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	21	3	attention	#FD913D	0.590831002485791
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	22	3		#FD913D	0.58916871786923
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	23	3	number	#FD913D	0.561764091419085
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	1	4	voice	#FFF1A9	0.196126558202875
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	2	4		#FEE188	0.208837828678168
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	3	4	hearing	#FEE188	0.201884600707555
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	4	4		#FECB68	0.388612396887448
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	5	4	overt	#FDAD4A	0.45085026535697
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	6	4		#FD913D	0.568032813630907
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	7	4		#B10026	0.93794284920009
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	8	4	nociceptive|nonpainful|painrelated	#B10026	0.935964930378823
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	9	4	unpleasantness	#D7141E	0.89609527681377
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	10	4	skin|subjective	#F03623	0.726016043393421
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	11	4	depression	#FC622F	0.64763082931461
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	12	4	experience	#FC622F	0.639185512599657
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	13	4	female	#FD913D	0.541687816693987
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	14	4	male	#FD913D	0.564055926201088
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	15	4	pictures	#FD913D	0.552192403717618
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	16	4		#FD913D	0.559062986872335
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	17	4	perception	#FDAD4A	0.466542685421619
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	18	4		#FC622F	0.613933158094856
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	19	4		#FC622F	0.632265873819372
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	20	4		#FC622F	0.627770905713753
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	21	4	correct	#FC622F	0.624661415626
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	22	4	work	#FD913D	0.581519490062415
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	23	4	memory	#FDAD4A	0.485767537350956
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	1	5	prosodic|prosody	#FFF1A9	0.15321067556253
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	2	5	phonetic	#FFF1A9	0.157219865237744
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	3	5	syllable|syllables	#FEE188	0.236135030114712
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	4	5		#FECB68	0.349704053332546
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	5	5	lip|production	#FEE188	0.235386339992411
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	6	5	somatotopic	#FDAD4A	0.471558314150574
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	7	5		#B10026	0.945917353168732
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	8	5		#B10026	1
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	9	5	empathy	#B10026	0.939542066956222
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	10	5		#F03623	0.780456061620608
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	11	5	disorder	#FC622F	0.616419916272263
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	12	5		#FC622F	0.645780456613217
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	13	5		#FD913D	0.571224546482571
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	14	5		#FD913D	0.523270944162912
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	15	5		#FD913D	0.502755623904091
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	16	5		#FDAD4A	0.493573791863215
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	17	5		#FDAD4A	0.477388217351281
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	18	5	mental	#FD913D	0.502581866510259
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	19	5	go	#FD913D	0.59635229529856
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	20	5	object	#FDAD4A	0.470040324368419
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	21	5		#FD913D	0.548576546170617
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	22	5		#FDAD4A	0.448212711751138
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	23	5	word|words	#FECB68	0.34865714745093
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	1	6		#FDAD4A	0.448222661333939
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	2	6		#FDAD4A	0.444275881817523
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	3	6		#FDAD4A	0.450656899471654
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	4	6	vocal	#FECB68	0.320912539242774
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	5	6	articulatory	#FEE188	0.257020441514828
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	6	6		#FD913D	0.537728722928414
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	7	6	oddball	#F03623	0.779996136348356
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	8	6	perceived	#FC622F	0.640285236922372
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	9	6	errorrelated	#B10026	0.971912396230088
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	10	6	approach	#FD913D	0.542534143797907
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	11	6	schizophrenia	#FC622F	0.608055467803369
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	12	6	acquisition	#FD913D	0.578400441892516
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	13	6		#FDAD4A	0.462926309573263
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	14	6		#FECB68	0.303416199888145
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	15	6		#FECB68	0.301676122667133
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	16	6		#FECB68	0.322567609929614
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	17	6		#FECB68	0.381102170528518
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	18	6		#FDAD4A	0.423759328826966
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	19	6		#FDAD4A	0.470103872188751
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	20	6	objects	#FDAD4A	0.463487099755669
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	21	6		#FDAD4A	0.490983273527942
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	22	6		#FECB68	0.373165854440328
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	23	6	language|semantic	#FEE188	0.258605745484405
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	1	7	dopamine|dopaminergic	#FDAD4A	0.458259212063699
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	2	7		#FD913D	0.544086743945387
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	3	7		#FC622F	0.645608983133066
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	4	7		#FC622F	0.660916296044253
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	5	7		#F03623	0.700491148606449
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	6	7		#FC622F	0.633071539885501
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	7	7		#F03623	0.718323170294755
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	8	7		#F03623	0.710880470998148
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	9	7		#F03623	0.753556521574084
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	10	7		#FD913D	0.56429305173283
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	11	7		#FD913D	0.50696840834634
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	12	7		#FDAD4A	0.461118673765702
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	13	7	linguistic|spoken	#FEE188	0.251600812410885
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	14	7		#FEE188	0.258699206799575
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	15	7	comprehension|sentence|sentences|syntactic	#FEE188	0.203696334657496
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	16	7		#FEE188	0.249214484616652
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	17	7		#FECB68	0.318011625148877
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	18	7	phonological|reading|read	#FECB68	0.304834391716491
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	19	7		#FDAD4A	0.42246071234681
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	20	7	perceptual|recognition	#FDAD4A	0.491818986801588
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	21	7		#FDAD4A	0.481742133697635
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	22	7		#FECB68	0.398878980375703
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	23	7	verb	#FDAD4A	0.406564519946167
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	1	8	outcome|reward	#FD913D	0.528595131801818
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	2	8	anticipation	#FD913D	0.544880077841439
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	3	8	outcomes	#FDAD4A	0.446487982269456
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	4	8	choice|choices	#FC622F	0.629503238036864
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	5	8	decisions|probability	#F03623	0.732281503141413
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	6	8	reversal	#FC622F	0.616530203040718
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	7	8	classification|incorrect	#FECB68	0.370275024554306
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	8	8		#FD913D	0.50595461826935
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	9	8	agerelated|fluency|probes	#FDAD4A	0.449833809684929
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	10	8	engaged	#FECB68	0.330221872768239
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	11	8	explicit|knowledge	#FECB68	0.333186290954197
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	12	8		#FECB68	0.344576297423299
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	13	8		#FECB68	0.303322738248755
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	14	8		#FEE188	0.244934612520917
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	15	8		#FEE188	0.227294480908638
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	16	8		#FEE188	0.229755894694037
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	17	8	lexical	#FEE188	0.221701888306515
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	18	8		#FECB68	0.338568757361208
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	19	8		#FDAD4A	0.404667303574954
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	20	8		#FDAD4A	0.461099025396359
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	21	8	encoding	#FDAD4A	0.455041097462678
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	22	8	retrieval	#FDAD4A	0.436250181672169
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	23	8	verbal	#FD913D	0.501958129004581
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	1	9	incentive|monetary|money|rewards	#FECB68	0.394958987102752
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	2	9	loss	#FD913D	0.512836107899174
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	3	9		#FC622F	0.648512425505999
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	4	9		#FC622F	0.690056052184157
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	5	9	decisionmaking	#FC622F	0.604072783548861
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	6	9		#FD913D	0.550967637957891
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	7	9		#FDAD4A	0.491357077892786
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	8	9		#FDAD4A	0.445288997378013
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	9	9		#FDAD4A	0.423839922428592
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	10	9		#FECB68	0.370368851470045
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	11	9		#FECB68	0.324638393337774
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	12	9		#FECB68	0.303595275090116
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	13	9	noun	#FEE188	0.223283031530253
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	14	9	meaning	#FEE188	0.281834151556078
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	15	9	english	#FFF1A9	0.188212925741782
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	16	9	pseudoword|pseudowords	#FFF1A9	0.193255336602562
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	17	9		#FEE188	0.291446900320795
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	18	9		#FECB68	0.385397132841396
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	19	9	familiar|judgment	#FECB68	0.37446359015625
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	20	9	pair|pairs	#FDAD4A	0.419317834571142
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	21	9		#FD913D	0.555307931973304
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	22	9		#FD913D	0.555297648197986
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	23	9	letter|working	#FD913D	0.536617826652242
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	1	10	losses|reinforcement|win	#FD913D	0.548749373672598
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	2	10	gain	#FDAD4A	0.426143952580176
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	3	10	expectation	#FECB68	0.398310010836237
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	4	10	risk	#F03623	0.777200385939566
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	5	10	fact	#FDAD4A	0.472585368297045
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	6	10	associative	#FDAD4A	0.439121919705626
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	7	10	familiarity|judgments|old	#FECB68	0.348196333377582
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	8	10	contextual|text	#FECB68	0.383286184729962
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	9	10	recall|retrieved	#FEE188	0.281520939623474
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	10	10	conceptual|semantically	#FEE188	0.227727883713016
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	11	10	grammatical|speakers	#FEE188	0.264718927956811
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	12	10	nouns	#FEE188	0.225921608964988
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	13	10	japanese	#FEE188	0.236367688932073
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	14	10	languages	#FFF1A9	0.187687370245869
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	15	10	written	#FFF1A9	0.196511463945427
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	16	10	chinese|phonology	#FEE188	0.228338683822807
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	17	10	orthographic	#FEE188	0.268012344162183
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	18	10		#FDAD4A	0.477891144872056
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	19	10		#FD913D	0.51262133642433
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	20	10	association|decision	#FC622F	0.624261930320058
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	21	10	selection	#FC622F	0.674137242458719
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	22	10	letters	#FDAD4A	0.456415936076699
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	23	10	demand|load	#FDAD4A	0.495591102502957
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	1	11	conditioned|conditioning	#FDAD4A	0.473825291138979
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	2	11		#FC622F	0.611226820579124
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	3	11	drug|placebo	#FD913D	0.540902945334093
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	4	11		#FD913D	0.552524708465174
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	5	11	associations	#FECB68	0.382618219299821
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	6	11		#FECB68	0.33227098217652
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	7	11	episodic|recollection	#FEE188	0.232190451268938
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	8	11		#FEE188	0.283634673908839
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	9	11		#FECB68	0.328806047090785
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	10	11	concepts	#FFF1A9	0.148058783451509
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	11	11		#FEE188	0.297650062104117
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	12	11		#FEE188	0.283829503199653
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	13	11	german	#FEE188	0.266132971210236
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	14	11	readers	#FEE188	0.270870494092899
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	15	11	character|name|naming	#FEE188	0.269909870898253
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	16	11		#FECB68	0.377776965158571
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	17	11	novel	#FDAD4A	0.464152999693679
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	18	11		#FD913D	0.538680124737853
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	19	11	child|children	#FD913D	0.564600311174353
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	20	11	adults	#FD913D	0.593873869081529
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	21	11	ability|feedback|learning	#FC622F	0.68742078529188
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	22	11	cues|delay	#FD913D	0.58218168602357
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	23	11	attentional|difficulty|targets	#FC622F	0.653738576342456
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	1	12	aversive|shock	#F03623	0.734533071792138
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	2	12	reactivity	#FDAD4A	0.425847746768427
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	3	12	males|sex|women	#FDAD4A	0.419031946995046
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	4	12	animal	#FECB68	0.359439482754343
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	5	12	animals	#FEE188	0.210067626395828
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	6	12		#FEE188	0.22538046980941
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	7	12	remember|subsequent	#FFF1A9	0.161268167518395
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	8	12	autobiographical|memories	#FFFFCC	0.0280981277573536
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	9	12		#FECB68	0.318661749520392
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	10	12	violation|violations	#FEE188	0.268359705456709
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	11	12	aphasia	#FECB68	0.311798703795858
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	12	12	nonwords	#FEE188	0.21006701613258
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	13	12	dyslexia	#FEE188	0.260610087761582
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	14	12		#FECB68	0.39910047352412
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	15	12	priming	#FDAD4A	0.409652771309558
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	16	12		#FDAD4A	0.477388515410483
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	17	12	category|repetition	#FDAD4A	0.498297372794429
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	18	12		#FD913D	0.555480375632187
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	19	12	developmental|development	#FD913D	0.538105604280323
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	20	12		#FC622F	0.65146037142557
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	21	12	space	#FDAD4A	0.497729392023333
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	22	12		#FC622F	0.657731640935901
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	23	12	color	#FC622F	0.628853982479705
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	1	13	threat	#FDAD4A	0.415704723839164
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	2	13	regulation	#FC622F	0.664367686688928
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	3	13		#FDAD4A	0.480904854099949
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	4	13	masked	#FFF1A9	0.144587260024896
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	5	13	scene|scenes	#FFF1A9	0.126989941264909
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	6	13		#FFF1A9	0.189819037447927
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	7	13	confidence|remembered	#FFFFCC	0
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	8	13		#FEE188	0.200604221595733
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	9	13		#FECB68	0.321630556235419
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	10	13	ambiguity|ambiguous	#FFF1A9	0.189225088644977
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	11	13		#FECB68	0.34684017264262
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	12	13		#FECB68	0.392029009008193
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	13	13	writing	#FDAD4A	0.403037974246979
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	14	13		#FD913D	0.503122844784847
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	15	13	categorization|congruency|prime	#FDAD4A	0.452656796918499
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	16	13		#FD913D	0.552473359247339
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	17	13	mask	#FDAD4A	0.447156453627413
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	18	13		#FC622F	0.656243843792535
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	19	13		#F03623	0.730158426362164
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	20	13		#F03623	0.745157927623386
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	21	13	conflict|congruent|incongruent	#F03623	0.790416493978429
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	22	13	errors	#F03623	0.715204252439411
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	23	13	maintenance|probe|wm	#FD913D	0.563499262969465
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	1	14	angry|fearful|happy	#FEE188	0.264212698195582
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	2	14		#FDAD4A	0.4009452978937
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	3	14	awareness|conscious|ptsd	#FDAD4A	0.452273601820303
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	4	14		#FECB68	0.390673410892762
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	5	14	houses|photographs	#FFF1A9	0.116188456316275
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	6	14		#FEE188	0.278840888104282
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	7	14	hits	#FEE188	0.232417492195879
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	8	14	famous	#FFFFCC	0.0713037524768867
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	9	14	names	#FEE188	0.250235349637926
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	10	14	family	#FEE188	0.284143657441435
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	11	14	competition|mouth	#FECB68	0.329662933315773
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	12	14	abilities	#FECB68	0.353593549086433
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	13	14	implicit|unfamiliar	#FECB68	0.369024472751736
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	14	14		#FD913D	0.522544333256597
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	15	14	tom	#FC622F	0.660675230134117
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	16	14		#FC622F	0.623132236852136
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	17	14		#FC622F	0.67140631311055
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	18	14	stop	#F03623	0.756917886746799
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	19	14	inhibition|inhibitory|nogo	#D7141E	0.82895172549171
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	20	14	monitoring|stroop	#F03623	0.778738196411744
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	21	14	interference	#FC622F	0.620459837063169
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	22	14		#FC622F	0.656998682350986
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	23	14	demands|executive	#FD913D	0.514197827414252
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	1	15	anger	#FEE188	0.220244432586844
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	2	15	stress	#FECB68	0.328938446571443
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	3	15	feelings	#FDAD4A	0.400164060358071
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	4	15	salient	#FD913D	0.535576083300979
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	5	15	novelty	#FECB68	0.385523204609649
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	6	15	movie	#FEE188	0.29818940809796
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	7	15		#FDAD4A	0.450958997230644
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	8	15		#FDAD4A	0.433200280715795
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	9	15	longterm	#FFF1A9	0.1851568612607
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	10	15		#FDAD4A	0.457975780125695
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	11	15	reasoning|relational	#FECB68	0.380728880168957
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	12	15		#FD913D	0.508500774141579
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	13	15	presentations	#FEE188	0.295269640229531
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	14	15		#FDAD4A	0.475323465408431
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	15	15	identity	#FDAD4A	0.471246407745692
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	16	15		#FC622F	0.640741347278389
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	17	15	strategies|strategy	#FC622F	0.679935834736736
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	18	15	card|cards	#FC622F	0.684184909870121
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	19	15	gonogo	#F03623	0.767734884079674
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	20	15		#F03623	0.767022883132555
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	21	15	switching|switch	#FD913D	0.519430664820617
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	22	15		#FC622F	0.641790226770484
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	23	15	2back|rule	#FDAD4A	0.489234103014113
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	1	16	emotionally|mood|personality|sadness	#FFF1A9	0.135084049106416
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	2	16	disgust|sexual	#FEE188	0.250996968878299
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	3	16	olfactory	#FEE188	0.287472958555497
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	4	16	physiological	#FC622F	0.627555803190169
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	5	16	depressed|depressive|habituation	#FDAD4A	0.46152984624423
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	6	16	schizophrenic	#FDAD4A	0.498895563094943
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	7	16	colors|contexts	#FD913D	0.506116099716724
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	8	16	aging|encoded	#FECB68	0.36419812355352
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	9	16	goal	#FEE188	0.207718136040778
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	10	16		#FDAD4A	0.490034117886739
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	11	16	autism|autistic|nonverbal	#FD913D	0.547864004790568
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	12	16		#FD913D	0.518316364302105
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	13	16	bottomup|repetitions	#FECB68	0.38825587201897
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	14	16	adaptation	#FECB68	0.309153497722595
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	15	16	irrelevant	#FDAD4A	0.412879312702541
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	16	16	distractor|distractors	#FD913D	0.502339656291142
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	17	16		#FC622F	0.611193859755226
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	18	16	subtraction	#FECB68	0.39461042995496
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	19	16	1back|nback	#FDAD4A	0.471458253656397
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	20	16	manipulation|rules	#FD913D	0.556429089760646
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	21	16		#FC622F	0.615026840183485
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	22	16		#FD913D	0.541104045074993
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	23	16	digit	#FD913D	0.586727458300214
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	1	17	avoidance	#FFF1A9	0.145441041633841
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	2	17		#FEE188	0.267265199753385
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	3	17	eating|food	#FEE188	0.228842998861011
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	4	17	taste	#FECB68	0.344280562021476
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	5	17	bipolar	#FDAD4A	0.479548919626202
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	6	17	illness|uncertainty	#D7141E	0.818319320703925
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	7	17	females|probabilistic	#FD913D	0.591634978035389
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	8	17	rejection	#FDAD4A	0.46760422152931
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	9	17	colour|paired	#FD913D	0.580194685608601
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	10	17		#FD913D	0.578272178661092
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	11	17		#FC622F	0.608351127702203
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	12	17		#FD913D	0.570483943056201
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	13	17	taskirrelevant	#FECB68	0.390863392577837
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	14	17		#FDAD4A	0.439862472218852
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	15	17	suppression	#FD913D	0.50592682955564
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	16	17		#FDAD4A	0.463278708159163
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	17	17	shifting|shortterm	#FEE188	0.258135649767795
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	18	17	digits	#FD913D	0.503325761710844
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	19	17	search	#FD913D	0.563683107034294
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	20	17	counting|taskrelated	#FD913D	0.534770956693807
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	21	17	topdown	#FD913D	0.549640383298192
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	22	17	visuospatial	#FDAD4A	0.422651322844797
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	23	17	arithmetic|calculation|solving	#FDAD4A	0.419940835231611
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	1	18	addiction|craving|drugs	#FFF1A9	0.155193738595704
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	2	18	allele|genotype|polymorphism	#FEE188	0.26353802196154
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	3	18	motivation	#FECB68	0.332450445961217
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	4	18	heart	#FDAD4A	0.412942579430996
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	5	18	sleep	#FDAD4A	0.452896237774856
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	6	18	expectancy	#FC622F	0.629844953861505
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	7	18	phasic|salience	#B10026	0.957515539995999
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	8	18	adolescence|adolescents	#FC622F	0.693079493316403
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	9	18	intelligence|tracking	#F03623	0.741058348951542
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	10	18		#F03623	0.74094436872501
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	11	18	serial	#FECB68	0.314391151512325
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	12	18		#FD913D	0.592953706557101
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	13	18	spatially|taskrelevant	#FDAD4A	0.431057129955298
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	14	18		#FDAD4A	0.450351743245726
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	15	18	attended|attend|unattended	#FEE188	0.241521030509177
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	16	18	rotation|shapes	#FECB68	0.392447167216587
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	17	18	rehearsal	#FECB68	0.364388788778414
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	18	18	learned	#FD913D	0.530160576540104
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	19	18		#FC622F	0.682977548451556
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	20	18	cued|preparatory	#FC622F	0.686739389144275
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	21	18		#FC622F	0.676155106871706
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	22	18		#FD913D	0.575892331952513
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	23	18	numbers|numerical	#FDAD4A	0.461664752385218
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	1	19	future	#FEE188	0.28283826937022
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	2	19	negatively	#FEE188	0.23999253465997
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	3	19	distress|epilepsy|selfreported	#FFF1A9	0.154047905457425
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	4	19	anticipatory|cocaine|probabilities|smoking	#FECB68	0.362571400899763
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	5	19	alcohol|amount|impulsivity	#FECB68	0.389562528857963
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	6	19	game|success	#FC622F	0.643893128264642
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	7	19	adhd|childhood|engagement	#FD913D	0.500912820879121
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	8	19		#D7141E	0.893571104758165
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	9	19		#D7141E	0.894452873226483
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	10	19		#F03623	0.740640668673357
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	11	19		#FC622F	0.689419620543017
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	12	19	endogenous	#FDAD4A	0.468438193998478
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	13	19	cueing|invalid|orienting	#FDAD4A	0.48198363053909
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	14	19		#FD913D	0.51538290873045
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	15	19	multisensory	#FEE188	0.290847680269136
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	16	19		#FDAD4A	0.466561988412743
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	17	19	shifts	#FD913D	0.549429135821994
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	18	19	covert	#FD913D	0.554303694151499
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	19	19		#FC622F	0.663732565520605
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	20	19	preparation	#F03623	0.783571139601352
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	21	19	discrimination|training	#FC622F	0.61315690602855
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	22	19	sequences	#FD913D	0.546000011791431
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	23	19		#F03623	0.741635222905509
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	1	20	personal|self|selfreferential|trait|traits	#FDAD4A	0.408465801093406
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	2	20	empathic|theory	#FD913D	0.53174858581501
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	3	20	attribution|intentional	#FFF1A9	0.103111611605086
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	4	20	elderly|oscillations	#FEE188	0.260599169011758
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	5	20	antipsychotic|virtual	#FECB68	0.311014095834502
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	6	20		#F03623	0.720710614658806
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	7	20	experiences	#FC622F	0.654189196830197
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	8	20	categorical|pressure	#FC622F	0.618750179033535
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	9	20	play|skills	#FDAD4A	0.431335646499026
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	10	20	automatic|trained	#D7141E	0.893567575040452
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	11	20		#D7141E	0.801936130311152
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	12	20	practice	#F03623	0.70311693220963
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	13	20	visuomotor	#F03623	0.712830311201833
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	14	20		#FC622F	0.622180508251451
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	15	20	tool	#FD913D	0.576581759152898
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	16	20	vision	#FECB68	0.354180086684773
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	17	20	visually	#FDAD4A	0.434427382862167
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	18	20	saccade|saccades|saccadic	#FDAD4A	0.429488874334544
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	19	20	locations	#FD913D	0.586273577826569
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	20	20	imagery|planning	#FD913D	0.544530829754765
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	21	20		#F03623	0.734642039582712
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	22	20	rest	#FC622F	0.654934763327877
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	23	20	sequence	#FC622F	0.690602505617217
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	1	21	scenarios	#FFF1A9	0.153773950978798
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	2	21	intention|intentions	#FFF1A9	0.186978441853329
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	3	21	causality|perspective	#FEE188	0.241931785304565
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	4	21	past	#FFF1A9	0.141501086870098
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	5	21		#FC622F	0.686222725696862
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	6	21	episode	#FD913D	0.506780953066722
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	7	21	improvement	#F03623	0.778995154098996
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	8	21	masking|retention	#FECB68	0.39850444841713
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	9	21		#D7141E	0.822060743347337
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	10	21	dominant	#FD913D	0.544252913003489
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	11	21		#F03623	0.746722228554551
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	12	21	sequential	#FC622F	0.637575070491037
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	13	21	fingers	#FC622F	0.624016730840134
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	14	21		#FD913D	0.540523580193881
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	15	21	gesture|gestures	#FECB68	0.325143241029682
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	16	21		#FD913D	0.542839697378653
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	17	21	hands	#FD913D	0.583069786948666
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	18	21		#FC622F	0.625563999536919
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	19	21		#FD913D	0.598483486711116
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	20	21	eye|position	#FC622F	0.646769583336847
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	21	21	execution	#FC622F	0.632245201387706
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	22	21	finger|sensorimotor	#F03623	0.792057623688057
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	23	21		#F03623	0.779887087826191
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	1	22	moral|stories|story	#FFFFCC	0.098753976903334
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	2	22	mentalizing|persons	#FFFFCC	0.0735767813166034
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	3	22	default|restingstate	#FEE188	0.223703779172294
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	4	22	thinking|thought|thoughts	#FEE188	0.256088241747333
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	5	22	spontaneous	#FDAD4A	0.432002560700513
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	6	22	concentration|sensations	#FC622F	0.683294385977603
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	7	22	hierarchical|preference	#FDAD4A	0.495997289893941
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	8	22	effort|oral|simulation	#FD913D	0.527397137011729
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	9	22	interhemispheric|plasticity	#F03623	0.722336455683669
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	10	22	imagined|imagine	#FD913D	0.581429734869984
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	11	22	tapping	#FC622F	0.631132850725265
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	12	22	foot|muscle|muscles|voluntary	#FC622F	0.684561302489867
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	13	22	limb	#FD913D	0.526274828460581
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	14	22	eyes|velocity	#FDAD4A	0.407000338424304
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	15	22	biological|gaze|videos	#FFF1A9	0.164482117598745
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	16	22	body	#FECB68	0.395218715305717
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	17	22	grasping|orientation|reaching	#FD913D	0.564812779637635
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	18	22		#FC622F	0.633701566165824
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	19	22	mirror|shape	#FDAD4A	0.418101740495312
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	20	22	actions	#FD913D	0.534675900837146
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	21	22	action	#FC622F	0.63716341386554
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	22	22		#F03623	0.768581539857903
+9bfae7aa-b5b4-35ab-80c2-98c4c5d25cea	Ashby FG	23	22	hand|movements|sensory	#F03623	0.748466428297148

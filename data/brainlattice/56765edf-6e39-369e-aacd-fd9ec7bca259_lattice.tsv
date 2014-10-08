@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	1	1	auditory|speech	#D7141E	0.809005058232205
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	2	1		#F03623	0.793624898303583
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	3	1	da|integration	#F03623	0.75572123100032
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	4	1		#D7141E	0.828724962340758
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	5	1	physical|psychophysical|tactile	#FC622F	0.637631478562393
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	6	1		#D7141E	0.8286346291929
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	7	1	somatosensory|stimulation	#F03623	0.795277716712282
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	8	1	painful|pain	#F03623	0.753044960649565
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	9	1		#F03623	0.797540508878081
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	10	1	ratings	#F03623	0.733618021136269
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	11	1	affective|affect	#FC622F	0.648897417212715
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	12	1	emotions	#FD913D	0.554904432023206
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	13	1	expression|expressions|facial	#FEE188	0.266276770759364
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	14	1		#FDAD4A	0.482760526969528
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	15	1		#FD913D	0.541167102688669
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	16	1	emotion|motion|neutral	#FD913D	0.574709531836057
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	17	1	rating	#F03623	0.736378964381106
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	18	1	negative|positive	#F03623	0.731035434060742
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	19	1		#F03623	0.776228420665121
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	20	1	ear|order	#F03623	0.753317325378789
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	21	1	motor	#FC622F	0.688535521786905
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	22	1	visual	#FD913D	0.576379288740381
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	23	1	age|image|response	#F03623	0.741125712265463
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	1	2	sound|sounds	#F03623	0.733234020568097
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	2	2		#F03623	0.77032295457329
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	3	2	audiovisual|bimodal|crossmodal	#FDAD4A	0.474981054742995
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	4	2		#D7141E	0.840368114912683
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	5	2		#D7141E	0.860417345311927
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	6	2		#D7141E	0.863675307815395
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	7	2	sensation	#F03623	0.735380601876651
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	8	2	heat|noxious	#FC622F	0.638476955477809
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	9	2		#F03623	0.785544463588812
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	10	2		#F03623	0.739656388161162
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	11	2		#FC622F	0.700196899058745
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	12	2	valence	#FD913D	0.529894725196738
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	13	2	person|social	#FC622F	0.625291475079113
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	14	2		#FD913D	0.500369222838198
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	15	2	face|faces	#FECB68	0.36237925828405
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	16	2		#FC622F	0.633044831942877
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	17	2		#F03623	0.715984444662358
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	18	2		#F03623	0.773246157376523
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	19	2		#F03623	0.779209703176619
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	20	2		#F03623	0.73820266567534
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	21	2	images|spatial	#FC622F	0.689529483669986
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	22	2	control	#F03623	0.704055382687115
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	23	2	time	#F03623	0.757264891562931
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	1	3	acoustic|listening|musical|music|pitch	#FC622F	0.621397335095985
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	2	3	noise|tones	#FC622F	0.694200424404748
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	3	3		#F03623	0.800364351267873
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	4	3		#D7141E	0.875194676222443
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	5	3	frequency	#B10026	0.905751579872496
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	6	3		#B10026	0.990342304481161
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	7	3		#D7141E	0.80388017710649
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	8	3	temperature	#FD913D	0.564243579367126
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	9	3		#F03623	0.767207033452984
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	10	3	pleasant|unpleasant	#FDAD4A	0.447016405207657
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	11	3	anxiety	#FC622F	0.605635208042223
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	12	3		#F03623	0.735274598875462
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	13	3		#F03623	0.73549271751771
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	14	3		#FC622F	0.628101591699172
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	15	3		#FC622F	0.6227633212838
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	16	3	picture	#FD913D	0.580497528523032
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	17	3		#F03623	0.728006776056681
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	18	3	value	#D7141E	0.808030194723599
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	19	3	cue	#FC622F	0.700308424484626
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	20	3	error|target	#FC622F	0.698533176582628
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	21	3	attention	#FC622F	0.634182605393058
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	22	3		#F03623	0.702934313080532
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	23	3	number	#F03623	0.734360012110989
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	1	4	voice	#FD913D	0.561238678386289
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	2	4		#FC622F	0.694016161094645
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	3	4	hearing	#FC622F	0.675049621979503
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	4	4		#D7141E	0.850842842357122
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	5	4	overt	#D7141E	0.824117832586211
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	6	4		#B10026	0.920371404240763
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	7	4		#D7141E	0.878560701874723
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	8	4	nociceptive|nonpainful|painrelated	#F03623	0.711052255533517
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	9	4	unpleasantness	#FD913D	0.559901705693265
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	10	4	skin|subjective	#F03623	0.787975038550808
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	11	4	depression	#F03623	0.757156916313805
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	12	4	experience	#D7141E	0.845492282768982
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	13	4	female	#F03623	0.701388887503079
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	14	4	male	#F03623	0.756117935367857
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	15	4	pictures	#FD913D	0.542470450522174
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	16	4		#FC622F	0.684756751143669
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	17	4	perception	#FC622F	0.658812907433748
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	18	4		#F03623	0.726600470988422
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	19	4		#F03623	0.709517056296968
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	20	4		#FC622F	0.690899168431278
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	21	4	correct	#FC622F	0.695356427763474
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	22	4	work	#FC622F	0.656595797889597
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	23	4	memory	#FC622F	0.644690566163272
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	1	5	prosodic|prosody	#FDAD4A	0.466629827494509
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	2	5	phonetic	#FC622F	0.651951434809987
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	3	5	syllable|syllables	#FC622F	0.635152881387921
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	4	5		#D7141E	0.808866796671188
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	5	5	lip|production	#FC622F	0.612229875363729
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	6	5	somatotopic	#FC622F	0.611378560990849
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	7	5		#B10026	0.960365301021157
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	8	5		#B10026	0.911983357125691
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	9	5	empathy	#B10026	0.934393303665904
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	10	5		#B10026	1
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	11	5	disorder	#FC622F	0.691359891452359
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	12	5		#B10026	0.944960492285257
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	13	5		#D7141E	0.877801502875651
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	14	5		#F03623	0.772160585254434
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	15	5		#F03623	0.734810964060578
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	16	5		#F03623	0.726087109973244
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	17	5		#F03623	0.714268732880214
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	18	5	mental	#FC622F	0.660939328654911
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	19	5	go	#FC622F	0.653442393953713
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	20	5	object	#FDAD4A	0.447466364508379
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	21	5		#FC622F	0.682823054824531
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	22	5		#FC622F	0.680427420951685
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	23	5	word|words	#FC622F	0.651226824547338
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	1	6		#F03623	0.763621372471463
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	2	6		#F03623	0.79438620682902
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	3	6		#D7141E	0.89610808945773
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	4	6	vocal	#F03623	0.772639144085832
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	5	6	articulatory	#FD913D	0.575395529176857
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	6	6		#D7141E	0.893105419853266
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	7	6	oddball	#B10026	0.962940203959848
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	8	6	perceived	#FC622F	0.689749428939541
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	9	6	errorrelated	#D7141E	0.84372071459054
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	10	6	approach	#B10026	0.922761095019432
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	11	6	schizophrenia	#B10026	0.90850671389958
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	12	6	acquisition	#B10026	0.990932220868369
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	13	6		#D7141E	0.824559295989058
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	14	6		#FC622F	0.641934585120722
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	15	6		#FC622F	0.623127453032559
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	16	6		#FC622F	0.640871653549533
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	17	6		#FC622F	0.65801880541395
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	18	6		#FC622F	0.646981452464123
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	19	6		#FC622F	0.663917950700146
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	20	6	objects	#FDAD4A	0.466943684045828
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	21	6		#FC622F	0.680705065008302
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	22	6		#FC622F	0.658267203837893
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	23	6	language|semantic	#FC622F	0.606753432645298
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	1	7	dopamine|dopaminergic	#FDAD4A	0.401681995512461
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	2	7		#FD913D	0.543364662711228
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	3	7		#D7141E	0.834093603049263
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	4	7		#B10026	0.926457309531348
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	5	7		#B10026	0.922928730451996
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	6	7		#B10026	0.933822558170723
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	7	7		#B10026	0.940272546961778
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	8	7		#D7141E	0.890853884640731
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	9	7		#B10026	0.932215032850943
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	10	7		#D7141E	0.855958579951513
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	11	7		#D7141E	0.858890668545749
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	12	7		#D7141E	0.819110376683714
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	13	7	linguistic|spoken	#FD913D	0.59473990630361
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	14	7		#FD913D	0.597566960490375
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	15	7	comprehension|sentence|sentences|syntactic	#FDAD4A	0.495200325460423
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	16	7		#FD913D	0.575137119196995
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	17	7		#FC622F	0.613234674516687
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	18	7	phonological|reading|read	#FD913D	0.586634619074169
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	19	7		#FC622F	0.649263816054159
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	20	7	perceptual|recognition	#FC622F	0.639058946566012
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	21	7		#FC622F	0.696703950992378
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	22	7		#FC622F	0.678243251850937
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	23	7	verb	#FC622F	0.664743215526395
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	1	8	outcome|reward	#FDAD4A	0.480000247029634
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	2	8	anticipation	#FDAD4A	0.480948275991714
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	3	8	outcomes	#FD913D	0.540475653484489
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	4	8	choice|choices	#FC622F	0.636511773553203
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	5	8	decisions|probability	#F03623	0.753280623045729
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	6	8	reversal	#FC622F	0.647563129687934
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	7	8	classification|incorrect	#FC622F	0.661202763997536
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	8	8		#F03623	0.780021656576256
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	9	8	agerelated|fluency|probes	#FC622F	0.683168606539999
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	10	8	engaged	#FD913D	0.564064157376696
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	11	8	explicit|knowledge	#FD913D	0.574571141820121
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	12	8		#FC622F	0.654328058475727
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	13	8		#FD913D	0.598815283800782
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	14	8		#FD913D	0.561626635864318
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	15	8		#FD913D	0.550076009751949
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	16	8		#FD913D	0.570771347767757
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	17	8	lexical	#FD913D	0.542492982416438
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	18	8		#FC622F	0.6285248797191
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	19	8		#FC622F	0.672865050700008
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	20	8		#F03623	0.705025126542704
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	21	8	encoding	#FC622F	0.606315674885259
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	22	8	retrieval	#FC622F	0.669875230445669
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	23	8	verbal	#FC622F	0.689838656737254
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	1	9	incentive|monetary|money|rewards	#FEE188	0.288110538274608
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	2	9	loss	#FDAD4A	0.470229970707181
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	3	9		#FC622F	0.696517636050899
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	4	9		#F03623	0.783976451064109
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	5	9	decisionmaking	#F03623	0.771689762033527
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	6	9		#F03623	0.751414872318408
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	7	9		#F03623	0.717582438039732
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	8	9		#F03623	0.718597404553057
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	9	9		#F03623	0.710711544131429
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	10	9		#FC622F	0.652291202913443
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	11	9		#FD913D	0.590498645697095
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	12	9		#FD913D	0.569546690561963
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	13	9	noun	#FECB68	0.386736157263826
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	14	9	meaning	#FDAD4A	0.46308872069038
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	15	9	english	#FD913D	0.510977034245863
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	16	9	pseudoword|pseudowords	#FDAD4A	0.477291452560093
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	17	9		#FC622F	0.604324775974767
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	18	9		#FC622F	0.678009862376412
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	19	9	familiar|judgment	#FC622F	0.631874063573485
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	20	9	pair|pairs	#F03623	0.754688299647203
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	21	9		#F03623	0.784407868311835
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	22	9		#F03623	0.70883453961075
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	23	9	letter|working	#FD913D	0.590812181707199
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	1	10	losses|reinforcement|win	#FECB68	0.34523491523569
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	2	10	gain	#FEE188	0.258250188558285
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	3	10	expectation	#FD913D	0.588886995212366
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	4	10	risk	#F03623	0.701678994168321
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	5	10	fact	#FD913D	0.599421426595691
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	6	10	associative	#FDAD4A	0.448496761277536
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	7	10	familiarity|judgments|old	#FC622F	0.623568682523858
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	8	10	contextual|text	#FD913D	0.526580941932008
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	9	10	recall|retrieved	#FD913D	0.585355700368301
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	10	10	conceptual|semantically	#FD913D	0.501523163699706
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	11	10	grammatical|speakers	#FDAD4A	0.442965398959588
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	12	10	nouns	#FECB68	0.380674394713401
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	13	10	japanese	#FD913D	0.520436990868555
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	14	10	languages	#FD913D	0.510192153956209
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	15	10	written	#FDAD4A	0.483281016682541
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	16	10	chinese|phonology	#FDAD4A	0.489490702820244
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	17	10	orthographic	#FDAD4A	0.490686836661177
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	18	10		#F03623	0.749434875786811
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	19	10		#D7141E	0.808766676829087
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	20	10	association|decision	#D7141E	0.82050358685335
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	21	10	selection	#F03623	0.749663899716611
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	22	10	letters	#FD913D	0.571649782480639
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	23	10	demand|load	#FC622F	0.617497342396854
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	1	11	conditioned|conditioning	#FEE188	0.239695570652799
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	2	11		#FD913D	0.540422307765936
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	3	11	drug|placebo	#FC622F	0.658308586223889
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	4	11		#FC622F	0.70039637274551
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	5	11	associations	#FD913D	0.566203007967393
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	6	11		#FD913D	0.528339459467708
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	7	11	episodic|recollection	#FDAD4A	0.411877894061545
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	8	11		#FD913D	0.507114070916349
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	9	11		#FD913D	0.588497102267235
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	10	11	concepts	#FEE188	0.26529767262254
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	11	11		#FD913D	0.518566892203846
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	12	11		#FD913D	0.544493558890688
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	13	11	german	#FD913D	0.501566731112151
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	14	11	readers	#FD913D	0.511922952108204
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	15	11	character|name|naming	#FD913D	0.515507448346641
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	16	11		#FC622F	0.615022159990335
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	17	11	novel	#FC622F	0.693609111692582
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	18	11		#F03623	0.758897989638733
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	19	11	child|children	#F03623	0.768589017455032
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	20	11	adults	#D7141E	0.83833469112701
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	21	11	ability|feedback|learning	#F03623	0.779058625805955
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	22	11	cues|delay	#FC622F	0.63996010430571
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	23	11	attentional|difficulty|targets	#FC622F	0.612933742891506
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	1	12	aversive|shock	#FD913D	0.534623885013177
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	2	12	reactivity	#FDAD4A	0.435910141120043
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	3	12	males|sex|women	#FD913D	0.53188021925856
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	4	12	animal	#FDAD4A	0.476825265362343
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	5	12	animals	#FFF1A9	0.189713488761043
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	6	12		#FECB68	0.373784937081164
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	7	12	remember|subsequent	#FEE188	0.270976337355162
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	8	12	autobiographical|memories	#FEE188	0.27198006476771
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	9	12		#FD913D	0.555706250321199
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	10	12	violation|violations	#FDAD4A	0.41991028884519
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	11	12	aphasia	#FDAD4A	0.464961869278943
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	12	12	nonwords	#FECB68	0.378816228054153
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	13	12	dyslexia	#FDAD4A	0.444625518007997
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	14	12		#FC622F	0.614323107727524
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	15	12	priming	#FDAD4A	0.454269586501111
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	16	12		#FC622F	0.666131618620209
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	17	12	category|repetition	#FC622F	0.645286620116513
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	18	12		#F03623	0.770733263427489
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	19	12	developmental|development	#FC622F	0.676399274183222
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	20	12		#D7141E	0.821287980973604
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	21	12	space	#D7141E	0.807784934768907
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	22	12		#F03623	0.707399335770737
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	23	12	color	#FD913D	0.579534315894199
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	1	13	threat	#FEE188	0.243060018686988
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	2	13	regulation	#FDAD4A	0.434426825861822
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	3	13		#FD913D	0.514659627868932
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	4	13	masked	#FEE188	0.251069962228694
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	5	13	scene|scenes	#FFFFCC	0.0755374518703369
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	6	13		#FEE188	0.292805030505937
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	7	13	confidence|remembered	#FFF1A9	0.150343975223593
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	8	13		#FDAD4A	0.413172996437528
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	9	13		#FD913D	0.588705332569911
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	10	13	ambiguity|ambiguous	#FFF1A9	0.194223402365998
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	11	13		#FD913D	0.55415270059325
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	12	13		#FD913D	0.559956349141073
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	13	13	writing	#FECB68	0.394381021229279
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	14	13		#FC622F	0.608993675656754
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	15	13	categorization|congruency|prime	#FD913D	0.530808787844624
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	16	13		#FC622F	0.69524618795802
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	17	13	mask	#FC622F	0.609748012765277
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	18	13		#F03623	0.796952864937172
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	19	13		#D7141E	0.826008186428567
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	20	13		#F03623	0.795470581924606
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	21	13	conflict|congruent|incongruent	#FC622F	0.695249494445946
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	22	13	errors	#FC622F	0.699890564059034
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	23	13	maintenance|probe|wm	#FD913D	0.593720230423782
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	1	14	angry|fearful|happy	#FFF1A9	0.12376349691883
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	2	14		#FEE188	0.291543250032226
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	3	14	awareness|conscious|ptsd	#FD913D	0.506216289883528
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	4	14		#FDAD4A	0.434109496346951
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	5	14	houses|photographs	#FFFFCC	0.0223859748336131
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	6	14		#FEE188	0.295133148949246
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	7	14	hits	#FEE188	0.207652723992616
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	8	14	famous	#FEE188	0.218824614040804
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	9	14	names	#FECB68	0.39327329360105
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	10	14	family	#FD913D	0.500786720980825
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	11	14	competition|mouth	#FDAD4A	0.470340813877224
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	12	14	abilities	#FECB68	0.377532787052107
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	13	14	implicit|unfamiliar	#FDAD4A	0.441144735582596
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	14	14		#FD913D	0.574925444623911
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	15	14	tom	#FC622F	0.61185917979824
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	16	14		#FC622F	0.64002867659179
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	17	14		#FC622F	0.670448570465201
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	18	14	stop	#F03623	0.714605821322692
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	19	14	inhibition|inhibitory|nogo	#F03623	0.732103345672868
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	20	14	monitoring|stroop	#FC622F	0.659297389503639
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	21	14	interference	#FD913D	0.560737090691567
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	22	14		#FC622F	0.672045063534281
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	23	14	demands|executive	#FC622F	0.615930964058181
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	1	15	anger	#FFFFCC	0.0563131229657359
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	2	15	stress	#FEE188	0.200733389731723
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	3	15	feelings	#FECB68	0.391331940709765
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	4	15	salient	#FDAD4A	0.445449182939696
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	5	15	novelty	#FECB68	0.317441727426326
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	6	15	movie	#FFF1A9	0.113989665578253
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	7	15		#FECB68	0.391008053195768
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	8	15		#FD913D	0.569896294493159
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	9	15	longterm	#FC622F	0.626691300904421
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	10	15		#F03623	0.7266283526546
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	11	15	reasoning|relational	#FDAD4A	0.458139651644329
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	12	15		#FC622F	0.621741247257921
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	13	15	presentations	#FDAD4A	0.437587273463078
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	14	15		#FD913D	0.532696475615722
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	15	15	identity	#FECB68	0.344482434747947
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	16	15		#FC622F	0.601782802143921
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	17	15	strategies|strategy	#FDAD4A	0.490662888637702
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	18	15	card|cards	#FD913D	0.56532463851184
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	19	15	gonogo	#F03623	0.705897820988186
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	20	15		#F03623	0.728790027722079
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	21	15	switching|switch	#FD913D	0.556483002589025
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	22	15		#FC622F	0.629446277645173
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	23	15	2back|rule	#FD913D	0.503322403114403
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	1	16	emotionally|mood|personality|sadness	#FFF1A9	0.172122322277945
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	2	16	disgust|sexual	#FEE188	0.208196284850218
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	3	16	olfactory	#FFF1A9	0.148149876824684
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	4	16	physiological	#FD913D	0.520392087172089
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	5	16	depressed|depressive|habituation	#FECB68	0.323376056383764
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	6	16	schizophrenic	#FECB68	0.317679898419915
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	7	16	colors|contexts	#FFF1A9	0.176312091630635
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	8	16	aging|encoded	#FDAD4A	0.478239589665851
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	9	16	goal	#FECB68	0.304156771203186
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	10	16		#F03623	0.707870115584157
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	11	16	autism|autistic|nonverbal	#FD913D	0.574806233410595
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	12	16		#FC622F	0.625214863476435
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	13	16	bottomup|repetitions	#FECB68	0.362366034030423
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	14	16	adaptation	#FDAD4A	0.442447592612148
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	15	16	irrelevant	#FD913D	0.535255410531992
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	16	16	distractor|distractors	#FECB68	0.349015790221103
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	17	16		#FC622F	0.621150906871505
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	18	16	subtraction	#FDAD4A	0.494595830904612
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	19	16	1back|nback	#FDAD4A	0.446935356210782
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	20	16	manipulation|rules	#FD913D	0.509879598317591
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	21	16		#FC622F	0.607350546121216
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	22	16		#FD913D	0.520113067067192
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	23	16	digit	#FDAD4A	0.491557134999184
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	1	17	avoidance	#FECB68	0.302216811236804
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	2	17		#FECB68	0.375985055840055
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	3	17	eating|food	#FFF1A9	0.0996240768934674
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	4	17	taste	#FEE188	0.214039999615107
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	5	17	bipolar	#FEE188	0.253614106173955
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	6	17	illness|uncertainty	#FECB68	0.319171102479063
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	7	17	females|probabilistic	#FECB68	0.376754005669956
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	8	17	rejection	#FECB68	0.333138313785252
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	9	17	colour|paired	#FDAD4A	0.425580109790632
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	10	17		#F03623	0.721636551296064
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	11	17		#FC622F	0.675784077856127
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	12	17		#FC622F	0.660763586356847
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	13	17	taskirrelevant	#FDAD4A	0.411458127030321
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	14	17		#FDAD4A	0.469759273218862
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	15	17	suppression	#FDAD4A	0.477556081951681
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	16	17		#FDAD4A	0.493763687947666
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	17	17	shifting|shortterm	#FDAD4A	0.414197673227702
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	18	17	digits	#FD913D	0.565398514513472
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	19	17	search	#FD913D	0.564630474592987
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	20	17	counting|taskrelated	#F03623	0.702900304413408
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	21	17	topdown	#FD913D	0.506205258527333
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	22	17	visuospatial	#FECB68	0.351744001994752
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	23	17	arithmetic|calculation|solving	#FECB68	0.339268771022224
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	1	18	addiction|craving|drugs	#FECB68	0.307021289465304
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	2	18	allele|genotype|polymorphism	#FEE188	0.279813986996422
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	3	18	motivation	#FEE188	0.21138534386312
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	4	18	heart	#FDAD4A	0.413751849031418
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	5	18	sleep	#FD913D	0.551096430204283
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	6	18	expectancy	#FD913D	0.509121793996115
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	7	18	phasic|salience	#FD913D	0.521854862999457
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	8	18	adolescence|adolescents	#FDAD4A	0.462510919477045
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	9	18	intelligence|tracking	#FECB68	0.320043241653429
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	10	18		#F03623	0.700730237368571
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	11	18	serial	#FDAD4A	0.489619711155159
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	12	18		#FC622F	0.669013824180351
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	13	18	spatially|taskrelevant	#FC622F	0.675847097322412
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	14	18		#FDAD4A	0.491420305244706
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	15	18	attended|attend|unattended	#FFF1A9	0.180229373781561
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	16	18	rotation|shapes	#FEE188	0.255735655552087
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	17	18	rehearsal	#FD913D	0.550111511617873
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	18	18	learned	#FD913D	0.574436620280463
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	19	18		#FC622F	0.657509110934651
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	20	18	cued|preparatory	#FD913D	0.56277981510504
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	21	18		#FC622F	0.674964249994898
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	22	18		#FD913D	0.574884515365825
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	23	18	numbers|numerical	#FECB68	0.399776777278299
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	1	19	future	#FD913D	0.578950410471673
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	2	19	negatively	#FD913D	0.526284731797305
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	3	19	distress|epilepsy|selfreported	#FECB68	0.332932396433954
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	4	19	anticipatory|cocaine|probabilities|smoking	#FECB68	0.386686318744745
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	5	19	alcohol|amount|impulsivity	#FDAD4A	0.497439757352144
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	6	19	game|success	#FECB68	0.364910462010359
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	7	19	adhd|childhood|engagement	#FD913D	0.584825429059891
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	8	19		#D7141E	0.817925485179572
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	9	19		#F03623	0.791670478361235
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	10	19		#F03623	0.751995840833182
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	11	19		#FC622F	0.68711886104763
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	12	19	endogenous	#FDAD4A	0.47755010513131
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	13	19	cueing|invalid|orienting	#FECB68	0.397227582200229
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	14	19		#FD913D	0.502633975657934
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	15	19	multisensory	#FDAD4A	0.433252303745241
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	16	19		#FDAD4A	0.452008005169533
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	17	19	shifts	#FDAD4A	0.418862635135831
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	18	19	covert	#FDAD4A	0.47965712983462
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	19	19		#FD913D	0.548365445355084
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	20	19	preparation	#FD913D	0.55268447717934
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	21	19	discrimination|training	#FC622F	0.659153453619266
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	22	19	sequences	#FC622F	0.664303953022813
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	23	19		#F03623	0.758461687317073
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	1	20	personal|self|selfreferential|trait|traits	#FD913D	0.542472754947019
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	2	20	empathic|theory	#FC622F	0.610657510915823
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	3	20	attribution|intentional	#FFF1A9	0.151415394285274
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	4	20	elderly|oscillations	#FD913D	0.517531917394007
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	5	20	antipsychotic|virtual	#FDAD4A	0.442974275942395
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	6	20		#D7141E	0.854542300389856
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	7	20	experiences	#FD913D	0.587032484905616
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	8	20	categorical|pressure	#FDAD4A	0.499031200810863
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	9	20	play|skills	#F03623	0.784361619626349
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	10	20	automatic|trained	#FC622F	0.66001613805607
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	11	20		#F03623	0.712795472537466
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	12	20	practice	#FD913D	0.558765417302491
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	13	20	visuomotor	#FECB68	0.377768445332543
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	14	20		#FD913D	0.546989820760607
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	15	20	tool	#FECB68	0.302025851121049
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	16	20	vision	#FFF1A9	0.158791704831604
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	17	20	visually	#FDAD4A	0.458779287070799
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	18	20	saccade|saccades|saccadic	#FFF1A9	0.132655927074533
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	19	20	locations	#FDAD4A	0.497517970439846
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	20	20	imagery|planning	#FD913D	0.57536167357057
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	21	20		#FC622F	0.670130135045006
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	22	20	rest	#F03623	0.744876463562178
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	23	20	sequence	#F03623	0.765655593236155
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	1	21	scenarios	#FECB68	0.300325050425755
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	2	21	intention|intentions	#FECB68	0.339315923518539
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	3	21	causality|perspective	#FDAD4A	0.475870152805009
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	4	21	past	#FECB68	0.363859224733919
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	5	21		#B10026	0.935065054146618
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	6	21	episode	#FECB68	0.340832164211836
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	7	21	improvement	#F03623	0.709125069710026
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	8	21	masking|retention	#FD913D	0.517603520365203
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	9	21		#D7141E	0.83989704762044
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	10	21	dominant	#FECB68	0.396822506852513
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	11	21		#FC622F	0.618777841662712
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	12	21	sequential	#FD913D	0.52346819906523
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	13	21	fingers	#FDAD4A	0.410522316654026
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	14	21		#FECB68	0.371424173541012
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	15	21	gesture|gestures	#FEE188	0.281708676687559
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	16	21		#FECB68	0.33270173332588
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	17	21	hands	#FFF1A9	0.192423599219005
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	18	21		#FECB68	0.387393938357917
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	19	21		#FECB68	0.394249456413547
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	20	21	eye|position	#FDAD4A	0.40800815529509
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	21	21	execution	#FDAD4A	0.47228847514056
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	22	21	finger|sensorimotor	#FD913D	0.513690993746905
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	23	21		#FC622F	0.648878566253738
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	1	22	moral|stories|story	#FDAD4A	0.39980774921353
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	2	22	mentalizing|persons	#FECB68	0.315688626621058
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	3	22	default|restingstate	#FD913D	0.588489900560572
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	4	22	thinking|thought|thoughts	#FD913D	0.534154575162652
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	5	22	spontaneous	#FC622F	0.67871975529122
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	6	22	concentration|sensations	#FC622F	0.654148867514436
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	7	22	hierarchical|preference	#FDAD4A	0.449128229965087
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	8	22	effort|oral|simulation	#FD913D	0.521957931708352
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	9	22	interhemispheric|plasticity	#FC622F	0.657273200360181
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	10	22	imagined|imagine	#FDAD4A	0.482546425992192
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	11	22	tapping	#FDAD4A	0.456545873544394
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	12	22	foot|muscle|muscles|voluntary	#FD913D	0.539027239821215
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	13	22	limb	#FEE188	0.223470408912087
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	14	22	eyes|velocity	#FFF1A9	0.164542122929017
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	15	22	biological|gaze|videos	#FFFFCC	0
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	16	22	body	#FDAD4A	0.42664752199413
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	17	22	grasping|orientation|reaching	#FFF1A9	0.181944208989805
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	18	22		#FECB68	0.37834855453087
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	19	22	mirror|shape	#FECB68	0.304152863589295
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	20	22	actions	#FECB68	0.332232114607796
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	21	22	action	#FD913D	0.520783517983816
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	22	22		#FD913D	0.588131419605558
+56765edf-6e39-369e-aacd-fd9ec7bca259	Calhoun VD	23	22	hand|movements|sensory	#FD913D	0.563976338859862

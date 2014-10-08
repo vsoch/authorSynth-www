@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	1	1	auditory|speech	#FECB68	0.372422565324093
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	2	1		#FECB68	0.337407291478898
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	3	1	da|integration	#FD913D	0.576831996666224
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	4	1		#FC622F	0.670544778873758
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	5	1	physical|psychophysical|tactile	#FC622F	0.687893854259224
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	6	1		#F03623	0.787883817306767
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	7	1	somatosensory|stimulation	#D7141E	0.805062496747149
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	8	1	painful|pain	#FD913D	0.59994723356111
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	9	1		#FC622F	0.617597274475341
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	10	1	ratings	#FD913D	0.510807151683302
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	11	1	affective|affect	#FECB68	0.317925206927757
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	12	1	emotions	#FECB68	0.390944502824913
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	13	1	expression|expressions|facial	#FEE188	0.291226039846467
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	14	1		#FDAD4A	0.423495885028847
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	15	1		#FDAD4A	0.460592679259399
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	16	1	emotion|motion|neutral	#FDAD4A	0.449634893026885
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	17	1	rating	#FD913D	0.500037230110867
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	18	1	negative|positive	#FDAD4A	0.48400226272741
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	19	1		#FC622F	0.669991765148454
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	20	1	ear|order	#FC622F	0.614594599881436
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	21	1	motor	#D7141E	0.831511824337455
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	22	1	visual	#F03623	0.771138540625316
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	23	1	age|image|response	#FC622F	0.683053146583708
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	1	2	sound|sounds	#FEE188	0.201960601739775
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	2	2		#FEE188	0.29741356763506
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	3	2	audiovisual|bimodal|crossmodal	#FEE188	0.271842268313588
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	4	2		#FC622F	0.674524208941279
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	5	2		#F03623	0.781506623006863
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	6	2		#D7141E	0.810700431714292
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	7	2	sensation	#FD913D	0.519376453500508
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	8	2	heat|noxious	#FD913D	0.523412914682315
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	9	2		#FC622F	0.60728061779383
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	10	2		#FDAD4A	0.498256714336138
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	11	2		#FDAD4A	0.459358516411519
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	12	2	valence	#FEE188	0.268929675119225
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	13	2	person|social	#FECB68	0.336906504763075
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	14	2		#FDAD4A	0.444434621504447
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	15	2	face|faces	#FDAD4A	0.432140134125512
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	16	2		#FD913D	0.549606740044781
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	17	2		#FD913D	0.580461665988666
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	18	2		#FC622F	0.663056677426613
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	19	2		#F03623	0.715532524610881
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	20	2		#F03623	0.774001524839041
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	21	2	images|spatial	#F03623	0.761984691518528
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	22	2	control	#F03623	0.705050898681769
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	23	2	time	#F03623	0.71303663993955
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	1	3	acoustic|listening|musical|music|pitch	#FFF1A9	0.119345589231072
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	2	3	noise|tones	#FEE188	0.206483876270381
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	3	3		#FDAD4A	0.456440280166982
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	4	3		#FC622F	0.644051205481217
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	5	3	frequency	#F03623	0.74405752769713
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	6	3		#D7141E	0.845275330979978
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	7	3		#FC622F	0.656869552697467
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	8	3	temperature	#FDAD4A	0.483968138103829
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	9	3		#FD913D	0.599857868750233
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	10	3	pleasant|unpleasant	#FDAD4A	0.43890859913508
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	11	3	anxiety	#FECB68	0.337500257602393
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	12	3		#FDAD4A	0.499345671038586
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	13	3		#FD913D	0.561465268359017
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	14	3		#FD913D	0.528540011338738
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	15	3		#FD913D	0.573005632705039
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	16	3	picture	#FC622F	0.619684960391362
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	17	3		#FC622F	0.677144775789676
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	18	3	value	#F03623	0.742819222792792
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	19	3	cue	#F03623	0.721767178053151
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	20	3	error|target	#F03623	0.736995509200233
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	21	3	attention	#F03623	0.710704663850337
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	22	3		#FC622F	0.666417618932007
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	23	3	number	#FC622F	0.635378090738319
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	1	4	voice	#FFFFCC	0.0790451089664109
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	2	4		#FEE188	0.206815817899041
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	3	4	hearing	#FECB68	0.32908071588073
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	4	4		#FD913D	0.599963750905988
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	5	4	overt	#FC622F	0.695394557194228
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	6	4		#F03623	0.76227548887401
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	7	4		#F03623	0.731507862433791
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	8	4	nociceptive|nonpainful|painrelated	#FD913D	0.524844912576059
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	9	4	unpleasantness	#FD913D	0.582388620171768
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	10	4	skin|subjective	#FDAD4A	0.486268038601998
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	11	4	depression	#FDAD4A	0.464964341154505
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	12	4	experience	#FD913D	0.55119416930451
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	13	4	female	#FD913D	0.550703824954506
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	14	4	male	#FD913D	0.591963369420918
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	15	4	pictures	#FD913D	0.565840360977022
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	16	4		#F03623	0.70071928859791
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	17	4	perception	#F03623	0.742448259561576
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	18	4		#D7141E	0.803444433981671
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	19	4		#F03623	0.779425107075623
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	20	4		#F03623	0.747247184496907
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	21	4	correct	#FD913D	0.563832768109619
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	22	4	work	#FD913D	0.574939388819486
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	23	4	memory	#FDAD4A	0.490517998382968
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	1	5	prosodic|prosody	#FFFFCC	0.000394384612260615
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	2	5	phonetic	#FFF1A9	0.163642018051162
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	3	5	syllable|syllables	#FEE188	0.291934915515201
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	4	5		#FD913D	0.548013385302476
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	5	5	lip|production	#FC622F	0.605300700200091
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	6	5	somatotopic	#FC622F	0.62112583550363
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	7	5		#F03623	0.776180741957552
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	8	5		#FC622F	0.662095579685465
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	9	5	empathy	#FC622F	0.625443408252332
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	10	5		#FD913D	0.598822696829817
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	11	5	disorder	#FECB68	0.379049944281601
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	12	5		#FD913D	0.591132774241531
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	13	5		#FD913D	0.577679227507491
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	14	5		#FD913D	0.54071606047463
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	15	5		#FD913D	0.556806455153133
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	16	5		#FC622F	0.637970223572596
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	17	5		#FC622F	0.691484265584842
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	18	5	mental	#F03623	0.7266731816574
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	19	5	go	#FC622F	0.679744252226338
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	20	5	object	#F03623	0.738828679658295
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	21	5		#FC622F	0.639135817856211
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	22	5		#FD913D	0.513837534849705
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	23	5	word|words	#FECB68	0.376656893147935
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	1	6		#FECB68	0.319790603065724
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	2	6		#FECB68	0.338221059344975
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	3	6		#FD913D	0.502642522720812
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	4	6	vocal	#FECB68	0.398387288744008
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	5	6	articulatory	#FECB68	0.310856884986247
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	6	6		#FC622F	0.667576998087279
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	7	6	oddball	#FDAD4A	0.478470632627443
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	8	6	perceived	#FC622F	0.605176094170679
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	9	6	errorrelated	#FDAD4A	0.439921744194763
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	10	6	approach	#FDAD4A	0.46044239551085
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	11	6	schizophrenia	#FDAD4A	0.475201610865022
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	12	6	acquisition	#FD913D	0.563964758799872
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	13	6		#FDAD4A	0.463595567440547
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	14	6		#FEE188	0.287393985387612
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	15	6		#FECB68	0.313998559546566
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	16	6		#FECB68	0.378195011124597
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	17	6		#FD913D	0.574246573044599
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	18	6		#FC622F	0.668686858533277
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	19	6		#FC622F	0.687555167040684
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	20	6	objects	#D7141E	0.81638593887892
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	21	6		#FC622F	0.62172639084752
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	22	6		#FDAD4A	0.466365481220821
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	23	6	language|semantic	#FECB68	0.359966202845651
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	1	7	dopamine|dopaminergic	#FEE188	0.233034331630733
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	2	7		#FEE188	0.278670185508812
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	3	7		#FDAD4A	0.44456786728372
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	4	7		#FD913D	0.522386715937528
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	5	7		#FD913D	0.548984976649882
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	6	7		#FC622F	0.610999254314023
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	7	7		#FC622F	0.640413452513179
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	8	7		#FD913D	0.54621037519771
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	9	7		#FD913D	0.570071825156711
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	10	7		#FD913D	0.515866719140645
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	11	7		#FD913D	0.50561622905397
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	12	7		#FDAD4A	0.473083435696681
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	13	7	linguistic|spoken	#FEE188	0.238955741033835
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	14	7		#FEE188	0.227740888353402
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	15	7	comprehension|sentence|sentences|syntactic	#FFF1A9	0.124142349542769
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	16	7		#FEE188	0.28049240271262
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	17	7		#FDAD4A	0.474242695028901
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	18	7	phonological|reading|read	#FDAD4A	0.475182121587137
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	19	7		#FC622F	0.628616206456776
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	20	7	perceptual|recognition	#FC622F	0.677635789066262
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	21	7		#FC622F	0.60210760130636
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	22	7		#FDAD4A	0.471571386296685
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	23	7	verb	#FDAD4A	0.448754606799712
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	1	8	outcome|reward	#FEE188	0.238201509486181
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	2	8	anticipation	#FEE188	0.235581344123169
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	3	8	outcomes	#FEE188	0.20784730394764
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	4	8	choice|choices	#FEE188	0.221650464062968
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	5	8	decisions|probability	#FECB68	0.396982736080724
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	6	8	reversal	#FDAD4A	0.411652999413167
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	7	8	classification|incorrect	#FECB68	0.341856682287099
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	8	8		#FDAD4A	0.471101474931515
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	9	8	agerelated|fluency|probes	#FECB68	0.380865668322469
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	10	8	engaged	#FDAD4A	0.429794270881827
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	11	8	explicit|knowledge	#FEE188	0.283808576577179
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	12	8		#FECB68	0.362880237274393
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	13	8		#FEE188	0.277944676586416
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	14	8		#FEE188	0.24938648039084
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	15	8		#FEE188	0.263376789484293
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	16	8		#FEE188	0.298621250774892
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	17	8	lexical	#FECB68	0.326328471517564
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	18	8		#FD913D	0.506538360545276
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	19	8		#FD913D	0.573023147291781
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	20	8		#FD913D	0.595290394888307
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	21	8	encoding	#FDAD4A	0.49322195292106
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	22	8	retrieval	#FECB68	0.356057696651341
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	23	8	verbal	#FD913D	0.514772069765097
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	1	9	incentive|monetary|money|rewards	#FFF1A9	0.111080163974515
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	2	9	loss	#FEE188	0.262604951144682
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	3	9		#FECB68	0.337635472989569
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	4	9		#FECB68	0.382509981362308
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	5	9	decisionmaking	#FECB68	0.363571141310229
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	6	9		#FDAD4A	0.436865470769672
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	7	9		#FDAD4A	0.430238773856023
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	8	9		#FDAD4A	0.422094851325488
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	9	9		#FDAD4A	0.407977423571381
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	10	9		#FECB68	0.387719767937825
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	11	9		#FECB68	0.356929987231686
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	12	9		#FECB68	0.330015556867323
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	13	9	noun	#FFF1A9	0.112893967669406
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	14	9	meaning	#FEE188	0.266518348168209
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	15	9	english	#FECB68	0.376224802479612
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	16	9	pseudoword|pseudowords	#FEE188	0.259076479618405
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	17	9		#FDAD4A	0.417468579802942
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	18	9		#FDAD4A	0.49735964433623
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	19	9	familiar|judgment	#FDAD4A	0.490740590890119
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	20	9	pair|pairs	#FDAD4A	0.472311158638645
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	21	9		#FC622F	0.606598422073899
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	22	9		#FC622F	0.622971893138046
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	23	9	letter|working	#FD913D	0.587524551782765
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	1	10	losses|reinforcement|win	#FFFFCC	0.0945094921136724
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	2	10	gain	#FEE188	0.291360677689603
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	3	10	expectation	#FECB68	0.368449350140547
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	4	10	risk	#FEE188	0.295282229853047
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	5	10	fact	#FEE188	0.249942643835536
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	6	10	associative	#FECB68	0.389025665511243
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	7	10	familiarity|judgments|old	#FEE188	0.282582666186441
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	8	10	contextual|text	#FEE188	0.252957365505755
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	9	10	recall|retrieved	#FEE188	0.256362921938016
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	10	10	conceptual|semantically	#FEE188	0.211456612893594
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	11	10	grammatical|speakers	#FECB68	0.309732219085388
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	12	10	nouns	#FFF1A9	0.152254000163883
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	13	10	japanese	#FEE188	0.249785049649874
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	14	10	languages	#FECB68	0.353513575321902
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	15	10	written	#FECB68	0.362649937077983
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	16	10	chinese|phonology	#FDAD4A	0.40187244968587
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	17	10	orthographic	#FDAD4A	0.402765086061499
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	18	10		#FD913D	0.522581893601504
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	19	10		#FD913D	0.534124405606843
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	20	10	association|decision	#FDAD4A	0.485995999615073
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	21	10	selection	#FD913D	0.599463409746159
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	22	10	letters	#FD913D	0.597462799851868
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	23	10	demand|load	#FC622F	0.632546835785655
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	1	11	conditioned|conditioning	#FEE188	0.282683773163213
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	2	11		#FDAD4A	0.440981600038128
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	3	11	drug|placebo	#FDAD4A	0.483909025789365
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	4	11		#FD913D	0.532720640717841
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	5	11	associations	#FECB68	0.334516961484086
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	6	11		#FECB68	0.336378674412589
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	7	11	episodic|recollection	#FFFFCC	0.0651179004921345
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	8	11		#FECB68	0.306374321039183
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	9	11		#FECB68	0.388807985344899
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	10	11	concepts	#FFF1A9	0.168376200783135
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	11	11		#FECB68	0.377831617242108
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	12	11		#FECB68	0.380052231615226
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	13	11	german	#FECB68	0.317535237098906
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	14	11	readers	#FEE188	0.288347322274043
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	15	11	character|name|naming	#FD913D	0.510451509385004
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	16	11		#FD913D	0.526778349805018
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	17	11	novel	#FD913D	0.558397554622813
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	18	11		#FD913D	0.55414491560858
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	19	11	child|children	#FDAD4A	0.418439795115103
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	20	11	adults	#FC622F	0.606819824660572
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	21	11	ability|feedback|learning	#FC622F	0.693175696741943
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	22	11	cues|delay	#FC622F	0.67507669236392
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	23	11	attentional|difficulty|targets	#F03623	0.703768486872751
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	1	12	aversive|shock	#FECB68	0.320291200312798
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	2	12	reactivity	#FEE188	0.280108340018138
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	3	12	males|sex|women	#FECB68	0.34507373048907
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	4	12	animal	#FDAD4A	0.435151476463459
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	5	12	animals	#FECB68	0.374902527577953
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	6	12		#FECB68	0.322798692375119
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	7	12	remember|subsequent	#FFF1A9	0.182629752144597
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	8	12	autobiographical|memories	#FFFFCC	0
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	9	12		#FECB68	0.369256753820565
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	10	12	violation|violations	#FFF1A9	0.122647794905302
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	11	12	aphasia	#FDAD4A	0.405934455831752
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	12	12	nonwords	#FECB68	0.360233127585032
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	13	12	dyslexia	#FECB68	0.329504297589606
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	14	12		#FD913D	0.548139143320148
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	15	12	priming	#FD913D	0.518170274007626
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	16	12		#FC622F	0.621827363999733
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	17	12	category|repetition	#FD913D	0.581221859588523
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	18	12		#FD913D	0.591909512333635
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	19	12	developmental|development	#FDAD4A	0.469270566658977
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	20	12		#FC622F	0.610312527254858
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	21	12	space	#FC622F	0.688901752797002
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	22	12		#FC622F	0.646019387533149
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	23	12	color	#FC622F	0.673994668804339
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	1	13	threat	#FFF1A9	0.112241290717006
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	2	13	regulation	#FEE188	0.251988193902482
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	3	13		#FECB68	0.387315880779697
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	4	13	masked	#FEE188	0.285690398336632
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	5	13	scene|scenes	#FEE188	0.283484952493707
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	6	13		#FECB68	0.343932271503068
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	7	13	confidence|remembered	#FFFFCC	0.091563877404594
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	8	13		#FECB68	0.333941748400449
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	9	13		#FECB68	0.399614329604491
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	10	13	ambiguity|ambiguous	#FFFFCC	0.0642068145622229
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	11	13		#FDAD4A	0.463688676441678
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	12	13		#FD913D	0.581027827559968
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	13	13	writing	#FD913D	0.529586399591848
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	14	13		#FC622F	0.619203559478527
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	15	13	categorization|congruency|prime	#FDAD4A	0.455485725236964
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	16	13		#FC622F	0.641931196097112
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	17	13	mask	#FC622F	0.62162732108369
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	18	13		#FC622F	0.630374757503053
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	19	13		#FD913D	0.588632661553488
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	20	13		#FD913D	0.566651233510197
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	21	13	conflict|congruent|incongruent	#FDAD4A	0.450796367749387
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	22	13	errors	#FD913D	0.528799951174694
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	23	13	maintenance|probe|wm	#FDAD4A	0.492010719260327
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	1	14	angry|fearful|happy	#FFFFCC	0.0307860905213873
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	2	14		#FFF1A9	0.137133138584562
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	3	14	awareness|conscious|ptsd	#FFF1A9	0.17289197731953
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	4	14		#FDAD4A	0.407001722973587
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	5	14	houses|photographs	#FEE188	0.261593904593414
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	6	14		#FDAD4A	0.424848759476378
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	7	14	hits	#FEE188	0.280469467995918
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	8	14	famous	#FFF1A9	0.150889271369404
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	9	14	names	#FFF1A9	0.176662118052605
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	10	14	family	#FECB68	0.320332819800882
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	11	14	competition|mouth	#FDAD4A	0.492479018928695
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	12	14	abilities	#FEE188	0.293573320443839
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	13	14	implicit|unfamiliar	#FD913D	0.500931681260105
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	14	14		#FC622F	0.645387492789361
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	15	14	tom	#FD913D	0.529281320593457
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	16	14		#FC622F	0.639316747344628
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	17	14		#FC622F	0.616048397030951
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	18	14	stop	#FDAD4A	0.493685713269087
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	19	14	inhibition|inhibitory|nogo	#FDAD4A	0.484803591019986
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	20	14	monitoring|stroop	#FECB68	0.378307945920791
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	21	14	interference	#FDAD4A	0.414901899083048
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	22	14		#FD913D	0.52479256679101
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	23	14	demands|executive	#FD913D	0.518300775431683
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	1	15	anger	#FFFFCC	0.00140673051645702
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	2	15	stress	#FFFFCC	0.0801059173158473
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	3	15	feelings	#FEE188	0.261235433261238
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	4	15	salient	#FEE188	0.260948493575844
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	5	15	novelty	#FFFFCC	0.0825893387056839
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	6	15	movie	#FECB68	0.304960134142509
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	7	15		#FDAD4A	0.476220569956646
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	8	15		#FD913D	0.53444511246037
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	9	15	longterm	#FDAD4A	0.417520942333859
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	10	15		#FC622F	0.602057509375149
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	11	15	reasoning|relational	#FDAD4A	0.447075650554834
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	12	15		#FC622F	0.668559287661763
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	13	15	presentations	#FDAD4A	0.404320115260708
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	14	15		#FC622F	0.676368400980677
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	15	15	identity	#FD913D	0.532143181110538
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	16	15		#FD913D	0.598760517870097
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	17	15	strategies|strategy	#FDAD4A	0.458146046827597
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	18	15	card|cards	#FDAD4A	0.416509449146358
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	19	15	gonogo	#FDAD4A	0.464933199241373
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	20	15		#FD913D	0.516375668859412
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	21	15	switching|switch	#FDAD4A	0.442544896409045
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	22	15		#FD913D	0.51049604758279
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	23	15	2back|rule	#FDAD4A	0.477750615259232
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	1	16	emotionally|mood|personality|sadness	#FFF1A9	0.115605198841081
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	2	16	disgust|sexual	#FEE188	0.255473515813564
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	3	16	olfactory	#FFFFCC	0.0605498723157356
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	4	16	physiological	#FECB68	0.391573374585423
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	5	16	depressed|depressive|habituation	#FFF1A9	0.134698820932512
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	6	16	schizophrenic	#FEE188	0.226898455183112
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	7	16	colors|contexts	#FEE188	0.26672023043486
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	8	16	aging|encoded	#FECB68	0.34075369812422
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	9	16	goal	#FECB68	0.355310878230991
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	10	16		#FC622F	0.613486915218482
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	11	16	autism|autistic|nonverbal	#FDAD4A	0.444607543992219
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	12	16		#FC622F	0.661658092113269
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	13	16	bottomup|repetitions	#FD913D	0.542880322264861
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	14	16	adaptation	#F03623	0.719137481343778
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	15	16	irrelevant	#FD913D	0.549795350823809
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	16	16	distractor|distractors	#FECB68	0.306153500284722
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	17	16		#FD913D	0.588197966467236
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	18	16	subtraction	#FECB68	0.346996696174698
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	19	16	1back|nback	#FECB68	0.38470932904283
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	20	16	manipulation|rules	#FD913D	0.532219710216467
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	21	16		#FD913D	0.582119464255675
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	22	16		#FD913D	0.539075671904597
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	23	16	digit	#FD913D	0.525520486025638
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	1	17	avoidance	#FFF1A9	0.106812402208811
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	2	17		#FEE188	0.282527453887877
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	3	17	eating|food	#FFF1A9	0.121267099252324
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	4	17	taste	#FFF1A9	0.196820144538824
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	5	17	bipolar	#FFF1A9	0.150642880561038
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	6	17	illness|uncertainty	#FFF1A9	0.160089064306842
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	7	17	females|probabilistic	#FEE188	0.237893227217409
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	8	17	rejection	#FFFFCC	0.0518896626688899
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	9	17	colour|paired	#FC622F	0.602866361542602
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	10	17		#F03623	0.702391695038564
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	11	17		#FC622F	0.699333020700218
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	12	17		#FC622F	0.680589337176391
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	13	17	taskirrelevant	#FDAD4A	0.457970685931807
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	14	17		#F03623	0.71968415549079
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	15	17	suppression	#FD913D	0.553439427298884
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	16	17		#F03623	0.740540897655607
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	17	17	shifting|shortterm	#FD913D	0.508180085702606
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	18	17	digits	#FD913D	0.506328591886498
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	19	17	search	#FD913D	0.569705761583756
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	20	17	counting|taskrelated	#FDAD4A	0.489735098359813
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	21	17	topdown	#FD913D	0.564643351969691
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	22	17	visuospatial	#FD913D	0.584262684861844
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	23	17	arithmetic|calculation|solving	#FECB68	0.395165376044149
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	1	18	addiction|craving|drugs	#FFF1A9	0.136671511005621
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	2	18	allele|genotype|polymorphism	#FFF1A9	0.117246998615977
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	3	18	motivation	#FFF1A9	0.186624004910414
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	4	18	heart	#FECB68	0.368226061488102
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	5	18	sleep	#FDAD4A	0.463403602988324
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	6	18	expectancy	#FECB68	0.380705590692302
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	7	18	phasic|salience	#FEE188	0.258667992107335
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	8	18	adolescence|adolescents	#FEE188	0.28882528535442
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	9	18	intelligence|tracking	#FC622F	0.644078306469729
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	10	18		#F03623	0.770436793042489
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	11	18	serial	#FDAD4A	0.430405644321222
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	12	18		#FC622F	0.667238569896151
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	13	18	spatially|taskrelevant	#FD913D	0.534155929607681
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	14	18		#F03623	0.715023160970698
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	15	18	attended|attend|unattended	#FDAD4A	0.46070339782635
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	16	18	rotation|shapes	#D7141E	0.882235981361307
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	17	18	rehearsal	#FD913D	0.564558356478798
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	18	18	learned	#FD913D	0.546873490768906
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	19	18		#D7141E	0.842735368960672
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	20	18	cued|preparatory	#FC622F	0.634472095206039
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	21	18		#F03623	0.79777615113567
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	22	18		#FC622F	0.656476890208054
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	23	18	numbers|numerical	#FDAD4A	0.426470248075436
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	1	19	future	#FEE188	0.207775512306669
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	2	19	negatively	#FECB68	0.305552648194132
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	3	19	distress|epilepsy|selfreported	#FEE188	0.244548164961064
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	4	19	anticipatory|cocaine|probabilities|smoking	#FECB68	0.302318037869312
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	5	19	alcohol|amount|impulsivity	#FECB68	0.359134628820493
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	6	19	game|success	#FEE188	0.205985895975459
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	7	19	adhd|childhood|engagement	#FECB68	0.328407439251689
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	8	19		#FC622F	0.614085296652393
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	9	19		#F03623	0.763363966965365
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	10	19		#F03623	0.766565506681618
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	11	19		#F03623	0.731458532307891
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	12	19	endogenous	#FD913D	0.518051773926739
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	13	19	cueing|invalid|orienting	#FECB68	0.355539281198265
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	14	19		#F03623	0.792883982940258
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	15	19	multisensory	#F03623	0.710060129889877
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	16	19		#D7141E	0.823584468895132
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	17	19	shifts	#D7141E	0.844957371070676
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	18	19	covert	#D7141E	0.825730392207805
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	19	19		#D7141E	0.894891927367492
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	20	19	preparation	#D7141E	0.811440261304565
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	21	19	discrimination|training	#F03623	0.707848326095808
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	22	19	sequences	#F03623	0.729388127095849
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	23	19		#B10026	0.923119530819407
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	1	20	personal|self|selfreferential|trait|traits	#FFF1A9	0.131902815225868
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	2	20	empathic|theory	#FEE188	0.282266750927306
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	3	20	attribution|intentional	#FFFFCC	0.0377797134386724
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	4	20	elderly|oscillations	#FFF1A9	0.190214129600338
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	5	20	antipsychotic|virtual	#FEE188	0.208666930150845
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	6	20		#FD913D	0.58430599959557
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	7	20	experiences	#FECB68	0.324198702810193
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	8	20	categorical|pressure	#FECB68	0.37044972772225
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	9	20	play|skills	#FDAD4A	0.443480421772158
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	10	20	automatic|trained	#FD913D	0.581371443471274
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	11	20		#D7141E	0.811578664363178
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	12	20	practice	#FD913D	0.599643465633906
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	13	20	visuomotor	#F03623	0.792819626162173
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	14	20		#B10026	0.965842490161758
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	15	20	tool	#F03623	0.771524212747221
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	16	20	vision	#F03623	0.735304574636059
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	17	20	visually	#F03623	0.700851765106105
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	18	20	saccade|saccades|saccadic	#F03623	0.755605130923836
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	19	20	locations	#F03623	0.760224389690889
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	20	20	imagery|planning	#D7141E	0.856312387114966
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	21	20		#B10026	0.973101026763289
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	22	20	rest	#D7141E	0.818175610589978
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	23	20	sequence	#D7141E	0.890725848464994
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	1	21	scenarios	#FFFFCC	0.0155316694434715
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	2	21	intention|intentions	#FEE188	0.232768430445412
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	3	21	causality|perspective	#FEE188	0.208043211536178
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	4	21	past	#FFF1A9	0.114012644698063
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	5	21		#FD913D	0.58916149704462
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	6	21	episode	#FFF1A9	0.196802553228351
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	7	21	improvement	#FDAD4A	0.438291927171293
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	8	21	masking|retention	#FC622F	0.623797755583452
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	9	21		#F03623	0.793488944649149
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	10	21	dominant	#FC622F	0.634983593962436
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	11	21		#D7141E	0.835424110497984
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	12	21	sequential	#FC622F	0.666141767518148
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	13	21	fingers	#F03623	0.702916198449161
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	14	21		#B10026	0.910170171088722
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	15	21	gesture|gestures	#FD913D	0.550168972801419
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	16	21		#B10026	0.925606364465984
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	17	21	hands	#D7141E	0.892175990763633
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	18	21		#B10026	0.944787306703633
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	19	21		#B10026	0.928103279865007
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	20	21	eye|position	#B10026	0.904853388224927
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	21	21	execution	#B10026	0.978088363397392
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	22	21	finger|sensorimotor	#B10026	0.927509125033753
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	23	21		#B10026	0.97333989528724
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	1	22	moral|stories|story	#FFFFCC	0.0397080882801184
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	2	22	mentalizing|persons	#FFF1A9	0.136915342578418
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	3	22	default|restingstate	#FFF1A9	0.107047557377643
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	4	22	thinking|thought|thoughts	#FECB68	0.398626444749303
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	5	22	spontaneous	#FECB68	0.356401404575264
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	6	22	concentration|sensations	#FDAD4A	0.452922825291012
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	7	22	hierarchical|preference	#FEE188	0.275766913494943
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	8	22	effort|oral|simulation	#FD913D	0.583254495424752
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	9	22	interhemispheric|plasticity	#FD913D	0.507697949904727
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	10	22	imagined|imagine	#FD913D	0.565212083103264
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	11	22	tapping	#F03623	0.701715847197363
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	12	22	foot|muscle|muscles|voluntary	#FC622F	0.674404731830329
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	13	22	limb	#F03623	0.702262052114328
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	14	22	eyes|velocity	#FC622F	0.646070062594623
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	15	22	biological|gaze|videos	#FD913D	0.503056164257885
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	16	22	body	#F03623	0.789868986156322
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	17	22	grasping|orientation|reaching	#F03623	0.778767930654359
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	18	22		#B10026	0.951217847306585
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	19	22	mirror|shape	#D7141E	0.891803387660706
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	20	22	actions	#D7141E	0.835313243144171
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	21	22	action	#B10026	0.904185224798085
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	22	22		#B10026	1
+cae9cec8-d0ee-3c2f-a891-f5e170bf4947	Roberts N	23	22	hand|movements|sensory	#B10026	0.927388257610817

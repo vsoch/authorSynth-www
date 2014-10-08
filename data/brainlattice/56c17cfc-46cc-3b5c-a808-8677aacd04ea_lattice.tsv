@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	1	1	auditory|speech	#FD913D	0.53150786532489
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	2	1		#FDAD4A	0.433689008320908
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	3	1	da|integration	#FDAD4A	0.402326643379421
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	4	1		#FD913D	0.504778242175957
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	5	1	physical|psychophysical|tactile	#FDAD4A	0.498645903556547
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	6	1		#FC622F	0.682022859864669
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	7	1	somatosensory|stimulation	#FC622F	0.662287318810682
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	8	1	painful|pain	#F03623	0.725507134042128
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	9	1		#F03623	0.752496259439945
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	10	1	ratings	#FC622F	0.678999005450287
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	11	1	affective|affect	#FD913D	0.555929669984512
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	12	1	emotions	#FD913D	0.550338533986011
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	13	1	expression|expressions|facial	#FECB68	0.329311314463789
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	14	1		#FDAD4A	0.451974272376715
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	15	1		#FDAD4A	0.478159354996893
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	16	1	emotion|motion|neutral	#FDAD4A	0.49115825277345
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	17	1	rating	#FC622F	0.634781627905716
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	18	1	negative|positive	#FD913D	0.586368956425595
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	19	1		#FC622F	0.672250763995493
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	20	1	ear|order	#FC622F	0.692006443013755
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	21	1	motor	#FC622F	0.679061040658435
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	22	1	visual	#FD913D	0.540495041628936
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	23	1	age|image|response	#FC622F	0.692818993337519
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	1	2	sound|sounds	#FECB68	0.358409544458542
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	2	2		#FDAD4A	0.41567845868386
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	3	2	audiovisual|bimodal|crossmodal	#FFF1A9	0.153549879093786
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	4	2		#FD913D	0.511497592932348
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	5	2		#FD913D	0.590320076303315
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	6	2		#FC622F	0.684052239409649
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	7	2	sensation	#FC622F	0.600499007117425
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	8	2	heat|noxious	#F03623	0.720060524878787
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	9	2		#F03623	0.763969485375848
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	10	2		#F03623	0.762218129000342
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	11	2		#F03623	0.712440202412304
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	12	2	valence	#FDAD4A	0.495680856679505
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	13	2	person|social	#FD913D	0.550233933915333
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	14	2		#FDAD4A	0.463466991411547
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	15	2	face|faces	#FECB68	0.350561983123075
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	16	2		#FD913D	0.543970776965394
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	17	2		#FC622F	0.606711535979794
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	18	2		#FC622F	0.674593587473463
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	19	2		#FC622F	0.697946518957531
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	20	2		#FC622F	0.690721859477906
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	21	2	images|spatial	#FC622F	0.644122699347029
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	22	2	control	#F03623	0.707348426783961
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	23	2	time	#FC622F	0.682764034786157
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	1	3	acoustic|listening|musical|music|pitch	#FECB68	0.30444000887245
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	2	3	noise|tones	#FECB68	0.340181272045855
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	3	3		#FD913D	0.507434649379767
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	4	3		#FD913D	0.592753759498084
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	5	3	frequency	#FD913D	0.590034744281835
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	6	3		#F03623	0.783443333715791
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	7	3		#FC622F	0.69015425111349
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	8	3	temperature	#FDAD4A	0.494885994836965
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	9	3		#F03623	0.763112896343966
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	10	3	pleasant|unpleasant	#F03623	0.711863479330295
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	11	3	anxiety	#FC622F	0.601851359513876
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	12	3		#FC622F	0.631419244461254
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	13	3		#FC622F	0.610962663415098
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	14	3		#FD913D	0.544248705191976
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	15	3		#FD913D	0.546111607320059
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	16	3	picture	#FD913D	0.500916506791568
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	17	3		#FC622F	0.638587396350295
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	18	3	value	#D7141E	0.813394099948319
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	19	3	cue	#FC622F	0.679369480425774
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	20	3	error|target	#F03623	0.706171439075799
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	21	3	attention	#FC622F	0.6594009417733
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	22	3		#FC622F	0.658927423488934
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	23	3	number	#FC622F	0.662839163039068
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	1	4	voice	#FECB68	0.37951077350828
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	2	4		#FDAD4A	0.459372702668822
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	3	4	hearing	#FECB68	0.329509920007168
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	4	4		#FC622F	0.627440279557336
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	5	4	overt	#FC622F	0.689317492895446
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	6	4		#FC622F	0.67762404238683
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	7	4		#F03623	0.711953005727788
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	8	4	nociceptive|nonpainful|painrelated	#FD913D	0.571383013336623
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	9	4	unpleasantness	#FC622F	0.641295648359764
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	10	4	skin|subjective	#D7141E	0.865421619985153
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	11	4	depression	#FC622F	0.674436689489648
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	12	4	experience	#FC622F	0.671648917880554
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	13	4	female	#FDAD4A	0.475427722564744
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	14	4	male	#FC622F	0.641863759183987
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	15	4	pictures	#FDAD4A	0.49756819290288
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	16	4		#FC622F	0.615618884291039
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	17	4	perception	#FC622F	0.625406522378441
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	18	4		#FC622F	0.684472925099421
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	19	4		#FC622F	0.685166318634878
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	20	4		#FC622F	0.667623256747864
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	21	4	correct	#FC622F	0.649934587661414
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	22	4	work	#FC622F	0.66986110904379
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	23	4	memory	#FC622F	0.609344302230779
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	1	5	prosodic|prosody	#FDAD4A	0.44744342517339
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	2	5	phonetic	#FECB68	0.370750548009891
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	3	5	syllable|syllables	#F03623	0.718866370542785
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	4	5		#FC622F	0.637199010242494
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	5	5	lip|production	#FECB68	0.381185735504651
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	6	5	somatotopic	#FDAD4A	0.460890216341968
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	7	5		#D7141E	0.869626333076531
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	8	5		#D7141E	0.868512898137334
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	9	5	empathy	#D7141E	0.824788483826564
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	10	5		#F03623	0.783481679557164
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	11	5	disorder	#F03623	0.715629577955811
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	12	5		#F03623	0.718369297255682
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	13	5		#FC622F	0.696979982813196
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	14	5		#FC622F	0.656852907514258
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	15	5		#FC622F	0.653171755080486
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	16	5		#FC622F	0.651987500264528
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	17	5		#FC622F	0.636059503613367
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	18	5	mental	#FD913D	0.590036888210315
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	19	5	go	#FC622F	0.6691098539681
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	20	5	object	#FDAD4A	0.45874537595755
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	21	5		#FC622F	0.631778192563941
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	22	5		#FC622F	0.608563272533554
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	23	5	word|words	#FD913D	0.515358957190365
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	1	6		#FD913D	0.543951753754785
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	2	6		#FC622F	0.607610188628883
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	3	6		#FC622F	0.653985983527974
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	4	6	vocal	#FECB68	0.350936297737874
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	5	6	articulatory	#FD913D	0.558197005750316
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	6	6		#FC622F	0.688517552104467
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	7	6	oddball	#F03623	0.796454362385595
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	8	6	perceived	#FC622F	0.636011532673379
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	9	6	errorrelated	#D7141E	0.893330240239073
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	10	6	approach	#FD913D	0.548167491150296
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	11	6	schizophrenia	#F03623	0.712898074427283
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	12	6	acquisition	#FC622F	0.663733239784589
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	13	6		#FC622F	0.657183554717596
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	14	6		#FD913D	0.556992591544484
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	15	6		#FD913D	0.561775721914765
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	16	6		#FD913D	0.569495199770779
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	17	6		#FD913D	0.545299451791901
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	18	6		#FD913D	0.535085125500443
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	19	6		#FD913D	0.559055465588885
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	20	6	objects	#FECB68	0.372065750766517
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	21	6		#FD913D	0.58466800276001
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	22	6		#FD913D	0.557616289880288
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	23	6	language|semantic	#FD913D	0.50663616198101
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	1	7	dopamine|dopaminergic	#FECB68	0.390555111860468
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	2	7		#FDAD4A	0.471340243319921
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	3	7		#FC622F	0.65717327562048
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	4	7		#F03623	0.746056701062425
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	5	7		#F03623	0.763236428867287
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	6	7		#F03623	0.742003656919474
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	7	7		#F03623	0.758352572437536
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	8	7		#F03623	0.737019479939184
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	9	7		#F03623	0.75560634506103
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	10	7		#FC622F	0.659722924633704
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	11	7		#FC622F	0.633678854487558
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	12	7		#FC622F	0.625314231323713
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	13	7	linguistic|spoken	#FDAD4A	0.431684214860821
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	14	7		#FD913D	0.528076973992783
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	15	7	comprehension|sentence|sentences|syntactic	#FD913D	0.512299009764027
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	16	7		#FDAD4A	0.493235002063956
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	17	7		#FDAD4A	0.485823929593294
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	18	7	phonological|reading|read	#FDAD4A	0.461845179424623
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	19	7		#FD913D	0.511216439269505
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	20	7	perceptual|recognition	#FD913D	0.533538357983491
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	21	7		#FD913D	0.570044994181213
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	22	7		#FD913D	0.568040588176979
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	23	7	verb	#FD913D	0.582733742740171
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	1	8	outcome|reward	#FDAD4A	0.435068381700453
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	2	8	anticipation	#FDAD4A	0.437207196400626
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	3	8	outcomes	#FECB68	0.395708588072776
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	4	8	choice|choices	#FD913D	0.550671063030894
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	5	8	decisions|probability	#F03623	0.723617187925436
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	6	8	reversal	#FC622F	0.61817421919121
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	7	8	classification|incorrect	#FDAD4A	0.475407870476739
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	8	8		#FD913D	0.570776700682636
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	9	8	agerelated|fluency|probes	#FD913D	0.588288553836127
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	10	8	engaged	#FDAD4A	0.402585219967871
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	11	8	explicit|knowledge	#FD913D	0.540482679050696
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	12	8		#FD913D	0.550469612300628
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	13	8		#FD913D	0.524489685020648
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	14	8		#FDAD4A	0.483574117450155
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	15	8		#FDAD4A	0.465791005870128
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	16	8		#FDAD4A	0.466426489409645
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	17	8	lexical	#FECB68	0.368554453304457
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	18	8		#FDAD4A	0.463345499103243
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	19	8		#FD913D	0.510130867422851
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	20	8		#FD913D	0.531624310250854
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	21	8	encoding	#FDAD4A	0.482454627613392
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	22	8	retrieval	#FD913D	0.542905767848312
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	23	8	verbal	#FD913D	0.594113499825864
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	1	9	incentive|monetary|money|rewards	#FEE188	0.296867074449775
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	2	9	loss	#FDAD4A	0.400951072368359
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	3	9		#FD913D	0.584645779862264
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	4	9		#FC622F	0.676352141707718
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	5	9	decisionmaking	#FC622F	0.698875816586956
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	6	9		#FD913D	0.567975267014918
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	7	9		#FD913D	0.501654949218494
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	8	9		#FDAD4A	0.496333850643233
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	9	9		#FD913D	0.501975278881693
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	10	9		#FD913D	0.526604329612071
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	11	9		#FD913D	0.563249849643941
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	12	9		#FD913D	0.551993007844189
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	13	9	noun	#FDAD4A	0.468931076055218
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	14	9	meaning	#FECB68	0.363861629978129
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	15	9	english	#FECB68	0.383187468193005
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	16	9	pseudoword|pseudowords	#FDAD4A	0.45105250273985
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	17	9		#FDAD4A	0.428694472908799
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	18	9		#FDAD4A	0.492491742185063
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	19	9	familiar|judgment	#FDAD4A	0.497556764983249
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	20	9	pair|pairs	#FD913D	0.506958724300084
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	21	9		#FC622F	0.615351246887926
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	22	9		#FC622F	0.633525824243715
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	23	9	letter|working	#FC622F	0.682993717577122
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	1	10	losses|reinforcement|win	#FDAD4A	0.436504445690942
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	2	10	gain	#FEE188	0.272921224931709
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	3	10	expectation	#FD913D	0.547245516512553
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	4	10	risk	#FC622F	0.612503636042187
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	5	10	fact	#FD913D	0.565440690043963
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	6	10	associative	#FECB68	0.392625029950415
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	7	10	familiarity|judgments|old	#FECB68	0.352933396575636
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	8	10	contextual|text	#FEE188	0.299009086271693
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	9	10	recall|retrieved	#FECB68	0.362962226881106
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	10	10	conceptual|semantically	#FECB68	0.360120470112706
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	11	10	grammatical|speakers	#FC622F	0.67638479040821
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	12	10	nouns	#FDAD4A	0.464321258365182
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	13	10	japanese	#FECB68	0.347349280004661
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	14	10	languages	#FDAD4A	0.45414623530327
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	15	10	written	#FEE188	0.254969316393045
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	16	10	chinese|phonology	#FFF1A9	0.1959862955352
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	17	10	orthographic	#FEE188	0.293242622807522
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	18	10		#FD913D	0.557078811545735
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	19	10		#FC622F	0.608319952711062
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	20	10	association|decision	#FD913D	0.59069399999374
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	21	10	selection	#FD913D	0.55598548525973
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	22	10	letters	#FDAD4A	0.455080655754463
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	23	10	demand|load	#FC622F	0.611487173104098
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	1	11	conditioned|conditioning	#FEE188	0.222447149132922
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	2	11		#FD913D	0.558787632992306
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	3	11	drug|placebo	#FC622F	0.687134068230872
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	4	11		#FD913D	0.590269060379694
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	5	11	associations	#FEE188	0.204051933846864
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	6	11		#FECB68	0.309693703473585
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	7	11	episodic|recollection	#FEE188	0.265830132096936
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	8	11		#FECB68	0.306825560267994
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	9	11		#FD913D	0.533670938369111
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	10	11	concepts	#FECB68	0.32856757713189
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	11	11		#FC622F	0.619288892629073
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	12	11		#FD913D	0.586117967542384
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	13	11	german	#FD913D	0.581388703987231
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	14	11	readers	#FDAD4A	0.439429987660695
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	15	11	character|name|naming	#FECB68	0.34089660895688
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	16	11		#FECB68	0.396778947430252
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	17	11	novel	#FDAD4A	0.468957085035834
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	18	11		#FD913D	0.557620582928818
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	19	11	child|children	#FC622F	0.622718966715719
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	20	11	adults	#FC622F	0.633081829037463
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	21	11	ability|feedback|learning	#FC622F	0.674493468770358
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	22	11	cues|delay	#FDAD4A	0.498504482933869
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	23	11	attentional|difficulty|targets	#FC622F	0.602146238266855
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	1	12	aversive|shock	#F03623	0.725202084019367
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	2	12	reactivity	#FDAD4A	0.400219025654748
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	3	12	males|sex|women	#FDAD4A	0.492254341778531
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	4	12	animal	#FDAD4A	0.454879917075707
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	5	12	animals	#FEE188	0.268296968310287
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	6	12		#FEE188	0.220429566596415
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	7	12	remember|subsequent	#FFFFCC	0.0785547999546951
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	8	12	autobiographical|memories	#FFFFCC	0.0845040290136557
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	9	12		#FC622F	0.628468583303524
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	10	12	violation|violations	#D7141E	0.891607884727283
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	11	12	aphasia	#FC622F	0.641791317493199
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	12	12	nonwords	#FDAD4A	0.412653541837079
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	13	12	dyslexia	#FDAD4A	0.440539288824775
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	14	12		#FDAD4A	0.460950240040483
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	15	12	priming	#FEE188	0.286116814637743
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	16	12		#FDAD4A	0.493862756831324
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	17	12	category|repetition	#FDAD4A	0.499696753251643
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	18	12		#FD913D	0.590916424517701
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	19	12	developmental|development	#FDAD4A	0.490762289104867
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	20	12		#FC622F	0.618862999413387
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	21	12	space	#FC622F	0.60752635063682
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	22	12		#FC622F	0.601132014428535
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	23	12	color	#FD913D	0.507688772938515
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	1	13	threat	#FDAD4A	0.415723862397658
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	2	13	regulation	#FDAD4A	0.495808238731266
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	3	13		#FDAD4A	0.477574831919832
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	4	13	masked	#FEE188	0.259722697187293
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	5	13	scene|scenes	#FEE188	0.253661159449745
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	6	13		#FFF1A9	0.187899124515602
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	7	13	confidence|remembered	#FFFFCC	0
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	8	13		#FEE188	0.271054056888511
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	9	13		#FC622F	0.670397412660219
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	10	13	ambiguity|ambiguous	#FEE188	0.204918485408536
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	11	13		#FC622F	0.644057941512912
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	12	13		#FDAD4A	0.469045201639542
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	13	13	writing	#FEE188	0.290883608706108
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	14	13		#FDAD4A	0.480375801937951
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	15	13	categorization|congruency|prime	#FECB68	0.377354845952286
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	16	13		#FD913D	0.565732706903058
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	17	13	mask	#FD913D	0.570340889471886
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	18	13		#FC622F	0.68112945235378
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	19	13		#F03623	0.739094802360972
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	20	13		#FC622F	0.640308512735608
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	21	13	conflict|congruent|incongruent	#FDAD4A	0.427819519749995
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	22	13	errors	#F03623	0.764131228267679
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	23	13	maintenance|probe|wm	#FD913D	0.534219285707236
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	1	14	angry|fearful|happy	#FEE188	0.297393388145389
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	2	14		#FDAD4A	0.401609560978925
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	3	14	awareness|conscious|ptsd	#FDAD4A	0.412247639843175
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	4	14		#FDAD4A	0.428952648982816
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	5	14	houses|photographs	#FFFFCC	0.0867533467914465
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	6	14		#FEE188	0.293014029470404
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	7	14	hits	#FFF1A9	0.110928029907194
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	8	14	famous	#FFF1A9	0.106479765037943
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	9	14	names	#FDAD4A	0.440358558789088
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	10	14	family	#FC622F	0.678820811975163
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	11	14	competition|mouth	#FFF1A9	0.195163334730096
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	12	14	abilities	#FECB68	0.331363827981303
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	13	14	implicit|unfamiliar	#FECB68	0.379003853464889
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	14	14		#FDAD4A	0.460028094008257
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	15	14	tom	#FC622F	0.67439093213537
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	16	14		#FC622F	0.602752732341093
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	17	14		#FC622F	0.685918172121522
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	18	14	stop	#F03623	0.711082193166303
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	19	14	inhibition|inhibitory|nogo	#B10026	0.971574540117327
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	20	14	monitoring|stroop	#FD913D	0.525566127840013
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	21	14	interference	#FDAD4A	0.439425246241518
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	22	14		#FD913D	0.574536389613291
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	23	14	demands|executive	#FD913D	0.550333291064557
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	1	15	anger	#FFF1A9	0.170440467636897
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	2	15	stress	#FEE188	0.212250292867616
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	3	15	feelings	#FDAD4A	0.470059386397992
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	4	15	salient	#FD913D	0.593656484733897
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	5	15	novelty	#FEE188	0.243263333218667
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	6	15	movie	#FECB68	0.37989428949936
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	7	15		#FDAD4A	0.419703490712238
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	8	15		#FDAD4A	0.472311568587905
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	9	15	longterm	#FEE188	0.273090897520354
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	10	15		#FDAD4A	0.453234621033651
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	11	15	reasoning|relational	#FEE188	0.240176131129992
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	12	15		#FDAD4A	0.41108245126292
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	13	15	presentations	#FFF1A9	0.174509460856158
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	14	15		#FDAD4A	0.450369561845603
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	15	15	identity	#FDAD4A	0.408287810438399
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	16	15		#FD913D	0.591005348956572
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	17	15	strategies|strategy	#FD913D	0.54949932990738
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	18	15	card|cards	#D7141E	0.801026257205378
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	19	15	gonogo	#B10026	1
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	20	15		#FC622F	0.695853456276976
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	21	15	switching|switch	#FDAD4A	0.431251611420998
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	22	15		#FD913D	0.539803781524077
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	23	15	2back|rule	#FD913D	0.570442638070984
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	1	16	emotionally|mood|personality|sadness	#FEE188	0.234344395953287
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	2	16	disgust|sexual	#FFF1A9	0.19816451923901
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	3	16	olfactory	#FECB68	0.384730249924508
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	4	16	physiological	#FC622F	0.620686065504558
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	5	16	depressed|depressive|habituation	#FD913D	0.572070716864774
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	6	16	schizophrenic	#FD913D	0.556100017736893
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	7	16	colors|contexts	#FEE188	0.215548399908592
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	8	16	aging|encoded	#FECB68	0.395134090412092
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	9	16	goal	#FECB68	0.334769228164003
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	10	16		#FECB68	0.387550410076429
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	11	16	autism|autistic|nonverbal	#FEE188	0.235482564884302
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	12	16		#FDAD4A	0.427994737262096
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	13	16	bottomup|repetitions	#FDAD4A	0.440767568792084
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	14	16	adaptation	#FEE188	0.256557004391598
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	15	16	irrelevant	#FDAD4A	0.418587521408555
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	16	16	distractor|distractors	#FEE188	0.272938854108048
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	17	16		#FD913D	0.587638016423619
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	18	16	subtraction	#FECB68	0.33969530530169
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	19	16	1back|nback	#FC622F	0.698873614657922
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	20	16	manipulation|rules	#FD913D	0.541398487035147
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	21	16		#FD913D	0.587475774249974
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	22	16		#FDAD4A	0.492284213609501
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	23	16	digit	#FDAD4A	0.405786845040571
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	1	17	avoidance	#FECB68	0.311464714796254
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	2	17		#FDAD4A	0.404831894213576
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	3	17	eating|food	#FECB68	0.313356513132535
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	4	17	taste	#FD913D	0.588592986928757
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	5	17	bipolar	#F03623	0.761803219120195
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	6	17	illness|uncertainty	#FC622F	0.68418179195955
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	7	17	females|probabilistic	#FDAD4A	0.495911636663882
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	8	17	rejection	#FFFFCC	0.0930078006239698
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	9	17	colour|paired	#FDAD4A	0.408936064892659
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	10	17		#FDAD4A	0.479543430450597
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	11	17		#FD913D	0.534814456782952
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	12	17		#FDAD4A	0.491819384542051
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	13	17	taskirrelevant	#FECB68	0.343654141022102
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	14	17		#FDAD4A	0.406958922560843
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	15	17	suppression	#FECB68	0.306274031604514
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	16	17		#FDAD4A	0.483977155119245
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	17	17	shifting|shortterm	#FECB68	0.367829711089024
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	18	17	digits	#FECB68	0.336537223917259
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	19	17	search	#FECB68	0.360509595399987
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	20	17	counting|taskrelated	#D7141E	0.84021870567394
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	21	17	topdown	#FD913D	0.556188255381356
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	22	17	visuospatial	#FDAD4A	0.459016480255284
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	23	17	arithmetic|calculation|solving	#FECB68	0.317933634864028
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	1	18	addiction|craving|drugs	#FECB68	0.362963543073811
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	2	18	allele|genotype|polymorphism	#FDAD4A	0.429149590508461
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	3	18	motivation	#FEE188	0.277018791264257
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	4	18	heart	#FDAD4A	0.413629905907904
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	5	18	sleep	#FC622F	0.65163333460886
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	6	18	expectancy	#F03623	0.715860086591084
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	7	18	phasic|salience	#B10026	0.906430758999645
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	8	18	adolescence|adolescents	#FECB68	0.300414111101733
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	9	18	intelligence|tracking	#FD913D	0.558593385653921
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	10	18		#FC622F	0.623076680894526
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	11	18	serial	#FECB68	0.300841628649911
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	12	18		#FD913D	0.562058946938204
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	13	18	spatially|taskrelevant	#FFF1A9	0.140404636811923
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	14	18		#FDAD4A	0.419339685523789
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	15	18	attended|attend|unattended	#FECB68	0.369082899530929
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	16	18	rotation|shapes	#FFF1A9	0.189289585945553
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	17	18	rehearsal	#FD913D	0.555732724483988
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	18	18	learned	#FD913D	0.533608517057669
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	19	18		#FD913D	0.569685303029967
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	20	18	cued|preparatory	#FD913D	0.548815404927972
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	21	18		#FC622F	0.602580613835365
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	22	18		#FD913D	0.532126829850348
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	23	18	numbers|numerical	#FD913D	0.504207984522399
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	1	19	future	#FDAD4A	0.42252064552393
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	2	19	negatively	#FC622F	0.698775964013678
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	3	19	distress|epilepsy|selfreported	#FECB68	0.386922879680723
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	4	19	anticipatory|cocaine|probabilities|smoking	#FDAD4A	0.408328225057556
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	5	19	alcohol|amount|impulsivity	#FC622F	0.697460883935328
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	6	19	game|success	#FECB68	0.323903045559253
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	7	19	adhd|childhood|engagement	#FD913D	0.538463653805474
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	8	19		#F03623	0.724972721951955
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	9	19		#F03623	0.736177582640371
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	10	19		#FC622F	0.609931760043859
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	11	19		#FC622F	0.638820968580127
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	12	19	endogenous	#FC622F	0.673330496957132
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	13	19	cueing|invalid|orienting	#FC622F	0.637138036231357
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	14	19		#FDAD4A	0.432336117303301
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	15	19	multisensory	#FECB68	0.352614280209507
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	16	19		#FDAD4A	0.414581597245289
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	17	19	shifts	#FD913D	0.516820530075655
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	18	19	covert	#FC622F	0.615080651319577
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	19	19		#FD913D	0.513334704768669
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	20	19	preparation	#FDAD4A	0.426371769339845
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	21	19	discrimination|training	#FD913D	0.522676245360374
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	22	19	sequences	#FC622F	0.647017167002793
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	23	19		#FC622F	0.664382268261592
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	1	20	personal|self|selfreferential|trait|traits	#FEE188	0.281814649200089
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	2	20	empathic|theory	#FECB68	0.359736273645915
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	3	20	attribution|intentional	#FFF1A9	0.184710179726468
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	4	20	elderly|oscillations	#FEE188	0.229145314224872
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	5	20	antipsychotic|virtual	#FEE188	0.238047537966504
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	6	20		#F03623	0.700569545905344
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	7	20	experiences	#FDAD4A	0.479536101471902
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	8	20	categorical|pressure	#FD913D	0.534350259359207
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	9	20	play|skills	#FDAD4A	0.499251226343485
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	10	20	automatic|trained	#FC622F	0.645202409822697
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	11	20		#FD913D	0.566705369359459
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	12	20	practice	#FECB68	0.378388153639125
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	13	20	visuomotor	#FECB68	0.323438492049911
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	14	20		#FDAD4A	0.444931600370597
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	15	20	tool	#FEE188	0.284782250498559
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	16	20	vision	#FFF1A9	0.117479865988804
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	17	20	visually	#FEE188	0.233513623874724
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	18	20	saccade|saccades|saccadic	#FEE188	0.244774582945204
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	19	20	locations	#FDAD4A	0.435366672123691
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	20	20	imagery|planning	#FDAD4A	0.46486581332865
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	21	20		#FD913D	0.577159122285616
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	22	20	rest	#FC622F	0.623302925185752
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	23	20	sequence	#F03623	0.72528479065011
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	1	21	scenarios	#FEE188	0.20125715097286
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	2	21	intention|intentions	#FEE188	0.246482687867971
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	3	21	causality|perspective	#FECB68	0.341145692786509
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	4	21	past	#FEE188	0.205388729245036
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	5	21		#FC622F	0.615940012933907
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	6	21	episode	#FEE188	0.260971256317102
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	7	21	improvement	#FEE188	0.275350903273432
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	8	21	masking|retention	#F03623	0.70578242213224
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	9	21		#FD913D	0.585342395626215
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	10	21	dominant	#FDAD4A	0.442130614675884
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	11	21		#FD913D	0.509216028430746
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	12	21	sequential	#FDAD4A	0.41497763614522
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	13	21	fingers	#FEE188	0.231287849260512
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	14	21		#FECB68	0.347891208408005
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	15	21	gesture|gestures	#FEE188	0.211956277172045
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	16	21		#FECB68	0.367554669324822
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	17	21	hands	#FEE188	0.280847773243124
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	18	21		#FDAD4A	0.436210196436515
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	19	21		#FDAD4A	0.459906992353696
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	20	21	eye|position	#FDAD4A	0.455884124380204
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	21	21	execution	#FDAD4A	0.459286257874957
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	22	21	finger|sensorimotor	#FDAD4A	0.458917383584033
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	23	21		#FC622F	0.609135939667746
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	1	22	moral|stories|story	#FFF1A9	0.16437086452837
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	2	22	mentalizing|persons	#FFF1A9	0.171362981620741
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	3	22	default|restingstate	#FEE188	0.224484452849283
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	4	22	thinking|thought|thoughts	#FECB68	0.353179942251919
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	5	22	spontaneous	#FD913D	0.50973351614838
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	6	22	concentration|sensations	#FD913D	0.533783686424895
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	7	22	hierarchical|preference	#FEE188	0.203902539086036
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	8	22	effort|oral|simulation	#FDAD4A	0.409171488491901
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	9	22	interhemispheric|plasticity	#FEE188	0.239056661801339
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	10	22	imagined|imagine	#FDAD4A	0.472492134079395
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	11	22	tapping	#FDAD4A	0.497770158735523
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	12	22	foot|muscle|muscles|voluntary	#FDAD4A	0.456121025319578
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	13	22	limb	#FEE188	0.297632000442345
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	14	22	eyes|velocity	#FFFFCC	0.0662875277984798
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	15	22	biological|gaze|videos	#FEE188	0.274343252705876
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	16	22	body	#FC622F	0.611023924388356
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	17	22	grasping|orientation|reaching	#FEE188	0.246358178615739
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	18	22		#FDAD4A	0.452413407006817
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	19	22	mirror|shape	#FECB68	0.321463801053736
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	20	22	actions	#FDAD4A	0.453620615020957
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	21	22	action	#FC622F	0.619080481298614
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	22	22		#FD913D	0.585378087283053
+56c17cfc-46cc-3b5c-a808-8677aacd04ea	Tuscher O	23	22	hand|movements|sensory	#FD913D	0.586178495660881

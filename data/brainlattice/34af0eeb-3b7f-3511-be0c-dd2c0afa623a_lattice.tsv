@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	1	1	auditory|speech	#FD913D	0.521777540415463
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	2	1		#FDAD4A	0.496988443982752
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	3	1	da|integration	#FC622F	0.683251467196837
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	4	1		#F03623	0.762048512673548
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	5	1	physical|psychophysical|tactile	#FC622F	0.692685833536695
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	6	1		#D7141E	0.848031895565491
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	7	1	somatosensory|stimulation	#B10026	0.904088310183024
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	8	1	painful|pain	#FC622F	0.690060939547528
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	9	1		#FC622F	0.685699990224456
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	10	1	ratings	#FD913D	0.531426355511568
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	11	1	affective|affect	#FECB68	0.334948691717657
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	12	1	emotions	#FDAD4A	0.454891130320203
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	13	1	expression|expressions|facial	#FD913D	0.510048492048884
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	14	1		#FC622F	0.607481048536342
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	15	1		#FC622F	0.607684949305721
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	16	1	emotion|motion|neutral	#FD913D	0.504949531508019
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	17	1	rating	#FD913D	0.528325928408924
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	18	1	negative|positive	#FD913D	0.52165798338766
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	19	1		#FC622F	0.643817163789259
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	20	1	ear|order	#FC622F	0.618567602338435
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	21	1	motor	#F03623	0.703315165906149
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	22	1	visual	#F03623	0.706020025615948
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	23	1	age|image|response	#FC622F	0.674023728432172
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	1	2	sound|sounds	#FECB68	0.370751548402063
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	2	2		#FDAD4A	0.447641937096979
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	3	2	audiovisual|bimodal|crossmodal	#FD913D	0.548074114267769
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	4	2		#F03623	0.762109947562641
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	5	2		#D7141E	0.807009593380926
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	6	2		#D7141E	0.865848115229984
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	7	2	sensation	#FD913D	0.598808979811172
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	8	2	heat|noxious	#FC622F	0.651124056386656
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	9	2		#FC622F	0.699957982027956
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	10	2		#FD913D	0.518143110102635
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	11	2		#FDAD4A	0.475985846870614
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	12	2	valence	#FEE188	0.281354366882369
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	13	2	person|social	#FDAD4A	0.427962088025971
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	14	2		#FC622F	0.620065784280387
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	15	2	face|faces	#F03623	0.71946553069908
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	16	2		#FC622F	0.639160375491679
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	17	2		#FC622F	0.608436374691536
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	18	2		#FC622F	0.632158092308227
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	19	2		#FC622F	0.656905969676673
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	20	2		#FC622F	0.687192796900316
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	21	2	images|spatial	#FC622F	0.687712118345562
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	22	2	control	#FC622F	0.630589917178834
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	23	2	time	#FC622F	0.672524573569227
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	1	3	acoustic|listening|musical|music|pitch	#FEE188	0.221660513772631
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	2	3	noise|tones	#FEE188	0.29509453120365
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	3	3		#FD913D	0.509856982316889
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	4	3		#FC622F	0.604060231943612
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	5	3	frequency	#F03623	0.730268222210101
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	6	3		#F03623	0.770624164162215
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	7	3		#F03623	0.786241418203355
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	8	3	temperature	#F03623	0.797824883525883
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	9	3		#F03623	0.738717574853423
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	10	3	pleasant|unpleasant	#FD913D	0.577825317982006
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	11	3	anxiety	#FECB68	0.322693570244437
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	12	3		#FDAD4A	0.482474289528124
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	13	3		#FD913D	0.58166720874893
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	14	3		#FC622F	0.623437496815289
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	15	3		#FC622F	0.676323797656601
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	16	3	picture	#FC622F	0.68542383051295
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	17	3		#F03623	0.701340593056348
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	18	3	value	#FD913D	0.576324761179717
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	19	3	cue	#FC622F	0.604697032294156
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	20	3	error|target	#FD913D	0.598186532190997
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	21	3	attention	#FC622F	0.659033633089638
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	22	3		#FC622F	0.65125212925982
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	23	3	number	#FC622F	0.645774715637038
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	1	4	voice	#FEE188	0.228719271343192
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	2	4		#FEE188	0.283031087596513
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	3	4	hearing	#FDAD4A	0.412075254252007
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	4	4		#FDAD4A	0.468039328401507
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	5	4	overt	#FECB68	0.393690913094621
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	6	4		#FC622F	0.614216833187841
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	7	4		#D7141E	0.854544623756366
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	8	4	nociceptive|nonpainful|painrelated	#F03623	0.725600870396415
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	9	4	unpleasantness	#D7141E	0.801919999518902
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	10	4	skin|subjective	#FDAD4A	0.403670641099394
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	11	4	depression	#FDAD4A	0.400496582405379
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	12	4	experience	#FDAD4A	0.450303341570177
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	13	4	female	#FDAD4A	0.496130156466624
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	14	4	male	#FC622F	0.60971957013914
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	15	4	pictures	#FC622F	0.696900990543491
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	16	4		#F03623	0.76857822437237
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	17	4	perception	#F03623	0.737066681189096
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	18	4		#F03623	0.739218484168707
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	19	4		#F03623	0.717467697433011
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	20	4		#F03623	0.705916666455907
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	21	4	correct	#FD913D	0.57699392438336
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	22	4	work	#FD913D	0.535775530621292
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	23	4	memory	#FD913D	0.545769432579463
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	1	5	prosodic|prosody	#FEE188	0.223093125325454
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	2	5	phonetic	#FEE188	0.214450188087343
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	3	5	syllable|syllables	#FFF1A9	0.185327248396855
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	4	5		#FECB68	0.381463177795889
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	5	5	lip|production	#FECB68	0.380882904397034
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	6	5	somatotopic	#FD913D	0.556333984850542
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	7	5		#F03623	0.77929654628602
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	8	5		#F03623	0.740083481347119
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	9	5	empathy	#FC622F	0.642740937517924
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	10	5		#FD913D	0.508323798004792
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	11	5	disorder	#FDAD4A	0.406167709819328
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	12	5		#FDAD4A	0.49624393531349
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	13	5		#FD913D	0.57201154040278
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	14	5		#FC622F	0.633299188672428
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	15	5		#FC622F	0.680846464204401
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	16	5		#F03623	0.740862044938119
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	17	5		#F03623	0.749953151172171
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	18	5	mental	#FC622F	0.659105311081503
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	19	5	go	#F03623	0.757521336575076
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	20	5	object	#F03623	0.782607453737564
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	21	5		#FC622F	0.689689313433488
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	22	5		#FC622F	0.619956909181415
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	23	5	word|words	#FC622F	0.604473758132975
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	1	6		#FECB68	0.331716815508117
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	2	6		#FECB68	0.32735496993185
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	3	6		#FECB68	0.380752490589945
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	4	6	vocal	#FECB68	0.311536238314056
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	5	6	articulatory	#FEE188	0.215304214606171
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	6	6		#FDAD4A	0.49912183795406
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	7	6	oddball	#FC622F	0.651536393553748
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	8	6	perceived	#FC622F	0.608743797577898
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	9	6	errorrelated	#FECB68	0.34503181562864
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	10	6	approach	#FEE188	0.264465499662335
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	11	6	schizophrenia	#FECB68	0.381197520646512
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	12	6	acquisition	#FDAD4A	0.408534863954289
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	13	6		#FD913D	0.556147325886235
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	14	6		#FDAD4A	0.493620355048467
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	15	6		#FD913D	0.529848078624716
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	16	6		#FD913D	0.579444072830533
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	17	6		#F03623	0.712346968755022
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	18	6		#F03623	0.76575165212166
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	19	6		#F03623	0.796906074122208
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	20	6	objects	#D7141E	0.86446677003614
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	21	6		#F03623	0.746561454039139
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	22	6		#FC622F	0.618693862183401
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	23	6	language|semantic	#FD913D	0.573214327717603
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	1	7	dopamine|dopaminergic	#FFF1A9	0.129071873521771
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	2	7		#FFF1A9	0.171561045857214
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	3	7		#FEE188	0.295890330030942
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	4	7		#FECB68	0.356597999266737
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	5	7		#FECB68	0.37839519960963
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	6	7		#FDAD4A	0.429023090744451
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	7	7		#FDAD4A	0.463436517074901
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	8	7		#FDAD4A	0.448537253459381
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	9	7		#FDAD4A	0.473713008412093
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	10	7		#FDAD4A	0.450272028713792
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	11	7		#FDAD4A	0.427376187588807
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	12	7		#FDAD4A	0.483932180757358
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	13	7	linguistic|spoken	#FD913D	0.519093480547313
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	14	7		#FDAD4A	0.442375648756442
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	15	7	comprehension|sentence|sentences|syntactic	#FECB68	0.371246040531946
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	16	7		#FD913D	0.531182368618233
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	17	7		#FC622F	0.670407644284828
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	18	7	phonological|reading|read	#FC622F	0.64866953015728
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	19	7		#F03623	0.789539004259876
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	20	7	perceptual|recognition	#B10026	0.907042500159794
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	21	7		#F03623	0.718972136292293
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	22	7		#FC622F	0.600562691543379
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	23	7	verb	#FD913D	0.521217399065143
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	1	8	outcome|reward	#FFF1A9	0.168234912792778
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	2	8	anticipation	#FFF1A9	0.109877371645883
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	3	8	outcomes	#FFF1A9	0.136230796701581
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	4	8	choice|choices	#FEE188	0.203129280242538
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	5	8	decisions|probability	#FECB68	0.300007304449115
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	6	8	reversal	#FEE188	0.217516161803685
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	7	8	classification|incorrect	#FFF1A9	0.1955552288243
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	8	8		#FECB68	0.376822635938601
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	9	8	agerelated|fluency|probes	#FECB68	0.309910005503454
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	10	8	engaged	#FDAD4A	0.450872521218124
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	11	8	explicit|knowledge	#FECB68	0.319605039328084
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	12	8		#FDAD4A	0.438920357930701
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	13	8		#FDAD4A	0.477664417738471
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	14	8		#FDAD4A	0.479924463627783
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	15	8		#FD913D	0.507158359090649
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	16	8		#FD913D	0.540271239096229
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	17	8	lexical	#FC622F	0.629935076872331
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	18	8		#F03623	0.719248975728025
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	19	8		#F03623	0.755710746532614
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	20	8		#F03623	0.756350502291865
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	21	8	encoding	#FC622F	0.663374233802206
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	22	8	retrieval	#FDAD4A	0.486143589901028
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	23	8	verbal	#FD913D	0.506308904854114
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	1	9	incentive|monetary|money|rewards	#FFFFCC	0
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	2	9	loss	#FFF1A9	0.138894501265473
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	3	9		#FEE188	0.229640336350482
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	4	9		#FEE188	0.27647079657215
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	5	9	decisionmaking	#FEE188	0.213586294541357
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	6	9		#FECB68	0.389567378589115
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	7	9		#FECB68	0.384395863017438
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	8	9		#FECB68	0.392735426288634
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	9	9		#FDAD4A	0.424557296183933
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	10	9		#FDAD4A	0.420809378750373
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	11	9		#FECB68	0.398906985730331
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	12	9		#FECB68	0.394139815717992
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	13	9	noun	#FEE188	0.23688143920153
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	14	9	meaning	#FD913D	0.582998735081358
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	15	9	english	#FD913D	0.509893154233608
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	16	9	pseudoword|pseudowords	#FD913D	0.575867905493003
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	17	9		#FC622F	0.654668654653956
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	18	9		#F03623	0.723786581900749
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	19	9	familiar|judgment	#F03623	0.786083224694359
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	20	9	pair|pairs	#FD913D	0.517824060874154
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	21	9		#FC622F	0.601189847775938
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	22	9		#FD913D	0.573323901553446
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	23	9	letter|working	#FD913D	0.524409561771233
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	1	10	losses|reinforcement|win	#FFFFCC	0.0552138934687351
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	2	10	gain	#FFF1A9	0.167198521414318
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	3	10	expectation	#FEE188	0.290754206264611
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	4	10	risk	#FEE188	0.233176391148433
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	5	10	fact	#FECB68	0.311772769221105
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	6	10	associative	#FD913D	0.514941975497143
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	7	10	familiarity|judgments|old	#FDAD4A	0.451437950004359
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	8	10	contextual|text	#FEE188	0.234630778380589
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	9	10	recall|retrieved	#FEE188	0.280470874240644
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	10	10	conceptual|semantically	#FDAD4A	0.461486496178288
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	11	10	grammatical|speakers	#FEE188	0.281331865898648
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	12	10	nouns	#FEE188	0.265548916615308
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	13	10	japanese	#FECB68	0.343823880671573
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	14	10	languages	#FDAD4A	0.476428723025849
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	15	10	written	#F03623	0.701466819477123
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	16	10	chinese|phonology	#FD913D	0.548806440339952
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	17	10	orthographic	#FC622F	0.676680455277867
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	18	10		#FC622F	0.689228426135247
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	19	10		#FC622F	0.652893888033781
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	20	10	association|decision	#FD913D	0.503731914082395
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	21	10	selection	#FDAD4A	0.41893901492621
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	22	10	letters	#FD913D	0.570398333051207
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	23	10	demand|load	#FDAD4A	0.455535004893594
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	1	11	conditioned|conditioning	#FECB68	0.302638239402218
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	2	11		#FECB68	0.312291449785814
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	3	11	drug|placebo	#FECB68	0.315507021044505
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	4	11		#FD913D	0.551027168444848
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	5	11	associations	#FDAD4A	0.468403987361785
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	6	11		#FC622F	0.634463252238216
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	7	11	episodic|recollection	#FECB68	0.387305902592553
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	8	11		#FD913D	0.585628351174432
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	9	11		#FD913D	0.531686779260308
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	10	11	concepts	#FDAD4A	0.418202097881076
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	11	11		#FDAD4A	0.494734583146024
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	12	11		#FD913D	0.527597731548364
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	13	11	german	#FDAD4A	0.492467545583578
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	14	11	readers	#FD913D	0.597688044428335
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	15	11	character|name|naming	#F03623	0.75578765281914
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	16	11		#F03623	0.765126372686972
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	17	11	novel	#F03623	0.748924631338253
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	18	11		#FC622F	0.676052505455989
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	19	11	child|children	#FD913D	0.544284252807016
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	20	11	adults	#FD913D	0.586417693663661
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	21	11	ability|feedback|learning	#FDAD4A	0.481469172111272
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	22	11	cues|delay	#FDAD4A	0.45278147526933
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	23	11	attentional|difficulty|targets	#FD913D	0.57410617029637
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	1	12	aversive|shock	#FEE188	0.259879023829401
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	2	12	reactivity	#FFF1A9	0.193526298919953
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	3	12	males|sex|women	#FDAD4A	0.407266231497143
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	4	12	animal	#FC622F	0.65739112573021
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	5	12	animals	#D7141E	0.816782662249532
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	6	12		#F03623	0.768906132532639
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	7	12	remember|subsequent	#FC622F	0.694414099531358
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	8	12	autobiographical|memories	#FFF1A9	0.184775324586128
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	9	12		#FD913D	0.560779284062454
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	10	12	violation|violations	#FEE188	0.207400167879024
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	11	12	aphasia	#FD913D	0.525215713198412
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	12	12	nonwords	#FD913D	0.587570684378434
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	13	12	dyslexia	#F03623	0.746401940846148
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	14	12		#D7141E	0.810817320814144
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	15	12	priming	#F03623	0.752195055290363
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	16	12		#D7141E	0.831563034305139
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	17	12	category|repetition	#D7141E	0.818356785093827
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	18	12		#FC622F	0.694046901860963
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	19	12	developmental|development	#FDAD4A	0.495338916266914
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	20	12		#FC622F	0.622199032082792
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	21	12	space	#F03623	0.712610137428966
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	22	12		#FD913D	0.51969743740049
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	23	12	color	#FD913D	0.540482083612306
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	1	13	threat	#FEE188	0.235958135354383
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	2	13	regulation	#FFF1A9	0.173049800421923
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	3	13		#FDAD4A	0.473188076592642
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	4	13	masked	#FC622F	0.655292375265264
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	5	13	scene|scenes	#FC622F	0.674313964737923
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	6	13		#D7141E	0.81831778456891
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	7	13	confidence|remembered	#FD913D	0.549188969652128
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	8	13		#F03623	0.7121135715065
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	9	13		#FD913D	0.595644338963983
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	10	13	ambiguity|ambiguous	#FECB68	0.331943780942163
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	11	13		#FD913D	0.596663250370602
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	12	13		#F03623	0.722346891651858
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	13	13	writing	#FD913D	0.533179414901848
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	14	13		#D7141E	0.810234187931192
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	15	13	categorization|congruency|prime	#F03623	0.745234152076386
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	16	13		#D7141E	0.817457637462188
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	17	13	mask	#F03623	0.717940665611388
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	18	13		#F03623	0.722281404153345
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	19	13		#FC622F	0.647455971401344
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	20	13		#FC622F	0.663157176250513
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	21	13	conflict|congruent|incongruent	#FD913D	0.569308727401479
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	22	13	errors	#FDAD4A	0.424925218893214
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	23	13	maintenance|probe|wm	#FECB68	0.308711729239184
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	1	14	angry|fearful|happy	#FEE188	0.205879999818128
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	2	14		#FEE188	0.274447621348784
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	3	14	awareness|conscious|ptsd	#FEE188	0.216654034987085
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	4	14		#F03623	0.788710481304792
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	5	14	houses|photographs	#F03623	0.771714221088276
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	6	14		#D7141E	0.861050940204463
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	7	14	hits	#FD913D	0.501717409196146
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	8	14	famous	#FC622F	0.651950238698147
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	9	14	names	#FECB68	0.369508173909574
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	10	14	family	#FD913D	0.554308021254147
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	11	14	competition|mouth	#FDAD4A	0.452306556831105
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	12	14	abilities	#FDAD4A	0.434364386992724
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	13	14	implicit|unfamiliar	#F03623	0.772287345746904
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	14	14		#D7141E	0.830948617694797
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	15	14	tom	#FC622F	0.686390941311685
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	16	14		#FC622F	0.665792551197708
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	17	14		#FD913D	0.548109097170276
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	18	14	stop	#FD913D	0.58002425781673
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	19	14	inhibition|inhibitory|nogo	#FC622F	0.662677788401346
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	20	14	monitoring|stroop	#FD913D	0.534902647117593
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	21	14	interference	#FD913D	0.577153907007615
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	22	14		#FDAD4A	0.487416212709415
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	23	14	demands|executive	#FECB68	0.364508684853066
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	1	15	anger	#FEE188	0.244525022718696
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	2	15	stress	#FEE188	0.244724422542921
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	3	15	feelings	#FECB68	0.34485788291684
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	4	15	salient	#FECB68	0.364897476313583
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	5	15	novelty	#F03623	0.791152222910222
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	6	15	movie	#FDAD4A	0.414793090425935
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	7	15		#FC622F	0.640231242424043
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	8	15		#FC622F	0.616126280817649
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	9	15	longterm	#FDAD4A	0.406992319224224
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	10	15		#FD913D	0.53675633502493
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	11	15	reasoning|relational	#FDAD4A	0.482021000296876
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	12	15		#FC622F	0.680500514496476
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	13	15	presentations	#F03623	0.726824602063335
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	14	15		#F03623	0.781610550371287
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	15	15	identity	#FC622F	0.652160536299206
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	16	15		#FD913D	0.549112561933828
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	17	15	strategies|strategy	#FFF1A9	0.158918586697141
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	18	15	card|cards	#FECB68	0.323593768652943
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	19	15	gonogo	#FD913D	0.518410458543086
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	20	15		#FD913D	0.591862810179726
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	21	15	switching|switch	#FECB68	0.380090482872947
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	22	15		#FDAD4A	0.471475988789455
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	23	15	2back|rule	#FECB68	0.384445537134438
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	1	16	emotionally|mood|personality|sadness	#FFF1A9	0.163059653273611
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	2	16	disgust|sexual	#FEE188	0.294742174575588
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	3	16	olfactory	#FFFFCC	0.0537560196625096
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	4	16	physiological	#FDAD4A	0.400545797936948
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	5	16	depressed|depressive|habituation	#FEE188	0.212656535641651
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	6	16	schizophrenic	#FECB68	0.327201476562297
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	7	16	colors|contexts	#FFF1A9	0.129591031800292
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	8	16	aging|encoded	#FDAD4A	0.479469878065843
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	9	16	goal	#FFF1A9	0.117326945684959
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	10	16		#FDAD4A	0.477658497699347
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	11	16	autism|autistic|nonverbal	#FEE188	0.243957824112332
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	12	16		#FC622F	0.657681576940324
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	13	16	bottomup|repetitions	#FDAD4A	0.457156814608263
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	14	16	adaptation	#F03623	0.785670369175976
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	15	16	irrelevant	#FD913D	0.577328594689126
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	16	16	distractor|distractors	#FEE188	0.216007494852985
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	17	16		#FDAD4A	0.444752451515323
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	18	16	subtraction	#FECB68	0.349114478005889
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	19	16	1back|nback	#FECB68	0.372533679039065
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	20	16	manipulation|rules	#FECB68	0.348701374529875
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	21	16		#FDAD4A	0.471818157292966
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	22	16		#FDAD4A	0.405848770154616
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	23	16	digit	#FECB68	0.358801897232881
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	1	17	avoidance	#FFF1A9	0.160538446784548
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	2	17		#FEE188	0.24225266392478
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	3	17	eating|food	#FFFFCC	0.0936642898789243
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	4	17	taste	#FEE188	0.263010322303517
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	5	17	bipolar	#FECB68	0.317043502660462
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	6	17	illness|uncertainty	#FECB68	0.326702780972825
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	7	17	females|probabilistic	#FEE188	0.274544789046709
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	8	17	rejection	#FFF1A9	0.193634792970864
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	9	17	colour|paired	#FD913D	0.55286107901739
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	10	17		#FD913D	0.559663045920544
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	11	17		#FD913D	0.583944236856463
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	12	17		#FD913D	0.587527584920451
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	13	17	taskirrelevant	#FD913D	0.522266877566463
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	14	17		#FC622F	0.618024590517336
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	15	17	suppression	#F03623	0.766634753976654
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	16	17		#FD913D	0.576752799813439
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	17	17	shifting|shortterm	#FDAD4A	0.418022104217179
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	18	17	digits	#FDAD4A	0.420189724580604
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	19	17	search	#FDAD4A	0.414694934298272
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	20	17	counting|taskrelated	#FDAD4A	0.43011731640053
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	21	17	topdown	#FC622F	0.62933743036155
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	22	17	visuospatial	#FEE188	0.294061097256795
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	23	17	arithmetic|calculation|solving	#FEE188	0.234144880744037
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	1	18	addiction|craving|drugs	#FFF1A9	0.145130712310515
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	2	18	allele|genotype|polymorphism	#FFF1A9	0.119535927493824
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	3	18	motivation	#FFF1A9	0.191749571261548
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	4	18	heart	#FECB68	0.300995753303217
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	5	18	sleep	#FDAD4A	0.474350552470692
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	6	18	expectancy	#FD913D	0.583990223382109
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	7	18	phasic|salience	#FEE188	0.26960180018022
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	8	18	adolescence|adolescents	#FECB68	0.373218633010883
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	9	18	intelligence|tracking	#FECB68	0.367842929114933
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	10	18		#FD913D	0.599432146075874
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	11	18	serial	#FDAD4A	0.449415562779202
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	12	18		#FD913D	0.583694827866797
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	13	18	spatially|taskrelevant	#FECB68	0.343246402139989
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	14	18		#FD913D	0.590598643488689
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	15	18	attended|attend|unattended	#FDAD4A	0.467414800989337
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	16	18	rotation|shapes	#FECB68	0.350500678278103
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	17	18	rehearsal	#FECB68	0.357711162342032
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	18	18	learned	#FEE188	0.234079732756358
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	19	18		#FD913D	0.520118722721916
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	20	18	cued|preparatory	#FD913D	0.586200093431864
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	21	18		#FD913D	0.560258828566357
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	22	18		#FDAD4A	0.440125319443205
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	23	18	numbers|numerical	#FECB68	0.343532778042949
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	1	19	future	#FFF1A9	0.187724319168096
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	2	19	negatively	#FDAD4A	0.485993840768086
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	3	19	distress|epilepsy|selfreported	#FEE188	0.202802041745376
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	4	19	anticipatory|cocaine|probabilities|smoking	#FFF1A9	0.126207215289794
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	5	19	alcohol|amount|impulsivity	#FEE188	0.289504374424242
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	6	19	game|success	#FECB68	0.348390916962456
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	7	19	adhd|childhood|engagement	#FDAD4A	0.430547962514964
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	8	19		#FD913D	0.559070625198947
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	9	19		#FD913D	0.556471108929491
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	10	19		#FD913D	0.560920384658219
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	11	19		#FD913D	0.567260702949006
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	12	19	endogenous	#FC622F	0.61692602501193
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	13	19	cueing|invalid|orienting	#FECB68	0.337851932046854
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	14	19		#FC622F	0.615365325663096
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	15	19	multisensory	#FC622F	0.607811190486368
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	16	19		#FC622F	0.626365116600787
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	17	19	shifts	#FD913D	0.500928606891835
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	18	19	covert	#FEE188	0.293768278934643
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	19	19		#FD913D	0.512556639381453
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	20	19	preparation	#FC622F	0.607597881642859
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	21	19	discrimination|training	#FDAD4A	0.425927564337068
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	22	19	sequences	#FDAD4A	0.426798976263877
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	23	19		#F03623	0.709953702240848
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	1	20	personal|self|selfreferential|trait|traits	#FFF1A9	0.162712573204215
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	2	20	empathic|theory	#FFF1A9	0.197839176819198
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	3	20	attribution|intentional	#FECB68	0.315266322239471
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	4	20	elderly|oscillations	#FECB68	0.337072569578246
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	5	20	antipsychotic|virtual	#FFF1A9	0.195789734208516
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	6	20		#FD913D	0.542789761696957
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	7	20	experiences	#FEE188	0.294697044721947
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	8	20	categorical|pressure	#FDAD4A	0.41992500114048
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	9	20	play|skills	#FEE188	0.293765000578725
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	10	20	automatic|trained	#FECB68	0.331896542792922
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	11	20		#FC622F	0.630764331267321
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	12	20	practice	#FDAD4A	0.427839036652931
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	13	20	visuomotor	#FD913D	0.575592391167455
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	14	20		#F03623	0.708031204421451
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	15	20	tool	#FDAD4A	0.472465284675874
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	16	20	vision	#FECB68	0.390788893164504
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	17	20	visually	#FC622F	0.628743158345215
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	18	20	saccade|saccades|saccadic	#FECB68	0.31114601107426
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	19	20	locations	#FDAD4A	0.493803270114919
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	20	20	imagery|planning	#FDAD4A	0.455478693970513
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	21	20		#FC622F	0.68757241660051
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	22	20	rest	#FC622F	0.696109368567474
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	23	20	sequence	#F03623	0.709134713214324
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	1	21	scenarios	#FFFFCC	0.0533399161728097
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	2	21	intention|intentions	#FEE188	0.294785303362873
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	3	21	causality|perspective	#FEE188	0.201056118897673
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	4	21	past	#FFF1A9	0.194339903274647
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	5	21		#FD913D	0.544615652750538
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	6	21	episode	#FEE188	0.27856492033058
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	7	21	improvement	#FDAD4A	0.447752599071312
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	8	21	masking|retention	#FDAD4A	0.449734156434077
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	9	21		#FC622F	0.666249495261009
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	10	21	dominant	#FC622F	0.6553247797293
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	11	21		#F03623	0.756245260282776
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	12	21	sequential	#FC622F	0.637907069411627
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	13	21	fingers	#D7141E	0.836212625480287
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	14	21		#FC622F	0.670040238795953
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	15	21	gesture|gestures	#FEE188	0.298849712049763
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	16	21		#FC622F	0.645887828315344
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	17	21	hands	#FDAD4A	0.432734389218283
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	18	21		#FC622F	0.614572373476616
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	19	21		#FD913D	0.597957435600812
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	20	21	eye|position	#FD913D	0.538571999037713
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	21	21	execution	#FC622F	0.620990234746809
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	22	21	finger|sensorimotor	#D7141E	0.847981911974016
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	23	21		#D7141E	0.830953274520468
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	1	22	moral|stories|story	#FFF1A9	0.1838702427016
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	2	22	mentalizing|persons	#FEE188	0.265350816778151
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	3	22	default|restingstate	#FFF1A9	0.113766812359917
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	4	22	thinking|thought|thoughts	#FEE188	0.231042147728855
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	5	22	spontaneous	#FDAD4A	0.454782282862149
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	6	22	concentration|sensations	#FDAD4A	0.47373389615925
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	7	22	hierarchical|preference	#FD913D	0.539279543874351
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	8	22	effort|oral|simulation	#FEE188	0.265891990145257
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	9	22	interhemispheric|plasticity	#B10026	1
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	10	22	imagined|imagine	#FEE188	0.283023202464995
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	11	22	tapping	#D7141E	0.807464205955146
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	12	22	foot|muscle|muscles|voluntary	#D7141E	0.875547195710922
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	13	22	limb	#FDAD4A	0.495456130069972
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	14	22	eyes|velocity	#FDAD4A	0.474840277092961
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	15	22	biological|gaze|videos	#FDAD4A	0.493090357482657
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	16	22	body	#FC622F	0.670663406187897
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	17	22	grasping|orientation|reaching	#FD913D	0.537735870967225
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	18	22		#FC622F	0.632174546338706
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	19	22	mirror|shape	#FD913D	0.550638397614216
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	20	22	actions	#F03623	0.724217403358236
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	21	22	action	#FC622F	0.697725799362642
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	22	22		#D7141E	0.820385036536259
+34af0eeb-3b7f-3511-be0c-dd2c0afa623a	Law I	23	22	hand|movements|sensory	#F03623	0.788354953627872

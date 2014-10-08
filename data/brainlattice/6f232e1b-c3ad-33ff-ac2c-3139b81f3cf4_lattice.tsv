@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	1	1	auditory|speech	#FFF1A9	0.185206332946503
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	2	1		#FFF1A9	0.171636119599501
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	3	1	da|integration	#FECB68	0.351642450734061
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	4	1		#FEE188	0.244951886735646
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	5	1	physical|psychophysical|tactile	#FFF1A9	0.162146466994661
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	6	1		#FEE188	0.261857159171367
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	7	1	somatosensory|stimulation	#FEE188	0.264085826921569
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	8	1	painful|pain	#FEE188	0.272934211207181
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	9	1		#FECB68	0.372340514677721
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	10	1	ratings	#FC622F	0.697283458010184
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	11	1	affective|affect	#F03623	0.765314401375627
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	12	1	emotions	#F03623	0.767906025824485
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	13	1	expression|expressions|facial	#D7141E	0.829897985547301
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	14	1		#D7141E	0.804162823897634
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	15	1		#F03623	0.773051294181163
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	16	1	emotion|motion|neutral	#F03623	0.719164425997107
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	17	1	rating	#FC622F	0.647881769927706
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	18	1	negative|positive	#FC622F	0.632881307989228
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	19	1		#FD913D	0.515288397711431
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	20	1	ear|order	#FDAD4A	0.40128091017274
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	21	1	motor	#FEE188	0.292426081497161
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	22	1	visual	#FFF1A9	0.170997005249537
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	23	1	age|image|response	#FECB68	0.3265265620597
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	1	2	sound|sounds	#FFF1A9	0.128976724023856
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	2	2		#FFF1A9	0.165845293643976
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	3	2	audiovisual|bimodal|crossmodal	#FFF1A9	0.196650107784541
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	4	2		#FEE188	0.248381788041295
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	5	2		#FEE188	0.262066247820536
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	6	2		#FEE188	0.268095700454778
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	7	2	sensation	#FFF1A9	0.163380701888153
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	8	2	heat|noxious	#FEE188	0.261070160408517
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	9	2		#FECB68	0.397762342626395
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	10	2		#F03623	0.744679379917919
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	11	2		#F03623	0.794440673115159
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	12	2	valence	#B10026	0.916735555133709
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	13	2	person|social	#FD913D	0.572549082998753
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	14	2		#F03623	0.799965261447121
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	15	2	face|faces	#FC622F	0.6651554854794
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	16	2		#F03623	0.712347218003781
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	17	2		#FC622F	0.676910381806103
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	18	2		#FD913D	0.569585117274431
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	19	2		#FDAD4A	0.470472089709276
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	20	2		#FECB68	0.345526226585382
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	21	2	images|spatial	#FECB68	0.304244855611192
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	22	2	control	#FEE188	0.295814366837415
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	23	2	time	#FEE188	0.284530818726658
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	1	3	acoustic|listening|musical|music|pitch	#FFF1A9	0.138628521460887
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	2	3	noise|tones	#FFF1A9	0.164349608926845
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	3	3		#FEE188	0.254355878389718
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	4	3		#FEE188	0.286910573682875
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	5	3	frequency	#FEE188	0.272952527893142
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	6	3		#FECB68	0.339547647498455
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	7	3		#FEE188	0.25752931750012
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	8	3	temperature	#FEE188	0.283078972269825
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	9	3		#FECB68	0.356313285639035
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	10	3	pleasant|unpleasant	#FD913D	0.527692121097685
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	11	3	anxiety	#D7141E	0.811904855718322
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	12	3		#F03623	0.794823335027678
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	13	3		#F03623	0.759195926886346
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	14	3		#F03623	0.779540616877311
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	15	3		#F03623	0.733949577683239
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	16	3	picture	#FD913D	0.57771179200076
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	17	3		#FC622F	0.621896668638608
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	18	3	value	#FDAD4A	0.462094859791785
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	19	3	cue	#FECB68	0.323619482834315
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	20	3	error|target	#FEE188	0.263582022964604
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	21	3	attention	#FFF1A9	0.185874544465391
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	22	3		#FEE188	0.253841578011163
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	23	3	number	#FEE188	0.266328888377532
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	1	4	voice	#FFFFCC	0.0892146751047152
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	2	4		#FFF1A9	0.170202547354887
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	3	4	hearing	#FFF1A9	0.139542072098433
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	4	4		#FECB68	0.31395502634586
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	5	4	overt	#FEE188	0.291957944438015
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	6	4		#FECB68	0.38787236455063
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	7	4		#FECB68	0.32892035858667
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	8	4	nociceptive|nonpainful|painrelated	#FFF1A9	0.172762401924764
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	9	4	unpleasantness	#FEE188	0.214044438216759
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	10	4	skin|subjective	#FD913D	0.561746231124072
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	11	4	depression	#D7141E	0.846644714433227
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	12	4	experience	#FD913D	0.593672083460063
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	13	4	female	#FC622F	0.641476599720476
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	14	4	male	#F03623	0.72336351702161
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	15	4	pictures	#FC622F	0.644289305130596
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	16	4		#FD913D	0.571776896371101
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	17	4	perception	#FECB68	0.361247870742657
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	18	4		#FECB68	0.340282531364591
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	19	4		#FEE188	0.298593287154545
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	20	4		#FEE188	0.255611556623365
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	21	4	correct	#FFF1A9	0.199285026451246
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	22	4	work	#FEE188	0.273007599714236
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	23	4	memory	#FEE188	0.243476027268353
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	1	5	prosodic|prosody	#FFF1A9	0.114466620600357
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	2	5	phonetic	#FFF1A9	0.108702522250767
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	3	5	syllable|syllables	#FFF1A9	0.19408470586578
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	4	5		#FECB68	0.332679055897149
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	5	5	lip|production	#FDAD4A	0.449221969215161
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	6	5	somatotopic	#FDAD4A	0.461877706127179
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	7	5		#FECB68	0.350257870290374
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	8	5		#FEE188	0.298464619330529
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	9	5	empathy	#FECB68	0.396990458280083
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	10	5		#FD913D	0.576526592426997
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	11	5	disorder	#FC622F	0.647022724562044
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	12	5		#FC622F	0.614755719512852
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	13	5		#FD913D	0.557108682159549
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	14	5		#FD913D	0.517464757420234
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	15	5		#FDAD4A	0.499680900652433
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	16	5		#FDAD4A	0.404376327773127
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	17	5		#FEE188	0.298158655438543
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	18	5	mental	#FEE188	0.233956975890888
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	19	5	go	#FEE188	0.254494559403818
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	20	5	object	#FFF1A9	0.144745829398824
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	21	5		#FEE188	0.22386174724519
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	22	5		#FFF1A9	0.190464205939588
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	23	5	word|words	#FFF1A9	0.116006441848787
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	1	6		#FD913D	0.543476078461079
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	2	6		#FDAD4A	0.489729070499822
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	3	6		#FDAD4A	0.491318352556052
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	4	6	vocal	#FECB68	0.357808814547377
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	5	6	articulatory	#FEE188	0.287353825100068
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	6	6		#FDAD4A	0.441718650735863
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	7	6	oddball	#FEE188	0.269599754156224
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	8	6	perceived	#FEE188	0.282834618281009
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	9	6	errorrelated	#FEE188	0.280464073042721
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	10	6	approach	#FC622F	0.622614014727361
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	11	6	schizophrenia	#FD913D	0.502102569296865
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	12	6	acquisition	#FECB68	0.384066624245851
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	13	6		#FECB68	0.349683415745514
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	14	6		#FFF1A9	0.174752593305291
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	15	6		#FFF1A9	0.187980875744453
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	16	6		#FFF1A9	0.194196428609169
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	17	6		#FEE188	0.207093614937963
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	18	6		#FEE188	0.201738002583294
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	19	6		#FEE188	0.223623704416934
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	20	6	objects	#FEE188	0.204736528560382
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	21	6		#FEE188	0.226313931872878
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	22	6		#FFF1A9	0.164576888381477
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	23	6	language|semantic	#FFFFCC	0.0902309812828136
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	1	7	dopamine|dopaminergic	#FC622F	0.636151256619221
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	2	7		#F03623	0.755960120810585
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	3	7		#FC622F	0.667065491530904
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	4	7		#FD913D	0.559066249662284
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	5	7		#FD913D	0.500859446187334
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	6	7		#FDAD4A	0.43130891902636
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	7	7		#FECB68	0.395594990672131
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	8	7		#FECB68	0.367553723955611
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	9	7		#FDAD4A	0.427285688790807
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	10	7		#FECB68	0.379722669691931
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	11	7		#FECB68	0.392599668484315
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	12	7		#FECB68	0.307803004150297
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	13	7	linguistic|spoken	#FFFFCC	0.0651178120267833
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	14	7		#FFFFCC	0.0962231325473458
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	15	7	comprehension|sentence|sentences|syntactic	#FFFFCC	0.0547628697639149
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	16	7		#FFF1A9	0.100138518095519
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	17	7		#FFF1A9	0.14541503931832
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	18	7	phonological|reading|read	#FFF1A9	0.142297306220113
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	19	7		#FEE188	0.206998010491344
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	20	7	perceptual|recognition	#FEE188	0.29014820105975
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	21	7		#FEE188	0.244683395086342
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	22	7		#FFF1A9	0.198569002077895
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	23	7	verb	#FEE188	0.219404344283565
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	1	8	outcome|reward	#D7141E	0.832961383797613
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	2	8	anticipation	#F03623	0.741175031788399
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	3	8	outcomes	#F03623	0.701963004723017
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	4	8	choice|choices	#FD913D	0.531437674661894
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	5	8	decisions|probability	#FECB68	0.301329460615872
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	6	8	reversal	#FECB68	0.388125440568721
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	7	8	classification|incorrect	#FECB68	0.363711893578883
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	8	8		#FECB68	0.379893505744151
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	9	8	agerelated|fluency|probes	#FEE188	0.24850083939272
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	10	8	engaged	#FFF1A9	0.179135489712904
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	11	8	explicit|knowledge	#FEE188	0.223353998004394
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	12	8		#FFF1A9	0.175446673867155
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	13	8		#FFF1A9	0.107566950218957
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	14	8		#FFFFCC	0.0808444393774362
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	15	8		#FFFFCC	0.076950632988288
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	16	8		#FFFFCC	0.0965838741682611
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	17	8	lexical	#FFF1A9	0.120517358450933
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	18	8		#FFF1A9	0.182276060512196
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	19	8		#FEE188	0.212493045481063
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	20	8		#FEE188	0.252237289222244
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	21	8	encoding	#FECB68	0.311643757437329
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	22	8	retrieval	#FEE188	0.263725242532161
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	23	8	verbal	#FEE188	0.286550558526944
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	1	9	incentive|monetary|money|rewards	#FC622F	0.659018165995423
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	2	9	loss	#D7141E	0.822127219701326
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	3	9		#F03623	0.720821961012631
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	4	9		#FC622F	0.616297276810933
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	5	9	decisionmaking	#FECB68	0.343009356145269
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	6	9		#FDAD4A	0.412519755824616
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	7	9		#FECB68	0.379799125670654
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	8	9		#FECB68	0.353216374492336
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	9	9		#FECB68	0.300086142796762
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	10	9		#FEE188	0.217865080754074
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	11	9		#FFF1A9	0.161443796159562
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	12	9		#FFF1A9	0.145464517650716
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	13	9	noun	#FFFFCC	0.098892604085036
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	14	9	meaning	#FFFFCC	0.0573805211718744
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	15	9	english	#FFFFCC	0.063873368594096
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	16	9	pseudoword|pseudowords	#FFF1A9	0.153138719659121
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	17	9		#FFF1A9	0.127435856145467
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	18	9		#FEE188	0.205740063413087
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	19	9	familiar|judgment	#FEE188	0.260090463937466
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	20	9	pair|pairs	#FFF1A9	0.167393559781061
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	21	9		#FECB68	0.300487165519818
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	22	9		#FEE188	0.276867854810736
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	23	9	letter|working	#FEE188	0.224345048298345
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	1	10	losses|reinforcement|win	#F03623	0.7203068820327
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	2	10	gain	#F03623	0.708972635665423
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	3	10	expectation	#FD913D	0.580565734567425
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	4	10	risk	#FC622F	0.660816815309829
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	5	10	fact	#FD913D	0.522085126992655
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	6	10	associative	#FDAD4A	0.408236755060945
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	7	10	familiarity|judgments|old	#FEE188	0.218529224881342
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	8	10	contextual|text	#FEE188	0.263882862782258
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	9	10	recall|retrieved	#FEE188	0.232363092333962
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	10	10	conceptual|semantically	#FFFFCC	0.070749539412076
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	11	10	grammatical|speakers	#FFFFCC	0.0959039422466376
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	12	10	nouns	#FFF1A9	0.104836586026563
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	13	10	japanese	#FFFFCC	0.0620613474505906
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	14	10	languages	#FFFFCC	0.0548570826826923
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	15	10	written	#FFF1A9	0.126831407461603
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	16	10	chinese|phonology	#FFFFCC	0.0650992667107255
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	17	10	orthographic	#FFFFCC	0.0768518566062983
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	18	10		#FEE188	0.224033162914997
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	19	10		#FEE188	0.277809043923238
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	20	10	association|decision	#FECB68	0.398953207133906
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	21	10	selection	#FEE188	0.295648539784974
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	22	10	letters	#FFF1A9	0.17125843083997
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	23	10	demand|load	#FFF1A9	0.158245925296565
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	1	11	conditioned|conditioning	#FC622F	0.673247670486797
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	2	11		#D7141E	0.887745030602899
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	3	11	drug|placebo	#F03623	0.764838064377674
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	4	11		#F03623	0.79774759976586
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	5	11	associations	#FC622F	0.600208293770413
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	6	11		#FDAD4A	0.499097370141327
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	7	11	episodic|recollection	#FECB68	0.325103620794253
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	8	11		#FDAD4A	0.412396452967608
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	9	11		#FEE188	0.243646297693964
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	10	11	concepts	#FFF1A9	0.11766970659576
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	11	11		#FFF1A9	0.148943104477484
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	12	11		#FFF1A9	0.143268840541262
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	13	11	german	#FFF1A9	0.178666826271052
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	14	11	readers	#FFFFCC	0.0888727328626641
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	15	11	character|name|naming	#FFF1A9	0.178805937001854
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	16	11		#FFF1A9	0.185345767341829
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	17	11	novel	#FEE188	0.207925637064093
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	18	11		#FEE188	0.215886118996677
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	19	11	child|children	#FFF1A9	0.13312982130094
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	20	11	adults	#FECB68	0.322371266197628
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	21	11	ability|feedback|learning	#FC622F	0.620557620115714
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	22	11	cues|delay	#FECB68	0.325774015811199
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	23	11	attentional|difficulty|targets	#FFF1A9	0.151718877079935
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	1	12	aversive|shock	#FC622F	0.699453859305081
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	2	12	reactivity	#D7141E	0.833806101356636
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	3	12	males|sex|women	#FC622F	0.665322175089346
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	4	12	animal	#FC622F	0.699630647717826
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	5	12	animals	#FECB68	0.377856550767787
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	6	12		#FD913D	0.55505357396621
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	7	12	remember|subsequent	#FDAD4A	0.43828410079918
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	8	12	autobiographical|memories	#FECB68	0.396509763627927
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	9	12		#FEE188	0.257099088561137
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	10	12	violation|violations	#FFFFCC	0.0427282949420898
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	11	12	aphasia	#FFF1A9	0.198745068422237
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	12	12	nonwords	#FFF1A9	0.124599849577528
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	13	12	dyslexia	#FFF1A9	0.134583378767765
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	14	12		#FFF1A9	0.172884532746928
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	15	12	priming	#FFF1A9	0.190885433140584
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	16	12		#FEE188	0.240465216820485
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	17	12	category|repetition	#FEE188	0.222276784859418
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	18	12		#FEE188	0.246851842011734
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	19	12	developmental|development	#FFF1A9	0.149154031811446
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	20	12		#FEE188	0.26176266798141
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	21	12	space	#FEE188	0.288062522186798
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	22	12		#FEE188	0.215306441816483
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	23	12	color	#FFF1A9	0.110032997962617
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	1	13	threat	#B10026	0.907150132036823
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	2	13	regulation	#B10026	0.903351994236353
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	3	13		#B10026	0.910538606562044
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	4	13	masked	#FD913D	0.597550274308197
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	5	13	scene|scenes	#FDAD4A	0.423100635391019
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	6	13		#FD913D	0.57292543149965
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	7	13	confidence|remembered	#FECB68	0.376841652414704
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	8	13		#FD913D	0.526797724848353
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	9	13		#FECB68	0.310741098083727
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	10	13	ambiguity|ambiguous	#FFFFCC	0.0301702517902226
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	11	13		#FFF1A9	0.190888418704776
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	12	13		#FEE188	0.210148110893454
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	13	13	writing	#FFF1A9	0.0998136197238181
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	14	13		#FEE188	0.230985734660865
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	15	13	categorization|congruency|prime	#FFF1A9	0.153863107044011
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	16	13		#FEE188	0.268771427826581
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	17	13	mask	#FECB68	0.321383133106133
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	18	13		#FEE188	0.266899972793097
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	19	13		#FEE188	0.239955959959132
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	20	13		#FFF1A9	0.183824123719875
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	21	13	conflict|congruent|incongruent	#FFFFCC	0.0672178367547424
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	22	13	errors	#FEE188	0.199743687315939
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	23	13	maintenance|probe|wm	#FFF1A9	0.15396464706331
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	1	14	angry|fearful|happy	#B10026	0.97163035277691
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	2	14		#B10026	0.985142695462205
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	3	14	awareness|conscious|ptsd	#F03623	0.710828117670488
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	4	14		#FC622F	0.695967125139186
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	5	14	houses|photographs	#FDAD4A	0.418219271014356
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	6	14		#FC622F	0.621523943424093
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	7	14	hits	#FD913D	0.516646567178448
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	8	14	famous	#FDAD4A	0.426190635884496
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	9	14	names	#FEE188	0.28634995889124
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	10	14	family	#FECB68	0.361005208164076
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	11	14	competition|mouth	#FFF1A9	0.125558179534461
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	12	14	abilities	#FEE188	0.238680507626032
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	13	14	implicit|unfamiliar	#FECB68	0.327459652517181
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	14	14		#FEE188	0.27715514644068
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	15	14	tom	#FFF1A9	0.180989602015648
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	16	14		#FEE188	0.269172475273937
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	17	14		#FEE188	0.257525565483691
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	18	14	stop	#FFF1A9	0.192250944024246
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	19	14	inhibition|inhibitory|nogo	#FEE188	0.244408541508383
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	20	14	monitoring|stroop	#FFFFCC	0.0892695955322475
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	21	14	interference	#FFFFCC	0.0564360118751797
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	22	14		#FFF1A9	0.169365649230893
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	23	14	demands|executive	#FFF1A9	0.188230764778739
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	1	15	anger	#B10026	0.936056352398703
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	2	15	stress	#B10026	0.957498954569596
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	3	15	feelings	#FD913D	0.538522239708845
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	4	15	salient	#FC622F	0.690379071298108
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	5	15	novelty	#FD913D	0.555692674044821
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	6	15	movie	#FDAD4A	0.433301068090666
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	7	15		#FD913D	0.53868433112778
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	8	15		#FDAD4A	0.460499201615668
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	9	15	longterm	#FFF1A9	0.196997578467412
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	10	15		#FEE188	0.228198037365901
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	11	15	reasoning|relational	#FFFFCC	0.0520232007439717
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	12	15		#FEE188	0.203335944357392
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	13	15	presentations	#FFF1A9	0.14183805861801
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	14	15		#FEE188	0.268060996275238
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	15	15	identity	#FECB68	0.363810403477286
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	16	15		#FEE188	0.236550740579458
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	17	15	strategies|strategy	#FEE188	0.219000523551135
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	18	15	card|cards	#FEE188	0.256393802302622
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	19	15	gonogo	#FECB68	0.306948454785299
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	20	15		#FFF1A9	0.188070203343595
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	21	15	switching|switch	#FEE188	0.229579395546393
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	22	15		#FFF1A9	0.174065718998768
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	23	15	2back|rule	#FEE188	0.225296299963885
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	1	16	emotionally|mood|personality|sadness	#B10026	0.910047194217047
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	2	16	disgust|sexual	#FD913D	0.5729556210716
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	3	16	olfactory	#D7141E	0.843555752501839
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	4	16	physiological	#FD913D	0.592150385050298
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	5	16	depressed|depressive|habituation	#F03623	0.787224294362302
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	6	16	schizophrenic	#FECB68	0.345203649017199
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	7	16	colors|contexts	#FEE188	0.267023061833464
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	8	16	aging|encoded	#FEE188	0.270754135493073
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	9	16	goal	#FFFFCC	0.0569670569331898
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	10	16		#FFF1A9	0.171546264283174
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	11	16	autism|autistic|nonverbal	#FFF1A9	0.149151813945745
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	12	16		#FFF1A9	0.17348270487269
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	13	16	bottomup|repetitions	#FFF1A9	0.1374432082262
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	14	16	adaptation	#FFF1A9	0.185897852833096
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	15	16	irrelevant	#FFFFCC	0.0718869744058803
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	16	16	distractor|distractors	#FFFFCC	0.0957035543864058
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	17	16		#FEE188	0.224614763869335
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	18	16	subtraction	#FFFFCC	0.0863394175869519
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	19	16	1back|nback	#FEE188	0.214267703915499
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	20	16	manipulation|rules	#FFF1A9	0.139184267746752
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	21	16		#FFF1A9	0.172707400430474
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	22	16		#FFF1A9	0.141225542816753
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	23	16	digit	#FFF1A9	0.160119099557248
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	1	17	avoidance	#B10026	0.918404209723236
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	2	17		#B10026	1
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	3	17	eating|food	#FC622F	0.624775338081528
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	4	17	taste	#FD913D	0.518255804868472
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	5	17	bipolar	#FC622F	0.671721278437876
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	6	17	illness|uncertainty	#FDAD4A	0.485216338992086
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	7	17	females|probabilistic	#FEE188	0.281917899970191
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	8	17	rejection	#FEE188	0.248273844088543
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	9	17	colour|paired	#FECB68	0.316973981333684
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	10	17		#FEE188	0.224594380809056
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	11	17		#FEE188	0.202804056649991
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	12	17		#FFF1A9	0.180167606127258
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	13	17	taskirrelevant	#FFF1A9	0.104103825255393
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	14	17		#FFFFCC	0.0878542096304404
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	15	17	suppression	#FFFFCC	0.0316717190315462
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	16	17		#FFF1A9	0.134382175460033
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	17	17	shifting|shortterm	#FEE188	0.280899853041937
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	18	17	digits	#FFFFCC	0.0893422982820222
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	19	17	search	#FFF1A9	0.139947591752735
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	20	17	counting|taskrelated	#FFF1A9	0.190436650861776
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	21	17	topdown	#FFF1A9	0.110734112854038
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	22	17	visuospatial	#FFFFCC	0.021523446492302
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	23	17	arithmetic|calculation|solving	#FFFFCC	0.0667377561693656
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	1	18	addiction|craving|drugs	#D7141E	0.883099372329914
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	2	18	allele|genotype|polymorphism	#D7141E	0.846736977931682
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	3	18	motivation	#FD913D	0.500429105191339
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	4	18	heart	#F03623	0.734579305616177
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	5	18	sleep	#FDAD4A	0.452758741038741
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	6	18	expectancy	#FEE188	0.28839091579128
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	7	18	phasic|salience	#FDAD4A	0.459729952457448
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	8	18	adolescence|adolescents	#FEE188	0.251668395051522
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	9	18	intelligence|tracking	#FEE188	0.21241917317094
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	10	18		#FEE188	0.28288929205485
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	11	18	serial	#FEE188	0.262801377951986
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	12	18		#FFF1A9	0.180101465884604
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	13	18	spatially|taskrelevant	#FFFFCC	0.0803917866529425
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	14	18		#FFFFCC	0.0505439766147311
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	15	18	attended|attend|unattended	#FFFFCC	0.00590008664847247
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	16	18	rotation|shapes	#FFFFCC	0.00257830464923692
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	17	18	rehearsal	#FEE188	0.257649705249651
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	18	18	learned	#FDAD4A	0.445891114645878
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	19	18		#FEE188	0.221291526003453
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	20	18	cued|preparatory	#FFFFCC	0.0528870215047581
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	21	18		#FEE188	0.205720265451831
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	22	18		#FFF1A9	0.156110496188451
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	23	18	numbers|numerical	#FFFFCC	0.0386817587826003
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	1	19	future	#FC622F	0.683890811568177
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	2	19	negatively	#FC622F	0.664380919518836
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	3	19	distress|epilepsy|selfreported	#D7141E	0.830220939819844
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	4	19	anticipatory|cocaine|probabilities|smoking	#FDAD4A	0.48947939539482
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	5	19	alcohol|amount|impulsivity	#FDAD4A	0.495605240483197
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	6	19	game|success	#FEE188	0.247867400120179
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	7	19	adhd|childhood|engagement	#FECB68	0.313352248682508
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	8	19		#FDAD4A	0.43232112733567
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	9	19		#FECB68	0.359199473915094
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	10	19		#FEE188	0.279524483348847
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	11	19		#FEE188	0.248383705414978
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	12	19	endogenous	#FFF1A9	0.190748373072955
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	13	19	cueing|invalid|orienting	#FFFFCC	0.00547140029049057
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	14	19		#FFFFCC	0.0488386125740667
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	15	19	multisensory	#FFFFCC	0.037869335183666
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	16	19		#FFFFCC	0.0725554200040949
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	17	19	shifts	#FFF1A9	0.147634813739051
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	18	19	covert	#FFF1A9	0.130904206376747
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	19	19		#FFF1A9	0.193746457906485
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	20	19	preparation	#FFF1A9	0.178046249188552
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	21	19	discrimination|training	#FEE188	0.202269651095987
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	22	19	sequences	#FECB68	0.359499353721919
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	23	19		#FECB68	0.335639190865295
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	1	20	personal|self|selfreferential|trait|traits	#FD913D	0.552364739315465
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	2	20	empathic|theory	#FDAD4A	0.409943565532278
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	3	20	attribution|intentional	#FFF1A9	0.149081471774837
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	4	20	elderly|oscillations	#FEE188	0.217349722490355
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	5	20	antipsychotic|virtual	#FFF1A9	0.183333442213263
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	6	20		#FD913D	0.516310103550588
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	7	20	experiences	#FECB68	0.335550697112273
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	8	20	categorical|pressure	#FECB68	0.319610378362974
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	9	20	play|skills	#FFF1A9	0.131624508318614
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	10	20	automatic|trained	#FFF1A9	0.170130576551716
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	11	20		#FECB68	0.31509928424826
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	12	20	practice	#FEE188	0.232741409175466
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	13	20	visuomotor	#FFF1A9	0.119638471516249
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	14	20		#FFF1A9	0.12931281612804
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	15	20	tool	#FFFFCC	0.0103391384263534
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	16	20	vision	#FFFFCC	0.0158739797594947
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	17	20	visually	#FFF1A9	0.115771864315751
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	18	20	saccade|saccades|saccadic	#FFFFCC	0.0752355501472775
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	19	20	locations	#FFF1A9	0.0998970626775768
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	20	20	imagery|planning	#FEE188	0.222515595766075
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	21	20		#FEE188	0.276128461309782
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	22	20	rest	#FEE188	0.26462125728116
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	23	20	sequence	#FECB68	0.386305808123925
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	1	21	scenarios	#FFF1A9	0.156328240969351
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	2	21	intention|intentions	#FFF1A9	0.198449231717241
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	3	21	causality|perspective	#FFF1A9	0.183556825838
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	4	21	past	#FFF1A9	0.106234207020487
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	5	21		#FDAD4A	0.453340925697918
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	6	21	episode	#FECB68	0.312261096507824
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	7	21	improvement	#FEE188	0.268289185219693
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	8	21	masking|retention	#FECB68	0.302757835251915
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	9	21		#FEE188	0.231382923259657
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	10	21	dominant	#FEE188	0.210040915806327
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	11	21		#FECB68	0.353085145101757
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	12	21	sequential	#FECB68	0.364818493362688
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	13	21	fingers	#FEE188	0.269946553337361
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	14	21		#FFF1A9	0.141437244589289
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	15	21	gesture|gestures	#FFFFCC	0
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	16	21		#FFF1A9	0.113816614457634
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	17	21	hands	#FFFFCC	0.0787689154671927
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	18	21		#FFF1A9	0.0999446904209055
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	19	21		#FFFFCC	0.0987293419274573
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	20	21	eye|position	#FFFFCC	0.0719891622497043
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	21	21	execution	#FEE188	0.299435218735291
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	22	21	finger|sensorimotor	#FECB68	0.37972389314017
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	23	21		#FECB68	0.313072291440443
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	1	22	moral|stories|story	#FFF1A9	0.109597244229076
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	2	22	mentalizing|persons	#FEE188	0.24857716251371
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	3	22	default|restingstate	#FEE188	0.267927009198948
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	4	22	thinking|thought|thoughts	#FECB68	0.327732998147535
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	5	22	spontaneous	#FEE188	0.223535187103797
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	6	22	concentration|sensations	#FECB68	0.333667259387483
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	7	22	hierarchical|preference	#FFF1A9	0.122324778159348
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	8	22	effort|oral|simulation	#FEE188	0.271766297369412
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	9	22	interhemispheric|plasticity	#FFFFCC	0.0539479850631056
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	10	22	imagined|imagine	#FFF1A9	0.110925147611104
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	11	22	tapping	#FECB68	0.396038113724346
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	12	22	foot|muscle|muscles|voluntary	#FEE188	0.273139454687899
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	13	22	limb	#FEE188	0.266943594399658
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	14	22	eyes|velocity	#FFF1A9	0.116425178512226
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	15	22	biological|gaze|videos	#FFF1A9	0.143617174479278
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	16	22	body	#FEE188	0.262486428843081
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	17	22	grasping|orientation|reaching	#FFFFCC	0.0317610885560279
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	18	22		#FFFFCC	0.0947901830638689
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	19	22	mirror|shape	#FFFFCC	0.0595629135616755
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	20	22	actions	#FFF1A9	0.126676445653248
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	21	22	action	#FEE188	0.246794728733431
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	22	22		#FEE188	0.278561677198774
+6f232e1b-c3ad-33ff-ac2c-3139b81f3cf4	Furmark T	23	22	hand|movements|sensory	#FEE188	0.256685763975846

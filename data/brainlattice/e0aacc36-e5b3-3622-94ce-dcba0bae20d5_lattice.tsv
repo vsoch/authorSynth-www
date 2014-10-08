@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	1	1	auditory|speech	#FFF1A9	0.111130047512716
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	2	1		#FFF1A9	0.123612411514863
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	3	1	da|integration	#FECB68	0.371564064740758
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	4	1		#FFF1A9	0.180533393041061
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	5	1	physical|psychophysical|tactile	#FFF1A9	0.105590231547173
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	6	1		#FEE188	0.271795239526262
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	7	1	somatosensory|stimulation	#FEE188	0.295253108051155
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	8	1	painful|pain	#FECB68	0.397282443389715
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	9	1		#FDAD4A	0.439061142776365
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	10	1	ratings	#FD913D	0.516944771087807
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	11	1	affective|affect	#FC622F	0.635334352785313
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	12	1	emotions	#FD913D	0.54266221114368
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	13	1	expression|expressions|facial	#FC622F	0.622483769027779
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	14	1		#FD913D	0.573319446102358
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	15	1		#FD913D	0.540696410238854
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	16	1	emotion|motion|neutral	#FDAD4A	0.481734706527261
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	17	1	rating	#FDAD4A	0.437328998184342
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	18	1	negative|positive	#FECB68	0.383759359658537
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	19	1		#FECB68	0.349761337561815
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	20	1	ear|order	#FECB68	0.306879909606157
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	21	1	motor	#FFF1A9	0.16311934952977
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	22	1	visual	#FFFFCC	0.0387799597679682
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	23	1	age|image|response	#FFF1A9	0.145777276944091
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	1	2	sound|sounds	#FFFFCC	0.0985670948320723
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	2	2		#FFF1A9	0.110825359229771
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	3	2	audiovisual|bimodal|crossmodal	#FFFFCC	0.030551410092751
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	4	2		#FFF1A9	0.176279552382194
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	5	2		#FFF1A9	0.1859113625274
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	6	2		#FEE188	0.264100403081102
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	7	2	sensation	#FECB68	0.338297711926655
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	8	2	heat|noxious	#FECB68	0.328596016860604
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	9	2		#FDAD4A	0.436621723074431
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	10	2		#FD913D	0.568048614558583
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	11	2		#FD913D	0.581780951585987
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	12	2	valence	#FD913D	0.568063659600185
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	13	2	person|social	#FDAD4A	0.421683540806887
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	14	2		#FD913D	0.572826905138364
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	15	2	face|faces	#FDAD4A	0.427253130767798
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	16	2		#FDAD4A	0.478400310555161
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	17	2		#FDAD4A	0.459078040198796
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	18	2		#FECB68	0.386241316130995
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	19	2		#FECB68	0.334455472900635
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	20	2		#FEE188	0.248559936956393
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	21	2	images|spatial	#FFF1A9	0.192180829300095
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	22	2	control	#FFF1A9	0.197622423394884
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	23	2	time	#FFF1A9	0.155329619781778
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	1	3	acoustic|listening|musical|music|pitch	#FFFFCC	0.0957319209960949
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	2	3	noise|tones	#FFFFCC	0.0647775327128234
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	3	3		#FFF1A9	0.172001940234393
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	4	3		#FEE188	0.242961544760631
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	5	3	frequency	#FEE188	0.212202204532488
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	6	3		#FECB68	0.377669798687233
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	7	3		#FDAD4A	0.415402409310914
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	8	3	temperature	#FEE188	0.276852500383779
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	9	3		#FDAD4A	0.441073939722438
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	10	3	pleasant|unpleasant	#FEE188	0.264051752358653
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	11	3	anxiety	#FC622F	0.624078483343417
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	12	3		#FC622F	0.642493220523477
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	13	3		#FC622F	0.61196752847935
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	14	3		#FD913D	0.568610523123032
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	15	3		#FD913D	0.528780632223744
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	16	3	picture	#FDAD4A	0.437715695952013
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	17	3		#FDAD4A	0.434330824001497
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	18	3	value	#FDAD4A	0.418978880695763
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	19	3	cue	#FEE188	0.272939556097485
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	20	3	error|target	#FEE188	0.258279754917837
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	21	3	attention	#FFF1A9	0.183497629510921
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	22	3		#FEE188	0.206166457642809
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	23	3	number	#FEE188	0.22357167929354
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	1	4	voice	#FFF1A9	0.161435710329277
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	2	4		#FFF1A9	0.132420245523663
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	3	4	hearing	#FFF1A9	0.119085218919845
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	4	4		#FEE188	0.291811295325734
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	5	4	overt	#FECB68	0.392184389572648
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	6	4		#FECB68	0.39064213609454
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	7	4		#FDAD4A	0.480051862706203
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	8	4	nociceptive|nonpainful|painrelated	#FD913D	0.507880344469738
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	9	4	unpleasantness	#FEE188	0.28342926869906
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	10	4	skin|subjective	#FD913D	0.549802531918151
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	11	4	depression	#FD913D	0.5769014276425
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	12	4	experience	#FC622F	0.610008669760238
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	13	4	female	#FD913D	0.558517581216366
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	14	4	male	#FD913D	0.557110849280785
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	15	4	pictures	#FDAD4A	0.457341687374586
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	16	4		#FDAD4A	0.415389744422617
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	17	4	perception	#FEE188	0.210782500394371
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	18	4		#FEE188	0.281536594477592
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	19	4		#FEE188	0.260070516577351
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	20	4		#FEE188	0.226380906484233
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	21	4	correct	#FEE188	0.270695594756988
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	22	4	work	#FEE188	0.276996515896587
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	23	4	memory	#FEE188	0.237106833574551
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	1	5	prosodic|prosody	#FFFFCC	0.0698295511434116
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	2	5	phonetic	#FFF1A9	0.18047072431326
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	3	5	syllable|syllables	#FFF1A9	0.103779908514007
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	4	5		#FECB68	0.309693681340917
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	5	5	lip|production	#FEE188	0.236326435970829
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	6	5	somatotopic	#FECB68	0.334861166397511
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	7	5		#FD913D	0.507889914840519
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	8	5		#FD913D	0.538186551758165
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	9	5	empathy	#FC622F	0.618134352437542
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	10	5		#FC622F	0.650786597362048
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	11	5	disorder	#FC622F	0.655649628481926
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	12	5		#FC622F	0.609277968589004
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	13	5		#FD913D	0.521210308724553
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	14	5		#FDAD4A	0.441395208458229
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	15	5		#FDAD4A	0.399817204847388
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	16	5		#FECB68	0.321873880349392
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	17	5		#FEE188	0.264091346178926
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	18	5	mental	#FEE188	0.285066387650506
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	19	5	go	#FFF1A9	0.195844164486919
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	20	5	object	#FFFFCC	0
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	21	5		#FEE188	0.211934847933614
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	22	5		#FFF1A9	0.196749190101894
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	23	5	word|words	#FFF1A9	0.122180410445388
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	1	6		#FECB68	0.328069790692492
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	2	6		#FECB68	0.323799469153227
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	3	6		#FECB68	0.335231947206964
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	4	6	vocal	#FECB68	0.354023709736798
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	5	6	articulatory	#FECB68	0.310281871902089
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	6	6		#FDAD4A	0.428140849887143
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	7	6	oddball	#FECB68	0.397786434961556
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	8	6	perceived	#FECB68	0.363738847345552
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	9	6	errorrelated	#FDAD4A	0.488544859536731
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	10	6	approach	#FC622F	0.66480761530312
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	11	6	schizophrenia	#FD913D	0.523043483786371
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	12	6	acquisition	#FD913D	0.510273020651683
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	13	6		#FECB68	0.365692173570463
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	14	6		#FEE188	0.202221432507251
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	15	6		#FFF1A9	0.197209515306996
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	16	6		#FEE188	0.207583423950089
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	17	6		#FEE188	0.245006378253124
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	18	6		#FEE188	0.228513332722098
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	19	6		#FEE188	0.243808194125575
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	20	6	objects	#FFF1A9	0.16323487200143
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	21	6		#FEE188	0.228365672869949
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	22	6		#FFF1A9	0.181753203314145
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	23	6	language|semantic	#FFF1A9	0.10612414360154
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	1	7	dopamine|dopaminergic	#FECB68	0.364322439811684
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	2	7		#FECB68	0.35919886077016
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	3	7		#FDAD4A	0.465299326716819
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	4	7		#FDAD4A	0.493805002481741
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	5	7		#FD913D	0.506858740834539
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	6	7		#FD913D	0.50013644853772
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	7	7		#FDAD4A	0.499563456035844
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	8	7		#FD913D	0.525506845796038
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	9	7		#FD913D	0.566349116329982
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	10	7		#FDAD4A	0.471118571346949
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	11	7		#FDAD4A	0.439574260394078
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	12	7		#FECB68	0.356486045360832
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	13	7	linguistic|spoken	#FFF1A9	0.12637587027764
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	14	7		#FFF1A9	0.152503204006358
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	15	7	comprehension|sentence|sentences|syntactic	#FFFFCC	0.090258191506469
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	16	7		#FFF1A9	0.164683372573791
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	17	7		#FEE188	0.216169346790811
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	18	7	phonological|reading|read	#FEE188	0.215184412367367
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	19	7		#FEE188	0.260252133680752
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	20	7	perceptual|recognition	#FECB68	0.310218709305556
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	21	7		#FEE188	0.289570649591283
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	22	7		#FEE188	0.245158816046179
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	23	7	verb	#FEE188	0.279479654416956
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	1	8	outcome|reward	#FECB68	0.354041960426001
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	2	8	anticipation	#FECB68	0.329056984869736
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	3	8	outcomes	#FECB68	0.333345949020856
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	4	8	choice|choices	#FDAD4A	0.426469228497484
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	5	8	decisions|probability	#FDAD4A	0.401663194587714
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	6	8	reversal	#FD913D	0.524284225287025
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	7	8	classification|incorrect	#FDAD4A	0.43546189341952
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	8	8		#FDAD4A	0.463634003805187
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	9	8	agerelated|fluency|probes	#FDAD4A	0.409726933277647
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	10	8	engaged	#FFF1A9	0.170575459351203
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	11	8	explicit|knowledge	#FECB68	0.311778148234416
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	12	8		#FEE188	0.241867280400453
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	13	8		#FFF1A9	0.181808159131499
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	14	8		#FFF1A9	0.137627526474387
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	15	8		#FFF1A9	0.133548577147548
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	16	8		#FFF1A9	0.159450487506147
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	17	8	lexical	#FEE188	0.241394748687734
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	18	8		#FEE188	0.25276342013065
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	19	8		#FEE188	0.274478949234023
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	20	8		#FECB68	0.308215098983068
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	21	8	encoding	#FECB68	0.321796496692435
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	22	8	retrieval	#FECB68	0.355713597358561
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	23	8	verbal	#FECB68	0.398790458947558
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	1	9	incentive|monetary|money|rewards	#FFF1A9	0.182637282617483
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	2	9	loss	#FECB68	0.361123700343296
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	3	9		#FDAD4A	0.492688281982693
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	4	9		#FD913D	0.538756175447061
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	5	9	decisionmaking	#FDAD4A	0.463647144572138
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	6	9		#FDAD4A	0.482219389300601
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	7	9		#FDAD4A	0.465752635172549
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	8	9		#FDAD4A	0.454347741169343
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	9	9		#FDAD4A	0.409921244816132
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	10	9		#FECB68	0.31147895141643
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	11	9		#FEE188	0.22312632995468
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	12	9		#FFF1A9	0.196186805907432
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	13	9	noun	#FFF1A9	0.110087148880308
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	14	9	meaning	#FFF1A9	0.140378953154449
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	15	9	english	#FFF1A9	0.121498370552107
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	16	9	pseudoword|pseudowords	#FFF1A9	0.135415882125561
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	17	9		#FEE188	0.221988354214879
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	18	9		#FEE188	0.292051781523028
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	19	9	familiar|judgment	#FEE188	0.292560317784252
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	20	9	pair|pairs	#FECB68	0.329781249364748
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	21	9		#FDAD4A	0.404966138809363
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	22	9		#FDAD4A	0.400398610882234
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	23	9	letter|working	#FECB68	0.319548990425205
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	1	10	losses|reinforcement|win	#FEE188	0.259365943700598
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	2	10	gain	#FEE188	0.206220299559675
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	3	10	expectation	#FDAD4A	0.448338053795451
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	4	10	risk	#FD913D	0.518753055663281
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	5	10	fact	#FD913D	0.534904192751237
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	6	10	associative	#FEE188	0.264640817420579
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	7	10	familiarity|judgments|old	#FDAD4A	0.425349829931075
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	8	10	contextual|text	#FECB68	0.398572972962197
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	9	10	recall|retrieved	#FECB68	0.384643172559471
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	10	10	conceptual|semantically	#FEE188	0.234078999875378
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	11	10	grammatical|speakers	#FFFFCC	0.0594774436238842
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	12	10	nouns	#FFF1A9	0.104849695502926
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	13	10	japanese	#FFF1A9	0.185330246716927
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	14	10	languages	#FEE188	0.211942744246138
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	15	10	written	#FFF1A9	0.175668781500345
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	16	10	chinese|phonology	#FFF1A9	0.192992136252104
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	17	10	orthographic	#FFF1A9	0.190093108191696
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	18	10		#FECB68	0.316515615005073
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	19	10		#FECB68	0.360880291223093
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	20	10	association|decision	#FDAD4A	0.442075422051115
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	21	10	selection	#FDAD4A	0.412882889412893
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	22	10	letters	#FDAD4A	0.418872792787982
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	23	10	demand|load	#FECB68	0.384531128672908
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	1	11	conditioned|conditioning	#F03623	0.719502363991259
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	2	11		#FC622F	0.687027131386995
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	3	11	drug|placebo	#F03623	0.791654437673852
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	4	11		#FC622F	0.634090834887443
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	5	11	associations	#FDAD4A	0.447797580354356
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	6	11		#FDAD4A	0.426179115296582
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	7	11	episodic|recollection	#FECB68	0.353112559099583
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	8	11		#FDAD4A	0.414676390595079
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	9	11		#FECB68	0.305562734303394
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	10	11	concepts	#FFFFCC	0.0477323893860726
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	11	11		#FFF1A9	0.153208660318532
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	12	11		#FFF1A9	0.163337237465651
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	13	11	german	#FFF1A9	0.141233017990389
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	14	11	readers	#FEE188	0.235201443903859
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	15	11	character|name|naming	#FEE188	0.273317267405898
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	16	11		#FEE188	0.260255509765515
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	17	11	novel	#FECB68	0.309636378094332
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	18	11		#FECB68	0.334238030538213
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	19	11	child|children	#FEE188	0.293694412854195
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	20	11	adults	#FDAD4A	0.435818956364919
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	21	11	ability|feedback|learning	#FD913D	0.525678372561032
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	22	11	cues|delay	#FDAD4A	0.419920182074351
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	23	11	attentional|difficulty|targets	#FDAD4A	0.400069367198146
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	1	12	aversive|shock	#FC622F	0.685269190793913
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	2	12	reactivity	#D7141E	0.840321079101361
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	3	12	males|sex|women	#FDAD4A	0.447967680589997
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	4	12	animal	#FDAD4A	0.428815215618407
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	5	12	animals	#FFF1A9	0.131877578727063
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	6	12		#FECB68	0.368252900884186
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	7	12	remember|subsequent	#FEE188	0.249037988087149
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	8	12	autobiographical|memories	#FEE188	0.261779539966106
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	9	12		#FEE188	0.261617102059157
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	10	12	violation|violations	#FFFFCC	0.0231055156890565
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	11	12	aphasia	#FFF1A9	0.162187454335366
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	12	12	nonwords	#FFF1A9	0.120381539469685
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	13	12	dyslexia	#FFF1A9	0.167703682821874
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	14	12		#FEE188	0.274473452746133
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	15	12	priming	#FFF1A9	0.197224343961761
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	16	12		#FECB68	0.311288447173486
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	17	12	category|repetition	#FEE188	0.26912355702169
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	18	12		#FECB68	0.353079803380405
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	19	12	developmental|development	#FECB68	0.305972079024475
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	20	12		#FDAD4A	0.46588377410545
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	21	12	space	#FD913D	0.510258752631923
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	22	12		#FDAD4A	0.461742410461558
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	23	12	color	#FECB68	0.395315434782285
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	1	13	threat	#FC622F	0.608650618864585
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	2	13	regulation	#FC622F	0.632266851641473
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	3	13		#FD913D	0.563831532263241
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	4	13	masked	#FECB68	0.322296126702026
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	5	13	scene|scenes	#FECB68	0.310653050520426
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	6	13		#FECB68	0.35526184840289
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	7	13	confidence|remembered	#FDAD4A	0.419622141334292
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	8	13		#FECB68	0.397358393298668
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	9	13		#FEE188	0.289208313475495
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	10	13	ambiguity|ambiguous	#FFFFCC	0.0149607414517868
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	11	13		#FFF1A9	0.169520062612995
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	12	13		#FEE188	0.204003808147396
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	13	13	writing	#FFF1A9	0.141584126905301
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	14	13		#FEE188	0.29141603921217
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	15	13	categorization|congruency|prime	#FFF1A9	0.179023870662366
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	16	13		#FECB68	0.351062447009712
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	17	13	mask	#FEE188	0.299380470005969
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	18	13		#FECB68	0.391792388354995
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	19	13		#FDAD4A	0.440834078910456
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	20	13		#FD913D	0.518107460504435
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	21	13	conflict|congruent|incongruent	#FD913D	0.594346457623309
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	22	13	errors	#FDAD4A	0.452402225631807
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	23	13	maintenance|probe|wm	#FDAD4A	0.401069586725966
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	1	14	angry|fearful|happy	#FC622F	0.652415122881346
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	2	14		#FC622F	0.634535511072037
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	3	14	awareness|conscious|ptsd	#FEE188	0.290189206607209
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	4	14		#FECB68	0.388340201209183
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	5	14	houses|photographs	#FFFFCC	0.0377304268525059
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	6	14		#FECB68	0.390017398980977
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	7	14	hits	#FECB68	0.363421914575941
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	8	14	famous	#FEE188	0.24202683901279
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	9	14	names	#FFFFCC	0.0763710168346777
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	10	14	family	#FEE188	0.257319574921039
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	11	14	competition|mouth	#FFFFCC	0.0855313892410478
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	12	14	abilities	#FFF1A9	0.199325076423236
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	13	14	implicit|unfamiliar	#FEE188	0.220836193108344
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	14	14		#FECB68	0.316510405399329
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	15	14	tom	#FDAD4A	0.490560928426849
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	16	14		#FDAD4A	0.414437856628729
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	17	14		#FDAD4A	0.419896730661195
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	18	14	stop	#FECB68	0.353840656420875
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	19	14	inhibition|inhibitory|nogo	#FDAD4A	0.423574462558465
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	20	14	monitoring|stroop	#FC622F	0.6566324767322
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	21	14	interference	#FD913D	0.511585149782948
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	22	14		#FDAD4A	0.478319896520817
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	23	14	demands|executive	#FECB68	0.36228541443773
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	1	15	anger	#FD913D	0.553427613731728
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	2	15	stress	#FD913D	0.510754200110949
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	3	15	feelings	#FECB68	0.311992617707598
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	4	15	salient	#FECB68	0.372618336080792
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	5	15	novelty	#FDAD4A	0.435157457202466
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	6	15	movie	#FEE188	0.254149823374742
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	7	15		#FECB68	0.343946037207695
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	8	15		#FECB68	0.394217569484587
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	9	15	longterm	#FDAD4A	0.485995150319065
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	10	15		#FECB68	0.395837743718874
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	11	15	reasoning|relational	#FFFFCC	0.0898326863719527
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	12	15		#FECB68	0.313156792452289
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	13	15	presentations	#FEE188	0.20375589937336
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	14	15		#FECB68	0.354115824222864
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	15	15	identity	#FECB68	0.373275557238359
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	16	15		#FDAD4A	0.466209139216065
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	17	15	strategies|strategy	#FECB68	0.314753040471802
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	18	15	card|cards	#FFF1A9	0.193905598491988
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	19	15	gonogo	#FD913D	0.516915381144261
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	20	15		#FD913D	0.511389024586489
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	21	15	switching|switch	#FECB68	0.328977802724207
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	22	15		#FDAD4A	0.47414091176399
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	23	15	2back|rule	#FECB68	0.37057739651811
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	1	16	emotionally|mood|personality|sadness	#FD913D	0.598439203059682
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	2	16	disgust|sexual	#FECB68	0.35926576871473
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	3	16	olfactory	#FDAD4A	0.458630470938053
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	4	16	physiological	#FDAD4A	0.490254133775963
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	5	16	depressed|depressive|habituation	#FD913D	0.560057259399915
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	6	16	schizophrenic	#FFF1A9	0.144392174947434
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	7	16	colors|contexts	#FFFFCC	0.0715773612669429
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	8	16	aging|encoded	#FECB68	0.355483052232468
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	9	16	goal	#FEE188	0.231420998610029
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	10	16		#FDAD4A	0.442036589638986
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	11	16	autism|autistic|nonverbal	#FD913D	0.51804254323075
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	12	16		#FDAD4A	0.400433559690222
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	13	16	bottomup|repetitions	#FECB68	0.374515065375169
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	14	16	adaptation	#FEE188	0.278007691648413
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	15	16	irrelevant	#FDAD4A	0.494483468934197
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	16	16	distractor|distractors	#FECB68	0.310113378415808
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	17	16		#FDAD4A	0.419363011562331
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	18	16	subtraction	#FDAD4A	0.444592969616538
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	19	16	1back|nback	#FECB68	0.370549769094665
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	20	16	manipulation|rules	#FEE188	0.297385475938565
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	21	16		#FECB68	0.37825647015821
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	22	16		#FECB68	0.330017440954155
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	23	16	digit	#FEE188	0.254983934237562
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	1	17	avoidance	#FC622F	0.659873673425445
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	2	17		#D7141E	0.803157862666027
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	3	17	eating|food	#FECB68	0.318216238885887
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	4	17	taste	#FEE188	0.297748258594605
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	5	17	bipolar	#FEE188	0.297912888941435
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	6	17	illness|uncertainty	#FEE188	0.240788500031314
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	7	17	females|probabilistic	#FFF1A9	0.144490386652509
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	8	17	rejection	#FEE188	0.261244976637733
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	9	17	colour|paired	#FEE188	0.218819339182386
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	10	17		#FDAD4A	0.475423796895501
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	11	17		#FDAD4A	0.42802542087378
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	12	17		#FD913D	0.502006064870583
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	13	17	taskirrelevant	#FD913D	0.50850152782981
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	14	17		#FECB68	0.376786063384177
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	15	17	suppression	#FEE188	0.280772370032477
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	16	17		#FECB68	0.32874003840761
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	17	17	shifting|shortterm	#FEE188	0.264655127849525
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	18	17	digits	#FEE188	0.283695024162624
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	19	17	search	#FDAD4A	0.412360941639202
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	20	17	counting|taskrelated	#FECB68	0.398572563053726
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	21	17	topdown	#FEE188	0.276859400066437
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	22	17	visuospatial	#FEE188	0.205078975935269
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	23	17	arithmetic|calculation|solving	#FEE188	0.257706898680359
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	1	18	addiction|craving|drugs	#B10026	1
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	2	18	allele|genotype|polymorphism	#FC622F	0.641080623516335
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	3	18	motivation	#FFF1A9	0.182046676381674
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	4	18	heart	#FD913D	0.547089269126622
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	5	18	sleep	#FEE188	0.216839481459605
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	6	18	expectancy	#FDAD4A	0.399876741415932
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	7	18	phasic|salience	#F03623	0.704775356019322
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	8	18	adolescence|adolescents	#FDAD4A	0.409574027363012
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	9	18	intelligence|tracking	#FFF1A9	0.174501227573362
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	10	18		#FD913D	0.502536455417537
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	11	18	serial	#FDAD4A	0.446708850143157
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	12	18		#FD913D	0.556130568154103
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	13	18	spatially|taskrelevant	#FC622F	0.633609366395546
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	14	18		#FECB68	0.362802569209712
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	15	18	attended|attend|unattended	#FFF1A9	0.115279754301387
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	16	18	rotation|shapes	#FEE188	0.218930422027466
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	17	18	rehearsal	#FEE188	0.281206977282028
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	18	18	learned	#FDAD4A	0.415247215502314
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	19	18		#FDAD4A	0.441072042835354
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	20	18	cued|preparatory	#FECB68	0.397625809385521
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	21	18		#FECB68	0.398353159049529
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	22	18		#FECB68	0.321875236122348
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	23	18	numbers|numerical	#FEE188	0.224194678522827
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	1	19	future	#FD913D	0.572301365446199
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	2	19	negatively	#F03623	0.757184929058422
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	3	19	distress|epilepsy|selfreported	#FECB68	0.324788286971769
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	4	19	anticipatory|cocaine|probabilities|smoking	#FECB68	0.373104150745062
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	5	19	alcohol|amount|impulsivity	#FEE188	0.235118314394753
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	6	19	game|success	#FEE188	0.276108734230921
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	7	19	adhd|childhood|engagement	#FECB68	0.392932307011131
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	8	19		#FC622F	0.684674997241149
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	9	19		#FC622F	0.638742802940388
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	10	19		#FD913D	0.579782173988456
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	11	19		#FD913D	0.505186623182641
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	12	19	endogenous	#FECB68	0.334298108600814
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	13	19	cueing|invalid|orienting	#FECB68	0.389143701295167
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	14	19		#FECB68	0.321975070847041
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	15	19	multisensory	#FFF1A9	0.104161055176651
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	16	19		#FEE188	0.238744169471726
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	17	19	shifts	#FEE188	0.263589423557855
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	18	19	covert	#FECB68	0.350744217993107
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	19	19		#FECB68	0.365836021616105
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	20	19	preparation	#FECB68	0.354646100243116
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	21	19	discrimination|training	#FECB68	0.350830563649366
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	22	19	sequences	#FECB68	0.323651006928897
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	23	19		#FECB68	0.320693180766523
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	1	20	personal|self|selfreferential|trait|traits	#FDAD4A	0.472730171146709
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	2	20	empathic|theory	#FD913D	0.570683685079218
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	3	20	attribution|intentional	#FFFFCC	0.0976859926668501
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	4	20	elderly|oscillations	#FEE188	0.204160255709871
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	5	20	antipsychotic|virtual	#FFF1A9	0.139623128432329
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	6	20		#FD913D	0.521762720164911
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	7	20	experiences	#FDAD4A	0.492662756206388
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	8	20	categorical|pressure	#FECB68	0.351279458293911
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	9	20	play|skills	#FC622F	0.654391722883754
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	10	20	automatic|trained	#FD913D	0.532438943000658
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	11	20		#FD913D	0.503466968914471
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	12	20	practice	#FDAD4A	0.419132496522765
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	13	20	visuomotor	#FEE188	0.228822315771849
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	14	20		#FEE188	0.297994080483591
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	15	20	tool	#FFF1A9	0.168686061750471
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	16	20	vision	#FFFFCC	0.0409980863893885
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	17	20	visually	#FEE188	0.257721931742392
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	18	20	saccade|saccades|saccadic	#FFF1A9	0.113331277368194
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	19	20	locations	#FEE188	0.24595614378685
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	20	20	imagery|planning	#FDAD4A	0.414736984532934
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	21	20		#FECB68	0.352930711016734
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	22	20	rest	#FEE188	0.26328022248381
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	23	20	sequence	#FECB68	0.306780915470355
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	1	21	scenarios	#FFF1A9	0.122632181849319
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	2	21	intention|intentions	#FECB68	0.329274093456358
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	3	21	causality|perspective	#FEE188	0.291328264761934
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	4	21	past	#FFF1A9	0.18840910766492
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	5	21		#FD913D	0.536978118904761
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	6	21	episode	#FD913D	0.591719153325267
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	7	21	improvement	#FDAD4A	0.444276279771539
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	8	21	masking|retention	#FDAD4A	0.40810248325935
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	9	21		#FD913D	0.579211275012287
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	10	21	dominant	#FECB68	0.306292413656854
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	11	21		#FECB68	0.37855045945566
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	12	21	sequential	#FECB68	0.37304093562445
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	13	21	fingers	#FFF1A9	0.123435813337959
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	14	21		#FFF1A9	0.178499830773172
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	15	21	gesture|gestures	#FFF1A9	0.156119116338002
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	16	21		#FFF1A9	0.152121960933415
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	17	21	hands	#FFF1A9	0.104636948137423
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	18	21		#FFF1A9	0.182829544909997
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	19	21		#FEE188	0.199903268041005
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	20	21	eye|position	#FEE188	0.243511499679452
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	21	21	execution	#FECB68	0.357326636671889
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	22	21	finger|sensorimotor	#FFF1A9	0.181901925684268
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	23	21		#FFF1A9	0.190403271453587
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	1	22	moral|stories|story	#FEE188	0.228440228934287
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	2	22	mentalizing|persons	#FEE188	0.216361345186448
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	3	22	default|restingstate	#FEE188	0.298366079372687
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	4	22	thinking|thought|thoughts	#FECB68	0.309542426422589
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	5	22	spontaneous	#FECB68	0.388193908504797
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	6	22	concentration|sensations	#FDAD4A	0.482975989000812
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	7	22	hierarchical|preference	#FECB68	0.311515521492771
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	8	22	effort|oral|simulation	#FEE188	0.270527521173299
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	9	22	interhemispheric|plasticity	#FDAD4A	0.432447685214864
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	10	22	imagined|imagine	#FECB68	0.325988697114073
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	11	22	tapping	#FEE188	0.288253302678106
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	12	22	foot|muscle|muscles|voluntary	#FEE188	0.243122922843587
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	13	22	limb	#FFF1A9	0.174291455993288
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	14	22	eyes|velocity	#FFFFCC	0.0368131346697941
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	15	22	biological|gaze|videos	#FFFFCC	0.0523813809897515
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	16	22	body	#FFF1A9	0.191356726583094
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	17	22	grasping|orientation|reaching	#FFFFCC	0.0657432549347227
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	18	22		#FFF1A9	0.170068077670343
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	19	22	mirror|shape	#FFF1A9	0.148274380236326
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	20	22	actions	#FFF1A9	0.128147365498731
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	21	22	action	#FEE188	0.207331229118703
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	22	22		#FFF1A9	0.185426846784853
+e0aacc36-e5b3-3622-94ce-dcba0bae20d5	Kamio Y	23	22	hand|movements|sensory	#FFF1A9	0.103843522314937

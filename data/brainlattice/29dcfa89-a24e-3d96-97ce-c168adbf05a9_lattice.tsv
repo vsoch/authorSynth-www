@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	1	1	auditory|speech	#FFFFCC	0.0937736358749738
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	2	1		#FFF1A9	0.116886811280203
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	3	1	da|integration	#FEE188	0.244613921187099
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	4	1		#FECB68	0.335800641514896
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	5	1	physical|psychophysical|tactile	#FECB68	0.357776894132628
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	6	1		#FECB68	0.349851964072268
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	7	1	somatosensory|stimulation	#FECB68	0.335583303439119
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	8	1	painful|pain	#FFF1A9	0.192451257718117
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	9	1		#FEE188	0.250659152291843
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	10	1	ratings	#FECB68	0.328301243787661
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	11	1	affective|affect	#FECB68	0.391707285675379
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	12	1	emotions	#FECB68	0.340641364159352
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	13	1	expression|expressions|facial	#FDAD4A	0.495119350528572
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	14	1		#FDAD4A	0.47546368316652
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	15	1		#FDAD4A	0.425589850131012
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	16	1	emotion|motion|neutral	#FDAD4A	0.40112753549354
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	17	1	rating	#FECB68	0.352843765862728
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	18	1	negative|positive	#FECB68	0.368290045906809
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	19	1		#FDAD4A	0.419390692411176
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	20	1	ear|order	#FECB68	0.388895228576795
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	21	1	motor	#FEE188	0.241301905131148
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	22	1	visual	#FEE188	0.271616052122147
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	23	1	age|image|response	#FEE188	0.267288207358321
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	1	2	sound|sounds	#FFFFCC	0.0665689739022251
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	2	2		#FFF1A9	0.0994895474334166
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	3	2	audiovisual|bimodal|crossmodal	#FEE188	0.208828361651565
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	4	2		#FECB68	0.382807857148061
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	5	2		#FDAD4A	0.448930276579973
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	6	2		#FDAD4A	0.403722920607379
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	7	2	sensation	#FEE188	0.288594956583722
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	8	2	heat|noxious	#FFFFCC	0.0828706925119597
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	9	2		#FEE188	0.265925652909522
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	10	2		#FECB68	0.307884892365737
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	11	2		#FECB68	0.342932557853903
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	12	2	valence	#FECB68	0.31377818807136
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	13	2	person|social	#FDAD4A	0.498435147192418
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	14	2		#FDAD4A	0.482649077785118
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	15	2	face|faces	#FECB68	0.302617043239416
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	16	2		#FDAD4A	0.416459750338963
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	17	2		#FDAD4A	0.422391928826652
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	18	2		#FDAD4A	0.442473681817261
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	19	2		#FDAD4A	0.442765527317891
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	20	2		#FDAD4A	0.420140420404989
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	21	2	images|spatial	#FDAD4A	0.406959252884468
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	22	2	control	#FECB68	0.349654428044662
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	23	2	time	#FECB68	0.320135019722663
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	1	3	acoustic|listening|musical|music|pitch	#FFFFCC	0
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	2	3	noise|tones	#FFF1A9	0.175951464654955
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	3	3		#FEE188	0.248317715431068
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	4	3		#FECB68	0.364647898516687
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	5	3	frequency	#FD913D	0.571309800121661
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	6	3		#FECB68	0.379514825182856
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	7	3		#FEE188	0.246935222572561
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	8	3	temperature	#FEE188	0.284703144950015
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	9	3		#FEE188	0.250790631126671
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	10	3	pleasant|unpleasant	#FEE188	0.206975387180504
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	11	3	anxiety	#FEE188	0.290115183744505
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	12	3		#FDAD4A	0.426049847545959
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	13	3		#FDAD4A	0.460754045665614
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	14	3		#FDAD4A	0.486276113051694
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	15	3		#FDAD4A	0.472907658055683
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	16	3	picture	#FDAD4A	0.402150573505033
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	17	3		#FDAD4A	0.451323080649863
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	18	3	value	#FDAD4A	0.452735778162822
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	19	3	cue	#FD913D	0.536361685798306
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	20	3	error|target	#FDAD4A	0.443841263939374
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	21	3	attention	#FDAD4A	0.405722245736843
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	22	3		#FECB68	0.398908894246448
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	23	3	number	#FDAD4A	0.42032597649367
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	1	4	voice	#FFFFCC	0.00682461782343354
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	2	4		#FFF1A9	0.103801389619279
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	3	4	hearing	#FFF1A9	0.189561860999098
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	4	4		#FECB68	0.312555483879375
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	5	4	overt	#FFF1A9	0.167135392358403
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	6	4		#FECB68	0.331369970224892
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	7	4		#FEE188	0.277662999318489
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	8	4	nociceptive|nonpainful|painrelated	#FFF1A9	0.172239538912326
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	9	4	unpleasantness	#FFF1A9	0.169040611474189
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	10	4	skin|subjective	#FECB68	0.360202353903486
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	11	4	depression	#FDAD4A	0.465115946734693
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	12	4	experience	#FEE188	0.260212615451531
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	13	4	female	#FDAD4A	0.446532614259922
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	14	4	male	#FDAD4A	0.482580766253871
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	15	4	pictures	#FDAD4A	0.467480651592045
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	16	4		#FDAD4A	0.47692768064799
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	17	4	perception	#FDAD4A	0.420860790886076
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	18	4		#FDAD4A	0.470404088611428
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	19	4		#FDAD4A	0.447589930870952
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	20	4		#FDAD4A	0.436152480972539
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	21	4	correct	#FDAD4A	0.430606040603126
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	22	4	work	#FDAD4A	0.495320914416018
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	23	4	memory	#FECB68	0.399123189525668
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	1	5	prosodic|prosody	#FFFFCC	0.0223996719391247
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	2	5	phonetic	#FFFFCC	0.0844980228331447
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	3	5	syllable|syllables	#FECB68	0.338098763778705
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	4	5		#FEE188	0.262716697735422
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	5	5	lip|production	#FECB68	0.348766661990608
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	6	5	somatotopic	#FECB68	0.345583926618788
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	7	5		#FEE188	0.217159526877408
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	8	5		#FFF1A9	0.163687455228311
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	9	5	empathy	#FEE188	0.250265379704599
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	10	5		#FDAD4A	0.401672071642951
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	11	5	disorder	#FECB68	0.39657654444409
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	12	5		#FDAD4A	0.41952165726333
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	13	5		#FDAD4A	0.426909220434687
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	14	5		#FDAD4A	0.442638251465454
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	15	5		#FDAD4A	0.436798279591154
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	16	5		#FDAD4A	0.427081374185437
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	17	5		#FDAD4A	0.427530152870337
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	18	5	mental	#FDAD4A	0.417741890270211
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	19	5	go	#FECB68	0.314284515696451
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	20	5	object	#FEE188	0.251642205714705
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	21	5		#FECB68	0.391091244578189
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	22	5		#FECB68	0.353600545546639
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	23	5	word|words	#FEE188	0.24906140236033
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	1	6		#FDAD4A	0.422756270073325
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	2	6		#FDAD4A	0.432404421259036
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	3	6		#FDAD4A	0.445628434445247
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	4	6	vocal	#FFF1A9	0.123596084436787
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	5	6	articulatory	#FFFFCC	0.0960737051967407
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	6	6		#FECB68	0.310044408260034
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	7	6	oddball	#FFF1A9	0.150358496856875
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	8	6	perceived	#FFFFCC	0.0858592432867335
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	9	6	errorrelated	#FFF1A9	0.127177225905032
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	10	6	approach	#FD913D	0.599275797475826
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	11	6	schizophrenia	#FECB68	0.304560082988614
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	12	6	acquisition	#FDAD4A	0.447352427229896
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	13	6		#FECB68	0.336393989897249
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	14	6		#FEE188	0.251335672186314
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	15	6		#FEE188	0.267329901991663
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	16	6		#FEE188	0.287345047694586
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	17	6		#FECB68	0.320246258534457
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	18	6		#FECB68	0.332359612698801
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	19	6		#FECB68	0.340448221478629
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	20	6	objects	#FDAD4A	0.478102632170812
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	21	6		#FECB68	0.341364444943841
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	22	6		#FEE188	0.281509990240635
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	23	6	language|semantic	#FEE188	0.229496840032077
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	1	7	dopamine|dopaminergic	#F03623	0.717042668489072
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	2	7		#FC622F	0.636127150876968
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	3	7		#FC622F	0.604368870365891
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	4	7		#FD913D	0.54973847130827
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	5	7		#FDAD4A	0.499290464568594
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	6	7		#FECB68	0.327387770525968
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	7	7		#FEE188	0.236111867372183
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	8	7		#FFF1A9	0.190517318893197
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	9	7		#FECB68	0.301036606134572
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	10	7		#FECB68	0.357445265077011
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	11	7		#FDAD4A	0.414033049121092
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	12	7		#FECB68	0.336256011838635
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	13	7	linguistic|spoken	#FFF1A9	0.114213003807713
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	14	7		#FEE188	0.207783611107891
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	15	7	comprehension|sentence|sentences|syntactic	#FFF1A9	0.170182334478815
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	16	7		#FEE188	0.206174407456635
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	17	7		#FEE188	0.252422552817073
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	18	7	phonological|reading|read	#FEE188	0.213452351013973
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	19	7		#FECB68	0.327176897489892
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	20	7	perceptual|recognition	#FDAD4A	0.40433206212548
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	21	7		#FECB68	0.370320125061177
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	22	7		#FECB68	0.305472596247681
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	23	7	verb	#FEE188	0.282994787792937
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	1	8	outcome|reward	#FD913D	0.581946608419578
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	2	8	anticipation	#FD913D	0.599823301937894
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	3	8	outcomes	#FD913D	0.582193882847018
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	4	8	choice|choices	#FECB68	0.385890100648966
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	5	8	decisions|probability	#FC622F	0.600935109298801
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	6	8	reversal	#FECB68	0.308369874679717
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	7	8	classification|incorrect	#FFF1A9	0.109361227218308
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	8	8		#FEE188	0.252827449015082
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	9	8	agerelated|fluency|probes	#FFF1A9	0.14040859219815
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	10	8	engaged	#FECB68	0.392260142188977
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	11	8	explicit|knowledge	#FFF1A9	0.174867936392955
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	12	8		#FEE188	0.25720992466824
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	13	8		#FFF1A9	0.197165947268763
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	14	8		#FEE188	0.199928892728404
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	15	8		#FEE188	0.217841619347169
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	16	8		#FEE188	0.219130306063547
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	17	8	lexical	#FFF1A9	0.131577962655318
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	18	8		#FEE188	0.253513910481485
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	19	8		#FECB68	0.307251173419949
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	20	8		#FECB68	0.353285944081095
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	21	8	encoding	#FEE188	0.260867156796974
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	22	8	retrieval	#FECB68	0.397693682208382
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	23	8	verbal	#FECB68	0.367713141841843
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	1	9	incentive|monetary|money|rewards	#FD913D	0.547251386830818
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	2	9	loss	#FC622F	0.620771483477445
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	3	9		#FC622F	0.62271065747203
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	4	9		#FD913D	0.579360596814902
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	5	9	decisionmaking	#FC622F	0.607673964899575
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	6	9		#FECB68	0.346601518853384
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	7	9		#FEE188	0.275940313985757
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	8	9		#FEE188	0.260730903277764
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	9	9		#FECB68	0.305124660537733
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	10	9		#FECB68	0.319500961420945
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	11	9		#FEE188	0.267329250572926
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	12	9		#FEE188	0.242991232287741
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	13	9	noun	#FFFFCC	0.0293168165685289
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	14	9	meaning	#FFF1A9	0.174276009992839
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	15	9	english	#FEE188	0.274171169748538
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	16	9	pseudoword|pseudowords	#FFF1A9	0.156340341219897
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	17	9		#FEE188	0.20777850112018
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	18	9		#FEE188	0.272250905391923
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	19	9	familiar|judgment	#FEE188	0.251441888435659
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	20	9	pair|pairs	#FDAD4A	0.40294131701242
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	21	9		#FDAD4A	0.432007958307597
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	22	9		#FDAD4A	0.443906754024593
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	23	9	letter|working	#FDAD4A	0.495720783612594
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	1	10	losses|reinforcement|win	#FC622F	0.696130405190315
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	2	10	gain	#FEE188	0.235972927792021
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	3	10	expectation	#FC622F	0.688497976050613
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	4	10	risk	#FDAD4A	0.426520190389819
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	5	10	fact	#FD913D	0.504347033005449
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	6	10	associative	#FEE188	0.237245072304193
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	7	10	familiarity|judgments|old	#FECB68	0.32436494182973
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	8	10	contextual|text	#FFF1A9	0.162884345450075
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	9	10	recall|retrieved	#FECB68	0.329598924531028
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	10	10	conceptual|semantically	#FECB68	0.344155777965789
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	11	10	grammatical|speakers	#FFF1A9	0.106882090885662
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	12	10	nouns	#FFFFCC	0.0438747554801979
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	13	10	japanese	#FEE188	0.275642948727071
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	14	10	languages	#FFFFCC	0.0529147477759873
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	15	10	written	#FFF1A9	0.194258299214114
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	16	10	chinese|phonology	#FFFFCC	0.0452196667790815
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	17	10	orthographic	#FEE188	0.240439175144833
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	18	10		#FECB68	0.303341558775985
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	19	10		#FECB68	0.351957384287542
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	20	10	association|decision	#FDAD4A	0.426630561981914
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	21	10	selection	#FECB68	0.391759159575308
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	22	10	letters	#FDAD4A	0.400444679993241
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	23	10	demand|load	#FDAD4A	0.461061316983575
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	1	11	conditioned|conditioning	#F03623	0.764065735350575
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	2	11		#FC622F	0.637125743947713
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	3	11	drug|placebo	#FECB68	0.367025624820948
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	4	11		#FD913D	0.594159584557893
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	5	11	associations	#FEE188	0.215638493791123
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	6	11		#FECB68	0.344733096357721
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	7	11	episodic|recollection	#FDAD4A	0.41275321482102
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	8	11		#FECB68	0.369640449538134
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	9	11		#FDAD4A	0.463251384656301
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	10	11	concepts	#FDAD4A	0.409712917142533
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	11	11		#FECB68	0.307850422511881
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	12	11		#FECB68	0.327599397596154
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	13	11	german	#FFF1A9	0.197147885276129
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	14	11	readers	#FEE188	0.220197874453907
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	15	11	character|name|naming	#FFFFCC	0.0620877813365678
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	16	11		#FFF1A9	0.183167387609351
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	17	11	novel	#FEE188	0.234171608352103
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	18	11		#FECB68	0.309034790109083
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	19	11	child|children	#FEE188	0.293434601061218
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	20	11	adults	#FDAD4A	0.450137707642138
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	21	11	ability|feedback|learning	#FC622F	0.622218181470093
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	22	11	cues|delay	#FC622F	0.677516150523663
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	23	11	attentional|difficulty|targets	#FD913D	0.516819993675462
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	1	12	aversive|shock	#FECB68	0.335163232896338
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	2	12	reactivity	#D7141E	0.89584606651041
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	3	12	males|sex|women	#FC622F	0.613199698730298
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	4	12	animal	#F03623	0.717384706954486
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	5	12	animals	#D7141E	0.808010174376901
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	6	12		#FECB68	0.330144858694272
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	7	12	remember|subsequent	#FEE188	0.201792432781667
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	8	12	autobiographical|memories	#FECB68	0.305204045778427
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	9	12		#FDAD4A	0.444986987240391
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	10	12	violation|violations	#FFFFCC	0.0337410690985644
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	11	12	aphasia	#FECB68	0.388272375123462
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	12	12	nonwords	#FEE188	0.265707943512865
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	13	12	dyslexia	#FC622F	0.671153802778222
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	14	12		#FEE188	0.278145398364441
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	15	12	priming	#FFF1A9	0.102389965887318
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	16	12		#FEE188	0.253864916125842
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	17	12	category|repetition	#FEE188	0.215263761910528
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	18	12		#FECB68	0.324910974589741
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	19	12	developmental|development	#FECB68	0.336408656502706
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	20	12		#FDAD4A	0.444182340054021
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	21	12	space	#F03623	0.722745488766388
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	22	12		#FDAD4A	0.455327364509501
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	23	12	color	#FDAD4A	0.442017245372769
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	1	13	threat	#FEE188	0.279631975510787
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	2	13	regulation	#FEE188	0.290940787666335
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	3	13		#FD913D	0.524788973455658
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	4	13	masked	#FFF1A9	0.194649808240993
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	5	13	scene|scenes	#FEE188	0.287017838855759
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	6	13		#FECB68	0.329620499550986
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	7	13	confidence|remembered	#FDAD4A	0.430055010007108
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	8	13		#FECB68	0.354329600766435
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	9	13		#FDAD4A	0.430305105231667
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	10	13	ambiguity|ambiguous	#FEE188	0.204296833346618
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	11	13		#FECB68	0.342961568809309
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	12	13		#FECB68	0.339897261417777
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	13	13	writing	#FFFFCC	0.0732292698861635
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	14	13		#FECB68	0.315294229430734
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	15	13	categorization|congruency|prime	#FFF1A9	0.178309359103858
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	16	13		#FEE188	0.289468695253689
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	17	13	mask	#FECB68	0.349840992691202
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	18	13		#FECB68	0.332306435201654
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	19	13		#FECB68	0.353947600278798
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	20	13		#FECB68	0.332915349228924
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	21	13	conflict|congruent|incongruent	#FEE188	0.252358364261828
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	22	13	errors	#FDAD4A	0.401051443005922
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	23	13	maintenance|probe|wm	#FEE188	0.223328017114768
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	1	14	angry|fearful|happy	#FFF1A9	0.199204883687088
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	2	14		#FEE188	0.281907938166429
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	3	14	awareness|conscious|ptsd	#FEE188	0.200744228225131
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	4	14		#FECB68	0.353009775759257
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	5	14	houses|photographs	#FFFFCC	0.0196714111197963
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	6	14		#FEE188	0.298887781222494
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	7	14	hits	#FFF1A9	0.120385094567338
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	8	14	famous	#FFF1A9	0.195696575274558
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	9	14	names	#FFFFCC	0.0319234002495026
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	10	14	family	#FECB68	0.328392188898446
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	11	14	competition|mouth	#FEE188	0.295427475534795
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	12	14	abilities	#FECB68	0.313723049651046
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	13	14	implicit|unfamiliar	#FFF1A9	0.127800139495604
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	14	14		#FEE188	0.246156754751111
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	15	14	tom	#FECB68	0.32650828270202
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	16	14		#FECB68	0.355690525829578
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	17	14		#FECB68	0.399375029746789
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	18	14	stop	#FEE188	0.248142018780098
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	19	14	inhibition|inhibitory|nogo	#FEE188	0.25348079360805
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	20	14	monitoring|stroop	#FEE188	0.275466610256544
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	21	14	interference	#FFF1A9	0.100429942585433
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	22	14		#FEE188	0.297288187779626
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	23	14	demands|executive	#FECB68	0.365983609777681
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	1	15	anger	#FEE188	0.270064528497316
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	2	15	stress	#FECB68	0.378332636449505
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	3	15	feelings	#FEE188	0.285699447796035
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	4	15	salient	#FFF1A9	0.149916858921455
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	5	15	novelty	#FFF1A9	0.13831333312064
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	6	15	movie	#FFFFCC	0.0735743279989614
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	7	15		#FECB68	0.396251607969846
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	8	15		#FDAD4A	0.426048754828815
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	9	15	longterm	#FECB68	0.383454075626029
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	10	15		#FECB68	0.371090419846843
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	11	15	reasoning|relational	#FEE188	0.250062365319211
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	12	15		#FEE188	0.282336564217715
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	13	15	presentations	#FFF1A9	0.137339367009978
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	14	15		#FEE188	0.27970404368247
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	15	15	identity	#FEE188	0.240176030807539
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	16	15		#FECB68	0.357215859818219
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	17	15	strategies|strategy	#FDAD4A	0.424136581430506
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	18	15	card|cards	#FDAD4A	0.424942507298154
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	19	15	gonogo	#FEE188	0.255412968623102
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	20	15		#FEE188	0.24611402951122
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	21	15	switching|switch	#FFF1A9	0.171387415880065
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	22	15		#FECB68	0.30546770697656
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	23	15	2back|rule	#FECB68	0.350690103959043
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	1	16	emotionally|mood|personality|sadness	#FECB68	0.344335929999315
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	2	16	disgust|sexual	#D7141E	0.88116980755457
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	3	16	olfactory	#FEE188	0.240119871193398
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	4	16	physiological	#FFF1A9	0.134602976525626
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	5	16	depressed|depressive|habituation	#FECB68	0.392658448622799
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	6	16	schizophrenic	#FECB68	0.345040784463499
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	7	16	colors|contexts	#FFF1A9	0.101036815838054
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	8	16	aging|encoded	#F03623	0.719790998469645
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	9	16	goal	#FFF1A9	0.138530541556395
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	10	16		#FECB68	0.346762829273291
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	11	16	autism|autistic|nonverbal	#FFFFCC	0.0216913017022293
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	12	16		#FEE188	0.280848069649788
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	13	16	bottomup|repetitions	#FEE188	0.277607527703539
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	14	16	adaptation	#FFF1A9	0.170595407495869
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	15	16	irrelevant	#FECB68	0.34565196062864
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	16	16	distractor|distractors	#FFF1A9	0.111136448023526
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	17	16		#FDAD4A	0.432087482776379
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	18	16	subtraction	#FEE188	0.251778672583642
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	19	16	1back|nback	#FECB68	0.353531182004762
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	20	16	manipulation|rules	#FFF1A9	0.166169163335003
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	21	16		#FECB68	0.360915201504289
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	22	16		#FDAD4A	0.415441854633672
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	23	16	digit	#FDAD4A	0.440742545209653
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	1	17	avoidance	#FDAD4A	0.41284589367696
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	2	17		#F03623	0.726603878352996
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	3	17	eating|food	#FDAD4A	0.453948895774704
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	4	17	taste	#FFF1A9	0.142143030490429
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	5	17	bipolar	#FECB68	0.358110945045872
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	6	17	illness|uncertainty	#FFFFCC	0.0685630103445116
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	7	17	females|probabilistic	#FECB68	0.333632039295785
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	8	17	rejection	#FFFFCC	0.0712842814365369
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	9	17	colour|paired	#FEE188	0.294576353477827
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	10	17		#FECB68	0.353526535787742
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	11	17		#FECB68	0.324619175874862
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	12	17		#FECB68	0.3381933736782
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	13	17	taskirrelevant	#FFF1A9	0.111723835526224
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	14	17		#FECB68	0.396628626370438
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	15	17	suppression	#FECB68	0.348386666748497
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	16	17		#FDAD4A	0.488937353388221
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	17	17	shifting|shortterm	#FD913D	0.505371319104763
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	18	17	digits	#FD913D	0.551821444216208
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	19	17	search	#FC622F	0.602044199485271
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	20	17	counting|taskrelated	#FECB68	0.301916445863468
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	21	17	topdown	#FECB68	0.335556432530812
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	22	17	visuospatial	#FD913D	0.579683445825537
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	23	17	arithmetic|calculation|solving	#FDAD4A	0.485977875579354
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	1	18	addiction|craving|drugs	#FC622F	0.60277487314285
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	2	18	allele|genotype|polymorphism	#FDAD4A	0.45641041054109
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	3	18	motivation	#FD913D	0.592966802447156
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	4	18	heart	#FECB68	0.337437010716222
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	5	18	sleep	#FD913D	0.580884047803637
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	6	18	expectancy	#FECB68	0.330413698414148
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	7	18	phasic|salience	#FFF1A9	0.159616063833361
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	8	18	adolescence|adolescents	#FEE188	0.201190959424701
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	9	18	intelligence|tracking	#FEE188	0.233085506951698
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	10	18		#FEE188	0.297521501152677
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	11	18	serial	#FFF1A9	0.120770124311152
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	12	18		#FECB68	0.359004026587153
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	13	18	spatially|taskrelevant	#FDAD4A	0.469177462355454
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	14	18		#FDAD4A	0.482914692436157
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	15	18	attended|attend|unattended	#FECB68	0.347067410804237
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	16	18	rotation|shapes	#FECB68	0.310002323525603
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	17	18	rehearsal	#FD913D	0.532566317320026
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	18	18	learned	#FEE188	0.207611903888046
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	19	18		#FD913D	0.569929666663326
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	20	18	cued|preparatory	#FD913D	0.528679520604358
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	21	18		#FD913D	0.533217416173635
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	22	18		#FDAD4A	0.475208900808039
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	23	18	numbers|numerical	#FECB68	0.350610655677982
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	1	19	future	#FD913D	0.529105822602017
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	2	19	negatively	#FDAD4A	0.444261951612057
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	3	19	distress|epilepsy|selfreported	#FD913D	0.570355576741619
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	4	19	anticipatory|cocaine|probabilities|smoking	#B10026	0.90496383298436
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	5	19	alcohol|amount|impulsivity	#FECB68	0.331819330909526
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	6	19	game|success	#FEE188	0.227854943581223
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	7	19	adhd|childhood|engagement	#FFF1A9	0.136296023122823
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	8	19		#FEE188	0.223205879668187
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	9	19		#FEE188	0.214014737657739
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	10	19		#FEE188	0.252997969943667
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	11	19		#FEE188	0.285717543774358
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	12	19	endogenous	#FDAD4A	0.402621337862366
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	13	19	cueing|invalid|orienting	#FECB68	0.3773899514928
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	14	19		#FD913D	0.584151607560647
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	15	19	multisensory	#F03623	0.740754706701983
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	16	19		#FC622F	0.632910218208757
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	17	19	shifts	#FC622F	0.620197619894456
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	18	19	covert	#FEE188	0.270956411261234
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	19	19		#FC622F	0.686238579158233
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	20	19	preparation	#FDAD4A	0.491464405368596
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	21	19	discrimination|training	#FEE188	0.289933391542156
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	22	19	sequences	#FDAD4A	0.495011287793388
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	23	19		#FDAD4A	0.480904302727258
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	1	20	personal|self|selfreferential|trait|traits	#FDAD4A	0.490029851969119
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	2	20	empathic|theory	#FECB68	0.371475453597612
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	3	20	attribution|intentional	#FECB68	0.355828325282881
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	4	20	elderly|oscillations	#F03623	0.707244239572326
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	5	20	antipsychotic|virtual	#FEE188	0.202939859766634
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	6	20		#FDAD4A	0.412455948263708
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	7	20	experiences	#FEE188	0.259049552480412
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	8	20	categorical|pressure	#FFFFCC	0.0179356108043744
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	9	20	play|skills	#FFF1A9	0.155330361802962
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	10	20	automatic|trained	#FFFFCC	0.0508795959905054
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	11	20		#FEE188	0.248928194469606
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	12	20	practice	#FECB68	0.352672251335006
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	13	20	visuomotor	#FECB68	0.334974164630673
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	14	20		#F03623	0.723369648181115
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	15	20	tool	#FC622F	0.640260155026155
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	16	20	vision	#B10026	1
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	17	20	visually	#FC622F	0.632237236056636
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	18	20	saccade|saccades|saccadic	#B10026	0.997815590076921
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	19	20	locations	#F03623	0.718607622026836
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	20	20	imagery|planning	#FD913D	0.586911427506101
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	21	20		#FD913D	0.523972312508392
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	22	20	rest	#FEE188	0.235504191272743
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	23	20	sequence	#FDAD4A	0.478705625117073
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	1	21	scenarios	#FEE188	0.235178748175773
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	2	21	intention|intentions	#FC622F	0.652586843855693
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	3	21	causality|perspective	#FDAD4A	0.402947778415984
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	4	21	past	#FECB68	0.37852843639371
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	5	21		#FD913D	0.544503565592747
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	6	21	episode	#FFF1A9	0.102746995969134
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	7	21	improvement	#FFFFCC	0.0986478783712589
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	8	21	masking|retention	#F03623	0.781320440255612
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	9	21		#FEE188	0.293713526388673
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	10	21	dominant	#FFF1A9	0.13143267056685
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	11	21		#FEE188	0.23149321806308
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	12	21	sequential	#FEE188	0.23784160013416
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	13	21	fingers	#FDAD4A	0.40298812155665
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	14	21		#FC622F	0.622605588574491
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	15	21	gesture|gestures	#FDAD4A	0.432184164772689
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	16	21		#F03623	0.707552906073845
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	17	21	hands	#FC622F	0.617855879789938
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	18	21		#F03623	0.762021429648846
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	19	21		#F03623	0.732313812803162
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	20	21	eye|position	#F03623	0.774022942759446
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	21	21	execution	#FDAD4A	0.469101017836058
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	22	21	finger|sensorimotor	#FECB68	0.329353994997909
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	23	21		#FECB68	0.355476420053717
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	1	22	moral|stories|story	#FFF1A9	0.17227459231343
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	2	22	mentalizing|persons	#FC622F	0.606515153965656
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	3	22	default|restingstate	#FECB68	0.337151654854925
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	4	22	thinking|thought|thoughts	#FDAD4A	0.471999447051111
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	5	22	spontaneous	#FEE188	0.251744051550701
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	6	22	concentration|sensations	#FDAD4A	0.421643059248713
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	7	22	hierarchical|preference	#FD913D	0.517191579425122
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	8	22	effort|oral|simulation	#FDAD4A	0.460504063240102
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	9	22	interhemispheric|plasticity	#FEE188	0.244612823435687
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	10	22	imagined|imagine	#FFFFCC	0.0901104912062704
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	11	22	tapping	#FFFFCC	0.0526448046061073
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	12	22	foot|muscle|muscles|voluntary	#FFF1A9	0.169593579815142
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	13	22	limb	#FFF1A9	0.111608356415887
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	14	22	eyes|velocity	#FDAD4A	0.484132019336518
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	15	22	biological|gaze|videos	#FECB68	0.325549705151158
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	16	22	body	#FC622F	0.663434074015399
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	17	22	grasping|orientation|reaching	#FC622F	0.694545829117686
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	18	22		#FC622F	0.697500335944754
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	19	22	mirror|shape	#FECB68	0.344636437715657
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	20	22	actions	#FDAD4A	0.492357221902344
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	21	22	action	#FD913D	0.555915630291128
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	22	22		#FECB68	0.387395971508652
+29dcfa89-a24e-3d96-97ce-c168adbf05a9	Prestwood KM	23	22	hand|movements|sensory	#FEE188	0.257591531234057

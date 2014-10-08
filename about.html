@@ -1,0 +1,111 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+  <title>AuthorSynth: Interative Network of Brain Activation Publications</title>
+  <meta name="description" content="Interative Network of Brain Activation Publications.">
+  <meta name="author" content="Vanessa Sochat">
+
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+
+  <!-- CSS concatenated and minified via ant build script-->
+  <link rel="stylesheet" href="css/reset.css">
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/style.css">
+  <!-- end CSS-->
+
+  <link rel="stylesheet" type="text/css" href="css/portal.css" media="screen" />
+  <!-- Jquery -->
+  <link rel="stylesheet" href="//code.jquery.com/ui/1.11.1/themes/smoothness/jquery-ui.css">
+  <script src="//code.jquery.com/jquery-1.10.2.js"></script>
+  <script src="//code.jquery.com/ui/1.11.1/jquery-ui.js"></script>
+
+
+  <script src="js/libs/modernizr-2.0.6.min.js"></script>
+</head>
+
+<body>
+
+<script type="text/javascript">
+
+$(function() {
+    // Read in the authors.json file
+    var json = (function () {
+        var json = null;
+        $.ajax({
+            'async': false,
+            'global': false,
+            'url': "data/authors.json",
+            'dataType': "json",
+            'success': function (data) {
+                json = data;
+            }
+        });
+        return json;
+    })(); 
+
+    $( "#searchField" ).autocomplete({
+      source: json,
+      select: function(event, ui) {
+        console.log(ui); 
+        $("#searchField").val(ui.item.label);
+        }
+    });
+  });
+
+</script>
+
+
+    <div id='cssmenu'>
+      <ul>
+        <li><a href='network.html'><span>Network</span></a></li>
+       <li><a href='lattice.html'><span>Brain Lattice</span></a></li>
+       <li><a href='authors.html'><span>Authors</span></a></li>
+       <li class='last active'><a href='about.html'><span>About</span></a></li>
+       <li class="right"><form id ="searchForm" action="author.php" method="get">
+       <input id="searchField" name="uid">
+       <input type="submit">
+       </form></li>
+      </ul>
+    </div>
+
+
+  <div id="container" class="container">
+    <header>
+
+    <h1 style="color: #666">What is AuthorSynth</h1>
+    <p>AuthorSynth is a tool to see who you are collaborating with, and who you should be collaborating with.  It is a <a href="network.html">network</a> to show actual collaborations based on co-publication, and potential collaborations based on similarity of activation reports (xyz coordinates) reported in the neuroscience literature.  The novel <a href="lattice.html">brain lattice</a> is a behaviorally-based visualization to find researchers based on behavioral terms studied.</p>
+<br><br>
+
+    <h1 style="color: #666">What does the Network show?</h1>
+    <p>The <a href="network.html">network</a> shows neuroscience author collaboration based on publications in the <a href="http://www.neurosynth.org" target="_blank">NeuroSynth</a> database for PIs, defined by being last author on a paper and having at least two publications.  Links are defined between PIs with at least 2 publications together.  Coloring of the network is determined by similarity based on comparison of actual activation reports (x y z voxel values).  The threshold of this coloring can be adjusted to generate more or fewer groups.  An actual link represents a real collaboration, while similar coloring represents potential collaborations.</p>
+<br>
+<a href="network.html"><img src="img/asNetwork.png" width="400px" alt="Network"/></a>
+<br><br><br><br>
+
+    <h1 style="color: #666">What does the Brain Lattice show?</h1>
+    <p>The <a href="lattice.html">brain lattice</a> is a novel visualization strategy, a self-organizing map (SOM), that maps neuroscience author activation reports to 525 behaviorally relevant terms.  You can click on a node in the map to find researchers with published regional activation reports relevant to the term.  When you investigate an author on the individual level, the coloring of this map represents the similarity of the author's publications to each node, with darker colors corresponding to more highly similar.</p>
+<br>
+<a href="lattice.html"><img src="img/asFeature.png" width="400px" alt="Network"/></a>
+<br><br>
+
+    </header>
+
+    <footer>
+    <p>AuthorSynth was created by <a href="http://www.vsoch.com" target="_blank">Vanessa Sochat</a> in the <a href="http://wall-lab.stanford.edu">Wall Lab at Stanford University</a></p>
+    </footer>
+  </div> <!--! end of #container -->
+
+
+  <!--[if lt IE 7 ]>
+    <script src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+    <script>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+  <![endif]-->
+  
+</body>
+</html>

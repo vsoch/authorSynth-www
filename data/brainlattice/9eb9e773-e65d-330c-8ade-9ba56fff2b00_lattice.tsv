@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	1	1	auditory|speech	#FEE188	0.230692473504652
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	2	1		#FEE188	0.206547775013074
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	3	1	da|integration	#FDAD4A	0.483653460090522
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	4	1		#FECB68	0.343891315727704
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	5	1	physical|psychophysical|tactile	#FFF1A9	0.174872801961086
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	6	1		#FEE188	0.209541776420387
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	7	1	somatosensory|stimulation	#FFF1A9	0.167484028551747
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	8	1	painful|pain	#FFF1A9	0.105192859190739
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	9	1		#FFF1A9	0.175407627455259
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	10	1	ratings	#FECB68	0.330292727359823
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	11	1	affective|affect	#FDAD4A	0.487029793859682
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	12	1	emotions	#FEE188	0.290931732106774
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	13	1	expression|expressions|facial	#FEE188	0.279911487584866
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	14	1		#FECB68	0.380089712998739
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	15	1		#FDAD4A	0.410645904778345
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	16	1	emotion|motion|neutral	#FDAD4A	0.401633335979911
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	17	1	rating	#FECB68	0.371122503518639
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	18	1	negative|positive	#FDAD4A	0.466856620877205
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	19	1		#FD913D	0.504624957510926
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	20	1	ear|order	#FDAD4A	0.474101086891461
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	21	1	motor	#FECB68	0.385359469757178
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	22	1	visual	#FDAD4A	0.420004661920825
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	23	1	age|image|response	#FDAD4A	0.428713496545681
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	1	2	sound|sounds	#FFFFCC	0.0955262048291692
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	2	2		#FEE188	0.200037231698091
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	3	2	audiovisual|bimodal|crossmodal	#FEE188	0.202153116068835
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	4	2		#FECB68	0.356013562317255
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	5	2		#FECB68	0.312393773796383
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	6	2		#FEE188	0.237555033150934
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	7	2	sensation	#FFFFCC	0.0666844341445134
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	8	2	heat|noxious	#FEE188	0.199585919936697
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	9	2		#FFF1A9	0.169345225774328
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	10	2		#FEE188	0.296177932723482
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	11	2		#FECB68	0.323081641584529
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	12	2	valence	#FECB68	0.317498221645726
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	13	2	person|social	#FEE188	0.25807700584149
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	14	2		#FECB68	0.382098365855333
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	15	2	face|faces	#FECB68	0.379854322173407
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	16	2		#FDAD4A	0.427551194598447
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	17	2		#FDAD4A	0.460493300236877
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	18	2		#FD913D	0.507855976242967
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	19	2		#FD913D	0.519268252467184
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	20	2		#FDAD4A	0.492899482705863
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	21	2	images|spatial	#FDAD4A	0.469196822577849
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	22	2	control	#FDAD4A	0.470589984051868
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	23	2	time	#FDAD4A	0.441496188845578
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	1	3	acoustic|listening|musical|music|pitch	#FFF1A9	0.18656629953113
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	2	3	noise|tones	#FFF1A9	0.143272045656119
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	3	3		#FECB68	0.36080278970332
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	4	3		#FDAD4A	0.41533423093761
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	5	3	frequency	#FECB68	0.37487094785231
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	6	3		#FECB68	0.378614377062299
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	7	3		#FFF1A9	0.142430612108168
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	8	3	temperature	#FFFFCC	0.0357204792122634
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	9	3		#FFF1A9	0.128858589993887
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	10	3	pleasant|unpleasant	#FEE188	0.217108777800797
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	11	3	anxiety	#FEE188	0.22429870207088
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	12	3		#FECB68	0.320859432289267
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	13	3		#FECB68	0.371358304590827
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	14	3		#FECB68	0.39429327665033
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	15	3		#FECB68	0.398924609143324
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	16	3	picture	#FECB68	0.351975536518101
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	17	3		#FDAD4A	0.462124309787087
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	18	3	value	#FD913D	0.52883143118541
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	19	3	cue	#FD913D	0.533661947947816
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	20	3	error|target	#FD913D	0.523257101326649
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	21	3	attention	#FDAD4A	0.459262384327347
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	22	3		#FDAD4A	0.489643525716847
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	23	3	number	#FD913D	0.501465608293574
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	1	4	voice	#FFF1A9	0.167614846164851
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	2	4		#FEE188	0.281625646326847
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	3	4	hearing	#FECB68	0.340751114708669
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	4	4		#FDAD4A	0.478834358605952
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	5	4	overt	#FDAD4A	0.42044628341419
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	6	4		#FDAD4A	0.496846242730472
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	7	4		#FEE188	0.229005008117282
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	8	4	nociceptive|nonpainful|painrelated	#FFFFCC	0.0362794206822246
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	9	4	unpleasantness	#FFF1A9	0.148080740969361
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	10	4	skin|subjective	#FFF1A9	0.155741632290959
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	11	4	depression	#FEE188	0.294160369972574
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	12	4	experience	#FEE188	0.215142613780601
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	13	4	female	#FECB68	0.356817507899142
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	14	4	male	#FDAD4A	0.402244560274553
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	15	4	pictures	#FECB68	0.342574429295537
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	16	4		#FDAD4A	0.415736664246241
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	17	4	perception	#FECB68	0.356099622048247
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	18	4		#FDAD4A	0.493147515141533
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	19	4		#FDAD4A	0.491592128747835
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	20	4		#FDAD4A	0.493374887954965
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	21	4	correct	#FD913D	0.514003446923383
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	22	4	work	#FD913D	0.523006452413006
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	23	4	memory	#FDAD4A	0.48356576157753
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	1	5	prosodic|prosody	#FFF1A9	0.197121262193587
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	2	5	phonetic	#FDAD4A	0.423347303421503
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	3	5	syllable|syllables	#FECB68	0.370693509239117
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	4	5		#FD913D	0.511578415707863
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	5	5	lip|production	#FD913D	0.560901620700442
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	6	5	somatotopic	#FC622F	0.60394735629689
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	7	5		#FECB68	0.354433755512672
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	8	5		#FEE188	0.214164767078421
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	9	5	empathy	#FEE188	0.200153323994982
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	10	5		#FEE188	0.249972428744436
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	11	5	disorder	#FECB68	0.349125452650206
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	12	5		#FECB68	0.329232725286322
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	13	5		#FECB68	0.390518105137891
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	14	5		#FDAD4A	0.41330184337319
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	15	5		#FDAD4A	0.417556993905865
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	16	5		#FDAD4A	0.432904342116328
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	17	5		#FDAD4A	0.460080994577266
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	18	5	mental	#FDAD4A	0.417319050775961
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	19	5	go	#FDAD4A	0.402898191491082
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	20	5	object	#FECB68	0.374104709945367
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	21	5		#FDAD4A	0.493411379770838
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	22	5		#FDAD4A	0.477416657281123
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	23	5	word|words	#FDAD4A	0.414710519810121
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	1	6		#FC622F	0.630517336341238
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	2	6		#FC622F	0.632064343221986
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	3	6		#FC622F	0.699521114864071
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	4	6	vocal	#FECB68	0.316148387265947
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	5	6	articulatory	#FD913D	0.569993626971714
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	6	6		#FC622F	0.609663790125421
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	7	6	oddball	#FFF1A9	0.124917541546933
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	8	6	perceived	#FECB68	0.306422934992683
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	9	6	errorrelated	#FECB68	0.340907572010042
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	10	6	approach	#FEE188	0.224035368205563
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	11	6	schizophrenia	#FEE188	0.204885639300724
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	12	6	acquisition	#FECB68	0.351014521285567
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	13	6		#FECB68	0.350065343999868
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	14	6		#FECB68	0.341369219190287
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	15	6		#FECB68	0.37186334359139
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	16	6		#FDAD4A	0.404392411407117
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	17	6		#FD913D	0.504999366885313
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	18	6		#FD913D	0.513816653351092
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	19	6		#FDAD4A	0.490805006932332
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	20	6	objects	#FDAD4A	0.492365686826921
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	21	6		#FDAD4A	0.458158375661231
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	22	6		#FDAD4A	0.441005317845679
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	23	6	language|semantic	#FECB68	0.388015707972231
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	1	7	dopamine|dopaminergic	#FDAD4A	0.47881496356704
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	2	7		#F03623	0.748934667624508
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	3	7		#D7141E	0.883211623564072
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	4	7		#D7141E	0.835120507887286
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	5	7		#F03623	0.771631147790108
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	6	7		#FC622F	0.617116961732226
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	7	7		#FD913D	0.555730448769288
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	8	7		#FDAD4A	0.438905464618182
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	9	7		#FECB68	0.3896961712129
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	10	7		#FECB68	0.374576681612172
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	11	7		#FECB68	0.370324134943461
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	12	7		#FECB68	0.352529155577071
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	13	7	linguistic|spoken	#FFF1A9	0.176971576582354
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	14	7		#FECB68	0.324015044073606
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	15	7	comprehension|sentence|sentences|syntactic	#FECB68	0.306523514260037
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	16	7		#FECB68	0.38868217479955
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	17	7		#FDAD4A	0.492937988985137
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	18	7	phonological|reading|read	#FD913D	0.541155957125293
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	19	7		#FD913D	0.508967205223498
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	20	7	perceptual|recognition	#FDAD4A	0.403206368053897
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	21	7		#FDAD4A	0.477213515184851
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	22	7		#FDAD4A	0.456105800405728
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	23	7	verb	#FDAD4A	0.438944035418502
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	1	8	outcome|reward	#F03623	0.733493815792666
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	2	8	anticipation	#F03623	0.782051716317445
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	3	8	outcomes	#D7141E	0.853541300442569
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	4	8	choice|choices	#F03623	0.771352840490533
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	5	8	decisions|probability	#FD913D	0.511754334613503
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	6	8	reversal	#FC622F	0.658342858189905
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	7	8	classification|incorrect	#FDAD4A	0.451663147103397
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	8	8		#FDAD4A	0.459513425317438
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	9	8	agerelated|fluency|probes	#FDAD4A	0.428802785726336
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	10	8	engaged	#FEE188	0.289461095335077
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	11	8	explicit|knowledge	#FDAD4A	0.479862217696536
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	12	8		#FECB68	0.341976235983037
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	13	8		#FECB68	0.314399757680907
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	14	8		#FECB68	0.343085300854602
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	15	8		#FECB68	0.391406032482283
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	16	8		#FDAD4A	0.418355912528415
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	17	8	lexical	#FDAD4A	0.438195344482928
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	18	8		#FD913D	0.509728099419698
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	19	8		#FDAD4A	0.498160844764382
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	20	8		#FDAD4A	0.468752659922602
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	21	8	encoding	#FECB68	0.384331296165798
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	22	8	retrieval	#FD913D	0.540832986803641
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	23	8	verbal	#FDAD4A	0.489473808199242
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	1	9	incentive|monetary|money|rewards	#F03623	0.742587089054583
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	2	9	loss	#D7141E	0.886632819608396
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	3	9		#D7141E	0.829861508634145
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	4	9		#F03623	0.763620020564352
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	5	9	decisionmaking	#FC622F	0.648383143689657
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	6	9		#FD913D	0.520371373216245
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	7	9		#FDAD4A	0.483607452657879
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	8	9		#FDAD4A	0.427062079356913
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	9	9		#FECB68	0.392467214454608
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	10	9		#FECB68	0.376069919319766
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	11	9		#FECB68	0.363719054943991
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	12	9		#FECB68	0.350377251352518
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	13	9	noun	#FEE188	0.200532156267853
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	14	9	meaning	#FECB68	0.347323990717465
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	15	9	english	#FDAD4A	0.466938095562938
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	16	9	pseudoword|pseudowords	#FDAD4A	0.432388363238707
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	17	9		#FDAD4A	0.456398789550672
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	18	9		#FDAD4A	0.471694022460443
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	19	9	familiar|judgment	#FDAD4A	0.463534712319758
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	20	9	pair|pairs	#FDAD4A	0.400367868613216
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	21	9		#FD913D	0.500002059256495
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	22	9		#FD913D	0.56166623010084
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	23	9	letter|working	#FD913D	0.561706877869794
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	1	10	losses|reinforcement|win	#B10026	1
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	2	10	gain	#FC622F	0.63536133868321
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	3	10	expectation	#FECB68	0.349468904839796
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	4	10	risk	#FC622F	0.627284529624793
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	5	10	fact	#FFF1A9	0.197237679686342
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	6	10	associative	#FECB68	0.339942100984491
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	7	10	familiarity|judgments|old	#FECB68	0.345746953016825
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	8	10	contextual|text	#FEE188	0.244525498487798
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	9	10	recall|retrieved	#FFF1A9	0.196362338394816
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	10	10	conceptual|semantically	#FFF1A9	0.149465831295925
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	11	10	grammatical|speakers	#FECB68	0.330865520239757
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	12	10	nouns	#FEE188	0.261069170065328
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	13	10	japanese	#FEE188	0.29499327759829
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	14	10	languages	#FDAD4A	0.404023119522459
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	15	10	written	#FEE188	0.243145624716149
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	16	10	chinese|phonology	#FDAD4A	0.42125025556481
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	17	10	orthographic	#FDAD4A	0.443974138058711
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	18	10		#FDAD4A	0.422257403964698
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	19	10		#FDAD4A	0.413214697176022
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	20	10	association|decision	#FDAD4A	0.498262128329034
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	21	10	selection	#FD913D	0.509665653904497
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	22	10	letters	#FD913D	0.55037689283958
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	23	10	demand|load	#FC622F	0.666772119857014
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	1	11	conditioned|conditioning	#FEE188	0.251479435647673
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	2	11		#FD913D	0.573007297237897
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	3	11	drug|placebo	#F03623	0.777065235860032
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	4	11		#FC622F	0.610902919602088
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	5	11	associations	#FECB68	0.34907920872737
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	6	11		#FECB68	0.35412516029191
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	7	11	episodic|recollection	#FDAD4A	0.422490155486439
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	8	11		#FECB68	0.310700416469954
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	9	11		#FEE188	0.295159058588945
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	10	11	concepts	#FECB68	0.308448303196265
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	11	11		#FECB68	0.382710743347337
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	12	11		#FDAD4A	0.457068538342716
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	13	11	german	#FDAD4A	0.429106448018415
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	14	11	readers	#FEE188	0.259963761999423
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	15	11	character|name|naming	#FDAD4A	0.478897549254654
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	16	11		#FDAD4A	0.402326070082757
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	17	11	novel	#FECB68	0.341324468431595
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	18	11		#FECB68	0.361121350932795
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	19	11	child|children	#FEE188	0.264900337818593
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	20	11	adults	#FDAD4A	0.425152604507079
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	21	11	ability|feedback|learning	#FC622F	0.632245625551861
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	22	11	cues|delay	#FC622F	0.640224447231542
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	23	11	attentional|difficulty|targets	#FDAD4A	0.45208651835428
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	1	12	aversive|shock	#FFFFCC	0.0869008027304155
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	2	12	reactivity	#FEE188	0.285903904113527
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	3	12	males|sex|women	#FECB68	0.334585621803221
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	4	12	animal	#FDAD4A	0.441963907546229
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	5	12	animals	#FEE188	0.208904247232958
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	6	12		#FECB68	0.357483619847835
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	7	12	remember|subsequent	#FFFFCC	0.0224542650310913
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	8	12	autobiographical|memories	#FEE188	0.297830406797757
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	9	12		#FEE188	0.283476799984457
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	10	12	violation|violations	#FFFFCC	0.0702160167586161
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	11	12	aphasia	#FECB68	0.358903067243526
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	12	12	nonwords	#FC622F	0.653033748436061
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	13	12	dyslexia	#FDAD4A	0.440907098915159
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	14	12		#FDAD4A	0.431639674195405
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	15	12	priming	#FD913D	0.516863463054683
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	16	12		#FDAD4A	0.424895746405951
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	17	12	category|repetition	#FECB68	0.30307801850413
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	18	12		#FDAD4A	0.400095709131831
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	19	12	developmental|development	#FECB68	0.323624057098675
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	20	12		#FDAD4A	0.454692804898729
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	21	12	space	#FEE188	0.283835029781162
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	22	12		#FD913D	0.582659676255602
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	23	12	color	#FDAD4A	0.421184666552558
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	1	13	threat	#FEE188	0.270810630367501
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	2	13	regulation	#FEE188	0.254776495703479
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	3	13		#FECB68	0.392179303290877
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	4	13	masked	#FDAD4A	0.410219427383339
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	5	13	scene|scenes	#FC622F	0.637067941291026
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	6	13		#FECB68	0.315477254242042
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	7	13	confidence|remembered	#FFFFCC	0
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	8	13		#FECB68	0.31054202756334
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	9	13		#FECB68	0.392213147319316
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	10	13	ambiguity|ambiguous	#FFFFCC	0.0602240401522317
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	11	13		#FDAD4A	0.47652968235608
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	12	13		#FC622F	0.656413819624425
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	13	13	writing	#FDAD4A	0.467176656094468
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	14	13		#FD913D	0.509979356453991
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	15	13	categorization|congruency|prime	#FEE188	0.229770332705196
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	16	13		#FDAD4A	0.440409628669238
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	17	13	mask	#FC622F	0.617569087233259
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	18	13		#FDAD4A	0.439574487561676
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	19	13		#FDAD4A	0.411515793066152
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	20	13		#FDAD4A	0.441716486720822
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	21	13	conflict|congruent|incongruent	#FDAD4A	0.434181738601941
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	22	13	errors	#FC622F	0.643261203237355
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	23	13	maintenance|probe|wm	#FD913D	0.545456892803758
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	1	14	angry|fearful|happy	#FEE188	0.213148317132594
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	2	14		#FEE188	0.246301291836339
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	3	14	awareness|conscious|ptsd	#FECB68	0.314822359554322
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	4	14		#FDAD4A	0.483756169879854
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	5	14	houses|photographs	#FEE188	0.291393318496887
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	6	14		#FDAD4A	0.438683019892021
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	7	14	hits	#FFF1A9	0.162704661482207
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	8	14	famous	#FDAD4A	0.402891644993365
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	9	14	names	#FECB68	0.343758184375202
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	10	14	family	#FD913D	0.528905202561057
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	11	14	competition|mouth	#FEE188	0.242326692689033
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	12	14	abilities	#FDAD4A	0.402343040516322
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	13	14	implicit|unfamiliar	#FC622F	0.662806023533741
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	14	14		#FD913D	0.521272649198838
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	15	14	tom	#FDAD4A	0.468962028654317
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	16	14		#FD913D	0.507873648474538
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	17	14		#FD913D	0.5418569718838
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	18	14	stop	#FECB68	0.353076220178186
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	19	14	inhibition|inhibitory|nogo	#FECB68	0.36843331181861
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	20	14	monitoring|stroop	#FD913D	0.562154082088594
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	21	14	interference	#FECB68	0.317903653268833
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	22	14		#FD913D	0.546577035203938
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	23	14	demands|executive	#FC622F	0.65613689031108
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	1	15	anger	#FFFFCC	0.0798200894210314
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	2	15	stress	#FFF1A9	0.118216989576737
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	3	15	feelings	#FEE188	0.209368279348366
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	4	15	salient	#FEE188	0.297066207667694
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	5	15	novelty	#FEE188	0.27891469191932
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	6	15	movie	#FDAD4A	0.43398234175491
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	7	15		#FDAD4A	0.452396378228926
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	8	15		#FD913D	0.550871469713182
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	9	15	longterm	#FD913D	0.599552086217639
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	10	15		#FD913D	0.59380964572849
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	11	15	reasoning|relational	#FDAD4A	0.418666176981527
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	12	15		#FC622F	0.620543759005686
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	13	15	presentations	#FDAD4A	0.402986578155108
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	14	15		#FD913D	0.564675847445191
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	15	15	identity	#FECB68	0.36909985697654
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	16	15		#FDAD4A	0.474776172301493
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	17	15	strategies|strategy	#FDAD4A	0.423766104154263
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	18	15	card|cards	#FECB68	0.393666678510693
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	19	15	gonogo	#FC622F	0.639635011602367
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	20	15		#FDAD4A	0.45134176433368
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	21	15	switching|switch	#FDAD4A	0.429035880065622
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	22	15		#FDAD4A	0.454086175101267
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	23	15	2back|rule	#FECB68	0.327319131974795
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	1	16	emotionally|mood|personality|sadness	#FFFFCC	0.0714344006786126
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	2	16	disgust|sexual	#FEE188	0.288523908074678
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	3	16	olfactory	#FFF1A9	0.165330961575372
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	4	16	physiological	#FECB68	0.309456270342229
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	5	16	depressed|depressive|habituation	#FECB68	0.322042767124398
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	6	16	schizophrenic	#FECB68	0.321540008440711
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	7	16	colors|contexts	#FFF1A9	0.197572279345679
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	8	16	aging|encoded	#FECB68	0.397343551227997
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	9	16	goal	#F03623	0.79382881128576
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	10	16		#FD913D	0.554160305581482
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	11	16	autism|autistic|nonverbal	#FECB68	0.372336563388043
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	12	16		#FD913D	0.58075826970571
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	13	16	bottomup|repetitions	#FD913D	0.567911139138999
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	14	16	adaptation	#FDAD4A	0.400313058420895
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	15	16	irrelevant	#FEE188	0.258954119001439
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	16	16	distractor|distractors	#FECB68	0.39421835480392
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	17	16		#FDAD4A	0.464166419061204
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	18	16	subtraction	#FD913D	0.510379858689501
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	19	16	1back|nback	#FECB68	0.307976782694541
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	20	16	manipulation|rules	#FD913D	0.521955260219539
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	21	16		#FDAD4A	0.492321915726479
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	22	16		#FDAD4A	0.410497547810416
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	23	16	digit	#FECB68	0.327474279770521
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	1	17	avoidance	#FDAD4A	0.489658114889489
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	2	17		#FECB68	0.369206885870528
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	3	17	eating|food	#FDAD4A	0.434053161270629
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	4	17	taste	#FD913D	0.52434773399266
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	5	17	bipolar	#FDAD4A	0.4035525830515
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	6	17	illness|uncertainty	#FEE188	0.269275827600315
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	7	17	females|probabilistic	#FDAD4A	0.438455291343923
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	8	17	rejection	#FEE188	0.297822417163426
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	9	17	colour|paired	#FFFFCC	0.0599655373618165
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	10	17		#FD913D	0.563094151472601
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	11	17		#FD913D	0.506531434963901
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	12	17		#FDAD4A	0.496998256952097
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	13	17	taskirrelevant	#FECB68	0.32001107105717
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	14	17		#FDAD4A	0.422734040119808
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	15	17	suppression	#FFF1A9	0.11529111443496
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	16	17		#FDAD4A	0.434469387636908
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	17	17	shifting|shortterm	#FEE188	0.298783878932742
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	18	17	digits	#FECB68	0.302139215907295
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	19	17	search	#FDAD4A	0.441939692219951
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	20	17	counting|taskrelated	#FD913D	0.558412400050201
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	21	17	topdown	#FD913D	0.542654964838472
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	22	17	visuospatial	#FEE188	0.270049454704965
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	23	17	arithmetic|calculation|solving	#FECB68	0.300006029278606
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	1	18	addiction|craving|drugs	#FECB68	0.302665822073831
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	2	18	allele|genotype|polymorphism	#FDAD4A	0.449125430232442
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	3	18	motivation	#FFFFCC	0.09020430417485
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	4	18	heart	#FD913D	0.597584770735128
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	5	18	sleep	#FDAD4A	0.467762802728467
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	6	18	expectancy	#FEE188	0.245498926012285
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	7	18	phasic|salience	#FECB68	0.328042205363193
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	8	18	adolescence|adolescents	#FFF1A9	0.171007346478778
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	9	18	intelligence|tracking	#FDAD4A	0.452719953666176
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	10	18		#FDAD4A	0.464294371195178
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	11	18	serial	#FECB68	0.349164442907326
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	12	18		#FDAD4A	0.406082587012756
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	13	18	spatially|taskrelevant	#FD913D	0.54904682997382
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	14	18		#FDAD4A	0.401761776058189
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	15	18	attended|attend|unattended	#FFF1A9	0.168822312241596
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	16	18	rotation|shapes	#F03623	0.745904107330832
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	17	18	rehearsal	#FD913D	0.529575048935208
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	18	18	learned	#FECB68	0.315541087815908
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	19	18		#FDAD4A	0.430429665460563
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	20	18	cued|preparatory	#FEE188	0.219906260275074
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	21	18		#FDAD4A	0.441481873973954
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	22	18		#FDAD4A	0.42969952323079
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	23	18	numbers|numerical	#FECB68	0.357214690577562
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	1	19	future	#FDAD4A	0.47978315913202
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	2	19	negatively	#FECB68	0.31533895992461
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	3	19	distress|epilepsy|selfreported	#FECB68	0.348582021686257
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	4	19	anticipatory|cocaine|probabilities|smoking	#FECB68	0.317512737519241
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	5	19	alcohol|amount|impulsivity	#B10026	0.9082126813808
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	6	19	game|success	#FDAD4A	0.43451968473333
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	7	19	adhd|childhood|engagement	#FFF1A9	0.186654553461327
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	8	19		#FDAD4A	0.494908380838507
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	9	19		#FDAD4A	0.426800850707033
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	10	19		#FECB68	0.393820887379589
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	11	19		#FECB68	0.378205527460129
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	12	19	endogenous	#FECB68	0.324669217002367
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	13	19	cueing|invalid|orienting	#FEE188	0.227244609959682
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	14	19		#FECB68	0.361747192054122
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	15	19	multisensory	#FECB68	0.36128649310213
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	16	19		#FECB68	0.346006351580542
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	17	19	shifts	#FECB68	0.303698261639086
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	18	19	covert	#FD913D	0.512695155859748
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	19	19		#FECB68	0.376913201130776
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	20	19	preparation	#FEE188	0.247861722928758
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	21	19	discrimination|training	#FDAD4A	0.444485027761738
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	22	19	sequences	#FDAD4A	0.411134439530395
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	23	19		#FDAD4A	0.426960915868378
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	1	20	personal|self|selfreferential|trait|traits	#FEE188	0.236970518056016
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	2	20	empathic|theory	#FEE188	0.269903657733995
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	3	20	attribution|intentional	#FFF1A9	0.180756979003502
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	4	20	elderly|oscillations	#FEE188	0.289270178149941
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	5	20	antipsychotic|virtual	#FFF1A9	0.172210105990092
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	6	20		#F03623	0.781801429396759
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	7	20	experiences	#FDAD4A	0.463347593904728
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	8	20	categorical|pressure	#FDAD4A	0.45295367096833
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	9	20	play|skills	#FEE188	0.205271888255796
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	10	20	automatic|trained	#FFF1A9	0.157038776447957
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	11	20		#FDAD4A	0.463550419427259
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	12	20	practice	#FEE188	0.299465011363875
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	13	20	visuomotor	#FFF1A9	0.194273992033212
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	14	20		#FECB68	0.382335741007298
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	15	20	tool	#FFF1A9	0.13631019421014
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	16	20	vision	#FDAD4A	0.402014299156806
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	17	20	visually	#FFF1A9	0.118534408578605
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	18	20	saccade|saccades|saccadic	#FEE188	0.283925210118718
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	19	20	locations	#FEE188	0.295741367235965
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	20	20	imagery|planning	#FDAD4A	0.420234453748612
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	21	20		#FDAD4A	0.427444808861506
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	22	20	rest	#FECB68	0.356476365309847
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	23	20	sequence	#FDAD4A	0.433938056415311
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	1	21	scenarios	#FFFFCC	0.0735243141371896
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	2	21	intention|intentions	#FFF1A9	0.177717320301073
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	3	21	causality|perspective	#FECB68	0.325702786728894
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	4	21	past	#FC622F	0.601952217471417
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	5	21		#FD913D	0.556712536013552
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	6	21	episode	#FC622F	0.618513461092393
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	7	21	improvement	#FEE188	0.294484193740711
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	8	21	masking|retention	#FDAD4A	0.488015131605604
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	9	21		#FECB68	0.392502803183002
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	10	21	dominant	#FECB68	0.348710388009013
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	11	21		#FDAD4A	0.426309717558356
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	12	21	sequential	#FD913D	0.51812921392485
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	13	21	fingers	#FEE188	0.292592776247951
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	14	21		#FECB68	0.309816639010381
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	15	21	gesture|gestures	#FEE188	0.225290946585807
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	16	21		#FEE188	0.245981080248306
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	17	21	hands	#FFFFCC	0.0155554519386973
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	18	21		#FECB68	0.31974194192119
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	19	21		#FECB68	0.394223324271219
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	20	21	eye|position	#FDAD4A	0.408941705837022
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	21	21	execution	#FDAD4A	0.440797566076056
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	22	21	finger|sensorimotor	#FEE188	0.294569905497014
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	23	21		#FECB68	0.30962408454013
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	1	22	moral|stories|story	#FFFFCC	0.0286933570562415
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	2	22	mentalizing|persons	#FEE188	0.237963271896931
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	3	22	default|restingstate	#FECB68	0.31315556345908
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	4	22	thinking|thought|thoughts	#FECB68	0.322097120436716
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	5	22	spontaneous	#FECB68	0.310683344059878
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	6	22	concentration|sensations	#FEE188	0.295508557275693
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	7	22	hierarchical|preference	#FEE188	0.217111770053858
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	8	22	effort|oral|simulation	#FDAD4A	0.401208453712139
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	9	22	interhemispheric|plasticity	#FECB68	0.355610799407606
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	10	22	imagined|imagine	#FEE188	0.234897601327309
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	11	22	tapping	#FECB68	0.381856549250644
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	12	22	foot|muscle|muscles|voluntary	#FEE188	0.215215577860971
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	13	22	limb	#FFF1A9	0.160614912921893
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	14	22	eyes|velocity	#FFFFCC	0.0885169153617514
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	15	22	biological|gaze|videos	#FEE188	0.205611661860339
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	16	22	body	#FDAD4A	0.455120595836369
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	17	22	grasping|orientation|reaching	#FFF1A9	0.183658718284592
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	18	22		#FECB68	0.34333408261417
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	19	22	mirror|shape	#FD913D	0.598496109323634
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	20	22	actions	#FECB68	0.315314248662856
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	21	22	action	#FDAD4A	0.401978098307811
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	22	22		#FECB68	0.311760795969327
+9eb9e773-e65d-330c-8ade-9ba56fff2b00	Tataranni PA	23	22	hand|movements|sensory	#FEE188	0.230406230217261

@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	1	1	auditory|speech	#FD913D	0.581697880404071
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	2	1		#FD913D	0.508798187936145
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	3	1	da|integration	#FC622F	0.634730783380379
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	4	1		#FC622F	0.622758561307791
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	5	1	physical|psychophysical|tactile	#FD913D	0.502042103361305
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	6	1		#FC622F	0.623418722146047
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	7	1	somatosensory|stimulation	#F03623	0.718500915377725
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	8	1	painful|pain	#FDAD4A	0.411078703124147
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	9	1		#FDAD4A	0.470788632011953
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	10	1	ratings	#FDAD4A	0.457124725875033
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	11	1	affective|affect	#FECB68	0.367398298578471
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	12	1	emotions	#FECB68	0.3564453168656
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	13	1	expression|expressions|facial	#FEE188	0.292167266696685
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	14	1		#FDAD4A	0.408336479864398
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	15	1		#FDAD4A	0.425152779213319
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	16	1	emotion|motion|neutral	#FECB68	0.387281672814896
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	17	1	rating	#FDAD4A	0.460436209028729
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	18	1	negative|positive	#FD913D	0.546725225065065
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	19	1		#FC622F	0.631041330025334
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	20	1	ear|order	#FD913D	0.577096790215024
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	21	1	motor	#F03623	0.71997093731783
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	22	1	visual	#FD913D	0.578487134596336
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	23	1	age|image|response	#FD913D	0.58474359284346
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	1	2	sound|sounds	#FECB68	0.38296848625008
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	2	2		#FDAD4A	0.480655945192625
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	3	2	audiovisual|bimodal|crossmodal	#FECB68	0.374719214795554
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	4	2		#FC622F	0.64226170031172
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	5	2		#FC622F	0.694198577866467
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	6	2		#FC622F	0.663777875926431
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	7	2	sensation	#FDAD4A	0.448837584255345
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	8	2	heat|noxious	#FECB68	0.343124825859996
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	9	2		#FDAD4A	0.463566059079971
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	10	2		#FDAD4A	0.456967011684609
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	11	2		#FDAD4A	0.441072180688464
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	12	2	valence	#FECB68	0.310280610540101
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	13	2	person|social	#FECB68	0.395522475492069
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	14	2		#FDAD4A	0.423719616273923
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	15	2	face|faces	#FDAD4A	0.416331397710627
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	16	2		#FDAD4A	0.476585937141471
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	17	2		#FD913D	0.521717620486965
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	18	2		#FD913D	0.587376800123825
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	19	2		#FC622F	0.632281125912874
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	20	2		#FC622F	0.642000890266914
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	21	2	images|spatial	#FC622F	0.61723285961441
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	22	2	control	#FD913D	0.54059286545367
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	23	2	time	#FC622F	0.616543652608294
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	1	3	acoustic|listening|musical|music|pitch	#FECB68	0.370467586532365
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	2	3	noise|tones	#FECB68	0.380550419890341
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	3	3		#FD913D	0.597353275717108
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	4	3		#F03623	0.724277349517157
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	5	3	frequency	#F03623	0.769402179169562
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	6	3		#F03623	0.789980008552516
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	7	3		#FD913D	0.515391656876375
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	8	3	temperature	#FECB68	0.301838485701275
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	9	3		#FDAD4A	0.472993513687516
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	10	3	pleasant|unpleasant	#FECB68	0.302791512060838
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	11	3	anxiety	#FECB68	0.369745466268049
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	12	3		#FDAD4A	0.491603769693953
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	13	3		#FD913D	0.538895839545095
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	14	3		#FDAD4A	0.478414827703093
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	15	3		#FDAD4A	0.482604978923159
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	16	3	picture	#FDAD4A	0.410616017831111
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	17	3		#FD913D	0.559910092613893
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	18	3	value	#FC622F	0.604332711233965
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	19	3	cue	#FD913D	0.574409520364917
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	20	3	error|target	#FD913D	0.567829573706652
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	21	3	attention	#FD913D	0.523467974130852
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	22	3		#FD913D	0.550981062535704
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	23	3	number	#FD913D	0.543168727162244
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	1	4	voice	#FECB68	0.39012995718765
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	2	4		#FDAD4A	0.454969870539298
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	3	4	hearing	#FDAD4A	0.486361783885448
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	4	4		#F03623	0.741591355380414
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	5	4	overt	#F03623	0.747015337044104
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	6	4		#D7141E	0.826739200108725
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	7	4		#FC622F	0.617853219537992
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	8	4	nociceptive|nonpainful|painrelated	#FECB68	0.394844602194506
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	9	4	unpleasantness	#FDAD4A	0.408392040879954
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	10	4	skin|subjective	#FD913D	0.541871287888274
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	11	4	depression	#FDAD4A	0.465418990817405
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	12	4	experience	#FD913D	0.522225330165675
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	13	4	female	#FD913D	0.534899558293991
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	14	4	male	#FD913D	0.574316461151319
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	15	4	pictures	#FDAD4A	0.418947384886991
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	16	4		#FD913D	0.537040794415918
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	17	4	perception	#FD913D	0.528127210212478
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	18	4		#FD913D	0.588528409703543
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	19	4		#FD913D	0.582964011367047
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	20	4		#FD913D	0.564359542062255
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	21	4	correct	#FDAD4A	0.466377944790682
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	22	4	work	#FDAD4A	0.497696407276609
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	23	4	memory	#FDAD4A	0.442097497347983
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	1	5	prosodic|prosody	#FEE188	0.274047119589005
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	2	5	phonetic	#FDAD4A	0.421341330895357
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	3	5	syllable|syllables	#FD913D	0.506830432355073
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	4	5		#F03623	0.725562824391023
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	5	5	lip|production	#FC622F	0.665406627661952
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	6	5	somatotopic	#FC622F	0.645832026555678
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	7	5		#F03623	0.707281370689535
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	8	5		#FD913D	0.576681408617698
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	9	5	empathy	#FD913D	0.587285736160585
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	10	5		#FC622F	0.638318465131595
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	11	5	disorder	#FDAD4A	0.407858606144481
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	12	5		#FC622F	0.620960406388709
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	13	5		#FC622F	0.609815414563317
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	14	5		#FD913D	0.550156055101374
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	15	5		#FD913D	0.537103812764106
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	16	5		#FD913D	0.552100812364907
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	17	5		#FD913D	0.556589252765976
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	18	5	mental	#FD913D	0.505974996810513
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	19	5	go	#FD913D	0.550238747567662
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	20	5	object	#FDAD4A	0.467328681150232
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	21	5		#FD913D	0.526753001514104
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	22	5		#FDAD4A	0.480223449023543
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	23	5	word|words	#FDAD4A	0.441998459772512
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	1	6		#FD913D	0.593422267983832
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	2	6		#FC622F	0.611268647910859
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	3	6		#F03623	0.701286742750855
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	4	6	vocal	#FC622F	0.634537647431913
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	5	6	articulatory	#FC622F	0.629422575518704
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	6	6		#F03623	0.794095242185448
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	7	6	oddball	#F03623	0.742128423826475
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	8	6	perceived	#FECB68	0.318605952745863
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	9	6	errorrelated	#FD913D	0.508946776137447
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	10	6	approach	#F03623	0.756872756728506
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	11	6	schizophrenia	#FD913D	0.548753380329373
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	12	6	acquisition	#FC622F	0.650964985922108
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	13	6		#FD913D	0.54837629339568
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	14	6		#FDAD4A	0.418978380079196
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	15	6		#FDAD4A	0.421067397421971
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	16	6		#FDAD4A	0.453051337804128
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	17	6		#FD913D	0.526971707887782
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	18	6		#FD913D	0.549058631277069
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	19	6		#FD913D	0.553302594894033
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	20	6	objects	#FDAD4A	0.475628871720229
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	21	6		#FD913D	0.516290893637419
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	22	6		#FDAD4A	0.457180836588814
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	23	6	language|semantic	#FDAD4A	0.406715694747835
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	1	7	dopamine|dopaminergic	#FDAD4A	0.447128475858312
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	2	7		#FDAD4A	0.453294653892036
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	3	7		#FD913D	0.58262616021112
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	4	7		#FC622F	0.661798226797314
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	5	7		#FC622F	0.654368652334321
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	6	7		#FC622F	0.670697651744179
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	7	7		#FC622F	0.622573230366437
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	8	7		#FD913D	0.520412443072435
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	9	7		#FD913D	0.586568542030822
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	10	7		#FD913D	0.534423311547599
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	11	7		#FD913D	0.556412531416346
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	12	7		#FD913D	0.516545150314583
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	13	7	linguistic|spoken	#FECB68	0.395357051928031
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	14	7		#FECB68	0.375473335230224
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	15	7	comprehension|sentence|sentences|syntactic	#FEE188	0.296786368513793
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	16	7		#FDAD4A	0.402959264163762
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	17	7		#FDAD4A	0.489518881877773
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	18	7	phonological|reading|read	#FDAD4A	0.496600377376045
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	19	7		#FD913D	0.534888349175782
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	20	7	perceptual|recognition	#FD913D	0.510105329324169
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	21	7		#FD913D	0.50491226271581
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	22	7		#FDAD4A	0.456414596665882
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	23	7	verb	#FDAD4A	0.430201411160645
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	1	8	outcome|reward	#FECB68	0.363816298784495
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	2	8	anticipation	#FECB68	0.380794176572323
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	3	8	outcomes	#FECB68	0.35689701246699
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	4	8	choice|choices	#FECB68	0.330765925458886
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	5	8	decisions|probability	#FDAD4A	0.474624881538805
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	6	8	reversal	#FDAD4A	0.469966277921817
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	7	8	classification|incorrect	#FECB68	0.374309662231807
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	8	8		#FDAD4A	0.473992005666603
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	9	8	agerelated|fluency|probes	#FDAD4A	0.403868739338198
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	10	8	engaged	#FECB68	0.309662924400166
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	11	8	explicit|knowledge	#FDAD4A	0.413250958519244
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	12	8		#FDAD4A	0.400066209851726
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	13	8		#FECB68	0.381942389614666
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	14	8		#FECB68	0.366879039084531
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	15	8		#FECB68	0.379993716344733
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	16	8		#FDAD4A	0.407665339274048
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	17	8	lexical	#FDAD4A	0.431911972482054
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	18	8		#FD913D	0.507291758785139
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	19	8		#FD913D	0.526152522251772
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	20	8		#FD913D	0.520918798154271
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	21	8	encoding	#FDAD4A	0.445839631161776
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	22	8	retrieval	#FDAD4A	0.408691350758209
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	23	8	verbal	#FDAD4A	0.424655938855127
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	1	9	incentive|monetary|money|rewards	#FEE188	0.26145984041766
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	2	9	loss	#FECB68	0.362230626875254
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	3	9		#FDAD4A	0.454331012885102
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	4	9		#FDAD4A	0.474420149986332
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	5	9	decisionmaking	#FDAD4A	0.428087926990846
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	6	9		#FDAD4A	0.473255162126778
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	7	9		#FDAD4A	0.450780062979443
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	8	9		#FDAD4A	0.445506902054884
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	9	9		#FDAD4A	0.42856389655422
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	10	9		#FECB68	0.390586331708704
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	11	9		#FECB68	0.342015499472773
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	12	9		#FECB68	0.326225286825093
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	13	9	noun	#FFF1A9	0.186427746838752
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	14	9	meaning	#FECB68	0.360791565151523
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	15	9	english	#FECB68	0.372430440303187
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	16	9	pseudoword|pseudowords	#FECB68	0.392119871486208
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	17	9		#FDAD4A	0.457767082716678
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	18	9		#FD913D	0.517796698727631
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	19	9	familiar|judgment	#FDAD4A	0.468936947130554
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	20	9	pair|pairs	#FDAD4A	0.425518177625802
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	21	9		#FD913D	0.554569871899349
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	22	9		#FDAD4A	0.492195643541119
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	23	9	letter|working	#FDAD4A	0.436221676402505
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	1	10	losses|reinforcement|win	#FEE188	0.28287641798188
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	2	10	gain	#FECB68	0.314462544940688
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	3	10	expectation	#FDAD4A	0.419203907330549
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	4	10	risk	#FDAD4A	0.416740277236839
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	5	10	fact	#FECB68	0.349934791637503
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	6	10	associative	#FECB68	0.362141917543412
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	7	10	familiarity|judgments|old	#FECB68	0.356597764473929
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	8	10	contextual|text	#FEE188	0.261808195979993
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	9	10	recall|retrieved	#FECB68	0.341197552690135
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	10	10	conceptual|semantically	#FEE188	0.255710049406633
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	11	10	grammatical|speakers	#FEE188	0.229397447076135
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	12	10	nouns	#FEE188	0.201032261061131
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	13	10	japanese	#FEE188	0.220079969825986
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	14	10	languages	#FECB68	0.34226111437431
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	15	10	written	#FDAD4A	0.41247235070196
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	16	10	chinese|phonology	#FECB68	0.316468378698427
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	17	10	orthographic	#FDAD4A	0.402205931030882
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	18	10		#FD913D	0.544386994573051
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	19	10		#FD913D	0.573907326912343
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	20	10	association|decision	#FD913D	0.569456509273962
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	21	10	selection	#FD913D	0.542370578487747
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	22	10	letters	#FDAD4A	0.477177657006882
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	23	10	demand|load	#FECB68	0.382535333068562
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	1	11	conditioned|conditioning	#FDAD4A	0.406279266954924
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	2	11		#FDAD4A	0.47216930153469
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	3	11	drug|placebo	#FECB68	0.383495503860055
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	4	11		#FD913D	0.525234808740727
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	5	11	associations	#FD913D	0.523441232534928
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	6	11		#FDAD4A	0.412762174577146
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	7	11	episodic|recollection	#FEE188	0.22476264912021
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	8	11		#FECB68	0.366864590018891
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	9	11		#FECB68	0.385060553490449
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	10	11	concepts	#FFF1A9	0.163576580710302
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	11	11		#FECB68	0.355481012354016
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	12	11		#FECB68	0.380715336439934
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	13	11	german	#FECB68	0.39522252596086
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	14	11	readers	#FDAD4A	0.446273650063939
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	15	11	character|name|naming	#FDAD4A	0.445955581845282
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	16	11		#FDAD4A	0.48063016388177
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	17	11	novel	#FD913D	0.510380721217816
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	18	11		#FD913D	0.570387438381904
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	19	11	child|children	#FD913D	0.534644267963043
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	20	11	adults	#FC622F	0.622888468215819
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	21	11	ability|feedback|learning	#FC622F	0.670818792986354
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	22	11	cues|delay	#FD913D	0.535771390482493
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	23	11	attentional|difficulty|targets	#FDAD4A	0.427771608125405
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	1	12	aversive|shock	#FDAD4A	0.425093828167588
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	2	12	reactivity	#FECB68	0.360083642642223
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	3	12	males|sex|women	#FECB68	0.342902247574887
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	4	12	animal	#FECB68	0.39426760065268
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	5	12	animals	#FEE188	0.299235635900122
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	6	12		#FECB68	0.36897386707978
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	7	12	remember|subsequent	#FEE188	0.231330344256494
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	8	12	autobiographical|memories	#FEE188	0.272071590969083
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	9	12		#FECB68	0.369109114511627
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	10	12	violation|violations	#FFF1A9	0.148885601831536
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	11	12	aphasia	#FECB68	0.39148167601955
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	12	12	nonwords	#FDAD4A	0.412547667966342
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	13	12	dyslexia	#FDAD4A	0.424904485748118
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	14	12		#FD913D	0.517754502778413
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	15	12	priming	#FECB68	0.330776177645757
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	16	12		#FD913D	0.536210611121175
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	17	12	category|repetition	#FD913D	0.533328761337166
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	18	12		#FD913D	0.582920677853085
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	19	12	developmental|development	#FD913D	0.522140139860812
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	20	12		#FD913D	0.590678957004398
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	21	12	space	#FC622F	0.603164798154218
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	22	12		#FDAD4A	0.477887392241855
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	23	12	color	#FECB68	0.385923550366751
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	1	13	threat	#FFF1A9	0.179612982425313
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	2	13	regulation	#FEE188	0.272734742874561
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	3	13		#FECB68	0.390718907736873
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	4	13	masked	#FEE188	0.297245467873282
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	5	13	scene|scenes	#FEE188	0.27613584517354
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	6	13		#FECB68	0.339405066865054
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	7	13	confidence|remembered	#FFF1A9	0.136536058274022
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	8	13		#FECB68	0.355949365738084
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	9	13		#FECB68	0.398659721996801
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	10	13	ambiguity|ambiguous	#FFFFCC	0.0679902602410225
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	11	13		#FDAD4A	0.434108236807845
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	12	13		#FD913D	0.528739076719483
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	13	13	writing	#FDAD4A	0.461930811992559
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	14	13		#FD913D	0.537788439767194
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	15	13	categorization|congruency|prime	#FDAD4A	0.441974813368026
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	16	13		#FD913D	0.543083019530767
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	17	13	mask	#FDAD4A	0.490726127480825
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	18	13		#FD913D	0.58956655101919
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	19	13		#FD913D	0.581646153147471
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	20	13		#FD913D	0.537103084243184
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	21	13	conflict|congruent|incongruent	#FDAD4A	0.419247179833941
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	22	13	errors	#FECB68	0.383660726874656
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	23	13	maintenance|probe|wm	#FECB68	0.370966796240098
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	1	14	angry|fearful|happy	#FFF1A9	0.164894037643126
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	2	14		#FEE188	0.222790357055057
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	3	14	awareness|conscious|ptsd	#FECB68	0.364838903256688
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	4	14		#FDAD4A	0.420779783312229
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	5	14	houses|photographs	#FFF1A9	0.135582513930514
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	6	14		#FECB68	0.355826704420432
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	7	14	hits	#FEE188	0.238489324047346
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	8	14	famous	#FECB68	0.3350788822489
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	9	14	names	#FEE188	0.214630019475544
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	10	14	family	#FECB68	0.301649143596111
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	11	14	competition|mouth	#FDAD4A	0.406110949848831
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	12	14	abilities	#FEE188	0.265417297188088
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	13	14	implicit|unfamiliar	#FDAD4A	0.440529968553169
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	14	14		#FD913D	0.540819667792211
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	15	14	tom	#FECB68	0.365761860117397
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	16	14		#FDAD4A	0.48763903776564
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	17	14		#FDAD4A	0.43458842527522
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	18	14	stop	#FDAD4A	0.440735849898499
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	19	14	inhibition|inhibitory|nogo	#FD913D	0.504403760199801
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	20	14	monitoring|stroop	#FDAD4A	0.403889307201474
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	21	14	interference	#FECB68	0.329544639608792
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	22	14		#FECB68	0.386494321612725
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	23	14	demands|executive	#FECB68	0.3211664355102
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	1	15	anger	#FFFFCC	0.0721827343317951
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	2	15	stress	#FFF1A9	0.130200805717367
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	3	15	feelings	#FEE188	0.251989016231443
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	4	15	salient	#FEE188	0.206306992130531
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	5	15	novelty	#FECB68	0.331693338712263
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	6	15	movie	#FFF1A9	0.106479475970172
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	7	15		#FECB68	0.398214269457206
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	8	15		#FDAD4A	0.449549543785023
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	9	15	longterm	#FECB68	0.344603004925668
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	10	15		#FDAD4A	0.452743782254519
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	11	15	reasoning|relational	#FEE188	0.209969438701421
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	12	15		#FDAD4A	0.495095582678605
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	13	15	presentations	#FECB68	0.342609444613869
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	14	15		#FD913D	0.512932671453165
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	15	15	identity	#FDAD4A	0.426362969916099
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	16	15		#FDAD4A	0.434479030061834
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	17	15	strategies|strategy	#FEE188	0.235888164254147
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	18	15	card|cards	#FEE188	0.240582134291673
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	19	15	gonogo	#FDAD4A	0.4922116726893
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	20	15		#FDAD4A	0.446367278627049
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	21	15	switching|switch	#FECB68	0.302535325816919
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	22	15		#FECB68	0.359242015093043
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	23	15	2back|rule	#FEE188	0.245111006806387
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	1	16	emotionally|mood|personality|sadness	#FFF1A9	0.114355628748098
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	2	16	disgust|sexual	#FEE188	0.232763784689394
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	3	16	olfactory	#FFF1A9	0.132169984959759
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	4	16	physiological	#FEE188	0.223818799950672
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	5	16	depressed|depressive|habituation	#FFF1A9	0.115454571431206
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	6	16	schizophrenic	#FEE188	0.263660513935092
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	7	16	colors|contexts	#FFF1A9	0.168690619187265
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	8	16	aging|encoded	#FECB68	0.376491281538003
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	9	16	goal	#FEE188	0.214824480915009
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	10	16		#FDAD4A	0.438038652042394
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	11	16	autism|autistic|nonverbal	#FECB68	0.307162737669984
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	12	16		#FDAD4A	0.461384700929635
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	13	16	bottomup|repetitions	#FEE188	0.291999704802876
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	14	16	adaptation	#FD913D	0.506113203621618
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	15	16	irrelevant	#FECB68	0.37660181951646
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	16	16	distractor|distractors	#FEE188	0.264631105214873
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	17	16		#FECB68	0.397900233712748
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	18	16	subtraction	#FEE188	0.226517053224101
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	19	16	1back|nback	#FEE188	0.216884586276742
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	20	16	manipulation|rules	#FEE188	0.239412345016498
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	21	16		#FECB68	0.37207604043257
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	22	16		#FECB68	0.303390036849244
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	23	16	digit	#FECB68	0.333650315721592
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	1	17	avoidance	#FECB68	0.385555630221079
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	2	17		#FECB68	0.332128841398181
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	3	17	eating|food	#FFF1A9	0.164368207012706
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	4	17	taste	#FFFFCC	0.0836435139980212
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	5	17	bipolar	#FFF1A9	0.176615462400684
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	6	17	illness|uncertainty	#FFF1A9	0.155407184469223
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	7	17	females|probabilistic	#FFF1A9	0.139682061319664
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	8	17	rejection	#FFFFCC	0.0784233929233998
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	9	17	colour|paired	#FEE188	0.244311279447458
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	10	17		#FDAD4A	0.444526385245685
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	11	17		#FDAD4A	0.454419838873874
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	12	17		#FDAD4A	0.459522155556556
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	13	17	taskirrelevant	#FECB68	0.336714605551464
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	14	17		#FDAD4A	0.44139753340141
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	15	17	suppression	#FDAD4A	0.426293424893001
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	16	17		#FDAD4A	0.448546794865546
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	17	17	shifting|shortterm	#FEE188	0.283576091413984
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	18	17	digits	#FECB68	0.375006120341903
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	19	17	search	#FDAD4A	0.492432743952052
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	20	17	counting|taskrelated	#FDAD4A	0.452958392496825
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	21	17	topdown	#FECB68	0.30806355386711
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	22	17	visuospatial	#FEE188	0.29291049911402
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	23	17	arithmetic|calculation|solving	#FFF1A9	0.170924743752536
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	1	18	addiction|craving|drugs	#FEE188	0.277534578033309
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	2	18	allele|genotype|polymorphism	#FFF1A9	0.196584756037543
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	3	18	motivation	#FEE188	0.293402665426848
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	4	18	heart	#FEE188	0.201270220816579
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	5	18	sleep	#FECB68	0.347610070830504
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	6	18	expectancy	#FEE188	0.297332845710403
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	7	18	phasic|salience	#FDAD4A	0.424841378503079
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	8	18	adolescence|adolescents	#FECB68	0.347107021836563
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	9	18	intelligence|tracking	#FFF1A9	0.164089219754046
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	10	18		#FDAD4A	0.485413649942077
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	11	18	serial	#FEE188	0.285022986976651
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	12	18		#FDAD4A	0.498976280528954
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	13	18	spatially|taskrelevant	#FDAD4A	0.487088112734863
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	14	18		#FDAD4A	0.458127787257811
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	15	18	attended|attend|unattended	#FEE188	0.236021860979144
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	16	18	rotation|shapes	#FECB68	0.341927021246681
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	17	18	rehearsal	#FDAD4A	0.428728022697301
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	18	18	learned	#FD913D	0.593076934224466
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	19	18		#FC622F	0.671034488360454
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	20	18	cued|preparatory	#FD913D	0.573631841815193
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	21	18		#FD913D	0.593219874052534
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	22	18		#FDAD4A	0.416266939974767
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	23	18	numbers|numerical	#FEE188	0.236576491205587
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	1	19	future	#FECB68	0.338455935101867
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	2	19	negatively	#FECB68	0.380117449837633
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	3	19	distress|epilepsy|selfreported	#FFFFCC	0.0846424559930052
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	4	19	anticipatory|cocaine|probabilities|smoking	#FECB68	0.363275888850864
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	5	19	alcohol|amount|impulsivity	#FDAD4A	0.406251322238044
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	6	19	game|success	#FFF1A9	0.149579420026399
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	7	19	adhd|childhood|engagement	#FD913D	0.537870159172279
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	8	19		#FD913D	0.551390727153036
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	9	19		#FD913D	0.549852961699931
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	10	19		#FD913D	0.539320822219538
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	11	19		#FD913D	0.535637750151397
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	12	19	endogenous	#FECB68	0.386896146569803
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	13	19	cueing|invalid|orienting	#FECB68	0.345006388941105
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	14	19		#FDAD4A	0.495350158074478
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	15	19	multisensory	#FDAD4A	0.435406679750467
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	16	19		#FDAD4A	0.497017652000588
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	17	19	shifts	#FD913D	0.543145151788445
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	18	19	covert	#FD913D	0.571771118181978
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	19	19		#FC622F	0.654317878662595
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	20	19	preparation	#F03623	0.747721464641211
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	21	19	discrimination|training	#FD913D	0.525404508108995
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	22	19	sequences	#FC622F	0.635433373971237
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	23	19		#F03623	0.776683721442536
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	1	20	personal|self|selfreferential|trait|traits	#FECB68	0.30651424955223
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	2	20	empathic|theory	#FECB68	0.389092479400797
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	3	20	attribution|intentional	#FFFFCC	0
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	4	20	elderly|oscillations	#FECB68	0.373734542581261
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	5	20	antipsychotic|virtual	#FEE188	0.248353463368082
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	6	20		#FC622F	0.653291856731686
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	7	20	experiences	#FDAD4A	0.451212008647991
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	8	20	categorical|pressure	#FEE188	0.297897448658396
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	9	20	play|skills	#FDAD4A	0.447819132835982
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	10	20	automatic|trained	#FDAD4A	0.490979992022776
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	11	20		#B10026	0.914585688134474
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	12	20	practice	#F03623	0.730655605208039
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	13	20	visuomotor	#FC622F	0.68195129522263
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	14	20		#FC622F	0.66048662586545
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	15	20	tool	#FECB68	0.30755148546497
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	16	20	vision	#FECB68	0.300130652185381
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	17	20	visually	#FC622F	0.663052759432329
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	18	20	saccade|saccades|saccadic	#FECB68	0.332245952159855
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	19	20	locations	#FC622F	0.604476878597069
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	20	20	imagery|planning	#FD913D	0.568366329430343
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	21	20		#F03623	0.756419442029516
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	22	20	rest	#F03623	0.784790437890498
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	23	20	sequence	#F03623	0.792606546663813
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	1	21	scenarios	#FFF1A9	0.112690415079477
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	2	21	intention|intentions	#FFF1A9	0.152550461084496
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	3	21	causality|perspective	#FEE188	0.248754813287666
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	4	21	past	#FFF1A9	0.14706536964456
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	5	21		#FC622F	0.679733776175195
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	6	21	episode	#FEE188	0.237769182437997
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	7	21	improvement	#FDAD4A	0.450424690095685
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	8	21	masking|retention	#FECB68	0.398833261810322
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	9	21		#B10026	0.94417659817014
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	10	21	dominant	#FD913D	0.528015231789898
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	11	21		#B10026	1
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	12	21	sequential	#B10026	0.943466924531213
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	13	21	fingers	#FC622F	0.678251958553684
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	14	21		#FD913D	0.552497171249552
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	15	21	gesture|gestures	#FEE188	0.200795394333978
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	16	21		#FDAD4A	0.499286775399353
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	17	21	hands	#FDAD4A	0.415729180567698
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	18	21		#FD913D	0.557499353591226
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	19	21		#FD913D	0.535280351544788
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	20	21	eye|position	#FD913D	0.559382894999979
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	21	21	execution	#FC622F	0.699342580247221
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	22	21	finger|sensorimotor	#D7141E	0.87413639974764
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	23	21		#D7141E	0.838414474106515
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	1	22	moral|stories|story	#FFF1A9	0.169390251176992
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	2	22	mentalizing|persons	#FEE188	0.200832577426106
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	3	22	default|restingstate	#FECB68	0.302998410064011
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	4	22	thinking|thought|thoughts	#FEE188	0.261177632737049
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	5	22	spontaneous	#FDAD4A	0.403548119867492
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	6	22	concentration|sensations	#FC622F	0.633367518124812
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	7	22	hierarchical|preference	#FD913D	0.514187469087943
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	8	22	effort|oral|simulation	#F03623	0.75906537096417
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	9	22	interhemispheric|plasticity	#B10026	0.951464677456823
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	10	22	imagined|imagine	#F03623	0.766772447738701
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	11	22	tapping	#B10026	0.917850135737587
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	12	22	foot|muscle|muscles|voluntary	#D7141E	0.822523917272654
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	13	22	limb	#FC622F	0.640882234742002
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	14	22	eyes|velocity	#FD913D	0.554130676161899
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	15	22	biological|gaze|videos	#FEE188	0.203030230957319
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	16	22	body	#FDAD4A	0.496821381976894
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	17	22	grasping|orientation|reaching	#FECB68	0.357994721931283
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	18	22		#FD913D	0.532926079329754
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	19	22	mirror|shape	#FDAD4A	0.400134492963164
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	20	22	actions	#FDAD4A	0.465576658019403
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	21	22	action	#FC622F	0.632123212037362
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	22	22		#D7141E	0.803768095421544
+bd3c63d5-ddbb-3b3c-a73c-24cdb1b91acc	Pekar JJ	23	22	hand|movements|sensory	#F03623	0.768526504902268

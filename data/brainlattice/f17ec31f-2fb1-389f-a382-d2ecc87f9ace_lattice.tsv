@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	1	1	auditory|speech	#FEE188	0.263737862606594
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	2	1		#FEE188	0.244005887349056
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	3	1	da|integration	#FDAD4A	0.437269306278638
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	4	1		#FECB68	0.391130174880215
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	5	1	physical|psychophysical|tactile	#FEE188	0.286277455945053
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	6	1		#FECB68	0.344340598194185
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	7	1	somatosensory|stimulation	#FEE188	0.228916721712607
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	8	1	painful|pain	#FECB68	0.305968521616451
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	9	1		#FECB68	0.359935003707187
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	10	1	ratings	#FDAD4A	0.462540158043809
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	11	1	affective|affect	#FD913D	0.514858624685004
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	12	1	emotions	#FD913D	0.524481844748333
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	13	1	expression|expressions|facial	#FDAD4A	0.454080597109197
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	14	1		#FC622F	0.632324299480238
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	15	1		#FC622F	0.634247120489155
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	16	1	emotion|motion|neutral	#FD913D	0.591160527296179
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	17	1	rating	#FD913D	0.566382774006176
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	18	1	negative|positive	#FC622F	0.614613912603867
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	19	1		#FC622F	0.646197832956054
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	20	1	ear|order	#FC622F	0.616921561610613
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	21	1	motor	#FECB68	0.378515316460213
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	22	1	visual	#FD913D	0.508149391298445
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	23	1	age|image|response	#FC622F	0.610479606527196
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	1	2	sound|sounds	#FFF1A9	0.147894988835953
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	2	2		#FEE188	0.215273470307754
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	3	2	audiovisual|bimodal|crossmodal	#FEE188	0.200627879706794
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	4	2		#FECB68	0.392758826041498
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	5	2		#FECB68	0.373060046562315
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	6	2		#FECB68	0.35808150554242
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	7	2	sensation	#FEE188	0.229747494171933
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	8	2	heat|noxious	#FEE188	0.259350737025818
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	9	2		#FECB68	0.38570453304181
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	10	2		#FD913D	0.505467651145311
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	11	2		#FD913D	0.546434913531336
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	12	2	valence	#FD913D	0.542620864185308
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	13	2	person|social	#D7141E	0.82339836255124
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	14	2		#FC622F	0.639643746097627
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	15	2	face|faces	#FD913D	0.597304288514912
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	16	2		#FC622F	0.66647325899728
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	17	2		#FC622F	0.672073938308166
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	18	2		#FC622F	0.676933674675053
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	19	2		#FC622F	0.660516845184699
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	20	2		#FC622F	0.610335701889734
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	21	2	images|spatial	#FC622F	0.600955531594286
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	22	2	control	#FC622F	0.63589407961077
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	23	2	time	#FC622F	0.611649140735373
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	1	3	acoustic|listening|musical|music|pitch	#FFFFCC	0.0606404385325959
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	2	3	noise|tones	#FFF1A9	0.130294902546529
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	3	3		#FEE188	0.297077759103115
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	4	3		#FECB68	0.360459764929061
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	5	3	frequency	#FECB68	0.347802855191491
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	6	3		#FDAD4A	0.427550036523824
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	7	3		#FECB68	0.362402215837534
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	8	3	temperature	#FECB68	0.387305691517493
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	9	3		#FDAD4A	0.403216670394747
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	10	3	pleasant|unpleasant	#FECB68	0.326817189649296
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	11	3	anxiety	#FDAD4A	0.40877742644142
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	12	3		#FC622F	0.605062201784681
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	13	3		#FC622F	0.660501655691954
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	14	3		#FC622F	0.655718777790817
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	15	3		#FC622F	0.680860773371623
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	16	3	picture	#F03623	0.711649573811903
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	17	3		#F03623	0.71837350251004
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	18	3	value	#FC622F	0.637993109555863
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	19	3	cue	#FC622F	0.633911017145498
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	20	3	error|target	#FC622F	0.630639719818701
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	21	3	attention	#FC622F	0.66264306689642
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	22	3		#FC622F	0.677037140936529
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	23	3	number	#FC622F	0.655193897698991
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	1	4	voice	#FFF1A9	0.167849810464274
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	2	4		#FEE188	0.205560012646492
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	3	4	hearing	#FEE188	0.280728918299575
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	4	4		#FECB68	0.30724823705735
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	5	4	overt	#FECB68	0.311514761228267
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	6	4		#FECB68	0.346953348875588
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	7	4		#FDAD4A	0.428410945182145
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	8	4	nociceptive|nonpainful|painrelated	#FEE188	0.261476878705776
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	9	4	unpleasantness	#FECB68	0.389810680357868
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	10	4	skin|subjective	#FDAD4A	0.469720135929673
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	11	4	depression	#FDAD4A	0.496543534037916
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	12	4	experience	#FD913D	0.594794914036432
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	13	4	female	#FDAD4A	0.49855070338116
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	14	4	male	#FC622F	0.611558727212299
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	15	4	pictures	#FC622F	0.676614906875018
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	16	4		#F03623	0.734793349312685
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	17	4	perception	#FC622F	0.603447179699333
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	18	4		#F03623	0.735277419797048
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	19	4		#F03623	0.734105699541233
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	20	4		#F03623	0.719263368927055
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	21	4	correct	#F03623	0.777381007971572
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	22	4	work	#F03623	0.725333195467869
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	23	4	memory	#F03623	0.739229583362683
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	1	5	prosodic|prosody	#FEE188	0.202315138573197
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	2	5	phonetic	#FFF1A9	0.197363209453853
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	3	5	syllable|syllables	#FEE188	0.260465914213067
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	4	5		#FEE188	0.277300840590476
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	5	5	lip|production	#FFF1A9	0.130268499320999
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	6	5	somatotopic	#FFFFCC	0.0778142761024505
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	7	5		#FD913D	0.534991090858659
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	8	5		#FD913D	0.598784885447153
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	9	5	empathy	#FC622F	0.621661049771317
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	10	5		#FC622F	0.663682989858602
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	11	5	disorder	#FD913D	0.581164018469799
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	12	5		#FC622F	0.647904180281729
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	13	5		#FC622F	0.637221267996644
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	14	5		#FC622F	0.667707920125087
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	15	5		#FC622F	0.693345840340179
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	16	5		#F03623	0.705633121739953
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	17	5		#F03623	0.71743735756896
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	18	5	mental	#D7141E	0.81334546307375
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	19	5	go	#F03623	0.759938105527649
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	20	5	object	#FD913D	0.590786774688148
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	21	5		#F03623	0.728503784212518
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	22	5		#F03623	0.705002186511698
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	23	5	word|words	#FD913D	0.575301623109078
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	1	6		#FECB68	0.375250264060254
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	2	6		#FDAD4A	0.400726559094475
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	3	6		#FDAD4A	0.400130526063357
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	4	6	vocal	#FFF1A9	0.192406162618216
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	5	6	articulatory	#FFF1A9	0.103454518138381
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	6	6		#FECB68	0.380818441634832
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	7	6	oddball	#FC622F	0.611977552433311
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	8	6	perceived	#FD913D	0.557607121812794
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	9	6	errorrelated	#FC622F	0.687802618368758
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	10	6	approach	#FD913D	0.528836130782963
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	11	6	schizophrenia	#FC622F	0.645590733329135
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	12	6	acquisition	#FDAD4A	0.428054283070542
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	13	6		#FD913D	0.592899515522037
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	14	6		#FD913D	0.513051507486394
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	15	6		#FD913D	0.539161032167038
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	16	6		#FD913D	0.567908007197878
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	17	6		#FC622F	0.626448389888003
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	18	6		#FC622F	0.658019563494761
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	19	6		#FC622F	0.692791961040575
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	20	6	objects	#FC622F	0.62884364368431
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	21	6		#F03623	0.718262627224683
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	22	6		#FC622F	0.647870473830983
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	23	6	language|semantic	#FD913D	0.565180260711233
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	1	7	dopamine|dopaminergic	#FFF1A9	0.196420269953968
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	2	7		#FECB68	0.306324803407772
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	3	7		#FD913D	0.52078577283562
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	4	7		#FD913D	0.570207121917857
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	5	7		#FC622F	0.615705598884729
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	6	7		#FC622F	0.629426871117405
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	7	7		#FC622F	0.696162809036351
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	8	7		#F03623	0.743394036264607
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	9	7		#F03623	0.772214731383635
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	10	7		#F03623	0.751807521200497
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	11	7		#FC622F	0.680041552630711
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	12	7		#FC622F	0.648821953999582
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	13	7	linguistic|spoken	#FDAD4A	0.402832001787336
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	14	7		#FDAD4A	0.46536924205236
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	15	7	comprehension|sentence|sentences|syntactic	#FDAD4A	0.422900535706848
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	16	7		#FDAD4A	0.490600260826837
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	17	7		#FD913D	0.544399664910737
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	18	7	phonological|reading|read	#FDAD4A	0.486787655820902
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	19	7		#FC622F	0.642121774379228
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	20	7	perceptual|recognition	#F03623	0.724048945310831
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	21	7		#F03623	0.725391417234656
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	22	7		#FC622F	0.670627501434422
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	23	7	verb	#FC622F	0.650195538492199
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	1	8	outcome|reward	#FEE188	0.288448810041841
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	2	8	anticipation	#FEE188	0.262527605114408
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	3	8	outcomes	#FECB68	0.319834797397889
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	4	8	choice|choices	#FDAD4A	0.466403781165963
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	5	8	decisions|probability	#FC622F	0.62524364683423
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	6	8	reversal	#FD913D	0.59582965668876
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	7	8	classification|incorrect	#FDAD4A	0.473921724473944
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	8	8		#FC622F	0.6892899504222
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	9	8	agerelated|fluency|probes	#FC622F	0.67840657785178
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	10	8	engaged	#FD913D	0.596890843239098
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	11	8	explicit|knowledge	#FC622F	0.618162743972106
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	12	8		#FD913D	0.578445035811707
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	13	8		#FD913D	0.50924151890127
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	14	8		#FDAD4A	0.470930243261221
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	15	8		#FDAD4A	0.466579671903579
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	16	8		#FDAD4A	0.467576154234652
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	17	8	lexical	#FDAD4A	0.41052451140139
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	18	8		#FD913D	0.579880013469416
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	19	8		#FC622F	0.645743119641843
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	20	8		#F03623	0.721056163892541
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	21	8	encoding	#FC622F	0.669878071456227
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	22	8	retrieval	#F03623	0.775687139208011
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	23	8	verbal	#FC622F	0.686683986248092
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	1	9	incentive|monetary|money|rewards	#FFF1A9	0.118838384013052
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	2	9	loss	#FEE188	0.263553051071115
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	3	9		#FDAD4A	0.482655684152328
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	4	9		#FD913D	0.579045651562197
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	5	9	decisionmaking	#FC622F	0.68502680935683
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	6	9		#FC622F	0.685853598982847
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	7	9		#FC622F	0.686238097302818
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	8	9		#FC622F	0.682701097779505
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	9	9		#F03623	0.715826814607493
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	10	9		#FC622F	0.678228993487188
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	11	9		#FD913D	0.596231805003084
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	12	9		#FD913D	0.535200873636156
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	13	9	noun	#FECB68	0.32789341505175
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	14	9	meaning	#FDAD4A	0.496482641380441
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	15	9	english	#FDAD4A	0.404970254264163
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	16	9	pseudoword|pseudowords	#FECB68	0.361707070263876
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	17	9		#FD913D	0.518768758279454
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	18	9		#FC622F	0.640564268572817
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	19	9	familiar|judgment	#F03623	0.73477106835246
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	20	9	pair|pairs	#FC622F	0.666128477011791
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	21	9		#F03623	0.727510786356204
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	22	9		#F03623	0.73539983572881
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	23	9	letter|working	#F03623	0.701532654127474
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	1	10	losses|reinforcement|win	#FEE188	0.243104350927551
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	2	10	gain	#FFF1A9	0.162200923908389
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	3	10	expectation	#FEE188	0.298603854220832
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	4	10	risk	#FD913D	0.535690188870906
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	5	10	fact	#FD913D	0.503258817727725
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	6	10	associative	#FD913D	0.579430428298942
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	7	10	familiarity|judgments|old	#F03623	0.720983746538492
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	8	10	contextual|text	#FDAD4A	0.493558727974261
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	9	10	recall|retrieved	#FD913D	0.575282875015926
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	10	10	conceptual|semantically	#FDAD4A	0.494262069032064
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	11	10	grammatical|speakers	#FDAD4A	0.402618795485363
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	12	10	nouns	#FECB68	0.310171661316946
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	13	10	japanese	#FECB68	0.378851498505377
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	14	10	languages	#FECB68	0.357400684781412
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	15	10	written	#FDAD4A	0.441296382026971
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	16	10	chinese|phonology	#FDAD4A	0.416739591402789
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	17	10	orthographic	#FDAD4A	0.473411937331555
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	18	10		#F03623	0.703792622508828
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	19	10		#F03623	0.730056570763207
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	20	10	association|decision	#FC622F	0.694729118072763
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	21	10	selection	#FC622F	0.654534122054874
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	22	10	letters	#FD913D	0.556175124783058
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	23	10	demand|load	#F03623	0.729650296744774
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	1	11	conditioned|conditioning	#FFF1A9	0.103432658902771
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	2	11		#FECB68	0.332259754755825
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	3	11	drug|placebo	#FECB68	0.383327442647426
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	4	11		#FD913D	0.510664798822534
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	5	11	associations	#FDAD4A	0.426914436913181
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	6	11		#FC622F	0.608489454812768
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	7	11	episodic|recollection	#FD913D	0.514760727634221
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	8	11		#FC622F	0.610090155818836
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	9	11		#FC622F	0.645481320628249
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	10	11	concepts	#FECB68	0.332124193447107
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	11	11		#FD913D	0.538067610623761
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	12	11		#FD913D	0.508353653859975
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	13	11	german	#FECB68	0.37330281393053
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	14	11	readers	#FD913D	0.518770779747193
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	15	11	character|name|naming	#FDAD4A	0.484519533547233
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	16	11		#FD913D	0.55636144904632
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	17	11	novel	#FC622F	0.621002632940394
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	18	11		#FC622F	0.668395702645633
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	19	11	child|children	#FC622F	0.677933319581742
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	20	11	adults	#FC622F	0.696505208688205
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	21	11	ability|feedback|learning	#FC622F	0.615909643783667
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	22	11	cues|delay	#FD913D	0.554076825687449
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	23	11	attentional|difficulty|targets	#F03623	0.734464002472688
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	1	12	aversive|shock	#FECB68	0.340125273898236
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	2	12	reactivity	#FEE188	0.224285501361927
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	3	12	males|sex|women	#FECB68	0.309783233820596
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	4	12	animal	#FECB68	0.3427698399569
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	5	12	animals	#FEE188	0.277162720418099
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	6	12		#FD913D	0.519695936996491
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	7	12	remember|subsequent	#FEE188	0.296796773759514
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	8	12	autobiographical|memories	#FECB68	0.300943798165155
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	9	12		#FC622F	0.621642212084358
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	10	12	violation|violations	#FEE188	0.292515428531986
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	11	12	aphasia	#FD913D	0.530425123925614
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	12	12	nonwords	#FDAD4A	0.457536321910466
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	13	12	dyslexia	#FDAD4A	0.476273393162984
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	14	12		#FC622F	0.625127170029874
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	15	12	priming	#FDAD4A	0.463558948636829
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	16	12		#FC622F	0.653956861543523
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	17	12	category|repetition	#FD913D	0.574742715146607
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	18	12		#FC622F	0.691531449247904
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	19	12	developmental|development	#FD913D	0.573352343969734
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	20	12		#F03623	0.719202224663988
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	21	12	space	#FC622F	0.630185050874497
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	22	12		#F03623	0.736599109628978
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	23	12	color	#FC622F	0.690811077465997
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	1	13	threat	#FEE188	0.289006517939559
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	2	13	regulation	#FDAD4A	0.441747469952647
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	3	13		#FDAD4A	0.461245730894643
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	4	13	masked	#FECB68	0.351098645408557
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	5	13	scene|scenes	#FECB68	0.322881188101928
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	6	13		#FDAD4A	0.475239846265649
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	7	13	confidence|remembered	#FECB68	0.366943357901141
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	8	13		#FD913D	0.57736257382115
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	9	13		#FC622F	0.671279733166879
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	10	13	ambiguity|ambiguous	#FECB68	0.319319072991496
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	11	13		#FC622F	0.609931268567088
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	12	13		#FC622F	0.602792139252708
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	13	13	writing	#FECB68	0.341940504506491
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	14	13		#FC622F	0.664904776107284
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	15	13	categorization|congruency|prime	#FD913D	0.548750723429448
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	16	13		#F03623	0.72026241506857
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	17	13	mask	#FC622F	0.633024922441542
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	18	13		#F03623	0.771105794773255
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	19	13		#F03623	0.79626087371016
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	20	13		#F03623	0.776670531683801
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	21	13	conflict|congruent|incongruent	#F03623	0.705619522921563
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	22	13	errors	#F03623	0.708586161684514
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	23	13	maintenance|probe|wm	#F03623	0.739362498535226
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	1	14	angry|fearful|happy	#FEE188	0.268953035201649
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	2	14		#FECB68	0.380394028513063
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	3	14	awareness|conscious|ptsd	#FECB68	0.390156864178883
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	4	14		#FD913D	0.531124468072926
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	5	14	houses|photographs	#FECB68	0.303209706429113
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	6	14		#FD913D	0.508181868774745
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	7	14	hits	#FECB68	0.347470084223011
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	8	14	famous	#FD913D	0.541136597157763
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	9	14	names	#FDAD4A	0.489814081128744
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	10	14	family	#FDAD4A	0.498978080844282
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	11	14	competition|mouth	#FDAD4A	0.491025502881773
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	12	14	abilities	#FECB68	0.391445144555933
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	13	14	implicit|unfamiliar	#FD913D	0.523718616578108
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	14	14		#FC622F	0.670785422580221
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	15	14	tom	#D7141E	0.872744413579668
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	16	14		#F03623	0.789727051501092
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	17	14		#D7141E	0.822319339501744
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	18	14	stop	#F03623	0.769787881243868
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	19	14	inhibition|inhibitory|nogo	#D7141E	0.852479736061031
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	20	14	monitoring|stroop	#FC622F	0.689880643091769
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	21	14	interference	#F03623	0.716723291960303
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	22	14		#F03623	0.767396796986578
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	23	14	demands|executive	#F03623	0.753531382026632
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	1	15	anger	#FEE188	0.221616640455979
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	2	15	stress	#FEE188	0.259744347449261
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	3	15	feelings	#FECB68	0.39330937962138
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	4	15	salient	#FD913D	0.520396425654964
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	5	15	novelty	#FECB68	0.308392308448902
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	6	15	movie	#FECB68	0.362225420695102
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	7	15		#FC622F	0.620495067478371
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	8	15		#F03623	0.706663833330134
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	9	15	longterm	#FD913D	0.579636970855679
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	10	15		#D7141E	0.821778147341412
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	11	15	reasoning|relational	#F03623	0.738572281551117
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	12	15		#F03623	0.733578961276175
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	13	15	presentations	#FEE188	0.286594048116663
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	14	15		#FC622F	0.658514386845459
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	15	15	identity	#FC622F	0.626822180098174
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	16	15		#F03623	0.79942585385464
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	17	15	strategies|strategy	#FC622F	0.611528575491851
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	18	15	card|cards	#F03623	0.796036614036893
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	19	15	gonogo	#B10026	1
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	20	15		#D7141E	0.828762197915161
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	21	15	switching|switch	#FC622F	0.644142329007211
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	22	15		#F03623	0.747314266719892
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	23	15	2back|rule	#FC622F	0.694657018705414
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	1	16	emotionally|mood|personality|sadness	#FECB68	0.311450541238157
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	2	16	disgust|sexual	#FFF1A9	0.145806693463299
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	3	16	olfactory	#FFF1A9	0.148807464768111
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	4	16	physiological	#FECB68	0.302781746713808
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	5	16	depressed|depressive|habituation	#FECB68	0.377965340976077
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	6	16	schizophrenic	#FECB68	0.382125165004401
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	7	16	colors|contexts	#FECB68	0.331333014140788
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	8	16	aging|encoded	#FD913D	0.531534823884083
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	9	16	goal	#FD913D	0.526988931145765
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	10	16		#D7141E	0.832917691164761
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	11	16	autism|autistic|nonverbal	#FD913D	0.580432678104451
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	12	16		#D7141E	0.806339880201596
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	13	16	bottomup|repetitions	#FD913D	0.51034734888487
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	14	16	adaptation	#FDAD4A	0.489032287865553
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	15	16	irrelevant	#FC622F	0.683430527830988
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	16	16	distractor|distractors	#FDAD4A	0.448197981687285
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	17	16		#F03623	0.752377966469496
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	18	16	subtraction	#FC622F	0.6572980880546
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	19	16	1back|nback	#F03623	0.751087477411024
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	20	16	manipulation|rules	#FD913D	0.576436057138614
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	21	16		#F03623	0.739500413645835
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	22	16		#F03623	0.740114414629996
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	23	16	digit	#FC622F	0.662172364193974
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	1	17	avoidance	#FEE188	0.268067898612071
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	2	17		#FECB68	0.301153191515178
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	3	17	eating|food	#FFF1A9	0.118032077634037
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	4	17	taste	#FFF1A9	0.181521110010377
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	5	17	bipolar	#FDAD4A	0.409508368589721
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	6	17	illness|uncertainty	#FD913D	0.51537692080861
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	7	17	females|probabilistic	#FDAD4A	0.452741740743779
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	8	17	rejection	#FDAD4A	0.456540206296651
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	9	17	colour|paired	#FD913D	0.583989154151816
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	10	17		#D7141E	0.831744090882018
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	11	17		#D7141E	0.823363916747966
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	12	17		#D7141E	0.808017554356715
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	13	17	taskirrelevant	#FD913D	0.589884847494473
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	14	17		#FD913D	0.592228276211202
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	15	17	suppression	#FECB68	0.380526910571359
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	16	17		#FC622F	0.60359069216949
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	17	17	shifting|shortterm	#FD913D	0.51843805765505
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	18	17	digits	#FD913D	0.531926078503786
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	19	17	search	#FD913D	0.542795774959209
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	20	17	counting|taskrelated	#FD913D	0.573789172443226
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	21	17	topdown	#F03623	0.709116537310664
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	22	17	visuospatial	#FD913D	0.548758591863631
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	23	17	arithmetic|calculation|solving	#F03623	0.704585134090829
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	1	18	addiction|craving|drugs	#FFF1A9	0.174966502145841
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	2	18	allele|genotype|polymorphism	#FEE188	0.261803145879184
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	3	18	motivation	#FEE188	0.20740546103847
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	4	18	heart	#FECB68	0.397971381659762
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	5	18	sleep	#FECB68	0.377386243940892
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	6	18	expectancy	#FC622F	0.623386136769178
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	7	18	phasic|salience	#FD913D	0.596616322221535
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	8	18	adolescence|adolescents	#FDAD4A	0.480733261874652
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	9	18	intelligence|tracking	#FD913D	0.501773862410896
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	10	18		#F03623	0.720839875203604
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	11	18	serial	#FDAD4A	0.449096483047712
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	12	18		#F03623	0.7246874075324
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	13	18	spatially|taskrelevant	#FD913D	0.513574205799361
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	14	18		#FD913D	0.568402074673278
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	15	18	attended|attend|unattended	#FDAD4A	0.425129690034323
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	16	18	rotation|shapes	#FECB68	0.303362115318409
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	17	18	rehearsal	#FECB68	0.37054458377147
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	18	18	learned	#FECB68	0.338018984966706
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	19	18		#FD913D	0.557160363555781
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	20	18	cued|preparatory	#FD913D	0.588160900702435
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	21	18		#FC622F	0.63688752593363
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	22	18		#FC622F	0.694149566182424
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	23	18	numbers|numerical	#FD913D	0.583045203559791
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	1	19	future	#FECB68	0.367039552570092
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	2	19	negatively	#FDAD4A	0.464848190164264
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	3	19	distress|epilepsy|selfreported	#FFF1A9	0.195856030301752
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	4	19	anticipatory|cocaine|probabilities|smoking	#FFF1A9	0.187670667099089
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	5	19	alcohol|amount|impulsivity	#FECB68	0.399778395146416
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	6	19	game|success	#F03623	0.71194706470799
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	7	19	adhd|childhood|engagement	#FC622F	0.654708948848132
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	8	19		#F03623	0.757454971341086
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	9	19		#FC622F	0.687245234757306
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	10	19		#FC622F	0.667781409374286
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	11	19		#FC622F	0.659700168276994
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	12	19	endogenous	#FC622F	0.602139013384919
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	13	19	cueing|invalid|orienting	#FC622F	0.626556024918191
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	14	19		#FD913D	0.5244222392987
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	15	19	multisensory	#FEE188	0.294390864790388
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	16	19		#FDAD4A	0.463357969277622
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	17	19	shifts	#FDAD4A	0.483764250815419
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	18	19	covert	#FECB68	0.382085539777263
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	19	19		#FDAD4A	0.49956386916923
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	20	19	preparation	#FDAD4A	0.420121687428215
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	21	19	discrimination|training	#FD913D	0.548879781723255
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	22	19	sequences	#FECB68	0.33503012594673
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	23	19		#FD913D	0.515811274031892
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	1	20	personal|self|selfreferential|trait|traits	#FC622F	0.60382179488504
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	2	20	empathic|theory	#FC622F	0.632482293984547
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	3	20	attribution|intentional	#F03623	0.781225486048808
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	4	20	elderly|oscillations	#FECB68	0.305426801163428
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	5	20	antipsychotic|virtual	#FECB68	0.38347029265508
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	6	20		#F03623	0.79355356176448
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	7	20	experiences	#FD913D	0.531091697442553
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	8	20	categorical|pressure	#FECB68	0.320407325981221
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	9	20	play|skills	#FDAD4A	0.420456367027154
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	10	20	automatic|trained	#FDAD4A	0.440129378204326
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	11	20		#FDAD4A	0.4623206811576
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	12	20	practice	#FDAD4A	0.409806658417935
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	13	20	visuomotor	#FEE188	0.283374472014357
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	14	20		#FDAD4A	0.465112738438246
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	15	20	tool	#FEE188	0.237904167751923
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	16	20	vision	#FEE188	0.232271716333285
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	17	20	visually	#FDAD4A	0.415054963309054
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	18	20	saccade|saccades|saccadic	#FEE188	0.274233367304885
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	19	20	locations	#FDAD4A	0.470523022836965
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	20	20	imagery|planning	#FDAD4A	0.455855535095655
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	21	20		#FDAD4A	0.463274530254534
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	22	20	rest	#FDAD4A	0.459853029604357
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	23	20	sequence	#FDAD4A	0.451741387582242
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	1	21	scenarios	#FD913D	0.524641098088878
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	2	21	intention|intentions	#F03623	0.787466623731891
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	3	21	causality|perspective	#FC622F	0.6162284606711
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	4	21	past	#FECB68	0.354131031862731
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	5	21		#F03623	0.754257235152831
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	6	21	episode	#FDAD4A	0.427367404691354
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	7	21	improvement	#FECB68	0.387084054506786
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	8	21	masking|retention	#FDAD4A	0.447828104217295
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	9	21		#FD913D	0.505262595416998
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	10	21	dominant	#FECB68	0.329419794047281
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	11	21		#FEE188	0.274322467002168
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	12	21	sequential	#FEE188	0.27637434096944
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	13	21	fingers	#FFFFCC	0.084566074390708
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	14	21		#FECB68	0.391793342240218
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	15	21	gesture|gestures	#FECB68	0.307006720268267
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	16	21		#FECB68	0.365325916275977
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	17	21	hands	#FFF1A9	0.181638554612226
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	18	21		#FDAD4A	0.404439426861519
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	19	21		#FDAD4A	0.445906150132467
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	20	21	eye|position	#FDAD4A	0.430555688520747
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	21	21	execution	#FEE188	0.279489469844019
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	22	21	finger|sensorimotor	#FFF1A9	0.162987103883257
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	23	21		#FECB68	0.30440525810089
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	1	22	moral|stories|story	#FC622F	0.627694596597044
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	2	22	mentalizing|persons	#FC622F	0.604704604977861
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	3	22	default|restingstate	#FDAD4A	0.480192662956942
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	4	22	thinking|thought|thoughts	#FC622F	0.650390199393828
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	5	22	spontaneous	#FDAD4A	0.482820203052516
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	6	22	concentration|sensations	#FEE188	0.270475315996055
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	7	22	hierarchical|preference	#FDAD4A	0.460883483482
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	8	22	effort|oral|simulation	#FEE188	0.280248346302631
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	9	22	interhemispheric|plasticity	#FEE188	0.295964784718964
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	10	22	imagined|imagine	#FEE188	0.25023613668007
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	11	22	tapping	#FFF1A9	0.13301580709265
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	12	22	foot|muscle|muscles|voluntary	#FFFFCC	0.0652380446396724
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	13	22	limb	#FFFFCC	0
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	14	22	eyes|velocity	#FEE188	0.220526026032424
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	15	22	biological|gaze|videos	#FECB68	0.325203832255573
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	16	22	body	#FECB68	0.34885341191626
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	17	22	grasping|orientation|reaching	#FFF1A9	0.18127373310495
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	18	22		#FECB68	0.383705064904519
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	19	22	mirror|shape	#FDAD4A	0.407788072191019
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	20	22	actions	#FECB68	0.389431446977832
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	21	22	action	#FD913D	0.553156260310235
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	22	22		#FEE188	0.298545219729494
+f17ec31f-2fb1-389f-a382-d2ecc87f9ace	Sommer M	23	22	hand|movements|sensory	#FFF1A9	0.196247945273455

@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	1	1	auditory|speech	#FD913D	0.549644476461253
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	2	1		#FDAD4A	0.487655699933405
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	3	1	da|integration	#FD913D	0.561492736575151
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	4	1		#FC622F	0.647635800142022
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	5	1	physical|psychophysical|tactile	#FD913D	0.575744571498868
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	6	1		#F03623	0.751580971034463
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	7	1	somatosensory|stimulation	#D7141E	0.858080223758738
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	8	1	painful|pain	#FD913D	0.578929363634372
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	9	1		#FC622F	0.618203555584064
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	10	1	ratings	#FDAD4A	0.498024321114592
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	11	1	affective|affect	#FECB68	0.356491761326497
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	12	1	emotions	#FECB68	0.339833280389488
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	13	1	expression|expressions|facial	#FEE188	0.275149243962492
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	14	1		#FECB68	0.337360322917982
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	15	1		#FECB68	0.368747917400927
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	16	1	emotion|motion|neutral	#FECB68	0.394356394951072
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	17	1	rating	#FDAD4A	0.465210886772676
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	18	1	negative|positive	#FDAD4A	0.456106564332722
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	19	1		#FD913D	0.59067437297114
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	20	1	ear|order	#FD913D	0.580208720702262
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	21	1	motor	#D7141E	0.837774322117245
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	22	1	visual	#FD913D	0.528104911344214
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	23	1	age|image|response	#FD913D	0.572347994991895
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	1	2	sound|sounds	#FECB68	0.379524664847859
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	2	2		#FDAD4A	0.454610226259528
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	3	2	audiovisual|bimodal|crossmodal	#FEE188	0.289114524237577
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	4	2		#FC622F	0.658389102366456
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	5	2		#F03623	0.735469807061023
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	6	2		#F03623	0.773718178192479
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	7	2	sensation	#FD913D	0.599084696933324
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	8	2	heat|noxious	#FD913D	0.57131599422137
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	9	2		#FD913D	0.597085454813936
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	10	2		#FDAD4A	0.488894689670396
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	11	2		#FDAD4A	0.443569041159172
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	12	2	valence	#FEE188	0.299427280226745
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	13	2	person|social	#FEE188	0.28532821029598
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	14	2		#FECB68	0.351756880172166
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	15	2	face|faces	#FEE188	0.271574896683367
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	16	2		#FDAD4A	0.436175200878341
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	17	2		#FDAD4A	0.485089492706171
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	18	2		#FD913D	0.548453280850782
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	19	2		#FD913D	0.599646025261435
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	20	2		#FC622F	0.643765324695032
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	21	2	images|spatial	#FD913D	0.586321863265035
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	22	2	control	#FD913D	0.592327848948867
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	23	2	time	#FD913D	0.589271506134463
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	1	3	acoustic|listening|musical|music|pitch	#FECB68	0.313423559923965
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	2	3	noise|tones	#FECB68	0.380777437262538
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	3	3		#FC622F	0.608668193341699
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	4	3		#F03623	0.754535077283387
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	5	3	frequency	#F03623	0.779727100591948
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	6	3		#B10026	0.90681424961347
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	7	3		#FC622F	0.673746097495855
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	8	3	temperature	#FDAD4A	0.467529305820793
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	9	3		#FD913D	0.586994399512026
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	10	3	pleasant|unpleasant	#FECB68	0.379739424411471
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	11	3	anxiety	#FECB68	0.347052013148373
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	12	3		#FDAD4A	0.447128735272857
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	13	3		#FDAD4A	0.473629047681647
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	14	3		#FDAD4A	0.430866571320955
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	15	3		#FDAD4A	0.440323122545855
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	16	3	picture	#FDAD4A	0.406312035401583
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	17	3		#FD913D	0.528386656340387
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	18	3	value	#FC622F	0.615432776416187
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	19	3	cue	#FD913D	0.548056433781665
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	20	3	error|target	#FC622F	0.607498049006381
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	21	3	attention	#FD913D	0.525878101443766
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	22	3		#FD913D	0.523147095558139
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	23	3	number	#FD913D	0.503262166811696
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	1	4	voice	#FEE188	0.291357649575014
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	2	4		#FDAD4A	0.407462246853404
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	3	4	hearing	#FECB68	0.392362307932357
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	4	4		#D7141E	0.825240492073601
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	5	4	overt	#D7141E	0.855035571162916
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	6	4		#B10026	0.956030188575616
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	7	4		#F03623	0.754941110966461
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	8	4	nociceptive|nonpainful|painrelated	#FDAD4A	0.482556540994874
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	9	4	unpleasantness	#FDAD4A	0.490559673669333
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	10	4	skin|subjective	#FD913D	0.539141746095054
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	11	4	depression	#FDAD4A	0.437997892958255
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	12	4	experience	#FDAD4A	0.482920778235182
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	13	4	female	#FDAD4A	0.490661180822734
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	14	4	male	#FD913D	0.509664697618388
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	15	4	pictures	#FDAD4A	0.407865263910379
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	16	4		#FD913D	0.521660543362099
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	17	4	perception	#FD913D	0.5924813552028
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	18	4		#FD913D	0.57026791808499
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	19	4		#FD913D	0.553646516341475
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	20	4		#FD913D	0.5341623094568
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	21	4	correct	#FDAD4A	0.446145120797953
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	22	4	work	#FDAD4A	0.476472051292042
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	23	4	memory	#FDAD4A	0.402533791586873
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	1	5	prosodic|prosody	#FFF1A9	0.140825268614956
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	2	5	phonetic	#FECB68	0.370496210438609
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	3	5	syllable|syllables	#FD913D	0.587676778018388
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	4	5		#D7141E	0.83022256720371
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	5	5	lip|production	#D7141E	0.900776269715681
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	6	5	somatotopic	#B10026	0.929554411136029
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	7	5		#D7141E	0.836855653820566
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	8	5		#FC622F	0.665564381087869
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	9	5	empathy	#FC622F	0.632215196805522
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	10	5		#FD913D	0.57761022941132
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	11	5	disorder	#FDAD4A	0.403593576984946
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	12	5		#FD913D	0.536507703958902
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	13	5		#FD913D	0.539579374995678
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	14	5		#FDAD4A	0.488614324849995
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	15	5		#FDAD4A	0.479693758548466
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	16	5		#FD913D	0.521697800784341
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	17	5		#FD913D	0.519598036171815
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	18	5	mental	#FDAD4A	0.462699130395802
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	19	5	go	#FDAD4A	0.49904609965173
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	20	5	object	#FECB68	0.386024484783461
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	21	5		#FDAD4A	0.474241968365129
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	22	5		#FDAD4A	0.424004242867038
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	23	5	word|words	#FECB68	0.343200112577284
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	1	6		#FD913D	0.503777107612986
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	2	6		#FD913D	0.535360976672252
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	3	6		#FC622F	0.69779318439188
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	4	6	vocal	#F03623	0.735005724030061
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	5	6	articulatory	#F03623	0.72449900983187
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	6	6		#B10026	0.932477464284606
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	7	6	oddball	#FC622F	0.629789977512754
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	8	6	perceived	#FD913D	0.561575677841769
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	9	6	errorrelated	#FD913D	0.515811254865507
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	10	6	approach	#FD913D	0.528309684750196
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	11	6	schizophrenia	#FDAD4A	0.413279415225195
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	12	6	acquisition	#FC622F	0.610441327899747
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	13	6		#FDAD4A	0.469732848190451
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	14	6		#FECB68	0.352930490322322
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	15	6		#FECB68	0.358977148460818
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	16	6		#FECB68	0.388303685161068
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	17	6		#FDAD4A	0.445392538592379
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	18	6		#FDAD4A	0.462693450822208
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	19	6		#FDAD4A	0.476540356859852
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	20	6	objects	#FECB68	0.396201582296904
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	21	6		#FDAD4A	0.455329148630018
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	22	6		#FECB68	0.396588139651896
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	23	6	language|semantic	#FECB68	0.34038262396186
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	1	7	dopamine|dopaminergic	#FD913D	0.50273684607334
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	2	7		#FDAD4A	0.446526803851335
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	3	7		#FD913D	0.567067631157139
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	4	7		#FC622F	0.667492935475785
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	5	7		#FC622F	0.67102440073522
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	6	7		#F03623	0.729195374343027
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	7	7		#FC622F	0.697941198670063
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	8	7		#FD913D	0.584903832436689
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	9	7		#FD913D	0.586905487333604
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	10	7		#FDAD4A	0.47808322575423
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	11	7		#FDAD4A	0.461125058998488
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	12	7		#FDAD4A	0.428154094062836
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	13	7	linguistic|spoken	#FEE188	0.27463706443424
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	14	7		#FECB68	0.316560093555593
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	15	7	comprehension|sentence|sentences|syntactic	#FEE188	0.257190553628916
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	16	7		#FECB68	0.320921780266364
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	17	7		#FECB68	0.38963210807807
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	18	7	phonological|reading|read	#FECB68	0.3987411945041
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	19	7		#FDAD4A	0.447600100013749
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	20	7	perceptual|recognition	#FDAD4A	0.437696091378835
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	21	7		#FDAD4A	0.45126109291675
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	22	7		#FDAD4A	0.41117153140657
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	23	7	verb	#FDAD4A	0.421426767132991
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	1	8	outcome|reward	#FECB68	0.364728024181271
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	2	8	anticipation	#FECB68	0.397237016653124
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	3	8	outcomes	#FECB68	0.30648964469016
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	4	8	choice|choices	#FECB68	0.33508021217854
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	5	8	decisions|probability	#FDAD4A	0.419551178342288
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	6	8	reversal	#FDAD4A	0.464817262850042
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	7	8	classification|incorrect	#FDAD4A	0.463373910924095
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	8	8		#FDAD4A	0.497023075597745
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	9	8	agerelated|fluency|probes	#FDAD4A	0.420233600343358
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	10	8	engaged	#FECB68	0.33233708535871
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	11	8	explicit|knowledge	#FEE188	0.290594070650236
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	12	8		#FECB68	0.350644869723555
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	13	8		#FECB68	0.317110884929021
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	14	8		#FECB68	0.302208990900084
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	15	8		#FECB68	0.308189596519079
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	16	8		#FECB68	0.325917100233701
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	17	8	lexical	#FECB68	0.307407238480474
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	18	8		#FECB68	0.391510677406917
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	19	8		#FDAD4A	0.428415157010073
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	20	8		#FDAD4A	0.434750153756213
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	21	8	encoding	#FECB68	0.390797609423519
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	22	8	retrieval	#FECB68	0.340345292187658
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	23	8	verbal	#FDAD4A	0.454033408241025
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	1	9	incentive|monetary|money|rewards	#FEE188	0.264321635461575
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	2	9	loss	#FECB68	0.371373648216437
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	3	9		#FDAD4A	0.420789713389891
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	4	9		#FDAD4A	0.446408205965532
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	5	9	decisionmaking	#FECB68	0.365336065730271
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	6	9		#FDAD4A	0.451224244535433
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	7	9		#FDAD4A	0.421247242353427
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	8	9		#FDAD4A	0.427429003989109
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	9	9		#FECB68	0.388536439193072
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	10	9		#FECB68	0.361054389006654
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	11	9		#FECB68	0.338787218561925
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	12	9		#FECB68	0.327719390778264
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	13	9	noun	#FEE188	0.205999674391163
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	14	9	meaning	#FEE188	0.259559031127411
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	15	9	english	#FECB68	0.309922800633368
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	16	9	pseudoword|pseudowords	#FECB68	0.362852370569052
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	17	9		#FECB68	0.356465003482725
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	18	9		#FECB68	0.389527024083123
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	19	9	familiar|judgment	#FECB68	0.341633856912093
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	20	9	pair|pairs	#FECB68	0.391315701398755
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	21	9		#FD913D	0.511893214427391
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	22	9		#FD913D	0.502445289238216
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	23	9	letter|working	#FDAD4A	0.456233806987394
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	1	10	losses|reinforcement|win	#FEE188	0.259174552394619
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	2	10	gain	#FECB68	0.319614158077406
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	3	10	expectation	#FDAD4A	0.481770216045478
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	4	10	risk	#FECB68	0.301769429086573
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	5	10	fact	#FECB68	0.335825114434584
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	6	10	associative	#FECB68	0.348250694426541
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	7	10	familiarity|judgments|old	#FEE188	0.261275167702016
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	8	10	contextual|text	#FEE188	0.206249114431072
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	9	10	recall|retrieved	#FEE188	0.26462586764778
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	10	10	conceptual|semantically	#FEE188	0.210520524576213
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	11	10	grammatical|speakers	#FECB68	0.341945674926554
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	12	10	nouns	#FEE188	0.252090729418299
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	13	10	japanese	#FEE188	0.243576636754723
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	14	10	languages	#FECB68	0.321374023744486
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	15	10	written	#FEE188	0.291078478234503
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	16	10	chinese|phonology	#FEE188	0.272186648033561
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	17	10	orthographic	#FECB68	0.301829631857919
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	18	10		#FDAD4A	0.417231580633589
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	19	10		#FDAD4A	0.45639107674533
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	20	10	association|decision	#FDAD4A	0.473748427295891
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	21	10	selection	#FD913D	0.539164026174292
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	22	10	letters	#FDAD4A	0.486031836966574
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	23	10	demand|load	#FDAD4A	0.479282886846063
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	1	11	conditioned|conditioning	#FECB68	0.32644693208415
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	2	11		#FDAD4A	0.467320932306562
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	3	11	drug|placebo	#FD913D	0.540439148058473
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	4	11		#FD913D	0.5011526991572
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	5	11	associations	#FDAD4A	0.436291304184284
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	6	11		#FEE188	0.28831247709964
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	7	11	episodic|recollection	#FFF1A9	0.155876729917017
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	8	11		#FEE188	0.243497294139172
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	9	11		#FECB68	0.322508481344617
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	10	11	concepts	#FFF1A9	0.105557223522208
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	11	11		#FECB68	0.362569453821868
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	12	11		#FECB68	0.391850991175597
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	13	11	german	#FECB68	0.39626821890482
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	14	11	readers	#FECB68	0.370029758436187
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	15	11	character|name|naming	#FECB68	0.330770564253179
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	16	11		#FECB68	0.383665425374796
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	17	11	novel	#FDAD4A	0.410020063833146
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	18	11		#FDAD4A	0.435008067948185
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	19	11	child|children	#FECB68	0.395708809530316
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	20	11	adults	#FD913D	0.536029543771822
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	21	11	ability|feedback|learning	#F03623	0.750655623741521
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	22	11	cues|delay	#FD913D	0.559001681921805
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	23	11	attentional|difficulty|targets	#FDAD4A	0.491031474969357
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	1	12	aversive|shock	#FECB68	0.382803117832268
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	2	12	reactivity	#FECB68	0.373259092015195
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	3	12	males|sex|women	#FECB68	0.313932916114887
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	4	12	animal	#FDAD4A	0.419431295976661
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	5	12	animals	#FFF1A9	0.176947140797512
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	6	12		#FEE188	0.214580065437678
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	7	12	remember|subsequent	#FFF1A9	0.104701125274983
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	8	12	autobiographical|memories	#FFFFCC	0.0174637082492703
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	9	12		#FECB68	0.330223050446772
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	10	12	violation|violations	#FEE188	0.266661749130361
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	11	12	aphasia	#FECB68	0.37118996881221
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	12	12	nonwords	#FECB68	0.380804034255875
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	13	12	dyslexia	#FECB68	0.359232469349516
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	14	12		#FDAD4A	0.412590710482221
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	15	12	priming	#FECB68	0.30145797233286
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	16	12		#FDAD4A	0.411274803990668
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	17	12	category|repetition	#FDAD4A	0.418340626514945
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	18	12		#FDAD4A	0.446735399313955
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	19	12	developmental|development	#FECB68	0.369449371034026
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	20	12		#FD913D	0.539477301069942
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	21	12	space	#FC622F	0.636917297109341
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	22	12		#FD913D	0.534038214629569
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	23	12	color	#FDAD4A	0.461649981633292
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	1	13	threat	#FEE188	0.201939919643811
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	2	13	regulation	#FEE188	0.253512238508243
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	3	13		#FECB68	0.362905562243281
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	4	13	masked	#FFF1A9	0.191655164396764
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	5	13	scene|scenes	#FFF1A9	0.116547280024319
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	6	13		#FFF1A9	0.173352708640283
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	7	13	confidence|remembered	#FFFFCC	0.0600381526541214
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	8	13		#FFF1A9	0.198945336955282
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	9	13		#FECB68	0.335559996692586
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	10	13	ambiguity|ambiguous	#FFFFCC	0.082780811488883
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	11	13		#FDAD4A	0.41585133590513
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	12	13		#FD913D	0.502577713186513
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	13	13	writing	#FECB68	0.390442795440981
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	14	13		#FDAD4A	0.468006026582365
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	15	13	categorization|congruency|prime	#FECB68	0.303709656074051
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	16	13		#FDAD4A	0.433718801594612
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	17	13	mask	#FECB68	0.385319168760271
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	18	13		#FD913D	0.500831542606857
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	19	13		#FD913D	0.541582615129673
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	20	13		#FD913D	0.532050519027675
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	21	13	conflict|congruent|incongruent	#FDAD4A	0.449099210684287
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	22	13	errors	#FD913D	0.511487418204351
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	23	13	maintenance|probe|wm	#FDAD4A	0.426902978960379
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	1	14	angry|fearful|happy	#FFF1A9	0.125086994630155
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	2	14		#FEE188	0.210160199839361
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	3	14	awareness|conscious|ptsd	#FEE188	0.252854848750626
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	4	14		#FECB68	0.299738476497205
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	5	14	houses|photographs	#FFFFCC	0.0843579370652042
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	6	14		#FEE188	0.216131898839605
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	7	14	hits	#FFF1A9	0.128787236446819
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	8	14	famous	#FFFFCC	0.0777537521818642
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	9	14	names	#FFF1A9	0.17892365862479
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	10	14	family	#FEE188	0.254132133887806
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	11	14	competition|mouth	#FECB68	0.39940137637592
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	12	14	abilities	#FDAD4A	0.476577585672357
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	13	14	implicit|unfamiliar	#FDAD4A	0.408254409676474
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	14	14		#FDAD4A	0.458040820187371
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	15	14	tom	#FECB68	0.34997243377489
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	16	14		#FDAD4A	0.42683475916393
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	17	14		#FDAD4A	0.439931698796211
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	18	14	stop	#FDAD4A	0.494289233562602
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	19	14	inhibition|inhibitory|nogo	#FD913D	0.573835837444611
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	20	14	monitoring|stroop	#FDAD4A	0.411408069823487
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	21	14	interference	#FECB68	0.387866804444282
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	22	14		#FDAD4A	0.459776258410398
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	23	14	demands|executive	#FECB68	0.388538253288787
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	1	15	anger	#FFF1A9	0.10791256209568
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	2	15	stress	#FFF1A9	0.15141201521388
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	3	15	feelings	#FECB68	0.317027704364147
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	4	15	salient	#FEE188	0.257217832963273
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	5	15	novelty	#FEE188	0.210181462765267
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	6	15	movie	#FFF1A9	0.142820229563895
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	7	15		#FEE188	0.231536818753952
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	8	15		#FECB68	0.301227812979248
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	9	15	longterm	#FEE188	0.291588458262258
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	10	15		#FDAD4A	0.418360159468233
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	11	15	reasoning|relational	#FEE188	0.278670014474232
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	12	15		#FDAD4A	0.479890326980441
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	13	15	presentations	#FEE188	0.29698283200539
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	14	15		#FDAD4A	0.460957934905683
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	15	15	identity	#FECB68	0.321282824081323
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	16	15		#FDAD4A	0.435013625785019
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	17	15	strategies|strategy	#FEE188	0.278580193412094
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	18	15	card|cards	#FECB68	0.331116109906227
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	19	15	gonogo	#FD913D	0.567964041841775
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	20	15		#FD913D	0.514142937743525
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	21	15	switching|switch	#FDAD4A	0.40466418449283
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	22	15		#FDAD4A	0.436708204538985
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	23	15	2back|rule	#FECB68	0.357418801890031
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	1	16	emotionally|mood|personality|sadness	#FFF1A9	0.144233509402505
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	2	16	disgust|sexual	#FEE188	0.273020987671369
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	3	16	olfactory	#FFF1A9	0.172639663827644
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	4	16	physiological	#FECB68	0.378720464968989
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	5	16	depressed|depressive|habituation	#FFF1A9	0.156743069136295
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	6	16	schizophrenic	#FFF1A9	0.147283066558415
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	7	16	colors|contexts	#FFF1A9	0.144042039417835
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	8	16	aging|encoded	#FEE188	0.210293750061943
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	9	16	goal	#FEE188	0.208227301039899
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	10	16		#FDAD4A	0.424099459460962
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	11	16	autism|autistic|nonverbal	#FECB68	0.392676251904663
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	12	16		#FDAD4A	0.457029465829928
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	13	16	bottomup|repetitions	#FECB68	0.331558443644381
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	14	16	adaptation	#FDAD4A	0.427315023497275
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	15	16	irrelevant	#FECB68	0.386339219516544
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	16	16	distractor|distractors	#FECB68	0.323980507912444
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	17	16		#FDAD4A	0.451287195484248
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	18	16	subtraction	#FEE188	0.280649378622094
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	19	16	1back|nback	#FECB68	0.303838365834867
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	20	16	manipulation|rules	#FECB68	0.367605903009874
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	21	16		#FDAD4A	0.448883690949959
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	22	16		#FECB68	0.374277749028973
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	23	16	digit	#FECB68	0.344045698492114
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	1	17	avoidance	#FEE188	0.231828786348516
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	2	17		#FECB68	0.351234962445882
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	3	17	eating|food	#FEE188	0.200337683625511
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	4	17	taste	#FECB68	0.316557650487451
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	5	17	bipolar	#FFF1A9	0.175057027196296
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	6	17	illness|uncertainty	#FEE188	0.246248726215567
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	7	17	females|probabilistic	#FFF1A9	0.14425451922332
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	8	17	rejection	#FFFFCC	0
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	9	17	colour|paired	#FECB68	0.345081129273776
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	10	17		#FD913D	0.503594676803771
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	11	17		#FD913D	0.523304209143674
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	12	17		#FD913D	0.504259819654041
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	13	17	taskirrelevant	#FECB68	0.383717812590008
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	14	17		#FDAD4A	0.425780456108024
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	15	17	suppression	#FECB68	0.378776248519062
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	16	17		#FDAD4A	0.477467742636843
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	17	17	shifting|shortterm	#FECB68	0.392006853101363
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	18	17	digits	#FECB68	0.338192458761788
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	19	17	search	#FDAD4A	0.457009373657843
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	20	17	counting|taskrelated	#FD913D	0.584482156371409
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	21	17	topdown	#FECB68	0.376829788404597
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	22	17	visuospatial	#FECB68	0.310791218222963
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	23	17	arithmetic|calculation|solving	#FEE188	0.233533695768579
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	1	18	addiction|craving|drugs	#FECB68	0.324804485563589
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	2	18	allele|genotype|polymorphism	#FEE188	0.229683967308882
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	3	18	motivation	#FECB68	0.352695747848765
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	4	18	heart	#FECB68	0.368632143767619
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	5	18	sleep	#FDAD4A	0.461254589585286
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	6	18	expectancy	#FECB68	0.316784511700843
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	7	18	phasic|salience	#FECB68	0.388374295546065
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	8	18	adolescence|adolescents	#FFF1A9	0.181289895253393
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	9	18	intelligence|tracking	#FDAD4A	0.418105385860692
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	10	18		#FC622F	0.615098243186239
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	11	18	serial	#FDAD4A	0.418233728101903
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	12	18		#FD913D	0.578351040273012
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	13	18	spatially|taskrelevant	#FD913D	0.521703529990758
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	14	18		#FDAD4A	0.454828253689144
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	15	18	attended|attend|unattended	#FEE188	0.247054080625097
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	16	18	rotation|shapes	#FECB68	0.317200779389503
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	17	18	rehearsal	#FD913D	0.563255439883817
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	18	18	learned	#FD913D	0.578121829075423
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	19	18		#F03623	0.719236236505895
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	20	18	cued|preparatory	#FC622F	0.604278560573156
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	21	18		#FC622F	0.690234648853866
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	22	18		#FD913D	0.508098356209825
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	23	18	numbers|numerical	#FECB68	0.304898601988549
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	1	19	future	#FEE188	0.276557471979165
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	2	19	negatively	#FECB68	0.335852073067913
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	3	19	distress|epilepsy|selfreported	#FECB68	0.299703660197048
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	4	19	anticipatory|cocaine|probabilities|smoking	#FD913D	0.529421883403888
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	5	19	alcohol|amount|impulsivity	#FECB68	0.385205226702248
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	6	19	game|success	#FFF1A9	0.167914274098956
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	7	19	adhd|childhood|engagement	#FECB68	0.33732149622296
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	8	19		#FD913D	0.539086401069021
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	9	19		#FC622F	0.648112789048147
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	10	19		#FC622F	0.65166205112145
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	11	19		#FC622F	0.636432615024253
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	12	19	endogenous	#FDAD4A	0.436229624736068
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	13	19	cueing|invalid|orienting	#FDAD4A	0.403856532129913
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	14	19		#FDAD4A	0.491840007656451
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	15	19	multisensory	#FECB68	0.381576084478906
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	16	19		#FDAD4A	0.479240980596206
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	17	19	shifts	#FC622F	0.613741153478346
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	18	19	covert	#FC622F	0.624207666897478
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	19	19		#F03623	0.721423829669401
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	20	19	preparation	#F03623	0.724612211159395
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	21	19	discrimination|training	#FC622F	0.663148877778908
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	22	19	sequences	#D7141E	0.865894129834525
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	23	19		#B10026	0.920103986317298
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	1	20	personal|self|selfreferential|trait|traits	#FFF1A9	0.154886526032678
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	2	20	empathic|theory	#FECB68	0.385751577944298
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	3	20	attribution|intentional	#FFFFCC	0.0217264956624388
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	4	20	elderly|oscillations	#FFF1A9	0.163635459226365
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	5	20	antipsychotic|virtual	#FFF1A9	0.153687481326576
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	6	20		#FD913D	0.508084050997173
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	7	20	experiences	#FEE188	0.297403363266159
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	8	20	categorical|pressure	#FDAD4A	0.41829649778717
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	9	20	play|skills	#FD913D	0.562447374330313
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	10	20	automatic|trained	#FD913D	0.589423554152927
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	11	20		#B10026	0.913548257878371
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	12	20	practice	#F03623	0.723697271006941
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	13	20	visuomotor	#F03623	0.745396142967698
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	14	20		#FC622F	0.695294280126626
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	15	20	tool	#FECB68	0.33585098227903
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	16	20	vision	#FECB68	0.302417266910336
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	17	20	visually	#FC622F	0.601966873282618
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	18	20	saccade|saccades|saccadic	#FD913D	0.528652359752135
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	19	20	locations	#FD913D	0.562323141797549
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	20	20	imagery|planning	#F03623	0.709490841687518
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	21	20		#B10026	0.906105478846464
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	22	20	rest	#B10026	0.950978779641079
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	23	20	sequence	#B10026	0.921023684912232
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	1	21	scenarios	#FFFFCC	0.0547190682734101
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	2	21	intention|intentions	#FFF1A9	0.107835454078334
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	3	21	causality|perspective	#FFF1A9	0.16819837529369
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	4	21	past	#FFFFCC	0.0337977631163299
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	5	21		#FD913D	0.521493769572307
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	6	21	episode	#FFF1A9	0.194620988156476
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	7	21	improvement	#FD913D	0.576509935922581
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	8	21	masking|retention	#FD913D	0.516379805666464
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	9	21		#F03623	0.797950648732538
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	10	21	dominant	#FD913D	0.576363989898494
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	11	21		#B10026	1
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	12	21	sequential	#B10026	0.931929212057482
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	13	21	fingers	#F03623	0.732734088308718
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	14	21		#FC622F	0.657223294932019
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	15	21	gesture|gestures	#FDAD4A	0.444304299053417
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	16	21		#FD913D	0.579589006961803
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	17	21	hands	#FDAD4A	0.402915649996933
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	18	21		#FC622F	0.659574163555809
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	19	21		#FC622F	0.680219752611369
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	20	21	eye|position	#FC622F	0.666506491987811
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	21	21	execution	#B10026	0.929265585636351
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	22	21	finger|sensorimotor	#B10026	0.980153726541154
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	23	21		#B10026	0.971167234981753
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	1	22	moral|stories|story	#FFFFCC	0.0273077131807109
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	2	22	mentalizing|persons	#FFF1A9	0.135748906632394
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	3	22	default|restingstate	#FFF1A9	0.138118302549475
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	4	22	thinking|thought|thoughts	#FEE188	0.248424226568669
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	5	22	spontaneous	#FDAD4A	0.418876145745179
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	6	22	concentration|sensations	#FD913D	0.591325941222554
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	7	22	hierarchical|preference	#FFF1A9	0.195233804384038
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	8	22	effort|oral|simulation	#FC622F	0.661099602486009
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	9	22	interhemispheric|plasticity	#FD913D	0.58296771822632
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	10	22	imagined|imagine	#FC622F	0.639138589860837
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	11	22	tapping	#B10026	0.935392167926209
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	12	22	foot|muscle|muscles|voluntary	#B10026	0.952613245842853
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	13	22	limb	#F03623	0.730166396345408
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	14	22	eyes|velocity	#FC622F	0.623880375590528
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	15	22	biological|gaze|videos	#FECB68	0.334597941186093
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	16	22	body	#F03623	0.756655355115649
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	17	22	grasping|orientation|reaching	#FDAD4A	0.41577253273163
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	18	22		#FC622F	0.653414655105799
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	19	22	mirror|shape	#FD913D	0.540049209907595
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	20	22	actions	#FC622F	0.64905231017487
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	21	22	action	#F03623	0.763662230846867
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	22	22		#B10026	0.939856328999073
+0ba08a0b-cdff-3df3-9077-17dfca6a5c2f	Vaillancourt DE	23	22	hand|movements|sensory	#B10026	0.90263863635509

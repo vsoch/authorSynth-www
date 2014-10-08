@@ -1,0 +1,507 @@
+UUID	AUTHOR	X	Y	TERMS	COLOR	SCORE
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	1	1	auditory|speech	#FECB68	0.333641594173093
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	2	1		#FECB68	0.371436738543694
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	3	1	da|integration	#FD913D	0.529976818436799
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	4	1		#FC622F	0.610340657665823
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	5	1	physical|psychophysical|tactile	#F03623	0.712336464126743
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	6	1		#FD913D	0.57963433051861
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	7	1	somatosensory|stimulation	#FD913D	0.566912325388629
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	8	1	painful|pain	#FECB68	0.30581007327426
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	9	1		#FECB68	0.352549620944794
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	10	1	ratings	#FDAD4A	0.459651342743344
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	11	1	affective|affect	#FDAD4A	0.430474149244763
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	12	1	emotions	#FDAD4A	0.477063819267824
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	13	1	expression|expressions|facial	#FDAD4A	0.439638712263853
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	14	1		#FDAD4A	0.496956371523504
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	15	1		#FD913D	0.508219837421831
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	16	1	emotion|motion|neutral	#FD913D	0.505055372787366
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	17	1	rating	#FDAD4A	0.453218850321174
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	18	1	negative|positive	#FDAD4A	0.4675062031568
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	19	1		#FD913D	0.538005036023119
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	20	1	ear|order	#FDAD4A	0.499326055337001
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	21	1	motor	#FDAD4A	0.446101608136291
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	22	1	visual	#FDAD4A	0.491349877583686
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	23	1	age|image|response	#FDAD4A	0.479834358637536
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	1	2	sound|sounds	#FECB68	0.342188961915304
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	2	2		#FECB68	0.347874984605478
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	3	2	audiovisual|bimodal|crossmodal	#FECB68	0.37440583685844
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	4	2		#FD913D	0.59977399647413
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	5	2		#FC622F	0.644780802335542
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	6	2		#FD913D	0.592845429446822
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	7	2	sensation	#FEE188	0.256602622446654
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	8	2	heat|noxious	#FEE188	0.249791663045217
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	9	2		#FECB68	0.361100654095538
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	10	2		#FDAD4A	0.462732135311042
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	11	2		#FDAD4A	0.469303081871265
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	12	2	valence	#FD913D	0.522107722447174
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	13	2	person|social	#FECB68	0.343916397882586
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	14	2		#FDAD4A	0.49536307074793
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	15	2	face|faces	#FDAD4A	0.44556806455356
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	16	2		#FD913D	0.520053216320506
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	17	2		#FD913D	0.531039802945069
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	18	2		#FD913D	0.538969193274197
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	19	2		#FD913D	0.541718301639125
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	20	2		#FD913D	0.538416954733328
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	21	2	images|spatial	#FD913D	0.57077578280421
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	22	2	control	#FDAD4A	0.462611373825949
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	23	2	time	#FDAD4A	0.468088058412633
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	1	3	acoustic|listening|musical|music|pitch	#FEE188	0.213753963494772
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	2	3	noise|tones	#FFF1A9	0.194018407261724
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	3	3		#FECB68	0.388887526872174
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	4	3		#FDAD4A	0.465823738182614
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	5	3	frequency	#FDAD4A	0.495900771149888
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	6	3		#FD913D	0.505078856884666
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	7	3		#FECB68	0.325519728374488
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	8	3	temperature	#FEE188	0.296551287092581
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	9	3		#FECB68	0.352865609164911
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	10	3	pleasant|unpleasant	#FECB68	0.353750829616256
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	11	3	anxiety	#FEE188	0.261506053031332
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	12	3		#FDAD4A	0.419536003123114
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	13	3		#FDAD4A	0.471127135443392
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	14	3		#FDAD4A	0.494605875096545
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	15	3		#FDAD4A	0.497385858081041
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	16	3	picture	#FDAD4A	0.446886879009111
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	17	3		#FD913D	0.55881771633023
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	18	3	value	#FD913D	0.564319965696557
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	19	3	cue	#FD913D	0.528672065901011
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	20	3	error|target	#FDAD4A	0.448474779874397
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	21	3	attention	#FD913D	0.534610363980315
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	22	3		#FDAD4A	0.494262270726523
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	23	3	number	#FDAD4A	0.474694752989345
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	1	4	voice	#FFF1A9	0.15731639419821
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	2	4		#FEE188	0.239422312881087
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	3	4	hearing	#FFF1A9	0.11990496019146
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	4	4		#FECB68	0.398327355196217
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	5	4	overt	#FECB68	0.373536287142375
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	6	4		#FDAD4A	0.471160606079994
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	7	4		#FECB68	0.397487588425941
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	8	4	nociceptive|nonpainful|painrelated	#FFF1A9	0.161633516207043
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	9	4	unpleasantness	#FECB68	0.333037752758474
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	10	4	skin|subjective	#FD913D	0.521248077992119
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	11	4	depression	#FECB68	0.375038361511729
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	12	4	experience	#FECB68	0.350979014240896
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	13	4	female	#FDAD4A	0.41391691895362
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	14	4	male	#FDAD4A	0.455201410436629
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	15	4	pictures	#FDAD4A	0.448840523789019
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	16	4		#FD913D	0.525104438874836
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	17	4	perception	#FD913D	0.525280605837904
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	18	4		#FD913D	0.553361509546735
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	19	4		#FD913D	0.548525867558716
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	20	4		#FD913D	0.525724419401649
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	21	4	correct	#FDAD4A	0.471038679241093
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	22	4	work	#FDAD4A	0.454465577108976
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	23	4	memory	#FDAD4A	0.467744742840946
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	1	5	prosodic|prosody	#FFF1A9	0.11109812517817
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	2	5	phonetic	#FEE188	0.240997588821804
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	3	5	syllable|syllables	#FEE188	0.237394713475507
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	4	5		#FECB68	0.373152804295537
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	5	5	lip|production	#FDAD4A	0.41762359283275
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	6	5	somatotopic	#FDAD4A	0.458127555549466
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	7	5		#FDAD4A	0.472942466292006
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	8	5		#FECB68	0.377598236445723
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	9	5	empathy	#FECB68	0.311840123335641
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	10	5		#FECB68	0.335033509764912
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	11	5	disorder	#FECB68	0.381124561233048
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	12	5		#FECB68	0.385268262544533
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	13	5		#FDAD4A	0.405137084574614
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	14	5		#FDAD4A	0.402864427586558
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	15	5		#FDAD4A	0.413418226718984
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	16	5		#FDAD4A	0.446344257899403
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	17	5		#FDAD4A	0.46768804736919
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	18	5	mental	#FD913D	0.547908263281483
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	19	5	go	#FD913D	0.501372110107574
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	20	5	object	#FDAD4A	0.410040731048909
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	21	5		#FDAD4A	0.434449666342025
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	22	5		#FECB68	0.360497542245163
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	23	5	word|words	#FEE188	0.241784295919177
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	1	6		#FDAD4A	0.423485841345248
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	2	6		#FDAD4A	0.432602147893816
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	3	6		#FDAD4A	0.441049620802192
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	4	6	vocal	#FEE188	0.283246449013507
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	5	6	articulatory	#FECB68	0.315833945588416
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	6	6		#FDAD4A	0.482831231662233
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	7	6	oddball	#FC622F	0.610329817567436
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	8	6	perceived	#FDAD4A	0.410580593982157
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	9	6	errorrelated	#FEE188	0.251054329739219
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	10	6	approach	#FEE188	0.231684038379187
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	11	6	schizophrenia	#FEE188	0.22979965340039
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	12	6	acquisition	#FDAD4A	0.405603295466522
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	13	6		#FECB68	0.312249960669457
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	14	6		#FEE188	0.223404905963727
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	15	6		#FEE188	0.239253749838744
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	16	6		#FEE188	0.274534062457124
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	17	6		#FECB68	0.321948177029583
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	18	6		#FECB68	0.37559566460302
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	19	6		#FDAD4A	0.427520223519315
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	20	6	objects	#FDAD4A	0.466565948840344
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	21	6		#FDAD4A	0.431095284313355
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	22	6		#FEE188	0.287351108472458
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	23	6	language|semantic	#FFF1A9	0.175022558441556
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	1	7	dopamine|dopaminergic	#FDAD4A	0.467426849128817
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	2	7		#FDAD4A	0.473376365914652
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	3	7		#FD913D	0.554722625402646
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	4	7		#FD913D	0.579786285330442
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	5	7		#FD913D	0.588246131189081
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	6	7		#FD913D	0.508077715363784
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	7	7		#FDAD4A	0.474560051227167
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	8	7		#FECB68	0.36742397842461
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	9	7		#FECB68	0.363667334104725
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	10	7		#FEE188	0.298594895239778
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	11	7		#FEE188	0.28603906509951
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	12	7		#FEE188	0.265093517924595
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	13	7	linguistic|spoken	#FFF1A9	0.144087272320943
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	14	7		#FFF1A9	0.177805496039912
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	15	7	comprehension|sentence|sentences|syntactic	#FFF1A9	0.142128973302641
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	16	7		#FFF1A9	0.171850481146924
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	17	7		#FEE188	0.222437229001291
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	18	7	phonological|reading|read	#FFF1A9	0.187487838343172
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	19	7		#FECB68	0.378264636965171
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	20	7	perceptual|recognition	#FD913D	0.541226822611865
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	21	7		#FDAD4A	0.447893815460096
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	22	7		#FECB68	0.32469234297723
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	23	7	verb	#FECB68	0.306107155201978
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	1	8	outcome|reward	#FDAD4A	0.446950848933729
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	2	8	anticipation	#FDAD4A	0.408035453936104
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	3	8	outcomes	#FDAD4A	0.443365921394845
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	4	8	choice|choices	#FDAD4A	0.475586265609923
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	5	8	decisions|probability	#FDAD4A	0.491788101741481
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	6	8	reversal	#F03623	0.791073024870461
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	7	8	classification|incorrect	#FEE188	0.227590989873473
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	8	8		#FECB68	0.382531696303602
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	9	8	agerelated|fluency|probes	#FEE188	0.242042924257735
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	10	8	engaged	#FEE188	0.240147259654186
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	11	8	explicit|knowledge	#FEE188	0.218982971119395
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	12	8		#FFF1A9	0.192046191873545
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	13	8		#FFF1A9	0.144972105927216
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	14	8		#FFF1A9	0.148943294160403
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	15	8		#FFF1A9	0.144167297320754
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	16	8		#FFF1A9	0.14931211559885
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	17	8	lexical	#FFFFCC	0.044679255443107
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	18	8		#FEE188	0.257649425462405
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	19	8		#FECB68	0.359626232862702
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	20	8		#FDAD4A	0.457989134917835
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	21	8	encoding	#FD913D	0.504460270014422
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	22	8	retrieval	#FD913D	0.511238794772104
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	23	8	verbal	#FDAD4A	0.409535389115291
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	1	9	incentive|monetary|money|rewards	#FECB68	0.309756292031394
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	2	9	loss	#FDAD4A	0.452293336409411
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	3	9		#FD913D	0.542523497866426
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	4	9		#FD913D	0.564221007058664
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	5	9	decisionmaking	#FD913D	0.53310649563534
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	6	9		#FD913D	0.522326153718068
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	7	9		#FDAD4A	0.496540147153697
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	8	9		#FDAD4A	0.430982775562386
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	9	9		#FECB68	0.382888133158825
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	10	9		#FEE188	0.277312569805494
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	11	9		#FEE188	0.206033489152696
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	12	9		#FFF1A9	0.164707122082175
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	13	9	noun	#FFFFCC	0.0171764683254703
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	14	9	meaning	#FFFFCC	0.0988582862585278
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	15	9	english	#FFF1A9	0.122844828963096
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	16	9	pseudoword|pseudowords	#FFF1A9	0.101426102847157
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	17	9		#FFF1A9	0.180320609390776
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	18	9		#FECB68	0.30338460454559
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	19	9	familiar|judgment	#FDAD4A	0.411208072267085
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	20	9	pair|pairs	#FECB68	0.38317461522552
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	21	9		#FD913D	0.504884825378259
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	22	9		#FD913D	0.507264387561936
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	23	9	letter|working	#FDAD4A	0.450735914265813
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	1	10	losses|reinforcement|win	#FECB68	0.337250426076328
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	2	10	gain	#FECB68	0.329107112965759
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	3	10	expectation	#FECB68	0.379258313033906
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	4	10	risk	#FECB68	0.363912583136539
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	5	10	fact	#FD913D	0.50616140403693
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	6	10	associative	#FD913D	0.504606454856864
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	7	10	familiarity|judgments|old	#FD913D	0.575013217517274
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	8	10	contextual|text	#FDAD4A	0.408935394458383
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	9	10	recall|retrieved	#FECB68	0.352622952507416
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	10	10	conceptual|semantically	#FFF1A9	0.111835477177246
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	11	10	grammatical|speakers	#FFF1A9	0.152758343091375
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	12	10	nouns	#FFF1A9	0.104932043263101
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	13	10	japanese	#FFFFCC	0.000139272027233607
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	14	10	languages	#FFFFCC	0.0164742881286273
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	15	10	written	#FFFFCC	0.0460787897440574
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	16	10	chinese|phonology	#FFFFCC	0.0987316997573524
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	17	10	orthographic	#FFF1A9	0.173276972360263
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	18	10		#FECB68	0.370694677682989
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	19	10		#FDAD4A	0.44594795372296
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	20	10	association|decision	#FDAD4A	0.487039721687138
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	21	10	selection	#FECB68	0.369422538099769
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	22	10	letters	#FECB68	0.37969925897608
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	23	10	demand|load	#FC622F	0.61322515080364
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	1	11	conditioned|conditioning	#FC622F	0.648686319896533
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	2	11		#FC622F	0.640724994800151
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	3	11	drug|placebo	#F03623	0.71514166008668
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	4	11		#FC622F	0.602318043989809
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	5	11	associations	#FDAD4A	0.48681273573702
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	6	11		#FD913D	0.570518606579949
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	7	11	episodic|recollection	#FD913D	0.50951512660106
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	8	11		#FD913D	0.54391381102191
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	9	11		#FECB68	0.341310593345613
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	10	11	concepts	#FEE188	0.220294951949699
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	11	11		#FEE188	0.239767173411623
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	12	11		#FEE188	0.249272791349888
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	13	11	german	#FECB68	0.310091189715474
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	14	11	readers	#FEE188	0.204115249633764
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	15	11	character|name|naming	#FFFFCC	0.042258307087775
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	16	11		#FEE188	0.217689770091623
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	17	11	novel	#FECB68	0.314583298016555
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	18	11		#FECB68	0.391377422052467
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	19	11	child|children	#FECB68	0.354766338802896
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	20	11	adults	#FD913D	0.530537261392616
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	21	11	ability|feedback|learning	#FC622F	0.646930503749299
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	22	11	cues|delay	#FC622F	0.60877604690415
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	23	11	attentional|difficulty|targets	#FC622F	0.603124344016593
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	1	12	aversive|shock	#FECB68	0.396277295580537
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	2	12	reactivity	#FC622F	0.655773467090243
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	3	12	males|sex|women	#FD913D	0.51996058131997
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	4	12	animal	#FEE188	0.208928655934222
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	5	12	animals	#FFFFCC	0.0740736394869364
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	6	12		#FDAD4A	0.466658518632653
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	7	12	remember|subsequent	#FECB68	0.309031819467497
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	8	12	autobiographical|memories	#FECB68	0.30494932853142
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	9	12		#FECB68	0.342005686910414
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	10	12	violation|violations	#FFF1A9	0.176881075655073
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	11	12	aphasia	#FEE188	0.234107359033954
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	12	12	nonwords	#FDAD4A	0.443272170840121
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	13	12	dyslexia	#FFF1A9	0.174540757015968
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	14	12		#FEE188	0.243043171014409
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	15	12	priming	#FFF1A9	0.161474862312945
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	16	12		#FECB68	0.347577991168121
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	17	12	category|repetition	#FECB68	0.339446209839543
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	18	12		#FDAD4A	0.445581710661031
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	19	12	developmental|development	#FECB68	0.396660581355253
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	20	12		#FD913D	0.532478493600107
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	21	12	space	#F03623	0.73156546944267
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	22	12		#FD913D	0.572161227760075
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	23	12	color	#FDAD4A	0.477399349031198
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	1	13	threat	#FDAD4A	0.410011160147329
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	2	13	regulation	#FD913D	0.557902668340914
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	3	13		#FD913D	0.514561286892187
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	4	13	masked	#FEE188	0.210316519571444
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	5	13	scene|scenes	#FECB68	0.363490087246386
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	6	13		#FDAD4A	0.401467536935553
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	7	13	confidence|remembered	#FD913D	0.512009489662012
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	8	13		#FDAD4A	0.455211146885823
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	9	13		#FECB68	0.34836750624775
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	10	13	ambiguity|ambiguous	#FFFFCC	0
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	11	13		#FECB68	0.35180345410381
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	12	13		#FDAD4A	0.413644219006819
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	13	13	writing	#FEE188	0.275942094353254
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	14	13		#FECB68	0.364353762690994
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	15	13	categorization|congruency|prime	#FECB68	0.300488552395909
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	16	13		#FDAD4A	0.429300792275694
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	17	13	mask	#FD913D	0.563431467101014
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	18	13		#FD913D	0.52917197753599
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	19	13		#FD913D	0.558924692854639
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	20	13		#FD913D	0.526501606909631
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	21	13	conflict|congruent|incongruent	#FECB68	0.377845553112528
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	22	13	errors	#FDAD4A	0.433138554523082
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	23	13	maintenance|probe|wm	#FD913D	0.522514625218005
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	1	14	angry|fearful|happy	#FD913D	0.501218356096726
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	2	14		#FD913D	0.502930704736153
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	3	14	awareness|conscious|ptsd	#FDAD4A	0.432807424895083
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	4	14		#FDAD4A	0.441833188650907
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	5	14	houses|photographs	#FFF1A9	0.099900375409098
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	6	14		#FECB68	0.373543301922199
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	7	14	hits	#FEE188	0.228507592969112
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	8	14	famous	#FFF1A9	0.183972947212717
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	9	14	names	#FFF1A9	0.178946667147916
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	10	14	family	#FEE188	0.298779723808753
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	11	14	competition|mouth	#FECB68	0.363414872149365
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	12	14	abilities	#FECB68	0.397877416855512
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	13	14	implicit|unfamiliar	#FEE188	0.249132362719388
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	14	14		#FECB68	0.39344719936314
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	15	14	tom	#FDAD4A	0.405829239265204
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	16	14		#FD913D	0.545387550356255
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	17	14		#FC622F	0.623457058656695
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	18	14	stop	#FD913D	0.578563583229933
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	19	14	inhibition|inhibitory|nogo	#FD913D	0.548352612823639
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	20	14	monitoring|stroop	#FECB68	0.352526985723068
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	21	14	interference	#FDAD4A	0.438727377863192
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	22	14		#FDAD4A	0.483604075961746
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	23	14	demands|executive	#FD913D	0.503151467726845
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	1	15	anger	#FECB68	0.377970044223338
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	2	15	stress	#FECB68	0.392860334561254
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	3	15	feelings	#FECB68	0.384800231363784
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	4	15	salient	#FECB68	0.364362468628107
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	5	15	novelty	#FDAD4A	0.460720196913428
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	6	15	movie	#FFF1A9	0.151269154354463
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	7	15		#FECB68	0.332105875202419
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	8	15		#FECB68	0.369289264044468
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	9	15	longterm	#FECB68	0.305155069324418
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	10	15		#FDAD4A	0.439498147803556
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	11	15	reasoning|relational	#FDAD4A	0.446664402992352
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	12	15		#FDAD4A	0.424859038494494
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	13	15	presentations	#FEE188	0.211233474551732
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	14	15		#FDAD4A	0.400117653112135
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	15	15	identity	#FECB68	0.390241457479147
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	16	15		#FD913D	0.555061877608891
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	17	15	strategies|strategy	#FDAD4A	0.405747533661081
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	18	15	card|cards	#FC622F	0.604295488384521
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	19	15	gonogo	#FD913D	0.58449863413728
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	20	15		#FD913D	0.511254589617358
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	21	15	switching|switch	#FECB68	0.38449993061103
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	22	15		#FDAD4A	0.472926555079888
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	23	15	2back|rule	#FDAD4A	0.461251783010033
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	1	16	emotionally|mood|personality|sadness	#FD913D	0.511063846493137
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	2	16	disgust|sexual	#FC622F	0.60168101338422
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	3	16	olfactory	#FD913D	0.526989598388095
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	4	16	physiological	#FDAD4A	0.465887242787991
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	5	16	depressed|depressive|habituation	#FECB68	0.354238075969271
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	6	16	schizophrenic	#FFF1A9	0.158853187912643
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	7	16	colors|contexts	#FEE188	0.20789586518837
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	8	16	aging|encoded	#FEE188	0.270337503637634
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	9	16	goal	#FEE188	0.234285589816576
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	10	16		#FDAD4A	0.463698311531438
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	11	16	autism|autistic|nonverbal	#FECB68	0.363959186931409
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	12	16		#FDAD4A	0.439700189880914
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	13	16	bottomup|repetitions	#FEE188	0.250932776081369
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	14	16	adaptation	#FECB68	0.316274507140821
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	15	16	irrelevant	#FDAD4A	0.444221855363618
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	16	16	distractor|distractors	#FD913D	0.52008902399686
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	17	16		#FD913D	0.591124779230939
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	18	16	subtraction	#FD913D	0.596229405373959
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	19	16	1back|nback	#FDAD4A	0.460832902073095
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	20	16	manipulation|rules	#FDAD4A	0.456243331212023
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	21	16		#FD913D	0.579028113872863
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	22	16		#FC622F	0.672880726140325
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	23	16	digit	#FD913D	0.588991807517386
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	1	17	avoidance	#FD913D	0.583878302033981
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	2	17		#F03623	0.75733239738765
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	3	17	eating|food	#FDAD4A	0.495474041044691
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	4	17	taste	#FDAD4A	0.498733157314773
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	5	17	bipolar	#FD913D	0.572412201466516
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	6	17	illness|uncertainty	#FFF1A9	0.163514401085277
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	7	17	females|probabilistic	#FDAD4A	0.48560135691353
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	8	17	rejection	#FFF1A9	0.119971285380862
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	9	17	colour|paired	#FC622F	0.697622645115525
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	10	17		#FD913D	0.514336660676272
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	11	17		#FD913D	0.543473924992212
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	12	17		#FDAD4A	0.489503290372846
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	13	17	taskirrelevant	#FECB68	0.301595848257786
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	14	17		#FDAD4A	0.439040501300598
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	15	17	suppression	#FDAD4A	0.446122068642083
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	16	17		#FD913D	0.524057862177513
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	17	17	shifting|shortterm	#FECB68	0.391546002260959
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	18	17	digits	#FD913D	0.572350655042359
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	19	17	search	#FD913D	0.558731176818672
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	20	17	counting|taskrelated	#FD913D	0.543377409593103
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	21	17	topdown	#FD913D	0.585095051374574
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	22	17	visuospatial	#FC622F	0.637833186851156
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	23	17	arithmetic|calculation|solving	#D7141E	0.864483130716851
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	1	18	addiction|craving|drugs	#FC622F	0.627620341222159
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	2	18	allele|genotype|polymorphism	#FD913D	0.598655828070829
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	3	18	motivation	#FFF1A9	0.133531286459396
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	4	18	heart	#FD913D	0.516795821610318
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	5	18	sleep	#FDAD4A	0.430014269067349
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	6	18	expectancy	#FEE188	0.241367956158226
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	7	18	phasic|salience	#FDAD4A	0.449031257904424
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	8	18	adolescence|adolescents	#FEE188	0.286459400735945
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	9	18	intelligence|tracking	#FEE188	0.208734113450855
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	10	18		#FD913D	0.502147373545878
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	11	18	serial	#FECB68	0.352590326864246
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	12	18		#FDAD4A	0.488033131321973
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	13	18	spatially|taskrelevant	#FECB68	0.384529514366261
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	14	18		#FDAD4A	0.470551198889011
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	15	18	attended|attend|unattended	#FECB68	0.387995353770653
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	16	18	rotation|shapes	#FECB68	0.374292662014262
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	17	18	rehearsal	#FECB68	0.365816160508489
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	18	18	learned	#FEE188	0.263979986063738
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	19	18		#FD913D	0.563144270627727
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	20	18	cued|preparatory	#FC622F	0.672113596781886
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	21	18		#FC622F	0.661177016054765
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	22	18		#F03623	0.750234043471454
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	23	18	numbers|numerical	#F03623	0.779155067933558
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	1	19	future	#FECB68	0.338697672926859
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	2	19	negatively	#FDAD4A	0.427592665383513
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	3	19	distress|epilepsy|selfreported	#FECB68	0.319683626312658
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	4	19	anticipatory|cocaine|probabilities|smoking	#FD913D	0.501339772560054
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	5	19	alcohol|amount|impulsivity	#FDAD4A	0.436292668482157
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	6	19	game|success	#FDAD4A	0.470336837513809
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	7	19	adhd|childhood|engagement	#FD913D	0.512620977530224
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	8	19		#FD913D	0.532558094425898
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	9	19		#FD913D	0.562828057772902
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	10	19		#FD913D	0.524962153219883
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	11	19		#FD913D	0.546698135326446
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	12	19	endogenous	#FDAD4A	0.477657588835871
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	13	19	cueing|invalid|orienting	#FECB68	0.36697448783091
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	14	19		#FDAD4A	0.484177855527703
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	15	19	multisensory	#FDAD4A	0.479795251587403
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	16	19		#FDAD4A	0.494333877130448
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	17	19	shifts	#FDAD4A	0.478255544425081
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	18	19	covert	#FECB68	0.350828194595317
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	19	19		#FD913D	0.52827632438827
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	20	19	preparation	#FD913D	0.547657063163751
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	21	19	discrimination|training	#FD913D	0.563778976035713
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	22	19	sequences	#FDAD4A	0.450422489064177
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	23	19		#FC622F	0.69173569165421
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	1	20	personal|self|selfreferential|trait|traits	#FEE188	0.224494164660948
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	2	20	empathic|theory	#FECB68	0.331594902230374
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	3	20	attribution|intentional	#FEE188	0.202323172855255
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	4	20	elderly|oscillations	#FEE188	0.227021406270748
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	5	20	antipsychotic|virtual	#F03623	0.748337212969718
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	6	20		#FC622F	0.676804405542137
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	7	20	experiences	#FECB68	0.300871040022028
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	8	20	categorical|pressure	#FECB68	0.363782965714527
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	9	20	play|skills	#FD913D	0.501275249843771
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	10	20	automatic|trained	#FECB68	0.321700909321458
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	11	20		#FDAD4A	0.462540139735196
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	12	20	practice	#FD913D	0.514868171039539
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	13	20	visuomotor	#FDAD4A	0.465988685624298
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	14	20		#FD913D	0.511529851053525
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	15	20	tool	#FEE188	0.273365331803125
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	16	20	vision	#FECB68	0.365908505062971
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	17	20	visually	#FD913D	0.559947887863849
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	18	20	saccade|saccades|saccadic	#FDAD4A	0.464273059872959
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	19	20	locations	#FECB68	0.349947629442333
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	20	20	imagery|planning	#FDAD4A	0.465891538257485
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	21	20		#FC622F	0.607038920931689
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	22	20	rest	#FC622F	0.601240606024596
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	23	20	sequence	#FD913D	0.592244965562979
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	1	21	scenarios	#FFFFCC	0.0807057489185534
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	2	21	intention|intentions	#FECB68	0.311358243730231
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	3	21	causality|perspective	#FFF1A9	0.193528855518681
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	4	21	past	#FFFFCC	0.0588630382345689
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	5	21		#FC622F	0.666248445365289
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	6	21	episode	#FEE188	0.270364648832931
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	7	21	improvement	#FEE188	0.202240240846332
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	8	21	masking|retention	#B10026	1
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	9	21		#FD913D	0.579234572891632
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	10	21	dominant	#FECB68	0.334777969804556
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	11	21		#FDAD4A	0.448507790109692
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	12	21	sequential	#FECB68	0.306838037266226
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	13	21	fingers	#FDAD4A	0.405988508050659
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	14	21		#FDAD4A	0.42266011758035
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	15	21	gesture|gestures	#FEE188	0.203009708175459
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	16	21		#FDAD4A	0.470377327315411
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	17	21	hands	#FDAD4A	0.468047549770693
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	18	21		#FD913D	0.571834524151619
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	19	21		#FD913D	0.54240376435526
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	20	21	eye|position	#FC622F	0.62824577972936
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	21	21	execution	#FDAD4A	0.494362332519638
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	22	21	finger|sensorimotor	#FD913D	0.583282042845883
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	23	21		#FD913D	0.580945726663739
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	1	22	moral|stories|story	#FFF1A9	0.145906924334165
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	2	22	mentalizing|persons	#FFF1A9	0.174740390528598
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	3	22	default|restingstate	#FEE188	0.199586859346157
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	4	22	thinking|thought|thoughts	#FEE188	0.267389522623744
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	5	22	spontaneous	#FD913D	0.516452535535146
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	6	22	concentration|sensations	#F03623	0.706877392498826
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	7	22	hierarchical|preference	#FEE188	0.235736041270518
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	8	22	effort|oral|simulation	#FD913D	0.587365936212936
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	9	22	interhemispheric|plasticity	#FECB68	0.337680634964412
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	10	22	imagined|imagine	#FDAD4A	0.431560979111287
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	11	22	tapping	#FDAD4A	0.457144119450203
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	12	22	foot|muscle|muscles|voluntary	#FECB68	0.325734310044676
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	13	22	limb	#FEE188	0.280065377594941
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	14	22	eyes|velocity	#FDAD4A	0.406098077888203
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	15	22	biological|gaze|videos	#FEE188	0.230842291252649
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	16	22	body	#FECB68	0.393610192928763
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	17	22	grasping|orientation|reaching	#FDAD4A	0.482100987781857
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	18	22		#FD913D	0.577705726328702
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	19	22	mirror|shape	#FDAD4A	0.455855301503107
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	20	22	actions	#FECB68	0.356425183119166
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	21	22	action	#FD913D	0.537266278254407
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	22	22		#FD913D	0.567125683093414
+ba8acd7f-6907-3e40-95dd-919bf45ad2a6	Chechlacz M	23	22	hand|movements|sensory	#FD913D	0.51933733852
