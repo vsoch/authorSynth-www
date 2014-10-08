@@ -252,6 +252,15 @@ $(function() {
  //                   .attr("transform", "translate(0," + 0 + ")")
  //                   .call(xAxis);
 
+                    // Here is a second tooltips function for the circles
+                    var tipc = d3.tip()
+                      .attr('class', 'd3-tip')
+                      .offset([-10, 0])
+                      .html(function(d) {return "<span style='color:tomato'>" + d["COLLABORATOR"] + "</span>"})
+
+                // Call tooltips function
+                msvg.call(tipc);
+
                     var circles = msvg.selectAll("circle")
                          .data(scores)
                          .enter()
@@ -261,6 +270,8 @@ $(function() {
                          .attr("cx", function(d,i){ return xScale(d["MATCHSCORE"]); })
                          .attr("cy", function(d,i) { return i*20+20 } )
                          .attr("r", function(d,i) { return rScale(d["RUNNING_SCORE"])})
+                         .on('mouseout.tipc', tipc.hide)
+                         .on('mouseover.tipc', tipc.show)
                          .style("fill", function(d) { 
                              if (d["ACTUAL_COLLABORATOR"] == "0"){ return "orange"}
                              else { return "red"}
@@ -481,7 +492,7 @@ $(function() {
                     .attr("height",h)
                     .attr("width",w)
            
-                // This is a function for tooltips
+                // This is a function for tooltips - brain lattice
                 var tip = d3.tip()
                     .attr('class', 'd3-tip')
                     .offset([-10, 0])
