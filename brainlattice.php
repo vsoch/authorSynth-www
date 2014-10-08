@@ -98,6 +98,69 @@
               top: 100%;
               left: 0;
             }
+
+           /* Here is for the mouse over effect */
+           ul.enlarge {
+              list-style-type:none; /*remove the bullet point*/
+           }
+           ul.enlarge li {
+             display:inline-block; /*places the images in a line*/
+             position: relative; 
+             z-index: 0; 
+             margin:10px 10px 5px 5px; /*space between the images*/
+           }
+
+           ul.enlarge span{
+             position:absolute; /*see support section for more info on positioning*/
+             left: -9999px; /*moves the span off the page, effectively hidding it from view*/
+           }
+
+           ul.enlarge img{
+             background-color:#eae9d4; /*frame colour*/
+             padding: 6px; /*frame size*/
+              -webkit-box-shadow: 0 0 6px rgba(132, 132, 132, .75);
+              -moz-box-shadow: 0 0 6px rgba(132, 132, 132, .75);
+               box-shadow: 0 0 6px rgba(132, 132, 132, .75);
+               -webkit-border-radius: 4px;
+               -moz-border-radius: 4px; 
+                border-radius: 4px;
+           }
+
+          ul.enlarge li:hover{
+             z-index: 50; 
+             cursor:pointer; /*changes the cursor to a hand*/
+           }
+          ul.enlarge li:hover span{ 
+             top: -300px; 
+             left: -20px; 
+          }
+          ul.enlarge li:hover:nth-child(2) span{
+             left: -100px; 
+          }
+          ul.enlarge li:hover:nth-child(3) span{
+             left: -200px; 
+          }
+
+          ul.enlarge span img{
+             padding: 2px; /*size of the frame*/
+             background: #FAFAFA; /*colour of the frame*/
+          }
+          
+          ul.enlarge span{
+             padding: 10px; /*size of the frame*/
+             background:#FAFAFA; /*colour of the frame*/
+               -webkit-box-shadow: 0 0 20px rgba(0,0,0, .75));
+               -moz-box-shadow: 0 0 20px rgba(0,0,0, .75);
+                box-shadow: 0 0 20px rgba(0,0,0, .75);
+               -webkit-border-radius: 8px;
+               -moz-border-radius: 8px;
+                border-radius:8px;
+                font-family: 'Droid Sans', sans-serif; /*Droid Sans is available from Google fonts*/
+                font-size:.9em;
+                text-align: center;
+                color: #495a62;
+}
+
         </style>
 
     </head>
@@ -137,7 +200,10 @@ $(function() {
             <div class="row">
 
                   <h1 style="padding-left:30px; padding-top:50px;">Matched Authors</h1>
-                  <p>Below are the top authors matched to the node you selected, with a Z score > 1.96 for all match scores.</p>
+                  <p style="padding-left:30px;">Below are the top authors matched to the node you selected, with a Z score > 1.96 for all match scores.  The search is limited to return 50 results.</p>
+
+<!-- The pop up effect is done by putting the images in a list-->
+<ul class="enlarge">
 
 <!--Here we need to select data based on the author UID from the browser-->
 
@@ -150,7 +216,7 @@ $(function() {
          if($uid) {
             $uid = explode(",", $uid);
             foreach ($uid as $u) {
-               echo "<a href=\"author.php?uid=" . $u . "\"><img src=\"img/brainlatticethumb/" . $u . ".png\" width=100px/></a>\n";
+               echo "<li><a href=\"author.php?uid=" . $u . "\"><img src=\"img/brainlatticethumb/" . $u . ".png\" width=100px/></a>\n<span>\n<a href=\"author.php?uid=" . $u . "\"><img src=\"img/brainlatticethumb/" . $u . ".png\" /></a>\n</span></li>";
             }
         } 
         // if we don't'
@@ -158,7 +224,7 @@ $(function() {
                 echo "<p>Please Specify a valid set of author uids!</p>\n";
         }
 ?>
-
+</ul><!-- End list -->
      </div><!-- End row -->
 
         </div><!-- End container -->
