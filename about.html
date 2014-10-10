@@ -78,17 +78,8 @@ $(function() {
   <div id="container" class="container">
     <header>
 
-
-The web portal presents the user with two methods of entry to explore the data: a dynamic collaboration network, and an interactive brain lattice.  From the interactive brain lattice, the user can click a behavioral term to return a list of authors that are most highly matched to the node, meaning that the brain map that represents the author’s published work is similar to the NeuroSynth brain map for that term.  From the collaboration network the user can search for and go directly to a “Single Author View” page, which includes an “Author Brain Lattice” (Section 3.5.1), a list of similar authors (Section 3.5.2), and publications alongside activation coordinates that were used in the analysis (Section 3.5.3).  The collaboration network has links between PI nodes that represent actual collaborations, and coloring that reflects similarity of published activation reports.  
-
-We have created AuthorSynth, a novel web interface tool that both summarizes authors’ work based on activation reports, and qualitatively visualizes the work in an intuitive way - on a 2D, colorful brain lattice.  This work demonstrates that the integration of meta-analytical methods with machine learning and network analysis can provide what we believe to be a useful, relevant way to identify researchers with similar published work.  While the focus of this initial work is on the development of the tool’s infrastructure, the current web interface should be of interest to researchers with a substantial enough body of work to have publications in the database, and to researchers that are searching for collaboration opportunities.  We believe this work is an important step in the right direction to better harness methods from neuroimaging informatics to assist with collaboration to move the field move forward, and we are excited to pursue further analysis with our infrastructure.
-
-
-This simple framework will be a powerful starting point for greater analysis of the network itself, and for the development of advanced applications.  Future applications could identify gaps in the study of the brain based on published coordinates, generate institution-specific sub-networks, or map data and funding sources onto publications to better quantify the productivity of the neuroscience community as a whole.
-
-
     <h1 style="color: #666">What is AuthorSynth</h1>
-    <p>AuthorSynth is a prototype framework for neuroscience researchers to see and find collaborators.  It is a <a href="network.html">network</a> to show actual collaborations based on co-publication, and a <a href="lattice.html">brain lattice</a> to find researchers based on behavioral terms studied.  Both of these visualizations lay on top of a database of <a ref="#authors">single author contributions</a>. Read more about the <a href="#network">network</a>, the <a href="#lattice">brain lattice</a>, or the <a href="authors">single author contributions</a>.</p>
+    <p>AuthorSynth is a prototype framework for neuroscience researchers to see and find collaborators.  It is a <a href="network.html">network</a> to show actual collaborations based on co-publication, and a <a href="lattice.html">brain lattice</a> to find researchers based on behavioral terms studied.  Both of these visualizations lay on top of a database of <a ref="#authors">single author contributions</a>. Read more about the <a href="#network">network</a>, the <a href="#lattice">brain lattice</a>, or the <a href="#authors">single author contributions</a>.</p>
 <br><br>
 
 
@@ -101,25 +92,35 @@ This simple framework will be a powerful starting point for greater analysis of 
 
 <a name="lattice"></a>
     <h1 style="color: #666">What does the Brain Lattice show?</h1>
-    <p>The <a href="lattice.html">brain lattice</a> is a novel visualization strategy, a self-organizing map (SOM), that maps neuroscience author activation reports to 525 behaviorally relevant terms.  You can click on a node in the map to find researchers with published regional activation reports relevant to the term.  When you investigate an author on the individual level, the coloring of this map represents the similarity of the author's publications to each node, with darker colors corresponding to more highly similar.</p>
+    <p>The <a href="lattice.html">brain lattice</a> is a novel visualization strategy, a self-organizing map (SOM), that maps neuroscience author activation reports to 525 behaviorally relevant terms.  You can click on a node in the map to find researchers with published regional activation reports relevant to the term.  You will notice that "like" terms cluster together in the map, and the coloring is an arbitrary grouping to show this similarity.</p>
 <br>
-<a href="lattice.html"><img src="img/asFeature.png" width="400px" alt="Network"/></a>
-<br><br>
+<a href="lattice.html"><img src="img/brainlatticecolorful.png" width="400px" alt="Network"/></a>
+<br><br><br><br>
 
+<a name="authors"></a>
+    <h1 style="color: #666">The Single Author Contribution Pages</h1>
+    <p>The single author contribution pages are reachable by clicking on a behavioral term in the <a href="lattice.html">brain lattice</a>, or searching for an author in <a href="network.html">network</a> and clicking on the node. The pages include a <a href="#singlelattice">single author brain lattice</a>, a ranked <a href="#collaborators">collaborator list</a>, and detail about <a href="#pubs">publications and coordinates</a> in the database.</p>
+<br>
+<a name="singlelattice"></a>
+    <h1 style="color: #666">The Single Author Brain Lattice</h1>
+    <p>The single author brain lattice is equivalent in structure to the <a href="#lattice">portal brain lattice</a>, however the coloring of this map represents the similarity of the author's publications to each node, with darker colors corresponding to more highly similar.  For example, a researcher with published coordinates relevant to brain areas associated with "motor" in the <a href="http://www.neurosynth.org">NeuroSynth</a> database will have "hot" spots on the map around "motor."  The map as a whole represents the single researcher's contributions.  You can access these pages through the <a href="authors.html">author search page</a>, by clicking a node on the <a href="network.html">collaborator network</a>, or searching for a behavioral term on the <a href="lattice.html">brain lattice.</a></p>
+<img src="img/asFeature.png" width="400px" alt="Network"/></a>
+<br><br><br><br>
 
+<a name="collaborators"></a>
+    <h2 style="color: #666">Ranked Collaborator List</h2>
+    <p>The ranked list of similar authors is determined by finding authors with similar brain lattices, and therefore similar published work (a complete summary of our methods will be provided in a publication). The author in question is at the top of the list, followed by a list of other authors in the database ordered by most to least similar.  Next to each author name is a circle plotted along an x-axis that represents the similarity score: circles farther to the right correspond to lower similarity scores.  The circles are colored red (indicative of a collaboration), and orange (indicative of no collaboration) so that the user of the interface can quickly assess if the author in question is collaborating with researchers with similar published work.  A user of the interface can click on any of these circles to view the “Single Author View” for the author in question.</p>
+<img src="img/collaboratormatch.png" width="300px" alt="Network"/></a>
+<br><br><br><br>
 
-
-3.5.1 The Single Author Brain Lattice
-The single author brain lattice is equivalent in structure to the portal brain lattice, however instead of being colored to indicate similar portions of the map, it is colored by matching scores of the author brain map to each node.  An area of the map that is “hot” is indicative that the author’s published work is highly similar to the node in the SOM, and inspection of the behavioral-terms around this node provides a behavioral interpretation of the author’s work.  This single author brain lattice can also be interactively clicked to return authors highly matched to the node of interest.
-
-
-
-3.5.2 Similar Authors Based on Published Activation Coordinates
-The ranked list of similar authors defined based on having similar brain lattices and therefore similar published work (Section 2.3) is provided as a tab on the “Single Author View” page.  The author in question is at the top of the list, followed by a list of other authors in the database ordered by most to least similar.  Next to each author name is a circle plotted along an x-axis that represents the similarity score: circles farther to the right correspond to lower similarity scores.  The circles are colored red (indicative of a collaboration), and orange (indicative of no collaboration) so that the user of the interface can quickly assess if the author in question is collaborating with researchers with similar published work.  A user of the interface can click on any of these circles to view the “Single Author View” for the author in question.
-
-3.5.3 Publications and Activation Coordinates
-The “Single Author View” includes a tab for the author’s publications, including titles, full lists of authors, and links to the articles themselves.  The page also includes a 3D plot of the activation coordinates described in those papers that were used in the analysis.
-
+<a name="pubs"></a>
+    <h2 style="color: #666">Publications</h2>
+    <p>The “Single Author View” includes a tab for the author’s publications, including titles, full lists of authors, and links to the articles themselves.</p>
+<img src="img/publications.png" width="300px" alt="Network"/></a>
+<br><br><br><br>
+    <h2 style="color: #666">Coordinates</h2>
+<p>The page also includes a 3D plot of the activation coordinates described in those papers that were used in the analysis.</p>
+<img src="img/activationcoordinates.png" width="300px" alt="Network"/></a>
 
 
     </header>
