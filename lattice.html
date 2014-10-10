@@ -110,11 +110,15 @@ $(function() {
     $( "#searchField" ).autocomplete({
       source: json,
       select: function(event, ui) {
-        console.log(ui); 
+        var uid = ui.item.value;
+        ui.item.value = ui.item.label;
+        console.log(ui);
         $("#searchField").val(ui.item.label);
-        }
+        $('#searchField').append('<input type="hidden" name="uid" value="' + uid +  '" >').submit();
+      }
     });
   });
+
 
 </script>
 

@@ -121,7 +121,7 @@ $(function() {
       source: json,
       select: function(event, ui) {
         console.log(ui); 
-        $("#searchField").val(ui.item.label);
+        $("#searchField").val(ui.item.value);
         }
     });
   });
