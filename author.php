@@ -323,7 +323,6 @@ $(function() {
               <!-- PUBLICATIONS -->
               <div class="tab-pane" id="pubs">
                 <br><br>
-                <p>Here we should have links to publications for each author - or actually, it would be most transparent to have the actual coordinates and paper links that are used in the NeuroSynth database (the ones to create the map!)</p>
                <!-- We will use d3 to stick stuff here -->
                <table class="table table-hover">
                  <thead></thead>
