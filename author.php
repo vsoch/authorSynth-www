@@ -7,10 +7,6 @@
        <li><a href='lattice.html'><span>Brain Lattice</span></a></li>
        <li class='active'><a href='authors.html'><span>Authors</span></a></li>
        <li class='last'><a href='about.html'><span>About</span></a></li>
-       <li class="right"><form id ="searchForm" action="author.php" method="get">
-       <input id="searchField" name="uid">
-       <input type="submit">
-       </form></li>
       </ul>
     </div>
 
